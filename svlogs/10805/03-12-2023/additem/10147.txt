@@ -1,0 +1,18 @@
+BAG:ngocrong add 1xÁo sợi len lydo: Lấy từ body vào hành trang at 03/12/2023 12:32 PM
+BAG:ngocrong add 1xRada cấp 1 lydo: Lấy từ rương qua người at 03/12/2023 12:34 PM
+BAG:ngocrong add 1xCT Genma 02 lydo: Lấy từ body đệ vào hành trang at 03/12/2023 12:50 PM
+BAG:ngocrong add 1xĐổi đệ tử lydo: Mua từ cửa hàng at 03/12/2023 12:50 PM
+BAG:ngocrong add 2xĐổi đệ tử (old: 1) lydo: Mua từ cửa hàng at 03/12/2023 12:50 PM
+BAG:ngocrong add 3xĐổi đệ tử (old: 2) lydo: Mua từ cửa hàng at 03/12/2023 12:50 PM
+BAG:ngocrong add 1xRada cấp 1 lydo: Lấy từ body đệ vào hành trang at 03/12/2023 12:50 PM
+BAG:ngocrong add 1xĐổi đệ tử lydo: Mua từ cửa hàng at 03/12/2023 12:52 PM
+BAG:ngocrong add 2xĐổi đệ tử (old: 1) lydo: Mua từ cửa hàng at 03/12/2023 12:52 PM
+BAG:ngocrong add 1xCải trang mồn lèo lydo: Lấy từ body vào hành trang at 03/12/2023 2:04 PM
+BAG:ngocrong add 1xĐổi đệ tử lydo: Mua từ cửa hàng at 03/12/2023 2:14 PM
+BAG:ngocrong add 1xNâng cấp kỹ năng 1 đệ tử lydo: Mua từ cửa hàng at 03/12/2023 3:55 PM
+BAG:ngocrong add 2xNâng cấp kỹ năng 1 đệ tử (old: 1) lydo: Mua từ cửa hàng at 03/12/2023 3:55 PM
+BAG:ngocrong add 3xNâng cấp kỹ năng 1 đệ tử (old: 2) lydo: Mua từ cửa hàng at 03/12/2023 3:56 PM
+BAG:ngocrong add 4xNâng cấp kỹ năng 1 đệ tử (old: 3) lydo: Mua từ cửa hàng at 03/12/2023 3:56 PM
+BAG:ngocrong add 5xNâng cấp kỹ năng 1 đệ tử (old: 4) lydo: Mua từ cửa hàng at 03/12/2023 3:56 PM
+BAG:ngocrong add 6xNâng cấp kỹ năng 1 đệ tử (old: 5) lydo: Mua từ cửa hàng at 03/12/2023 3:56 PM
+BAG:ngocrong add 10xĐậu thần cấp 10 lydo: Thu hoạch đậu at 03/12/2023 3:58 PM

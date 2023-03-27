@@ -1,0 +1,90 @@
+BAG:trumkame remove Sách đấm Dragon lv2 lydo: Sách kĩ năng at 03/12/2023 1:31 PM
+BAG:trumkame remove Sách đấm Dragon lv3 lydo: Sách kĩ năng at 03/12/2023 1:31 PM
+BAG:trumkame remove Sách đấm Dragon lv4 lydo: Sách kĩ năng at 03/12/2023 1:31 PM
+BAG:trumkame remove Sách đấm Dragon lv5 lydo: Sách kĩ năng at 03/12/2023 1:31 PM
+BAG:trumkame remove Hoa hồng đỏ lydo: Tự Xóa vật phẩm at 03/12/2023 1:31 PM
+BAG:trumkame remove Hoa hồng vàng lydo: Tự Xóa vật phẩm at 03/12/2023 1:31 PM
+BAG:trumkame remove Hoa hồng xanh lydo: Tự Xóa vật phẩm at 03/12/2023 1:31 PM
+BAG:trumkame remove Đá Titan lydo: Tự Xóa vật phẩm at 03/12/2023 1:31 PM
+BAG:trumkame remove Đá Ruby lydo: Tự Xóa vật phẩm at 03/12/2023 1:31 PM
+BAG:trumkame remove Đá lục bảo lydo: Tự Xóa vật phẩm at 03/12/2023 1:31 PM
+BAG:trumkame remove Đá Saphia lydo: Tự Xóa vật phẩm at 03/12/2023 1:31 PM
+BAG:trumkame remove Ngọc Rồng 6 sao lydo: Tự Xóa vật phẩm at 03/12/2023 1:31 PM
+BAG:trumkame remove Sách Dịch Chuyển lv1 lydo: Sách kĩ năng at 03/12/2023 1:33 PM
+BAG:trumkame remove Sách Dịch Chuyển lv2 lydo: Sách kĩ năng at 03/12/2023 1:33 PM
+BAG:trumkame remove Sách Dịch Chuyển lv3 lydo: Sách kĩ năng at 03/12/2023 1:33 PM
+BAG:trumkame remove Sách Dịch Chuyển lv4 lydo: Sách kĩ năng at 03/12/2023 1:33 PM
+BAG:trumkame remove Sách Dịch Chuyển lv5 lydo: Sách kĩ năng at 03/12/2023 1:33 PM
+BAG:trumkame remove Sách Dịch Chuyển lv6 lydo: Sách kĩ năng at 03/12/2023 1:33 PM
+BAG:trumkame remove Sách Dịch Chuyển lv7 lydo: Sách kĩ năng at 03/12/2023 1:33 PM
+BAG:trumkame remove Sách Kamejoko lv1 lydo: Sách kĩ năng at 03/12/2023 1:34 PM
+BAG:trumkame remove Sách Kamejoko lv2 lydo: Sách kĩ năng at 03/12/2023 1:34 PM
+BAG:trumkame remove Sách Kamejoko lv3 lydo: Sách kĩ năng at 03/12/2023 1:34 PM
+BAG:trumkame remove Sách Kamejoko lv4 lydo: Sách kĩ năng at 03/12/2023 1:34 PM
+BAG:trumkame remove Sách Kamejoko lv5 lydo: Sách kĩ năng at 03/12/2023 1:34 PM
+BAG:trumkame remove Sách Kamejoko lv6 lydo: Sách kĩ năng at 03/12/2023 1:34 PM
+BAG:trumkame remove Sách Kamejoko lv7 lydo: Sách kĩ năng at 03/12/2023 1:34 PM
+BAG:trumkame remove Thái Dương Hạ San lv1 lydo: Sách kĩ năng at 03/12/2023 1:35 PM
+BAG:trumkame remove Thái Dương Hạ San lv2 lydo: Sách kĩ năng at 03/12/2023 1:35 PM
+BAG:trumkame remove Thái Dương Hạ San lv3 lydo: Sách kĩ năng at 03/12/2023 1:35 PM
+BAG:trumkame remove Thái Dương Hạ San lv4 lydo: Sách kĩ năng at 03/12/2023 1:35 PM
+BAG:trumkame remove Thái Dương Hạ San lv5 lydo: Sách kĩ năng at 03/12/2023 1:35 PM
+BAG:trumkame remove Thái Dương Hạ San lv6 lydo: Sách kĩ năng at 03/12/2023 1:35 PM
+BAG:trumkame remove Thái Dương Hạ San lv7 lydo: Sách kĩ năng at 03/12/2023 1:35 PM
+BAG:trumkame remove Sách Thôi Miên lv1 lydo: Tự Xóa vật phẩm at 03/12/2023 1:36 PM
+BAG:trumkame remove Sách Thôi Miên lv2 lydo: Tự Xóa vật phẩm at 03/12/2023 1:36 PM
+BAG:trumkame remove Sách Thôi Miên lv3 lydo: Tự Xóa vật phẩm at 03/12/2023 1:36 PM
+BAG:trumkame remove Sách Thôi Miên lv4 lydo: Tự Xóa vật phẩm at 03/12/2023 1:36 PM
+BAG:trumkame remove Sách Thôi Miên lv5 lydo: Tự Xóa vật phẩm at 03/12/2023 1:36 PM
+BAG:trumkame remove Sách Thôi Miên lv6 lydo: Tự Xóa vật phẩm at 03/12/2023 1:37 PM
+BAG:trumkame remove Sách Thôi Miên lv7 lydo: Tự Xóa vật phẩm at 03/12/2023 1:37 PM
+BAG:trumkame remove Khiên năng lượng lv1 lydo: Sách kĩ năng at 03/12/2023 1:37 PM
+BAG:trumkame remove Khiên năng lượng lv2 lydo: Sách kĩ năng at 03/12/2023 1:37 PM
+BAG:trumkame remove Khiên năng lượng lv3 lydo: Sách kĩ năng at 03/12/2023 1:37 PM
+BAG:trumkame remove Khiên năng lượng lv4 lydo: Sách kĩ năng at 03/12/2023 1:37 PM
+BAG:trumkame remove Khiên năng lượng lv5 lydo: Sách kĩ năng at 03/12/2023 1:37 PM
+BAG:trumkame remove Khiên năng lượng lv6 lydo: Sách kĩ năng at 03/12/2023 1:38 PM
+BAG:trumkame remove Khiên năng lượng lv7 lydo: Sách kĩ năng at 03/12/2023 1:38 PM
+BAG:trumkame remove 1xThỏi vàng lydo: Bán cho shop at 03/12/2023 1:40 PM
+BAG:trumkame remove 1xThỏi vàng lydo: Bán cho shop at 03/12/2023 1:40 PM
+BAG:trumkame remove 1xThỏi vàng lydo: Bán cho shop at 03/12/2023 1:40 PM
+BAG:trumkame remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/12/2023 1:55 PM
+BAG:trumkame remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/12/2023 2:12 PM
+BAG:trumkame remove 1xNâng cấp kỹ năng 1 đệ tử lydo: Dùng sách kĩ năng đệ tử at 03/12/2023 2:23 PM
+BAG:trumkame remove 1xNâng cấp kỹ năng 1 đệ tử lydo: Dùng sách kĩ năng đệ tử at 03/12/2023 2:24 PM
+BAG:trumkame remove 1xNâng cấp kỹ năng 1 đệ tử lydo: Dùng sách kĩ năng đệ tử at 03/12/2023 2:24 PM
+BAG:trumkame remove 1xNâng cấp kỹ năng 1 đệ tử lydo: Dùng sách kĩ năng đệ tử at 03/12/2023 2:24 PM
+BAG:trumkame remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/12/2023 2:25 PM
+BAG:trumkame remove 1xNâng cấp kỹ năng 1 đệ tử lydo: Dùng sách kĩ năng đệ tử at 03/12/2023 2:26 PM
+BAG:trumkame remove 1xNâng cấp kỹ năng 1 đệ tử lydo: Dùng sách kĩ năng đệ tử at 03/12/2023 2:26 PM
+BAG:trumkame remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/12/2023 2:26 PM
+BAG:trumkame remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/12/2023 2:27 PM
+BAG:trumkame remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/12/2023 2:27 PM
+BAG:trumkame remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/12/2023 2:28 PM
+BAG:trumkame remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/12/2023 2:28 PM
+BAG:trumkame remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/12/2023 2:29 PM
+BAG:trumkame remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/12/2023 2:29 PM
+BAG:trumkame remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/12/2023 2:30 PM
+BAG:trumkame remove Rada cấp 1 lydo: Mặc cho đệ tử at 03/12/2023 2:30 PM
+BAG:trumkame remove Nezuko lydo: Mặc cho đệ tử at 03/12/2023 2:30 PM
+BAG:trumkame remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/12/2023 2:34 PM
+BAG:trumkame remove Nezuko lydo: Mặc vào người at 03/12/2023 2:42 PM
+BAG:trumkame remove Ngọc Rồng 6 sao lydo: Tự Xóa vật phẩm at 03/12/2023 7:08 PM
+BAG:trumkame remove Ngọc Rồng 5 sao lydo: Tự Xóa vật phẩm at 03/12/2023 7:08 PM
+BAG:trumkame remove Sách đấm Dragon lv6 lydo: Sách kĩ năng at 03/12/2023 7:09 PM
+BAG:trumkame remove Sách đấm Dragon lv7 lydo: Sách kĩ năng at 03/12/2023 7:09 PM
+BAG:trumkame remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/12/2023 7:18 PM
+BAG:trumkame remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/12/2023 8:11 PM
+BAG:trumkame remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/12/2023 8:12 PM
+BAG:trumkame remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/12/2023 8:33 PM
+BAG:trumkame remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/12/2023 8:33 PM
+BAG:trumkame remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/12/2023 8:34 PM
+BAG:trumkame remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/12/2023 8:34 PM
+BAG:trumkame remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/12/2023 8:35 PM
+BAG:trumkame remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/12/2023 8:36 PM
+BAG:trumkame remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/12/2023 8:36 PM
+BAG:trumkame remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/12/2023 8:37 PM
+BAG:trumkame remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/12/2023 8:38 PM
+BAG:trumkame remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/12/2023 8:38 PM
+BAG:trumkame remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/12/2023 8:39 PM
+BAG:trumkame remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/12/2023 8:41 PM

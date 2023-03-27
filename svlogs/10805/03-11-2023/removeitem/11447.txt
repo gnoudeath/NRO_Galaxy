@@ -1,0 +1,166 @@
+BAG:mnsldll remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 03/11/2023 11:28 AM
+BAG:mnsldll remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 03/11/2023 11:29 AM
+BAG:mnsldll remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 03/11/2023 11:30 AM
+BAG:mnsldll remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 03/11/2023 11:31 AM
+BAG:mnsldll remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 03/11/2023 11:32 AM
+BAG:mnsldll remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 03/11/2023 11:33 AM
+BAG:mnsldll remove Thỏi vàng lydo: Cất vào rương at 03/11/2023 11:39 AM
+BAG:mnsldll remove Ngọc Rồng 3 sao lydo: Cất vào rương at 03/11/2023 11:39 AM
+BAG:mnsldll remove Quần vải đen lydo: Cất vào rương at 03/11/2023 11:39 AM
+BAG:mnsldll remove Quần vải đen lydo: Cất vào rương at 03/11/2023 11:39 AM
+BAG:mnsldll remove Áo vải 3 lỗ lydo: Cất vào rương at 03/11/2023 11:39 AM
+BAG:mnsldll remove Rada cấp 1 lydo: Cất vào rương at 03/11/2023 11:39 AM
+BAG:mnsldll remove Găng vải đen lydo: Cất vào rương at 03/11/2023 11:39 AM
+BAG:mnsldll remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 03/11/2023 11:39 AM
+BAG:mnsldll remove Viên Capsule đặc biệt lydo: Tự Xóa vật phẩm at 03/11/2023 11:40 AM
+BAG:mnsldll remove Rada cấp 1 lydo: Tự Xóa vật phẩm at 03/11/2023 11:40 AM
+BAG:mnsldll remove Áo vải 3 lỗ lydo: Tự Xóa vật phẩm at 03/11/2023 11:40 AM
+BAG:mnsldll remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 03/11/2023 11:40 AM
+BAG:mnsldll remove Rada cấp 1 lydo: Tự Xóa vật phẩm at 03/11/2023 11:41 AM
+BAG:mnsldll remove 1xMảnh Khủng long lydo: Dùng thẻ sưu tầm at 03/11/2023 11:41 AM
+BAG:mnsldll remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 03/11/2023 11:41 AM
+BAG:mnsldll remove Găng vải đen lydo: Tự Xóa vật phẩm at 03/11/2023 11:42 AM
+BAG:mnsldll remove Quần vải đen lydo: Tự Xóa vật phẩm at 03/11/2023 11:42 AM
+BAG:mnsldll remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 03/11/2023 11:42 AM
+BAG:mnsldll remove Quần vải đen lydo: Tự Xóa vật phẩm at 03/11/2023 11:42 AM
+BAG:mnsldll remove Giầy nhựa lydo: Tự Xóa vật phẩm at 03/11/2023 11:43 AM
+BAG:mnsldll remove Quần vải đen lydo: Tự Xóa vật phẩm at 03/11/2023 11:43 AM
+BAG:mnsldll remove Đá Ruby lydo: Tự Xóa vật phẩm at 03/11/2023 11:43 AM
+BAG:mnsldll remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 03/11/2023 11:43 AM
+BAG:mnsldll remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 03/11/2023 11:44 AM
+BAG:mnsldll remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 03/11/2023 11:45 AM
+BAG:mnsldll remove Gói 10 viên Capsule lydo: Tự Xóa vật phẩm at 03/11/2023 11:46 AM
+BAG:mnsldll remove Đá Ruby lydo: Tự Xóa vật phẩm at 03/11/2023 11:46 AM
+BAG:mnsldll remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 03/11/2023 11:46 AM
+BAG:mnsldll remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 03/11/2023 11:48 AM
+BAG:mnsldll remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 03/11/2023 11:48 AM
+BAG:mnsldll remove Quần vải đen lydo: Tự Xóa vật phẩm at 03/11/2023 11:49 AM
+BAG:mnsldll remove Đá Titan lydo: Tự Xóa vật phẩm at 03/11/2023 11:49 AM
+BAG:mnsldll remove Đá lục bảo lydo: Tự Xóa vật phẩm at 03/11/2023 11:49 AM
+BAG:mnsldll remove Quần vải đen lydo: Tự Xóa vật phẩm at 03/11/2023 11:50 AM
+BAG:mnsldll remove Quần vải đen lydo: Tự Xóa vật phẩm at 03/11/2023 11:50 AM
+BAG:mnsldll remove Giầy nhựa lydo: Tự Xóa vật phẩm at 03/11/2023 11:50 AM
+BAG:mnsldll remove 1xMảnh Khủng long lydo: Dùng thẻ sưu tầm at 03/11/2023 11:52 AM
+BAG:mnsldll remove Giầy nhựa lydo: Tự Xóa vật phẩm at 03/11/2023 11:53 AM
+BAG:mnsldll remove Quần vải đen lydo: Tự Xóa vật phẩm at 03/11/2023 11:53 AM
+BAG:mnsldll remove Rada cấp 1 lydo: Tự Xóa vật phẩm at 03/11/2023 11:53 AM
+BAG:mnsldll remove Giầy nhựa lydo: Tự Xóa vật phẩm at 03/11/2023 11:53 AM
+BAG:mnsldll remove Găng vải đen lydo: Tự Xóa vật phẩm at 03/11/2023 11:53 AM
+BAG:mnsldll remove Rada cấp 1 lydo: Tự Xóa vật phẩm at 03/11/2023 11:53 AM
+BAG:mnsldll remove Quần vải đen lydo: Tự Xóa vật phẩm at 03/11/2023 11:53 AM
+BAG:mnsldll remove Giầy nhựa lydo: Tự Xóa vật phẩm at 03/11/2023 11:53 AM
+BAG:mnsldll remove 1xĐậu thần cấp 7 lydo: Ăn đậu at 03/11/2023 11:54 AM
+BAG:mnsldll remove 1xĐậu thần cấp 7 lydo: Ăn đậu at 03/11/2023 11:54 AM
+BAG:mnsldll remove 1xĐậu thần cấp 7 lydo: Ăn đậu at 03/11/2023 11:54 AM
+BAG:mnsldll remove 1xĐậu thần cấp 7 lydo: Ăn đậu at 03/11/2023 11:54 AM
+BAG:mnsldll remove 1xĐậu thần cấp 7 lydo: Ăn đậu at 03/11/2023 11:54 AM
+BAG:mnsldll remove 1xĐậu thần cấp 7 lydo: Ăn đậu at 03/11/2023 11:55 AM
+BAG:mnsldll remove 1xĐậu thần cấp 7 lydo: Ăn đậu at 03/11/2023 11:55 AM
+BAG:mnsldll remove 1xĐậu thần cấp 7 lydo: Ăn đậu at 03/11/2023 11:55 AM
+BAG:mnsldll remove 1xĐậu thần cấp 7 lydo: Ăn đậu at 03/11/2023 11:56 AM
+BAG:mnsldll remove 1xĐậu thần cấp 7 lydo: Ăn đậu at 03/11/2023 11:56 AM
+BAG:mnsldll remove 1xĐậu thần cấp 7 lydo: Ăn đậu at 03/11/2023 11:57 AM
+BAG:mnsldll remove 1xĐậu thần cấp 7 lydo: Ăn đậu at 03/11/2023 11:57 AM
+BAG:mnsldll remove Cải trang Chill cấp 2 lydo: Mặc vào người at 03/11/2023 12:00 PM
+BAG:mnsldll remove 1xNâng cấp kỹ năng 1 đệ tử lydo: Dùng sách kĩ năng đệ tử at 03/11/2023 12:03 PM
+BAG:mnsldll remove 1xĐậu thần cấp 7 lydo: Ăn đậu at 03/11/2023 12:04 PM
+BAG:mnsldll remove 1xĐậu thần cấp 7 lydo: Ăn đậu at 03/11/2023 12:04 PM
+BAG:mnsldll remove Nâng cấp kỹ năng 2 đệ tử lydo: Cất vào rương at 03/11/2023 12:55 PM
+BAG:mnsldll remove 100xThỏi vàng lydo: Mua đồ hủy diệt at 03/11/2023 12:55 PM
+BAG:mnsldll remove 1xĐậu thần cấp 7 lydo: Ăn đậu at 03/11/2023 12:58 PM
+BAG:mnsldll remove 1xĐậu thần cấp 7 lydo: Ăn đậu at 03/11/2023 12:58 PM
+BAG:mnsldll remove 1xĐậu thần cấp 7 lydo: Ăn đậu at 03/11/2023 4:41 PM
+BAG:mnsldll remove 1xMảnh Khủng long lydo: Dùng thẻ sưu tầm at 03/11/2023 4:44 PM
+BAG:mnsldll remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 03/11/2023 4:44 PM
+BAG:mnsldll remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 03/11/2023 4:44 PM
+BAG:mnsldll remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 03/11/2023 4:45 PM
+BAG:mnsldll remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 03/11/2023 4:46 PM
+BAG:mnsldll remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 03/11/2023 4:46 PM
+BAG:mnsldll remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 03/11/2023 4:46 PM
+BAG:mnsldll remove Cải Trang Thần Zeno Trái Đất lydo: Mặc vào người at 03/11/2023 4:46 PM
+BAG:mnsldll remove 1xĐậu thần cấp 7 lydo: Ăn đậu at 03/11/2023 4:48 PM
+BAG:mnsldll remove 1xĐậu thần cấp 7 lydo: Ăn đậu at 03/11/2023 4:48 PM
+BAG:mnsldll remove 1xĐậu thần cấp 7 lydo: Ăn đậu at 03/11/2023 4:50 PM
+BAG:mnsldll remove Sách đấm Dragon lv2 lydo: Sách kĩ năng at 03/11/2023 4:50 PM
+BAG:mnsldll remove Sách đấm Dragon lv3 lydo: Sách kĩ năng at 03/11/2023 4:50 PM
+BAG:mnsldll remove Đá Titan lydo: Tự Xóa vật phẩm at 03/11/2023 4:50 PM
+BAG:mnsldll remove Đá lục bảo lydo: Tự Xóa vật phẩm at 03/11/2023 4:50 PM
+BAG:mnsldll remove Sách đấm Dragon lv4 lydo: Sách kĩ năng at 03/11/2023 4:50 PM
+BAG:mnsldll remove Sách đấm Dragon lv5 lydo: Sách kĩ năng at 03/11/2023 4:50 PM
+BAG:mnsldll remove Sách đấm Dragon lv6 lydo: Sách kĩ năng at 03/11/2023 4:50 PM
+BAG:mnsldll remove Sách đấm Dragon lv7 lydo: Sách kĩ năng at 03/11/2023 4:50 PM
+BAG:mnsldll remove 1xThỏi vàng lydo: Bán cho shop at 03/11/2023 4:51 PM
+BAG:mnsldll remove 1xThỏi vàng lydo: Bán cho shop at 03/11/2023 4:51 PM
+BAG:mnsldll remove Sách Kamejoko lv1 lydo: Sách kĩ năng at 03/11/2023 4:51 PM
+BAG:mnsldll remove Sách Kamejoko lv2 lydo: Sách kĩ năng at 03/11/2023 4:51 PM
+BAG:mnsldll remove Sách Kamejoko lv3 lydo: Sách kĩ năng at 03/11/2023 4:51 PM
+BAG:mnsldll remove Sách Kamejoko lv4 lydo: Sách kĩ năng at 03/11/2023 4:51 PM
+BAG:mnsldll remove Sách Kamejoko lv5 lydo: Sách kĩ năng at 03/11/2023 4:51 PM
+BAG:mnsldll remove Sách Kamejoko lv6 lydo: Sách kĩ năng at 03/11/2023 4:51 PM
+BAG:mnsldll remove Sách Kamejoko lv7 lydo: Sách kĩ năng at 03/11/2023 4:51 PM
+BAG:mnsldll remove 1xĐậu thần cấp 7 lydo: Ăn đậu at 03/11/2023 4:52 PM
+BAG:mnsldll remove 1xĐậu thần cấp 7 lydo: Ăn đậu at 03/11/2023 4:52 PM
+BAG:mnsldll remove 1xĐậu thần cấp 7 lydo: Ăn đậu at 03/11/2023 4:52 PM
+BAG:mnsldll remove 1xĐậu thần cấp 7 lydo: Ăn đậu at 03/11/2023 4:53 PM
+BAG:mnsldll remove 1xĐậu thần cấp 7 lydo: Ăn đậu at 03/11/2023 4:53 PM
+BAG:mnsldll remove 1xĐậu thần cấp 7 lydo: Ăn đậu at 03/11/2023 4:53 PM
+BAG:mnsldll remove 1xĐậu thần cấp 7 lydo: Ăn đậu at 03/11/2023 4:53 PM
+BAG:mnsldll remove 1xĐậu thần cấp 7 lydo: Ăn đậu at 03/11/2023 4:54 PM
+BAG:mnsldll remove 1xĐậu thần cấp 7 lydo: Ăn đậu at 03/11/2023 4:54 PM
+BAG:mnsldll remove 10xHoa hồng đỏ lydo: Đổi hoa at 03/11/2023 4:57 PM
+BAG:mnsldll remove 10xHoa hồng đỏ lydo: Đổi hoa at 03/11/2023 4:57 PM
+BAG:mnsldll remove 10xHoa hồng đỏ lydo: Đổi hoa at 03/11/2023 4:57 PM
+BAG:mnsldll remove 10xHoa hồng xanh lydo: Đổi hoa at 03/11/2023 4:57 PM
+BAG:mnsldll remove 10xHoa hồng xanh lydo: Đổi hoa at 03/11/2023 4:57 PM
+BAG:mnsldll remove 10xHoa hồng xanh lydo: Đổi hoa at 03/11/2023 4:57 PM
+BAG:mnsldll remove 10xHoa hồng vàng lydo: Đổi hoa at 03/11/2023 4:57 PM
+BAG:mnsldll remove Đá Titan lydo: Tự Xóa vật phẩm at 03/11/2023 4:57 PM
+BAG:mnsldll remove 10xHoa hồng vàng lydo: Đổi hoa at 03/11/2023 4:57 PM
+BAG:mnsldll remove 10xHoa hồng vàng lydo: Đổi hoa at 03/11/2023 4:57 PM
+BAG:mnsldll remove 10xHoa hồng vàng lydo: Đổi hoa at 03/11/2023 4:57 PM
+BAG:mnsldll remove 1xĐậu thần cấp 7 lydo: Ăn đậu at 03/11/2023 4:57 PM
+BAG:mnsldll remove Ngọc Rồng 6 sao lydo: Tự Xóa vật phẩm at 03/11/2023 4:59 PM
+BAG:mnsldll remove Găng vải đen lydo: Tự Xóa vật phẩm at 03/11/2023 4:59 PM
+BAG:mnsldll remove Rada cấp 1 lydo: Tự Xóa vật phẩm at 03/11/2023 5:00 PM
+BAG:mnsldll remove Cải trang Chill cấp 2 lydo: Tự Xóa vật phẩm at 03/11/2023 5:00 PM
+BAG:mnsldll remove 1xĐậu thần cấp 7 lydo: Ăn đậu at 03/11/2023 5:02 PM
+BAG:mnsldll remove 1xĐậu thần cấp 7 lydo: Ăn đậu at 03/11/2023 5:02 PM
+BAG:mnsldll remove 1xĐậu thần cấp 7 lydo: Ăn đậu at 03/11/2023 5:03 PM
+BAG:mnsldll remove 1xĐậu thần cấp 7 lydo: Ăn đậu at 03/11/2023 5:04 PM
+BAG:mnsldll remove 1xĐậu thần cấp 7 lydo: Ăn đậu at 03/11/2023 5:07 PM
+BAG:mnsldll remove Cải Trang Thần Zeno Trái Đất lydo: Mặc cho đệ tử at 03/11/2023 5:08 PM
+BAG:mnsldll remove Cải Trang Thần Zeno Trái Đất lydo: Mặc cho đệ tử at 03/11/2023 5:08 PM
+BAG:mnsldll remove 1xĐậu thần cấp 7 lydo: Ăn đậu at 03/11/2023 5:13 PM
+BAG:mnsldll remove 1xĐậu thần cấp 7 lydo: Ăn đậu at 03/11/2023 5:15 PM
+BAG:mnsldll remove Cải trang lydo: Mặc vào người at 03/11/2023 5:15 PM
+BAG:mnsldll remove 1xĐậu thần cấp 7 lydo: Ăn đậu at 03/11/2023 5:15 PM
+BAG:mnsldll remove 1xĐậu thần cấp 7 lydo: Ăn đậu at 03/11/2023 5:15 PM
+BAG:mnsldll remove 1xĐậu thần cấp 7 lydo: Ăn đậu at 03/11/2023 5:16 PM
+BAG:mnsldll remove 1xSao pha lê lydo: Ép ngọc rồng at 03/11/2023 5:17 PM
+BAG:mnsldll remove Cải trang lydo: Mặc vào người at 03/11/2023 5:17 PM
+BAG:mnsldll remove 1xĐậu thần cấp 7 lydo: Ăn đậu at 03/11/2023 5:18 PM
+BAG:mnsldll remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 03/11/2023 5:20 PM
+BAG:mnsldll remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 03/11/2023 5:20 PM
+BAG:mnsldll remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 03/11/2023 5:20 PM
+BAG:mnsldll remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 03/11/2023 5:20 PM
+BAG:mnsldll remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 03/11/2023 5:21 PM
+BAG:mnsldll remove Rada cấp 1 lydo: Mặc vào người at 03/11/2023 5:21 PM
+BAG:mnsldll remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 03/11/2023 5:22 PM
+BAG:mnsldll remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 03/11/2023 5:22 PM
+BAG:mnsldll remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 03/11/2023 5:22 PM
+BAG:mnsldll remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 03/11/2023 5:22 PM
+BAG:mnsldll remove Giầy nhựa lydo: Mặc vào người at 03/11/2023 5:23 PM
+BAG:mnsldll remove 1xĐậu thần cấp 7 lydo: Ăn đậu at 03/11/2023 5:23 PM
+BAG:mnsldll remove 1xĐậu thần cấp 7 lydo: Ăn đậu at 03/11/2023 5:24 PM
+BAG:mnsldll remove Đá Titan lydo: Tự Xóa vật phẩm at 03/11/2023 5:34 PM
+BAG:mnsldll remove Găng vải Kame lydo: Tự Xóa vật phẩm at 03/11/2023 5:36 PM
+BAG:mnsldll remove 1xĐậu thần cấp 7 lydo: Ăn đậu at 03/11/2023 5:41 PM
+BAG:mnsldll remove 1xGăng vải Kame lydo: Bán cho shop at 03/11/2023 5:43 PM
+BAG:mnsldll remove 1xGăng thun Kame lydo: Bán cho shop at 03/11/2023 5:43 PM
+BAG:mnsldll remove Đá Titan lydo: Tự Xóa vật phẩm at 03/11/2023 5:46 PM
+BAG:mnsldll remove Đá lục bảo lydo: Tự Xóa vật phẩm at 03/11/2023 5:46 PM
+BAG:mnsldll remove 1xĐậu thần cấp 7 lydo: Ăn đậu at 03/11/2023 5:46 PM
+BAG:mnsldll remove Đá lục bảo lydo: Tự Xóa vật phẩm at 03/11/2023 5:52 PM
+BAG:mnsldll remove 1xĐậu thần cấp 7 lydo: Ăn đậu at 03/11/2023 6:33 PM
+BAG:mnsldll remove 1xĐậu thần cấp 7 lydo: Ăn đậu at 03/11/2023 6:33 PM
+BAG:mnsldll remove 1xĐậu thần cấp 7 lydo: Ăn đậu at 03/11/2023 6:33 PM

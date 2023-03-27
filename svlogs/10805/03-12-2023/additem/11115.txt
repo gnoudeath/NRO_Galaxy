@@ -1,0 +1,57 @@
+BAG:lxqt2009 add 1071xHoa hồng đỏ (old: 1070) lydo: Nhặt từ map at 03/12/2023 6:36 AM
+BAG:lxqt2009 add 1072xHoa hồng đỏ (old: 1071) lydo: Nhặt từ map at 03/12/2023 6:36 AM
+BAG:lxqt2009 add 1315xHoa hồng vàng (old: 1314) lydo: Nhặt từ map at 03/12/2023 6:36 AM
+BAG:lxqt2009 add 69xĐá Titan (old: 68) lydo: Nhặt từ map at 03/12/2023 6:36 AM
+BAG:lxqt2009 add 1034xHoa hồng xanh (old: 1033) lydo: Nhặt từ map at 03/12/2023 6:36 AM
+BAG:lxqt2009 add 1035xHoa hồng xanh (old: 1034) lydo: Nhặt từ map at 03/12/2023 6:36 AM
+BAG:lxqt2009 add 1316xHoa hồng vàng (old: 1315) lydo: Nhặt từ map at 03/12/2023 6:37 AM
+BAG:lxqt2009 add 1317xHoa hồng vàng (old: 1316) lydo: Nhặt từ map at 03/12/2023 6:37 AM
+BAG:lxqt2009 add 1036xHoa hồng xanh (old: 1035) lydo: Nhặt từ map at 03/12/2023 6:37 AM
+BAG:lxqt2009 add 1037xHoa hồng xanh (old: 1036) lydo: Nhặt từ map at 03/12/2023 6:37 AM
+BAG:lxqt2009 add 1073xHoa hồng đỏ (old: 1072) lydo: Nhặt từ map at 03/12/2023 6:40 AM
+BAG:lxqt2009 add 1074xHoa hồng đỏ (old: 1073) lydo: Nhặt từ map at 03/12/2023 6:40 AM
+BAG:lxqt2009 add 1038xHoa hồng xanh (old: 1037) lydo: Nhặt từ map at 03/12/2023 6:40 AM
+BAG:lxqt2009 add 1039xHoa hồng xanh (old: 1038) lydo: Nhặt từ map at 03/12/2023 6:40 AM
+BAG:lxqt2009 add 1318xHoa hồng vàng (old: 1317) lydo: Nhặt từ map at 03/12/2023 6:41 AM
+BAG:lxqt2009 add 1075xHoa hồng đỏ (old: 1074) lydo: Nhặt từ map at 03/12/2023 6:41 AM
+BAG:lxqt2009 add 1076xHoa hồng đỏ (old: 1075) lydo: Nhặt từ map at 03/12/2023 6:42 AM
+BAG:lxqt2009 add 1xRada cấp 1 lydo: Lấy từ rương qua người at 03/12/2023 6:43 AM
+BAG:lxqt2009 add 1xÁo vải 3 lỗ lydo: Lấy từ rương qua người at 03/12/2023 6:43 AM
+BAG:lxqt2009 add 1xRada cấp 1 lydo: Lấy từ rương qua người at 03/12/2023 6:43 AM
+BAG:lxqt2009 add 1xÁo da Calic lydo: Mua từ cửa hàng at 03/12/2023 6:44 AM
+BAG:lxqt2009 add 1xQuần vàng Goku lydo: Mua từ cửa hàng at 03/12/2023 6:45 AM
+BAG:lxqt2009 add 1xQuần da Calic lydo: Mua từ cửa hàng at 03/12/2023 6:45 AM
+BAG:lxqt2009 add 1xGăng vàng Goku lydo: Mua từ cửa hàng at 03/12/2023 6:45 AM
+BAG:lxqt2009 add 1xGiày da Calic lydo: Mua từ cửa hàng at 03/12/2023 6:46 AM
+BAG:lxqt2009 add 1077xHoa hồng đỏ (old: 1076) lydo: Nhặt từ map at 03/12/2023 6:47 AM
+BAG:lxqt2009 add 1xNâng cấp kỹ năng 2 đệ tử lydo: Mua từ cửa hàng at 03/12/2023 6:47 AM
+BAG:lxqt2009 add 2xNâng cấp kỹ năng 2 đệ tử (old: 1) lydo: Mua từ cửa hàng at 03/12/2023 6:47 AM
+BAG:lxqt2009 add 3xNâng cấp kỹ năng 2 đệ tử (old: 2) lydo: Mua từ cửa hàng at 03/12/2023 6:47 AM
+BAG:lxqt2009 add 4xNâng cấp kỹ năng 2 đệ tử (old: 3) lydo: Mua từ cửa hàng at 03/12/2023 6:47 AM
+BAG:lxqt2009 add 5xNâng cấp kỹ năng 2 đệ tử (old: 4) lydo: Mua từ cửa hàng at 03/12/2023 6:47 AM
+BAG:lxqt2009 add 1319xHoa hồng vàng (old: 1318) lydo: Nhặt từ map at 03/12/2023 6:47 AM
+BAG:lxqt2009 add 6xNâng cấp kỹ năng 2 đệ tử (old: 5) lydo: Mua từ cửa hàng at 03/12/2023 6:47 AM
+BAG:lxqt2009 add 1xĐặt tên đệ tử lydo: Mua từ cửa hàng at 03/12/2023 6:47 AM
+BAG:lxqt2009 add 1078xHoa hồng đỏ (old: 1077) lydo: Nhặt từ map at 03/12/2023 6:48 AM
+BAG:lxqt2009 add 1040xHoa hồng xanh (old: 1039) lydo: Nhặt từ map at 03/12/2023 6:48 AM
+BAG:lxqt2009 add 1xĐá Saphia lydo: Nhặt từ map at 03/12/2023 6:48 AM
+BAG:lxqt2009 add 1079xHoa hồng đỏ (old: 1078) lydo: Nhặt từ map at 03/12/2023 6:48 AM
+BAG:lxqt2009 add 1080xHoa hồng đỏ (old: 1079) lydo: Nhặt từ map at 03/12/2023 7:19 AM
+BAG:lxqt2009 add 1320xHoa hồng vàng (old: 1319) lydo: Nhặt từ map at 03/12/2023 7:19 AM
+BAG:lxqt2009 add 1041xHoa hồng xanh (old: 1040) lydo: Nhặt từ map at 03/12/2023 7:19 AM
+BAG:lxqt2009 add 1081xHoa hồng đỏ (old: 1080) lydo: Nhặt từ map at 03/12/2023 7:19 AM
+BAG:lxqt2009 add 49xĐá thạch anh tím (old: 48) lydo: Nhặt từ map at 03/12/2023 7:19 AM
+BAG:lxqt2009 add 1042xHoa hồng xanh (old: 1041) lydo: Nhặt từ map at 03/12/2023 7:20 AM
+BAG:lxqt2009 add 1321xHoa hồng vàng (old: 1320) lydo: Nhặt từ map at 03/12/2023 7:20 AM
+BAG:lxqt2009 add 1322xHoa hồng vàng (old: 1321) lydo: Nhặt từ map at 03/12/2023 7:35 AM
+BAG:lxqt2009 add 1xÁo jean Calic lydo: Mua từ cửa hàng at 03/12/2023 7:52 AM
+BAG:lxqt2009 add 1xQuần jean Calic lydo: Mua từ cửa hàng at 03/12/2023 7:53 AM
+BAG:lxqt2009 add 1xGiày jean Calic lydo: Mua từ cửa hàng at 03/12/2023 7:53 AM
+BAG:lxqt2009 add 1xGiày jean Calic lydo: Mua từ cửa hàng at 03/12/2023 7:54 AM
+BAG:lxqt2009 add 1xGiày da Calic lydo: Mua từ cửa hàng at 03/12/2023 7:54 AM
+BAG:lxqt2009 add 1xGăng da Calic lydo: Mua từ cửa hàng at 03/12/2023 8:07 AM
+BAG:lxqt2009 add 1082xHoa hồng đỏ (old: 1081) lydo: Nhặt từ map at 03/12/2023 8:08 AM
+BAG:lxqt2009 add 1323xHoa hồng vàng (old: 1322) lydo: Nhặt từ map at 03/12/2023 8:08 AM
+BAG:lxqt2009 add 50xĐá thạch anh tím (old: 49) lydo: Nhặt từ map at 03/12/2023 8:08 AM
+BAG:lxqt2009 add 1043xHoa hồng xanh (old: 1042) lydo: Nhặt từ map at 03/12/2023 8:27 AM
+BAG:lxqt2009 add 1324xHoa hồng vàng (old: 1323) lydo: Nhặt từ map at 03/12/2023 9:43 AM

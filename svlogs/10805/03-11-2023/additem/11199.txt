@@ -1,0 +1,40 @@
+BAG:truyendzai add 12xBó hoa hồng đỏ (old: 11) lydo: Đổi bó hoa hồng đỏ at 03/11/2023 6:39 AM
+BAG:truyendzai add 11xBó hoa hồng xanh (old: 10) lydo: Đổi bó hoa hồng xanh at 03/11/2023 6:39 AM
+BAG:truyendzai add 15xBó hoa hồng vàng (old: 14) lydo: Đổi bó hoa hồng đỏ at 03/11/2023 6:39 AM
+BAG:truyendzai add 13xBó hoa hồng đỏ (old: 12) lydo: Đổi bó hoa hồng đỏ at 03/11/2023 6:39 AM
+BAG:truyendzai add 14xBó hoa hồng đỏ (old: 13) lydo: Đổi bó hoa hồng đỏ at 03/11/2023 6:39 AM
+BAG:truyendzai add 16xBó hoa hồng vàng (old: 15) lydo: Đổi bó hoa hồng đỏ at 03/11/2023 6:39 AM
+BAG:truyendzai add 13xHoa hồng vàng (old: 12) lydo: Nhặt từ map at 03/11/2023 6:41 AM
+BAG:truyendzai add 2xHoa hồng đỏ (old: 1) lydo: Nhặt từ map at 03/11/2023 6:41 AM
+BAG:truyendzai add 1xBông tai Porata lydo: Mua từ cửa hàng at 03/11/2023 6:41 AM
+BAG:truyendzai add 1xÁo vải thô lydo: Nhặt từ map at 03/11/2023 6:41 AM
+BAG:truyendzai add 1xQuần vải thô lydo: Nhặt từ map at 03/11/2023 6:42 AM
+BAG:truyendzai add 1xGăng vải thô lydo: Nhặt từ map at 03/11/2023 7:04 AM
+BAG:truyendzai add 14xHoa hồng vàng (old: 13) lydo: Nhặt từ map at 03/11/2023 7:04 AM
+BAG:truyendzai add 15xHoa hồng vàng (old: 14) lydo: Nhặt từ map at 03/11/2023 7:36 AM
+BAG:truyendzai add 6xHoa hồng xanh (old: 5) lydo: Nhặt từ map at 03/11/2023 7:36 AM
+BAG:truyendzai add 26xĐá lục bảo (old: 25) lydo: Nhặt từ map at 03/11/2023 7:36 AM
+BAG:truyendzai add 3xHoa hồng đỏ (old: 2) lydo: Nhặt từ map at 03/11/2023 7:37 AM
+BAG:truyendzai add 7xHoa hồng xanh (old: 6) lydo: Nhặt từ map at 03/11/2023 7:37 AM
+BAG:truyendzai add 4xHoa hồng đỏ (old: 3) lydo: Nhặt từ map at 03/11/2023 7:38 AM
+BAG:truyendzai add 18xĐá thạch anh tím (old: 17) lydo: Nhặt từ map at 03/11/2023 7:39 AM
+BAG:truyendzai add 16xHoa hồng vàng (old: 15) lydo: Nhặt từ map at 03/11/2023 7:39 AM
+BAG:truyendzai add 17xHoa hồng vàng (old: 16) lydo: Nhặt từ map at 03/11/2023 7:40 AM
+BAG:truyendzai add 5xHoa hồng đỏ (old: 4) lydo: Nhặt từ map at 03/11/2023 7:40 AM
+BAG:truyendzai add 18xHoa hồng vàng (old: 17) lydo: Nhặt từ map at 03/11/2023 7:40 AM
+BAG:truyendzai add 18xĐá Saphia (old: 17) lydo: Nhặt từ map at 03/11/2023 7:41 AM
+BAG:truyendzai add 6xHoa hồng đỏ (old: 5) lydo: Nhặt từ map at 03/11/2023 7:41 AM
+BAG:truyendzai add 8xHoa hồng xanh (old: 7) lydo: Nhặt từ map at 03/11/2023 7:41 AM
+BAG:truyendzai add 7xHoa hồng đỏ (old: 6) lydo: Nhặt từ map at 03/11/2023 7:41 AM
+BAG:truyendzai add 9xHoa hồng xanh (old: 8) lydo: Nhặt từ map at 03/11/2023 7:41 AM
+BAG:truyendzai add 10xHoa hồng xanh (old: 9) lydo: Nhặt từ map at 03/11/2023 7:42 AM
+BAG:truyendzai add 8xHoa hồng đỏ (old: 7) lydo: Nhặt từ map at 03/11/2023 7:43 AM
+BAG:truyendzai add 27xĐá lục bảo (old: 26) lydo: Nhặt từ map at 03/11/2023 7:45 AM
+BAG:truyendzai add 9xHoa hồng đỏ (old: 8) lydo: Nhặt từ map at 03/11/2023 7:45 AM
+BAG:truyendzai add 28xĐá lục bảo (old: 27) lydo: Nhặt từ map at 03/11/2023 7:45 AM
+BAG:truyendzai add 10xHoa hồng đỏ (old: 9) lydo: Nhặt từ map at 03/11/2023 7:46 AM
+BAG:truyendzai add 19xHoa hồng vàng (old: 18) lydo: Nhặt từ map at 03/11/2023 7:46 AM
+BAG:truyendzai add 20xHoa hồng vàng (old: 19) lydo: Nhặt từ map at 03/11/2023 7:46 AM
+BAG:truyendzai add 11xHoa hồng đỏ (old: 10) lydo: Nhặt từ map at 03/11/2023 7:46 AM
+BAG:truyendzai add 11xHoa hồng xanh (old: 10) lydo: Nhặt từ map at 03/11/2023 7:47 AM
+BAG:truyendzai add 23xĐá Titan (old: 22) lydo: Nhặt từ map at 03/11/2023 7:47 AM

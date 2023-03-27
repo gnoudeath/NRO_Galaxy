@@ -1,0 +1,514 @@
+BAG:bipikcon add 1xÁo sợi len lydo: Lấy từ body vào hành trang at 03/12/2023 10:06 PM
+BAG:bipikcon add 1xQuần sợi len lydo: Lấy từ body vào hành trang at 03/12/2023 10:06 PM
+BAG:bipikcon add 1xGiầy sợi len lydo: Lấy từ body vào hành trang at 03/12/2023 10:06 PM
+BAG:bipikcon add 1xCải trang Chill cấp 2 lydo: Lấy từ body vào hành trang at 03/12/2023 10:13 PM
+BAG:bipikcon add 1xHoa hồng đỏ lydo: Nhặt từ map at 03/12/2023 10:14 PM
+BAG:bipikcon add 1xĐá lục bảo lydo: Nhặt từ map at 03/12/2023 10:14 PM
+BAG:bipikcon add 1xHoa hồng vàng lydo: Nhặt từ map at 03/12/2023 10:14 PM
+BAG:bipikcon add 1xHoa hồng xanh lydo: Nhặt từ map at 03/12/2023 10:14 PM
+BAG:bipikcon add 1xCải Trang Glaxy lydo: Lấy từ body vào hành trang at 03/12/2023 10:14 PM
+BAG:bipikcon add 2xHoa hồng đỏ (old: 1) lydo: Nhặt từ map at 03/12/2023 10:14 PM
+BAG:bipikcon add 1xĐá Titan lydo: Nhặt từ map at 03/12/2023 10:15 PM
+BAG:bipikcon add 2xHoa hồng vàng (old: 1) lydo: Nhặt từ map at 03/12/2023 10:15 PM
+BAG:bipikcon add 2xĐá lục bảo (old: 1) lydo: Nhặt từ map at 03/12/2023 10:15 PM
+BAG:bipikcon add 3xHoa hồng vàng (old: 2) lydo: Nhặt từ map at 03/12/2023 10:15 PM
+BAG:bipikcon add 1xĐá thạch anh tím lydo: Nhặt từ map at 03/12/2023 10:15 PM
+BAG:bipikcon add 2xHoa hồng xanh (old: 1) lydo: Nhặt từ map at 03/12/2023 10:15 PM
+BAG:bipikcon add 3xĐá lục bảo (old: 2) lydo: Nhặt từ map at 03/12/2023 10:16 PM
+BAG:bipikcon add 2xĐá Titan (old: 1) lydo: Nhặt từ map at 03/12/2023 10:16 PM
+BAG:bipikcon add 36xNgọc Rồng 6 sao (old: 35) lydo: Nhặt từ map at 03/12/2023 10:17 PM
+BAG:bipikcon add 1xĐá Saphia lydo: Nhặt từ map at 03/12/2023 10:17 PM
+BAG:bipikcon add 3xHoa hồng xanh (old: 2) lydo: Nhặt từ map at 03/12/2023 10:19 PM
+BAG:bipikcon add 1xMáy dò Capsule kì bí lydo: Mua từ cửa hàng at 03/12/2023 10:23 PM
+BAG:bipikcon add 2xMáy dò Capsule kì bí (old: 1) lydo: Mua từ cửa hàng at 03/12/2023 10:23 PM
+BAG:bipikcon add 1xViên Capsule kì bí lydo: Nhặt từ map at 03/12/2023 10:23 PM
+BAG:bipikcon add 2xViên Capsule kì bí (old: 1) lydo: Nhặt từ map at 03/12/2023 10:23 PM
+BAG:bipikcon add 4xHoa hồng xanh (old: 3) lydo: Nhặt từ map at 03/12/2023 10:23 PM
+BAG:bipikcon add 5xHoa hồng xanh (old: 4) lydo: Nhặt từ map at 03/12/2023 10:23 PM
+BAG:bipikcon add 3xHoa hồng đỏ (old: 2) lydo: Nhặt từ map at 03/12/2023 10:23 PM
+BAG:bipikcon add 3xViên Capsule kì bí (old: 2) lydo: Nhặt từ map at 03/12/2023 10:23 PM
+BAG:bipikcon add 4xViên Capsule kì bí (old: 3) lydo: Nhặt từ map at 03/12/2023 10:23 PM
+BAG:bipikcon add 4xHoa hồng vàng (old: 3) lydo: Nhặt từ map at 03/12/2023 10:23 PM
+BAG:bipikcon add 6xHoa hồng xanh (old: 5) lydo: Nhặt từ map at 03/12/2023 10:24 PM
+BAG:bipikcon add 13xNgọc Rồng 4 sao (old: 12) lydo: Nhặt từ map at 03/12/2023 10:24 PM
+BAG:bipikcon add 5xViên Capsule kì bí (old: 4) lydo: Nhặt từ map at 03/12/2023 10:24 PM
+BAG:bipikcon add 5xHoa hồng vàng (old: 4) lydo: Nhặt từ map at 03/12/2023 10:24 PM
+BAG:bipikcon add 16xNgọc Rồng 5 sao (old: 15) lydo: Nhặt từ map at 03/12/2023 10:24 PM
+BAG:bipikcon add 6xHoa hồng vàng (old: 5) lydo: Nhặt từ map at 03/12/2023 10:24 PM
+BAG:bipikcon add 4xHoa hồng đỏ (old: 3) lydo: Nhặt từ map at 03/12/2023 10:24 PM
+BAG:bipikcon add 6xViên Capsule kì bí (old: 5) lydo: Nhặt từ map at 03/12/2023 10:24 PM
+BAG:bipikcon add 4xĐá lục bảo (old: 3) lydo: Nhặt từ map at 03/12/2023 10:24 PM
+BAG:bipikcon add 7xHoa hồng xanh (old: 6) lydo: Nhặt từ map at 03/12/2023 10:24 PM
+BAG:bipikcon add 7xViên Capsule kì bí (old: 6) lydo: Nhặt từ map at 03/12/2023 10:24 PM
+BAG:bipikcon add 7xHoa hồng vàng (old: 6) lydo: Nhặt từ map at 03/12/2023 10:24 PM
+BAG:bipikcon add 8xHoa hồng xanh (old: 7) lydo: Nhặt từ map at 03/12/2023 10:24 PM
+BAG:bipikcon add 5xĐá lục bảo (old: 4) lydo: Nhặt từ map at 03/12/2023 10:24 PM
+BAG:bipikcon add 5xHoa hồng đỏ (old: 4) lydo: Nhặt từ map at 03/12/2023 10:24 PM
+BAG:bipikcon add 8xHoa hồng vàng (old: 7) lydo: Nhặt từ map at 03/12/2023 10:24 PM
+BAG:bipikcon add 14xNgọc Rồng 4 sao (old: 13) lydo: Nhặt từ map at 03/12/2023 10:24 PM
+BAG:bipikcon add 9xHoa hồng xanh (old: 8) lydo: Nhặt từ map at 03/12/2023 10:24 PM
+BAG:bipikcon add 9xHoa hồng vàng (old: 8) lydo: Nhặt từ map at 03/12/2023 10:24 PM
+BAG:bipikcon add 8xViên Capsule kì bí (old: 7) lydo: Nhặt từ map at 03/12/2023 10:24 PM
+BAG:bipikcon add 9xViên Capsule kì bí (old: 8) lydo: Nhặt từ map at 03/12/2023 10:24 PM
+BAG:bipikcon add 10xViên Capsule kì bí (old: 9) lydo: Nhặt từ map at 03/12/2023 10:24 PM
+BAG:bipikcon add 6xHoa hồng đỏ (old: 5) lydo: Nhặt từ map at 03/12/2023 10:24 PM
+BAG:bipikcon add 7xHoa hồng đỏ (old: 6) lydo: Nhặt từ map at 03/12/2023 10:25 PM
+BAG:bipikcon add 1xHoa hồng đỏ lydo: Nhặt từ map at 03/12/2023 10:25 PM
+BAG:bipikcon add 11xViên Capsule kì bí (old: 10) lydo: Nhặt từ map at 03/12/2023 10:25 PM
+BAG:bipikcon add 12xViên Capsule kì bí (old: 11) lydo: Nhặt từ map at 03/12/2023 10:25 PM
+BAG:bipikcon add 2xHoa hồng đỏ (old: 1) lydo: Nhặt từ map at 03/12/2023 10:25 PM
+BAG:bipikcon add 1xHoa hồng vàng lydo: Nhặt từ map at 03/12/2023 10:25 PM
+BAG:bipikcon add 3xHoa hồng đỏ (old: 2) lydo: Nhặt từ map at 03/12/2023 10:25 PM
+BAG:bipikcon add 1xHoa hồng xanh lydo: Nhặt từ map at 03/12/2023 10:25 PM
+BAG:bipikcon add 2xHoa hồng vàng (old: 1) lydo: Nhặt từ map at 03/12/2023 10:25 PM
+BAG:bipikcon add 15xNgọc Rồng 4 sao (old: 14) lydo: Nhặt từ map at 03/12/2023 10:25 PM
+BAG:bipikcon add 13xViên Capsule kì bí (old: 12) lydo: Nhặt từ map at 03/12/2023 10:25 PM
+BAG:bipikcon add 14xViên Capsule kì bí (old: 13) lydo: Nhặt từ map at 03/12/2023 10:25 PM
+BAG:bipikcon add 4xHoa hồng đỏ (old: 3) lydo: Nhặt từ map at 03/12/2023 10:25 PM
+BAG:bipikcon add 3xHoa hồng vàng (old: 2) lydo: Nhặt từ map at 03/12/2023 10:25 PM
+BAG:bipikcon add 15xViên Capsule kì bí (old: 14) lydo: Nhặt từ map at 03/12/2023 10:25 PM
+BAG:bipikcon add 2xHoa hồng xanh (old: 1) lydo: Nhặt từ map at 03/12/2023 10:25 PM
+BAG:bipikcon add 37xNgọc Rồng 6 sao (old: 36) lydo: Nhặt từ map at 03/12/2023 10:25 PM
+BAG:bipikcon add 4xHoa hồng vàng (old: 3) lydo: Nhặt từ map at 03/12/2023 10:25 PM
+BAG:bipikcon add 3xHoa hồng xanh (old: 2) lydo: Nhặt từ map at 03/12/2023 10:25 PM
+BAG:bipikcon add 16xViên Capsule kì bí (old: 15) lydo: Nhặt từ map at 03/12/2023 10:25 PM
+BAG:bipikcon add 17xViên Capsule kì bí (old: 16) lydo: Nhặt từ map at 03/12/2023 10:26 PM
+BAG:bipikcon add 5xHoa hồng vàng (old: 4) lydo: Nhặt từ map at 03/12/2023 10:26 PM
+BAG:bipikcon add 4xHoa hồng xanh (old: 3) lydo: Nhặt từ map at 03/12/2023 10:26 PM
+BAG:bipikcon add 6xHoa hồng vàng (old: 5) lydo: Nhặt từ map at 03/12/2023 10:26 PM
+BAG:bipikcon add 18xViên Capsule kì bí (old: 17) lydo: Nhặt từ map at 03/12/2023 10:26 PM
+BAG:bipikcon add 19xViên Capsule kì bí (old: 18) lydo: Nhặt từ map at 03/12/2023 10:26 PM
+BAG:bipikcon add 20xViên Capsule kì bí (old: 19) lydo: Nhặt từ map at 03/12/2023 10:26 PM
+BAG:bipikcon add 21xViên Capsule kì bí (old: 20) lydo: Nhặt từ map at 03/12/2023 10:26 PM
+BAG:bipikcon add 22xViên Capsule kì bí (old: 21) lydo: Nhặt từ map at 03/12/2023 10:26 PM
+BAG:bipikcon add 23xViên Capsule kì bí (old: 22) lydo: Nhặt từ map at 03/12/2023 10:26 PM
+BAG:bipikcon add 24xViên Capsule kì bí (old: 23) lydo: Nhặt từ map at 03/12/2023 10:26 PM
+BAG:bipikcon add 5xHoa hồng xanh (old: 4) lydo: Nhặt từ map at 03/12/2023 10:26 PM
+BAG:bipikcon add 5xHoa hồng đỏ (old: 4) lydo: Nhặt từ map at 03/12/2023 10:26 PM
+BAG:bipikcon add 25xViên Capsule kì bí (old: 24) lydo: Nhặt từ map at 03/12/2023 10:26 PM
+BAG:bipikcon add 26xViên Capsule kì bí (old: 25) lydo: Nhặt từ map at 03/12/2023 10:26 PM
+BAG:bipikcon add 7xHoa hồng vàng (old: 6) lydo: Nhặt từ map at 03/12/2023 10:26 PM
+BAG:bipikcon add 27xViên Capsule kì bí (old: 26) lydo: Nhặt từ map at 03/12/2023 10:26 PM
+BAG:bipikcon add 28xViên Capsule kì bí (old: 27) lydo: Nhặt từ map at 03/12/2023 10:26 PM
+BAG:bipikcon add 29xViên Capsule kì bí (old: 28) lydo: Nhặt từ map at 03/12/2023 10:26 PM
+BAG:bipikcon add 6xHoa hồng đỏ (old: 5) lydo: Nhặt từ map at 03/12/2023 10:26 PM
+BAG:bipikcon add 8xHoa hồng vàng (old: 7) lydo: Nhặt từ map at 03/12/2023 10:26 PM
+BAG:bipikcon add 9xHoa hồng vàng (old: 8) lydo: Nhặt từ map at 03/12/2023 10:26 PM
+BAG:bipikcon add 7xHoa hồng đỏ (old: 6) lydo: Nhặt từ map at 03/12/2023 10:26 PM
+BAG:bipikcon add 30xViên Capsule kì bí (old: 29) lydo: Nhặt từ map at 03/12/2023 10:27 PM
+BAG:bipikcon add 8xHoa hồng đỏ (old: 7) lydo: Nhặt từ map at 03/12/2023 10:27 PM
+BAG:bipikcon add 1xĐá Titan lydo: Nhặt từ map at 03/12/2023 10:27 PM
+BAG:bipikcon add 6xHoa hồng xanh (old: 5) lydo: Nhặt từ map at 03/12/2023 10:27 PM
+BAG:bipikcon add 31xViên Capsule kì bí (old: 30) lydo: Nhặt từ map at 03/12/2023 10:27 PM
+BAG:bipikcon add 1xĐá lục bảo lydo: Nhặt từ map at 03/12/2023 10:27 PM
+BAG:bipikcon add 1xĐá thạch anh tím lydo: Nhặt từ map at 03/12/2023 10:27 PM
+BAG:bipikcon add 32xViên Capsule kì bí (old: 31) lydo: Nhặt từ map at 03/12/2023 10:27 PM
+BAG:bipikcon add 33xViên Capsule kì bí (old: 32) lydo: Nhặt từ map at 03/12/2023 10:27 PM
+BAG:bipikcon add 2xĐá thạch anh tím (old: 1) lydo: Nhặt từ map at 03/12/2023 10:27 PM
+BAG:bipikcon add 7xHoa hồng xanh (old: 6) lydo: Nhặt từ map at 03/12/2023 10:27 PM
+BAG:bipikcon add 2xĐá Titan (old: 1) lydo: Nhặt từ map at 03/12/2023 10:27 PM
+BAG:bipikcon add 10xHoa hồng vàng (old: 9) lydo: Nhặt từ map at 03/12/2023 10:27 PM
+BAG:bipikcon add 8xHoa hồng xanh (old: 7) lydo: Nhặt từ map at 03/12/2023 10:27 PM
+BAG:bipikcon add 34xViên Capsule kì bí (old: 33) lydo: Nhặt từ map at 03/12/2023 10:27 PM
+BAG:bipikcon add 11xHoa hồng vàng (old: 10) lydo: Nhặt từ map at 03/12/2023 10:27 PM
+BAG:bipikcon add 1xHoa hồng đỏ lydo: Nhặt từ map at 03/12/2023 10:27 PM
+BAG:bipikcon add 1xHoa hồng vàng lydo: Nhặt từ map at 03/12/2023 10:27 PM
+BAG:bipikcon add 2xHoa hồng vàng (old: 1) lydo: Nhặt từ map at 03/12/2023 10:27 PM
+BAG:bipikcon add 3xHoa hồng vàng (old: 2) lydo: Nhặt từ map at 03/12/2023 10:27 PM
+BAG:bipikcon add 4xHoa hồng vàng (old: 3) lydo: Nhặt từ map at 03/12/2023 10:27 PM
+BAG:bipikcon add 2xHoa hồng đỏ (old: 1) lydo: Nhặt từ map at 03/12/2023 10:27 PM
+BAG:bipikcon add 35xViên Capsule kì bí (old: 34) lydo: Nhặt từ map at 03/12/2023 10:27 PM
+BAG:bipikcon add 1xHoa hồng đỏ lydo: Nhặt từ map at 03/12/2023 10:27 PM
+BAG:bipikcon add 1xHoa hồng vàng lydo: Nhặt từ map at 03/12/2023 10:27 PM
+BAG:bipikcon add 36xViên Capsule kì bí (old: 35) lydo: Nhặt từ map at 03/12/2023 10:27 PM
+BAG:bipikcon add 37xViên Capsule kì bí (old: 36) lydo: Nhặt từ map at 03/12/2023 10:27 PM
+BAG:bipikcon add 1xĐá Ruby lydo: Nhặt từ map at 03/12/2023 10:27 PM
+BAG:bipikcon add 2xHoa hồng vàng (old: 1) lydo: Nhặt từ map at 03/12/2023 10:27 PM
+BAG:bipikcon add 1xHoa hồng xanh lydo: Nhặt từ map at 03/12/2023 10:27 PM
+BAG:bipikcon add 1xHoa hồng đỏ lydo: Nhặt từ map at 03/12/2023 10:27 PM
+BAG:bipikcon add 2xHoa hồng xanh (old: 1) lydo: Nhặt từ map at 03/12/2023 10:27 PM
+BAG:bipikcon add 1xHoa hồng vàng lydo: Nhặt từ map at 03/12/2023 10:27 PM
+BAG:bipikcon add 3xHoa hồng xanh (old: 2) lydo: Nhặt từ map at 03/12/2023 10:28 PM
+BAG:bipikcon add 2xHoa hồng đỏ (old: 1) lydo: Nhặt từ map at 03/12/2023 10:28 PM
+BAG:bipikcon add 4xHoa hồng xanh (old: 3) lydo: Nhặt từ map at 03/12/2023 10:28 PM
+BAG:bipikcon add 5xHoa hồng xanh (old: 4) lydo: Nhặt từ map at 03/12/2023 10:28 PM
+BAG:bipikcon add 6xHoa hồng xanh (old: 5) lydo: Nhặt từ map at 03/12/2023 10:28 PM
+BAG:bipikcon add 3xHoa hồng đỏ (old: 2) lydo: Nhặt từ map at 03/12/2023 10:28 PM
+BAG:bipikcon add 2xHoa hồng vàng (old: 1) lydo: Nhặt từ map at 03/12/2023 10:28 PM
+BAG:bipikcon add 16xNgọc Rồng 4 sao (old: 15) lydo: Nhặt từ map at 03/12/2023 10:28 PM
+BAG:bipikcon add 38xViên Capsule kì bí (old: 37) lydo: Nhặt từ map at 03/12/2023 10:28 PM
+BAG:bipikcon add 7xHoa hồng xanh (old: 6) lydo: Nhặt từ map at 03/12/2023 10:28 PM
+BAG:bipikcon add 8xHoa hồng xanh (old: 7) lydo: Nhặt từ map at 03/12/2023 10:28 PM
+BAG:bipikcon add 17xNgọc Rồng 5 sao (old: 16) lydo: Nhặt từ map at 03/12/2023 10:28 PM
+BAG:bipikcon add 39xViên Capsule kì bí (old: 38) lydo: Nhặt từ map at 03/12/2023 10:28 PM
+BAG:bipikcon add 38xNgọc Rồng 6 sao (old: 37) lydo: Nhặt từ map at 03/12/2023 10:28 PM
+BAG:bipikcon add 1xĐá thạch anh tím lydo: Nhặt từ map at 03/12/2023 10:28 PM
+BAG:bipikcon add 1xĐá Ruby lydo: Nhặt từ map at 03/12/2023 10:28 PM
+BAG:bipikcon add 40xViên Capsule kì bí (old: 39) lydo: Nhặt từ map at 03/12/2023 10:28 PM
+BAG:bipikcon add 9xHoa hồng xanh (old: 8) lydo: Nhặt từ map at 03/12/2023 10:28 PM
+BAG:bipikcon add 3xHoa hồng vàng (old: 2) lydo: Nhặt từ map at 03/12/2023 10:28 PM
+BAG:bipikcon add 4xHoa hồng vàng (old: 3) lydo: Nhặt từ map at 03/12/2023 10:28 PM
+BAG:bipikcon add 41xViên Capsule kì bí (old: 40) lydo: Nhặt từ map at 03/12/2023 10:28 PM
+BAG:bipikcon add 42xViên Capsule kì bí (old: 41) lydo: Nhặt từ map at 03/12/2023 10:28 PM
+BAG:bipikcon add 43xViên Capsule kì bí (old: 42) lydo: Nhặt từ map at 03/12/2023 10:28 PM
+BAG:bipikcon add 5xHoa hồng vàng (old: 4) lydo: Nhặt từ map at 03/12/2023 10:28 PM
+BAG:bipikcon add 4xHoa hồng đỏ (old: 3) lydo: Nhặt từ map at 03/12/2023 10:28 PM
+BAG:bipikcon add 44xViên Capsule kì bí (old: 43) lydo: Nhặt từ map at 03/12/2023 10:28 PM
+BAG:bipikcon add 5xHoa hồng đỏ (old: 4) lydo: Nhặt từ map at 03/12/2023 10:28 PM
+BAG:bipikcon add 6xHoa hồng vàng (old: 5) lydo: Nhặt từ map at 03/12/2023 10:28 PM
+BAG:bipikcon add 45xViên Capsule kì bí (old: 44) lydo: Nhặt từ map at 03/12/2023 10:28 PM
+BAG:bipikcon add 17xNgọc Rồng 4 sao (old: 16) lydo: Nhặt từ map at 03/12/2023 10:28 PM
+BAG:bipikcon add 46xViên Capsule kì bí (old: 45) lydo: Nhặt từ map at 03/12/2023 10:28 PM
+BAG:bipikcon add 2xĐá thạch anh tím (old: 1) lydo: Nhặt từ map at 03/12/2023 10:28 PM
+BAG:bipikcon add 47xViên Capsule kì bí (old: 46) lydo: Nhặt từ map at 03/12/2023 10:28 PM
+BAG:bipikcon add 10xHoa hồng xanh (old: 9) lydo: Nhặt từ map at 03/12/2023 10:29 PM
+BAG:bipikcon add 48xViên Capsule kì bí (old: 47) lydo: Nhặt từ map at 03/12/2023 10:29 PM
+BAG:bipikcon add 49xViên Capsule kì bí (old: 48) lydo: Nhặt từ map at 03/12/2023 10:29 PM
+BAG:bipikcon add 50xViên Capsule kì bí (old: 49) lydo: Nhặt từ map at 03/12/2023 10:29 PM
+BAG:bipikcon add 11xHoa hồng xanh (old: 10) lydo: Nhặt từ map at 03/12/2023 10:29 PM
+BAG:bipikcon add 51xViên Capsule kì bí (old: 50) lydo: Nhặt từ map at 03/12/2023 10:29 PM
+BAG:bipikcon add 12xHoa hồng xanh (old: 11) lydo: Nhặt từ map at 03/12/2023 10:29 PM
+BAG:bipikcon add 52xViên Capsule kì bí (old: 51) lydo: Nhặt từ map at 03/12/2023 10:29 PM
+BAG:bipikcon add 13xHoa hồng xanh (old: 12) lydo: Nhặt từ map at 03/12/2023 10:29 PM
+BAG:bipikcon add 53xViên Capsule kì bí (old: 52) lydo: Nhặt từ map at 03/12/2023 10:29 PM
+BAG:bipikcon add 7xHoa hồng vàng (old: 6) lydo: Nhặt từ map at 03/12/2023 10:29 PM
+BAG:bipikcon add 6xHoa hồng đỏ (old: 5) lydo: Nhặt từ map at 03/12/2023 10:29 PM
+BAG:bipikcon add 1xĐá Titan lydo: Nhặt từ map at 03/12/2023 10:29 PM
+BAG:bipikcon add 8xHoa hồng vàng (old: 7) lydo: Nhặt từ map at 03/12/2023 10:29 PM
+BAG:bipikcon add 54xViên Capsule kì bí (old: 53) lydo: Nhặt từ map at 03/12/2023 10:29 PM
+BAG:bipikcon add 7xHoa hồng đỏ (old: 6) lydo: Nhặt từ map at 03/12/2023 10:29 PM
+BAG:bipikcon add 1xĐá lục bảo lydo: Nhặt từ map at 03/12/2023 10:29 PM
+BAG:bipikcon add 2xĐá Titan (old: 1) lydo: Nhặt từ map at 03/12/2023 10:29 PM
+BAG:bipikcon add 14xHoa hồng xanh (old: 13) lydo: Nhặt từ map at 03/12/2023 10:29 PM
+BAG:bipikcon add 55xViên Capsule kì bí (old: 54) lydo: Nhặt từ map at 03/12/2023 10:29 PM
+BAG:bipikcon add 56xViên Capsule kì bí (old: 55) lydo: Nhặt từ map at 03/12/2023 10:29 PM
+BAG:bipikcon add 9xHoa hồng vàng (old: 8) lydo: Nhặt từ map at 03/12/2023 10:29 PM
+BAG:bipikcon add 57xViên Capsule kì bí (old: 56) lydo: Nhặt từ map at 03/12/2023 10:29 PM
+BAG:bipikcon add 10xHoa hồng vàng (old: 9) lydo: Nhặt từ map at 03/12/2023 10:29 PM
+BAG:bipikcon add 58xViên Capsule kì bí (old: 57) lydo: Nhặt từ map at 03/12/2023 10:29 PM
+BAG:bipikcon add 11xHoa hồng vàng (old: 10) lydo: Nhặt từ map at 03/12/2023 10:29 PM
+BAG:bipikcon add 3xĐá Titan (old: 2) lydo: Nhặt từ map at 03/12/2023 10:29 PM
+BAG:bipikcon add 59xViên Capsule kì bí (old: 58) lydo: Nhặt từ map at 03/12/2023 10:29 PM
+BAG:bipikcon add 60xViên Capsule kì bí (old: 59) lydo: Nhặt từ map at 03/12/2023 10:29 PM
+BAG:bipikcon add 61xViên Capsule kì bí (old: 60) lydo: Nhặt từ map at 03/12/2023 10:30 PM
+BAG:bipikcon add 12xHoa hồng vàng (old: 11) lydo: Nhặt từ map at 03/12/2023 10:30 PM
+BAG:bipikcon add 8xHoa hồng đỏ (old: 7) lydo: Nhặt từ map at 03/12/2023 10:30 PM
+BAG:bipikcon add 1xẨn danh lydo: CSKB at 03/12/2023 10:30 PM
+BAG:bipikcon add 13xHoa hồng vàng (old: 12) lydo: Nhặt từ map at 03/12/2023 10:30 PM
+BAG:bipikcon add 53xViên Capsule kì bí (old: 52) lydo: Nhặt từ map at 03/12/2023 10:30 PM
+BAG:bipikcon add 14xHoa hồng vàng (old: 13) lydo: Nhặt từ map at 03/12/2023 10:30 PM
+BAG:bipikcon add 15xHoa hồng xanh (old: 14) lydo: Nhặt từ map at 03/12/2023 10:30 PM
+BAG:bipikcon add 50xViên Capsule kì bí (old: 49) lydo: Nhặt từ map at 03/12/2023 10:30 PM
+BAG:bipikcon add 9xHoa hồng đỏ (old: 8) lydo: Nhặt từ map at 03/12/2023 10:30 PM
+BAG:bipikcon add 1xCuồng nộ lydo: CSKB at 03/12/2023 10:30 PM
+BAG:bipikcon add 16xHoa hồng xanh (old: 15) lydo: Nhặt từ map at 03/12/2023 10:30 PM
+BAG:bipikcon add 10xHoa hồng đỏ (old: 9) lydo: Nhặt từ map at 03/12/2023 10:30 PM
+BAG:bipikcon add 11xHoa hồng đỏ (old: 10) lydo: Nhặt từ map at 03/12/2023 10:30 PM
+BAG:bipikcon add 15xHoa hồng vàng (old: 14) lydo: Nhặt từ map at 03/12/2023 10:30 PM
+BAG:bipikcon add 16xHoa hồng vàng (old: 15) lydo: Nhặt từ map at 03/12/2023 10:30 PM
+BAG:bipikcon add 43xViên Capsule kì bí (old: 42) lydo: Nhặt từ map at 03/12/2023 10:30 PM
+BAG:bipikcon add 17xHoa hồng vàng (old: 16) lydo: Nhặt từ map at 03/12/2023 10:30 PM
+BAG:bipikcon add 44xViên Capsule kì bí (old: 43) lydo: Nhặt từ map at 03/12/2023 10:30 PM
+BAG:bipikcon add 45xViên Capsule kì bí (old: 44) lydo: Nhặt từ map at 03/12/2023 10:30 PM
+BAG:bipikcon add 18xHoa hồng vàng (old: 17) lydo: Nhặt từ map at 03/12/2023 10:30 PM
+BAG:bipikcon add 17xHoa hồng xanh (old: 16) lydo: Nhặt từ map at 03/12/2023 10:30 PM
+BAG:bipikcon add 46xViên Capsule kì bí (old: 45) lydo: Nhặt từ map at 03/12/2023 10:30 PM
+BAG:bipikcon add 47xViên Capsule kì bí (old: 46) lydo: Nhặt từ map at 03/12/2023 10:30 PM
+BAG:bipikcon add 1xHoa hồng đỏ lydo: Nhặt từ map at 03/12/2023 10:31 PM
+BAG:bipikcon add 48xViên Capsule kì bí (old: 47) lydo: Nhặt từ map at 03/12/2023 10:31 PM
+BAG:bipikcon add 2xHoa hồng đỏ (old: 1) lydo: Nhặt từ map at 03/12/2023 10:31 PM
+BAG:bipikcon add 49xViên Capsule kì bí (old: 48) lydo: Nhặt từ map at 03/12/2023 10:31 PM
+BAG:bipikcon add 1xHoa hồng vàng lydo: Nhặt từ map at 03/12/2023 10:31 PM
+BAG:bipikcon add 50xViên Capsule kì bí (old: 49) lydo: Nhặt từ map at 03/12/2023 10:31 PM
+BAG:bipikcon add 3xHoa hồng đỏ (old: 2) lydo: Nhặt từ map at 03/12/2023 10:31 PM
+BAG:bipikcon add 51xViên Capsule kì bí (old: 50) lydo: Nhặt từ map at 03/12/2023 10:31 PM
+BAG:bipikcon add 52xViên Capsule kì bí (old: 51) lydo: Nhặt từ map at 03/12/2023 10:31 PM
+BAG:bipikcon add 4xHoa hồng đỏ (old: 3) lydo: Nhặt từ map at 03/12/2023 10:31 PM
+BAG:bipikcon add 5xHoa hồng đỏ (old: 4) lydo: Nhặt từ map at 03/12/2023 10:31 PM
+BAG:bipikcon add 53xViên Capsule kì bí (old: 52) lydo: Nhặt từ map at 03/12/2023 10:31 PM
+BAG:bipikcon add 54xViên Capsule kì bí (old: 53) lydo: Nhặt từ map at 03/12/2023 10:31 PM
+BAG:bipikcon add 55xViên Capsule kì bí (old: 54) lydo: Nhặt từ map at 03/12/2023 10:31 PM
+BAG:bipikcon add 6xHoa hồng đỏ (old: 5) lydo: Nhặt từ map at 03/12/2023 10:31 PM
+BAG:bipikcon add 1xHoa hồng xanh lydo: Nhặt từ map at 03/12/2023 10:31 PM
+BAG:bipikcon add 2xHoa hồng xanh (old: 1) lydo: Nhặt từ map at 03/12/2023 10:31 PM
+BAG:bipikcon add 3xHoa hồng xanh (old: 2) lydo: Nhặt từ map at 03/12/2023 10:31 PM
+BAG:bipikcon add 56xViên Capsule kì bí (old: 55) lydo: Nhặt từ map at 03/12/2023 10:31 PM
+BAG:bipikcon add 57xViên Capsule kì bí (old: 56) lydo: Nhặt từ map at 03/12/2023 10:31 PM
+BAG:bipikcon add 4xHoa hồng xanh (old: 3) lydo: Nhặt từ map at 03/12/2023 10:31 PM
+BAG:bipikcon add 7xHoa hồng đỏ (old: 6) lydo: Nhặt từ map at 03/12/2023 10:31 PM
+BAG:bipikcon add 58xViên Capsule kì bí (old: 57) lydo: Nhặt từ map at 03/12/2023 10:31 PM
+BAG:bipikcon add 2xHoa hồng vàng (old: 1) lydo: Nhặt từ map at 03/12/2023 10:31 PM
+BAG:bipikcon add 59xViên Capsule kì bí (old: 58) lydo: Nhặt từ map at 03/12/2023 10:31 PM
+BAG:bipikcon add 8xHoa hồng đỏ (old: 7) lydo: Nhặt từ map at 03/12/2023 10:31 PM
+BAG:bipikcon add 3xHoa hồng vàng (old: 2) lydo: Nhặt từ map at 03/12/2023 10:32 PM
+BAG:bipikcon add 9xHoa hồng đỏ (old: 8) lydo: Nhặt từ map at 03/12/2023 10:32 PM
+BAG:bipikcon add 60xViên Capsule kì bí (old: 59) lydo: Nhặt từ map at 03/12/2023 10:32 PM
+BAG:bipikcon add 61xViên Capsule kì bí (old: 60) lydo: Nhặt từ map at 03/12/2023 10:32 PM
+BAG:bipikcon add 62xViên Capsule kì bí (old: 61) lydo: Nhặt từ map at 03/12/2023 10:32 PM
+BAG:bipikcon add 63xViên Capsule kì bí (old: 62) lydo: Nhặt từ map at 03/12/2023 10:32 PM
+BAG:bipikcon add 1xĐá lục bảo lydo: Nhặt từ map at 03/12/2023 10:32 PM
+BAG:bipikcon add 1xĐá Ruby lydo: Nhặt từ map at 03/12/2023 10:32 PM
+BAG:bipikcon add 5xHoa hồng xanh (old: 4) lydo: Nhặt từ map at 03/12/2023 10:32 PM
+BAG:bipikcon add 64xViên Capsule kì bí (old: 63) lydo: Nhặt từ map at 03/12/2023 10:32 PM
+BAG:bipikcon add 1xĐá Saphia lydo: Nhặt từ map at 03/12/2023 10:32 PM
+BAG:bipikcon add 4xHoa hồng vàng (old: 3) lydo: Nhặt từ map at 03/12/2023 10:32 PM
+BAG:bipikcon add 65xViên Capsule kì bí (old: 64) lydo: Nhặt từ map at 03/12/2023 10:32 PM
+BAG:bipikcon add 6xHoa hồng xanh (old: 5) lydo: Nhặt từ map at 03/12/2023 10:32 PM
+BAG:bipikcon add 1xĐá Titan lydo: Nhặt từ map at 03/12/2023 10:32 PM
+BAG:bipikcon add 10xHoa hồng đỏ (old: 9) lydo: Nhặt từ map at 03/12/2023 10:32 PM
+BAG:bipikcon add 5xHoa hồng vàng (old: 4) lydo: Nhặt từ map at 03/12/2023 10:32 PM
+BAG:bipikcon add 60xViên Capsule kì bí (old: 59) lydo: Nhặt từ map at 03/12/2023 10:32 PM
+BAG:bipikcon add 11xHoa hồng đỏ (old: 10) lydo: Nhặt từ map at 03/12/2023 10:32 PM
+BAG:bipikcon add 2xCuồng nộ (old: 1) lydo: CSKB at 03/12/2023 10:32 PM
+BAG:bipikcon add 18xNgọc Rồng 5 sao (old: 17) lydo: Nhặt từ map at 03/12/2023 10:32 PM
+BAG:bipikcon add 19xNgọc Rồng 5 sao (old: 18) lydo: Nhặt từ map at 03/12/2023 10:32 PM
+BAG:bipikcon add 7xHoa hồng xanh (old: 6) lydo: Nhặt từ map at 03/12/2023 10:32 PM
+BAG:bipikcon add 1xẨn danh lydo: CSKB at 03/12/2023 10:32 PM
+BAG:bipikcon add 2xẨn danh (old: 1) lydo: CSKB at 03/12/2023 10:32 PM
+BAG:bipikcon add 3xẨn danh (old: 2) lydo: CSKB at 03/12/2023 10:32 PM
+BAG:bipikcon add 55xViên Capsule kì bí (old: 54) lydo: Nhặt từ map at 03/12/2023 10:32 PM
+BAG:bipikcon add 8xHoa hồng xanh (old: 7) lydo: Nhặt từ map at 03/12/2023 10:32 PM
+BAG:bipikcon add 3xCuồng nộ (old: 2) lydo: CSKB at 03/12/2023 10:32 PM
+BAG:bipikcon add 4xCuồng nộ (old: 3) lydo: CSKB at 03/12/2023 10:32 PM
+BAG:bipikcon add 9xHoa hồng xanh (old: 8) lydo: Nhặt từ map at 03/12/2023 10:32 PM
+BAG:bipikcon add 12xHoa hồng đỏ (old: 11) lydo: Nhặt từ map at 03/12/2023 10:32 PM
+BAG:bipikcon add 52xViên Capsule kì bí (old: 51) lydo: Nhặt từ map at 03/12/2023 10:32 PM
+BAG:bipikcon add 6xHoa hồng vàng (old: 5) lydo: Nhặt từ map at 03/12/2023 10:32 PM
+BAG:bipikcon add 7xHoa hồng vàng (old: 6) lydo: Nhặt từ map at 03/12/2023 10:33 PM
+BAG:bipikcon add 2xĐá Ruby (old: 1) lydo: Nhặt từ map at 03/12/2023 10:33 PM
+BAG:bipikcon add 50xViên Capsule kì bí (old: 49) lydo: Nhặt từ map at 03/12/2023 10:33 PM
+BAG:bipikcon add 5xCuồng nộ (old: 4) lydo: CSKB at 03/12/2023 10:33 PM
+BAG:bipikcon add 6xCuồng nộ (old: 5) lydo: CSKB at 03/12/2023 10:33 PM
+BAG:bipikcon add 2xĐá Saphia (old: 1) lydo: Nhặt từ map at 03/12/2023 10:33 PM
+BAG:bipikcon add 7xCuồng nộ (old: 6) lydo: CSKB at 03/12/2023 10:33 PM
+BAG:bipikcon add 1xĐá thạch anh tím lydo: Nhặt từ map at 03/12/2023 10:33 PM
+BAG:bipikcon add 2xĐá Titan (old: 1) lydo: Nhặt từ map at 03/12/2023 10:33 PM
+BAG:bipikcon add 2xĐá thạch anh tím (old: 1) lydo: Nhặt từ map at 03/12/2023 10:33 PM
+BAG:bipikcon add 8xHoa hồng vàng (old: 7) lydo: Nhặt từ map at 03/12/2023 10:33 PM
+BAG:bipikcon add 13xHoa hồng đỏ (old: 12) lydo: Nhặt từ map at 03/12/2023 10:33 PM
+BAG:bipikcon add 42xViên Capsule kì bí (old: 41) lydo: Nhặt từ map at 03/12/2023 10:33 PM
+BAG:bipikcon add 41xViên Capsule kì bí (old: 40) lydo: Nhặt từ map at 03/12/2023 10:33 PM
+BAG:bipikcon add 9xHoa hồng vàng (old: 8) lydo: Nhặt từ map at 03/12/2023 10:33 PM
+BAG:bipikcon add 10xHoa hồng vàng (old: 9) lydo: Nhặt từ map at 03/12/2023 10:33 PM
+BAG:bipikcon add 8xCuồng nộ (old: 7) lydo: CSKB at 03/12/2023 10:33 PM
+BAG:bipikcon add 39xNgọc Rồng 6 sao (old: 38) lydo: Nhặt từ map at 03/12/2023 10:33 PM
+BAG:bipikcon add 34xViên Capsule kì bí (old: 33) lydo: Nhặt từ map at 03/12/2023 10:33 PM
+BAG:bipikcon add 31xViên Capsule kì bí (old: 30) lydo: Nhặt từ map at 03/12/2023 10:33 PM
+BAG:bipikcon add 4xẨn danh (old: 3) lydo: CSKB at 03/12/2023 10:33 PM
+BAG:bipikcon add 31xViên Capsule kì bí (old: 30) lydo: Nhặt từ map at 03/12/2023 10:33 PM
+BAG:bipikcon add 5xẨn danh (old: 4) lydo: CSKB at 03/12/2023 10:33 PM
+BAG:bipikcon add 14xHoa hồng đỏ (old: 13) lydo: Nhặt từ map at 03/12/2023 10:33 PM
+BAG:bipikcon add 29xViên Capsule kì bí (old: 28) lydo: Nhặt từ map at 03/12/2023 10:33 PM
+BAG:bipikcon add 2xĐá lục bảo (old: 1) lydo: Nhặt từ map at 03/12/2023 10:33 PM
+BAG:bipikcon add 3xĐá thạch anh tím (old: 2) lydo: Nhặt từ map at 03/12/2023 10:34 PM
+BAG:bipikcon add 6xẨn danh (old: 5) lydo: CSKB at 03/12/2023 10:34 PM
+BAG:bipikcon add 7xẨn danh (old: 6) lydo: CSKB at 03/12/2023 10:34 PM
+BAG:bipikcon add 3xĐá Titan (old: 2) lydo: Nhặt từ map at 03/12/2023 10:34 PM
+BAG:bipikcon add 9xCuồng nộ (old: 8) lydo: CSKB at 03/12/2023 10:34 PM
+BAG:bipikcon add 25xViên Capsule kì bí (old: 24) lydo: Nhặt từ map at 03/12/2023 10:34 PM
+BAG:bipikcon add 26xViên Capsule kì bí (old: 25) lydo: Nhặt từ map at 03/12/2023 10:34 PM
+BAG:bipikcon add 1xBổ khí lydo: CSKB at 03/12/2023 10:34 PM
+BAG:bipikcon add 26xViên Capsule kì bí (old: 25) lydo: Nhặt từ map at 03/12/2023 10:34 PM
+BAG:bipikcon add 8xẨn danh (old: 7) lydo: CSKB at 03/12/2023 10:34 PM
+BAG:bipikcon add 26xViên Capsule kì bí (old: 25) lydo: Nhặt từ map at 03/12/2023 10:34 PM
+BAG:bipikcon add 27xViên Capsule kì bí (old: 26) lydo: Nhặt từ map at 03/12/2023 10:34 PM
+BAG:bipikcon add 2xBổ khí (old: 1) lydo: CSKB at 03/12/2023 10:34 PM
+BAG:bipikcon add 11xHoa hồng vàng (old: 10) lydo: Nhặt từ map at 03/12/2023 10:34 PM
+BAG:bipikcon add 10xCuồng nộ (old: 9) lydo: CSKB at 03/12/2023 10:34 PM
+BAG:bipikcon add 24xViên Capsule kì bí (old: 23) lydo: Nhặt từ map at 03/12/2023 10:34 PM
+BAG:bipikcon add 12xHoa hồng vàng (old: 11) lydo: Nhặt từ map at 03/12/2023 10:34 PM
+BAG:bipikcon add 25xViên Capsule kì bí (old: 24) lydo: Nhặt từ map at 03/12/2023 10:34 PM
+BAG:bipikcon add 26xViên Capsule kì bí (old: 25) lydo: Nhặt từ map at 03/12/2023 10:34 PM
+BAG:bipikcon add 26xViên Capsule kì bí (old: 25) lydo: Nhặt từ map at 03/12/2023 10:34 PM
+BAG:bipikcon add 1xBổ huyết lydo: CSKB at 03/12/2023 10:34 PM
+BAG:bipikcon add 26xViên Capsule kì bí (old: 25) lydo: Nhặt từ map at 03/12/2023 10:34 PM
+BAG:bipikcon add 2xBổ huyết (old: 1) lydo: CSKB at 03/12/2023 10:34 PM
+BAG:bipikcon add 13xHoa hồng vàng (old: 12) lydo: Nhặt từ map at 03/12/2023 10:34 PM
+BAG:bipikcon add 14xHoa hồng vàng (old: 13) lydo: Nhặt từ map at 03/12/2023 10:34 PM
+BAG:bipikcon add 10xHoa hồng xanh (old: 9) lydo: Nhặt từ map at 03/12/2023 10:34 PM
+BAG:bipikcon add 9xẨn danh (old: 8) lydo: CSKB at 03/12/2023 10:34 PM
+BAG:bipikcon add 4xĐá Titan (old: 3) lydo: Nhặt từ map at 03/12/2023 10:34 PM
+BAG:bipikcon add 15xHoa hồng vàng (old: 14) lydo: Nhặt từ map at 03/12/2023 10:34 PM
+BAG:bipikcon add 15xHoa hồng đỏ (old: 14) lydo: Nhặt từ map at 03/12/2023 10:34 PM
+BAG:bipikcon add 11xHoa hồng xanh (old: 10) lydo: Nhặt từ map at 03/12/2023 10:34 PM
+BAG:bipikcon add 3xĐá Ruby (old: 2) lydo: Nhặt từ map at 03/12/2023 10:34 PM
+BAG:bipikcon add 16xHoa hồng đỏ (old: 15) lydo: Nhặt từ map at 03/12/2023 10:34 PM
+BAG:bipikcon add 17xViên Capsule kì bí (old: 16) lydo: Nhặt từ map at 03/12/2023 10:34 PM
+BAG:bipikcon add 12xHoa hồng xanh (old: 11) lydo: Nhặt từ map at 03/12/2023 10:34 PM
+BAG:bipikcon add 3xBổ khí (old: 2) lydo: CSKB at 03/12/2023 10:34 PM
+BAG:bipikcon add 17xViên Capsule kì bí (old: 16) lydo: Nhặt từ map at 03/12/2023 10:34 PM
+BAG:bipikcon add 18xViên Capsule kì bí (old: 17) lydo: Nhặt từ map at 03/12/2023 10:34 PM
+BAG:bipikcon add 18xViên Capsule kì bí (old: 17) lydo: Nhặt từ map at 03/12/2023 10:34 PM
+BAG:bipikcon add 16xHoa hồng vàng (old: 15) lydo: Nhặt từ map at 03/12/2023 10:35 PM
+BAG:bipikcon add 17xHoa hồng vàng (old: 16) lydo: Nhặt từ map at 03/12/2023 10:35 PM
+BAG:bipikcon add 12xViên Capsule kì bí (old: 11) lydo: Nhặt từ map at 03/12/2023 10:35 PM
+BAG:bipikcon add 13xHoa hồng xanh (old: 12) lydo: Nhặt từ map at 03/12/2023 10:35 PM
+BAG:bipikcon add 17xHoa hồng đỏ (old: 16) lydo: Nhặt từ map at 03/12/2023 10:35 PM
+BAG:bipikcon add 9xViên Capsule kì bí (old: 8) lydo: Nhặt từ map at 03/12/2023 10:35 PM
+BAG:bipikcon add 18xHoa hồng vàng (old: 17) lydo: Nhặt từ map at 03/12/2023 10:35 PM
+BAG:bipikcon add 8xViên Capsule kì bí (old: 7) lydo: Nhặt từ map at 03/12/2023 10:35 PM
+BAG:bipikcon add 10xẨn danh (old: 9) lydo: CSKB at 03/12/2023 10:35 PM
+BAG:bipikcon add 14xHoa hồng xanh (old: 13) lydo: Nhặt từ map at 03/12/2023 10:35 PM
+BAG:bipikcon add 19xHoa hồng vàng (old: 18) lydo: Nhặt từ map at 03/12/2023 10:35 PM
+BAG:bipikcon add 4xViên Capsule kì bí (old: 3) lydo: Nhặt từ map at 03/12/2023 10:35 PM
+BAG:bipikcon add 5xViên Capsule kì bí (old: 4) lydo: Nhặt từ map at 03/12/2023 10:35 PM
+BAG:bipikcon add 20xHoa hồng vàng (old: 19) lydo: Nhặt từ map at 03/12/2023 10:35 PM
+BAG:bipikcon add 11xẨn danh (old: 10) lydo: CSKB at 03/12/2023 10:35 PM
+BAG:bipikcon add 21xHoa hồng vàng (old: 20) lydo: Nhặt từ map at 03/12/2023 10:35 PM
+BAG:bipikcon add 3xĐá lục bảo (old: 2) lydo: Nhặt từ map at 03/12/2023 10:35 PM
+BAG:bipikcon add 12xẨn danh (old: 11) lydo: CSKB at 03/12/2023 10:35 PM
+BAG:bipikcon add 3xViên Capsule kì bí (old: 2) lydo: Nhặt từ map at 03/12/2023 10:35 PM
+BAG:bipikcon add 15xHoa hồng xanh (old: 14) lydo: Nhặt từ map at 03/12/2023 10:35 PM
+BAG:bipikcon add 2xViên Capsule kì bí (old: 1) lydo: Nhặt từ map at 03/12/2023 10:35 PM
+BAG:bipikcon add 3xViên Capsule kì bí (old: 2) lydo: Nhặt từ map at 03/12/2023 10:35 PM
+BAG:bipikcon add 18xHoa hồng đỏ (old: 17) lydo: Nhặt từ map at 03/12/2023 10:35 PM
+BAG:bipikcon add 4xViên Capsule kì bí (old: 3) lydo: Nhặt từ map at 03/12/2023 10:35 PM
+BAG:bipikcon add 22xHoa hồng vàng (old: 21) lydo: Nhặt từ map at 03/12/2023 10:36 PM
+BAG:bipikcon add 5xViên Capsule kì bí (old: 4) lydo: Nhặt từ map at 03/12/2023 10:36 PM
+BAG:bipikcon add 1xHoa hồng vàng lydo: Nhặt từ map at 03/12/2023 10:36 PM
+BAG:bipikcon add 6xViên Capsule kì bí (old: 5) lydo: Nhặt từ map at 03/12/2023 10:36 PM
+BAG:bipikcon add 1xHoa hồng đỏ lydo: Nhặt từ map at 03/12/2023 10:36 PM
+BAG:bipikcon add 7xViên Capsule kì bí (old: 6) lydo: Nhặt từ map at 03/12/2023 10:36 PM
+BAG:bipikcon add 18xNgọc Rồng 4 sao (old: 17) lydo: Nhặt từ map at 03/12/2023 10:36 PM
+BAG:bipikcon add 2xHoa hồng vàng (old: 1) lydo: Nhặt từ map at 03/12/2023 10:36 PM
+BAG:bipikcon add 1xĐá thạch anh tím lydo: Nhặt từ map at 03/12/2023 10:36 PM
+BAG:bipikcon add 8xViên Capsule kì bí (old: 7) lydo: Nhặt từ map at 03/12/2023 10:36 PM
+BAG:bipikcon add 2xHoa hồng đỏ (old: 1) lydo: Nhặt từ map at 03/12/2023 10:36 PM
+BAG:bipikcon add 3xHoa hồng vàng (old: 2) lydo: Nhặt từ map at 03/12/2023 10:36 PM
+BAG:bipikcon add 4xHoa hồng vàng (old: 3) lydo: Nhặt từ map at 03/12/2023 10:36 PM
+BAG:bipikcon add 3xHoa hồng đỏ (old: 2) lydo: Nhặt từ map at 03/12/2023 10:36 PM
+BAG:bipikcon add 5xViên Capsule kì bí (old: 4) lydo: Nhặt từ map at 03/12/2023 10:36 PM
+BAG:bipikcon add 1xHoa hồng xanh lydo: Nhặt từ map at 03/12/2023 10:36 PM
+BAG:bipikcon add 11xCuồng nộ (old: 10) lydo: CSKB at 03/12/2023 10:36 PM
+BAG:bipikcon add 5xViên Capsule kì bí (old: 4) lydo: Nhặt từ map at 03/12/2023 10:36 PM
+BAG:bipikcon add 5xHoa hồng vàng (old: 4) lydo: Nhặt từ map at 03/12/2023 10:36 PM
+BAG:bipikcon add 2xHoa hồng xanh (old: 1) lydo: Nhặt từ map at 03/12/2023 10:36 PM
+BAG:bipikcon add 6xViên Capsule kì bí (old: 5) lydo: Nhặt từ map at 03/12/2023 10:36 PM
+BAG:bipikcon add 6xViên Capsule kì bí (old: 5) lydo: Nhặt từ map at 03/12/2023 10:36 PM
+BAG:bipikcon add 11xCuồng nộ (old: 10) lydo: CSKB at 03/12/2023 10:36 PM
+BAG:bipikcon add 40xNgọc Rồng 6 sao (old: 39) lydo: Nhặt từ map at 03/12/2023 10:36 PM
+BAG:bipikcon add 1xĐá Titan lydo: Nhặt từ map at 03/12/2023 10:36 PM
+BAG:bipikcon add 4xHoa hồng đỏ (old: 3) lydo: Nhặt từ map at 03/12/2023 10:36 PM
+BAG:bipikcon add 4xViên Capsule kì bí (old: 3) lydo: Nhặt từ map at 03/12/2023 10:36 PM
+BAG:bipikcon add 6xHoa hồng vàng (old: 5) lydo: Nhặt từ map at 03/12/2023 10:36 PM
+BAG:bipikcon add 4xViên Capsule kì bí (old: 3) lydo: Nhặt từ map at 03/12/2023 10:36 PM
+BAG:bipikcon add 5xViên Capsule kì bí (old: 4) lydo: Nhặt từ map at 03/12/2023 10:36 PM
+BAG:bipikcon add 13xẨn danh (old: 12) lydo: CSKB at 03/12/2023 10:36 PM
+BAG:bipikcon add 5xHoa hồng đỏ (old: 4) lydo: Nhặt từ map at 03/12/2023 10:36 PM
+BAG:bipikcon add 1xĐá lục bảo lydo: Nhặt từ map at 03/12/2023 10:36 PM
+BAG:bipikcon add 3xHoa hồng xanh (old: 2) lydo: Nhặt từ map at 03/12/2023 10:36 PM
+BAG:bipikcon add 7xHoa hồng vàng (old: 6) lydo: Nhặt từ map at 03/12/2023 10:36 PM
+BAG:bipikcon add 4xHoa hồng xanh (old: 3) lydo: Nhặt từ map at 03/12/2023 10:36 PM
+BAG:bipikcon add 5xHoa hồng xanh (old: 4) lydo: Nhặt từ map at 03/12/2023 10:36 PM
+BAG:bipikcon add 5xViên Capsule kì bí (old: 4) lydo: Nhặt từ map at 03/12/2023 10:37 PM
+BAG:bipikcon add 6xHoa hồng đỏ (old: 5) lydo: Nhặt từ map at 03/12/2023 10:37 PM
+BAG:bipikcon add 6xHoa hồng xanh (old: 5) lydo: Nhặt từ map at 03/12/2023 10:37 PM
+BAG:bipikcon add 6xViên Capsule kì bí (old: 5) lydo: Nhặt từ map at 03/12/2023 10:37 PM
+BAG:bipikcon add 7xHoa hồng đỏ (old: 6) lydo: Nhặt từ map at 03/12/2023 10:37 PM
+BAG:bipikcon add 7xViên Capsule kì bí (old: 6) lydo: Nhặt từ map at 03/12/2023 10:37 PM
+BAG:bipikcon add 8xViên Capsule kì bí (old: 7) lydo: Nhặt từ map at 03/12/2023 10:37 PM
+BAG:bipikcon add 1xĐá Ruby lydo: Nhặt từ map at 03/12/2023 10:37 PM
+BAG:bipikcon add 9xViên Capsule kì bí (old: 8) lydo: Nhặt từ map at 03/12/2023 10:37 PM
+BAG:bipikcon add 2xĐá lục bảo (old: 1) lydo: Nhặt từ map at 03/12/2023 10:37 PM
+BAG:bipikcon add 10xViên Capsule kì bí (old: 9) lydo: Nhặt từ map at 03/12/2023 10:37 PM
+BAG:bipikcon add 11xViên Capsule kì bí (old: 10) lydo: Nhặt từ map at 03/12/2023 10:37 PM
+BAG:bipikcon add 8xHoa hồng vàng (old: 7) lydo: Nhặt từ map at 03/12/2023 10:37 PM
+BAG:bipikcon add 9xHoa hồng vàng (old: 8) lydo: Nhặt từ map at 03/12/2023 10:37 PM
+BAG:bipikcon add 41xNgọc Rồng 6 sao (old: 40) lydo: Nhặt từ map at 03/12/2023 10:37 PM
+BAG:bipikcon add 7xHoa hồng xanh (old: 6) lydo: Nhặt từ map at 03/12/2023 10:37 PM
+BAG:bipikcon add 8xHoa hồng xanh (old: 7) lydo: Nhặt từ map at 03/12/2023 10:37 PM
+BAG:bipikcon add 12xViên Capsule kì bí (old: 11) lydo: Nhặt từ map at 03/12/2023 10:37 PM
+BAG:bipikcon add 8xHoa hồng đỏ (old: 7) lydo: Nhặt từ map at 03/12/2023 10:37 PM
+BAG:bipikcon add 9xHoa hồng đỏ (old: 8) lydo: Nhặt từ map at 03/12/2023 10:37 PM
+BAG:bipikcon add 10xHoa hồng đỏ (old: 9) lydo: Nhặt từ map at 03/12/2023 10:37 PM
+BAG:bipikcon add 13xViên Capsule kì bí (old: 12) lydo: Nhặt từ map at 03/12/2023 10:37 PM
+BAG:bipikcon add 14xViên Capsule kì bí (old: 13) lydo: Nhặt từ map at 03/12/2023 10:37 PM
+BAG:bipikcon add 15xViên Capsule kì bí (old: 14) lydo: Nhặt từ map at 03/12/2023 10:37 PM
+BAG:bipikcon add 10xHoa hồng vàng (old: 9) lydo: Nhặt từ map at 03/12/2023 10:37 PM
+BAG:bipikcon add 16xViên Capsule kì bí (old: 15) lydo: Nhặt từ map at 03/12/2023 10:37 PM
+BAG:bipikcon add 11xHoa hồng vàng (old: 10) lydo: Nhặt từ map at 03/12/2023 10:37 PM
+BAG:bipikcon add 12xHoa hồng vàng (old: 11) lydo: Nhặt từ map at 03/12/2023 10:37 PM
+BAG:bipikcon add 13xHoa hồng vàng (old: 12) lydo: Nhặt từ map at 03/12/2023 10:37 PM
+BAG:bipikcon add 11xHoa hồng đỏ (old: 10) lydo: Nhặt từ map at 03/12/2023 10:37 PM
+BAG:bipikcon add 2xĐá Titan (old: 1) lydo: Nhặt từ map at 03/12/2023 10:37 PM
+BAG:bipikcon add 17xViên Capsule kì bí (old: 16) lydo: Nhặt từ map at 03/12/2023 10:38 PM
+BAG:bipikcon add 18xViên Capsule kì bí (old: 17) lydo: Nhặt từ map at 03/12/2023 10:38 PM
+BAG:bipikcon add 19xViên Capsule kì bí (old: 18) lydo: Nhặt từ map at 03/12/2023 10:38 PM
+BAG:bipikcon add 20xViên Capsule kì bí (old: 19) lydo: Nhặt từ map at 03/12/2023 10:38 PM
+BAG:bipikcon add 21xViên Capsule kì bí (old: 20) lydo: Nhặt từ map at 03/12/2023 10:38 PM
+BAG:bipikcon add 9xHoa hồng xanh (old: 8) lydo: Nhặt từ map at 03/12/2023 10:38 PM
+BAG:bipikcon add 14xHoa hồng vàng (old: 13) lydo: Nhặt từ map at 03/12/2023 10:38 PM
+BAG:bipikcon add 22xViên Capsule kì bí (old: 21) lydo: Nhặt từ map at 03/12/2023 10:38 PM
+BAG:bipikcon add 15xHoa hồng vàng (old: 14) lydo: Nhặt từ map at 03/12/2023 10:38 PM
+BAG:bipikcon add 12xHoa hồng đỏ (old: 11) lydo: Nhặt từ map at 03/12/2023 10:38 PM
+BAG:bipikcon add 23xViên Capsule kì bí (old: 22) lydo: Nhặt từ map at 03/12/2023 10:38 PM
+BAG:bipikcon add 13xHoa hồng đỏ (old: 12) lydo: Nhặt từ map at 03/12/2023 10:38 PM
+BAG:bipikcon add 14xHoa hồng đỏ (old: 13) lydo: Nhặt từ map at 03/12/2023 10:38 PM
+BAG:bipikcon add 24xViên Capsule kì bí (old: 23) lydo: Nhặt từ map at 03/12/2023 10:38 PM
+BAG:bipikcon add 16xHoa hồng vàng (old: 15) lydo: Nhặt từ map at 03/12/2023 10:38 PM
+BAG:bipikcon add 15xHoa hồng đỏ (old: 14) lydo: Nhặt từ map at 03/12/2023 10:38 PM
+BAG:bipikcon add 25xViên Capsule kì bí (old: 24) lydo: Nhặt từ map at 03/12/2023 10:38 PM
+BAG:bipikcon add 10xHoa hồng xanh (old: 9) lydo: Nhặt từ map at 03/12/2023 10:38 PM
+BAG:bipikcon add 19xNgọc Rồng 4 sao (old: 18) lydo: Nhặt từ map at 03/12/2023 10:38 PM
+BAG:bipikcon add 17xHoa hồng vàng (old: 16) lydo: Nhặt từ map at 03/12/2023 10:38 PM
+BAG:bipikcon add 3xĐá lục bảo (old: 2) lydo: Nhặt từ map at 03/12/2023 10:38 PM
+BAG:bipikcon add 26xViên Capsule kì bí (old: 25) lydo: Nhặt từ map at 03/12/2023 10:39 PM
+BAG:bipikcon add 16xHoa hồng đỏ (old: 15) lydo: Nhặt từ map at 03/12/2023 10:39 PM
+BAG:bipikcon add 17xHoa hồng đỏ (old: 16) lydo: Nhặt từ map at 03/12/2023 10:39 PM
+BAG:bipikcon add 11xHoa hồng xanh (old: 10) lydo: Nhặt từ map at 03/12/2023 10:39 PM
+BAG:bipikcon add 27xViên Capsule kì bí (old: 26) lydo: Nhặt từ map at 03/12/2023 10:39 PM
+BAG:bipikcon add 28xViên Capsule kì bí (old: 27) lydo: Nhặt từ map at 03/12/2023 10:39 PM
+BAG:bipikcon add 12xHoa hồng xanh (old: 11) lydo: Nhặt từ map at 03/12/2023 10:39 PM
+BAG:bipikcon add 42xNgọc Rồng 6 sao (old: 41) lydo: Nhặt từ map at 03/12/2023 10:39 PM
+BAG:bipikcon add 20xNgọc Rồng 5 sao (old: 19) lydo: Nhặt từ map at 03/12/2023 10:39 PM
+BAG:bipikcon add 29xViên Capsule kì bí (old: 28) lydo: Nhặt từ map at 03/12/2023 10:39 PM
+BAG:bipikcon add 13xHoa hồng xanh (old: 12) lydo: Nhặt từ map at 03/12/2023 10:39 PM
+BAG:bipikcon add 30xViên Capsule kì bí (old: 29) lydo: Nhặt từ map at 03/12/2023 10:39 PM
+BAG:bipikcon add 31xViên Capsule kì bí (old: 30) lydo: Nhặt từ map at 03/12/2023 10:39 PM
+BAG:bipikcon add 32xViên Capsule kì bí (old: 31) lydo: Nhặt từ map at 03/12/2023 10:39 PM
+BAG:bipikcon add 18xHoa hồng vàng (old: 17) lydo: Nhặt từ map at 03/12/2023 10:39 PM
+BAG:bipikcon add 19xHoa hồng vàng (old: 18) lydo: Nhặt từ map at 03/12/2023 10:39 PM
+BAG:bipikcon add 33xViên Capsule kì bí (old: 32) lydo: Nhặt từ map at 03/12/2023 10:39 PM
+BAG:bipikcon add 20xHoa hồng vàng (old: 19) lydo: Nhặt từ map at 03/12/2023 10:39 PM
+BAG:bipikcon add 18xHoa hồng đỏ (old: 17) lydo: Nhặt từ map at 03/12/2023 10:39 PM
+BAG:bipikcon add 34xViên Capsule kì bí (old: 33) lydo: Nhặt từ map at 03/12/2023 10:39 PM
+BAG:bipikcon add 14xHoa hồng xanh (old: 13) lydo: Nhặt từ map at 03/12/2023 10:39 PM
+BAG:bipikcon add 21xHoa hồng vàng (old: 20) lydo: Nhặt từ map at 03/12/2023 10:39 PM
+BAG:bipikcon add 15xHoa hồng xanh (old: 14) lydo: Nhặt từ map at 03/12/2023 10:39 PM
+BAG:bipikcon add 2xĐá Ruby (old: 1) lydo: Nhặt từ map at 03/12/2023 10:39 PM
+BAG:bipikcon add 20xNgọc Rồng 4 sao (old: 19) lydo: Nhặt từ map at 03/12/2023 10:39 PM
+BAG:bipikcon add 16xHoa hồng xanh (old: 15) lydo: Nhặt từ map at 03/12/2023 10:39 PM
+BAG:bipikcon add 22xHoa hồng vàng (old: 21) lydo: Nhặt từ map at 03/12/2023 10:39 PM
+BAG:bipikcon add 23xHoa hồng vàng (old: 22) lydo: Nhặt từ map at 03/12/2023 10:39 PM
+BAG:bipikcon add 35xViên Capsule kì bí (old: 34) lydo: Nhặt từ map at 03/12/2023 10:39 PM
+BAG:bipikcon add 24xHoa hồng vàng (old: 23) lydo: Nhặt từ map at 03/12/2023 10:39 PM
+BAG:bipikcon add 17xHoa hồng xanh (old: 16) lydo: Nhặt từ map at 03/12/2023 10:39 PM
+BAG:bipikcon add 19xHoa hồng đỏ (old: 18) lydo: Nhặt từ map at 03/12/2023 10:39 PM
+BAG:bipikcon add 36xViên Capsule kì bí (old: 35) lydo: Nhặt từ map at 03/12/2023 10:39 PM
+BAG:bipikcon add 18xHoa hồng xanh (old: 17) lydo: Nhặt từ map at 03/12/2023 10:40 PM
+BAG:bipikcon add 19xHoa hồng xanh (old: 18) lydo: Nhặt từ map at 03/12/2023 10:40 PM
+BAG:bipikcon add 37xViên Capsule kì bí (old: 36) lydo: Nhặt từ map at 03/12/2023 10:40 PM
+BAG:bipikcon add 20xHoa hồng đỏ (old: 19) lydo: Nhặt từ map at 03/12/2023 10:40 PM
+BAG:bipikcon add 25xHoa hồng vàng (old: 24) lydo: Nhặt từ map at 03/12/2023 10:40 PM
+BAG:bipikcon add 38xViên Capsule kì bí (old: 37) lydo: Nhặt từ map at 03/12/2023 10:40 PM
+BAG:bipikcon add 21xHoa hồng đỏ (old: 20) lydo: Nhặt từ map at 03/12/2023 10:40 PM
+BAG:bipikcon add 26xHoa hồng vàng (old: 25) lydo: Nhặt từ map at 03/12/2023 10:40 PM
+BAG:bipikcon add 27xHoa hồng vàng (old: 26) lydo: Nhặt từ map at 03/12/2023 10:40 PM
+BAG:bipikcon add 39xViên Capsule kì bí (old: 38) lydo: Nhặt từ map at 03/12/2023 10:40 PM
+BAG:bipikcon add 40xViên Capsule kì bí (old: 39) lydo: Nhặt từ map at 03/12/2023 10:40 PM
+BAG:bipikcon add 20xHoa hồng xanh (old: 19) lydo: Nhặt từ map at 03/12/2023 10:40 PM
+BAG:bipikcon add 22xHoa hồng đỏ (old: 21) lydo: Nhặt từ map at 03/12/2023 10:40 PM
+BAG:bipikcon add 23xHoa hồng đỏ (old: 22) lydo: Nhặt từ map at 03/12/2023 10:40 PM
+BAG:bipikcon add 41xViên Capsule kì bí (old: 40) lydo: Nhặt từ map at 03/12/2023 10:40 PM
+BAG:bipikcon add 21xHoa hồng xanh (old: 20) lydo: Nhặt từ map at 03/12/2023 10:40 PM
+BAG:bipikcon add 42xViên Capsule kì bí (old: 41) lydo: Nhặt từ map at 03/12/2023 10:40 PM
+BAG:bipikcon add 43xViên Capsule kì bí (old: 42) lydo: Nhặt từ map at 03/12/2023 10:40 PM
+BAG:bipikcon add 44xViên Capsule kì bí (old: 43) lydo: Nhặt từ map at 03/12/2023 10:40 PM
+BAG:bipikcon add 1xĐá Saphia lydo: Nhặt từ map at 03/12/2023 10:40 PM
+BAG:bipikcon add 45xViên Capsule kì bí (old: 44) lydo: Nhặt từ map at 03/12/2023 10:40 PM
+BAG:bipikcon add 28xHoa hồng vàng (old: 27) lydo: Nhặt từ map at 03/12/2023 10:40 PM
+BAG:bipikcon add 29xHoa hồng vàng (old: 28) lydo: Nhặt từ map at 03/12/2023 10:40 PM
+BAG:bipikcon add 24xHoa hồng đỏ (old: 23) lydo: Nhặt từ map at 03/12/2023 10:40 PM
+BAG:bipikcon add 46xViên Capsule kì bí (old: 45) lydo: Nhặt từ map at 03/12/2023 10:40 PM
+BAG:bipikcon add 47xViên Capsule kì bí (old: 46) lydo: Nhặt từ map at 03/12/2023 10:40 PM
+BAG:bipikcon add 30xHoa hồng vàng (old: 29) lydo: Nhặt từ map at 03/12/2023 10:40 PM

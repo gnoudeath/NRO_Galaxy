@@ -1,0 +1,73 @@
+BAG:kiaoken add 57xHoa hồng xanh (old: 56) lydo: Nhặt từ map at 03/12/2023 8:53 AM
+BAG:kiaoken add 71xHoa hồng vàng (old: 70) lydo: Nhặt từ map at 03/12/2023 8:54 AM
+BAG:kiaoken add 46xHoa hồng đỏ (old: 45) lydo: Nhặt từ map at 03/12/2023 8:54 AM
+BAG:kiaoken add 1xÁo vải 3 lỗ lydo: Lấy từ body vào hành trang at 03/12/2023 8:55 AM
+BAG:kiaoken add 1xĐá xanh lam lydo: Mua từ cửa hàng at 03/12/2023 8:57 AM
+BAG:kiaoken add 1xQuần vải đen lydo: Lấy từ body vào hành trang at 03/12/2023 8:59 AM
+BAG:kiaoken add 1xÁo võ Kame lydo: Mua từ cửa hàng at 03/12/2023 9:01 AM
+BAG:kiaoken add 1xÁo võ Kame lydo: Mua từ cửa hàng at 03/12/2023 9:01 AM
+BAG:kiaoken add 1xÁo vải Kame lydo: Mua từ cửa hàng at 03/12/2023 9:01 AM
+BAG:kiaoken add 1xÁo vải dày lydo: Mua từ cửa hàng at 03/12/2023 9:01 AM
+BAG:kiaoken add 1xÁo vải 3 lỗ lydo: Mua từ cửa hàng at 03/12/2023 9:01 AM
+BAG:kiaoken add 1xGăng vải đen lydo: Mua từ cửa hàng at 03/12/2023 9:02 AM
+BAG:kiaoken add 1xGăng vải đen lydo: Mua từ cửa hàng at 03/12/2023 9:02 AM
+BAG:kiaoken add 1xGăng vải đen lydo: Mua từ cửa hàng at 03/12/2023 9:02 AM
+BAG:kiaoken add 1xGăng vải đen lydo: Lấy từ body vào hành trang at 03/12/2023 9:04 AM
+BAG:kiaoken add 1xGiầy nhựa lydo: Lấy từ body vào hành trang at 03/12/2023 9:06 AM
+BAG:kiaoken add 1xÁo vải Kame lydo: Mua từ cửa hàng at 03/12/2023 9:08 AM
+BAG:kiaoken add 1xÁo vải Kame lydo: Mua từ cửa hàng at 03/12/2023 9:08 AM
+BAG:kiaoken add 1xÁo vải Kame lydo: Mua từ cửa hàng at 03/12/2023 9:08 AM
+BAG:kiaoken add 1xÁo võ Kame lydo: Mua từ cửa hàng at 03/12/2023 9:08 AM
+BAG:kiaoken add 1xÁo võ Kame lydo: Mua từ cửa hàng at 03/12/2023 9:08 AM
+BAG:kiaoken add 1xGăng vải Kame lydo: Mua từ cửa hàng at 03/12/2023 9:08 AM
+BAG:kiaoken add 1xRada cấp 7 lydo: Mua từ cửa hàng at 03/12/2023 9:09 AM
+BAG:kiaoken add 1xRada cấp 7 lydo: Mua từ cửa hàng at 03/12/2023 9:09 AM
+BAG:kiaoken add 1xRada cấp 7 lydo: Mua từ cửa hàng at 03/12/2023 9:09 AM
+BAG:kiaoken add 1xRada cấp 7 lydo: Mua từ cửa hàng at 03/12/2023 9:09 AM
+BAG:kiaoken add 1xRada cấp 7 lydo: Mua từ cửa hàng at 03/12/2023 9:09 AM
+BAG:kiaoken add 1xRada cấp 7 lydo: Mua từ cửa hàng at 03/12/2023 9:10 AM
+BAG:kiaoken add 1xRada cấp 7 lydo: Mua từ cửa hàng at 03/12/2023 9:10 AM
+BAG:kiaoken add 1xRada cấp 7 lydo: Mua từ cửa hàng at 03/12/2023 9:10 AM
+BAG:kiaoken add 1xRada cấp 7 lydo: Mua từ cửa hàng at 03/12/2023 9:10 AM
+BAG:kiaoken add 1xRada cấp 7 lydo: Mua từ cửa hàng at 03/12/2023 9:10 AM
+BAG:kiaoken add 1xRada cấp 7 lydo: Mua từ cửa hàng at 03/12/2023 9:10 AM
+BAG:kiaoken add 1xRada cấp 7 lydo: Mua từ cửa hàng at 03/12/2023 9:10 AM
+BAG:kiaoken add 1xRada cấp 7 lydo: Mua từ cửa hàng at 03/12/2023 9:10 AM
+BAG:kiaoken add 1xRada cấp 7 lydo: Mua từ cửa hàng at 03/12/2023 9:10 AM
+BAG:kiaoken add 1xRada cấp 7 lydo: Mua từ cửa hàng at 03/12/2023 9:10 AM
+BAG:kiaoken add 1xRada cấp 7 lydo: Mua từ cửa hàng at 03/12/2023 9:10 AM
+BAG:kiaoken add 1xRada cấp 7 lydo: Mua từ cửa hàng at 03/12/2023 9:10 AM
+BAG:kiaoken add 1xRada cấp 7 lydo: Mua từ cửa hàng at 03/12/2023 9:11 AM
+BAG:kiaoken add 1xRada cấp 7 lydo: Mua từ cửa hàng at 03/12/2023 9:11 AM
+BAG:kiaoken add 1xRada cấp 7 lydo: Mua từ cửa hàng at 03/12/2023 9:11 AM
+BAG:kiaoken add 1xRada cấp 7 lydo: Mua từ cửa hàng at 03/12/2023 9:11 AM
+BAG:kiaoken add 1xRada cấp 7 lydo: Mua từ cửa hàng at 03/12/2023 9:11 AM
+BAG:kiaoken add 1xRada cấp 7 lydo: Mua từ cửa hàng at 03/12/2023 9:11 AM
+BAG:kiaoken add 1xRada cấp 7 lydo: Mua từ cửa hàng at 03/12/2023 9:11 AM
+BAG:kiaoken add 1xRada cấp 7 lydo: Mua từ cửa hàng at 03/12/2023 9:11 AM
+BAG:kiaoken add 1xRada cấp 7 lydo: Mua từ cửa hàng at 03/12/2023 9:11 AM
+BAG:kiaoken add 1xRada cấp 7 lydo: Mua từ cửa hàng at 03/12/2023 9:11 AM
+BAG:kiaoken add 1xRada cấp 6 lydo: Mua từ cửa hàng at 03/12/2023 9:11 AM
+BAG:kiaoken add 1xRada cấp 6 lydo: Mua từ cửa hàng at 03/12/2023 9:11 AM
+BAG:kiaoken add 1xRada cấp 4 lydo: Mua từ cửa hàng at 03/12/2023 9:12 AM
+BAG:kiaoken add 1xRada cấp 3 lydo: Mua từ cửa hàng at 03/12/2023 9:12 AM
+BAG:kiaoken add 1xRada cấp 2 lydo: Mua từ cửa hàng at 03/12/2023 9:12 AM
+BAG:kiaoken add 1xRada cấp 2 lydo: Mua từ cửa hàng at 03/12/2023 9:12 AM
+BAG:kiaoken add 1xRada cấp 1 lydo: Mua từ cửa hàng at 03/12/2023 9:12 AM
+BAG:kiaoken add 1xRada cấp 1 lydo: Mua từ cửa hàng at 03/12/2023 9:12 AM
+BAG:kiaoken add 1xRada cấp 1 lydo: Mua từ cửa hàng at 03/12/2023 9:12 AM
+BAG:kiaoken add 1xRada cấp 1 lydo: Mua từ cửa hàng at 03/12/2023 9:12 AM
+BAG:kiaoken add 1xRada cấp 1 lydo: Mua từ cửa hàng at 03/12/2023 9:13 AM
+BAG:kiaoken add 1xRada cấp 1 lydo: Mua từ cửa hàng at 03/12/2023 9:13 AM
+BAG:kiaoken add 1xRada cấp 1 lydo: Mua từ cửa hàng at 03/12/2023 9:13 AM
+BAG:kiaoken add 1xGăng vải đen lydo: Mua từ cửa hàng at 03/12/2023 9:13 AM
+BAG:kiaoken add 1xÁo vải 3 lỗ lydo: Mua từ cửa hàng at 03/12/2023 9:13 AM
+BAG:kiaoken add 1xÁo thun 3 lỗ lydo: Mua từ cửa hàng at 03/12/2023 9:19 AM
+BAG:kiaoken add 1xÁo vải 3 lỗ lydo: Mua từ cửa hàng at 03/12/2023 9:20 AM
+BAG:kiaoken add 1xÁo vải 3 lỗ lydo: Mua từ cửa hàng at 03/12/2023 9:20 AM
+BAG:kiaoken add 1xÁo vải 3 lỗ lydo: Mua từ cửa hàng at 03/12/2023 9:20 AM
+BAG:kiaoken add 1xGiầy nhựa lydo: Mua từ cửa hàng at 03/12/2023 9:20 AM
+BAG:kiaoken add 1xGiầy nhựa lydo: Mua từ cửa hàng at 03/12/2023 9:21 AM
+BAG:kiaoken add 1xĐá Ruby lydo: Nhặt từ map at 03/12/2023 9:21 AM
+BAG:kiaoken add 1xBông tai Porata lydo: Mua từ cửa hàng at 03/12/2023 9:21 AM
+BAG:kiaoken add 1xRada cấp 1 lydo: Lấy từ body vào hành trang at 03/12/2023 9:25 AM

@@ -1,0 +1,167 @@
+BAG:nhpzpro add 1xGiáp tập luyện cấp 3 lydo: Lấy từ body vào hành trang at 03/12/2023 12:43 PM
+BAG:nhpzpro add 1xGiáp tập luyện cấp 1 lydo: Lấy từ body đệ vào hành trang at 03/12/2023 1:13 PM
+BAG:nhpzpro add 1xNgọc Rồng 3 sao lydo: Nhập ngọc at 03/12/2023 1:16 PM
+BAG:nhpzpro add 2xNgọc Rồng 3 sao (old: 1) lydo: Nhập ngọc at 03/12/2023 1:18 PM
+BAG:nhpzpro add 3xNgọc Rồng 3 sao (old: 2) lydo: Nhập ngọc at 03/12/2023 1:18 PM
+BAG:nhpzpro add 4xNgọc Rồng 3 sao (old: 3) lydo: Nhập ngọc at 03/12/2023 1:18 PM
+BAG:nhpzpro add 5xNgọc Rồng 3 sao (old: 4) lydo: Nhập ngọc at 03/12/2023 1:18 PM
+BAG:nhpzpro add 6xNgọc Rồng 3 sao (old: 5) lydo: Nhập ngọc at 03/12/2023 1:18 PM
+BAG:nhpzpro add 7xNgọc Rồng 3 sao (old: 6) lydo: Nhập ngọc at 03/12/2023 1:18 PM
+BAG:nhpzpro add 8xNgọc Rồng 3 sao (old: 7) lydo: Nhập ngọc at 03/12/2023 1:18 PM
+BAG:nhpzpro add 9xNgọc Rồng 3 sao (old: 8) lydo: Nhập ngọc at 03/12/2023 1:18 PM
+BAG:nhpzpro add 10xNgọc Rồng 3 sao (old: 9) lydo: Nhập ngọc at 03/12/2023 1:18 PM
+BAG:nhpzpro add 11xNgọc Rồng 3 sao (old: 10) lydo: Nhập ngọc at 03/12/2023 1:18 PM
+BAG:nhpzpro add 12xNgọc Rồng 3 sao (old: 11) lydo: Nhập ngọc at 03/12/2023 1:18 PM
+BAG:nhpzpro add 13xNgọc Rồng 3 sao (old: 12) lydo: Nhập ngọc at 03/12/2023 1:18 PM
+BAG:nhpzpro add 14xNgọc Rồng 3 sao (old: 13) lydo: Nhập ngọc at 03/12/2023 1:19 PM
+BAG:nhpzpro add 15xNgọc Rồng 3 sao (old: 14) lydo: Nhập ngọc at 03/12/2023 1:19 PM
+BAG:nhpzpro add 16xNgọc Rồng 3 sao (old: 15) lydo: Nhập ngọc at 03/12/2023 1:19 PM
+BAG:nhpzpro add 17xNgọc Rồng 3 sao (old: 16) lydo: Nhập ngọc at 03/12/2023 1:19 PM
+BAG:nhpzpro add 1xNgọc Rồng 4 sao lydo: Nhập ngọc at 03/12/2023 1:23 PM
+BAG:nhpzpro add 2xNgọc Rồng 4 sao (old: 1) lydo: Nhập ngọc at 03/12/2023 1:23 PM
+BAG:nhpzpro add 3xNgọc Rồng 4 sao (old: 2) lydo: Nhập ngọc at 03/12/2023 1:23 PM
+BAG:nhpzpro add 4xNgọc Rồng 4 sao (old: 3) lydo: Nhập ngọc at 03/12/2023 1:24 PM
+BAG:nhpzpro add 5xNgọc Rồng 4 sao (old: 4) lydo: Nhập ngọc at 03/12/2023 1:24 PM
+BAG:nhpzpro add 6xNgọc Rồng 4 sao (old: 5) lydo: Nhập ngọc at 03/12/2023 1:24 PM
+BAG:nhpzpro add 7xNgọc Rồng 4 sao (old: 6) lydo: Nhập ngọc at 03/12/2023 1:24 PM
+BAG:nhpzpro add 8xNgọc Rồng 4 sao (old: 7) lydo: Nhập ngọc at 03/12/2023 1:24 PM
+BAG:nhpzpro add 9xNgọc Rồng 4 sao (old: 8) lydo: Nhập ngọc at 03/12/2023 1:24 PM
+BAG:nhpzpro add 10xNgọc Rồng 4 sao (old: 9) lydo: Nhập ngọc at 03/12/2023 1:24 PM
+BAG:nhpzpro add 11xNgọc Rồng 4 sao (old: 10) lydo: Nhập ngọc at 03/12/2023 1:24 PM
+BAG:nhpzpro add 12xNgọc Rồng 4 sao (old: 11) lydo: Nhập ngọc at 03/12/2023 1:24 PM
+BAG:nhpzpro add 13xNgọc Rồng 4 sao (old: 12) lydo: Nhập ngọc at 03/12/2023 1:24 PM
+BAG:nhpzpro add 2xNgọc Rồng 5 sao (old: 1) lydo: Nhập ngọc at 03/12/2023 1:24 PM
+BAG:nhpzpro add 3xNgọc Rồng 5 sao (old: 2) lydo: Nhập ngọc at 03/12/2023 1:24 PM
+BAG:nhpzpro add 4xNgọc Rồng 5 sao (old: 3) lydo: Nhập ngọc at 03/12/2023 1:24 PM
+BAG:nhpzpro add 5xNgọc Rồng 5 sao (old: 4) lydo: Nhập ngọc at 03/12/2023 1:24 PM
+BAG:nhpzpro add 6xNgọc Rồng 5 sao (old: 5) lydo: Nhập ngọc at 03/12/2023 1:24 PM
+BAG:nhpzpro add 7xNgọc Rồng 5 sao (old: 6) lydo: Nhập ngọc at 03/12/2023 1:24 PM
+BAG:nhpzpro add 8xNgọc Rồng 5 sao (old: 7) lydo: Nhập ngọc at 03/12/2023 1:24 PM
+BAG:nhpzpro add 9xNgọc Rồng 5 sao (old: 8) lydo: Nhập ngọc at 03/12/2023 1:24 PM
+BAG:nhpzpro add 10xNgọc Rồng 5 sao (old: 9) lydo: Nhập ngọc at 03/12/2023 1:24 PM
+BAG:nhpzpro add 11xNgọc Rồng 5 sao (old: 10) lydo: Nhập ngọc at 03/12/2023 1:24 PM
+BAG:nhpzpro add 12xNgọc Rồng 5 sao (old: 11) lydo: Nhập ngọc at 03/12/2023 1:25 PM
+BAG:nhpzpro add 13xNgọc Rồng 5 sao (old: 12) lydo: Nhập ngọc at 03/12/2023 1:25 PM
+BAG:nhpzpro add 14xNgọc Rồng 5 sao (old: 13) lydo: Nhập ngọc at 03/12/2023 1:25 PM
+BAG:nhpzpro add 14xNgọc Rồng 4 sao (old: 13) lydo: Nhập ngọc at 03/12/2023 1:26 PM
+BAG:nhpzpro add 15xNgọc Rồng 4 sao (old: 14) lydo: Nhập ngọc at 03/12/2023 1:26 PM
+BAG:nhpzpro add 18xNgọc Rồng 3 sao (old: 17) lydo: Nhập ngọc at 03/12/2023 1:26 PM
+BAG:nhpzpro add 19xNgọc Rồng 3 sao (old: 18) lydo: Nhập ngọc at 03/12/2023 1:27 PM
+BAG:nhpzpro add 20xThỏi vàng lydo: Lấy từ rương qua người at 03/12/2023 1:27 PM
+BAG:nhpzpro add 1xÁo vải 3 lỗ lydo: Lấy từ rương qua người at 03/12/2023 1:37 PM
+BAG:nhpzpro add 1xGiầy nhựa lydo: Lấy từ rương qua người at 03/12/2023 1:37 PM
+BAG:nhpzpro add 1xQuần vải đen lydo: Lấy từ rương qua người at 03/12/2023 1:37 PM
+BAG:nhpzpro add 1xRada cấp 1 lydo: Lấy từ rương qua người at 03/12/2023 1:37 PM
+BAG:nhpzpro add 1xGăng vải đen lydo: Lấy từ rương qua người at 03/12/2023 1:37 PM
+BAG:nhpzpro add 1xGiầy nhựa lydo: Lấy từ body vào hành trang at 03/12/2023 1:42 PM
+BAG:nhpzpro add 1671xHoa hồng đỏ (old: 1670) lydo: Nhặt từ map at 03/12/2023 1:42 PM
+BAG:nhpzpro add 1693xHoa hồng xanh (old: 1692) lydo: Nhặt từ map at 03/12/2023 1:42 PM
+BAG:nhpzpro add 1xGiầy nhựa lydo: Nhặt từ map at 03/12/2023 1:43 PM
+BAG:nhpzpro add 1672xHoa hồng đỏ (old: 1671) lydo: Nhặt từ map at 03/12/2023 1:43 PM
+BAG:nhpzpro add 1xGăng vải đen lydo: Nhặt từ map at 03/12/2023 1:43 PM
+BAG:nhpzpro add 1xRada cấp 1 lydo: Nhặt từ map at 03/12/2023 1:43 PM
+BAG:nhpzpro add 1694xHoa hồng xanh (old: 1693) lydo: Nhặt từ map at 03/12/2023 1:43 PM
+BAG:nhpzpro add 1695xHoa hồng xanh (old: 1694) lydo: Nhặt từ map at 03/12/2023 1:43 PM
+BAG:nhpzpro add 1xÁo vải 3 lỗ lydo: Nhặt từ map at 03/12/2023 1:43 PM
+BAG:nhpzpro add 1xĐá thạch anh tím lydo: Nhặt từ map at 03/12/2023 1:43 PM
+BAG:nhpzpro add 1xĐá Ruby lydo: Nhặt từ map at 03/12/2023 1:43 PM
+BAG:nhpzpro add 1xGăng vải đen lydo: Nhặt từ map at 03/12/2023 1:43 PM
+BAG:nhpzpro add 2xĐá thạch anh tím (old: 1) lydo: Nhặt từ map at 03/12/2023 1:43 PM
+BAG:nhpzpro add 1xRada cấp 1 lydo: Nhặt từ map at 03/12/2023 1:43 PM
+BAG:nhpzpro add 1696xHoa hồng xanh (old: 1695) lydo: Nhặt từ map at 03/12/2023 1:43 PM
+BAG:nhpzpro add 1xÁo vải 3 lỗ lydo: Nhặt từ map at 03/12/2023 1:43 PM
+BAG:nhpzpro add 2093xHoa hồng vàng (old: 2092) lydo: Nhặt từ map at 03/12/2023 1:43 PM
+BAG:nhpzpro add 1673xHoa hồng đỏ (old: 1672) lydo: Nhặt từ map at 03/12/2023 1:43 PM
+BAG:nhpzpro add 1xGăng vải đen lydo: Nhặt từ map at 03/12/2023 1:43 PM
+BAG:nhpzpro add 1697xHoa hồng xanh (old: 1696) lydo: Nhặt từ map at 03/12/2023 1:44 PM
+BAG:nhpzpro add 2094xHoa hồng vàng (old: 2093) lydo: Nhặt từ map at 03/12/2023 1:44 PM
+BAG:nhpzpro add 1xRada cấp 1 lydo: Nhặt từ map at 03/12/2023 1:44 PM
+BAG:nhpzpro add 3xĐá thạch anh tím (old: 2) lydo: Nhặt từ map at 03/12/2023 1:44 PM
+BAG:nhpzpro add 2095xHoa hồng vàng (old: 2094) lydo: Nhặt từ map at 03/12/2023 1:44 PM
+BAG:nhpzpro add 2096xHoa hồng vàng (old: 2095) lydo: Nhặt từ map at 03/12/2023 1:44 PM
+BAG:nhpzpro add 1xĐá Titan lydo: Nhặt từ map at 03/12/2023 1:44 PM
+BAG:nhpzpro add 1xRada cấp 1 lydo: Nhặt từ map at 03/12/2023 1:44 PM
+BAG:nhpzpro add 1xNgọc Rồng 5 sao lydo: Nhặt từ map at 03/12/2023 1:44 PM
+BAG:nhpzpro add 1xGăng vải đen lydo: Nhặt từ map at 03/12/2023 1:44 PM
+BAG:nhpzpro add 1698xHoa hồng xanh (old: 1697) lydo: Nhặt từ map at 03/12/2023 1:44 PM
+BAG:nhpzpro add 2097xHoa hồng vàng (old: 2096) lydo: Nhặt từ map at 03/12/2023 1:44 PM
+BAG:nhpzpro add 1xRada cấp 1 lydo: Nhặt từ map at 03/12/2023 1:44 PM
+BAG:nhpzpro add 1xÁo vải 3 lỗ lydo: Nhặt từ map at 03/12/2023 1:44 PM
+BAG:nhpzpro add 1699xHoa hồng xanh (old: 1698) lydo: Nhặt từ map at 03/12/2023 1:44 PM
+BAG:nhpzpro add 1xÁo vải 3 lỗ lydo: Nhặt từ map at 03/12/2023 1:44 PM
+BAG:nhpzpro add 1xGăng vải đen lydo: Nhặt từ map at 03/12/2023 1:45 PM
+BAG:nhpzpro add 1xĐá Saphia lydo: Nhặt từ map at 03/12/2023 1:45 PM
+BAG:nhpzpro add 1674xHoa hồng đỏ (old: 1673) lydo: Nhặt từ map at 03/12/2023 1:45 PM
+BAG:nhpzpro add 1700xHoa hồng xanh (old: 1699) lydo: Nhặt từ map at 03/12/2023 1:45 PM
+BAG:nhpzpro add 1701xHoa hồng xanh (old: 1700) lydo: Nhặt từ map at 03/12/2023 1:45 PM
+BAG:nhpzpro add 1xÁo vải 3 lỗ lydo: Nhặt từ map at 03/12/2023 1:45 PM
+BAG:nhpzpro add 1xRada cấp 1 lydo: Nhặt từ map at 03/12/2023 1:45 PM
+BAG:nhpzpro add 1702xHoa hồng xanh (old: 1701) lydo: Nhặt từ map at 03/12/2023 1:45 PM
+BAG:nhpzpro add 2098xHoa hồng vàng (old: 2097) lydo: Nhặt từ map at 03/12/2023 1:45 PM
+BAG:nhpzpro add 1675xHoa hồng đỏ (old: 1674) lydo: Nhặt từ map at 03/12/2023 1:45 PM
+BAG:nhpzpro add 1676xHoa hồng đỏ (old: 1675) lydo: Nhặt từ map at 03/12/2023 1:45 PM
+BAG:nhpzpro add 2099xHoa hồng vàng (old: 2098) lydo: Nhặt từ map at 03/12/2023 1:45 PM
+BAG:nhpzpro add 1677xHoa hồng đỏ (old: 1676) lydo: Nhặt từ map at 03/12/2023 1:45 PM
+BAG:nhpzpro add 1703xHoa hồng xanh (old: 1702) lydo: Nhặt từ map at 03/12/2023 1:45 PM
+BAG:nhpzpro add 1xMảnh Khủng long lydo: Nhặt từ map at 03/12/2023 1:45 PM
+BAG:nhpzpro add 2xMảnh Khủng long (old: 1) lydo: Nhặt từ map at 03/12/2023 1:46 PM
+BAG:nhpzpro add 1704xHoa hồng xanh (old: 1703) lydo: Nhặt từ map at 03/12/2023 1:46 PM
+BAG:nhpzpro add 2100xHoa hồng vàng (old: 2099) lydo: Nhặt từ map at 03/12/2023 1:46 PM
+BAG:nhpzpro add 1xQuần vải đen lydo: Nhặt từ map at 03/12/2023 1:46 PM
+BAG:nhpzpro add 1678xHoa hồng đỏ (old: 1677) lydo: Nhặt từ map at 03/12/2023 1:46 PM
+BAG:nhpzpro add 1679xHoa hồng đỏ (old: 1678) lydo: Nhặt từ map at 03/12/2023 1:46 PM
+BAG:nhpzpro add 1705xHoa hồng xanh (old: 1704) lydo: Nhặt từ map at 03/12/2023 1:46 PM
+BAG:nhpzpro add 1xÁo vải 3 lỗ lydo: Lấy từ body vào hành trang at 03/12/2023 1:49 PM
+BAG:nhpzpro add 1xQuần vải đen lydo: Lấy từ body vào hành trang at 03/12/2023 1:49 PM
+BAG:nhpzpro add 1xGăng vải đen lydo: Lấy từ body vào hành trang at 03/12/2023 1:49 PM
+BAG:nhpzpro add 1xGiầy nhựa lydo: Lấy từ body vào hành trang at 03/12/2023 1:49 PM
+BAG:nhpzpro add 1xRada cấp 1 lydo: Lấy từ body vào hành trang at 03/12/2023 1:49 PM
+BAG:nhpzpro add 99xNgọc Rồng 3 sao lydo: Lấy từ rương qua người at 03/12/2023 1:53 PM
+BAG:nhpzpro add 99xThỏi vàng lydo: Lấy từ rương qua người at 03/12/2023 1:53 PM
+BAG:nhpzpro add 1xCải trang Chill cấp 2 lydo: Lấy từ body vào hành trang at 03/12/2023 2:48 PM
+BAG:nhpzpro add 1xCải trang Chill cấp 2 lydo: Lấy từ body vào hành trang at 03/12/2023 2:51 PM
+BAG:nhpzpro add 193xThỏi vàng (old: 94) lydo: Lấy từ rương qua người at 03/12/2023 2:56 PM
+BAG:nhpzpro add 1xCải Trang Thần Zeno Trái Đất lydo: Mua từ bill at 03/12/2023 2:57 PM
+BAG:nhpzpro add 97xThỏi vàng (old: 93) lydo: Lấy từ rương qua người at 03/12/2023 2:57 PM
+BAG:nhpzpro add 81xNgọc Rồng 3 sao (old: 69) lydo: Lấy từ rương qua người at 03/12/2023 2:57 PM
+BAG:nhpzpro add 1xGiáp tập luyện cấp 3 lydo: Lấy từ body vào hành trang at 03/12/2023 3:05 PM
+BAG:nhpzpro add 2101xHoa hồng vàng (old: 2100) lydo: Nhặt từ map at 03/12/2023 3:06 PM
+BAG:nhpzpro add 2102xHoa hồng vàng (old: 2101) lydo: Nhặt từ map at 03/12/2023 3:07 PM
+BAG:nhpzpro add 2103xHoa hồng vàng (old: 2102) lydo: Nhặt từ map at 03/12/2023 3:07 PM
+BAG:nhpzpro add 1xĐá Titan lydo: Nhặt từ map at 03/12/2023 3:07 PM
+BAG:nhpzpro add 1706xHoa hồng xanh (old: 1705) lydo: Nhặt từ map at 03/12/2023 3:09 PM
+BAG:nhpzpro add 2xNgọc Rồng 4 sao (old: 1) lydo: Nhặt từ map at 03/12/2023 3:09 PM
+BAG:nhpzpro add 2104xHoa hồng vàng (old: 2103) lydo: Nhặt từ map at 03/12/2023 3:09 PM
+BAG:nhpzpro add 2105xHoa hồng vàng (old: 2104) lydo: Nhặt từ map at 03/12/2023 3:09 PM
+BAG:nhpzpro add 1707xHoa hồng xanh (old: 1706) lydo: Nhặt từ map at 03/12/2023 3:11 PM
+BAG:nhpzpro add 2106xHoa hồng vàng (old: 2105) lydo: Nhặt từ map at 03/12/2023 4:24 PM
+BAG:nhpzpro add 2107xHoa hồng vàng (old: 2106) lydo: Nhặt từ map at 03/12/2023 4:44 PM
+BAG:nhpzpro add 1708xHoa hồng xanh (old: 1707) lydo: Nhặt từ map at 03/12/2023 4:57 PM
+BAG:nhpzpro add 2108xHoa hồng vàng (old: 2107) lydo: Nhặt từ map at 03/12/2023 5:01 PM
+BAG:nhpzpro add 2109xHoa hồng vàng (old: 2108) lydo: Nhặt từ map at 03/12/2023 5:07 PM
+BAG:nhpzpro add 1xĐá lục bảo lydo: Nhặt từ map at 03/12/2023 5:15 PM
+BAG:nhpzpro add 1709xHoa hồng xanh (old: 1708) lydo: Nhặt từ map at 03/12/2023 5:22 PM
+BAG:nhpzpro add 1710xHoa hồng xanh (old: 1709) lydo: Nhặt từ map at 03/12/2023 5:30 PM
+BAG:nhpzpro add 1711xHoa hồng xanh (old: 1710) lydo: Nhặt từ map at 03/12/2023 5:39 PM
+BAG:nhpzpro add 2110xHoa hồng vàng (old: 2109) lydo: Nhặt từ map at 03/12/2023 5:42 PM
+BAG:nhpzpro add 1xGăng vải đen lydo: Lấy từ body vào hành trang at 03/12/2023 5:47 PM
+BAG:nhpzpro add 1xÁo vải 3 lỗ lydo: Lấy từ body vào hành trang at 03/12/2023 5:48 PM
+BAG:nhpzpro add 1xQuần vải đen lydo: Lấy từ body vào hành trang at 03/12/2023 5:48 PM
+BAG:nhpzpro add 1xGiầy nhựa lydo: Lấy từ body vào hành trang at 03/12/2023 5:48 PM
+BAG:nhpzpro add 1xRada cấp 1 lydo: Lấy từ body vào hành trang at 03/12/2023 5:48 PM
+BAG:nhpzpro add 2111xHoa hồng vàng (old: 2110) lydo: Nhặt từ map at 03/12/2023 6:02 PM
+BAG:nhpzpro add 1680xHoa hồng đỏ (old: 1679) lydo: Nhặt từ map at 03/12/2023 6:12 PM
+BAG:nhpzpro add 1xÁo vải 3 lỗ lydo: Lấy từ body đệ vào hành trang at 03/12/2023 7:12 PM
+BAG:nhpzpro add 1xQuần vải đen lydo: Lấy từ body đệ vào hành trang at 03/12/2023 7:12 PM
+BAG:nhpzpro add 1xGăng vải đen lydo: Lấy từ body đệ vào hành trang at 03/12/2023 7:12 PM
+BAG:nhpzpro add 1xGiầy nhựa lydo: Lấy từ body đệ vào hành trang at 03/12/2023 7:12 PM
+BAG:nhpzpro add 1xRada cấp 1 lydo: Lấy từ body đệ vào hành trang at 03/12/2023 7:12 PM
+BAG:nhpzpro add 1xCải Trang Thần Zeno Trái Đất lydo: Lấy từ body đệ vào hành trang at 03/12/2023 7:12 PM
+BAG:nhpzpro add 1xGiáp tập luyện cấp 1 lydo: Lấy từ body đệ vào hành trang at 03/12/2023 7:12 PM
+BAG:nhpzpro add 88xThỏi vàng lydo: Lấy từ rương qua người at 03/12/2023 7:18 PM
+BAG:nhpzpro add 1xNâng cấp kỹ năng 1 đệ tử lydo: Mua từ cửa hàng at 03/12/2023 7:24 PM
+BAG:nhpzpro add 2xNâng cấp kỹ năng 1 đệ tử (old: 1) lydo: Mua từ cửa hàng at 03/12/2023 7:24 PM
+BAG:nhpzpro add 3xNâng cấp kỹ năng 1 đệ tử (old: 2) lydo: Mua từ cửa hàng at 03/12/2023 7:24 PM
+BAG:nhpzpro add 4xNâng cấp kỹ năng 1 đệ tử (old: 3) lydo: Mua từ cửa hàng at 03/12/2023 7:24 PM
+BAG:nhpzpro add 5xNâng cấp kỹ năng 1 đệ tử (old: 4) lydo: Mua từ cửa hàng at 03/12/2023 7:24 PM
+BAG:nhpzpro add 6xNâng cấp kỹ năng 1 đệ tử (old: 5) lydo: Mua từ cửa hàng at 03/12/2023 7:24 PM

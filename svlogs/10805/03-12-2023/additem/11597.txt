@@ -1,0 +1,62 @@
+BAG:abkiller add 150xThỏi vàng lydo: Giftcode at 03/12/2023 7:36 AM
+BAG:abkiller add 99xNgọc Rồng 3 sao lydo: Giftcode at 03/12/2023 7:36 AM
+BAG:abkiller add 5xĐậu thần cấp 1 lydo: Thu hoạch đậu at 03/12/2023 7:37 AM
+BAG:abkiller add 1xCải Trang Thần Zeno Trái Đất lydo: Mua từ bill at 03/12/2023 7:37 AM
+BAG:abkiller add 1xHoa hồng xanh lydo: Nhặt từ map at 03/12/2023 7:40 AM
+BAG:abkiller add 10xĐậu thần cấp 1 (old: 5) lydo: Thu hoạch đậu at 03/12/2023 7:40 AM
+BAG:abkiller add 15xĐậu thần cấp 1 (old: 10) lydo: Lấy từ rương qua người at 03/12/2023 7:41 AM
+BAG:abkiller add 1xRada cấp 1 lydo: Lấy từ rương qua người at 03/12/2023 7:41 AM
+BAG:abkiller add 20xĐậu thần cấp 5 lydo: Lấy từ rương qua người at 03/12/2023 7:41 AM
+BAG:abkiller add 25xĐậu thần cấp 5 (old: 20) lydo: Lấy từ rương qua người at 03/12/2023 7:42 AM
+BAG:abkiller add 1xĐá thạch anh tím lydo: Nhặt từ map at 03/12/2023 7:42 AM
+BAG:abkiller add 1xQuần vải đen lydo: Nhặt từ map at 03/12/2023 7:43 AM
+BAG:abkiller add 1xÁo vải 3 lỗ lydo: Nhặt từ map at 03/12/2023 7:43 AM
+BAG:abkiller add 1xQuần vải đen lydo: Nhặt từ map at 03/12/2023 7:43 AM
+BAG:abkiller add 1xHoa hồng đỏ lydo: Nhặt từ map at 03/12/2023 7:43 AM
+BAG:abkiller add 1xQuần vải đen lydo: Nhặt từ map at 03/12/2023 7:46 AM
+BAG:abkiller add 2xHoa hồng đỏ (old: 1) lydo: Nhặt từ map at 03/12/2023 7:47 AM
+BAG:abkiller add 3xHoa hồng đỏ (old: 2) lydo: Nhặt từ map at 03/12/2023 7:47 AM
+BAG:abkiller add 1xHoa hồng vàng lydo: Nhặt từ map at 03/12/2023 7:47 AM
+BAG:abkiller add 1xĐá Titan lydo: Nhặt từ map at 03/12/2023 7:47 AM
+BAG:abkiller add 4xHoa hồng đỏ (old: 3) lydo: Nhặt từ map at 03/12/2023 7:48 AM
+BAG:abkiller add 1xĐá lục bảo lydo: Nhặt từ map at 03/12/2023 7:48 AM
+BAG:abkiller add 5xHoa hồng đỏ (old: 4) lydo: Nhặt từ map at 03/12/2023 7:48 AM
+BAG:abkiller add 2xHoa hồng vàng (old: 1) lydo: Nhặt từ map at 03/12/2023 7:48 AM
+BAG:abkiller add 3xHoa hồng vàng (old: 2) lydo: Nhặt từ map at 03/12/2023 7:48 AM
+BAG:abkiller add 6xHoa hồng đỏ (old: 5) lydo: Nhặt từ map at 03/12/2023 7:49 AM
+BAG:abkiller add 4xHoa hồng vàng (old: 3) lydo: Nhặt từ map at 03/12/2023 7:49 AM
+BAG:abkiller add 7xHoa hồng đỏ (old: 6) lydo: Nhặt từ map at 03/12/2023 7:49 AM
+BAG:abkiller add 1xCân đẩu vân VIP lydo: Mua từ cửa hàng at 03/12/2023 7:49 AM
+BAG:abkiller add 2xĐá Titan (old: 1) lydo: Nhặt từ map at 03/12/2023 7:49 AM
+BAG:abkiller add 2xĐá thạch anh tím (old: 1) lydo: Nhặt từ map at 03/12/2023 7:49 AM
+BAG:abkiller add 8xHoa hồng đỏ (old: 7) lydo: Nhặt từ map at 03/12/2023 7:49 AM
+BAG:abkiller add 5xHoa hồng vàng (old: 4) lydo: Nhặt từ map at 03/12/2023 7:50 AM
+BAG:abkiller add 1xQuần vải đen lydo: Nhặt từ map at 03/12/2023 7:50 AM
+BAG:abkiller add 9xHoa hồng đỏ (old: 8) lydo: Nhặt từ map at 03/12/2023 7:50 AM
+BAG:abkiller add 10xHoa hồng đỏ (old: 9) lydo: Nhặt từ map at 03/12/2023 7:50 AM
+BAG:abkiller add 1xĐá Saphia lydo: Nhặt từ map at 03/12/2023 7:50 AM
+BAG:abkiller add 11xHoa hồng đỏ (old: 10) lydo: Nhặt từ map at 03/12/2023 7:50 AM
+BAG:abkiller add 6xHoa hồng vàng (old: 5) lydo: Nhặt từ map at 03/12/2023 7:50 AM
+BAG:abkiller add 2xHoa hồng xanh (old: 1) lydo: Nhặt từ map at 03/12/2023 7:50 AM
+BAG:abkiller add 7xHoa hồng vàng (old: 6) lydo: Nhặt từ map at 03/12/2023 7:50 AM
+BAG:abkiller add 12xHoa hồng đỏ (old: 11) lydo: Nhặt từ map at 03/12/2023 7:51 AM
+BAG:abkiller add 13xHoa hồng đỏ (old: 12) lydo: Nhặt từ map at 03/12/2023 7:51 AM
+BAG:abkiller add 2xĐá lục bảo (old: 1) lydo: Nhặt từ map at 03/12/2023 7:51 AM
+BAG:abkiller add 8xHoa hồng vàng (old: 7) lydo: Nhặt từ map at 03/12/2023 7:51 AM
+BAG:abkiller add 1xViên Capsule đặc biệt lydo: Mua từ cửa hàng at 03/12/2023 7:52 AM
+BAG:abkiller add 3xHoa hồng xanh (old: 2) lydo: Nhặt từ map at 03/12/2023 7:52 AM
+BAG:abkiller add 3xĐá thạch anh tím (old: 2) lydo: Nhặt từ map at 03/12/2023 7:53 AM
+BAG:abkiller add 9xHoa hồng vàng (old: 8) lydo: Nhặt từ map at 03/12/2023 7:53 AM
+BAG:abkiller add 14xHoa hồng đỏ (old: 13) lydo: Nhặt từ map at 03/12/2023 7:53 AM
+BAG:abkiller add 15xHoa hồng đỏ (old: 14) lydo: Nhặt từ map at 03/12/2023 7:53 AM
+BAG:abkiller add 16xHoa hồng đỏ (old: 15) lydo: Nhặt từ map at 03/12/2023 7:53 AM
+BAG:abkiller add 4xHoa hồng xanh (old: 3) lydo: Nhặt từ map at 03/12/2023 7:54 AM
+BAG:abkiller add 1xGăng thun dày lydo: Mua từ cửa hàng at 03/12/2023 7:56 AM
+BAG:abkiller add 1xÁo vải Kame lydo: Mua từ cửa hàng at 03/12/2023 7:56 AM
+BAG:abkiller add 1xQuần vải Kame lydo: Mua từ cửa hàng at 03/12/2023 7:56 AM
+BAG:abkiller add 1xGiày nhựa Kame lydo: Mua từ cửa hàng at 03/12/2023 7:56 AM
+BAG:abkiller add 1xRada cấp 5 lydo: Mua từ cửa hàng at 03/12/2023 7:56 AM
+BAG:abkiller add 1xTự động luyện tập lydo: Mua TDTL từ cửa hàng at 03/12/2023 7:57 AM
+BAG:abkiller add 5xHoa hồng xanh (old: 4) lydo: Nhặt từ map at 03/12/2023 7:58 AM
+BAG:abkiller add 17xHoa hồng đỏ (old: 16) lydo: Nhặt từ map at 03/12/2023 7:59 AM
+BAG:abkiller add 10xHoa hồng vàng (old: 9) lydo: Nhặt từ map at 03/12/2023 8:00 AM

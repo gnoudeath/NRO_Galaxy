@@ -1,0 +1,111 @@
+BAG:rengoku remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/11/2023 12:55 PM
+BAG:rengoku remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/11/2023 12:57 PM
+BAG:rengoku remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/11/2023 1:00 PM
+BAG:rengoku remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/11/2023 1:01 PM
+BAG:rengoku remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/11/2023 1:02 PM
+BAG:rengoku remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/11/2023 1:04 PM
+BAG:rengoku remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/11/2023 1:06 PM
+BAG:rengoku remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/11/2023 1:06 PM
+BAG:rengoku remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/11/2023 1:07 PM
+BAG:rengoku remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/11/2023 1:28 PM
+BAG:rengoku remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/11/2023 1:28 PM
+BAG:rengoku remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/11/2023 1:29 PM
+BAG:rengoku remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/11/2023 7:17 PM
+BAG:rengoku remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/11/2023 7:25 PM
+BAG:rengoku remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/11/2023 7:32 PM
+BAG:rengoku remove 1xSách Thôi Miên lv1 lydo: Bán cho shop at 03/11/2023 7:37 PM
+BAG:rengoku remove 1xSách Thôi Miên lv2 lydo: Bán cho shop at 03/11/2023 7:37 PM
+BAG:rengoku remove 1xSách Thôi Miên lv3 lydo: Bán cho shop at 03/11/2023 7:37 PM
+BAG:rengoku remove 1xSách Thôi Miên lv4 lydo: Bán cho shop at 03/11/2023 7:37 PM
+BAG:rengoku remove 1xSách Thôi Miên lv5 lydo: Bán cho shop at 03/11/2023 7:37 PM
+BAG:rengoku remove 1xSách Thôi Miên lv6 lydo: Bán cho shop at 03/11/2023 7:37 PM
+BAG:rengoku remove 1xSách Thôi Miên lv7 lydo: Bán cho shop at 03/11/2023 7:38 PM
+BAG:rengoku remove Kaioken lv1 lydo: Sách kĩ năng at 03/11/2023 7:38 PM
+BAG:rengoku remove Kaioken lv2 lydo: Sách kĩ năng at 03/11/2023 7:38 PM
+BAG:rengoku remove Kaioken lv3 lydo: Sách kĩ năng at 03/11/2023 7:38 PM
+BAG:rengoku remove Kaioken lv4 lydo: Sách kĩ năng at 03/11/2023 7:38 PM
+BAG:rengoku remove Kaioken lv5 lydo: Sách kĩ năng at 03/11/2023 7:38 PM
+BAG:rengoku remove Kaioken lv6 lydo: Sách kĩ năng at 03/11/2023 7:38 PM
+BAG:rengoku remove Kaioken lv7 lydo: Sách kĩ năng at 03/11/2023 7:38 PM
+BAG:rengoku remove Thái Dương Hạ San lv1 lydo: Sách kĩ năng at 03/11/2023 7:38 PM
+BAG:rengoku remove Thái Dương Hạ San lv2 lydo: Sách kĩ năng at 03/11/2023 7:38 PM
+BAG:rengoku remove Thái Dương Hạ San lv3 lydo: Sách kĩ năng at 03/11/2023 7:38 PM
+BAG:rengoku remove Thái Dương Hạ San lv4 lydo: Sách kĩ năng at 03/11/2023 7:38 PM
+BAG:rengoku remove Thái Dương Hạ San lv5 lydo: Sách kĩ năng at 03/11/2023 7:38 PM
+BAG:rengoku remove Thái Dương Hạ San lv6 lydo: Sách kĩ năng at 03/11/2023 7:39 PM
+BAG:rengoku remove Thái Dương Hạ San lv7 lydo: Sách kĩ năng at 03/11/2023 7:39 PM
+BAG:rengoku remove Quả cầu Kênh Khi lv1 lydo: Sách kĩ năng at 03/11/2023 7:39 PM
+BAG:rengoku remove Quả cầu Kênh Khi lv2 lydo: Sách kĩ năng at 03/11/2023 7:39 PM
+BAG:rengoku remove Quả cầu Kênh Khi lv3 lydo: Sách kĩ năng at 03/11/2023 7:39 PM
+BAG:rengoku remove Quả cầu Kênh Khi lv4 lydo: Sách kĩ năng at 03/11/2023 7:39 PM
+BAG:rengoku remove Quả cầu Kênh Khi lv5 lydo: Sách kĩ năng at 03/11/2023 7:39 PM
+BAG:rengoku remove Quả cầu Kênh Khi lv6 lydo: Sách kĩ năng at 03/11/2023 7:39 PM
+BAG:rengoku remove Quả cầu Kênh Khi lv7 lydo: Sách kĩ năng at 03/11/2023 7:39 PM
+BAG:rengoku remove Sách Thôi Miên lv1 lydo: Sách kĩ năng at 03/11/2023 7:39 PM
+BAG:rengoku remove Sách Thôi Miên lv2 lydo: Sách kĩ năng at 03/11/2023 7:39 PM
+BAG:rengoku remove Sách Thôi Miên lv3 lydo: Sách kĩ năng at 03/11/2023 7:39 PM
+BAG:rengoku remove Sách Thôi Miên lv4 lydo: Sách kĩ năng at 03/11/2023 7:39 PM
+BAG:rengoku remove Sách Thôi Miên lv5 lydo: Sách kĩ năng at 03/11/2023 7:39 PM
+BAG:rengoku remove Sách Thôi Miên lv6 lydo: Sách kĩ năng at 03/11/2023 7:39 PM
+BAG:rengoku remove Sách Thôi Miên lv7 lydo: Sách kĩ năng at 03/11/2023 7:39 PM
+BAG:rengoku remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/11/2023 7:40 PM
+BAG:rengoku remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/11/2023 7:41 PM
+BAG:rengoku remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/11/2023 7:41 PM
+BAG:rengoku remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/11/2023 7:41 PM
+BAG:rengoku remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/11/2023 7:41 PM
+BAG:rengoku remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/11/2023 7:42 PM
+BAG:rengoku remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/11/2023 7:42 PM
+BAG:rengoku remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/11/2023 7:42 PM
+BAG:rengoku remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/11/2023 7:42 PM
+BAG:rengoku remove Giáp tập luyện cấp 3 lydo: Mặc vào người at 03/11/2023 7:44 PM
+BAG:rengoku remove 1xThỏi vàng lydo: Bán cho shop at 03/11/2023 7:45 PM
+BAG:rengoku remove 1xThỏi vàng lydo: Bán cho shop at 03/11/2023 7:45 PM
+BAG:rengoku remove 1xThỏi vàng lydo: Bán cho shop at 03/11/2023 7:45 PM
+BAG:rengoku remove 1xThỏi vàng lydo: Bán cho shop at 03/11/2023 7:48 PM
+BAG:rengoku remove 1xThỏi vàng lydo: Bán cho shop at 03/11/2023 7:48 PM
+BAG:rengoku remove 1xThỏi vàng lydo: Bán cho shop at 03/11/2023 7:48 PM
+BAG:rengoku remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/11/2023 8:48 PM
+BAG:rengoku remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/11/2023 8:48 PM
+BAG:rengoku remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/11/2023 8:48 PM
+BAG:rengoku remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/11/2023 8:49 PM
+BAG:rengoku remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/11/2023 8:49 PM
+BAG:rengoku remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/11/2023 8:49 PM
+BAG:rengoku remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/11/2023 8:50 PM
+BAG:rengoku remove Đậu thần cấp 9 lydo: Tự Xóa vật phẩm at 03/11/2023 8:50 PM
+BAG:rengoku remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/11/2023 8:51 PM
+BAG:rengoku remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/11/2023 8:52 PM
+BAG:rengoku remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/11/2023 8:52 PM
+BAG:rengoku remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/11/2023 8:52 PM
+BAG:rengoku remove 1xVệ tinh trí tuệ lydo: Dùng vệ tinh at 03/11/2023 8:53 PM
+BAG:rengoku remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/11/2023 8:53 PM
+BAG:rengoku remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/11/2023 8:53 PM
+BAG:rengoku remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/11/2023 8:54 PM
+BAG:rengoku remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/11/2023 8:54 PM
+BAG:rengoku remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/11/2023 8:54 PM
+BAG:rengoku remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/11/2023 8:54 PM
+BAG:rengoku remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/11/2023 8:54 PM
+BAG:rengoku remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/11/2023 8:55 PM
+BAG:rengoku remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/11/2023 8:55 PM
+BAG:rengoku remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/11/2023 8:55 PM
+BAG:rengoku remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/11/2023 8:56 PM
+BAG:rengoku remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/11/2023 8:56 PM
+BAG:rengoku remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/11/2023 8:56 PM
+BAG:rengoku remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/11/2023 8:57 PM
+BAG:rengoku remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/11/2023 8:57 PM
+BAG:rengoku remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/11/2023 8:57 PM
+BAG:rengoku remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/11/2023 8:57 PM
+BAG:rengoku remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/11/2023 8:59 PM
+BAG:rengoku remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/11/2023 8:59 PM
+BAG:rengoku remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/11/2023 9:00 PM
+BAG:rengoku remove Đá lục bảo lydo: Tự Xóa vật phẩm at 03/11/2023 9:00 PM
+BAG:rengoku remove Ngọc Rồng 6 sao lydo: Tự Xóa vật phẩm at 03/11/2023 9:00 PM
+BAG:rengoku remove Ngọc Rồng 5 sao lydo: Tự Xóa vật phẩm at 03/11/2023 9:00 PM
+BAG:rengoku remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/11/2023 9:01 PM
+BAG:rengoku remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/11/2023 9:01 PM
+BAG:rengoku remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/11/2023 9:01 PM
+BAG:rengoku remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/11/2023 9:02 PM
+BAG:rengoku remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/11/2023 9:02 PM
+BAG:rengoku remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/11/2023 9:03 PM
+BAG:rengoku remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/11/2023 9:04 PM
+BAG:rengoku remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/11/2023 9:04 PM
+BAG:rengoku remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/11/2023 9:04 PM

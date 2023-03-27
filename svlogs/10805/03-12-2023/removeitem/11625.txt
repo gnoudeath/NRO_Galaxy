@@ -1,0 +1,433 @@
+BAG:sysadboii remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 03/12/2023 12:04 PM
+BAG:sysadboii remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 03/12/2023 12:04 PM
+BAG:sysadboii remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 03/12/2023 12:05 PM
+BAG:sysadboii remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 03/12/2023 12:06 PM
+BAG:sysadboii remove Găng len Pico lydo: Mặc vào người at 03/12/2023 12:16 PM
+BAG:sysadboii remove Sách đấm Demon lv2 lydo: Sách kĩ năng at 03/12/2023 12:17 PM
+BAG:sysadboii remove Sách đấm Demon lv3 lydo: Sách kĩ năng at 03/12/2023 12:17 PM
+BAG:sysadboii remove 1xQuần sợi len lydo: Bán cho shop at 03/12/2023 12:19 PM
+BAG:sysadboii remove 1xÁo sợi len lydo: Bán cho shop at 03/12/2023 12:19 PM
+BAG:sysadboii remove Cải trang Chill cấp 2 lydo: Mặc vào người at 03/12/2023 12:23 PM
+BAG:sysadboii remove Quần sợi len lydo: Cất vào rương at 03/12/2023 12:23 PM
+BAG:sysadboii remove Sách đấm Demon lv1 lydo: Cất vào rương at 03/12/2023 12:23 PM
+BAG:sysadboii remove Rada cấp 1 lydo: Cất vào rương at 03/12/2023 12:23 PM
+BAG:sysadboii remove Ngọc Rồng 3 sao lydo: Cất vào rương at 03/12/2023 12:24 PM
+BAG:sysadboii remove Thỏi vàng lydo: Cất vào rương at 03/12/2023 12:24 PM
+BAG:sysadboii remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 03/12/2023 12:40 PM
+BAG:sysadboii remove Cải trang Chill cấp 2 lydo: Mặc cho đệ tử at 03/12/2023 12:42 PM
+BAG:sysadboii remove Găng len Pico lydo: Mặc vào người at 03/12/2023 12:42 PM
+BAG:sysadboii remove 1xNâng cấp kỹ năng 1 đệ tử lydo: Dùng sách kĩ năng đệ tử at 03/12/2023 12:43 PM
+BAG:sysadboii remove 1xNâng cấp kỹ năng 1 đệ tử lydo: Dùng sách kĩ năng đệ tử at 03/12/2023 12:43 PM
+BAG:sysadboii remove Găng len Pico lydo: Mặc vào người at 03/12/2023 12:45 PM
+BAG:sysadboii remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 03/12/2023 12:46 PM
+BAG:sysadboii remove 1xÁo thun Pico lydo: Bán cho shop at 03/12/2023 12:48 PM
+BAG:sysadboii remove 1xQuần thun Pico lydo: Bán cho shop at 03/12/2023 12:48 PM
+BAG:sysadboii remove Giày cao su cứng lydo: Mặc vào người at 03/12/2023 12:48 PM
+BAG:sysadboii remove Giầy sợi len lydo: Tự Xóa vật phẩm at 03/12/2023 12:52 PM
+BAG:sysadboii remove Mảnh Lợn lòi lydo: Tự Xóa vật phẩm at 03/12/2023 12:52 PM
+BAG:sysadboii remove Giầy sợi len lydo: Tự Xóa vật phẩm at 03/12/2023 12:52 PM
+BAG:sysadboii remove Hoa hồng vàng lydo: Tự Xóa vật phẩm at 03/12/2023 12:52 PM
+BAG:sysadboii remove Hoa hồng đỏ lydo: Tự Xóa vật phẩm at 03/12/2023 12:52 PM
+BAG:sysadboii remove Hoa hồng xanh lydo: Tự Xóa vật phẩm at 03/12/2023 12:52 PM
+BAG:sysadboii remove Áo sợi len lydo: Tự Xóa vật phẩm at 03/12/2023 12:53 PM
+BAG:sysadboii remove Áo sợi len lydo: Tự Xóa vật phẩm at 03/12/2023 12:53 PM
+BAG:sysadboii remove Quần sợi len lydo: Tự Xóa vật phẩm at 03/12/2023 12:53 PM
+BAG:sysadboii remove Sách đấm Demon lv4 lydo: Sách kĩ năng at 03/12/2023 12:53 PM
+BAG:sysadboii remove Áo sợi len lydo: Tự Xóa vật phẩm at 03/12/2023 12:54 PM
+BAG:sysadboii remove Giầy sợi len lydo: Tự Xóa vật phẩm at 03/12/2023 12:54 PM
+BAG:sysadboii remove Rada cấp 1 lydo: Tự Xóa vật phẩm at 03/12/2023 12:54 PM
+BAG:sysadboii remove Hoa hồng đỏ lydo: Tự Xóa vật phẩm at 03/12/2023 12:54 PM
+BAG:sysadboii remove Hoa hồng vàng lydo: Tự Xóa vật phẩm at 03/12/2023 12:54 PM
+BAG:sysadboii remove Quần sợi len lydo: Tự Xóa vật phẩm at 03/12/2023 12:55 PM
+BAG:sysadboii remove Rada cấp 1 lydo: Tự Xóa vật phẩm at 03/12/2023 12:55 PM
+BAG:sysadboii remove Hoa hồng xanh lydo: Tự Xóa vật phẩm at 03/12/2023 12:55 PM
+BAG:sysadboii remove Hoa hồng vàng lydo: Tự Xóa vật phẩm at 03/12/2023 12:55 PM
+BAG:sysadboii remove Giầy sợi len lydo: Tự Xóa vật phẩm at 03/12/2023 12:55 PM
+BAG:sysadboii remove Quần sợi len lydo: Tự Xóa vật phẩm at 03/12/2023 12:55 PM
+BAG:sysadboii remove Hoa hồng xanh lydo: Tự Xóa vật phẩm at 03/12/2023 12:55 PM
+BAG:sysadboii remove Mảnh Khủng long mẹ lydo: Tự Xóa vật phẩm at 03/12/2023 12:55 PM
+BAG:sysadboii remove Rada cấp 1 lydo: Tự Xóa vật phẩm at 03/12/2023 12:56 PM
+BAG:sysadboii remove Áo sợi len lydo: Tự Xóa vật phẩm at 03/12/2023 12:56 PM
+BAG:sysadboii remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 03/12/2023 12:57 PM
+BAG:sysadboii remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 03/12/2023 12:57 PM
+BAG:sysadboii remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 03/12/2023 12:57 PM
+BAG:sysadboii remove Quần sợi len lydo: Tự Xóa vật phẩm at 03/12/2023 12:58 PM
+BAG:sysadboii remove Quần sợi len lydo: Tự Xóa vật phẩm at 03/12/2023 12:58 PM
+BAG:sysadboii remove Mảnh Khủng long lydo: Tự Xóa vật phẩm at 03/12/2023 12:58 PM
+BAG:sysadboii remove Hoa hồng đỏ lydo: Tự Xóa vật phẩm at 03/12/2023 1:00 PM
+BAG:sysadboii remove Hoa hồng vàng lydo: Tự Xóa vật phẩm at 03/12/2023 1:00 PM
+BAG:sysadboii remove Hoa hồng xanh lydo: Tự Xóa vật phẩm at 03/12/2023 1:00 PM
+BAG:sysadboii remove Áo sợi len lydo: Tự Xóa vật phẩm at 03/12/2023 1:00 PM
+BAG:sysadboii remove Tự động luyện tập lydo: Tự Xóa vật phẩm at 03/12/2023 1:00 PM
+BAG:sysadboii remove Quần sợi len lydo: Tự Xóa vật phẩm at 03/12/2023 1:00 PM
+BAG:sysadboii remove Áo sợi len lydo: Cất vào rương at 03/12/2023 1:01 PM
+BAG:sysadboii remove Quần sợi len lydo: Cất vào rương at 03/12/2023 1:01 PM
+BAG:sysadboii remove Rada cấp 1 lydo: Cất vào rương at 03/12/2023 1:01 PM
+BAG:sysadboii remove Giầy sợi len lydo: Cất vào rương at 03/12/2023 1:01 PM
+BAG:sysadboii remove Rada cấp 1 lydo: Cất vào rương at 03/12/2023 1:01 PM
+BAG:sysadboii remove Ngọc Rồng 6 sao lydo: Cất vào rương at 03/12/2023 1:01 PM
+BAG:sysadboii remove Quần sợi len lydo: Tự Xóa vật phẩm at 03/12/2023 1:02 PM
+BAG:sysadboii remove Giầy sợi len lydo: Tự Xóa vật phẩm at 03/12/2023 1:02 PM
+BAG:sysadboii remove Áo sợi len lydo: Tự Xóa vật phẩm at 03/12/2023 1:02 PM
+BAG:sysadboii remove Áo sợi len lydo: Tự Xóa vật phẩm at 03/12/2023 1:02 PM
+BAG:sysadboii remove Quần sợi len lydo: Tự Xóa vật phẩm at 03/12/2023 1:02 PM
+BAG:sysadboii remove Rada cấp 1 lydo: Tự Xóa vật phẩm at 03/12/2023 1:02 PM
+BAG:sysadboii remove Giầy sợi len lydo: Tự Xóa vật phẩm at 03/12/2023 1:02 PM
+BAG:sysadboii remove Áo sợi len lydo: Tự Xóa vật phẩm at 03/12/2023 1:02 PM
+BAG:sysadboii remove Giầy sợi len lydo: Tự Xóa vật phẩm at 03/12/2023 1:02 PM
+BAG:sysadboii remove Giầy sợi len lydo: Tự Xóa vật phẩm at 03/12/2023 1:02 PM
+BAG:sysadboii remove 1xHoa hồng xanh lydo: Bán cho shop at 03/12/2023 1:04 PM
+BAG:sysadboii remove 3xHoa hồng vàng lydo: Bán cho shop at 03/12/2023 1:04 PM
+BAG:sysadboii remove 7xHoa hồng đỏ lydo: Bán cho shop at 03/12/2023 1:04 PM
+BAG:sysadboii remove 1xQuần sợi len lydo: Bán cho shop at 03/12/2023 1:04 PM
+BAG:sysadboii remove 1xRada cấp 1 lydo: Bán cho shop at 03/12/2023 1:04 PM
+BAG:sysadboii remove 1xÁo sợi len lydo: Bán cho shop at 03/12/2023 1:04 PM
+BAG:sysadboii remove 1xRada cấp 1 lydo: Bán cho shop at 03/12/2023 1:04 PM
+BAG:sysadboii remove 1xRada cấp 1 lydo: Bán cho shop at 03/12/2023 1:04 PM
+BAG:sysadboii remove 1xRada cấp 1 lydo: Bán cho shop at 03/12/2023 1:04 PM
+BAG:sysadboii remove 1xQuần sợi len lydo: Bán cho shop at 03/12/2023 1:04 PM
+BAG:sysadboii remove Hoa hồng vàng lydo: Tự Xóa vật phẩm at 03/12/2023 1:08 PM
+BAG:sysadboii remove Hoa hồng đỏ lydo: Tự Xóa vật phẩm at 03/12/2023 1:08 PM
+BAG:sysadboii remove Hoa hồng xanh lydo: Tự Xóa vật phẩm at 03/12/2023 1:08 PM
+BAG:sysadboii remove Rada cấp 1 lydo: Tự Xóa vật phẩm at 03/12/2023 1:08 PM
+BAG:sysadboii remove Quần sợi len lydo: Tự Xóa vật phẩm at 03/12/2023 1:08 PM
+BAG:sysadboii remove Rada cấp 1 lydo: Tự Xóa vật phẩm at 03/12/2023 1:08 PM
+BAG:sysadboii remove Rada cấp 1 lydo: Tự Xóa vật phẩm at 03/12/2023 1:08 PM
+BAG:sysadboii remove Áo sợi len lydo: Tự Xóa vật phẩm at 03/12/2023 1:08 PM
+BAG:sysadboii remove Rada cấp 1 lydo: Tự Xóa vật phẩm at 03/12/2023 1:08 PM
+BAG:sysadboii remove Giầy sợi len lydo: Tự Xóa vật phẩm at 03/12/2023 1:08 PM
+BAG:sysadboii remove Quần sợi len lydo: Tự Xóa vật phẩm at 03/12/2023 1:08 PM
+BAG:sysadboii remove Găng sợi len lydo: Tự Xóa vật phẩm at 03/12/2023 1:08 PM
+BAG:sysadboii remove Quần sợi len lydo: Tự Xóa vật phẩm at 03/12/2023 1:09 PM
+BAG:sysadboii remove Áo sợi len lydo: Tự Xóa vật phẩm at 03/12/2023 1:09 PM
+BAG:sysadboii remove Giầy sợi len lydo: Tự Xóa vật phẩm at 03/12/2023 1:10 PM
+BAG:sysadboii remove Áo sợi len lydo: Tự Xóa vật phẩm at 03/12/2023 1:10 PM
+BAG:sysadboii remove Rada cấp 1 lydo: Tự Xóa vật phẩm at 03/12/2023 1:10 PM
+BAG:sysadboii remove Quần sợi len lydo: Tự Xóa vật phẩm at 03/12/2023 1:10 PM
+BAG:sysadboii remove Áo sợi len lydo: Cất vào rương at 03/12/2023 1:11 PM
+BAG:sysadboii remove Rada cấp 1 lydo: Cất vào rương at 03/12/2023 1:11 PM
+BAG:sysadboii remove Quần sợi len lydo: Cất vào rương at 03/12/2023 1:11 PM
+BAG:sysadboii remove Giầy sợi len lydo: Cất vào rương at 03/12/2023 1:11 PM
+BAG:sysadboii remove Găng sợi len lydo: Cất vào rương at 03/12/2023 1:11 PM
+BAG:sysadboii remove Viên Capsule đặc biệt lydo: Cất vào rương at 03/12/2023 1:11 PM
+BAG:sysadboii remove Áo sợi len lydo: Tự Xóa vật phẩm at 03/12/2023 1:13 PM
+BAG:sysadboii remove Áo sợi len lydo: Tự Xóa vật phẩm at 03/12/2023 1:13 PM
+BAG:sysadboii remove Rada cấp 1 lydo: Tự Xóa vật phẩm at 03/12/2023 1:13 PM
+BAG:sysadboii remove Găng sợi len lydo: Tự Xóa vật phẩm at 03/12/2023 1:13 PM
+BAG:sysadboii remove Găng sợi len lydo: Cất vào rương at 03/12/2023 1:14 PM
+BAG:sysadboii remove 1xGăng len Pico lydo: Bán cho shop at 03/12/2023 1:14 PM
+BAG:sysadboii remove 1xĐậu thần cấp 9 lydo: Ăn đậu at 03/12/2023 1:15 PM
+BAG:sysadboii remove Áo sợi len lydo: Tự Xóa vật phẩm at 03/12/2023 1:16 PM
+BAG:sysadboii remove Áo sợi len lydo: Tự Xóa vật phẩm at 03/12/2023 1:16 PM
+BAG:sysadboii remove Giầy sợi len lydo: Tự Xóa vật phẩm at 03/12/2023 1:16 PM
+BAG:sysadboii remove Giầy sợi len lydo: Tự Xóa vật phẩm at 03/12/2023 1:16 PM
+BAG:sysadboii remove 1xQuần sợi len lydo: Bán cho shop at 03/12/2023 1:25 PM
+BAG:sysadboii remove 1xĐậu thần cấp 9 lydo: Ăn đậu at 03/12/2023 1:28 PM
+BAG:sysadboii remove Quần thun cứng lydo: Tự Xóa vật phẩm at 03/12/2023 1:29 PM
+BAG:sysadboii remove Áo choàng thun lydo: Tự Xóa vật phẩm at 03/12/2023 1:30 PM
+BAG:sysadboii remove Cải trang Chill cấp 2 lydo: Mặc vào người at 03/12/2023 1:32 PM
+BAG:sysadboii remove 1xGiày cao su cứng lydo: Bán cho shop at 03/12/2023 1:45 PM
+BAG:sysadboii remove 1xGăng len cứng lydo: Bán cho shop at 03/12/2023 1:48 PM
+BAG:sysadboii remove 1xĐậu thần cấp 9 lydo: Ăn đậu at 03/12/2023 1:52 PM
+BAG:sysadboii remove Sách đấm Demon lv5 lydo: Sách kĩ năng at 03/12/2023 1:52 PM
+BAG:sysadboii remove Sách đấm Demon lv6 lydo: Sách kĩ năng at 03/12/2023 1:52 PM
+BAG:sysadboii remove Sách đấm Demon lv7 lydo: Sách kĩ năng at 03/12/2023 1:53 PM
+BAG:sysadboii remove Rada cấp 1 lydo: Tự Xóa vật phẩm at 03/12/2023 1:53 PM
+BAG:sysadboii remove Quần sợi len lydo: Tự Xóa vật phẩm at 03/12/2023 1:53 PM
+BAG:sysadboii remove Quần vải cứng Pico lydo: Tự Xóa vật phẩm at 03/12/2023 1:53 PM
+BAG:sysadboii remove Rada cấp 1 lydo: Tự Xóa vật phẩm at 03/12/2023 1:54 PM
+BAG:sysadboii remove Áo choàng thun lydo: Tự Xóa vật phẩm at 03/12/2023 1:54 PM
+BAG:sysadboii remove 1xĐậu thần cấp 9 lydo: Ăn đậu at 03/12/2023 1:54 PM
+BAG:sysadboii remove 1xĐậu thần cấp 9 lydo: Ăn đậu at 03/12/2023 1:56 PM
+BAG:sysadboii remove Áo sợi len lydo: Tự Xóa vật phẩm at 03/12/2023 1:56 PM
+BAG:sysadboii remove Rada cấp 1 lydo: Tự Xóa vật phẩm at 03/12/2023 1:56 PM
+BAG:sysadboii remove Giầy sợi len lydo: Tự Xóa vật phẩm at 03/12/2023 1:56 PM
+BAG:sysadboii remove Giầy sợi len lydo: Tự Xóa vật phẩm at 03/12/2023 1:56 PM
+BAG:sysadboii remove Áo sợi len lydo: Tự Xóa vật phẩm at 03/12/2023 1:56 PM
+BAG:sysadboii remove Rada cấp 1 lydo: Tự Xóa vật phẩm at 03/12/2023 1:56 PM
+BAG:sysadboii remove 1xGăng sợi len lydo: Bán cho shop at 03/12/2023 1:59 PM
+BAG:sysadboii remove 1xGăng thun cứng lydo: Bán cho shop at 03/12/2023 1:59 PM
+BAG:sysadboii remove 1xRada cấp 1 lydo: Bán cho shop at 03/12/2023 1:59 PM
+BAG:sysadboii remove Giầy sợi len lydo: Tự Xóa vật phẩm at 03/12/2023 2:01 PM
+BAG:sysadboii remove Áo sợi len lydo: Tự Xóa vật phẩm at 03/12/2023 2:01 PM
+BAG:sysadboii remove Rada cấp 1 lydo: Tự Xóa vật phẩm at 03/12/2023 2:01 PM
+BAG:sysadboii remove Giầy sợi len lydo: Tự Xóa vật phẩm at 03/12/2023 2:01 PM
+BAG:sysadboii remove 1xĐậu thần cấp 9 lydo: Ăn đậu at 03/12/2023 2:03 PM
+BAG:sysadboii remove 1xGiày sắt Pico lydo: Bán cho shop at 03/12/2023 2:04 PM
+BAG:sysadboii remove Rada cấp 1 lydo: Tự Xóa vật phẩm at 03/12/2023 2:07 PM
+BAG:sysadboii remove Giáp tập luyện cấp 3 lydo: Mặc vào người at 03/12/2023 2:07 PM
+BAG:sysadboii remove 1xĐậu thần cấp 9 lydo: Ăn đậu at 03/12/2023 2:08 PM
+BAG:sysadboii remove 1xÁo vải Pico lydo: Bán cho shop at 03/12/2023 2:09 PM
+BAG:sysadboii remove Giáp tập luyện cấp 3 lydo: Mặc vào người at 03/12/2023 2:11 PM
+BAG:sysadboii remove 1xĐậu thần cấp 9 lydo: Ăn đậu at 03/12/2023 2:11 PM
+BAG:sysadboii remove 1xĐậu thần cấp 9 lydo: Ăn đậu at 03/12/2023 2:12 PM
+BAG:sysadboii remove 1xĐậu thần cấp 9 lydo: Ăn đậu at 03/12/2023 2:12 PM
+BAG:sysadboii remove 1xĐậu thần cấp 9 lydo: Ăn đậu at 03/12/2023 2:12 PM
+BAG:sysadboii remove 1xĐậu thần cấp 9 lydo: Ăn đậu at 03/12/2023 2:13 PM
+BAG:sysadboii remove Giáp tập luyện cấp 3 lydo: Mặc vào người at 03/12/2023 2:14 PM
+BAG:sysadboii remove Găng sợi len lydo: Tự Xóa vật phẩm at 03/12/2023 2:14 PM
+BAG:sysadboii remove Giáp tập luyện cấp 3 lydo: Mặc vào người at 03/12/2023 2:41 PM
+BAG:sysadboii remove Giáp tập luyện cấp 3 lydo: Mặc vào người at 03/12/2023 2:47 PM
+BAG:sysadboii remove Rada cấp 1 lydo: Tự Xóa vật phẩm at 03/12/2023 3:00 PM
+BAG:sysadboii remove Rada cấp 1 lydo: Tự Xóa vật phẩm at 03/12/2023 3:00 PM
+BAG:sysadboii remove Áo sợi len lydo: Tự Xóa vật phẩm at 03/12/2023 3:00 PM
+BAG:sysadboii remove Giáp tập luyện cấp 3 lydo: Mặc vào người at 03/12/2023 3:03 PM
+BAG:sysadboii remove 1xĐậu thần cấp 9 lydo: Ăn đậu at 03/12/2023 3:03 PM
+BAG:sysadboii remove 1xĐậu thần cấp 9 lydo: Ăn đậu at 03/12/2023 3:36 PM
+BAG:sysadboii remove 1xĐậu thần cấp 9 lydo: Ăn đậu at 03/12/2023 3:47 PM
+BAG:sysadboii remove Rada cấp 1 lydo: Mặc vào người at 03/12/2023 3:52 PM
+BAG:sysadboii remove Đậu thần cấp 4 lydo: Cất vào rương at 03/12/2023 3:53 PM
+BAG:sysadboii remove Cải trang lydo: Mặc vào người at 03/12/2023 3:55 PM
+BAG:sysadboii remove 1xĐậu thần cấp 9 lydo: Ăn đậu at 03/12/2023 3:59 PM
+BAG:sysadboii remove Cải trang Chill cấp 2 lydo: Mặc vào người at 03/12/2023 4:01 PM
+BAG:sysadboii remove 1xGhế bay lydo: Bán cho shop at 03/12/2023 4:08 PM
+BAG:sysadboii remove 1xTự động luyện tập lydo: Bán cho shop at 03/12/2023 4:08 PM
+BAG:sysadboii remove 1xÁo da Pico lydo: Bán cho shop at 03/12/2023 4:08 PM
+BAG:sysadboii remove 1xQuần vải mềm Pico lydo: Bán cho shop at 03/12/2023 4:08 PM
+BAG:sysadboii remove Ngọc Rồng 5 sao lydo: Cất vào rương at 03/12/2023 4:09 PM
+BAG:sysadboii remove Ngọc Rồng 6 sao lydo: Cất vào rương at 03/12/2023 4:09 PM
+BAG:sysadboii remove Rada cấp 1 lydo: Mặc cho đệ tử at 03/12/2023 4:10 PM
+BAG:sysadboii remove 1xĐổi đệ tử lydo: Dùng đổi đệ tử at 03/12/2023 4:13 PM
+BAG:sysadboii remove 1xĐổi đệ tử lydo: Dùng đổi đệ tử at 03/12/2023 4:13 PM
+BAG:sysadboii remove 1xNâng cấp kỹ năng 1 đệ tử lydo: Dùng sách kĩ năng đệ tử at 03/12/2023 4:20 PM
+BAG:sysadboii remove Sách đấm Demon lv1 lydo: Tự Xóa vật phẩm at 03/12/2023 4:21 PM
+BAG:sysadboii remove Cải trang Chill cấp 2 lydo: Mặc cho đệ tử at 03/12/2023 4:21 PM
+BAG:sysadboii remove Cải trang Chill cấp 2 lydo: Mặc vào người at 03/12/2023 4:25 PM
+BAG:sysadboii remove 1xĐậu thần cấp 9 lydo: Ăn đậu at 03/12/2023 4:33 PM
+BAG:sysadboii remove Rada cấp 1 lydo: Tự Xóa vật phẩm at 03/12/2023 4:36 PM
+BAG:sysadboii remove 1xĐậu thần cấp 9 lydo: Ăn đậu at 03/12/2023 4:51 PM
+BAG:sysadboii remove 1xĐổi đệ tử lydo: Dùng đổi đệ tử at 03/12/2023 5:28 PM
+BAG:sysadboii remove 1xĐặt tên đệ tử lydo: Bán cho shop at 03/12/2023 5:29 PM
+BAG:sysadboii remove 1xĐặt tên đệ tử lydo: Bán cho shop at 03/12/2023 5:29 PM
+BAG:sysadboii remove 1xĐổi đệ tử lydo: Dùng đổi đệ tử at 03/12/2023 5:29 PM
+BAG:sysadboii remove 1xNâng cấp kỹ năng 1 đệ tử lydo: Dùng sách kĩ năng đệ tử at 03/12/2023 5:30 PM
+BAG:sysadboii remove Cải trang Chill cấp 2 lydo: Mặc cho đệ tử at 03/12/2023 5:30 PM
+BAG:sysadboii remove 1xĐậu thần cấp 9 lydo: Ăn đậu at 03/12/2023 5:35 PM
+BAG:sysadboii remove Sách học Trị thương lv1 lydo: Sách kĩ năng at 03/12/2023 5:35 PM
+BAG:sysadboii remove Sách học Trị thương lv2 lydo: Sách kĩ năng at 03/12/2023 5:35 PM
+BAG:sysadboii remove Sách học Trị thương lv3 lydo: Sách kĩ năng at 03/12/2023 5:35 PM
+BAG:sysadboii remove Sách học Trị thương lv4 lydo: Sách kĩ năng at 03/12/2023 5:35 PM
+BAG:sysadboii remove Sách học Trị thương lv5 lydo: Sách kĩ năng at 03/12/2023 5:36 PM
+BAG:sysadboii remove Sách học Trị thương lv6 lydo: Sách kĩ năng at 03/12/2023 5:36 PM
+BAG:sysadboii remove Sách học Trị thương lv7 lydo: Sách kĩ năng at 03/12/2023 5:36 PM
+BAG:sysadboii remove 1xĐậu thần cấp 9 lydo: Ăn đậu at 03/12/2023 5:36 PM
+BAG:sysadboii remove 1xNâng cấp kỹ năng 1 đệ tử lydo: Dùng sách kĩ năng đệ tử at 03/12/2023 5:37 PM
+BAG:sysadboii remove 1xNâng cấp kỹ năng 1 đệ tử lydo: Dùng sách kĩ năng đệ tử at 03/12/2023 5:38 PM
+BAG:sysadboii remove 1xĐậu thần cấp 9 lydo: Ăn đậu at 03/12/2023 5:38 PM
+BAG:sysadboii remove 1xĐậu thần cấp 9 lydo: Ăn đậu at 03/12/2023 5:51 PM
+BAG:sysadboii remove 1xĐậu thần cấp 3 lydo: Ăn đậu at 03/12/2023 6:00 PM
+BAG:sysadboii remove 1xĐậu thần cấp 3 lydo: Ăn đậu at 03/12/2023 6:05 PM
+BAG:sysadboii remove 1xĐậu thần cấp 3 lydo: Ăn đậu at 03/12/2023 6:11 PM
+BAG:sysadboii remove Quần thun cứng lydo: Mặc cho đệ tử at 03/12/2023 6:11 PM
+BAG:sysadboii remove Găng len cứng lydo: Mặc cho đệ tử at 03/12/2023 6:11 PM
+BAG:sysadboii remove Áo choàng thun lydo: Mặc cho đệ tử at 03/12/2023 6:12 PM
+BAG:sysadboii remove Giày da Pico lydo: Mặc cho đệ tử at 03/12/2023 6:12 PM
+BAG:sysadboii remove 1xĐậu thần cấp 3 lydo: Ăn đậu at 03/12/2023 6:16 PM
+BAG:sysadboii remove Rada cấp 1 lydo: Tự Xóa vật phẩm at 03/12/2023 6:17 PM
+BAG:sysadboii remove Giầy sợi len lydo: Tự Xóa vật phẩm at 03/12/2023 6:17 PM
+BAG:sysadboii remove Quần sợi len lydo: Tự Xóa vật phẩm at 03/12/2023 6:17 PM
+BAG:sysadboii remove Áo sợi len lydo: Tự Xóa vật phẩm at 03/12/2023 6:18 PM
+BAG:sysadboii remove Quần sợi len lydo: Tự Xóa vật phẩm at 03/12/2023 6:18 PM
+BAG:sysadboii remove 1xĐậu thần cấp 4 lydo: Ăn đậu at 03/12/2023 6:18 PM
+BAG:sysadboii remove Giầy sợi len lydo: Tự Xóa vật phẩm at 03/12/2023 6:23 PM
+BAG:sysadboii remove 1xĐậu thần cấp 4 lydo: Ăn đậu at 03/12/2023 6:26 PM
+BAG:sysadboii remove 1xĐậu thần cấp 4 lydo: Ăn đậu at 03/12/2023 6:26 PM
+BAG:sysadboii remove 1xĐậu thần cấp 4 lydo: Ăn đậu at 03/12/2023 6:27 PM
+BAG:sysadboii remove 1xĐậu thần cấp 4 lydo: Ăn đậu at 03/12/2023 6:27 PM
+BAG:sysadboii remove 1xĐậu thần cấp 9 lydo: Ăn đậu at 03/12/2023 6:34 PM
+BAG:sysadboii remove 1xĐậu thần cấp 9 lydo: Ăn đậu at 03/12/2023 6:39 PM
+BAG:sysadboii remove 1xĐậu thần cấp 9 lydo: Ăn đậu at 03/12/2023 6:44 PM
+BAG:sysadboii remove 1xĐậu thần cấp 9 lydo: Ăn đậu at 03/12/2023 6:49 PM
+BAG:sysadboii remove 1xĐậu thần cấp 9 lydo: Ăn đậu at 03/12/2023 6:54 PM
+BAG:sysadboii remove Giáp tập luyện cấp 3 lydo: Mặc vào người at 03/12/2023 6:58 PM
+BAG:sysadboii remove Tự động luyện tập lydo: Tự Xóa vật phẩm at 03/12/2023 6:58 PM
+BAG:sysadboii remove Cải trang Chill cấp 2 lydo: Tự Xóa vật phẩm at 03/12/2023 6:58 PM
+BAG:sysadboii remove Quần sợi len lydo: Tự Xóa vật phẩm at 03/12/2023 6:59 PM
+BAG:sysadboii remove Giáp tập luyện cấp 3 lydo: Mặc vào người at 03/12/2023 7:07 PM
+BAG:sysadboii remove 1xĐậu thần cấp 9 lydo: Ăn đậu at 03/12/2023 7:19 PM
+BAG:sysadboii remove 1xĐậu thần cấp 9 lydo: Ăn đậu at 03/12/2023 7:25 PM
+BAG:sysadboii remove Giáp tập luyện cấp 3 lydo: Mặc vào người at 03/12/2023 7:28 PM
+BAG:sysadboii remove 1xĐậu thần cấp 9 lydo: Ăn đậu at 03/12/2023 7:32 PM
+BAG:sysadboii remove 1xGăng vải Pico lydo: Bán cho shop at 03/12/2023 7:33 PM
+BAG:sysadboii remove Giáp tập luyện cấp 3 lydo: Mặc vào người at 03/12/2023 7:35 PM
+BAG:sysadboii remove Ngọc Rồng 5 sao lydo: Cất vào rương at 03/12/2023 7:36 PM
+BAG:sysadboii remove Ngọc Rồng 6 sao lydo: Cất vào rương at 03/12/2023 7:36 PM
+BAG:sysadboii remove 1xGiày sắt Tron lydo: Bán cho shop at 03/12/2023 7:36 PM
+BAG:sysadboii remove Đẻ trứng lv1 lydo: Sách kĩ năng at 03/12/2023 7:37 PM
+BAG:sysadboii remove Đẻ trứng lv2 lydo: Sách kĩ năng at 03/12/2023 7:37 PM
+BAG:sysadboii remove Đẻ trứng lv3 lydo: Sách kĩ năng at 03/12/2023 7:37 PM
+BAG:sysadboii remove Đẻ trứng lv4 lydo: Sách kĩ năng at 03/12/2023 7:37 PM
+BAG:sysadboii remove Đẻ trứng lv5 lydo: Sách kĩ năng at 03/12/2023 7:37 PM
+BAG:sysadboii remove Đẻ trứng lv6 lydo: Sách kĩ năng at 03/12/2023 7:37 PM
+BAG:sysadboii remove Đẻ trứng lv7 lydo: Sách kĩ năng at 03/12/2023 7:37 PM
+BAG:sysadboii remove 1xĐậu thần cấp 9 lydo: Ăn đậu at 03/12/2023 7:50 PM
+BAG:sysadboii remove Sách Liên hoàn lv1 lydo: Sách kĩ năng at 03/12/2023 7:54 PM
+BAG:sysadboii remove 1xViên Capsule đặc biệt lydo: Bán cho shop at 03/12/2023 7:54 PM
+BAG:sysadboii remove 1xÁo sắt Tron lydo: Bán cho shop at 03/12/2023 7:54 PM
+BAG:sysadboii remove Giáp tập luyện cấp 3 lydo: Mặc vào người at 03/12/2023 7:54 PM
+BAG:sysadboii remove 1xQuần sắt Tron lydo: Bán cho shop at 03/12/2023 7:54 PM
+BAG:sysadboii remove 148xHoa hồng xanh lydo: Bán cho shop at 03/12/2023 7:54 PM
+BAG:sysadboii remove 1xQuần sợi len lydo: Bán cho shop at 03/12/2023 7:54 PM
+BAG:sysadboii remove 1xGiày đồng Tron lydo: Bán cho shop at 03/12/2023 7:55 PM
+BAG:sysadboii remove Quần sợi len lydo: Cất vào rương at 03/12/2023 7:55 PM
+BAG:sysadboii remove Áo sợi len lydo: Cất vào rương at 03/12/2023 7:55 PM
+BAG:sysadboii remove Giầy sợi len lydo: Cất vào rương at 03/12/2023 7:55 PM
+BAG:sysadboii remove Găng sợi len lydo: Mặc vào người at 03/12/2023 7:55 PM
+BAG:sysadboii remove Giầy sợi len lydo: Mặc vào người at 03/12/2023 7:56 PM
+BAG:sysadboii remove Áo sợi len lydo: Mặc vào người at 03/12/2023 7:56 PM
+BAG:sysadboii remove Quần sợi len lydo: Mặc vào người at 03/12/2023 7:56 PM
+BAG:sysadboii remove Giáp tập luyện cấp 3 lydo: Mặc vào người at 03/12/2023 7:59 PM
+BAG:sysadboii remove Giáp tập luyện cấp 3 lydo: Mặc vào người at 03/12/2023 8:03 PM
+BAG:sysadboii remove Cải trang Chill cấp 2 lydo: Mặc vào người at 03/12/2023 8:05 PM
+BAG:sysadboii remove Giáp tập luyện cấp 3 lydo: Mặc vào người at 03/12/2023 8:05 PM
+BAG:sysadboii remove Khiên năng lượng lv1 lydo: Sách kĩ năng at 03/12/2023 8:07 PM
+BAG:sysadboii remove Khiên năng lượng lv2 lydo: Sách kĩ năng at 03/12/2023 8:07 PM
+BAG:sysadboii remove Khiên năng lượng lv3 lydo: Sách kĩ năng at 03/12/2023 8:07 PM
+BAG:sysadboii remove Khiên năng lượng lv4 lydo: Sách kĩ năng at 03/12/2023 8:08 PM
+BAG:sysadboii remove Khiên năng lượng lv5 lydo: Sách kĩ năng at 03/12/2023 8:08 PM
+BAG:sysadboii remove Khiên năng lượng lv6 lydo: Sách kĩ năng at 03/12/2023 8:08 PM
+BAG:sysadboii remove Khiên năng lượng lv7 lydo: Sách kĩ năng at 03/12/2023 8:08 PM
+BAG:sysadboii remove Sách Biến Sôcôla lv1 lydo: Sách kĩ năng at 03/12/2023 8:08 PM
+BAG:sysadboii remove Sách Biến Sôcôla lv2 lydo: Sách kĩ năng at 03/12/2023 8:08 PM
+BAG:sysadboii remove Sách Biến Sôcôla lv3 lydo: Sách kĩ năng at 03/12/2023 8:08 PM
+BAG:sysadboii remove Sách Biến Sôcôla lv4 lydo: Sách kĩ năng at 03/12/2023 8:08 PM
+BAG:sysadboii remove Sách Biến Sôcôla lv5 lydo: Sách kĩ năng at 03/12/2023 8:08 PM
+BAG:sysadboii remove Sách Biến Sôcôla lv6 lydo: Sách kĩ năng at 03/12/2023 8:08 PM
+BAG:sysadboii remove Sách Biến Sôcôla lv7 lydo: Sách kĩ năng at 03/12/2023 8:08 PM
+BAG:sysadboii remove 1xĐậu thần cấp 9 lydo: Ăn đậu at 03/12/2023 8:08 PM
+BAG:sysadboii remove 1xĐậu thần cấp 9 lydo: Ăn đậu at 03/12/2023 8:12 PM
+BAG:sysadboii remove 1xĐậu thần cấp 9 lydo: Ăn đậu at 03/12/2023 8:13 PM
+BAG:sysadboii remove 1xĐậu thần cấp 9 lydo: Ăn đậu at 03/12/2023 8:14 PM
+BAG:sysadboii remove Giáp tập luyện cấp 3 lydo: Mặc vào người at 03/12/2023 8:15 PM
+BAG:sysadboii remove 1xĐậu thần cấp 9 lydo: Ăn đậu at 03/12/2023 8:17 PM
+BAG:sysadboii remove 1xĐậu thần cấp 9 lydo: Ăn đậu at 03/12/2023 8:18 PM
+BAG:sysadboii remove 1xĐậu thần cấp 9 lydo: Ăn đậu at 03/12/2023 8:19 PM
+BAG:sysadboii remove 1xĐậu thần cấp 9 lydo: Ăn đậu at 03/12/2023 8:22 PM
+BAG:sysadboii remove Cải trang Chill cấp 2 lydo: Tự Xóa vật phẩm at 03/12/2023 8:24 PM
+BAG:sysadboii remove Giáp tập luyện cấp 3 lydo: Mặc vào người at 03/12/2023 8:24 PM
+BAG:sysadboii remove Găng sợi len lydo: Cất vào rương at 03/12/2023 8:24 PM
+BAG:sysadboii remove Quần sợi len lydo: Cất vào rương at 03/12/2023 8:24 PM
+BAG:sysadboii remove Áo sợi len lydo: Cất vào rương at 03/12/2023 8:24 PM
+BAG:sysadboii remove Ngọc Rồng 4 sao lydo: Cất vào rương at 03/12/2023 8:24 PM
+BAG:sysadboii remove Ngọc Rồng 6 sao lydo: Cất vào rương at 03/12/2023 8:24 PM
+BAG:sysadboii remove Sao pha lê lydo: Tự Xóa vật phẩm at 03/12/2023 8:28 PM
+BAG:sysadboii remove Sao pha lê lydo: Tự Xóa vật phẩm at 03/12/2023 8:29 PM
+BAG:sysadboii remove Sao pha lê lydo: Tự Xóa vật phẩm at 03/12/2023 8:29 PM
+BAG:sysadboii remove Sao pha lê lydo: Tự Xóa vật phẩm at 03/12/2023 8:29 PM
+BAG:sysadboii remove Sao pha lê lydo: Tự Xóa vật phẩm at 03/12/2023 8:29 PM
+BAG:sysadboii remove Cải trang lydo: Tự Xóa vật phẩm at 03/12/2023 8:31 PM
+BAG:sysadboii remove Sao pha lê lydo: Tự Xóa vật phẩm at 03/12/2023 8:31 PM
+BAG:sysadboii remove Rada cấp 1 lydo: Cất vào rương at 03/12/2023 8:35 PM
+BAG:sysadboii remove Giầy sợi len lydo: Cất vào rương at 03/12/2023 8:35 PM
+BAG:sysadboii remove Quần sợi len lydo: Cất vào rương at 03/12/2023 8:35 PM
+BAG:sysadboii remove Đậu thần cấp 4 lydo: Tự Xóa vật phẩm at 03/12/2023 8:36 PM
+BAG:sysadboii remove Sao pha lê lydo: Tự Xóa vật phẩm at 03/12/2023 8:36 PM
+BAG:sysadboii remove Rada cấp 1 lydo: Tự Xóa vật phẩm at 03/12/2023 8:45 PM
+BAG:sysadboii remove Giày bạc Zealot lydo: Mặc vào người at 03/12/2023 8:46 PM
+BAG:sysadboii remove 1xSao pha lê lydo: Ép ngọc rồng at 03/12/2023 8:46 PM
+BAG:sysadboii remove 1xSao pha lê lydo: Ép ngọc rồng at 03/12/2023 8:47 PM
+BAG:sysadboii remove Giày bạc Zealot lydo: Mặc vào người at 03/12/2023 8:47 PM
+BAG:sysadboii remove Sách Liên hoàn lv2 lydo: Sách kĩ năng at 03/12/2023 8:47 PM
+BAG:sysadboii remove Sách Liên hoàn lv3 lydo: Sách kĩ năng at 03/12/2023 8:47 PM
+BAG:sysadboii remove Sách Liên hoàn lv4 lydo: Sách kĩ năng at 03/12/2023 8:47 PM
+BAG:sysadboii remove Sách Liên hoàn lv5 lydo: Sách kĩ năng at 03/12/2023 8:48 PM
+BAG:sysadboii remove Sách Liên hoàn lv6 lydo: Sách kĩ năng at 03/12/2023 8:48 PM
+BAG:sysadboii remove Sách Liên hoàn lv7 lydo: Sách kĩ năng at 03/12/2023 8:48 PM
+BAG:sysadboii remove Áo sợi len lydo: Tự Xóa vật phẩm at 03/12/2023 8:50 PM
+BAG:sysadboii remove Áo sợi len lydo: Tự Xóa vật phẩm at 03/12/2023 8:50 PM
+BAG:sysadboii remove 244xHoa hồng vàng lydo: Bán cho shop at 03/12/2023 8:51 PM
+BAG:sysadboii remove 185xHoa hồng đỏ lydo: Bán cho shop at 03/12/2023 8:51 PM
+BAG:sysadboii remove 1xQuỷ Chim lydo: Bán cho shop at 03/12/2023 8:51 PM
+BAG:sysadboii remove 1xViên Capsule đặc biệt lydo: Bán cho shop at 03/12/2023 8:51 PM
+BAG:sysadboii remove 1xRada cấp 1 lydo: Bán cho shop at 03/12/2023 8:51 PM
+BAG:sysadboii remove 1xQuần bạc Zealot lydo: Bán cho shop at 03/12/2023 8:51 PM
+BAG:sysadboii remove 38xĐá Saphia lydo: Bán cho shop at 03/12/2023 8:51 PM
+BAG:sysadboii remove 42xĐá thạch anh tím lydo: Bán cho shop at 03/12/2023 8:51 PM
+BAG:sysadboii remove 36xĐá Titan lydo: Bán cho shop at 03/12/2023 8:51 PM
+BAG:sysadboii remove 35xĐá Ruby lydo: Bán cho shop at 03/12/2023 8:51 PM
+BAG:sysadboii remove 38xĐá lục bảo lydo: Bán cho shop at 03/12/2023 8:51 PM
+BAG:sysadboii remove 32xHoa hồng xanh lydo: Bán cho shop at 03/12/2023 8:51 PM
+BAG:sysadboii remove 1xQuần đồng Tron lydo: Bán cho shop at 03/12/2023 8:51 PM
+BAG:sysadboii remove Quần bạc Zealot lydo: Mặc vào người at 03/12/2023 8:52 PM
+BAG:sysadboii remove 1xSao pha lê lydo: Ép ngọc rồng at 03/12/2023 8:53 PM
+BAG:sysadboii remove 1xSao pha lê lydo: Ép ngọc rồng at 03/12/2023 8:54 PM
+BAG:sysadboii remove Quần bạc Zealot lydo: Mặc vào người at 03/12/2023 8:54 PM
+BAG:sysadboii remove Sao pha lê lydo: Tự Xóa vật phẩm at 03/12/2023 9:01 PM
+BAG:sysadboii remove Giáp tập luyện cấp 3 lydo: Mặc vào người at 03/12/2023 9:17 PM
+BAG:sysadboii remove Găng sợi len lydo: Tự Xóa vật phẩm at 03/12/2023 9:20 PM
+BAG:sysadboii remove Sao pha lê lydo: Tự Xóa vật phẩm at 03/12/2023 9:41 PM
+BAG:sysadboii remove Sao pha lê lydo: Tự Xóa vật phẩm at 03/12/2023 9:41 PM
+BAG:sysadboii remove Sao pha lê lydo: Tự Xóa vật phẩm at 03/12/2023 9:41 PM
+BAG:sysadboii remove 1xĐậu thần cấp 9 lydo: Ăn đậu at 03/12/2023 9:41 PM
+BAG:sysadboii remove 1xSao pha lê lydo: Ép ngọc rồng at 03/12/2023 9:45 PM
+BAG:sysadboii remove 1xSao pha lê lydo: Ép ngọc rồng at 03/12/2023 9:45 PM
+BAG:sysadboii remove 1xSao pha lê lydo: Ép ngọc rồng at 03/12/2023 9:45 PM
+BAG:sysadboii remove 1xSao pha lê lydo: Ép ngọc rồng at 03/12/2023 9:46 PM
+BAG:sysadboii remove 1xSao pha lê lydo: Ép ngọc rồng at 03/12/2023 9:46 PM
+BAG:sysadboii remove 1xSao pha lê lydo: Ép ngọc rồng at 03/12/2023 9:46 PM
+BAG:sysadboii remove 1xSao pha lê lydo: Ép ngọc rồng at 03/12/2023 9:47 PM
+BAG:sysadboii remove 1xSao pha lê lydo: Ép ngọc rồng at 03/12/2023 9:47 PM
+BAG:sysadboii remove 1xSao pha lê lydo: Ép ngọc rồng at 03/12/2023 9:47 PM
+BAG:sysadboii remove 1xSao pha lê lydo: Ép ngọc rồng at 03/12/2023 9:48 PM
+BAG:sysadboii remove 1xSao pha lê lydo: Ép ngọc rồng at 03/12/2023 9:48 PM
+BAG:sysadboii remove Giày da Pico lydo: Mặc cho đệ tử at 03/12/2023 9:49 PM
+BAG:sysadboii remove Rada cấp 6 lydo: Mặc cho đệ tử at 03/12/2023 9:50 PM
+BAG:sysadboii remove Cải trang Chill cấp 2 lydo: Mặc cho đệ tử at 03/12/2023 9:50 PM
+BAG:sysadboii remove Áo choàng thun lydo: Tự Xóa vật phẩm at 03/12/2023 9:50 PM
+BAG:sysadboii remove Quần thun cứng lydo: Tự Xóa vật phẩm at 03/12/2023 9:50 PM
+BAG:sysadboii remove Giày da Pico lydo: Tự Xóa vật phẩm at 03/12/2023 9:50 PM
+BAG:sysadboii remove 1xĐậu thần cấp 9 lydo: Ăn đậu at 03/12/2023 10:02 PM
+BAG:sysadboii remove 1xĐậu thần cấp 9 lydo: Ăn đậu at 03/12/2023 10:09 PM
+BAG:sysadboii remove 1xĐậu thần cấp 9 lydo: Ăn đậu at 03/12/2023 10:10 PM
+BAG:sysadboii remove Găng len cứng lydo: Tự Xóa vật phẩm at 03/12/2023 10:10 PM
+BAG:sysadboii remove 1xĐậu thần cấp 9 lydo: Ăn đậu at 03/12/2023 10:21 PM
+BAG:sysadboii remove 1xGăng thun cứng lydo: Bán cho shop at 03/12/2023 10:29 PM
+BAG:sysadboii remove 1xGăng vải Pico lydo: Bán cho shop at 03/12/2023 10:29 PM
+BAG:sysadboii remove 1xĐậu thần cấp 9 lydo: Ăn đậu at 03/12/2023 10:30 PM
+BAG:sysadboii remove 1xĐậu thần cấp 9 lydo: Ăn đậu at 03/12/2023 10:31 PM
+BAG:sysadboii remove 1xĐậu thần cấp 9 lydo: Ăn đậu at 03/12/2023 10:32 PM
+BAG:sysadboii remove 1xĐậu thần cấp 9 lydo: Ăn đậu at 03/12/2023 10:32 PM
+BAG:sysadboii remove 1xĐậu thần cấp 9 lydo: Ăn đậu at 03/12/2023 10:41 PM
+BAG:sysadboii remove 1xĐậu thần cấp 9 lydo: Ăn đậu at 03/12/2023 10:56 PM
+BAG:sysadboii remove 1xĐậu thần cấp 9 lydo: Ăn đậu at 03/12/2023 11:06 PM
+BAG:sysadboii remove 1xĐậu thần cấp 9 lydo: Ăn đậu at 03/12/2023 11:07 PM
+BAG:sysadboii remove 1xĐậu thần cấp 9 lydo: Ăn đậu at 03/12/2023 11:07 PM
+BAG:sysadboii remove Giáp tập luyện cấp 3 lydo: Mặc vào người at 03/12/2023 11:10 PM
+BAG:sysadboii remove Rada cấp 1 lydo: Tự Xóa vật phẩm at 03/12/2023 11:10 PM
+BAG:sysadboii remove 1xĐậu thần cấp 9 lydo: Ăn đậu at 03/12/2023 11:29 PM
+BAG:sysadboii remove 1xĐậu thần cấp 9 lydo: Ăn đậu at 03/12/2023 11:29 PM
+BAG:sysadboii remove Nâng cấp kỹ năng 3 đệ tử lydo: Tự Xóa vật phẩm at 03/12/2023 11:31 PM
+BAG:sysadboii remove 1xNâng cấp kỹ năng 2 đệ tử lydo: Dùng sách kĩ năng đệ tử at 03/12/2023 11:33 PM
+BAG:sysadboii remove 1xNâng cấp kỹ năng 2 đệ tử lydo: Dùng sách kĩ năng đệ tử at 03/12/2023 11:33 PM
+BAG:sysadboii remove 1xNâng cấp kỹ năng 2 đệ tử lydo: Dùng sách kĩ năng đệ tử at 03/12/2023 11:33 PM
+BAG:sysadboii remove 1xNâng cấp kỹ năng 2 đệ tử lydo: Dùng sách kĩ năng đệ tử at 03/12/2023 11:33 PM
+BAG:sysadboii remove 1xNâng cấp kỹ năng 2 đệ tử lydo: Dùng sách kĩ năng đệ tử at 03/12/2023 11:33 PM
+BAG:sysadboii remove 1xNâng cấp kỹ năng 2 đệ tử lydo: Dùng sách kĩ năng đệ tử at 03/12/2023 11:33 PM
+BAG:sysadboii remove Nâng cấp kỹ năng 2 đệ tử lydo: Tự Xóa vật phẩm at 03/12/2023 11:34 PM
+BAG:sysadboii remove 1xĐậu thần cấp 9 lydo: Ăn đậu at 03/12/2023 11:34 PM
+BAG:sysadboii remove 1xĐậu thần cấp 9 lydo: Ăn đậu at 03/12/2023 11:35 PM
+BAG:sysadboii remove 1xĐậu thần cấp 9 lydo: Ăn đậu at 03/12/2023 11:36 PM
+BAG:sysadboii remove Găng da Pico lydo: Tự Xóa vật phẩm at 03/12/2023 11:36 PM
+BAG:sysadboii remove Cải trang lydo: Tự Xóa vật phẩm at 03/12/2023 11:37 PM
+BAG:sysadboii remove Cải trang lydo: Tự Xóa vật phẩm at 03/12/2023 11:37 PM
+BAG:sysadboii remove 1xGăng sắt Tron lydo: Bán cho shop at 03/12/2023 11:37 PM
+BAG:sysadboii remove Cải trang Chill cấp 2 lydo: Tự Xóa vật phẩm at 03/12/2023 11:38 PM
+BAG:sysadboii remove 1xĐổi đệ tử lydo: Dùng đổi đệ tử at 03/12/2023 11:38 PM
+BAG:sysadboii remove Đổi đệ tử lydo: Tự Xóa vật phẩm at 03/12/2023 11:38 PM
+BAG:sysadboii remove Cải trang Chill cấp 2 lydo: Mặc cho đệ tử at 03/12/2023 11:40 PM
+BAG:sysadboii remove 1xĐậu thần cấp 9 lydo: Ăn đậu at 03/12/2023 11:41 PM
+BAG:sysadboii remove 1xĐậu thần cấp 9 lydo: Ăn đậu at 03/12/2023 11:42 PM
+BAG:sysadboii remove 1xĐậu thần cấp 9 lydo: Ăn đậu at 03/12/2023 11:43 PM
+BAG:sysadboii remove 1xNâng cấp kỹ năng 1 đệ tử lydo: Dùng sách kĩ năng đệ tử at 03/12/2023 11:44 PM
+BAG:sysadboii remove 1xNâng cấp kỹ năng 1 đệ tử lydo: Dùng sách kĩ năng đệ tử at 03/12/2023 11:44 PM
+BAG:sysadboii remove Áo choàng thun lydo: Mặc cho đệ tử at 03/12/2023 11:46 PM
+BAG:sysadboii remove Quần thun cứng lydo: Mặc cho đệ tử at 03/12/2023 11:46 PM
+BAG:sysadboii remove Giày da Pico lydo: Mặc cho đệ tử at 03/12/2023 11:46 PM
+BAG:sysadboii remove Rada cấp 6 lydo: Mặc cho đệ tử at 03/12/2023 11:46 PM
+BAG:sysadboii remove Thỏi vàng lydo: Cất vào rương at 03/12/2023 11:47 PM
+BAG:sysadboii remove Ngọc Rồng 6 sao lydo: Cất vào rương at 03/12/2023 11:47 PM
+BAG:sysadboii remove Ngọc Rồng 5 sao lydo: Cất vào rương at 03/12/2023 11:47 PM
+BAG:sysadboii remove Ngọc Rồng 4 sao lydo: Cất vào rương at 03/12/2023 11:47 PM
+BAG:sysadboii remove Sao pha lê lydo: Cất vào rương at 03/12/2023 11:47 PM
+BAG:sysadboii remove Găng len cứng lydo: Mặc cho đệ tử at 03/12/2023 11:50 PM
+BAG:sysadboii remove Găng len cứng lydo: Tự Xóa vật phẩm at 03/12/2023 11:52 PM

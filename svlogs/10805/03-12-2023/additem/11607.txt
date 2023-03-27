@@ -1,0 +1,27 @@
+BAG:tiennu add 10xĐậu thần cấp 9 lydo: Thu hoạch đậu at 03/12/2023 9:44 AM
+BAG:tiennu add 150xThỏi vàng lydo: Giftcode at 03/12/2023 9:45 AM
+BAG:tiennu add 99xNgọc Rồng 3 sao lydo: Giftcode at 03/12/2023 9:45 AM
+BAG:tiennu add 1xRada cấp 1 lydo: Lấy từ rương qua người at 03/12/2023 9:45 AM
+BAG:tiennu add 1xHoa hồng vàng lydo: Nhặt từ map at 03/12/2023 9:47 AM
+BAG:tiennu add 1xHoa hồng đỏ lydo: Nhặt từ map at 03/12/2023 9:47 AM
+BAG:tiennu add 1xHoa hồng xanh lydo: Nhặt từ map at 03/12/2023 9:47 AM
+BAG:tiennu add 1xÁo vải 3 lỗ lydo: Nhặt từ map at 03/12/2023 9:48 AM
+BAG:tiennu add 2xHoa hồng đỏ (old: 1) lydo: Nhặt từ map at 03/12/2023 9:48 AM
+BAG:tiennu add 3xHoa hồng đỏ (old: 2) lydo: Nhặt từ map at 03/12/2023 9:49 AM
+BAG:tiennu add 2xHoa hồng xanh (old: 1) lydo: Nhặt từ map at 03/12/2023 9:50 AM
+BAG:tiennu add 3xHoa hồng xanh (old: 2) lydo: Nhặt từ map at 03/12/2023 9:50 AM
+BAG:tiennu add 1xQuần vải đen lydo: Nhặt từ map at 03/12/2023 9:50 AM
+BAG:tiennu add 2xHoa hồng vàng (old: 1) lydo: Nhặt từ map at 03/12/2023 9:50 AM
+BAG:tiennu add 1xQuần vải đen lydo: Nhặt từ map at 03/12/2023 9:50 AM
+BAG:tiennu add 1xNezuko lydo: Mua từ bill at 03/12/2023 9:51 AM
+BAG:tiennu add 3xHoa hồng vàng (old: 2) lydo: Nhặt từ map at 03/12/2023 9:52 AM
+BAG:tiennu add 1xÁo vải 3 lỗ lydo: Nhặt từ map at 03/12/2023 9:53 AM
+BAG:tiennu add 4xHoa hồng xanh (old: 3) lydo: Nhặt từ map at 03/12/2023 9:53 AM
+BAG:tiennu add 1xMảnh Thằn lằn bay lydo: Nhặt từ map at 03/12/2023 9:53 AM
+BAG:tiennu add 1xĐá lục bảo lydo: Nhặt từ map at 03/12/2023 9:53 AM
+BAG:tiennu add 1xGăng vải đen lydo: Nhặt từ map at 03/12/2023 9:53 AM
+BAG:tiennu add 5xHoa hồng xanh (old: 4) lydo: Nhặt từ map at 03/12/2023 9:53 AM
+BAG:tiennu add 1xÁo vải 3 lỗ lydo: Nhặt từ map at 03/12/2023 9:53 AM
+BAG:tiennu add 6xHoa hồng xanh (old: 5) lydo: Nhặt từ map at 03/12/2023 9:54 AM
+BAG:tiennu add 1xRada cấp 1 lydo: Nhặt từ map at 03/12/2023 9:54 AM
+BAG:tiennu add 1xViên Capsule đặc biệt lydo: Mua từ cửa hàng at 03/12/2023 9:55 AM

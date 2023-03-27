@@ -1,0 +1,9 @@
+BAG:thaongan add 1xÁo vải thô lydo: Nhặt từ map at 03/11/2023 11:12 AM
+BAG:thaongan add 1xNâng cấp kỹ năng 3 đệ tử lydo: Mua từ cửa hàng at 03/11/2023 11:27 AM
+BAG:thaongan add 2xNâng cấp kỹ năng 3 đệ tử (old: 1) lydo: Mua từ cửa hàng at 03/11/2023 11:27 AM
+BAG:thaongan add 3xNâng cấp kỹ năng 3 đệ tử (old: 2) lydo: Mua từ cửa hàng at 03/11/2023 11:27 AM
+BAG:thaongan add 4xNâng cấp kỹ năng 3 đệ tử (old: 3) lydo: Mua từ cửa hàng at 03/11/2023 11:27 AM
+BAG:thaongan add 5xNâng cấp kỹ năng 3 đệ tử (old: 4) lydo: Mua từ cửa hàng at 03/11/2023 11:27 AM
+BAG:thaongan add 6xNâng cấp kỹ năng 3 đệ tử (old: 5) lydo: Mua từ cửa hàng at 03/11/2023 11:27 AM
+BAG:thaongan add 1xGăng lưỡng long lydo: Mua từ cửa hàng at 03/11/2023 12:31 PM
+BAG:thaongan add 12xSao pha lê lydo: Lấy từ rương qua người at 03/11/2023 12:32 PM

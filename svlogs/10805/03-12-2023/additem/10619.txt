@@ -1,0 +1,21 @@
+BAG:yumetiep add 1837xHoa hồng vàng (old: 1836) lydo: Nhặt từ map at 03/12/2023 6:21 AM
+BAG:yumetiep add 1838xHoa hồng vàng (old: 1837) lydo: Nhặt từ map at 03/12/2023 6:21 AM
+BAG:yumetiep add 1565xHoa hồng đỏ (old: 1564) lydo: Nhặt từ map at 03/12/2023 6:21 AM
+BAG:yumetiep add 1566xHoa hồng đỏ (old: 1565) lydo: Nhặt từ map at 03/12/2023 7:15 PM
+BAG:yumetiep add 1480xHoa hồng xanh (old: 1479) lydo: Nhặt từ map at 03/12/2023 7:15 PM
+BAG:yumetiep add 1xCải Trang Glaxy lydo: Lấy từ body vào hành trang at 03/12/2023 7:15 PM
+BAG:yumetiep add 1839xHoa hồng vàng (old: 1838) lydo: Nhặt từ map at 03/12/2023 7:16 PM
+BAG:yumetiep add 1840xHoa hồng vàng (old: 1839) lydo: Nhặt từ map at 03/12/2023 7:16 PM
+BAG:yumetiep add 1xTanjiro lydo: Lấy từ body vào hành trang at 03/12/2023 7:17 PM
+BAG:yumetiep add 1xKhiên năng lượng lv1 lydo: Mua từ cửa hàng at 03/12/2023 7:18 PM
+BAG:yumetiep add 1xKhiên năng lượng lv2 lydo: Mua từ cửa hàng at 03/12/2023 7:18 PM
+BAG:yumetiep add 1xKhiên năng lượng lv3 lydo: Mua từ cửa hàng at 03/12/2023 7:18 PM
+BAG:yumetiep add 1xKhiên năng lượng lv4 lydo: Mua từ cửa hàng at 03/12/2023 7:18 PM
+BAG:yumetiep add 1xKhiên năng lượng lv5 lydo: Mua từ cửa hàng at 03/12/2023 7:18 PM
+BAG:yumetiep add 1xKhiên năng lượng lv6 lydo: Mua từ cửa hàng at 03/12/2023 7:18 PM
+BAG:yumetiep add 1xKhiên năng lượng lv7 lydo: Mua từ cửa hàng at 03/12/2023 7:18 PM
+BAG:yumetiep add 34xĐá Saphia (old: 33) lydo: Nhặt từ map at 03/12/2023 7:19 PM
+BAG:yumetiep add 1567xHoa hồng đỏ (old: 1566) lydo: Nhặt từ map at 03/12/2023 7:19 PM
+BAG:yumetiep add 35xĐá Saphia (old: 34) lydo: Nhặt từ map at 03/12/2023 7:19 PM
+BAG:yumetiep add 1568xHoa hồng đỏ (old: 1567) lydo: Nhặt từ map at 03/12/2023 7:19 PM
+BAG:yumetiep add 1841xHoa hồng vàng (old: 1840) lydo: Nhặt từ map at 03/12/2023 7:19 PM

@@ -1,0 +1,374 @@
+BAG:vitamina add 2xĐá thạch anh tím (old: 1) lydo: Nhặt từ map at 03/11/2023 6:24 AM
+BAG:vitamina add 8xHoa hồng đỏ (old: 7) lydo: Nhặt từ map at 03/11/2023 6:24 AM
+BAG:vitamina add 9xHoa hồng đỏ (old: 8) lydo: Nhặt từ map at 03/11/2023 6:24 AM
+BAG:vitamina add 3xĐá thạch anh tím (old: 2) lydo: Nhặt từ map at 03/11/2023 6:24 AM
+BAG:vitamina add 7xĐá lục bảo (old: 6) lydo: Nhặt từ map at 03/11/2023 6:25 AM
+BAG:vitamina add 9xHoa hồng xanh (old: 8) lydo: Nhặt từ map at 03/11/2023 6:25 AM
+BAG:vitamina add 10xHoa hồng xanh (old: 9) lydo: Nhặt từ map at 03/11/2023 6:25 AM
+BAG:vitamina add 8xHoa hồng vàng (old: 7) lydo: Nhặt từ map at 03/11/2023 6:25 AM
+BAG:vitamina add 1xRada cấp 1 lydo: Nhặt từ map at 03/11/2023 6:25 AM
+BAG:vitamina add 1xÁo sợi len lydo: Nhặt từ map at 03/11/2023 6:25 AM
+BAG:vitamina add 1xQuần sợi len lydo: Nhặt từ map at 03/11/2023 6:25 AM
+BAG:vitamina add 1xÁo sợi len lydo: Nhặt từ map at 03/11/2023 6:25 AM
+BAG:vitamina add 11xHoa hồng xanh (old: 10) lydo: Nhặt từ map at 03/11/2023 6:26 AM
+BAG:vitamina add 9xHoa hồng vàng (old: 8) lydo: Nhặt từ map at 03/11/2023 6:26 AM
+BAG:vitamina add 10xHoa hồng đỏ (old: 9) lydo: Nhặt từ map at 03/11/2023 6:27 AM
+BAG:vitamina add 1xQuần sợi len lydo: Nhặt từ map at 03/11/2023 6:27 AM
+BAG:vitamina add 1xQuần sợi len lydo: Nhặt từ map at 03/11/2023 6:27 AM
+BAG:vitamina add 1xRada cấp 1 lydo: Nhặt từ map at 03/11/2023 6:27 AM
+BAG:vitamina add 11xHoa hồng đỏ (old: 10) lydo: Nhặt từ map at 03/11/2023 6:27 AM
+BAG:vitamina add 12xHoa hồng xanh (old: 11) lydo: Nhặt từ map at 03/11/2023 6:28 AM
+BAG:vitamina add 12xHoa hồng đỏ (old: 11) lydo: Nhặt từ map at 03/11/2023 6:28 AM
+BAG:vitamina add 10xHoa hồng vàng (old: 9) lydo: Nhặt từ map at 03/11/2023 6:29 AM
+BAG:vitamina add 1xGăng sợi len lydo: Nhặt từ map at 03/11/2023 6:29 AM
+BAG:vitamina add 1xQuần sợi len lydo: Nhặt từ map at 03/11/2023 6:29 AM
+BAG:vitamina add 13xHoa hồng đỏ (old: 12) lydo: Nhặt từ map at 03/11/2023 6:29 AM
+BAG:vitamina add 14xHoa hồng đỏ (old: 13) lydo: Nhặt từ map at 03/11/2023 6:29 AM
+BAG:vitamina add 15xHoa hồng đỏ (old: 14) lydo: Nhặt từ map at 03/11/2023 6:29 AM
+BAG:vitamina add 16xHoa hồng đỏ (old: 15) lydo: Nhặt từ map at 03/11/2023 6:29 AM
+BAG:vitamina add 8xĐá lục bảo (old: 7) lydo: Nhặt từ map at 03/11/2023 6:29 AM
+BAG:vitamina add 13xHoa hồng xanh (old: 12) lydo: Nhặt từ map at 03/11/2023 6:30 AM
+BAG:vitamina add 17xHoa hồng đỏ (old: 16) lydo: Nhặt từ map at 03/11/2023 6:30 AM
+BAG:vitamina add 3xĐá Saphia (old: 2) lydo: Nhặt từ map at 03/11/2023 6:30 AM
+BAG:vitamina add 14xHoa hồng xanh (old: 13) lydo: Nhặt từ map at 03/11/2023 6:30 AM
+BAG:vitamina add 11xHoa hồng vàng (old: 10) lydo: Nhặt từ map at 03/11/2023 6:30 AM
+BAG:vitamina add 4xĐá thạch anh tím (old: 3) lydo: Nhặt từ map at 03/11/2023 6:30 AM
+BAG:vitamina add 12xHoa hồng vàng (old: 11) lydo: Nhặt từ map at 03/11/2023 6:30 AM
+BAG:vitamina add 1xÁo sợi len lydo: Nhặt từ map at 03/11/2023 6:31 AM
+BAG:vitamina add 1xMảnh Lợn lòi lydo: Nhặt từ map at 03/11/2023 6:31 AM
+BAG:vitamina add 18xHoa hồng đỏ (old: 17) lydo: Nhặt từ map at 03/11/2023 6:31 AM
+BAG:vitamina add 2xMảnh Lợn lòi (old: 1) lydo: Nhặt từ map at 03/11/2023 6:31 AM
+BAG:vitamina add 2xĐá Ruby (old: 1) lydo: Nhặt từ map at 03/11/2023 6:31 AM
+BAG:vitamina add 15xHoa hồng xanh (old: 14) lydo: Nhặt từ map at 03/11/2023 6:31 AM
+BAG:vitamina add 13xHoa hồng vàng (old: 12) lydo: Nhặt từ map at 03/11/2023 6:31 AM
+BAG:vitamina add 1xGiầy sợi len lydo: Nhặt từ map at 03/11/2023 6:31 AM
+BAG:vitamina add 5xĐá thạch anh tím (old: 4) lydo: Nhặt từ map at 03/11/2023 6:31 AM
+BAG:vitamina add 14xHoa hồng vàng (old: 13) lydo: Nhặt từ map at 03/11/2023 6:31 AM
+BAG:vitamina add 1xGiầy sợi len lydo: Nhặt từ map at 03/11/2023 6:31 AM
+BAG:vitamina add 15xHoa hồng vàng (old: 14) lydo: Nhặt từ map at 03/11/2023 6:31 AM
+BAG:vitamina add 16xHoa hồng vàng (old: 15) lydo: Nhặt từ map at 03/11/2023 6:31 AM
+BAG:vitamina add 1xGiầy sợi len lydo: Nhặt từ map at 03/11/2023 6:32 AM
+BAG:vitamina add 1xÁo sợi len lydo: Nhặt từ map at 03/11/2023 6:32 AM
+BAG:vitamina add 1xRada cấp 1 lydo: Nhặt từ map at 03/11/2023 6:32 AM
+BAG:vitamina add 16xHoa hồng xanh (old: 15) lydo: Nhặt từ map at 03/11/2023 6:32 AM
+BAG:vitamina add 19xHoa hồng đỏ (old: 18) lydo: Nhặt từ map at 03/11/2023 6:32 AM
+BAG:vitamina add 1xĐá Titan lydo: Nhặt từ map at 03/11/2023 6:32 AM
+BAG:vitamina add 1xQuần sợi len lydo: Lấy từ rương qua người at 03/11/2023 6:33 AM
+BAG:vitamina add 1xRada cấp 1 lydo: Lấy từ rương qua người at 03/11/2023 6:34 AM
+BAG:vitamina add 1xRada cấp 1 lydo: Lấy từ body đệ vào hành trang at 03/11/2023 6:35 AM
+BAG:vitamina add 1xCải trang Gohan Bư lydo: Lấy từ body đệ vào hành trang at 03/11/2023 6:36 AM
+BAG:vitamina add 1xQuần sợi len lydo: Lấy từ body đệ vào hành trang at 03/11/2023 6:36 AM
+BAG:vitamina add 1xQuần sợi len lydo: Lấy từ rương qua người at 03/11/2023 6:37 AM
+BAG:vitamina add 1xRada cấp 1 lydo: Lấy từ rương qua người at 03/11/2023 6:37 AM
+BAG:vitamina add 1xÁo sợi len lydo: Lấy từ rương qua người at 03/11/2023 6:37 AM
+BAG:vitamina add 6xNâng cấp kỹ năng 1 đệ tử lydo: Lấy từ rương qua người at 03/11/2023 6:37 AM
+BAG:vitamina add 20xHoa hồng đỏ (old: 19) lydo: Nhặt từ map at 03/11/2023 6:38 AM
+BAG:vitamina add 17xHoa hồng vàng (old: 16) lydo: Nhặt từ map at 03/11/2023 6:38 AM
+BAG:vitamina add 18xHoa hồng vàng (old: 17) lydo: Nhặt từ map at 03/11/2023 6:38 AM
+BAG:vitamina add 21xHoa hồng đỏ (old: 20) lydo: Nhặt từ map at 03/11/2023 6:38 AM
+BAG:vitamina add 22xHoa hồng đỏ (old: 21) lydo: Nhặt từ map at 03/11/2023 6:38 AM
+BAG:vitamina add 23xHoa hồng đỏ (old: 22) lydo: Nhặt từ map at 03/11/2023 6:39 AM
+BAG:vitamina add 17xHoa hồng xanh (old: 16) lydo: Nhặt từ map at 03/11/2023 6:39 AM
+BAG:vitamina add 19xHoa hồng vàng (old: 18) lydo: Nhặt từ map at 03/11/2023 6:39 AM
+BAG:vitamina add 24xHoa hồng đỏ (old: 23) lydo: Nhặt từ map at 03/11/2023 6:39 AM
+BAG:vitamina add 18xHoa hồng xanh (old: 17) lydo: Nhặt từ map at 03/11/2023 6:40 AM
+BAG:vitamina add 25xHoa hồng đỏ (old: 24) lydo: Nhặt từ map at 03/11/2023 6:42 AM
+BAG:vitamina add 1xĐá Titan lydo: Nhặt từ map at 03/11/2023 6:42 AM
+BAG:vitamina add 26xHoa hồng đỏ (old: 25) lydo: Nhặt từ map at 03/11/2023 6:45 AM
+BAG:vitamina add 19xHoa hồng xanh (old: 18) lydo: Nhặt từ map at 03/11/2023 6:45 AM
+BAG:vitamina add 1xAvatar lydo: Mua từ cửa hàng at 03/11/2023 6:45 AM
+BAG:vitamina add 1xAvatar lydo: Mua từ cửa hàng at 03/11/2023 6:45 AM
+BAG:vitamina add 27xHoa hồng đỏ (old: 26) lydo: Nhặt từ map at 03/11/2023 6:45 AM
+BAG:vitamina add 1xÁo sợi len lydo: Nhặt từ map at 03/11/2023 6:46 AM
+BAG:vitamina add 28xHoa hồng đỏ (old: 27) lydo: Nhặt từ map at 03/11/2023 6:46 AM
+BAG:vitamina add 1xĐá lục bảo lydo: Nhặt từ map at 03/11/2023 6:46 AM
+BAG:vitamina add 1xĐá Ruby lydo: Nhặt từ map at 03/11/2023 6:46 AM
+BAG:vitamina add 20xHoa hồng vàng (old: 19) lydo: Nhặt từ map at 03/11/2023 6:46 AM
+BAG:vitamina add 21xHoa hồng vàng (old: 20) lydo: Nhặt từ map at 03/11/2023 6:46 AM
+BAG:vitamina add 29xHoa hồng đỏ (old: 28) lydo: Nhặt từ map at 03/11/2023 6:46 AM
+BAG:vitamina add 30xHoa hồng đỏ (old: 29) lydo: Nhặt từ map at 03/11/2023 6:46 AM
+BAG:vitamina add 1xRada cấp 1 lydo: Nhặt từ map at 03/11/2023 6:46 AM
+BAG:vitamina add 31xHoa hồng đỏ (old: 30) lydo: Nhặt từ map at 03/11/2023 6:46 AM
+BAG:vitamina add 1xÁo sợi len lydo: Nhặt từ map at 03/11/2023 6:47 AM
+BAG:vitamina add 22xHoa hồng vàng (old: 21) lydo: Nhặt từ map at 03/11/2023 6:47 AM
+BAG:vitamina add 1xGiầy sợi len lydo: Nhặt từ map at 03/11/2023 6:47 AM
+BAG:vitamina add 20xHoa hồng xanh (old: 19) lydo: Nhặt từ map at 03/11/2023 6:47 AM
+BAG:vitamina add 23xHoa hồng vàng (old: 22) lydo: Nhặt từ map at 03/11/2023 6:47 AM
+BAG:vitamina add 24xHoa hồng vàng (old: 23) lydo: Nhặt từ map at 03/11/2023 6:47 AM
+BAG:vitamina add 1xÁo sợi len lydo: Nhặt từ map at 03/11/2023 6:47 AM
+BAG:vitamina add 32xHoa hồng đỏ (old: 31) lydo: Nhặt từ map at 03/11/2023 6:49 AM
+BAG:vitamina add 25xHoa hồng vàng (old: 24) lydo: Nhặt từ map at 03/11/2023 6:49 AM
+BAG:vitamina add 33xHoa hồng đỏ (old: 32) lydo: Nhặt từ map at 03/11/2023 6:49 AM
+BAG:vitamina add 1xRada cấp 1 lydo: Nhặt từ map at 03/11/2023 6:49 AM
+BAG:vitamina add 1xĐá thạch anh tím lydo: Nhặt từ map at 03/11/2023 6:49 AM
+BAG:vitamina add 1xRada cấp 1 lydo: Nhặt từ map at 03/11/2023 6:49 AM
+BAG:vitamina add 1xÁo sợi len lydo: Nhặt từ map at 03/11/2023 6:49 AM
+BAG:vitamina add 26xHoa hồng vàng (old: 25) lydo: Nhặt từ map at 03/11/2023 6:49 AM
+BAG:vitamina add 1xĐá Saphia lydo: Nhặt từ map at 03/11/2023 6:50 AM
+BAG:vitamina add 2xĐá lục bảo (old: 1) lydo: Nhặt từ map at 03/11/2023 6:50 AM
+BAG:vitamina add 34xHoa hồng đỏ (old: 33) lydo: Nhặt từ map at 03/11/2023 6:50 AM
+BAG:vitamina add 21xHoa hồng xanh (old: 20) lydo: Nhặt từ map at 03/11/2023 6:50 AM
+BAG:vitamina add 22xHoa hồng xanh (old: 21) lydo: Nhặt từ map at 03/11/2023 6:50 AM
+BAG:vitamina add 2xĐá Saphia (old: 1) lydo: Nhặt từ map at 03/11/2023 6:50 AM
+BAG:vitamina add 1xGiầy sợi len lydo: Nhặt từ map at 03/11/2023 6:50 AM
+BAG:vitamina add 27xHoa hồng vàng (old: 26) lydo: Nhặt từ map at 03/11/2023 6:50 AM
+BAG:vitamina add 2xĐá Titan (old: 1) lydo: Nhặt từ map at 03/11/2023 6:50 AM
+BAG:vitamina add 1xRada cấp 1 lydo: Nhặt từ map at 03/11/2023 6:50 AM
+BAG:vitamina add 35xHoa hồng đỏ (old: 34) lydo: Nhặt từ map at 03/11/2023 6:50 AM
+BAG:vitamina add 36xHoa hồng đỏ (old: 35) lydo: Nhặt từ map at 03/11/2023 6:50 AM
+BAG:vitamina add 2xĐá thạch anh tím (old: 1) lydo: Nhặt từ map at 03/11/2023 6:50 AM
+BAG:vitamina add 23xHoa hồng xanh (old: 22) lydo: Nhặt từ map at 03/11/2023 6:50 AM
+BAG:vitamina add 28xHoa hồng vàng (old: 27) lydo: Nhặt từ map at 03/11/2023 6:50 AM
+BAG:vitamina add 1xQuần sợi len lydo: Nhặt từ map at 03/11/2023 6:50 AM
+BAG:vitamina add 37xHoa hồng đỏ (old: 36) lydo: Nhặt từ map at 03/11/2023 6:50 AM
+BAG:vitamina add 24xHoa hồng xanh (old: 23) lydo: Nhặt từ map at 03/11/2023 6:51 AM
+BAG:vitamina add 29xHoa hồng vàng (old: 28) lydo: Nhặt từ map at 03/11/2023 6:51 AM
+BAG:vitamina add 3xĐá Titan (old: 2) lydo: Nhặt từ map at 03/11/2023 6:51 AM
+BAG:vitamina add 1xGiầy sợi len lydo: Nhặt từ map at 03/11/2023 6:51 AM
+BAG:vitamina add 1xRada cấp 1 lydo: Nhặt từ map at 03/11/2023 6:51 AM
+BAG:vitamina add 30xHoa hồng vàng (old: 29) lydo: Nhặt từ map at 03/11/2023 6:51 AM
+BAG:vitamina add 25xHoa hồng xanh (old: 24) lydo: Nhặt từ map at 03/11/2023 6:51 AM
+BAG:vitamina add 26xHoa hồng xanh (old: 25) lydo: Nhặt từ map at 03/11/2023 6:51 AM
+BAG:vitamina add 2xĐá Ruby (old: 1) lydo: Nhặt từ map at 03/11/2023 6:51 AM
+BAG:vitamina add 27xHoa hồng xanh (old: 26) lydo: Nhặt từ map at 03/11/2023 6:51 AM
+BAG:vitamina add 38xHoa hồng đỏ (old: 37) lydo: Nhặt từ map at 03/11/2023 6:51 AM
+BAG:vitamina add 28xHoa hồng xanh (old: 27) lydo: Nhặt từ map at 03/11/2023 6:51 AM
+BAG:vitamina add 3xĐá Ruby (old: 2) lydo: Nhặt từ map at 03/11/2023 6:51 AM
+BAG:vitamina add 31xHoa hồng vàng (old: 30) lydo: Nhặt từ map at 03/11/2023 6:52 AM
+BAG:vitamina add 1xÁo sợi len lydo: Nhặt từ map at 03/11/2023 6:52 AM
+BAG:vitamina add 1xRada cấp 1 lydo: Nhặt từ map at 03/11/2023 6:52 AM
+BAG:vitamina add 32xHoa hồng vàng (old: 31) lydo: Nhặt từ map at 03/11/2023 6:52 AM
+BAG:vitamina add 29xHoa hồng xanh (old: 28) lydo: Nhặt từ map at 03/11/2023 6:52 AM
+BAG:vitamina add 1xMảnh Khủng long lydo: Nhặt từ map at 03/11/2023 6:52 AM
+BAG:vitamina add 30xHoa hồng xanh (old: 29) lydo: Nhặt từ map at 03/11/2023 6:52 AM
+BAG:vitamina add 1xQuần sợi len lydo: Nhặt từ map at 03/11/2023 6:52 AM
+BAG:vitamina add 39xHoa hồng đỏ (old: 38) lydo: Nhặt từ map at 03/11/2023 6:52 AM
+BAG:vitamina add 40xHoa hồng đỏ (old: 39) lydo: Nhặt từ map at 03/11/2023 6:52 AM
+BAG:vitamina add 41xHoa hồng đỏ (old: 40) lydo: Nhặt từ map at 03/11/2023 6:52 AM
+BAG:vitamina add 1xGăng sợi len lydo: Nhặt từ map at 03/11/2023 6:52 AM
+BAG:vitamina add 33xHoa hồng vàng (old: 32) lydo: Nhặt từ map at 03/11/2023 6:52 AM
+BAG:vitamina add 42xHoa hồng đỏ (old: 41) lydo: Nhặt từ map at 03/11/2023 6:52 AM
+BAG:vitamina add 1xRada cấp 1 lydo: Nhặt từ map at 03/11/2023 6:53 AM
+BAG:vitamina add 43xHoa hồng đỏ (old: 42) lydo: Nhặt từ map at 03/11/2023 6:53 AM
+BAG:vitamina add 31xHoa hồng xanh (old: 30) lydo: Nhặt từ map at 03/11/2023 6:53 AM
+BAG:vitamina add 32xHoa hồng xanh (old: 31) lydo: Nhặt từ map at 03/11/2023 6:53 AM
+BAG:vitamina add 4xĐá Ruby (old: 3) lydo: Nhặt từ map at 03/11/2023 6:53 AM
+BAG:vitamina add 34xHoa hồng vàng (old: 33) lydo: Nhặt từ map at 03/11/2023 6:53 AM
+BAG:vitamina add 5xĐá Ruby (old: 4) lydo: Nhặt từ map at 03/11/2023 6:53 AM
+BAG:vitamina add 3xĐá thạch anh tím (old: 2) lydo: Nhặt từ map at 03/11/2023 6:53 AM
+BAG:vitamina add 33xHoa hồng xanh (old: 32) lydo: Nhặt từ map at 03/11/2023 6:53 AM
+BAG:vitamina add 34xHoa hồng xanh (old: 33) lydo: Nhặt từ map at 03/11/2023 6:53 AM
+BAG:vitamina add 35xHoa hồng vàng (old: 34) lydo: Nhặt từ map at 03/11/2023 6:53 AM
+BAG:vitamina add 36xHoa hồng vàng (old: 35) lydo: Nhặt từ map at 03/11/2023 6:53 AM
+BAG:vitamina add 4xĐá thạch anh tím (old: 3) lydo: Nhặt từ map at 03/11/2023 6:53 AM
+BAG:vitamina add 44xHoa hồng đỏ (old: 43) lydo: Nhặt từ map at 03/11/2023 6:54 AM
+BAG:vitamina add 37xHoa hồng vàng (old: 36) lydo: Nhặt từ map at 03/11/2023 6:54 AM
+BAG:vitamina add 45xHoa hồng đỏ (old: 44) lydo: Nhặt từ map at 03/11/2023 6:54 AM
+BAG:vitamina add 38xHoa hồng vàng (old: 37) lydo: Nhặt từ map at 03/11/2023 6:54 AM
+BAG:vitamina add 35xHoa hồng xanh (old: 34) lydo: Nhặt từ map at 03/11/2023 6:54 AM
+BAG:vitamina add 46xHoa hồng đỏ (old: 45) lydo: Nhặt từ map at 03/11/2023 6:54 AM
+BAG:vitamina add 47xHoa hồng đỏ (old: 46) lydo: Nhặt từ map at 03/11/2023 6:54 AM
+BAG:vitamina add 36xHoa hồng xanh (old: 35) lydo: Nhặt từ map at 03/11/2023 6:54 AM
+BAG:vitamina add 39xHoa hồng vàng (old: 38) lydo: Nhặt từ map at 03/11/2023 6:55 AM
+BAG:vitamina add 48xHoa hồng đỏ (old: 47) lydo: Nhặt từ map at 03/11/2023 6:55 AM
+BAG:vitamina add 40xHoa hồng vàng (old: 39) lydo: Nhặt từ map at 03/11/2023 6:55 AM
+BAG:vitamina add 1xGiỏ hoa lydo: Mua từ bill at 03/11/2023 6:59 AM
+BAG:vitamina add 2xGiỏ hoa (old: 1) lydo: Mua từ bill at 03/11/2023 6:59 AM
+BAG:vitamina add 3xGiỏ hoa (old: 2) lydo: Mua từ bill at 03/11/2023 6:59 AM
+BAG:vitamina add 4xGiỏ hoa (old: 3) lydo: Mua từ bill at 03/11/2023 6:59 AM
+BAG:vitamina add 5xGiỏ hoa (old: 4) lydo: Mua từ bill at 03/11/2023 6:59 AM
+BAG:vitamina add 37xHoa hồng xanh (old: 36) lydo: Nhặt từ map at 03/11/2023 7:00 AM
+BAG:vitamina add 49xHoa hồng đỏ (old: 48) lydo: Nhặt từ map at 03/11/2023 7:01 AM
+BAG:vitamina add 41xHoa hồng vàng (old: 40) lydo: Nhặt từ map at 03/11/2023 7:02 AM
+BAG:vitamina add 50xHoa hồng đỏ (old: 49) lydo: Nhặt từ map at 03/11/2023 7:03 AM
+BAG:vitamina add 51xHoa hồng đỏ (old: 50) lydo: Nhặt từ map at 03/11/2023 7:03 AM
+BAG:vitamina add 42xHoa hồng vàng (old: 41) lydo: Nhặt từ map at 03/11/2023 7:03 AM
+BAG:vitamina add 52xHoa hồng đỏ (old: 51) lydo: Nhặt từ map at 03/11/2023 7:03 AM
+BAG:vitamina add 43xHoa hồng vàng (old: 42) lydo: Nhặt từ map at 03/11/2023 7:04 AM
+BAG:vitamina add 5xĐá thạch anh tím (old: 4) lydo: Nhặt từ map at 03/11/2023 7:04 AM
+BAG:vitamina add 4xĐá Titan (old: 3) lydo: Nhặt từ map at 03/11/2023 7:04 AM
+BAG:vitamina add 44xHoa hồng vàng (old: 43) lydo: Nhặt từ map at 03/11/2023 7:04 AM
+BAG:vitamina add 3xĐá lục bảo (old: 2) lydo: Nhặt từ map at 03/11/2023 7:04 AM
+BAG:vitamina add 53xHoa hồng đỏ (old: 52) lydo: Nhặt từ map at 03/11/2023 7:05 AM
+BAG:vitamina add 45xHoa hồng vàng (old: 44) lydo: Nhặt từ map at 03/11/2023 7:05 AM
+BAG:vitamina add 46xHoa hồng vàng (old: 45) lydo: Nhặt từ map at 03/11/2023 7:06 AM
+BAG:vitamina add 47xHoa hồng vàng (old: 46) lydo: Nhặt từ map at 03/11/2023 7:06 AM
+BAG:vitamina add 54xHoa hồng đỏ (old: 53) lydo: Nhặt từ map at 03/11/2023 7:06 AM
+BAG:vitamina add 55xHoa hồng đỏ (old: 54) lydo: Nhặt từ map at 03/11/2023 7:06 AM
+BAG:vitamina add 38xHoa hồng xanh (old: 37) lydo: Nhặt từ map at 03/11/2023 7:06 AM
+BAG:vitamina add 48xHoa hồng vàng (old: 47) lydo: Nhặt từ map at 03/11/2023 7:07 AM
+BAG:vitamina add 56xHoa hồng đỏ (old: 55) lydo: Nhặt từ map at 03/11/2023 7:07 AM
+BAG:vitamina add 57xHoa hồng đỏ (old: 56) lydo: Nhặt từ map at 03/11/2023 7:07 AM
+BAG:vitamina add 58xHoa hồng đỏ (old: 57) lydo: Nhặt từ map at 03/11/2023 7:07 AM
+BAG:vitamina add 59xHoa hồng đỏ (old: 58) lydo: Nhặt từ map at 03/11/2023 7:08 AM
+BAG:vitamina add 49xHoa hồng vàng (old: 48) lydo: Nhặt từ map at 03/11/2023 7:08 AM
+BAG:vitamina add 39xHoa hồng xanh (old: 38) lydo: Nhặt từ map at 03/11/2023 7:09 AM
+BAG:vitamina add 50xHoa hồng vàng (old: 49) lydo: Nhặt từ map at 03/11/2023 7:09 AM
+BAG:vitamina add 60xHoa hồng đỏ (old: 59) lydo: Nhặt từ map at 03/11/2023 7:10 AM
+BAG:vitamina add 40xHoa hồng xanh (old: 39) lydo: Nhặt từ map at 03/11/2023 7:10 AM
+BAG:vitamina add 61xHoa hồng đỏ (old: 60) lydo: Nhặt từ map at 03/11/2023 7:11 AM
+BAG:vitamina add 62xHoa hồng đỏ (old: 61) lydo: Nhặt từ map at 03/11/2023 7:11 AM
+BAG:vitamina add 63xHoa hồng đỏ (old: 62) lydo: Nhặt từ map at 03/11/2023 7:11 AM
+BAG:vitamina add 10xĐậu thần cấp 10 lydo: Thu hoạch đậu at 03/11/2023 8:20 AM
+BAG:vitamina add 64xHoa hồng đỏ (old: 63) lydo: Nhặt từ map at 03/11/2023 8:20 AM
+BAG:vitamina add 10xĐậu thần cấp 10 lydo: Thu hoạch đậu at 03/11/2023 8:21 AM
+BAG:vitamina add 19xĐậu thần cấp 8 lydo: Lấy từ rương qua người at 03/11/2023 8:21 AM
+BAG:vitamina add 20xĐậu thần cấp 10 (old: 10) lydo: Lấy từ rương qua người at 03/11/2023 8:21 AM
+BAG:vitamina add 51xHoa hồng vàng (old: 50) lydo: Nhặt từ map at 03/11/2023 8:22 AM
+BAG:vitamina add 41xHoa hồng xanh (old: 40) lydo: Nhặt từ map at 03/11/2023 8:23 AM
+BAG:vitamina add 42xHoa hồng xanh (old: 41) lydo: Nhặt từ map at 03/11/2023 8:23 AM
+BAG:vitamina add 1xĐá Saphia lydo: Nhặt từ map at 03/11/2023 8:24 AM
+BAG:vitamina add 52xHoa hồng vàng (old: 51) lydo: Nhặt từ map at 03/11/2023 8:24 AM
+BAG:vitamina add 53xHoa hồng vàng (old: 52) lydo: Nhặt từ map at 03/11/2023 8:24 AM
+BAG:vitamina add 43xHoa hồng xanh (old: 42) lydo: Nhặt từ map at 03/11/2023 8:26 AM
+BAG:vitamina add 65xHoa hồng đỏ (old: 64) lydo: Nhặt từ map at 03/11/2023 8:27 AM
+BAG:vitamina add 66xHoa hồng đỏ (old: 65) lydo: Nhặt từ map at 03/11/2023 8:28 AM
+BAG:vitamina add 44xHoa hồng xanh (old: 43) lydo: Nhặt từ map at 03/11/2023 8:28 AM
+BAG:vitamina add 67xHoa hồng đỏ (old: 66) lydo: Nhặt từ map at 03/11/2023 8:28 AM
+BAG:vitamina add 54xHoa hồng vàng (old: 53) lydo: Nhặt từ map at 03/11/2023 8:30 AM
+BAG:vitamina add 55xHoa hồng vàng (old: 54) lydo: Nhặt từ map at 03/11/2023 8:30 AM
+BAG:vitamina add 45xHoa hồng xanh (old: 44) lydo: Nhặt từ map at 03/11/2023 8:30 AM
+BAG:vitamina add 1xĐá thạch anh tím lydo: Nhặt từ map at 03/11/2023 8:32 AM
+BAG:vitamina add 46xHoa hồng xanh (old: 45) lydo: Nhặt từ map at 03/11/2023 8:32 AM
+BAG:vitamina add 1xSao pha lê lydo: Lấy từ lucky box at 03/11/2023 8:34 AM
+BAG:vitamina add 1xSao pha lê lydo: Lấy từ lucky box at 03/11/2023 8:34 AM
+BAG:vitamina add 2xSao pha lê (old: 1) lydo: Lấy từ lucky box at 03/11/2023 8:34 AM
+BAG:vitamina add 2xSao pha lê (old: 1) lydo: Lấy từ lucky box at 03/11/2023 8:34 AM
+BAG:vitamina add 1xSao pha lê lydo: Lấy từ lucky box at 03/11/2023 8:34 AM
+BAG:vitamina add 1xCT Genma 02 lydo: Lấy từ lucky box at 03/11/2023 8:35 AM
+BAG:vitamina add 3xSao pha lê (old: 2) lydo: Lấy từ lucky box at 03/11/2023 8:35 AM
+BAG:vitamina add 3xSao pha lê (old: 2) lydo: Lấy từ lucky box at 03/11/2023 8:35 AM
+BAG:vitamina add 1xNgọc Rồng 4 sao lydo: Lấy từ lucky box at 03/11/2023 8:38 AM
+BAG:vitamina add 2xNgọc Rồng 4 sao (old: 1) lydo: Lấy từ lucky box at 03/11/2023 8:38 AM
+BAG:vitamina add 3xNgọc Rồng 4 sao (old: 2) lydo: Lấy từ lucky box at 03/11/2023 8:38 AM
+BAG:vitamina add 1xVệ tinh trí tuệ lydo: Lấy từ lucky box at 03/11/2023 8:40 AM
+BAG:vitamina add 4xSao pha lê (old: 3) lydo: Lấy từ lucky box at 03/11/2023 8:40 AM
+BAG:vitamina add 1xSao pha lê lydo: Lấy từ lucky box at 03/11/2023 8:40 AM
+BAG:vitamina add 2xVệ tinh trí tuệ (old: 1) lydo: Lấy từ lucky box at 03/11/2023 8:40 AM
+BAG:vitamina add 5xSao pha lê (old: 4) lydo: Lấy từ lucky box at 03/11/2023 8:40 AM
+BAG:vitamina add 2xSao pha lê (old: 1) lydo: Lấy từ lucky box at 03/11/2023 8:40 AM
+BAG:vitamina add 3xSao pha lê (old: 2) lydo: Lấy từ lucky box at 03/11/2023 8:40 AM
+BAG:vitamina add 6xSao pha lê (old: 5) lydo: Lấy từ lucky box at 03/11/2023 8:40 AM
+BAG:vitamina add 3xVệ tinh trí tuệ (old: 2) lydo: Lấy từ lucky box at 03/11/2023 8:41 AM
+BAG:vitamina add 7xSao pha lê (old: 6) lydo: Lấy từ lucky box at 03/11/2023 8:42 AM
+BAG:vitamina add 4xSao pha lê (old: 3) lydo: Lấy từ lucky box at 03/11/2023 8:42 AM
+BAG:vitamina add 4xSao pha lê (old: 3) lydo: Lấy từ lucky box at 03/11/2023 8:42 AM
+BAG:vitamina add 8xSao pha lê (old: 7) lydo: Lấy từ lucky box at 03/11/2023 8:42 AM
+BAG:vitamina add 5xSao pha lê (old: 4) lydo: Lấy từ lucky box at 03/11/2023 8:43 AM
+BAG:vitamina add 5xSao pha lê (old: 4) lydo: Lấy từ lucky box at 03/11/2023 8:43 AM
+BAG:vitamina add 1xVệ tinh trí lực lydo: Lấy từ lucky box at 03/11/2023 8:43 AM
+BAG:vitamina add 2xVệ tinh trí lực (old: 1) lydo: Lấy từ lucky box at 03/11/2023 8:43 AM
+BAG:vitamina add 6xSao pha lê (old: 5) lydo: Lấy từ lucky box at 03/11/2023 8:44 AM
+BAG:vitamina add 7xSao pha lê (old: 6) lydo: Lấy từ lucky box at 03/11/2023 8:44 AM
+BAG:vitamina add 8xSao pha lê (old: 7) lydo: Lấy từ lucky box at 03/11/2023 8:44 AM
+BAG:vitamina add 4xVệ tinh trí tuệ (old: 3) lydo: Lấy từ lucky box at 03/11/2023 8:45 AM
+BAG:vitamina add 9xSao pha lê (old: 8) lydo: Lấy từ lucky box at 03/11/2023 8:45 AM
+BAG:vitamina add 10xSao pha lê (old: 9) lydo: Lấy từ lucky box at 03/11/2023 8:45 AM
+BAG:vitamina add 11xSao pha lê (old: 10) lydo: Lấy từ lucky box at 03/11/2023 8:45 AM
+BAG:vitamina add 12xSao pha lê (old: 11) lydo: Lấy từ lucky box at 03/11/2023 8:48 AM
+BAG:vitamina add 5xVệ tinh trí tuệ (old: 4) lydo: Lấy từ lucky box at 03/11/2023 8:48 AM
+BAG:vitamina add 13xSao pha lê (old: 12) lydo: Lấy từ lucky box at 03/11/2023 8:48 AM
+BAG:vitamina add 6xVệ tinh trí tuệ (old: 5) lydo: Lấy từ lucky box at 03/11/2023 8:48 AM
+BAG:vitamina add 14xSao pha lê (old: 13) lydo: Lấy từ lucky box at 03/11/2023 8:48 AM
+BAG:vitamina add 15xSao pha lê (old: 14) lydo: Lấy từ lucky box at 03/11/2023 8:49 AM
+BAG:vitamina add 7xVệ tinh trí tuệ (old: 6) lydo: Lấy từ lucky box at 03/11/2023 8:49 AM
+BAG:vitamina add 8xVệ tinh trí tuệ (old: 7) lydo: Lấy từ lucky box at 03/11/2023 8:49 AM
+BAG:vitamina add 16xSao pha lê (old: 15) lydo: Lấy từ lucky box at 03/11/2023 8:49 AM
+BAG:vitamina add 9xSao pha lê (old: 8) lydo: Lấy từ lucky box at 03/11/2023 8:49 AM
+BAG:vitamina add 10xSao pha lê (old: 9) lydo: Lấy từ lucky box at 03/11/2023 8:49 AM
+BAG:vitamina add 17xSao pha lê (old: 16) lydo: Lấy từ lucky box at 03/11/2023 8:51 AM
+BAG:vitamina add 18xSao pha lê (old: 17) lydo: Lấy từ lucky box at 03/11/2023 8:51 AM
+BAG:vitamina add 19xSao pha lê (old: 18) lydo: Lấy từ lucky box at 03/11/2023 8:51 AM
+BAG:vitamina add 1xVệ tinh sinh lực lydo: Lấy từ lucky box at 03/11/2023 8:52 AM
+BAG:vitamina add 2xVệ tinh sinh lực (old: 1) lydo: Lấy từ lucky box at 03/11/2023 8:52 AM
+BAG:vitamina add 2xSao pha lê (old: 1) lydo: Lấy từ lucky box at 03/11/2023 8:52 AM
+BAG:vitamina add 9xVệ tinh trí tuệ (old: 8) lydo: Lấy từ lucky box at 03/11/2023 8:52 AM
+BAG:vitamina add 10xVệ tinh trí tuệ (old: 9) lydo: Lấy từ lucky box at 03/11/2023 8:52 AM
+BAG:vitamina add 11xSao pha lê (old: 10) lydo: Lấy từ lucky box at 03/11/2023 8:53 AM
+BAG:vitamina add 11xVệ tinh trí tuệ (old: 10) lydo: Lấy từ lucky box at 03/11/2023 8:53 AM
+BAG:vitamina add 12xVệ tinh trí tuệ (old: 11) lydo: Lấy từ lucky box at 03/11/2023 8:53 AM
+BAG:vitamina add 13xVệ tinh trí tuệ (old: 12) lydo: Lấy từ lucky box at 03/11/2023 8:53 AM
+BAG:vitamina add 3xVệ tinh sinh lực (old: 2) lydo: Lấy từ lucky box at 03/11/2023 8:53 AM
+BAG:vitamina add 20xSao pha lê (old: 19) lydo: Lấy từ lucky box at 03/11/2023 8:54 AM
+BAG:vitamina add 3xSao pha lê (old: 2) lydo: Lấy từ lucky box at 03/11/2023 8:54 AM
+BAG:vitamina add 14xVệ tinh trí tuệ (old: 13) lydo: Lấy từ lucky box at 03/11/2023 8:54 AM
+BAG:vitamina add 4xSao pha lê (old: 3) lydo: Lấy từ lucky box at 03/11/2023 8:54 AM
+BAG:vitamina add 6xSao pha lê (old: 5) lydo: Lấy từ lucky box at 03/11/2023 8:54 AM
+BAG:vitamina add 1xĐá Ruby lydo: Nhặt từ map at 03/11/2023 8:56 AM
+BAG:vitamina add 56xHoa hồng vàng (old: 55) lydo: Nhặt từ map at 03/11/2023 8:57 AM
+BAG:vitamina add 57xHoa hồng vàng (old: 56) lydo: Nhặt từ map at 03/11/2023 8:57 AM
+BAG:vitamina add 58xHoa hồng vàng (old: 57) lydo: Nhặt từ map at 03/11/2023 8:58 AM
+BAG:vitamina add 47xHoa hồng xanh (old: 46) lydo: Nhặt từ map at 03/11/2023 8:58 AM
+BAG:vitamina add 59xHoa hồng vàng (old: 58) lydo: Nhặt từ map at 03/11/2023 8:58 AM
+BAG:vitamina add 60xHoa hồng vàng (old: 59) lydo: Nhặt từ map at 03/11/2023 8:59 AM
+BAG:vitamina add 48xHoa hồng xanh (old: 47) lydo: Nhặt từ map at 03/11/2023 8:59 AM
+BAG:vitamina add 68xHoa hồng đỏ (old: 67) lydo: Nhặt từ map at 03/11/2023 8:59 AM
+BAG:vitamina add 61xHoa hồng vàng (old: 60) lydo: Nhặt từ map at 03/11/2023 8:59 AM
+BAG:vitamina add 62xHoa hồng vàng (old: 61) lydo: Nhặt từ map at 03/11/2023 9:00 AM
+BAG:vitamina add 63xHoa hồng vàng (old: 62) lydo: Nhặt từ map at 03/11/2023 9:00 AM
+BAG:vitamina add 49xHoa hồng xanh (old: 48) lydo: Nhặt từ map at 03/11/2023 9:01 AM
+BAG:vitamina add 69xHoa hồng đỏ (old: 68) lydo: Nhặt từ map at 03/11/2023 9:01 AM
+BAG:vitamina add 2xĐá Ruby (old: 1) lydo: Nhặt từ map at 03/11/2023 9:01 AM
+BAG:vitamina add 1xĐá Titan lydo: Nhặt từ map at 03/11/2023 9:01 AM
+BAG:vitamina add 64xHoa hồng vàng (old: 63) lydo: Nhặt từ map at 03/11/2023 9:02 AM
+BAG:vitamina add 65xHoa hồng vàng (old: 64) lydo: Nhặt từ map at 03/11/2023 9:02 AM
+BAG:vitamina add 50xHoa hồng xanh (old: 49) lydo: Nhặt từ map at 03/11/2023 9:02 AM
+BAG:vitamina add 66xHoa hồng vàng (old: 65) lydo: Nhặt từ map at 03/11/2023 9:03 AM
+BAG:vitamina add 67xHoa hồng vàng (old: 66) lydo: Nhặt từ map at 03/11/2023 9:03 AM
+BAG:vitamina add 51xHoa hồng xanh (old: 50) lydo: Nhặt từ map at 03/11/2023 9:03 AM
+BAG:vitamina add 52xHoa hồng xanh (old: 51) lydo: Nhặt từ map at 03/11/2023 9:04 AM
+BAG:vitamina add 68xHoa hồng vàng (old: 67) lydo: Nhặt từ map at 03/11/2023 9:04 AM
+BAG:vitamina add 69xHoa hồng vàng (old: 68) lydo: Nhặt từ map at 03/11/2023 9:05 AM
+BAG:vitamina add 70xHoa hồng đỏ (old: 69) lydo: Nhặt từ map at 03/11/2023 9:05 AM
+BAG:vitamina add 70xHoa hồng vàng (old: 69) lydo: Nhặt từ map at 03/11/2023 9:05 AM
+BAG:vitamina add 3xĐá Ruby (old: 2) lydo: Nhặt từ map at 03/11/2023 9:06 AM
+BAG:vitamina add 71xHoa hồng vàng (old: 70) lydo: Nhặt từ map at 03/11/2023 9:06 AM
+BAG:vitamina add 53xHoa hồng xanh (old: 52) lydo: Nhặt từ map at 03/11/2023 9:06 AM
+BAG:vitamina add 72xHoa hồng vàng (old: 71) lydo: Nhặt từ map at 03/11/2023 9:07 AM
+BAG:vitamina add 54xHoa hồng xanh (old: 53) lydo: Nhặt từ map at 03/11/2023 9:07 AM
+BAG:vitamina add 73xHoa hồng vàng (old: 72) lydo: Nhặt từ map at 03/11/2023 9:07 AM
+BAG:vitamina add 74xHoa hồng vàng (old: 73) lydo: Nhặt từ map at 03/11/2023 9:08 AM
+BAG:vitamina add 71xHoa hồng đỏ (old: 70) lydo: Nhặt từ map at 03/11/2023 9:08 AM
+BAG:vitamina add 72xHoa hồng đỏ (old: 71) lydo: Nhặt từ map at 03/11/2023 9:08 AM
+BAG:vitamina add 75xHoa hồng vàng (old: 74) lydo: Nhặt từ map at 03/11/2023 9:09 AM
+BAG:vitamina add 73xHoa hồng đỏ (old: 72) lydo: Nhặt từ map at 03/11/2023 9:09 AM
+BAG:vitamina add 76xHoa hồng vàng (old: 75) lydo: Nhặt từ map at 03/11/2023 9:09 AM
+BAG:vitamina add 77xHoa hồng vàng (old: 76) lydo: Nhặt từ map at 03/11/2023 9:09 AM
+BAG:vitamina add 55xHoa hồng xanh (old: 54) lydo: Nhặt từ map at 03/11/2023 9:09 AM
+BAG:vitamina add 56xHoa hồng xanh (old: 55) lydo: Nhặt từ map at 03/11/2023 9:10 AM
+BAG:vitamina add 78xHoa hồng vàng (old: 77) lydo: Nhặt từ map at 03/11/2023 9:12 AM
+BAG:vitamina add 79xHoa hồng vàng (old: 78) lydo: Nhặt từ map at 03/11/2023 9:12 AM
+BAG:vitamina add 74xHoa hồng đỏ (old: 73) lydo: Nhặt từ map at 03/11/2023 9:12 AM
+BAG:vitamina add 80xHoa hồng vàng (old: 79) lydo: Nhặt từ map at 03/11/2023 9:12 AM
+BAG:vitamina add 57xHoa hồng xanh (old: 56) lydo: Nhặt từ map at 03/11/2023 9:12 AM
+BAG:vitamina add 4xĐá Ruby (old: 3) lydo: Nhặt từ map at 03/11/2023 9:12 AM
+BAG:vitamina add 81xHoa hồng vàng (old: 80) lydo: Nhặt từ map at 03/11/2023 9:13 AM
+BAG:vitamina add 75xHoa hồng đỏ (old: 74) lydo: Nhặt từ map at 03/11/2023 9:13 AM
+BAG:vitamina add 76xHoa hồng đỏ (old: 75) lydo: Nhặt từ map at 03/11/2023 9:13 AM
+BAG:vitamina add 82xHoa hồng vàng (old: 81) lydo: Nhặt từ map at 03/11/2023 9:14 AM
+BAG:vitamina add 77xHoa hồng đỏ (old: 76) lydo: Nhặt từ map at 03/11/2023 9:14 AM
+BAG:vitamina add 78xHoa hồng đỏ (old: 77) lydo: Nhặt từ map at 03/11/2023 9:14 AM
+BAG:vitamina add 58xHoa hồng xanh (old: 57) lydo: Nhặt từ map at 03/11/2023 9:15 AM
+BAG:vitamina add 59xHoa hồng xanh (old: 58) lydo: Nhặt từ map at 03/11/2023 9:15 AM
+BAG:vitamina add 83xHoa hồng vàng (old: 82) lydo: Nhặt từ map at 03/11/2023 9:15 AM
+BAG:vitamina add 2xĐá Titan (old: 1) lydo: Nhặt từ map at 03/11/2023 9:15 AM
+BAG:vitamina add 79xHoa hồng đỏ (old: 78) lydo: Nhặt từ map at 03/11/2023 9:15 AM
+BAG:vitamina add 84xHoa hồng vàng (old: 83) lydo: Nhặt từ map at 03/11/2023 9:16 AM
+BAG:vitamina add 3xĐá Titan (old: 2) lydo: Nhặt từ map at 03/11/2023 9:16 AM
+BAG:vitamina add 60xHoa hồng xanh (old: 59) lydo: Nhặt từ map at 03/11/2023 9:16 AM
+BAG:vitamina add 61xHoa hồng xanh (old: 60) lydo: Nhặt từ map at 03/11/2023 9:16 AM
+BAG:vitamina add 62xHoa hồng xanh (old: 61) lydo: Nhặt từ map at 03/11/2023 9:16 AM
+BAG:vitamina add 63xHoa hồng xanh (old: 62) lydo: Nhặt từ map at 03/11/2023 9:17 AM
+BAG:vitamina add 64xHoa hồng xanh (old: 63) lydo: Nhặt từ map at 03/11/2023 9:17 AM
+BAG:vitamina add 80xHoa hồng đỏ (old: 79) lydo: Nhặt từ map at 03/11/2023 9:18 AM
+BAG:vitamina add 65xHoa hồng xanh (old: 64) lydo: Nhặt từ map at 03/11/2023 9:19 AM
+BAG:vitamina add 66xHoa hồng xanh (old: 65) lydo: Nhặt từ map at 03/11/2023 9:20 AM
+BAG:vitamina add 5xĐá Ruby (old: 4) lydo: Nhặt từ map at 03/11/2023 9:20 AM
+BAG:vitamina add 67xHoa hồng xanh (old: 66) lydo: Nhặt từ map at 03/11/2023 9:20 AM
+BAG:vitamina add 81xHoa hồng đỏ (old: 80) lydo: Nhặt từ map at 03/11/2023 9:20 AM
+BAG:vitamina add 85xHoa hồng vàng (old: 84) lydo: Nhặt từ map at 03/11/2023 9:23 AM
+BAG:vitamina add 86xHoa hồng vàng (old: 85) lydo: Nhặt từ map at 03/11/2023 9:23 AM
+BAG:vitamina add 87xHoa hồng vàng (old: 86) lydo: Nhặt từ map at 03/11/2023 9:23 AM
+BAG:vitamina add 82xHoa hồng đỏ (old: 81) lydo: Nhặt từ map at 03/11/2023 9:23 AM
+BAG:vitamina add 88xHoa hồng vàng (old: 87) lydo: Nhặt từ map at 03/11/2023 9:23 AM
+BAG:vitamina add 89xHoa hồng vàng (old: 88) lydo: Nhặt từ map at 03/11/2023 9:24 AM

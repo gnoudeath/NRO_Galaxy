@@ -1,0 +1,23 @@
+BAG:heocon add 1xRada cấp 1 lydo: Lấy từ rương qua người at 03/11/2023 9:23 PM
+BAG:heocon add 150xThỏi vàng lydo: Giftcode at 03/11/2023 9:25 PM
+BAG:heocon add 99xNgọc Rồng 3 sao lydo: Giftcode at 03/11/2023 9:25 PM
+BAG:heocon add 5xĐậu thần cấp 1 lydo: Thu hoạch đậu at 03/11/2023 9:29 PM
+BAG:heocon add 5xĐậu thần cấp 7 lydo: Thu hoạch đậu at 03/11/2023 9:30 PM
+BAG:heocon add 25xĐậu thần cấp 7 (old: 5) lydo: Lấy từ rương qua người at 03/11/2023 9:31 PM
+BAG:heocon add 45xĐậu thần cấp 7 (old: 25) lydo: Lấy từ rương qua người at 03/11/2023 9:31 PM
+BAG:heocon add 1xHoa hồng vàng lydo: Nhặt từ map at 03/11/2023 9:32 PM
+BAG:heocon add 1xĐá lục bảo lydo: Nhặt từ map at 03/11/2023 9:32 PM
+BAG:heocon add 1xHoa hồng xanh lydo: Nhặt từ map at 03/11/2023 9:32 PM
+BAG:heocon add 2xHoa hồng vàng (old: 1) lydo: Nhặt từ map at 03/11/2023 9:33 PM
+BAG:heocon add 1xHoa hồng đỏ lydo: Nhặt từ map at 03/11/2023 9:33 PM
+BAG:heocon add 3xHoa hồng vàng (old: 2) lydo: Nhặt từ map at 03/11/2023 9:33 PM
+BAG:heocon add 2xHoa hồng xanh (old: 1) lydo: Nhặt từ map at 03/11/2023 9:33 PM
+BAG:heocon add 4xHoa hồng vàng (old: 3) lydo: Nhặt từ map at 03/11/2023 9:33 PM
+BAG:heocon add 2xHoa hồng đỏ (old: 1) lydo: Nhặt từ map at 03/11/2023 9:33 PM
+BAG:heocon add 3xHoa hồng đỏ (old: 2) lydo: Nhặt từ map at 03/11/2023 9:33 PM
+BAG:heocon add 4xHoa hồng đỏ (old: 3) lydo: Nhặt từ map at 03/11/2023 9:33 PM
+BAG:heocon add 3xHoa hồng xanh (old: 2) lydo: Nhặt từ map at 03/11/2023 9:34 PM
+BAG:heocon add 5xHoa hồng vàng (old: 4) lydo: Nhặt từ map at 03/11/2023 9:34 PM
+BAG:heocon add 1xĐá Titan lydo: Nhặt từ map at 03/11/2023 9:34 PM
+BAG:heocon add 6xHoa hồng vàng (old: 5) lydo: Nhặt từ map at 03/11/2023 9:41 PM
+BAG:heocon add 1xĐá Ruby lydo: Nhặt từ map at 03/11/2023 9:43 PM

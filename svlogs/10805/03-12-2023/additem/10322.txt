@@ -1,0 +1,953 @@
+BAG:kinzzzz add 1xGăng siêu Xayda lydo: Mua từ cửa hàng at 03/12/2023 6:59 AM
+BAG:kinzzzz add 1xÁo siêu xayda lydo: Mua từ cửa hàng at 03/12/2023 7:00 AM
+BAG:kinzzzz add 1xÁo siêu xayda lydo: Mua từ cửa hàng at 03/12/2023 7:00 AM
+BAG:kinzzzz add 1xÁo siêu xayda lydo: Mua từ cửa hàng at 03/12/2023 7:00 AM
+BAG:kinzzzz add 298xThỏi vàng lydo: Lấy từ rương qua người at 03/12/2023 7:02 AM
+BAG:kinzzzz add 99xViên Capsule kì bí lydo: Lấy từ rương qua người at 03/12/2023 7:02 AM
+BAG:kinzzzz add 44xViên Capsule kì bí lydo: Lấy từ rương qua người at 03/12/2023 7:02 AM
+BAG:kinzzzz add 1xBông tai Porata lydo: Mua từ cửa hàng at 03/12/2023 7:03 AM
+BAG:kinzzzz add 1xẨn danh lydo: CSKB at 03/12/2023 7:03 AM
+BAG:kinzzzz add 2xẨn danh (old: 1) lydo: CSKB at 03/12/2023 7:04 AM
+BAG:kinzzzz add 1xBổ khí lydo: CSKB at 03/12/2023 7:04 AM
+BAG:kinzzzz add 1xCuồng nộ lydo: CSKB at 03/12/2023 7:05 AM
+BAG:kinzzzz add 2xCuồng nộ (old: 1) lydo: CSKB at 03/12/2023 7:05 AM
+BAG:kinzzzz add 3xCuồng nộ (old: 2) lydo: CSKB at 03/12/2023 7:05 AM
+BAG:kinzzzz add 1xBổ huyết lydo: CSKB at 03/12/2023 7:05 AM
+BAG:kinzzzz add 3xẨn danh (old: 2) lydo: CSKB at 03/12/2023 7:05 AM
+BAG:kinzzzz add 2xBổ khí (old: 1) lydo: CSKB at 03/12/2023 7:05 AM
+BAG:kinzzzz add 4xẨn danh (old: 3) lydo: CSKB at 03/12/2023 7:05 AM
+BAG:kinzzzz add 5xẨn danh (old: 4) lydo: CSKB at 03/12/2023 7:05 AM
+BAG:kinzzzz add 4xCuồng nộ (old: 3) lydo: CSKB at 03/12/2023 7:05 AM
+BAG:kinzzzz add 6xẨn danh (old: 5) lydo: CSKB at 03/12/2023 7:05 AM
+BAG:kinzzzz add 7xẨn danh (old: 6) lydo: CSKB at 03/12/2023 7:06 AM
+BAG:kinzzzz add 5xCuồng nộ (old: 4) lydo: CSKB at 03/12/2023 7:06 AM
+BAG:kinzzzz add 6xCuồng nộ (old: 5) lydo: CSKB at 03/12/2023 7:06 AM
+BAG:kinzzzz add 2xBổ huyết (old: 1) lydo: CSKB at 03/12/2023 7:06 AM
+BAG:kinzzzz add 8xẨn danh (old: 7) lydo: CSKB at 03/12/2023 7:06 AM
+BAG:kinzzzz add 7xCuồng nộ (old: 6) lydo: CSKB at 03/12/2023 7:06 AM
+BAG:kinzzzz add 3xBổ khí (old: 2) lydo: CSKB at 03/12/2023 7:06 AM
+BAG:kinzzzz add 9xẨn danh (old: 8) lydo: CSKB at 03/12/2023 7:06 AM
+BAG:kinzzzz add 10xẨn danh (old: 9) lydo: CSKB at 03/12/2023 7:06 AM
+BAG:kinzzzz add 11xẨn danh (old: 10) lydo: CSKB at 03/12/2023 7:06 AM
+BAG:kinzzzz add 8xCuồng nộ (old: 7) lydo: CSKB at 03/12/2023 7:06 AM
+BAG:kinzzzz add 9xCuồng nộ (old: 8) lydo: CSKB at 03/12/2023 7:06 AM
+BAG:kinzzzz add 1xNgọc Rồng 3 sao lydo: Nhập ngọc at 03/12/2023 7:07 AM
+BAG:kinzzzz add 2xNgọc Rồng 3 sao (old: 1) lydo: Nhập ngọc at 03/12/2023 7:08 AM
+BAG:kinzzzz add 3xNgọc Rồng 3 sao (old: 2) lydo: Nhập ngọc at 03/12/2023 7:09 AM
+BAG:kinzzzz add 4xNgọc Rồng 3 sao (old: 3) lydo: Nhập ngọc at 03/12/2023 7:09 AM
+BAG:kinzzzz add 5xNgọc Rồng 3 sao (old: 4) lydo: Nhập ngọc at 03/12/2023 7:09 AM
+BAG:kinzzzz add 6xNgọc Rồng 3 sao (old: 5) lydo: Nhập ngọc at 03/12/2023 7:09 AM
+BAG:kinzzzz add 7xNgọc Rồng 3 sao (old: 6) lydo: Nhập ngọc at 03/12/2023 7:09 AM
+BAG:kinzzzz add 8xNgọc Rồng 3 sao (old: 7) lydo: Nhập ngọc at 03/12/2023 7:09 AM
+BAG:kinzzzz add 9xNgọc Rồng 3 sao (old: 8) lydo: Nhập ngọc at 03/12/2023 7:09 AM
+BAG:kinzzzz add 10xNgọc Rồng 3 sao (old: 9) lydo: Nhập ngọc at 03/12/2023 7:09 AM
+BAG:kinzzzz add 11xNgọc Rồng 3 sao (old: 10) lydo: Nhập ngọc at 03/12/2023 7:09 AM
+BAG:kinzzzz add 12xNgọc Rồng 3 sao (old: 11) lydo: Nhập ngọc at 03/12/2023 7:09 AM
+BAG:kinzzzz add 13xNgọc Rồng 3 sao (old: 12) lydo: Nhập ngọc at 03/12/2023 7:09 AM
+BAG:kinzzzz add 14xNgọc Rồng 3 sao (old: 13) lydo: Nhập ngọc at 03/12/2023 7:09 AM
+BAG:kinzzzz add 15xNgọc Rồng 3 sao (old: 14) lydo: Nhập ngọc at 03/12/2023 7:09 AM
+BAG:kinzzzz add 16xNgọc Rồng 3 sao (old: 15) lydo: Nhập ngọc at 03/12/2023 7:09 AM
+BAG:kinzzzz add 17xNgọc Rồng 3 sao (old: 16) lydo: Nhập ngọc at 03/12/2023 7:09 AM
+BAG:kinzzzz add 18xNgọc Rồng 3 sao (old: 17) lydo: Nhập ngọc at 03/12/2023 7:09 AM
+BAG:kinzzzz add 19xNgọc Rồng 3 sao (old: 18) lydo: Nhập ngọc at 03/12/2023 7:09 AM
+BAG:kinzzzz add 20xNgọc Rồng 3 sao (old: 19) lydo: Nhập ngọc at 03/12/2023 7:10 AM
+BAG:kinzzzz add 21xNgọc Rồng 3 sao (old: 20) lydo: Nhập ngọc at 03/12/2023 7:10 AM
+BAG:kinzzzz add 22xNgọc Rồng 3 sao (old: 21) lydo: Nhập ngọc at 03/12/2023 7:10 AM
+BAG:kinzzzz add 23xNgọc Rồng 3 sao (old: 22) lydo: Nhập ngọc at 03/12/2023 7:10 AM
+BAG:kinzzzz add 24xNgọc Rồng 3 sao (old: 23) lydo: Nhập ngọc at 03/12/2023 7:10 AM
+BAG:kinzzzz add 25xNgọc Rồng 3 sao (old: 24) lydo: Nhập ngọc at 03/12/2023 7:10 AM
+BAG:kinzzzz add 26xNgọc Rồng 3 sao (old: 25) lydo: Nhập ngọc at 03/12/2023 7:10 AM
+BAG:kinzzzz add 27xNgọc Rồng 3 sao (old: 26) lydo: Nhập ngọc at 03/12/2023 7:10 AM
+BAG:kinzzzz add 28xNgọc Rồng 3 sao (old: 27) lydo: Nhập ngọc at 03/12/2023 7:10 AM
+BAG:kinzzzz add 2xĐá xanh lam lydo: Lấy từ rương qua người at 03/12/2023 7:10 AM
+BAG:kinzzzz add 1xGiáp tập luyện cấp 3 lydo: Lấy từ body vào hành trang at 03/12/2023 10:22 AM
+BAG:kinzzzz add 1xĐá thạch anh tím lydo: Nhặt từ map at 03/12/2023 10:25 AM
+BAG:kinzzzz add 9420xHoa hồng đỏ (old: 9419) lydo: Nhặt từ map at 03/12/2023 10:25 AM
+BAG:kinzzzz add 1xGăng vải thô lydo: Lấy từ rương qua người at 03/12/2023 10:28 AM
+BAG:kinzzzz add 1xÁo vải thô lydo: Lấy từ body đệ vào hành trang at 03/12/2023 10:31 AM
+BAG:kinzzzz add 1xQuần vải thô lydo: Lấy từ body đệ vào hành trang at 03/12/2023 10:31 AM
+BAG:kinzzzz add 1xGiầy vải thô lydo: Lấy từ body đệ vào hành trang at 03/12/2023 10:31 AM
+BAG:kinzzzz add 1xRada cấp 1 lydo: Lấy từ body đệ vào hành trang at 03/12/2023 10:31 AM
+BAG:kinzzzz add 1xÁo vải thô lydo: Lấy từ body vào hành trang at 03/12/2023 10:31 AM
+BAG:kinzzzz add 1xQuần vải thô lydo: Lấy từ body vào hành trang at 03/12/2023 10:31 AM
+BAG:kinzzzz add 1xGăng vải thô lydo: Lấy từ body vào hành trang at 03/12/2023 10:31 AM
+BAG:kinzzzz add 1xGiáp tập luyện cấp 3 lydo: Lấy từ body vào hành trang at 03/12/2023 10:32 AM
+BAG:kinzzzz add 1xNgọc Rồng 2 sao lydo: Nhặt từ map at 03/12/2023 10:36 AM
+BAG:kinzzzz add 9118xHoa hồng xanh (old: 9117) lydo: Nhặt từ map at 03/12/2023 10:36 AM
+BAG:kinzzzz add 11936xHoa hồng vàng (old: 11935) lydo: Nhặt từ map at 03/12/2023 10:36 AM
+BAG:kinzzzz add 11937xHoa hồng vàng (old: 11936) lydo: Nhặt từ map at 03/12/2023 10:37 AM
+BAG:kinzzzz add 11938xHoa hồng vàng (old: 11937) lydo: Nhặt từ map at 03/12/2023 10:40 AM
+BAG:kinzzzz add 1xQuỷ Chim lydo: Lấy từ rương qua người at 03/12/2023 10:40 AM
+BAG:kinzzzz add 10xĐậu thần cấp 10 lydo: Thu hoạch đậu at 03/12/2023 10:40 AM
+BAG:kinzzzz add 23xĐậu thần cấp 10 (old: 10) lydo: Lấy từ rương qua người at 03/12/2023 10:40 AM
+BAG:kinzzzz add 1xQuần vải thô lydo: Lấy từ body vào hành trang at 03/12/2023 10:41 AM
+BAG:kinzzzz add 1xGăng vải thô lydo: Lấy từ body vào hành trang at 03/12/2023 10:44 AM
+BAG:kinzzzz add 1xGiầy vải thô lydo: Lấy từ body vào hành trang at 03/12/2023 10:48 AM
+BAG:kinzzzz add 1xRada cấp 1 lydo: Lấy từ body vào hành trang at 03/12/2023 10:49 AM
+BAG:kinzzzz add 1xGiầy vải thô lydo: Lấy từ body vào hành trang at 03/12/2023 11:08 AM
+BAG:kinzzzz add 1xÁo vải thô lydo: Lấy từ body đệ vào hành trang at 03/12/2023 11:09 AM
+BAG:kinzzzz add 1xQuần vải thô lydo: Lấy từ body đệ vào hành trang at 03/12/2023 11:09 AM
+BAG:kinzzzz add 1xGiầy vải thô lydo: Lấy từ body đệ vào hành trang at 03/12/2023 11:09 AM
+BAG:kinzzzz add 1xGăng lưỡng long lydo: Lấy từ body đệ vào hành trang at 03/12/2023 11:09 AM
+BAG:kinzzzz add 1xRada cấp 1 lydo: Lấy từ body đệ vào hành trang at 03/12/2023 11:09 AM
+BAG:kinzzzz add 99xNgọc Rồng 3 sao lydo: Lấy từ rương qua người at 03/12/2023 11:13 AM
+BAG:kinzzzz add 2xNgọc Rồng 2 sao (old: 1) lydo: Nhập ngọc at 03/12/2023 11:13 AM
+BAG:kinzzzz add 3xNgọc Rồng 2 sao (old: 2) lydo: Nhập ngọc at 03/12/2023 11:13 AM
+BAG:kinzzzz add 4xNgọc Rồng 2 sao (old: 3) lydo: Nhập ngọc at 03/12/2023 11:13 AM
+BAG:kinzzzz add 5xNgọc Rồng 2 sao (old: 4) lydo: Nhập ngọc at 03/12/2023 11:13 AM
+BAG:kinzzzz add 6xNgọc Rồng 2 sao (old: 5) lydo: Nhập ngọc at 03/12/2023 11:13 AM
+BAG:kinzzzz add 7xNgọc Rồng 2 sao (old: 6) lydo: Nhập ngọc at 03/12/2023 11:13 AM
+BAG:kinzzzz add 8xNgọc Rồng 2 sao (old: 7) lydo: Nhập ngọc at 03/12/2023 11:13 AM
+BAG:kinzzzz add 9xNgọc Rồng 2 sao (old: 8) lydo: Nhập ngọc at 03/12/2023 11:13 AM
+BAG:kinzzzz add 10xNgọc Rồng 2 sao (old: 9) lydo: Nhập ngọc at 03/12/2023 11:13 AM
+BAG:kinzzzz add 11xNgọc Rồng 2 sao (old: 10) lydo: Nhập ngọc at 03/12/2023 11:13 AM
+BAG:kinzzzz add 12xNgọc Rồng 2 sao (old: 11) lydo: Nhập ngọc at 03/12/2023 11:13 AM
+BAG:kinzzzz add 13xNgọc Rồng 2 sao (old: 12) lydo: Nhập ngọc at 03/12/2023 11:13 AM
+BAG:kinzzzz add 14xNgọc Rồng 2 sao (old: 13) lydo: Nhập ngọc at 03/12/2023 11:13 AM
+BAG:kinzzzz add 15xNgọc Rồng 2 sao (old: 14) lydo: Nhập ngọc at 03/12/2023 11:13 AM
+BAG:kinzzzz add 1xNgọc Rồng 1 sao lydo: Nhập ngọc at 03/12/2023 11:14 AM
+BAG:kinzzzz add 4xNgọc Rồng 7 sao lydo: Lấy từ rương qua người at 03/12/2023 11:14 AM
+BAG:kinzzzz add 1xNgọc Rồng 6 sao lydo: Lấy từ lucky box at 03/12/2023 11:14 AM
+BAG:kinzzzz add 1xNgọc Rồng 5 sao lydo: Lấy từ lucky box at 03/12/2023 11:15 AM
+BAG:kinzzzz add 1xAvatar VIP lydo: Ước NR at 03/12/2023 11:15 AM
+BAG:kinzzzz add 68xNgọc Rồng 3 sao lydo: Lấy từ rương qua người at 03/12/2023 11:20 AM
+BAG:kinzzzz add 1xQuần vải thô lydo: Lấy từ body vào hành trang at 03/12/2023 11:21 AM
+BAG:kinzzzz add 1xGăng vải thô lydo: Lấy từ body vào hành trang at 03/12/2023 11:21 AM
+BAG:kinzzzz add 1xRada cấp 1 lydo: Lấy từ body vào hành trang at 03/12/2023 11:21 AM
+BAG:kinzzzz add 1xGiầy vải thô lydo: Lấy từ body vào hành trang at 03/12/2023 11:21 AM
+BAG:kinzzzz add 1xÁo vải thô lydo: Lấy từ body vào hành trang at 03/12/2023 11:22 AM
+BAG:kinzzzz add 1xÁo vải thô lydo: Lấy từ body vào hành trang at 03/12/2023 11:22 AM
+BAG:kinzzzz add 1xQuần vải thô lydo: Lấy từ body vào hành trang at 03/12/2023 11:23 AM
+BAG:kinzzzz add 1xGăng vải thô lydo: Lấy từ body vào hành trang at 03/12/2023 11:23 AM
+BAG:kinzzzz add 1xGiầy vải thô lydo: Lấy từ body vào hành trang at 03/12/2023 11:23 AM
+BAG:kinzzzz add 1xRada cấp 1 lydo: Lấy từ body vào hành trang at 03/12/2023 11:23 AM
+BAG:kinzzzz add 1xGiáp tập luyện cấp 3 lydo: Lấy từ body vào hành trang at 03/12/2023 11:24 AM
+BAG:kinzzzz add 1xNgọc Rồng 2 sao lydo: Nhặt từ map at 03/12/2023 11:27 AM
+BAG:kinzzzz add 64xNgọc Rồng 3 sao (old: 63) lydo: Nhặt từ map at 03/12/2023 11:27 AM
+BAG:kinzzzz add 64xNgọc Rồng 3 sao lydo: Lấy từ rương qua người at 03/12/2023 12:37 PM
+BAG:kinzzzz add 99xNgọc Rồng 3 sao (old: 64) lydo: Lấy từ rương qua người at 03/12/2023 12:37 PM
+BAG:kinzzzz add 1xĐá thạch anh tím lydo: Lấy từ rương qua người at 03/12/2023 12:37 PM
+BAG:kinzzzz add 99xĐá thạch anh tím (old: 1) lydo: Lấy từ rương qua người at 03/12/2023 12:37 PM
+BAG:kinzzzz add 11939xHoa hồng vàng (old: 11938) lydo: Nhặt từ map at 03/12/2023 12:39 PM
+BAG:kinzzzz add 7xMáy dò Capsule kì bí lydo: Lấy từ rương qua người at 03/12/2023 12:39 PM
+BAG:kinzzzz add 9119xHoa hồng xanh (old: 9118) lydo: Nhặt từ map at 03/12/2023 12:39 PM
+BAG:kinzzzz add 9120xHoa hồng xanh (old: 9119) lydo: Nhặt từ map at 03/12/2023 12:39 PM
+BAG:kinzzzz add 9421xHoa hồng đỏ (old: 9420) lydo: Nhặt từ map at 03/12/2023 12:39 PM
+BAG:kinzzzz add 9121xHoa hồng xanh (old: 9120) lydo: Nhặt từ map at 03/12/2023 12:39 PM
+BAG:kinzzzz add 9422xHoa hồng đỏ (old: 9421) lydo: Nhặt từ map at 03/12/2023 12:40 PM
+BAG:kinzzzz add 11940xHoa hồng vàng (old: 11939) lydo: Nhặt từ map at 03/12/2023 12:40 PM
+BAG:kinzzzz add 11941xHoa hồng vàng (old: 11940) lydo: Nhặt từ map at 03/12/2023 12:40 PM
+BAG:kinzzzz add 1xĐá Saphia lydo: Nhặt từ map at 03/12/2023 12:40 PM
+BAG:kinzzzz add 1xĐá Titan lydo: Nhặt từ map at 03/12/2023 12:40 PM
+BAG:kinzzzz add 9122xHoa hồng xanh (old: 9121) lydo: Nhặt từ map at 03/12/2023 12:40 PM
+BAG:kinzzzz add 1xNgọc Rồng 6 sao lydo: Nhặt từ map at 03/12/2023 12:40 PM
+BAG:kinzzzz add 9423xHoa hồng đỏ (old: 9422) lydo: Nhặt từ map at 03/12/2023 12:40 PM
+BAG:kinzzzz add 2xNgọc Rồng 6 sao (old: 1) lydo: Nhặt từ map at 03/12/2023 12:41 PM
+BAG:kinzzzz add 9123xHoa hồng xanh (old: 9122) lydo: Nhặt từ map at 03/12/2023 12:41 PM
+BAG:kinzzzz add 2xĐá Saphia (old: 1) lydo: Nhặt từ map at 03/12/2023 12:42 PM
+BAG:kinzzzz add 9424xHoa hồng đỏ (old: 9423) lydo: Nhặt từ map at 03/12/2023 12:42 PM
+BAG:kinzzzz add 1xĐá lục bảo lydo: Nhặt từ map at 03/12/2023 12:42 PM
+BAG:kinzzzz add 2xĐá lục bảo (old: 1) lydo: Nhặt từ map at 03/12/2023 12:42 PM
+BAG:kinzzzz add 3xĐá lục bảo (old: 2) lydo: Nhặt từ map at 03/12/2023 12:42 PM
+BAG:kinzzzz add 11942xHoa hồng vàng (old: 11941) lydo: Nhặt từ map at 03/12/2023 12:42 PM
+BAG:kinzzzz add 11943xHoa hồng vàng (old: 11942) lydo: Nhặt từ map at 03/12/2023 12:42 PM
+BAG:kinzzzz add 9425xHoa hồng đỏ (old: 9424) lydo: Nhặt từ map at 03/12/2023 12:42 PM
+BAG:kinzzzz add 9426xHoa hồng đỏ (old: 9425) lydo: Nhặt từ map at 03/12/2023 12:42 PM
+BAG:kinzzzz add 9427xHoa hồng đỏ (old: 9426) lydo: Nhặt từ map at 03/12/2023 12:43 PM
+BAG:kinzzzz add 11944xHoa hồng vàng (old: 11943) lydo: Nhặt từ map at 03/12/2023 12:43 PM
+BAG:kinzzzz add 2xĐá thạch anh tím (old: 1) lydo: Nhặt từ map at 03/12/2023 12:43 PM
+BAG:kinzzzz add 9428xHoa hồng đỏ (old: 9427) lydo: Nhặt từ map at 03/12/2023 12:43 PM
+BAG:kinzzzz add 9124xHoa hồng xanh (old: 9123) lydo: Nhặt từ map at 03/12/2023 12:44 PM
+BAG:kinzzzz add 9125xHoa hồng xanh (old: 9124) lydo: Nhặt từ map at 03/12/2023 12:44 PM
+BAG:kinzzzz add 11945xHoa hồng vàng (old: 11944) lydo: Nhặt từ map at 03/12/2023 12:44 PM
+BAG:kinzzzz add 1xViên Capsule kì bí lydo: Nhặt từ map at 03/12/2023 12:44 PM
+BAG:kinzzzz add 11946xHoa hồng vàng (old: 11945) lydo: Nhặt từ map at 03/12/2023 12:44 PM
+BAG:kinzzzz add 11947xHoa hồng vàng (old: 11946) lydo: Nhặt từ map at 03/12/2023 12:44 PM
+BAG:kinzzzz add 9429xHoa hồng đỏ (old: 9428) lydo: Nhặt từ map at 03/12/2023 12:44 PM
+BAG:kinzzzz add 9430xHoa hồng đỏ (old: 9429) lydo: Nhặt từ map at 03/12/2023 12:44 PM
+BAG:kinzzzz add 9431xHoa hồng đỏ (old: 9430) lydo: Nhặt từ map at 03/12/2023 12:44 PM
+BAG:kinzzzz add 2xViên Capsule kì bí (old: 1) lydo: Nhặt từ map at 03/12/2023 12:44 PM
+BAG:kinzzzz add 9432xHoa hồng đỏ (old: 9431) lydo: Nhặt từ map at 03/12/2023 12:45 PM
+BAG:kinzzzz add 9433xHoa hồng đỏ (old: 9432) lydo: Nhặt từ map at 03/12/2023 12:45 PM
+BAG:kinzzzz add 3xViên Capsule kì bí (old: 2) lydo: Nhặt từ map at 03/12/2023 12:45 PM
+BAG:kinzzzz add 9434xHoa hồng đỏ (old: 9433) lydo: Nhặt từ map at 03/12/2023 12:45 PM
+BAG:kinzzzz add 9435xHoa hồng đỏ (old: 9434) lydo: Nhặt từ map at 03/12/2023 12:45 PM
+BAG:kinzzzz add 4xViên Capsule kì bí (old: 3) lydo: Nhặt từ map at 03/12/2023 12:45 PM
+BAG:kinzzzz add 5xViên Capsule kì bí (old: 4) lydo: Nhặt từ map at 03/12/2023 12:46 PM
+BAG:kinzzzz add 9126xHoa hồng xanh (old: 9125) lydo: Nhặt từ map at 03/12/2023 12:46 PM
+BAG:kinzzzz add 9127xHoa hồng xanh (old: 9126) lydo: Nhặt từ map at 03/12/2023 12:46 PM
+BAG:kinzzzz add 6xViên Capsule kì bí (old: 5) lydo: Nhặt từ map at 03/12/2023 12:46 PM
+BAG:kinzzzz add 7xViên Capsule kì bí (old: 6) lydo: Nhặt từ map at 03/12/2023 12:46 PM
+BAG:kinzzzz add 11948xHoa hồng vàng (old: 11947) lydo: Nhặt từ map at 03/12/2023 12:46 PM
+BAG:kinzzzz add 9436xHoa hồng đỏ (old: 9435) lydo: Nhặt từ map at 03/12/2023 12:46 PM
+BAG:kinzzzz add 3xĐá Saphia (old: 2) lydo: Nhặt từ map at 03/12/2023 12:46 PM
+BAG:kinzzzz add 8xViên Capsule kì bí (old: 7) lydo: Nhặt từ map at 03/12/2023 12:46 PM
+BAG:kinzzzz add 9xViên Capsule kì bí (old: 8) lydo: Nhặt từ map at 03/12/2023 12:46 PM
+BAG:kinzzzz add 9128xHoa hồng xanh (old: 9127) lydo: Nhặt từ map at 03/12/2023 12:46 PM
+BAG:kinzzzz add 10xViên Capsule kì bí (old: 9) lydo: Nhặt từ map at 03/12/2023 12:47 PM
+BAG:kinzzzz add 2xNgọc Rồng 4 sao (old: 1) lydo: Nhặt từ map at 03/12/2023 12:47 PM
+BAG:kinzzzz add 11xViên Capsule kì bí (old: 10) lydo: Nhặt từ map at 03/12/2023 12:47 PM
+BAG:kinzzzz add 9437xHoa hồng đỏ (old: 9436) lydo: Nhặt từ map at 03/12/2023 12:48 PM
+BAG:kinzzzz add 11949xHoa hồng vàng (old: 11948) lydo: Nhặt từ map at 03/12/2023 12:48 PM
+BAG:kinzzzz add 9129xHoa hồng xanh (old: 9128) lydo: Nhặt từ map at 03/12/2023 12:48 PM
+BAG:kinzzzz add 12xViên Capsule kì bí (old: 11) lydo: Nhặt từ map at 03/12/2023 12:48 PM
+BAG:kinzzzz add 9130xHoa hồng xanh (old: 9129) lydo: Nhặt từ map at 03/12/2023 12:48 PM
+BAG:kinzzzz add 9131xHoa hồng xanh (old: 9130) lydo: Nhặt từ map at 03/12/2023 12:48 PM
+BAG:kinzzzz add 13xViên Capsule kì bí (old: 12) lydo: Nhặt từ map at 03/12/2023 12:48 PM
+BAG:kinzzzz add 14xViên Capsule kì bí (old: 13) lydo: Nhặt từ map at 03/12/2023 12:48 PM
+BAG:kinzzzz add 15xViên Capsule kì bí (old: 14) lydo: Nhặt từ map at 03/12/2023 12:49 PM
+BAG:kinzzzz add 11950xHoa hồng vàng (old: 11949) lydo: Nhặt từ map at 03/12/2023 12:49 PM
+BAG:kinzzzz add 9132xHoa hồng xanh (old: 9131) lydo: Nhặt từ map at 03/12/2023 12:49 PM
+BAG:kinzzzz add 11951xHoa hồng vàng (old: 11950) lydo: Nhặt từ map at 03/12/2023 12:49 PM
+BAG:kinzzzz add 16xViên Capsule kì bí (old: 15) lydo: Nhặt từ map at 03/12/2023 12:49 PM
+BAG:kinzzzz add 9133xHoa hồng xanh (old: 9132) lydo: Nhặt từ map at 03/12/2023 12:50 PM
+BAG:kinzzzz add 9438xHoa hồng đỏ (old: 9437) lydo: Nhặt từ map at 03/12/2023 12:50 PM
+BAG:kinzzzz add 11952xHoa hồng vàng (old: 11951) lydo: Nhặt từ map at 03/12/2023 12:50 PM
+BAG:kinzzzz add 17xViên Capsule kì bí (old: 16) lydo: Nhặt từ map at 03/12/2023 12:50 PM
+BAG:kinzzzz add 11953xHoa hồng vàng (old: 11952) lydo: Nhặt từ map at 03/12/2023 12:50 PM
+BAG:kinzzzz add 9439xHoa hồng đỏ (old: 9438) lydo: Nhặt từ map at 03/12/2023 12:50 PM
+BAG:kinzzzz add 11954xHoa hồng vàng (old: 11953) lydo: Nhặt từ map at 03/12/2023 12:50 PM
+BAG:kinzzzz add 9440xHoa hồng đỏ (old: 9439) lydo: Nhặt từ map at 03/12/2023 12:51 PM
+BAG:kinzzzz add 4xĐá lục bảo (old: 3) lydo: Nhặt từ map at 03/12/2023 12:51 PM
+BAG:kinzzzz add 11955xHoa hồng vàng (old: 11954) lydo: Nhặt từ map at 03/12/2023 12:51 PM
+BAG:kinzzzz add 9441xHoa hồng đỏ (old: 9440) lydo: Nhặt từ map at 03/12/2023 12:51 PM
+BAG:kinzzzz add 9442xHoa hồng đỏ (old: 9441) lydo: Nhặt từ map at 03/12/2023 12:51 PM
+BAG:kinzzzz add 9134xHoa hồng xanh (old: 9133) lydo: Nhặt từ map at 03/12/2023 12:51 PM
+BAG:kinzzzz add 18xViên Capsule kì bí (old: 17) lydo: Nhặt từ map at 03/12/2023 12:51 PM
+BAG:kinzzzz add 9443xHoa hồng đỏ (old: 9442) lydo: Nhặt từ map at 03/12/2023 12:51 PM
+BAG:kinzzzz add 3xNgọc Rồng 6 sao (old: 2) lydo: Nhặt từ map at 03/12/2023 12:51 PM
+BAG:kinzzzz add 9444xHoa hồng đỏ (old: 9443) lydo: Nhặt từ map at 03/12/2023 12:51 PM
+BAG:kinzzzz add 19xViên Capsule kì bí (old: 18) lydo: Nhặt từ map at 03/12/2023 12:52 PM
+BAG:kinzzzz add 20xViên Capsule kì bí (old: 19) lydo: Nhặt từ map at 03/12/2023 12:52 PM
+BAG:kinzzzz add 11956xHoa hồng vàng (old: 11955) lydo: Nhặt từ map at 03/12/2023 12:52 PM
+BAG:kinzzzz add 11957xHoa hồng vàng (old: 11956) lydo: Nhặt từ map at 03/12/2023 12:53 PM
+BAG:kinzzzz add 9135xHoa hồng xanh (old: 9134) lydo: Nhặt từ map at 03/12/2023 12:53 PM
+BAG:kinzzzz add 11958xHoa hồng vàng (old: 11957) lydo: Nhặt từ map at 03/12/2023 12:53 PM
+BAG:kinzzzz add 1xĐá Ruby lydo: Nhặt từ map at 03/12/2023 12:53 PM
+BAG:kinzzzz add 9445xHoa hồng đỏ (old: 9444) lydo: Nhặt từ map at 03/12/2023 12:53 PM
+BAG:kinzzzz add 9136xHoa hồng xanh (old: 9135) lydo: Nhặt từ map at 03/12/2023 12:53 PM
+BAG:kinzzzz add 21xViên Capsule kì bí (old: 20) lydo: Nhặt từ map at 03/12/2023 12:53 PM
+BAG:kinzzzz add 9137xHoa hồng xanh (old: 9136) lydo: Nhặt từ map at 03/12/2023 12:54 PM
+BAG:kinzzzz add 9446xHoa hồng đỏ (old: 9445) lydo: Nhặt từ map at 03/12/2023 12:54 PM
+BAG:kinzzzz add 11959xHoa hồng vàng (old: 11958) lydo: Nhặt từ map at 03/12/2023 12:55 PM
+BAG:kinzzzz add 22xViên Capsule kì bí (old: 21) lydo: Nhặt từ map at 03/12/2023 12:55 PM
+BAG:kinzzzz add 4xNgọc Rồng 6 sao (old: 3) lydo: Nhặt từ map at 03/12/2023 12:55 PM
+BAG:kinzzzz add 23xViên Capsule kì bí (old: 22) lydo: Nhặt từ map at 03/12/2023 12:55 PM
+BAG:kinzzzz add 9447xHoa hồng đỏ (old: 9446) lydo: Nhặt từ map at 03/12/2023 12:55 PM
+BAG:kinzzzz add 24xViên Capsule kì bí (old: 23) lydo: Nhặt từ map at 03/12/2023 12:55 PM
+BAG:kinzzzz add 25xViên Capsule kì bí (old: 24) lydo: Nhặt từ map at 03/12/2023 12:55 PM
+BAG:kinzzzz add 26xViên Capsule kì bí (old: 25) lydo: Nhặt từ map at 03/12/2023 12:55 PM
+BAG:kinzzzz add 27xViên Capsule kì bí (old: 26) lydo: Nhặt từ map at 03/12/2023 12:55 PM
+BAG:kinzzzz add 11960xHoa hồng vàng (old: 11959) lydo: Nhặt từ map at 03/12/2023 12:55 PM
+BAG:kinzzzz add 11961xHoa hồng vàng (old: 11960) lydo: Nhặt từ map at 03/12/2023 12:55 PM
+BAG:kinzzzz add 11962xHoa hồng vàng (old: 11961) lydo: Nhặt từ map at 03/12/2023 12:55 PM
+BAG:kinzzzz add 11963xHoa hồng vàng (old: 11962) lydo: Nhặt từ map at 03/12/2023 12:55 PM
+BAG:kinzzzz add 9448xHoa hồng đỏ (old: 9447) lydo: Nhặt từ map at 03/12/2023 12:55 PM
+BAG:kinzzzz add 3xNgọc Rồng 4 sao (old: 2) lydo: Nhặt từ map at 03/12/2023 12:56 PM
+BAG:kinzzzz add 28xViên Capsule kì bí (old: 27) lydo: Nhặt từ map at 03/12/2023 12:56 PM
+BAG:kinzzzz add 29xViên Capsule kì bí (old: 28) lydo: Nhặt từ map at 03/12/2023 12:56 PM
+BAG:kinzzzz add 30xViên Capsule kì bí (old: 29) lydo: Nhặt từ map at 03/12/2023 12:56 PM
+BAG:kinzzzz add 9449xHoa hồng đỏ (old: 9448) lydo: Nhặt từ map at 03/12/2023 12:56 PM
+BAG:kinzzzz add 31xViên Capsule kì bí (old: 30) lydo: Nhặt từ map at 03/12/2023 12:56 PM
+BAG:kinzzzz add 9450xHoa hồng đỏ (old: 9449) lydo: Nhặt từ map at 03/12/2023 12:56 PM
+BAG:kinzzzz add 11964xHoa hồng vàng (old: 11963) lydo: Nhặt từ map at 03/12/2023 12:56 PM
+BAG:kinzzzz add 9451xHoa hồng đỏ (old: 9450) lydo: Nhặt từ map at 03/12/2023 12:56 PM
+BAG:kinzzzz add 32xViên Capsule kì bí (old: 31) lydo: Nhặt từ map at 03/12/2023 12:56 PM
+BAG:kinzzzz add 4xNgọc Rồng 4 sao (old: 3) lydo: Nhặt từ map at 03/12/2023 12:57 PM
+BAG:kinzzzz add 2xĐá Ruby (old: 1) lydo: Nhặt từ map at 03/12/2023 12:57 PM
+BAG:kinzzzz add 33xViên Capsule kì bí (old: 32) lydo: Nhặt từ map at 03/12/2023 12:57 PM
+BAG:kinzzzz add 5xĐá lục bảo (old: 4) lydo: Nhặt từ map at 03/12/2023 12:57 PM
+BAG:kinzzzz add 34xViên Capsule kì bí (old: 33) lydo: Nhặt từ map at 03/12/2023 12:57 PM
+BAG:kinzzzz add 9452xHoa hồng đỏ (old: 9451) lydo: Nhặt từ map at 03/12/2023 12:57 PM
+BAG:kinzzzz add 35xViên Capsule kì bí (old: 34) lydo: Nhặt từ map at 03/12/2023 12:57 PM
+BAG:kinzzzz add 9453xHoa hồng đỏ (old: 9452) lydo: Nhặt từ map at 03/12/2023 12:57 PM
+BAG:kinzzzz add 36xViên Capsule kì bí (old: 35) lydo: Nhặt từ map at 03/12/2023 12:57 PM
+BAG:kinzzzz add 11965xHoa hồng vàng (old: 11964) lydo: Nhặt từ map at 03/12/2023 12:57 PM
+BAG:kinzzzz add 11966xHoa hồng vàng (old: 11965) lydo: Nhặt từ map at 03/12/2023 12:57 PM
+BAG:kinzzzz add 37xViên Capsule kì bí (old: 36) lydo: Nhặt từ map at 03/12/2023 12:57 PM
+BAG:kinzzzz add 11967xHoa hồng vàng (old: 11966) lydo: Nhặt từ map at 03/12/2023 12:58 PM
+BAG:kinzzzz add 4xĐá Saphia (old: 3) lydo: Nhặt từ map at 03/12/2023 12:58 PM
+BAG:kinzzzz add 38xViên Capsule kì bí (old: 37) lydo: Nhặt từ map at 03/12/2023 12:58 PM
+BAG:kinzzzz add 9454xHoa hồng đỏ (old: 9453) lydo: Nhặt từ map at 03/12/2023 12:58 PM
+BAG:kinzzzz add 11968xHoa hồng vàng (old: 11967) lydo: Nhặt từ map at 03/12/2023 12:58 PM
+BAG:kinzzzz add 11969xHoa hồng vàng (old: 11968) lydo: Nhặt từ map at 03/12/2023 12:58 PM
+BAG:kinzzzz add 11970xHoa hồng vàng (old: 11969) lydo: Nhặt từ map at 03/12/2023 12:58 PM
+BAG:kinzzzz add 5xNgọc Rồng 4 sao (old: 4) lydo: Nhặt từ map at 03/12/2023 12:58 PM
+BAG:kinzzzz add 39xViên Capsule kì bí (old: 38) lydo: Nhặt từ map at 03/12/2023 12:59 PM
+BAG:kinzzzz add 9455xHoa hồng đỏ (old: 9454) lydo: Nhặt từ map at 03/12/2023 12:59 PM
+BAG:kinzzzz add 40xViên Capsule kì bí (old: 39) lydo: Nhặt từ map at 03/12/2023 12:59 PM
+BAG:kinzzzz add 9456xHoa hồng đỏ (old: 9455) lydo: Nhặt từ map at 03/12/2023 12:59 PM
+BAG:kinzzzz add 11971xHoa hồng vàng (old: 11970) lydo: Nhặt từ map at 03/12/2023 12:59 PM
+BAG:kinzzzz add 11972xHoa hồng vàng (old: 11971) lydo: Nhặt từ map at 03/12/2023 12:59 PM
+BAG:kinzzzz add 9457xHoa hồng đỏ (old: 9456) lydo: Nhặt từ map at 03/12/2023 12:59 PM
+BAG:kinzzzz add 9458xHoa hồng đỏ (old: 9457) lydo: Nhặt từ map at 03/12/2023 12:59 PM
+BAG:kinzzzz add 41xViên Capsule kì bí (old: 40) lydo: Nhặt từ map at 03/12/2023 12:59 PM
+BAG:kinzzzz add 11973xHoa hồng vàng (old: 11972) lydo: Nhặt từ map at 03/12/2023 12:59 PM
+BAG:kinzzzz add 11974xHoa hồng vàng (old: 11973) lydo: Nhặt từ map at 03/12/2023 12:59 PM
+BAG:kinzzzz add 11975xHoa hồng vàng (old: 11974) lydo: Nhặt từ map at 03/12/2023 12:59 PM
+BAG:kinzzzz add 42xViên Capsule kì bí (old: 41) lydo: Nhặt từ map at 03/12/2023 12:59 PM
+BAG:kinzzzz add 11976xHoa hồng vàng (old: 11975) lydo: Nhặt từ map at 03/12/2023 12:59 PM
+BAG:kinzzzz add 3xĐá Ruby (old: 2) lydo: Nhặt từ map at 03/12/2023 12:59 PM
+BAG:kinzzzz add 9138xHoa hồng xanh (old: 9137) lydo: Nhặt từ map at 03/12/2023 12:59 PM
+BAG:kinzzzz add 9139xHoa hồng xanh (old: 9138) lydo: Nhặt từ map at 03/12/2023 1:00 PM
+BAG:kinzzzz add 9140xHoa hồng xanh (old: 9139) lydo: Nhặt từ map at 03/12/2023 1:00 PM
+BAG:kinzzzz add 11977xHoa hồng vàng (old: 11976) lydo: Nhặt từ map at 03/12/2023 1:00 PM
+BAG:kinzzzz add 9459xHoa hồng đỏ (old: 9458) lydo: Nhặt từ map at 03/12/2023 1:00 PM
+BAG:kinzzzz add 43xViên Capsule kì bí (old: 42) lydo: Nhặt từ map at 03/12/2023 1:00 PM
+BAG:kinzzzz add 11978xHoa hồng vàng (old: 11977) lydo: Nhặt từ map at 03/12/2023 1:00 PM
+BAG:kinzzzz add 44xViên Capsule kì bí (old: 43) lydo: Nhặt từ map at 03/12/2023 1:00 PM
+BAG:kinzzzz add 45xViên Capsule kì bí (old: 44) lydo: Nhặt từ map at 03/12/2023 1:01 PM
+BAG:kinzzzz add 46xViên Capsule kì bí (old: 45) lydo: Nhặt từ map at 03/12/2023 1:01 PM
+BAG:kinzzzz add 9460xHoa hồng đỏ (old: 9459) lydo: Nhặt từ map at 03/12/2023 1:01 PM
+BAG:kinzzzz add 11979xHoa hồng vàng (old: 11978) lydo: Nhặt từ map at 03/12/2023 1:01 PM
+BAG:kinzzzz add 9461xHoa hồng đỏ (old: 9460) lydo: Nhặt từ map at 03/12/2023 1:01 PM
+BAG:kinzzzz add 9141xHoa hồng xanh (old: 9140) lydo: Nhặt từ map at 03/12/2023 1:01 PM
+BAG:kinzzzz add 6xNgọc Rồng 4 sao (old: 5) lydo: Nhặt từ map at 03/12/2023 1:01 PM
+BAG:kinzzzz add 2xĐá Titan (old: 1) lydo: Nhặt từ map at 03/12/2023 1:01 PM
+BAG:kinzzzz add 47xViên Capsule kì bí (old: 46) lydo: Nhặt từ map at 03/12/2023 1:01 PM
+BAG:kinzzzz add 48xViên Capsule kì bí (old: 47) lydo: Nhặt từ map at 03/12/2023 1:01 PM
+BAG:kinzzzz add 11980xHoa hồng vàng (old: 11979) lydo: Nhặt từ map at 03/12/2023 1:01 PM
+BAG:kinzzzz add 49xViên Capsule kì bí (old: 48) lydo: Nhặt từ map at 03/12/2023 1:01 PM
+BAG:kinzzzz add 11981xHoa hồng vàng (old: 11980) lydo: Nhặt từ map at 03/12/2023 1:01 PM
+BAG:kinzzzz add 9142xHoa hồng xanh (old: 9141) lydo: Nhặt từ map at 03/12/2023 1:01 PM
+BAG:kinzzzz add 50xViên Capsule kì bí (old: 49) lydo: Nhặt từ map at 03/12/2023 1:01 PM
+BAG:kinzzzz add 11982xHoa hồng vàng (old: 11981) lydo: Nhặt từ map at 03/12/2023 1:01 PM
+BAG:kinzzzz add 51xViên Capsule kì bí (old: 50) lydo: Nhặt từ map at 03/12/2023 1:01 PM
+BAG:kinzzzz add 52xViên Capsule kì bí (old: 51) lydo: Nhặt từ map at 03/12/2023 1:01 PM
+BAG:kinzzzz add 53xViên Capsule kì bí (old: 52) lydo: Nhặt từ map at 03/12/2023 1:02 PM
+BAG:kinzzzz add 11983xHoa hồng vàng (old: 11982) lydo: Nhặt từ map at 03/12/2023 1:02 PM
+BAG:kinzzzz add 54xViên Capsule kì bí (old: 53) lydo: Nhặt từ map at 03/12/2023 1:02 PM
+BAG:kinzzzz add 55xViên Capsule kì bí (old: 54) lydo: Nhặt từ map at 03/12/2023 1:02 PM
+BAG:kinzzzz add 9462xHoa hồng đỏ (old: 9461) lydo: Nhặt từ map at 03/12/2023 1:02 PM
+BAG:kinzzzz add 56xViên Capsule kì bí (old: 55) lydo: Nhặt từ map at 03/12/2023 1:02 PM
+BAG:kinzzzz add 11984xHoa hồng vàng (old: 11983) lydo: Nhặt từ map at 03/12/2023 1:02 PM
+BAG:kinzzzz add 57xViên Capsule kì bí (old: 56) lydo: Nhặt từ map at 03/12/2023 1:02 PM
+BAG:kinzzzz add 58xViên Capsule kì bí (old: 57) lydo: Nhặt từ map at 03/12/2023 1:02 PM
+BAG:kinzzzz add 59xViên Capsule kì bí (old: 58) lydo: Nhặt từ map at 03/12/2023 1:02 PM
+BAG:kinzzzz add 60xViên Capsule kì bí (old: 59) lydo: Nhặt từ map at 03/12/2023 1:02 PM
+BAG:kinzzzz add 11985xHoa hồng vàng (old: 11984) lydo: Nhặt từ map at 03/12/2023 1:02 PM
+BAG:kinzzzz add 5xĐá Saphia (old: 4) lydo: Nhặt từ map at 03/12/2023 1:02 PM
+BAG:kinzzzz add 61xViên Capsule kì bí (old: 60) lydo: Nhặt từ map at 03/12/2023 1:02 PM
+BAG:kinzzzz add 62xViên Capsule kì bí (old: 61) lydo: Nhặt từ map at 03/12/2023 1:02 PM
+BAG:kinzzzz add 11986xHoa hồng vàng (old: 11985) lydo: Nhặt từ map at 03/12/2023 1:02 PM
+BAG:kinzzzz add 11987xHoa hồng vàng (old: 11986) lydo: Nhặt từ map at 03/12/2023 1:02 PM
+BAG:kinzzzz add 63xViên Capsule kì bí (old: 62) lydo: Nhặt từ map at 03/12/2023 1:02 PM
+BAG:kinzzzz add 64xViên Capsule kì bí (old: 63) lydo: Nhặt từ map at 03/12/2023 1:03 PM
+BAG:kinzzzz add 65xViên Capsule kì bí (old: 64) lydo: Nhặt từ map at 03/12/2023 1:03 PM
+BAG:kinzzzz add 11988xHoa hồng vàng (old: 11987) lydo: Nhặt từ map at 03/12/2023 1:03 PM
+BAG:kinzzzz add 66xViên Capsule kì bí (old: 65) lydo: Nhặt từ map at 03/12/2023 1:03 PM
+BAG:kinzzzz add 67xViên Capsule kì bí (old: 66) lydo: Nhặt từ map at 03/12/2023 1:03 PM
+BAG:kinzzzz add 9463xHoa hồng đỏ (old: 9462) lydo: Nhặt từ map at 03/12/2023 1:03 PM
+BAG:kinzzzz add 11989xHoa hồng vàng (old: 11988) lydo: Nhặt từ map at 03/12/2023 1:03 PM
+BAG:kinzzzz add 68xViên Capsule kì bí (old: 67) lydo: Nhặt từ map at 03/12/2023 1:03 PM
+BAG:kinzzzz add 1xNgọc Rồng 5 sao lydo: Nhặt từ map at 03/12/2023 1:03 PM
+BAG:kinzzzz add 69xViên Capsule kì bí (old: 68) lydo: Nhặt từ map at 03/12/2023 1:04 PM
+BAG:kinzzzz add 11990xHoa hồng vàng (old: 11989) lydo: Nhặt từ map at 03/12/2023 1:04 PM
+BAG:kinzzzz add 70xViên Capsule kì bí (old: 69) lydo: Nhặt từ map at 03/12/2023 1:04 PM
+BAG:kinzzzz add 71xViên Capsule kì bí (old: 70) lydo: Nhặt từ map at 03/12/2023 1:04 PM
+BAG:kinzzzz add 3xĐá Titan (old: 2) lydo: Nhặt từ map at 03/12/2023 1:04 PM
+BAG:kinzzzz add 9143xHoa hồng xanh (old: 9142) lydo: Nhặt từ map at 03/12/2023 1:04 PM
+BAG:kinzzzz add 72xViên Capsule kì bí (old: 71) lydo: Nhặt từ map at 03/12/2023 1:04 PM
+BAG:kinzzzz add 73xViên Capsule kì bí (old: 72) lydo: Nhặt từ map at 03/12/2023 1:04 PM
+BAG:kinzzzz add 74xViên Capsule kì bí (old: 73) lydo: Nhặt từ map at 03/12/2023 1:04 PM
+BAG:kinzzzz add 11991xHoa hồng vàng (old: 11990) lydo: Nhặt từ map at 03/12/2023 1:05 PM
+BAG:kinzzzz add 9464xHoa hồng đỏ (old: 9463) lydo: Nhặt từ map at 03/12/2023 1:05 PM
+BAG:kinzzzz add 11992xHoa hồng vàng (old: 11991) lydo: Nhặt từ map at 03/12/2023 1:05 PM
+BAG:kinzzzz add 9144xHoa hồng xanh (old: 9143) lydo: Nhặt từ map at 03/12/2023 1:05 PM
+BAG:kinzzzz add 75xViên Capsule kì bí (old: 74) lydo: Nhặt từ map at 03/12/2023 1:05 PM
+BAG:kinzzzz add 76xViên Capsule kì bí (old: 75) lydo: Nhặt từ map at 03/12/2023 1:05 PM
+BAG:kinzzzz add 77xViên Capsule kì bí (old: 76) lydo: Nhặt từ map at 03/12/2023 1:06 PM
+BAG:kinzzzz add 78xViên Capsule kì bí (old: 77) lydo: Nhặt từ map at 03/12/2023 1:06 PM
+BAG:kinzzzz add 9145xHoa hồng xanh (old: 9144) lydo: Nhặt từ map at 03/12/2023 1:06 PM
+BAG:kinzzzz add 7xNgọc Rồng 4 sao (old: 6) lydo: Nhặt từ map at 03/12/2023 1:06 PM
+BAG:kinzzzz add 79xViên Capsule kì bí (old: 78) lydo: Nhặt từ map at 03/12/2023 1:06 PM
+BAG:kinzzzz add 80xViên Capsule kì bí (old: 79) lydo: Nhặt từ map at 03/12/2023 1:06 PM
+BAG:kinzzzz add 9465xHoa hồng đỏ (old: 9464) lydo: Nhặt từ map at 03/12/2023 1:06 PM
+BAG:kinzzzz add 9466xHoa hồng đỏ (old: 9465) lydo: Nhặt từ map at 03/12/2023 1:07 PM
+BAG:kinzzzz add 4xĐá Titan (old: 3) lydo: Nhặt từ map at 03/12/2023 1:07 PM
+BAG:kinzzzz add 2xNgọc Rồng 5 sao (old: 1) lydo: Nhặt từ map at 03/12/2023 1:07 PM
+BAG:kinzzzz add 81xViên Capsule kì bí (old: 80) lydo: Nhặt từ map at 03/12/2023 1:07 PM
+BAG:kinzzzz add 82xViên Capsule kì bí (old: 81) lydo: Nhặt từ map at 03/12/2023 1:07 PM
+BAG:kinzzzz add 83xViên Capsule kì bí (old: 82) lydo: Nhặt từ map at 03/12/2023 1:07 PM
+BAG:kinzzzz add 4xĐá Ruby (old: 3) lydo: Nhặt từ map at 03/12/2023 1:07 PM
+BAG:kinzzzz add 84xViên Capsule kì bí (old: 83) lydo: Nhặt từ map at 03/12/2023 1:07 PM
+BAG:kinzzzz add 5xNgọc Rồng 6 sao (old: 4) lydo: Nhặt từ map at 03/12/2023 1:07 PM
+BAG:kinzzzz add 8xNgọc Rồng 4 sao (old: 7) lydo: Nhặt từ map at 03/12/2023 1:07 PM
+BAG:kinzzzz add 9xNgọc Rồng 4 sao (old: 8) lydo: Nhặt từ map at 03/12/2023 1:07 PM
+BAG:kinzzzz add 11993xHoa hồng vàng (old: 11992) lydo: Nhặt từ map at 03/12/2023 1:08 PM
+BAG:kinzzzz add 85xViên Capsule kì bí (old: 84) lydo: Nhặt từ map at 03/12/2023 1:08 PM
+BAG:kinzzzz add 86xViên Capsule kì bí (old: 85) lydo: Nhặt từ map at 03/12/2023 1:08 PM
+BAG:kinzzzz add 11994xHoa hồng vàng (old: 11993) lydo: Nhặt từ map at 03/12/2023 1:08 PM
+BAG:kinzzzz add 9146xHoa hồng xanh (old: 9145) lydo: Nhặt từ map at 03/12/2023 1:08 PM
+BAG:kinzzzz add 9467xHoa hồng đỏ (old: 9466) lydo: Nhặt từ map at 03/12/2023 1:08 PM
+BAG:kinzzzz add 87xViên Capsule kì bí (old: 86) lydo: Nhặt từ map at 03/12/2023 1:08 PM
+BAG:kinzzzz add 9147xHoa hồng xanh (old: 9146) lydo: Nhặt từ map at 03/12/2023 1:08 PM
+BAG:kinzzzz add 88xViên Capsule kì bí (old: 87) lydo: Nhặt từ map at 03/12/2023 1:08 PM
+BAG:kinzzzz add 9148xHoa hồng xanh (old: 9147) lydo: Nhặt từ map at 03/12/2023 1:09 PM
+BAG:kinzzzz add 89xViên Capsule kì bí (old: 88) lydo: Nhặt từ map at 03/12/2023 1:09 PM
+BAG:kinzzzz add 9149xHoa hồng xanh (old: 9148) lydo: Nhặt từ map at 03/12/2023 1:09 PM
+BAG:kinzzzz add 11995xHoa hồng vàng (old: 11994) lydo: Nhặt từ map at 03/12/2023 1:09 PM
+BAG:kinzzzz add 6xNgọc Rồng 6 sao (old: 5) lydo: Nhặt từ map at 03/12/2023 1:09 PM
+BAG:kinzzzz add 90xViên Capsule kì bí (old: 89) lydo: Nhặt từ map at 03/12/2023 1:09 PM
+BAG:kinzzzz add 91xViên Capsule kì bí (old: 90) lydo: Nhặt từ map at 03/12/2023 1:09 PM
+BAG:kinzzzz add 9468xHoa hồng đỏ (old: 9467) lydo: Nhặt từ map at 03/12/2023 1:09 PM
+BAG:kinzzzz add 11996xHoa hồng vàng (old: 11995) lydo: Nhặt từ map at 03/12/2023 1:10 PM
+BAG:kinzzzz add 9469xHoa hồng đỏ (old: 9468) lydo: Nhặt từ map at 03/12/2023 1:10 PM
+BAG:kinzzzz add 9150xHoa hồng xanh (old: 9149) lydo: Nhặt từ map at 03/12/2023 1:10 PM
+BAG:kinzzzz add 11997xHoa hồng vàng (old: 11996) lydo: Nhặt từ map at 03/12/2023 1:10 PM
+BAG:kinzzzz add 11998xHoa hồng vàng (old: 11997) lydo: Nhặt từ map at 03/12/2023 1:10 PM
+BAG:kinzzzz add 92xViên Capsule kì bí (old: 91) lydo: Nhặt từ map at 03/12/2023 1:10 PM
+BAG:kinzzzz add 9470xHoa hồng đỏ (old: 9469) lydo: Nhặt từ map at 03/12/2023 1:10 PM
+BAG:kinzzzz add 93xViên Capsule kì bí (old: 92) lydo: Nhặt từ map at 03/12/2023 1:10 PM
+BAG:kinzzzz add 94xViên Capsule kì bí (old: 93) lydo: Nhặt từ map at 03/12/2023 1:10 PM
+BAG:kinzzzz add 9471xHoa hồng đỏ (old: 9470) lydo: Nhặt từ map at 03/12/2023 1:10 PM
+BAG:kinzzzz add 11999xHoa hồng vàng (old: 11998) lydo: Nhặt từ map at 03/12/2023 1:10 PM
+BAG:kinzzzz add 95xViên Capsule kì bí (old: 94) lydo: Nhặt từ map at 03/12/2023 1:10 PM
+BAG:kinzzzz add 12000xHoa hồng vàng (old: 11999) lydo: Nhặt từ map at 03/12/2023 1:11 PM
+BAG:kinzzzz add 9151xHoa hồng xanh (old: 9150) lydo: Nhặt từ map at 03/12/2023 1:11 PM
+BAG:kinzzzz add 96xViên Capsule kì bí (old: 95) lydo: Nhặt từ map at 03/12/2023 1:11 PM
+BAG:kinzzzz add 5xĐá Titan (old: 4) lydo: Nhặt từ map at 03/12/2023 1:11 PM
+BAG:kinzzzz add 97xViên Capsule kì bí (old: 96) lydo: Nhặt từ map at 03/12/2023 1:11 PM
+BAG:kinzzzz add 9472xHoa hồng đỏ (old: 9471) lydo: Nhặt từ map at 03/12/2023 1:11 PM
+BAG:kinzzzz add 12001xHoa hồng vàng (old: 12000) lydo: Nhặt từ map at 03/12/2023 1:11 PM
+BAG:kinzzzz add 98xViên Capsule kì bí (old: 97) lydo: Nhặt từ map at 03/12/2023 1:11 PM
+BAG:kinzzzz add 99xViên Capsule kì bí (old: 98) lydo: Nhặt từ map at 03/12/2023 1:11 PM
+BAG:kinzzzz add 12002xHoa hồng vàng (old: 12001) lydo: Nhặt từ map at 03/12/2023 1:12 PM
+BAG:kinzzzz add 1xViên Capsule kì bí lydo: Nhặt từ map at 03/12/2023 1:12 PM
+BAG:kinzzzz add 12003xHoa hồng vàng (old: 12002) lydo: Nhặt từ map at 03/12/2023 1:12 PM
+BAG:kinzzzz add 6xĐá lục bảo (old: 5) lydo: Nhặt từ map at 03/12/2023 1:12 PM
+BAG:kinzzzz add 9152xHoa hồng xanh (old: 9151) lydo: Nhặt từ map at 03/12/2023 1:12 PM
+BAG:kinzzzz add 9153xHoa hồng xanh (old: 9152) lydo: Nhặt từ map at 03/12/2023 1:12 PM
+BAG:kinzzzz add 10xNgọc Rồng 4 sao (old: 9) lydo: Nhặt từ map at 03/12/2023 1:12 PM
+BAG:kinzzzz add 9154xHoa hồng xanh (old: 9153) lydo: Nhặt từ map at 03/12/2023 1:12 PM
+BAG:kinzzzz add 2xViên Capsule kì bí (old: 1) lydo: Nhặt từ map at 03/12/2023 1:13 PM
+BAG:kinzzzz add 9473xHoa hồng đỏ (old: 9472) lydo: Nhặt từ map at 03/12/2023 1:13 PM
+BAG:kinzzzz add 3xViên Capsule kì bí (old: 2) lydo: Nhặt từ map at 03/12/2023 1:13 PM
+BAG:kinzzzz add 4xViên Capsule kì bí (old: 3) lydo: Nhặt từ map at 03/12/2023 1:13 PM
+BAG:kinzzzz add 12004xHoa hồng vàng (old: 12003) lydo: Nhặt từ map at 03/12/2023 1:13 PM
+BAG:kinzzzz add 9155xHoa hồng xanh (old: 9154) lydo: Nhặt từ map at 03/12/2023 1:13 PM
+BAG:kinzzzz add 5xViên Capsule kì bí (old: 4) lydo: Nhặt từ map at 03/12/2023 1:13 PM
+BAG:kinzzzz add 12005xHoa hồng vàng (old: 12004) lydo: Nhặt từ map at 03/12/2023 1:13 PM
+BAG:kinzzzz add 6xViên Capsule kì bí (old: 5) lydo: Nhặt từ map at 03/12/2023 1:14 PM
+BAG:kinzzzz add 7xViên Capsule kì bí (old: 6) lydo: Nhặt từ map at 03/12/2023 1:14 PM
+BAG:kinzzzz add 12006xHoa hồng vàng (old: 12005) lydo: Nhặt từ map at 03/12/2023 1:14 PM
+BAG:kinzzzz add 9474xHoa hồng đỏ (old: 9473) lydo: Nhặt từ map at 03/12/2023 1:14 PM
+BAG:kinzzzz add 9156xHoa hồng xanh (old: 9155) lydo: Nhặt từ map at 03/12/2023 1:14 PM
+BAG:kinzzzz add 12007xHoa hồng vàng (old: 12006) lydo: Nhặt từ map at 03/12/2023 1:15 PM
+BAG:kinzzzz add 9475xHoa hồng đỏ (old: 9474) lydo: Nhặt từ map at 03/12/2023 1:15 PM
+BAG:kinzzzz add 9476xHoa hồng đỏ (old: 9475) lydo: Nhặt từ map at 03/12/2023 1:15 PM
+BAG:kinzzzz add 9477xHoa hồng đỏ (old: 9476) lydo: Nhặt từ map at 03/12/2023 1:15 PM
+BAG:kinzzzz add 11xNgọc Rồng 4 sao (old: 10) lydo: Nhặt từ map at 03/12/2023 1:15 PM
+BAG:kinzzzz add 9478xHoa hồng đỏ (old: 9477) lydo: Nhặt từ map at 03/12/2023 1:15 PM
+BAG:kinzzzz add 5xĐá Ruby (old: 4) lydo: Nhặt từ map at 03/12/2023 1:15 PM
+BAG:kinzzzz add 6xĐá Saphia (old: 5) lydo: Nhặt từ map at 03/12/2023 1:15 PM
+BAG:kinzzzz add 9479xHoa hồng đỏ (old: 9478) lydo: Nhặt từ map at 03/12/2023 1:15 PM
+BAG:kinzzzz add 12008xHoa hồng vàng (old: 12007) lydo: Nhặt từ map at 03/12/2023 1:15 PM
+BAG:kinzzzz add 12xNgọc Rồng 4 sao (old: 11) lydo: Nhặt từ map at 03/12/2023 1:16 PM
+BAG:kinzzzz add 9157xHoa hồng xanh (old: 9156) lydo: Nhặt từ map at 03/12/2023 1:16 PM
+BAG:kinzzzz add 12009xHoa hồng vàng (old: 12008) lydo: Nhặt từ map at 03/12/2023 1:16 PM
+BAG:kinzzzz add 9158xHoa hồng xanh (old: 9157) lydo: Nhặt từ map at 03/12/2023 1:17 PM
+BAG:kinzzzz add 9480xHoa hồng đỏ (old: 9479) lydo: Nhặt từ map at 03/12/2023 1:17 PM
+BAG:kinzzzz add 12010xHoa hồng vàng (old: 12009) lydo: Nhặt từ map at 03/12/2023 1:17 PM
+BAG:kinzzzz add 9481xHoa hồng đỏ (old: 9480) lydo: Nhặt từ map at 03/12/2023 1:17 PM
+BAG:kinzzzz add 9482xHoa hồng đỏ (old: 9481) lydo: Nhặt từ map at 03/12/2023 1:17 PM
+BAG:kinzzzz add 9483xHoa hồng đỏ (old: 9482) lydo: Nhặt từ map at 03/12/2023 1:17 PM
+BAG:kinzzzz add 13xNgọc Rồng 4 sao (old: 12) lydo: Nhặt từ map at 03/12/2023 1:17 PM
+BAG:kinzzzz add 7xĐá Saphia (old: 6) lydo: Nhặt từ map at 03/12/2023 1:17 PM
+BAG:kinzzzz add 12011xHoa hồng vàng (old: 12010) lydo: Nhặt từ map at 03/12/2023 1:17 PM
+BAG:kinzzzz add 12012xHoa hồng vàng (old: 12011) lydo: Nhặt từ map at 03/12/2023 1:18 PM
+BAG:kinzzzz add 6xĐá Ruby (old: 5) lydo: Nhặt từ map at 03/12/2023 1:18 PM
+BAG:kinzzzz add 7xĐá lục bảo (old: 6) lydo: Nhặt từ map at 03/12/2023 1:18 PM
+BAG:kinzzzz add 9484xHoa hồng đỏ (old: 9483) lydo: Nhặt từ map at 03/12/2023 1:18 PM
+BAG:kinzzzz add 9159xHoa hồng xanh (old: 9158) lydo: Nhặt từ map at 03/12/2023 1:19 PM
+BAG:kinzzzz add 7xĐá Ruby (old: 6) lydo: Nhặt từ map at 03/12/2023 1:19 PM
+BAG:kinzzzz add 12013xHoa hồng vàng (old: 12012) lydo: Nhặt từ map at 03/12/2023 1:19 PM
+BAG:kinzzzz add 8xĐá Saphia (old: 7) lydo: Nhặt từ map at 03/12/2023 1:19 PM
+BAG:kinzzzz add 12014xHoa hồng vàng (old: 12013) lydo: Nhặt từ map at 03/12/2023 1:19 PM
+BAG:kinzzzz add 9485xHoa hồng đỏ (old: 9484) lydo: Nhặt từ map at 03/12/2023 1:19 PM
+BAG:kinzzzz add 9486xHoa hồng đỏ (old: 9485) lydo: Nhặt từ map at 03/12/2023 1:19 PM
+BAG:kinzzzz add 12015xHoa hồng vàng (old: 12014) lydo: Nhặt từ map at 03/12/2023 1:19 PM
+BAG:kinzzzz add 9xĐá Saphia (old: 8) lydo: Nhặt từ map at 03/12/2023 1:19 PM
+BAG:kinzzzz add 9487xHoa hồng đỏ (old: 9486) lydo: Nhặt từ map at 03/12/2023 1:20 PM
+BAG:kinzzzz add 14xNgọc Rồng 4 sao (old: 13) lydo: Nhặt từ map at 03/12/2023 1:20 PM
+BAG:kinzzzz add 12016xHoa hồng vàng (old: 12015) lydo: Nhặt từ map at 03/12/2023 1:20 PM
+BAG:kinzzzz add 12017xHoa hồng vàng (old: 12016) lydo: Nhặt từ map at 03/12/2023 1:20 PM
+BAG:kinzzzz add 9488xHoa hồng đỏ (old: 9487) lydo: Nhặt từ map at 03/12/2023 1:20 PM
+BAG:kinzzzz add 12018xHoa hồng vàng (old: 12017) lydo: Nhặt từ map at 03/12/2023 1:20 PM
+BAG:kinzzzz add 12019xHoa hồng vàng (old: 12018) lydo: Nhặt từ map at 03/12/2023 1:20 PM
+BAG:kinzzzz add 1xGiáp tập luyện cấp 3 lydo: Lấy từ body vào hành trang at 03/12/2023 1:21 PM
+BAG:kinzzzz add 9xCuồng nộ (old: 8) lydo: CSKB at 03/12/2023 1:21 PM
+BAG:kinzzzz add 1xẨn danh lydo: CSKB at 03/12/2023 1:22 PM
+BAG:kinzzzz add 1xẨn danh lydo: CSKB at 03/12/2023 1:22 PM
+BAG:kinzzzz add 1xRada cấp 1 lydo: Lấy từ body vào hành trang at 03/12/2023 1:22 PM
+BAG:kinzzzz add 1xGiầy vải thô lydo: Lấy từ body vào hành trang at 03/12/2023 1:22 PM
+BAG:kinzzzz add 10xCuồng nộ (old: 9) lydo: CSKB at 03/12/2023 1:23 PM
+BAG:kinzzzz add 11xCuồng nộ (old: 10) lydo: CSKB at 03/12/2023 1:23 PM
+BAG:kinzzzz add 12xCuồng nộ (old: 11) lydo: CSKB at 03/12/2023 1:24 PM
+BAG:kinzzzz add 1xQuần vải thô lydo: Lấy từ body đệ vào hành trang at 03/12/2023 3:25 PM
+BAG:kinzzzz add 1xRada cấp 1 lydo: Lấy từ body đệ vào hành trang at 03/12/2023 3:25 PM
+BAG:kinzzzz add 1xGiầy vải thô lydo: Lấy từ body đệ vào hành trang at 03/12/2023 3:25 PM
+BAG:kinzzzz add 1xGiáp tập luyện cấp 1 lydo: Lấy từ body đệ vào hành trang at 03/12/2023 3:26 PM
+BAG:kinzzzz add 64xNgọc Rồng 3 sao lydo: Lấy từ rương qua người at 03/12/2023 3:30 PM
+BAG:kinzzzz add 1xQuần vải thô lydo: Lấy từ body đệ vào hành trang at 03/12/2023 3:31 PM
+BAG:kinzzzz add 1xGiầy vải thô lydo: Lấy từ body đệ vào hành trang at 03/12/2023 3:31 PM
+BAG:kinzzzz add 1xRada cấp 1 lydo: Lấy từ body đệ vào hành trang at 03/12/2023 3:31 PM
+BAG:kinzzzz add 1xGăng lưỡng long lydo: Lấy từ body đệ vào hành trang at 03/12/2023 3:32 PM
+BAG:kinzzzz add 1xRada cấp 1 lydo: Lấy từ rương qua người at 03/12/2023 8:29 PM
+BAG:kinzzzz add 1xÁo vải thô lydo: Lấy từ body đệ vào hành trang at 03/12/2023 8:34 PM
+BAG:kinzzzz add 1xGiầy vải thô lydo: Lấy từ body đệ vào hành trang at 03/12/2023 8:34 PM
+BAG:kinzzzz add 1xRada cấp 1 lydo: Lấy từ body đệ vào hành trang at 03/12/2023 8:34 PM
+BAG:kinzzzz add 1xQuần vải thô lydo: Lấy từ body đệ vào hành trang at 03/12/2023 8:34 PM
+BAG:kinzzzz add 1xGiáp tập luyện cấp 3 lydo: Lấy từ body vào hành trang at 03/12/2023 8:35 PM
+BAG:kinzzzz add 1xGiáp tập luyện cấp 3 lydo: Lấy từ body vào hành trang at 03/12/2023 8:35 PM
+BAG:kinzzzz add 1xGiáp tập luyện cấp 3 lydo: Lấy từ body vào hành trang at 03/12/2023 8:36 PM
+BAG:kinzzzz add 1xNgọc Rồng 3 sao lydo: Nhặt từ map at 03/12/2023 8:36 PM
+BAG:kinzzzz add 2xNgọc Rồng 3 sao (old: 1) lydo: Nhặt từ map at 03/12/2023 8:36 PM
+BAG:kinzzzz add 15xNgọc Rồng 4 sao (old: 14) lydo: Nhặt từ map at 03/12/2023 8:38 PM
+BAG:kinzzzz add 9489xHoa hồng đỏ (old: 9488) lydo: Nhặt từ map at 03/12/2023 8:38 PM
+BAG:kinzzzz add 1xViên Capsule kì bí lydo: Nhặt từ map at 03/12/2023 8:38 PM
+BAG:kinzzzz add 2xViên Capsule kì bí (old: 1) lydo: Nhặt từ map at 03/12/2023 8:38 PM
+BAG:kinzzzz add 9490xHoa hồng đỏ (old: 9489) lydo: Nhặt từ map at 03/12/2023 8:39 PM
+BAG:kinzzzz add 3xViên Capsule kì bí (old: 2) lydo: Nhặt từ map at 03/12/2023 8:39 PM
+BAG:kinzzzz add 4xViên Capsule kì bí (old: 3) lydo: Nhặt từ map at 03/12/2023 8:39 PM
+BAG:kinzzzz add 12020xHoa hồng vàng (old: 12019) lydo: Nhặt từ map at 03/12/2023 8:39 PM
+BAG:kinzzzz add 9491xHoa hồng đỏ (old: 9490) lydo: Nhặt từ map at 03/12/2023 8:39 PM
+BAG:kinzzzz add 12021xHoa hồng vàng (old: 12020) lydo: Nhặt từ map at 03/12/2023 8:39 PM
+BAG:kinzzzz add 12022xHoa hồng vàng (old: 12021) lydo: Nhặt từ map at 03/12/2023 8:39 PM
+BAG:kinzzzz add 9160xHoa hồng xanh (old: 9159) lydo: Nhặt từ map at 03/12/2023 8:40 PM
+BAG:kinzzzz add 9492xHoa hồng đỏ (old: 9491) lydo: Nhặt từ map at 03/12/2023 8:40 PM
+BAG:kinzzzz add 5xViên Capsule kì bí (old: 4) lydo: Nhặt từ map at 03/12/2023 8:40 PM
+BAG:kinzzzz add 7xNgọc Rồng 6 sao (old: 6) lydo: Nhặt từ map at 03/12/2023 8:40 PM
+BAG:kinzzzz add 9161xHoa hồng xanh (old: 9160) lydo: Nhặt từ map at 03/12/2023 8:40 PM
+BAG:kinzzzz add 6xViên Capsule kì bí (old: 5) lydo: Nhặt từ map at 03/12/2023 8:40 PM
+BAG:kinzzzz add 9162xHoa hồng xanh (old: 9161) lydo: Nhặt từ map at 03/12/2023 8:41 PM
+BAG:kinzzzz add 7xViên Capsule kì bí (old: 6) lydo: Nhặt từ map at 03/12/2023 8:41 PM
+BAG:kinzzzz add 8xViên Capsule kì bí (old: 7) lydo: Nhặt từ map at 03/12/2023 8:41 PM
+BAG:kinzzzz add 9xViên Capsule kì bí (old: 8) lydo: Nhặt từ map at 03/12/2023 8:41 PM
+BAG:kinzzzz add 9163xHoa hồng xanh (old: 9162) lydo: Nhặt từ map at 03/12/2023 8:41 PM
+BAG:kinzzzz add 10xĐá Saphia (old: 9) lydo: Nhặt từ map at 03/12/2023 8:41 PM
+BAG:kinzzzz add 10xViên Capsule kì bí (old: 9) lydo: Nhặt từ map at 03/12/2023 8:41 PM
+BAG:kinzzzz add 11xViên Capsule kì bí (old: 10) lydo: Nhặt từ map at 03/12/2023 8:41 PM
+BAG:kinzzzz add 9493xHoa hồng đỏ (old: 9492) lydo: Nhặt từ map at 03/12/2023 8:41 PM
+BAG:kinzzzz add 9164xHoa hồng xanh (old: 9163) lydo: Nhặt từ map at 03/12/2023 8:41 PM
+BAG:kinzzzz add 12023xHoa hồng vàng (old: 12022) lydo: Nhặt từ map at 03/12/2023 8:41 PM
+BAG:kinzzzz add 6xĐá Titan (old: 5) lydo: Nhặt từ map at 03/12/2023 8:41 PM
+BAG:kinzzzz add 12024xHoa hồng vàng (old: 12023) lydo: Nhặt từ map at 03/12/2023 8:41 PM
+BAG:kinzzzz add 9165xHoa hồng xanh (old: 9164) lydo: Nhặt từ map at 03/12/2023 8:41 PM
+BAG:kinzzzz add 12025xHoa hồng vàng (old: 12024) lydo: Nhặt từ map at 03/12/2023 8:41 PM
+BAG:kinzzzz add 12026xHoa hồng vàng (old: 12025) lydo: Nhặt từ map at 03/12/2023 8:42 PM
+BAG:kinzzzz add 12027xHoa hồng vàng (old: 12026) lydo: Nhặt từ map at 03/12/2023 8:42 PM
+BAG:kinzzzz add 9494xHoa hồng đỏ (old: 9493) lydo: Nhặt từ map at 03/12/2023 8:42 PM
+BAG:kinzzzz add 9495xHoa hồng đỏ (old: 9494) lydo: Nhặt từ map at 03/12/2023 8:42 PM
+BAG:kinzzzz add 12xViên Capsule kì bí (old: 11) lydo: Nhặt từ map at 03/12/2023 8:42 PM
+BAG:kinzzzz add 13xViên Capsule kì bí (old: 12) lydo: Nhặt từ map at 03/12/2023 8:42 PM
+BAG:kinzzzz add 14xViên Capsule kì bí (old: 13) lydo: Nhặt từ map at 03/12/2023 8:42 PM
+BAG:kinzzzz add 9166xHoa hồng xanh (old: 9165) lydo: Nhặt từ map at 03/12/2023 8:42 PM
+BAG:kinzzzz add 12028xHoa hồng vàng (old: 12027) lydo: Nhặt từ map at 03/12/2023 8:42 PM
+BAG:kinzzzz add 15xViên Capsule kì bí (old: 14) lydo: Nhặt từ map at 03/12/2023 8:43 PM
+BAG:kinzzzz add 9167xHoa hồng xanh (old: 9166) lydo: Nhặt từ map at 03/12/2023 8:43 PM
+BAG:kinzzzz add 7xĐá Titan (old: 6) lydo: Nhặt từ map at 03/12/2023 8:43 PM
+BAG:kinzzzz add 8xĐá lục bảo (old: 7) lydo: Nhặt từ map at 03/12/2023 8:43 PM
+BAG:kinzzzz add 9168xHoa hồng xanh (old: 9167) lydo: Nhặt từ map at 03/12/2023 8:43 PM
+BAG:kinzzzz add 12029xHoa hồng vàng (old: 12028) lydo: Nhặt từ map at 03/12/2023 8:43 PM
+BAG:kinzzzz add 9496xHoa hồng đỏ (old: 9495) lydo: Nhặt từ map at 03/12/2023 8:43 PM
+BAG:kinzzzz add 16xViên Capsule kì bí (old: 15) lydo: Nhặt từ map at 03/12/2023 8:44 PM
+BAG:kinzzzz add 17xViên Capsule kì bí (old: 16) lydo: Nhặt từ map at 03/12/2023 8:44 PM
+BAG:kinzzzz add 18xViên Capsule kì bí (old: 17) lydo: Nhặt từ map at 03/12/2023 8:44 PM
+BAG:kinzzzz add 9497xHoa hồng đỏ (old: 9496) lydo: Nhặt từ map at 03/12/2023 8:44 PM
+BAG:kinzzzz add 9169xHoa hồng xanh (old: 9168) lydo: Nhặt từ map at 03/12/2023 8:44 PM
+BAG:kinzzzz add 12030xHoa hồng vàng (old: 12029) lydo: Nhặt từ map at 03/12/2023 8:44 PM
+BAG:kinzzzz add 9170xHoa hồng xanh (old: 9169) lydo: Nhặt từ map at 03/12/2023 8:44 PM
+BAG:kinzzzz add 19xViên Capsule kì bí (old: 18) lydo: Nhặt từ map at 03/12/2023 8:44 PM
+BAG:kinzzzz add 9171xHoa hồng xanh (old: 9170) lydo: Nhặt từ map at 03/12/2023 8:44 PM
+BAG:kinzzzz add 9xĐá lục bảo (old: 8) lydo: Nhặt từ map at 03/12/2023 8:44 PM
+BAG:kinzzzz add 12031xHoa hồng vàng (old: 12030) lydo: Nhặt từ map at 03/12/2023 8:45 PM
+BAG:kinzzzz add 20xViên Capsule kì bí (old: 19) lydo: Nhặt từ map at 03/12/2023 8:45 PM
+BAG:kinzzzz add 12032xHoa hồng vàng (old: 12031) lydo: Nhặt từ map at 03/12/2023 8:45 PM
+BAG:kinzzzz add 21xViên Capsule kì bí (old: 20) lydo: Nhặt từ map at 03/12/2023 8:45 PM
+BAG:kinzzzz add 22xViên Capsule kì bí (old: 21) lydo: Nhặt từ map at 03/12/2023 8:45 PM
+BAG:kinzzzz add 23xViên Capsule kì bí (old: 22) lydo: Nhặt từ map at 03/12/2023 8:45 PM
+BAG:kinzzzz add 12033xHoa hồng vàng (old: 12032) lydo: Nhặt từ map at 03/12/2023 8:45 PM
+BAG:kinzzzz add 24xViên Capsule kì bí (old: 23) lydo: Nhặt từ map at 03/12/2023 8:45 PM
+BAG:kinzzzz add 12034xHoa hồng vàng (old: 12033) lydo: Nhặt từ map at 03/12/2023 8:45 PM
+BAG:kinzzzz add 12035xHoa hồng vàng (old: 12034) lydo: Nhặt từ map at 03/12/2023 8:45 PM
+BAG:kinzzzz add 9172xHoa hồng xanh (old: 9171) lydo: Nhặt từ map at 03/12/2023 8:45 PM
+BAG:kinzzzz add 8xĐá Ruby (old: 7) lydo: Nhặt từ map at 03/12/2023 8:45 PM
+BAG:kinzzzz add 25xViên Capsule kì bí (old: 24) lydo: Nhặt từ map at 03/12/2023 8:46 PM
+BAG:kinzzzz add 26xViên Capsule kì bí (old: 25) lydo: Nhặt từ map at 03/12/2023 8:46 PM
+BAG:kinzzzz add 27xViên Capsule kì bí (old: 26) lydo: Nhặt từ map at 03/12/2023 8:46 PM
+BAG:kinzzzz add 9498xHoa hồng đỏ (old: 9497) lydo: Nhặt từ map at 03/12/2023 8:46 PM
+BAG:kinzzzz add 9173xHoa hồng xanh (old: 9172) lydo: Nhặt từ map at 03/12/2023 8:46 PM
+BAG:kinzzzz add 12036xHoa hồng vàng (old: 12035) lydo: Nhặt từ map at 03/12/2023 8:46 PM
+BAG:kinzzzz add 28xViên Capsule kì bí (old: 27) lydo: Nhặt từ map at 03/12/2023 8:46 PM
+BAG:kinzzzz add 12037xHoa hồng vàng (old: 12036) lydo: Nhặt từ map at 03/12/2023 8:46 PM
+BAG:kinzzzz add 12038xHoa hồng vàng (old: 12037) lydo: Nhặt từ map at 03/12/2023 8:46 PM
+BAG:kinzzzz add 9499xHoa hồng đỏ (old: 9498) lydo: Nhặt từ map at 03/12/2023 8:46 PM
+BAG:kinzzzz add 12039xHoa hồng vàng (old: 12038) lydo: Nhặt từ map at 03/12/2023 8:47 PM
+BAG:kinzzzz add 29xViên Capsule kì bí (old: 28) lydo: Nhặt từ map at 03/12/2023 8:47 PM
+BAG:kinzzzz add 12040xHoa hồng vàng (old: 12039) lydo: Nhặt từ map at 03/12/2023 8:47 PM
+BAG:kinzzzz add 9500xHoa hồng đỏ (old: 9499) lydo: Nhặt từ map at 03/12/2023 8:47 PM
+BAG:kinzzzz add 9174xHoa hồng xanh (old: 9173) lydo: Nhặt từ map at 03/12/2023 8:47 PM
+BAG:kinzzzz add 30xViên Capsule kì bí (old: 29) lydo: Nhặt từ map at 03/12/2023 8:47 PM
+BAG:kinzzzz add 31xViên Capsule kì bí (old: 30) lydo: Nhặt từ map at 03/12/2023 8:47 PM
+BAG:kinzzzz add 9175xHoa hồng xanh (old: 9174) lydo: Nhặt từ map at 03/12/2023 8:47 PM
+BAG:kinzzzz add 9176xHoa hồng xanh (old: 9175) lydo: Nhặt từ map at 03/12/2023 8:47 PM
+BAG:kinzzzz add 32xViên Capsule kì bí (old: 31) lydo: Nhặt từ map at 03/12/2023 8:47 PM
+BAG:kinzzzz add 9501xHoa hồng đỏ (old: 9500) lydo: Nhặt từ map at 03/12/2023 8:47 PM
+BAG:kinzzzz add 33xViên Capsule kì bí (old: 32) lydo: Nhặt từ map at 03/12/2023 8:47 PM
+BAG:kinzzzz add 9502xHoa hồng đỏ (old: 9501) lydo: Nhặt từ map at 03/12/2023 8:47 PM
+BAG:kinzzzz add 34xViên Capsule kì bí (old: 33) lydo: Nhặt từ map at 03/12/2023 8:48 PM
+BAG:kinzzzz add 35xViên Capsule kì bí (old: 34) lydo: Nhặt từ map at 03/12/2023 8:48 PM
+BAG:kinzzzz add 36xViên Capsule kì bí (old: 35) lydo: Nhặt từ map at 03/12/2023 8:48 PM
+BAG:kinzzzz add 37xViên Capsule kì bí (old: 36) lydo: Nhặt từ map at 03/12/2023 8:48 PM
+BAG:kinzzzz add 16xNgọc Rồng 4 sao (old: 15) lydo: Nhặt từ map at 03/12/2023 8:48 PM
+BAG:kinzzzz add 12041xHoa hồng vàng (old: 12040) lydo: Nhặt từ map at 03/12/2023 8:48 PM
+BAG:kinzzzz add 8xNgọc Rồng 6 sao (old: 7) lydo: Nhặt từ map at 03/12/2023 8:48 PM
+BAG:kinzzzz add 12042xHoa hồng vàng (old: 12041) lydo: Nhặt từ map at 03/12/2023 8:48 PM
+BAG:kinzzzz add 9503xHoa hồng đỏ (old: 9502) lydo: Nhặt từ map at 03/12/2023 8:48 PM
+BAG:kinzzzz add 12043xHoa hồng vàng (old: 12042) lydo: Nhặt từ map at 03/12/2023 8:49 PM
+BAG:kinzzzz add 12044xHoa hồng vàng (old: 12043) lydo: Nhặt từ map at 03/12/2023 8:50 PM
+BAG:kinzzzz add 38xViên Capsule kì bí (old: 37) lydo: Nhặt từ map at 03/12/2023 8:50 PM
+BAG:kinzzzz add 9504xHoa hồng đỏ (old: 9503) lydo: Nhặt từ map at 03/12/2023 8:50 PM
+BAG:kinzzzz add 9505xHoa hồng đỏ (old: 9504) lydo: Nhặt từ map at 03/12/2023 8:50 PM
+BAG:kinzzzz add 39xViên Capsule kì bí (old: 38) lydo: Nhặt từ map at 03/12/2023 8:50 PM
+BAG:kinzzzz add 12045xHoa hồng vàng (old: 12044) lydo: Nhặt từ map at 03/12/2023 8:51 PM
+BAG:kinzzzz add 9506xHoa hồng đỏ (old: 9505) lydo: Nhặt từ map at 03/12/2023 8:51 PM
+BAG:kinzzzz add 9507xHoa hồng đỏ (old: 9506) lydo: Nhặt từ map at 03/12/2023 8:51 PM
+BAG:kinzzzz add 40xViên Capsule kì bí (old: 39) lydo: Nhặt từ map at 03/12/2023 8:51 PM
+BAG:kinzzzz add 41xViên Capsule kì bí (old: 40) lydo: Nhặt từ map at 03/12/2023 8:51 PM
+BAG:kinzzzz add 42xViên Capsule kì bí (old: 41) lydo: Nhặt từ map at 03/12/2023 8:51 PM
+BAG:kinzzzz add 9177xHoa hồng xanh (old: 9176) lydo: Nhặt từ map at 03/12/2023 8:51 PM
+BAG:kinzzzz add 9xNgọc Rồng 6 sao (old: 8) lydo: Nhặt từ map at 03/12/2023 8:51 PM
+BAG:kinzzzz add 9508xHoa hồng đỏ (old: 9507) lydo: Nhặt từ map at 03/12/2023 8:51 PM
+BAG:kinzzzz add 9178xHoa hồng xanh (old: 9177) lydo: Nhặt từ map at 03/12/2023 8:51 PM
+BAG:kinzzzz add 43xViên Capsule kì bí (old: 42) lydo: Nhặt từ map at 03/12/2023 8:51 PM
+BAG:kinzzzz add 44xViên Capsule kì bí (old: 43) lydo: Nhặt từ map at 03/12/2023 8:51 PM
+BAG:kinzzzz add 9509xHoa hồng đỏ (old: 9508) lydo: Nhặt từ map at 03/12/2023 8:51 PM
+BAG:kinzzzz add 45xViên Capsule kì bí (old: 44) lydo: Nhặt từ map at 03/12/2023 8:51 PM
+BAG:kinzzzz add 12046xHoa hồng vàng (old: 12045) lydo: Nhặt từ map at 03/12/2023 8:51 PM
+BAG:kinzzzz add 46xViên Capsule kì bí (old: 45) lydo: Nhặt từ map at 03/12/2023 8:52 PM
+BAG:kinzzzz add 47xViên Capsule kì bí (old: 46) lydo: Nhặt từ map at 03/12/2023 8:52 PM
+BAG:kinzzzz add 48xViên Capsule kì bí (old: 47) lydo: Nhặt từ map at 03/12/2023 8:52 PM
+BAG:kinzzzz add 12047xHoa hồng vàng (old: 12046) lydo: Nhặt từ map at 03/12/2023 8:52 PM
+BAG:kinzzzz add 49xViên Capsule kì bí (old: 48) lydo: Nhặt từ map at 03/12/2023 8:52 PM
+BAG:kinzzzz add 12048xHoa hồng vàng (old: 12047) lydo: Nhặt từ map at 03/12/2023 8:52 PM
+BAG:kinzzzz add 9179xHoa hồng xanh (old: 9178) lydo: Nhặt từ map at 03/12/2023 8:52 PM
+BAG:kinzzzz add 12049xHoa hồng vàng (old: 12048) lydo: Nhặt từ map at 03/12/2023 8:52 PM
+BAG:kinzzzz add 12050xHoa hồng vàng (old: 12049) lydo: Nhặt từ map at 03/12/2023 8:52 PM
+BAG:kinzzzz add 10xNgọc Rồng 6 sao (old: 9) lydo: Nhặt từ map at 03/12/2023 8:52 PM
+BAG:kinzzzz add 50xViên Capsule kì bí (old: 49) lydo: Nhặt từ map at 03/12/2023 8:52 PM
+BAG:kinzzzz add 9510xHoa hồng đỏ (old: 9509) lydo: Nhặt từ map at 03/12/2023 8:52 PM
+BAG:kinzzzz add 51xViên Capsule kì bí (old: 50) lydo: Nhặt từ map at 03/12/2023 8:53 PM
+BAG:kinzzzz add 3xNgọc Rồng 5 sao (old: 2) lydo: Nhặt từ map at 03/12/2023 8:53 PM
+BAG:kinzzzz add 9511xHoa hồng đỏ (old: 9510) lydo: Nhặt từ map at 03/12/2023 8:53 PM
+BAG:kinzzzz add 9180xHoa hồng xanh (old: 9179) lydo: Nhặt từ map at 03/12/2023 8:53 PM
+BAG:kinzzzz add 52xViên Capsule kì bí (old: 51) lydo: Nhặt từ map at 03/12/2023 8:53 PM
+BAG:kinzzzz add 53xViên Capsule kì bí (old: 52) lydo: Nhặt từ map at 03/12/2023 8:53 PM
+BAG:kinzzzz add 9181xHoa hồng xanh (old: 9180) lydo: Nhặt từ map at 03/12/2023 8:53 PM
+BAG:kinzzzz add 12051xHoa hồng vàng (old: 12050) lydo: Nhặt từ map at 03/12/2023 8:53 PM
+BAG:kinzzzz add 9182xHoa hồng xanh (old: 9181) lydo: Nhặt từ map at 03/12/2023 8:53 PM
+BAG:kinzzzz add 12052xHoa hồng vàng (old: 12051) lydo: Nhặt từ map at 03/12/2023 8:53 PM
+BAG:kinzzzz add 54xViên Capsule kì bí (old: 53) lydo: Nhặt từ map at 03/12/2023 8:53 PM
+BAG:kinzzzz add 55xViên Capsule kì bí (old: 54) lydo: Nhặt từ map at 03/12/2023 8:53 PM
+BAG:kinzzzz add 56xViên Capsule kì bí (old: 55) lydo: Nhặt từ map at 03/12/2023 8:53 PM
+BAG:kinzzzz add 9512xHoa hồng đỏ (old: 9511) lydo: Nhặt từ map at 03/12/2023 8:54 PM
+BAG:kinzzzz add 12053xHoa hồng vàng (old: 12052) lydo: Nhặt từ map at 03/12/2023 8:54 PM
+BAG:kinzzzz add 57xViên Capsule kì bí (old: 56) lydo: Nhặt từ map at 03/12/2023 8:54 PM
+BAG:kinzzzz add 12054xHoa hồng vàng (old: 12053) lydo: Nhặt từ map at 03/12/2023 8:54 PM
+BAG:kinzzzz add 9513xHoa hồng đỏ (old: 9512) lydo: Nhặt từ map at 03/12/2023 8:54 PM
+BAG:kinzzzz add 58xViên Capsule kì bí (old: 57) lydo: Nhặt từ map at 03/12/2023 8:54 PM
+BAG:kinzzzz add 59xViên Capsule kì bí (old: 58) lydo: Nhặt từ map at 03/12/2023 8:55 PM
+BAG:kinzzzz add 12055xHoa hồng vàng (old: 12054) lydo: Nhặt từ map at 03/12/2023 8:55 PM
+BAG:kinzzzz add 11xNgọc Rồng 6 sao (old: 10) lydo: Nhặt từ map at 03/12/2023 8:55 PM
+BAG:kinzzzz add 9514xHoa hồng đỏ (old: 9513) lydo: Nhặt từ map at 03/12/2023 8:55 PM
+BAG:kinzzzz add 9183xHoa hồng xanh (old: 9182) lydo: Nhặt từ map at 03/12/2023 8:56 PM
+BAG:kinzzzz add 9515xHoa hồng đỏ (old: 9514) lydo: Nhặt từ map at 03/12/2023 8:56 PM
+BAG:kinzzzz add 9xĐá Ruby (old: 8) lydo: Nhặt từ map at 03/12/2023 8:56 PM
+BAG:kinzzzz add 12056xHoa hồng vàng (old: 12055) lydo: Nhặt từ map at 03/12/2023 8:56 PM
+BAG:kinzzzz add 12057xHoa hồng vàng (old: 12056) lydo: Nhặt từ map at 03/12/2023 8:56 PM
+BAG:kinzzzz add 60xViên Capsule kì bí (old: 59) lydo: Nhặt từ map at 03/12/2023 8:56 PM
+BAG:kinzzzz add 61xViên Capsule kì bí (old: 60) lydo: Nhặt từ map at 03/12/2023 8:56 PM
+BAG:kinzzzz add 62xViên Capsule kì bí (old: 61) lydo: Nhặt từ map at 03/12/2023 8:56 PM
+BAG:kinzzzz add 9184xHoa hồng xanh (old: 9183) lydo: Nhặt từ map at 03/12/2023 8:56 PM
+BAG:kinzzzz add 12058xHoa hồng vàng (old: 12057) lydo: Nhặt từ map at 03/12/2023 8:56 PM
+BAG:kinzzzz add 9185xHoa hồng xanh (old: 9184) lydo: Nhặt từ map at 03/12/2023 8:57 PM
+BAG:kinzzzz add 17xNgọc Rồng 4 sao (old: 16) lydo: Nhặt từ map at 03/12/2023 8:57 PM
+BAG:kinzzzz add 12059xHoa hồng vàng (old: 12058) lydo: Nhặt từ map at 03/12/2023 8:57 PM
+BAG:kinzzzz add 3xĐá thạch anh tím (old: 2) lydo: Nhặt từ map at 03/12/2023 8:57 PM
+BAG:kinzzzz add 9186xHoa hồng xanh (old: 9185) lydo: Nhặt từ map at 03/12/2023 8:57 PM
+BAG:kinzzzz add 9516xHoa hồng đỏ (old: 9515) lydo: Nhặt từ map at 03/12/2023 8:57 PM
+BAG:kinzzzz add 12060xHoa hồng vàng (old: 12059) lydo: Nhặt từ map at 03/12/2023 8:57 PM
+BAG:kinzzzz add 18xNgọc Rồng 4 sao (old: 17) lydo: Nhặt từ map at 03/12/2023 8:57 PM
+BAG:kinzzzz add 63xViên Capsule kì bí (old: 62) lydo: Nhặt từ map at 03/12/2023 8:57 PM
+BAG:kinzzzz add 19xNgọc Rồng 4 sao (old: 18) lydo: Nhặt từ map at 03/12/2023 8:57 PM
+BAG:kinzzzz add 12061xHoa hồng vàng (old: 12060) lydo: Nhặt từ map at 03/12/2023 8:57 PM
+BAG:kinzzzz add 12062xHoa hồng vàng (old: 12061) lydo: Nhặt từ map at 03/12/2023 8:57 PM
+BAG:kinzzzz add 9517xHoa hồng đỏ (old: 9516) lydo: Nhặt từ map at 03/12/2023 8:57 PM
+BAG:kinzzzz add 12063xHoa hồng vàng (old: 12062) lydo: Nhặt từ map at 03/12/2023 8:57 PM
+BAG:kinzzzz add 64xViên Capsule kì bí (old: 63) lydo: Nhặt từ map at 03/12/2023 8:57 PM
+BAG:kinzzzz add 65xViên Capsule kì bí (old: 64) lydo: Nhặt từ map at 03/12/2023 8:57 PM
+BAG:kinzzzz add 12064xHoa hồng vàng (old: 12063) lydo: Nhặt từ map at 03/12/2023 8:57 PM
+BAG:kinzzzz add 9518xHoa hồng đỏ (old: 9517) lydo: Nhặt từ map at 03/12/2023 8:57 PM
+BAG:kinzzzz add 66xViên Capsule kì bí (old: 65) lydo: Nhặt từ map at 03/12/2023 8:57 PM
+BAG:kinzzzz add 67xViên Capsule kì bí (old: 66) lydo: Nhặt từ map at 03/12/2023 8:58 PM
+BAG:kinzzzz add 68xViên Capsule kì bí (old: 67) lydo: Nhặt từ map at 03/12/2023 8:58 PM
+BAG:kinzzzz add 9187xHoa hồng xanh (old: 9186) lydo: Nhặt từ map at 03/12/2023 8:58 PM
+BAG:kinzzzz add 69xViên Capsule kì bí (old: 68) lydo: Nhặt từ map at 03/12/2023 8:58 PM
+BAG:kinzzzz add 9519xHoa hồng đỏ (old: 9518) lydo: Nhặt từ map at 03/12/2023 8:58 PM
+BAG:kinzzzz add 70xViên Capsule kì bí (old: 69) lydo: Nhặt từ map at 03/12/2023 8:58 PM
+BAG:kinzzzz add 9520xHoa hồng đỏ (old: 9519) lydo: Nhặt từ map at 03/12/2023 8:58 PM
+BAG:kinzzzz add 11xĐá Saphia (old: 10) lydo: Nhặt từ map at 03/12/2023 8:58 PM
+BAG:kinzzzz add 71xViên Capsule kì bí (old: 70) lydo: Nhặt từ map at 03/12/2023 8:58 PM
+BAG:kinzzzz add 9521xHoa hồng đỏ (old: 9520) lydo: Nhặt từ map at 03/12/2023 8:58 PM
+BAG:kinzzzz add 72xViên Capsule kì bí (old: 71) lydo: Nhặt từ map at 03/12/2023 8:58 PM
+BAG:kinzzzz add 9188xHoa hồng xanh (old: 9187) lydo: Nhặt từ map at 03/12/2023 8:58 PM
+BAG:kinzzzz add 9189xHoa hồng xanh (old: 9188) lydo: Nhặt từ map at 03/12/2023 8:58 PM
+BAG:kinzzzz add 4xĐá thạch anh tím (old: 3) lydo: Nhặt từ map at 03/12/2023 8:59 PM
+BAG:kinzzzz add 9522xHoa hồng đỏ (old: 9521) lydo: Nhặt từ map at 03/12/2023 8:59 PM
+BAG:kinzzzz add 12065xHoa hồng vàng (old: 12064) lydo: Nhặt từ map at 03/12/2023 8:59 PM
+BAG:kinzzzz add 73xViên Capsule kì bí (old: 72) lydo: Nhặt từ map at 03/12/2023 8:59 PM
+BAG:kinzzzz add 9523xHoa hồng đỏ (old: 9522) lydo: Nhặt từ map at 03/12/2023 8:59 PM
+BAG:kinzzzz add 9524xHoa hồng đỏ (old: 9523) lydo: Nhặt từ map at 03/12/2023 8:59 PM
+BAG:kinzzzz add 74xViên Capsule kì bí (old: 73) lydo: Nhặt từ map at 03/12/2023 8:59 PM
+BAG:kinzzzz add 75xViên Capsule kì bí (old: 74) lydo: Nhặt từ map at 03/12/2023 8:59 PM
+BAG:kinzzzz add 12066xHoa hồng vàng (old: 12065) lydo: Nhặt từ map at 03/12/2023 8:59 PM
+BAG:kinzzzz add 76xViên Capsule kì bí (old: 75) lydo: Nhặt từ map at 03/12/2023 8:59 PM
+BAG:kinzzzz add 77xViên Capsule kì bí (old: 76) lydo: Nhặt từ map at 03/12/2023 8:59 PM
+BAG:kinzzzz add 78xViên Capsule kì bí (old: 77) lydo: Nhặt từ map at 03/12/2023 8:59 PM
+BAG:kinzzzz add 79xViên Capsule kì bí (old: 78) lydo: Nhặt từ map at 03/12/2023 8:59 PM
+BAG:kinzzzz add 8xĐá Titan (old: 7) lydo: Nhặt từ map at 03/12/2023 8:59 PM
+BAG:kinzzzz add 80xViên Capsule kì bí (old: 79) lydo: Nhặt từ map at 03/12/2023 8:59 PM
+BAG:kinzzzz add 12067xHoa hồng vàng (old: 12066) lydo: Nhặt từ map at 03/12/2023 8:59 PM
+BAG:kinzzzz add 81xViên Capsule kì bí (old: 80) lydo: Nhặt từ map at 03/12/2023 8:59 PM
+BAG:kinzzzz add 9525xHoa hồng đỏ (old: 9524) lydo: Nhặt từ map at 03/12/2023 8:59 PM
+BAG:kinzzzz add 10xĐá Ruby (old: 9) lydo: Nhặt từ map at 03/12/2023 8:59 PM
+BAG:kinzzzz add 82xViên Capsule kì bí (old: 81) lydo: Nhặt từ map at 03/12/2023 8:59 PM
+BAG:kinzzzz add 9526xHoa hồng đỏ (old: 9525) lydo: Nhặt từ map at 03/12/2023 8:59 PM
+BAG:kinzzzz add 5xĐá thạch anh tím (old: 4) lydo: Nhặt từ map at 03/12/2023 8:59 PM
+BAG:kinzzzz add 20xNgọc Rồng 4 sao (old: 19) lydo: Nhặt từ map at 03/12/2023 8:59 PM
+BAG:kinzzzz add 9527xHoa hồng đỏ (old: 9526) lydo: Nhặt từ map at 03/12/2023 8:59 PM
+BAG:kinzzzz add 9190xHoa hồng xanh (old: 9189) lydo: Nhặt từ map at 03/12/2023 9:00 PM
+BAG:kinzzzz add 9528xHoa hồng đỏ (old: 9527) lydo: Nhặt từ map at 03/12/2023 9:00 PM
+BAG:kinzzzz add 83xViên Capsule kì bí (old: 82) lydo: Nhặt từ map at 03/12/2023 9:00 PM
+BAG:kinzzzz add 9529xHoa hồng đỏ (old: 9528) lydo: Nhặt từ map at 03/12/2023 9:00 PM
+BAG:kinzzzz add 12xNgọc Rồng 6 sao (old: 11) lydo: Nhặt từ map at 03/12/2023 9:00 PM
+BAG:kinzzzz add 9191xHoa hồng xanh (old: 9190) lydo: Nhặt từ map at 03/12/2023 9:00 PM
+BAG:kinzzzz add 4xNgọc Rồng 5 sao (old: 3) lydo: Nhặt từ map at 03/12/2023 9:00 PM
+BAG:kinzzzz add 12068xHoa hồng vàng (old: 12067) lydo: Nhặt từ map at 03/12/2023 9:00 PM
+BAG:kinzzzz add 12069xHoa hồng vàng (old: 12068) lydo: Nhặt từ map at 03/12/2023 9:00 PM
+BAG:kinzzzz add 9530xHoa hồng đỏ (old: 9529) lydo: Nhặt từ map at 03/12/2023 9:00 PM
+BAG:kinzzzz add 9531xHoa hồng đỏ (old: 9530) lydo: Nhặt từ map at 03/12/2023 9:00 PM
+BAG:kinzzzz add 84xViên Capsule kì bí (old: 83) lydo: Nhặt từ map at 03/12/2023 9:00 PM
+BAG:kinzzzz add 9192xHoa hồng xanh (old: 9191) lydo: Nhặt từ map at 03/12/2023 9:00 PM
+BAG:kinzzzz add 85xViên Capsule kì bí (old: 84) lydo: Nhặt từ map at 03/12/2023 9:00 PM
+BAG:kinzzzz add 11xĐá Ruby (old: 10) lydo: Nhặt từ map at 03/12/2023 9:00 PM
+BAG:kinzzzz add 9532xHoa hồng đỏ (old: 9531) lydo: Nhặt từ map at 03/12/2023 9:01 PM
+BAG:kinzzzz add 9533xHoa hồng đỏ (old: 9532) lydo: Nhặt từ map at 03/12/2023 9:01 PM
+BAG:kinzzzz add 6xĐá thạch anh tím (old: 5) lydo: Nhặt từ map at 03/12/2023 9:01 PM
+BAG:kinzzzz add 86xViên Capsule kì bí (old: 85) lydo: Nhặt từ map at 03/12/2023 9:01 PM
+BAG:kinzzzz add 87xViên Capsule kì bí (old: 86) lydo: Nhặt từ map at 03/12/2023 9:01 PM
+BAG:kinzzzz add 88xViên Capsule kì bí (old: 87) lydo: Nhặt từ map at 03/12/2023 9:01 PM
+BAG:kinzzzz add 9193xHoa hồng xanh (old: 9192) lydo: Nhặt từ map at 03/12/2023 9:01 PM
+BAG:kinzzzz add 9534xHoa hồng đỏ (old: 9533) lydo: Nhặt từ map at 03/12/2023 9:01 PM
+BAG:kinzzzz add 9535xHoa hồng đỏ (old: 9534) lydo: Nhặt từ map at 03/12/2023 9:01 PM
+BAG:kinzzzz add 89xViên Capsule kì bí (old: 88) lydo: Nhặt từ map at 03/12/2023 9:01 PM
+BAG:kinzzzz add 9536xHoa hồng đỏ (old: 9535) lydo: Nhặt từ map at 03/12/2023 9:01 PM
+BAG:kinzzzz add 9537xHoa hồng đỏ (old: 9536) lydo: Nhặt từ map at 03/12/2023 9:01 PM
+BAG:kinzzzz add 12070xHoa hồng vàng (old: 12069) lydo: Nhặt từ map at 03/12/2023 9:01 PM
+BAG:kinzzzz add 9194xHoa hồng xanh (old: 9193) lydo: Nhặt từ map at 03/12/2023 9:01 PM
+BAG:kinzzzz add 90xViên Capsule kì bí (old: 89) lydo: Nhặt từ map at 03/12/2023 9:02 PM
+BAG:kinzzzz add 12071xHoa hồng vàng (old: 12070) lydo: Nhặt từ map at 03/12/2023 9:02 PM
+BAG:kinzzzz add 9538xHoa hồng đỏ (old: 9537) lydo: Nhặt từ map at 03/12/2023 9:02 PM
+BAG:kinzzzz add 91xViên Capsule kì bí (old: 90) lydo: Nhặt từ map at 03/12/2023 9:02 PM
+BAG:kinzzzz add 92xViên Capsule kì bí (old: 91) lydo: Nhặt từ map at 03/12/2023 9:02 PM
+BAG:kinzzzz add 93xViên Capsule kì bí (old: 92) lydo: Nhặt từ map at 03/12/2023 9:02 PM
+BAG:kinzzzz add 9195xHoa hồng xanh (old: 9194) lydo: Nhặt từ map at 03/12/2023 9:02 PM
+BAG:kinzzzz add 12072xHoa hồng vàng (old: 12071) lydo: Nhặt từ map at 03/12/2023 9:02 PM
+BAG:kinzzzz add 9539xHoa hồng đỏ (old: 9538) lydo: Nhặt từ map at 03/12/2023 9:02 PM
+BAG:kinzzzz add 94xViên Capsule kì bí (old: 93) lydo: Nhặt từ map at 03/12/2023 9:02 PM
+BAG:kinzzzz add 95xViên Capsule kì bí (old: 94) lydo: Nhặt từ map at 03/12/2023 9:02 PM
+BAG:kinzzzz add 21xNgọc Rồng 4 sao (old: 20) lydo: Nhặt từ map at 03/12/2023 9:02 PM
+BAG:kinzzzz add 9540xHoa hồng đỏ (old: 9539) lydo: Nhặt từ map at 03/12/2023 9:02 PM
+BAG:kinzzzz add 96xViên Capsule kì bí (old: 95) lydo: Nhặt từ map at 03/12/2023 9:03 PM
+BAG:kinzzzz add 9541xHoa hồng đỏ (old: 9540) lydo: Nhặt từ map at 03/12/2023 9:03 PM
+BAG:kinzzzz add 9542xHoa hồng đỏ (old: 9541) lydo: Nhặt từ map at 03/12/2023 9:03 PM
+BAG:kinzzzz add 97xViên Capsule kì bí (old: 96) lydo: Nhặt từ map at 03/12/2023 9:03 PM
+BAG:kinzzzz add 12073xHoa hồng vàng (old: 12072) lydo: Nhặt từ map at 03/12/2023 9:03 PM
+BAG:kinzzzz add 12074xHoa hồng vàng (old: 12073) lydo: Nhặt từ map at 03/12/2023 9:03 PM
+BAG:kinzzzz add 10xĐá lục bảo (old: 9) lydo: Nhặt từ map at 03/12/2023 9:03 PM
+BAG:kinzzzz add 12075xHoa hồng vàng (old: 12074) lydo: Nhặt từ map at 03/12/2023 9:03 PM
+BAG:kinzzzz add 98xViên Capsule kì bí (old: 97) lydo: Nhặt từ map at 03/12/2023 9:03 PM
+BAG:kinzzzz add 12076xHoa hồng vàng (old: 12075) lydo: Nhặt từ map at 03/12/2023 9:03 PM
+BAG:kinzzzz add 99xViên Capsule kì bí (old: 98) lydo: Nhặt từ map at 03/12/2023 9:03 PM
+BAG:kinzzzz add 1xViên Capsule kì bí lydo: Nhặt từ map at 03/12/2023 9:03 PM
+BAG:kinzzzz add 9543xHoa hồng đỏ (old: 9542) lydo: Nhặt từ map at 03/12/2023 9:03 PM
+BAG:kinzzzz add 12077xHoa hồng vàng (old: 12076) lydo: Nhặt từ map at 03/12/2023 9:03 PM
+BAG:kinzzzz add 2xViên Capsule kì bí (old: 1) lydo: Nhặt từ map at 03/12/2023 9:03 PM
+BAG:kinzzzz add 3xViên Capsule kì bí (old: 2) lydo: Nhặt từ map at 03/12/2023 9:04 PM
+BAG:kinzzzz add 9196xHoa hồng xanh (old: 9195) lydo: Nhặt từ map at 03/12/2023 9:04 PM
+BAG:kinzzzz add 4xViên Capsule kì bí (old: 3) lydo: Nhặt từ map at 03/12/2023 9:04 PM
+BAG:kinzzzz add 5xViên Capsule kì bí (old: 4) lydo: Nhặt từ map at 03/12/2023 9:04 PM
+BAG:kinzzzz add 6xViên Capsule kì bí (old: 5) lydo: Nhặt từ map at 03/12/2023 9:04 PM
+BAG:kinzzzz add 7xViên Capsule kì bí (old: 6) lydo: Nhặt từ map at 03/12/2023 9:04 PM
+BAG:kinzzzz add 8xViên Capsule kì bí (old: 7) lydo: Nhặt từ map at 03/12/2023 9:04 PM
+BAG:kinzzzz add 12078xHoa hồng vàng (old: 12077) lydo: Nhặt từ map at 03/12/2023 9:04 PM
+BAG:kinzzzz add 9xViên Capsule kì bí (old: 8) lydo: Nhặt từ map at 03/12/2023 9:04 PM
+BAG:kinzzzz add 10xViên Capsule kì bí (old: 9) lydo: Nhặt từ map at 03/12/2023 9:04 PM
+BAG:kinzzzz add 11xViên Capsule kì bí (old: 10) lydo: Nhặt từ map at 03/12/2023 9:04 PM
+BAG:kinzzzz add 9544xHoa hồng đỏ (old: 9543) lydo: Nhặt từ map at 03/12/2023 9:04 PM
+BAG:kinzzzz add 9545xHoa hồng đỏ (old: 9544) lydo: Nhặt từ map at 03/12/2023 9:04 PM
+BAG:kinzzzz add 9546xHoa hồng đỏ (old: 9545) lydo: Nhặt từ map at 03/12/2023 9:04 PM
+BAG:kinzzzz add 9547xHoa hồng đỏ (old: 9546) lydo: Nhặt từ map at 03/12/2023 9:04 PM
+BAG:kinzzzz add 9548xHoa hồng đỏ (old: 9547) lydo: Nhặt từ map at 03/12/2023 9:04 PM
+BAG:kinzzzz add 12xViên Capsule kì bí (old: 11) lydo: Nhặt từ map at 03/12/2023 9:05 PM
+BAG:kinzzzz add 9197xHoa hồng xanh (old: 9196) lydo: Nhặt từ map at 03/12/2023 9:05 PM
+BAG:kinzzzz add 13xViên Capsule kì bí (old: 12) lydo: Nhặt từ map at 03/12/2023 9:05 PM
+BAG:kinzzzz add 14xViên Capsule kì bí (old: 13) lydo: Nhặt từ map at 03/12/2023 9:05 PM
+BAG:kinzzzz add 15xViên Capsule kì bí (old: 14) lydo: Nhặt từ map at 03/12/2023 9:05 PM
+BAG:kinzzzz add 12079xHoa hồng vàng (old: 12078) lydo: Nhặt từ map at 03/12/2023 9:05 PM
+BAG:kinzzzz add 16xViên Capsule kì bí (old: 15) lydo: Nhặt từ map at 03/12/2023 9:05 PM
+BAG:kinzzzz add 17xViên Capsule kì bí (old: 16) lydo: Nhặt từ map at 03/12/2023 9:05 PM
+BAG:kinzzzz add 13xNgọc Rồng 6 sao (old: 12) lydo: Nhặt từ map at 03/12/2023 9:05 PM
+BAG:kinzzzz add 9549xHoa hồng đỏ (old: 9548) lydo: Nhặt từ map at 03/12/2023 9:05 PM
+BAG:kinzzzz add 9550xHoa hồng đỏ (old: 9549) lydo: Nhặt từ map at 03/12/2023 9:06 PM
+BAG:kinzzzz add 12xĐá Saphia (old: 11) lydo: Nhặt từ map at 03/12/2023 9:06 PM
+BAG:kinzzzz add 9551xHoa hồng đỏ (old: 9550) lydo: Nhặt từ map at 03/12/2023 9:06 PM
+BAG:kinzzzz add 9198xHoa hồng xanh (old: 9197) lydo: Nhặt từ map at 03/12/2023 9:06 PM
+BAG:kinzzzz add 18xViên Capsule kì bí (old: 17) lydo: Nhặt từ map at 03/12/2023 9:06 PM
+BAG:kinzzzz add 9552xHoa hồng đỏ (old: 9551) lydo: Nhặt từ map at 03/12/2023 9:06 PM
+BAG:kinzzzz add 19xViên Capsule kì bí (old: 18) lydo: Nhặt từ map at 03/12/2023 9:06 PM
+BAG:kinzzzz add 12xĐá Ruby (old: 11) lydo: Nhặt từ map at 03/12/2023 9:06 PM
+BAG:kinzzzz add 20xViên Capsule kì bí (old: 19) lydo: Nhặt từ map at 03/12/2023 9:06 PM
+BAG:kinzzzz add 21xViên Capsule kì bí (old: 20) lydo: Nhặt từ map at 03/12/2023 9:06 PM
+BAG:kinzzzz add 12080xHoa hồng vàng (old: 12079) lydo: Nhặt từ map at 03/12/2023 9:06 PM
+BAG:kinzzzz add 9553xHoa hồng đỏ (old: 9552) lydo: Nhặt từ map at 03/12/2023 9:07 PM
+BAG:kinzzzz add 12081xHoa hồng vàng (old: 12080) lydo: Nhặt từ map at 03/12/2023 9:07 PM
+BAG:kinzzzz add 9199xHoa hồng xanh (old: 9198) lydo: Nhặt từ map at 03/12/2023 9:07 PM
+BAG:kinzzzz add 11xĐá lục bảo (old: 10) lydo: Nhặt từ map at 03/12/2023 9:07 PM
+BAG:kinzzzz add 12082xHoa hồng vàng (old: 12081) lydo: Nhặt từ map at 03/12/2023 9:07 PM
+BAG:kinzzzz add 22xViên Capsule kì bí (old: 21) lydo: Nhặt từ map at 03/12/2023 9:07 PM
+BAG:kinzzzz add 9200xHoa hồng xanh (old: 9199) lydo: Nhặt từ map at 03/12/2023 9:07 PM
+BAG:kinzzzz add 12083xHoa hồng vàng (old: 12082) lydo: Nhặt từ map at 03/12/2023 9:07 PM
+BAG:kinzzzz add 9554xHoa hồng đỏ (old: 9553) lydo: Nhặt từ map at 03/12/2023 9:07 PM
+BAG:kinzzzz add 9555xHoa hồng đỏ (old: 9554) lydo: Nhặt từ map at 03/12/2023 9:07 PM
+BAG:kinzzzz add 9201xHoa hồng xanh (old: 9200) lydo: Nhặt từ map at 03/12/2023 9:07 PM
+BAG:kinzzzz add 23xViên Capsule kì bí (old: 22) lydo: Nhặt từ map at 03/12/2023 9:07 PM
+BAG:kinzzzz add 24xViên Capsule kì bí (old: 23) lydo: Nhặt từ map at 03/12/2023 9:08 PM
+BAG:kinzzzz add 9202xHoa hồng xanh (old: 9201) lydo: Nhặt từ map at 03/12/2023 9:08 PM
+BAG:kinzzzz add 9556xHoa hồng đỏ (old: 9555) lydo: Nhặt từ map at 03/12/2023 9:08 PM
+BAG:kinzzzz add 25xViên Capsule kì bí (old: 24) lydo: Nhặt từ map at 03/12/2023 9:08 PM
+BAG:kinzzzz add 26xViên Capsule kì bí (old: 25) lydo: Nhặt từ map at 03/12/2023 9:08 PM
+BAG:kinzzzz add 9203xHoa hồng xanh (old: 9202) lydo: Nhặt từ map at 03/12/2023 9:08 PM
+BAG:kinzzzz add 9204xHoa hồng xanh (old: 9203) lydo: Nhặt từ map at 03/12/2023 9:08 PM
+BAG:kinzzzz add 9205xHoa hồng xanh (old: 9204) lydo: Nhặt từ map at 03/12/2023 9:08 PM
+BAG:kinzzzz add 9206xHoa hồng xanh (old: 9205) lydo: Nhặt từ map at 03/12/2023 9:08 PM
+BAG:kinzzzz add 12084xHoa hồng vàng (old: 12083) lydo: Nhặt từ map at 03/12/2023 9:08 PM
+BAG:kinzzzz add 12085xHoa hồng vàng (old: 12084) lydo: Nhặt từ map at 03/12/2023 9:09 PM
+BAG:kinzzzz add 7xĐá thạch anh tím (old: 6) lydo: Nhặt từ map at 03/12/2023 9:09 PM
+BAG:kinzzzz add 12086xHoa hồng vàng (old: 12085) lydo: Nhặt từ map at 03/12/2023 9:09 PM
+BAG:kinzzzz add 22xNgọc Rồng 4 sao (old: 21) lydo: Nhặt từ map at 03/12/2023 9:09 PM
+BAG:kinzzzz add 9557xHoa hồng đỏ (old: 9556) lydo: Nhặt từ map at 03/12/2023 9:09 PM
+BAG:kinzzzz add 12087xHoa hồng vàng (old: 12086) lydo: Nhặt từ map at 03/12/2023 9:09 PM
+BAG:kinzzzz add 9207xHoa hồng xanh (old: 9206) lydo: Nhặt từ map at 03/12/2023 9:09 PM
+BAG:kinzzzz add 9208xHoa hồng xanh (old: 9207) lydo: Nhặt từ map at 03/12/2023 9:09 PM
+BAG:kinzzzz add 12088xHoa hồng vàng (old: 12087) lydo: Nhặt từ map at 03/12/2023 9:09 PM
+BAG:kinzzzz add 9558xHoa hồng đỏ (old: 9557) lydo: Nhặt từ map at 03/12/2023 9:09 PM
+BAG:kinzzzz add 9209xHoa hồng xanh (old: 9208) lydo: Nhặt từ map at 03/12/2023 9:09 PM
+BAG:kinzzzz add 27xViên Capsule kì bí (old: 26) lydo: Nhặt từ map at 03/12/2023 9:09 PM
+BAG:kinzzzz add 12089xHoa hồng vàng (old: 12088) lydo: Nhặt từ map at 03/12/2023 9:10 PM
+BAG:kinzzzz add 28xViên Capsule kì bí (old: 27) lydo: Nhặt từ map at 03/12/2023 9:10 PM
+BAG:kinzzzz add 29xViên Capsule kì bí (old: 28) lydo: Nhặt từ map at 03/12/2023 9:10 PM
+BAG:kinzzzz add 30xViên Capsule kì bí (old: 29) lydo: Nhặt từ map at 03/12/2023 9:10 PM
+BAG:kinzzzz add 31xViên Capsule kì bí (old: 30) lydo: Nhặt từ map at 03/12/2023 9:10 PM
+BAG:kinzzzz add 9559xHoa hồng đỏ (old: 9558) lydo: Nhặt từ map at 03/12/2023 9:10 PM
+BAG:kinzzzz add 23xNgọc Rồng 4 sao (old: 22) lydo: Nhặt từ map at 03/12/2023 9:10 PM
+BAG:kinzzzz add 9210xHoa hồng xanh (old: 9209) lydo: Nhặt từ map at 03/12/2023 9:10 PM
+BAG:kinzzzz add 32xViên Capsule kì bí (old: 31) lydo: Nhặt từ map at 03/12/2023 9:10 PM
+BAG:kinzzzz add 9211xHoa hồng xanh (old: 9210) lydo: Nhặt từ map at 03/12/2023 9:10 PM
+BAG:kinzzzz add 9560xHoa hồng đỏ (old: 9559) lydo: Nhặt từ map at 03/12/2023 9:10 PM
+BAG:kinzzzz add 9561xHoa hồng đỏ (old: 9560) lydo: Nhặt từ map at 03/12/2023 9:11 PM
+BAG:kinzzzz add 12xĐá lục bảo (old: 11) lydo: Nhặt từ map at 03/12/2023 9:11 PM
+BAG:kinzzzz add 33xViên Capsule kì bí (old: 32) lydo: Nhặt từ map at 03/12/2023 9:11 PM
+BAG:kinzzzz add 34xViên Capsule kì bí (old: 33) lydo: Nhặt từ map at 03/12/2023 9:11 PM
+BAG:kinzzzz add 12090xHoa hồng vàng (old: 12089) lydo: Nhặt từ map at 03/12/2023 9:11 PM
+BAG:kinzzzz add 35xViên Capsule kì bí (old: 34) lydo: Nhặt từ map at 03/12/2023 9:11 PM
+BAG:kinzzzz add 9212xHoa hồng xanh (old: 9211) lydo: Nhặt từ map at 03/12/2023 9:11 PM
+BAG:kinzzzz add 9213xHoa hồng xanh (old: 9212) lydo: Nhặt từ map at 03/12/2023 9:11 PM
+BAG:kinzzzz add 9214xHoa hồng xanh (old: 9213) lydo: Nhặt từ map at 03/12/2023 9:11 PM
+BAG:kinzzzz add 12091xHoa hồng vàng (old: 12090) lydo: Nhặt từ map at 03/12/2023 9:11 PM
+BAG:kinzzzz add 36xViên Capsule kì bí (old: 35) lydo: Nhặt từ map at 03/12/2023 9:11 PM
+BAG:kinzzzz add 12092xHoa hồng vàng (old: 12091) lydo: Nhặt từ map at 03/12/2023 9:11 PM
+BAG:kinzzzz add 37xViên Capsule kì bí (old: 36) lydo: Nhặt từ map at 03/12/2023 9:11 PM
+BAG:kinzzzz add 9562xHoa hồng đỏ (old: 9561) lydo: Nhặt từ map at 03/12/2023 9:11 PM
+BAG:kinzzzz add 12093xHoa hồng vàng (old: 12092) lydo: Nhặt từ map at 03/12/2023 9:11 PM
+BAG:kinzzzz add 38xViên Capsule kì bí (old: 37) lydo: Nhặt từ map at 03/12/2023 9:11 PM
+BAG:kinzzzz add 39xViên Capsule kì bí (old: 38) lydo: Nhặt từ map at 03/12/2023 9:11 PM
+BAG:kinzzzz add 12094xHoa hồng vàng (old: 12093) lydo: Nhặt từ map at 03/12/2023 9:12 PM
+BAG:kinzzzz add 12095xHoa hồng vàng (old: 12094) lydo: Nhặt từ map at 03/12/2023 9:12 PM
+BAG:kinzzzz add 9215xHoa hồng xanh (old: 9214) lydo: Nhặt từ map at 03/12/2023 9:12 PM
+BAG:kinzzzz add 12096xHoa hồng vàng (old: 12095) lydo: Nhặt từ map at 03/12/2023 9:12 PM
+BAG:kinzzzz add 40xViên Capsule kì bí (old: 39) lydo: Nhặt từ map at 03/12/2023 9:12 PM
+BAG:kinzzzz add 9216xHoa hồng xanh (old: 9215) lydo: Nhặt từ map at 03/12/2023 9:12 PM
+BAG:kinzzzz add 41xViên Capsule kì bí (old: 40) lydo: Nhặt từ map at 03/12/2023 9:12 PM
+BAG:kinzzzz add 9217xHoa hồng xanh (old: 9216) lydo: Nhặt từ map at 03/12/2023 9:12 PM
+BAG:kinzzzz add 9218xHoa hồng xanh (old: 9217) lydo: Nhặt từ map at 03/12/2023 9:12 PM
+BAG:kinzzzz add 12097xHoa hồng vàng (old: 12096) lydo: Nhặt từ map at 03/12/2023 9:12 PM
+BAG:kinzzzz add 12098xHoa hồng vàng (old: 12097) lydo: Nhặt từ map at 03/12/2023 9:12 PM
+BAG:kinzzzz add 42xViên Capsule kì bí (old: 41) lydo: Nhặt từ map at 03/12/2023 9:12 PM
+BAG:kinzzzz add 12099xHoa hồng vàng (old: 12098) lydo: Nhặt từ map at 03/12/2023 9:12 PM
+BAG:kinzzzz add 43xViên Capsule kì bí (old: 42) lydo: Nhặt từ map at 03/12/2023 9:12 PM
+BAG:kinzzzz add 44xViên Capsule kì bí (old: 43) lydo: Nhặt từ map at 03/12/2023 9:12 PM
+BAG:kinzzzz add 9563xHoa hồng đỏ (old: 9562) lydo: Nhặt từ map at 03/12/2023 9:12 PM
+BAG:kinzzzz add 9564xHoa hồng đỏ (old: 9563) lydo: Nhặt từ map at 03/12/2023 9:12 PM
+BAG:kinzzzz add 9565xHoa hồng đỏ (old: 9564) lydo: Nhặt từ map at 03/12/2023 9:12 PM
+BAG:kinzzzz add 12100xHoa hồng vàng (old: 12099) lydo: Nhặt từ map at 03/12/2023 9:12 PM
+BAG:kinzzzz add 9219xHoa hồng xanh (old: 9218) lydo: Nhặt từ map at 03/12/2023 9:13 PM
+BAG:kinzzzz add 45xViên Capsule kì bí (old: 44) lydo: Nhặt từ map at 03/12/2023 9:13 PM
+BAG:kinzzzz add 46xViên Capsule kì bí (old: 45) lydo: Nhặt từ map at 03/12/2023 9:13 PM
+BAG:kinzzzz add 9220xHoa hồng xanh (old: 9219) lydo: Nhặt từ map at 03/12/2023 9:13 PM
+BAG:kinzzzz add 47xViên Capsule kì bí (old: 46) lydo: Nhặt từ map at 03/12/2023 9:13 PM
+BAG:kinzzzz add 12101xHoa hồng vàng (old: 12100) lydo: Nhặt từ map at 03/12/2023 9:13 PM
+BAG:kinzzzz add 48xViên Capsule kì bí (old: 47) lydo: Nhặt từ map at 03/12/2023 9:13 PM
+BAG:kinzzzz add 9566xHoa hồng đỏ (old: 9565) lydo: Nhặt từ map at 03/12/2023 9:13 PM
+BAG:kinzzzz add 9567xHoa hồng đỏ (old: 9566) lydo: Nhặt từ map at 03/12/2023 9:13 PM
+BAG:kinzzzz add 49xViên Capsule kì bí (old: 48) lydo: Nhặt từ map at 03/12/2023 9:13 PM
+BAG:kinzzzz add 50xViên Capsule kì bí (old: 49) lydo: Nhặt từ map at 03/12/2023 9:13 PM
+BAG:kinzzzz add 14xNgọc Rồng 6 sao (old: 13) lydo: Nhặt từ map at 03/12/2023 9:13 PM
+BAG:kinzzzz add 9221xHoa hồng xanh (old: 9220) lydo: Nhặt từ map at 03/12/2023 9:13 PM
+BAG:kinzzzz add 24xNgọc Rồng 4 sao (old: 23) lydo: Nhặt từ map at 03/12/2023 9:13 PM
+BAG:kinzzzz add 51xViên Capsule kì bí (old: 50) lydo: Nhặt từ map at 03/12/2023 9:13 PM
+BAG:kinzzzz add 52xViên Capsule kì bí (old: 51) lydo: Nhặt từ map at 03/12/2023 9:13 PM
+BAG:kinzzzz add 53xViên Capsule kì bí (old: 52) lydo: Nhặt từ map at 03/12/2023 9:13 PM
+BAG:kinzzzz add 9222xHoa hồng xanh (old: 9221) lydo: Nhặt từ map at 03/12/2023 9:14 PM
+BAG:kinzzzz add 9223xHoa hồng xanh (old: 9222) lydo: Nhặt từ map at 03/12/2023 9:14 PM
+BAG:kinzzzz add 9224xHoa hồng xanh (old: 9223) lydo: Nhặt từ map at 03/12/2023 9:14 PM
+BAG:kinzzzz add 54xViên Capsule kì bí (old: 53) lydo: Nhặt từ map at 03/12/2023 9:14 PM
+BAG:kinzzzz add 55xViên Capsule kì bí (old: 54) lydo: Nhặt từ map at 03/12/2023 9:14 PM
+BAG:kinzzzz add 56xViên Capsule kì bí (old: 55) lydo: Nhặt từ map at 03/12/2023 9:14 PM
+BAG:kinzzzz add 9568xHoa hồng đỏ (old: 9567) lydo: Nhặt từ map at 03/12/2023 9:14 PM
+BAG:kinzzzz add 12102xHoa hồng vàng (old: 12101) lydo: Nhặt từ map at 03/12/2023 9:14 PM
+BAG:kinzzzz add 9225xHoa hồng xanh (old: 9224) lydo: Nhặt từ map at 03/12/2023 9:14 PM
+BAG:kinzzzz add 57xViên Capsule kì bí (old: 56) lydo: Nhặt từ map at 03/12/2023 9:14 PM
+BAG:kinzzzz add 58xViên Capsule kì bí (old: 57) lydo: Nhặt từ map at 03/12/2023 9:14 PM
+BAG:kinzzzz add 59xViên Capsule kì bí (old: 58) lydo: Nhặt từ map at 03/12/2023 9:14 PM
+BAG:kinzzzz add 9226xHoa hồng xanh (old: 9225) lydo: Nhặt từ map at 03/12/2023 9:15 PM
+BAG:kinzzzz add 60xViên Capsule kì bí (old: 59) lydo: Nhặt từ map at 03/12/2023 9:15 PM
+BAG:kinzzzz add 61xViên Capsule kì bí (old: 60) lydo: Nhặt từ map at 03/12/2023 9:15 PM
+BAG:kinzzzz add 12103xHoa hồng vàng (old: 12102) lydo: Nhặt từ map at 03/12/2023 9:15 PM
+BAG:kinzzzz add 9569xHoa hồng đỏ (old: 9568) lydo: Nhặt từ map at 03/12/2023 9:15 PM
+BAG:kinzzzz add 62xViên Capsule kì bí (old: 61) lydo: Nhặt từ map at 03/12/2023 9:15 PM
+BAG:kinzzzz add 12104xHoa hồng vàng (old: 12103) lydo: Nhặt từ map at 03/12/2023 9:15 PM
+BAG:kinzzzz add 9227xHoa hồng xanh (old: 9226) lydo: Nhặt từ map at 03/12/2023 9:15 PM
+BAG:kinzzzz add 63xViên Capsule kì bí (old: 62) lydo: Nhặt từ map at 03/12/2023 9:15 PM
+BAG:kinzzzz add 9228xHoa hồng xanh (old: 9227) lydo: Nhặt từ map at 03/12/2023 9:15 PM
+BAG:kinzzzz add 12105xHoa hồng vàng (old: 12104) lydo: Nhặt từ map at 03/12/2023 9:15 PM
+BAG:kinzzzz add 9229xHoa hồng xanh (old: 9228) lydo: Nhặt từ map at 03/12/2023 9:15 PM
+BAG:kinzzzz add 9230xHoa hồng xanh (old: 9229) lydo: Nhặt từ map at 03/12/2023 9:15 PM
+BAG:kinzzzz add 64xViên Capsule kì bí (old: 63) lydo: Nhặt từ map at 03/12/2023 9:15 PM
+BAG:kinzzzz add 9570xHoa hồng đỏ (old: 9569) lydo: Nhặt từ map at 03/12/2023 9:15 PM
+BAG:kinzzzz add 65xViên Capsule kì bí (old: 64) lydo: Nhặt từ map at 03/12/2023 9:15 PM
+BAG:kinzzzz add 12106xHoa hồng vàng (old: 12105) lydo: Nhặt từ map at 03/12/2023 9:15 PM
+BAG:kinzzzz add 12107xHoa hồng vàng (old: 12106) lydo: Nhặt từ map at 03/12/2023 9:16 PM
+BAG:kinzzzz add 1xCải trang lydo: Mua từ cửa hàng at 03/12/2023 9:18 PM
+BAG:kinzzzz add 1xCải trang lydo: Mua từ cửa hàng at 03/12/2023 10:47 PM

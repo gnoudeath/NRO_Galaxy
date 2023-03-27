@@ -1,0 +1,21 @@
+BAG:thuhuyen add 1xCải Trang Thần Zeno Xayda lydo: Mua từ bill at 03/11/2023 12:51 PM
+BAG:thuhuyen add 1xHoa hồng xanh lydo: Nhặt từ map at 03/11/2023 12:52 PM
+BAG:thuhuyen add 1xHoa hồng đỏ lydo: Nhặt từ map at 03/11/2023 12:52 PM
+BAG:thuhuyen add 1xĐá Ruby lydo: Nhặt từ map at 03/11/2023 12:53 PM
+BAG:thuhuyen add 2xHoa hồng xanh (old: 1) lydo: Nhặt từ map at 03/11/2023 12:53 PM
+BAG:thuhuyen add 1xHoa hồng vàng lydo: Nhặt từ map at 03/11/2023 12:53 PM
+BAG:thuhuyen add 3xHoa hồng xanh (old: 2) lydo: Nhặt từ map at 03/11/2023 12:53 PM
+BAG:thuhuyen add 2xHoa hồng đỏ (old: 1) lydo: Nhặt từ map at 03/11/2023 12:54 PM
+BAG:thuhuyen add 2xHoa hồng vàng (old: 1) lydo: Nhặt từ map at 03/11/2023 12:54 PM
+BAG:thuhuyen add 1xMảnh Quỷ đất lydo: Nhặt từ map at 03/11/2023 12:54 PM
+BAG:thuhuyen add 1xĐá thạch anh tím lydo: Nhặt từ map at 03/11/2023 12:54 PM
+BAG:thuhuyen add 3xHoa hồng đỏ (old: 2) lydo: Nhặt từ map at 03/11/2023 12:54 PM
+BAG:thuhuyen add 3xHoa hồng vàng (old: 2) lydo: Nhặt từ map at 03/11/2023 12:55 PM
+BAG:thuhuyen add 4xHoa hồng vàng (old: 3) lydo: Nhặt từ map at 03/11/2023 12:55 PM
+BAG:thuhuyen add 1xQuần vải thô lydo: Nhặt từ map at 03/11/2023 12:55 PM
+BAG:thuhuyen add 2xĐá Ruby (old: 1) lydo: Nhặt từ map at 03/11/2023 12:55 PM
+BAG:thuhuyen add 5xHoa hồng vàng (old: 4) lydo: Nhặt từ map at 03/11/2023 12:55 PM
+BAG:thuhuyen add 4xHoa hồng xanh (old: 3) lydo: Nhặt từ map at 03/11/2023 12:55 PM
+BAG:thuhuyen add 5xHoa hồng xanh (old: 4) lydo: Nhặt từ map at 03/11/2023 1:08 PM
+BAG:thuhuyen add 4xHoa hồng đỏ (old: 3) lydo: Nhặt từ map at 03/11/2023 1:09 PM
+BAG:thuhuyen add 6xHoa hồng vàng (old: 5) lydo: Nhặt từ map at 03/11/2023 1:10 PM

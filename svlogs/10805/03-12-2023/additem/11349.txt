@@ -1,0 +1,39 @@
+BAG:mmamas add 25xĐậu thần cấp 6 (old: 10) lydo: Lấy từ rương qua người at 03/12/2023 8:57 PM
+BAG:mmamas add 27xHoa hồng đỏ (old: 26) lydo: Nhặt từ map at 03/12/2023 8:58 PM
+BAG:mmamas add 34xHoa hồng vàng (old: 33) lydo: Nhặt từ map at 03/12/2023 8:58 PM
+BAG:mmamas add 35xHoa hồng vàng (old: 34) lydo: Nhặt từ map at 03/12/2023 8:59 PM
+BAG:mmamas add 36xHoa hồng vàng (old: 35) lydo: Nhặt từ map at 03/12/2023 8:59 PM
+BAG:mmamas add 28xHoa hồng đỏ (old: 27) lydo: Nhặt từ map at 03/12/2023 8:59 PM
+BAG:mmamas add 25xHoa hồng xanh (old: 24) lydo: Nhặt từ map at 03/12/2023 8:59 PM
+BAG:mmamas add 37xHoa hồng vàng (old: 36) lydo: Nhặt từ map at 03/12/2023 8:59 PM
+BAG:mmamas add 29xHoa hồng đỏ (old: 28) lydo: Nhặt từ map at 03/12/2023 8:59 PM
+BAG:mmamas add 26xHoa hồng xanh (old: 25) lydo: Nhặt từ map at 03/12/2023 9:00 PM
+BAG:mmamas add 38xHoa hồng vàng (old: 37) lydo: Nhặt từ map at 03/12/2023 9:00 PM
+BAG:mmamas add 4xNgọc Rồng 5 sao (old: 3) lydo: Nhặt từ map at 03/12/2023 9:00 PM
+BAG:mmamas add 30xHoa hồng đỏ (old: 29) lydo: Nhặt từ map at 03/12/2023 9:00 PM
+BAG:mmamas add 5xĐá lục bảo (old: 4) lydo: Nhặt từ map at 03/12/2023 9:00 PM
+BAG:mmamas add 39xHoa hồng vàng (old: 38) lydo: Nhặt từ map at 03/12/2023 9:00 PM
+BAG:mmamas add 31xHoa hồng đỏ (old: 30) lydo: Nhặt từ map at 03/12/2023 9:00 PM
+BAG:mmamas add 6xĐá Titan (old: 5) lydo: Nhặt từ map at 03/12/2023 9:00 PM
+BAG:mmamas add 32xHoa hồng đỏ (old: 31) lydo: Nhặt từ map at 03/12/2023 9:01 PM
+BAG:mmamas add 6xĐá lục bảo (old: 5) lydo: Nhặt từ map at 03/12/2023 9:01 PM
+BAG:mmamas add 27xHoa hồng xanh (old: 26) lydo: Nhặt từ map at 03/12/2023 9:01 PM
+BAG:mmamas add 28xHoa hồng xanh (old: 27) lydo: Nhặt từ map at 03/12/2023 9:02 PM
+BAG:mmamas add 33xHoa hồng đỏ (old: 32) lydo: Nhặt từ map at 03/12/2023 9:02 PM
+BAG:mmamas add 40xHoa hồng vàng (old: 39) lydo: Nhặt từ map at 03/12/2023 9:02 PM
+BAG:mmamas add 29xHoa hồng xanh (old: 28) lydo: Nhặt từ map at 03/12/2023 9:02 PM
+BAG:mmamas add 4xĐá Saphia (old: 3) lydo: Nhặt từ map at 03/12/2023 9:02 PM
+BAG:mmamas add 41xHoa hồng vàng (old: 40) lydo: Nhặt từ map at 03/12/2023 9:02 PM
+BAG:mmamas add 34xHoa hồng đỏ (old: 33) lydo: Nhặt từ map at 03/12/2023 9:02 PM
+BAG:mmamas add 42xHoa hồng vàng (old: 41) lydo: Nhặt từ map at 03/12/2023 9:03 PM
+BAG:mmamas add 30xHoa hồng xanh (old: 29) lydo: Nhặt từ map at 03/12/2023 9:03 PM
+BAG:mmamas add 43xHoa hồng vàng (old: 42) lydo: Nhặt từ map at 03/12/2023 9:03 PM
+BAG:mmamas add 44xHoa hồng vàng (old: 43) lydo: Nhặt từ map at 03/12/2023 9:03 PM
+BAG:mmamas add 35xHoa hồng đỏ (old: 34) lydo: Nhặt từ map at 03/12/2023 9:03 PM
+BAG:mmamas add 36xHoa hồng đỏ (old: 35) lydo: Nhặt từ map at 03/12/2023 9:04 PM
+BAG:mmamas add 31xHoa hồng xanh (old: 30) lydo: Nhặt từ map at 03/12/2023 9:04 PM
+BAG:mmamas add 45xHoa hồng vàng (old: 44) lydo: Nhặt từ map at 03/12/2023 9:04 PM
+BAG:mmamas add 7xĐá Titan (old: 6) lydo: Nhặt từ map at 03/12/2023 9:04 PM
+BAG:mmamas add 37xHoa hồng đỏ (old: 36) lydo: Nhặt từ map at 03/12/2023 9:04 PM
+BAG:mmamas add 9xĐá thạch anh tím (old: 8) lydo: Nhặt từ map at 03/12/2023 9:04 PM
+BAG:mmamas add 1xViên Capsule đặc biệt lydo: Mua từ cửa hàng at 03/12/2023 9:04 PM

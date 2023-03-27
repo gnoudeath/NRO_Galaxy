@@ -1,0 +1,139 @@
+BAG:manhaut add 1161xHoa hồng vàng (old: 1160) lydo: Nhặt từ map at 03/11/2023 4:08 AM
+BAG:manhaut add 836xHoa hồng đỏ (old: 835) lydo: Nhặt từ map at 03/11/2023 4:09 AM
+BAG:manhaut add 837xHoa hồng đỏ (old: 836) lydo: Nhặt từ map at 03/11/2023 4:10 AM
+BAG:manhaut add 26xĐá lục bảo (old: 25) lydo: Nhặt từ map at 03/11/2023 4:10 AM
+BAG:manhaut add 838xHoa hồng đỏ (old: 837) lydo: Nhặt từ map at 03/11/2023 4:11 AM
+BAG:manhaut add 5xĐá thạch anh tím (old: 4) lydo: Nhặt từ map at 03/11/2023 4:11 AM
+BAG:manhaut add 4xĐá Saphia (old: 3) lydo: Nhặt từ map at 03/11/2023 4:11 AM
+BAG:manhaut add 1162xHoa hồng vàng (old: 1161) lydo: Nhặt từ map at 03/11/2023 4:12 AM
+BAG:manhaut add 1163xHoa hồng vàng (old: 1162) lydo: Nhặt từ map at 03/11/2023 4:13 AM
+BAG:manhaut add 1164xHoa hồng vàng (old: 1163) lydo: Nhặt từ map at 03/11/2023 4:13 AM
+BAG:manhaut add 1165xHoa hồng vàng (old: 1164) lydo: Nhặt từ map at 03/11/2023 4:13 AM
+BAG:manhaut add 841xHoa hồng xanh (old: 840) lydo: Nhặt từ map at 03/11/2023 4:14 AM
+BAG:manhaut add 1166xHoa hồng vàng (old: 1165) lydo: Nhặt từ map at 03/11/2023 4:14 AM
+BAG:manhaut add 839xHoa hồng đỏ (old: 838) lydo: Nhặt từ map at 03/11/2023 4:14 AM
+BAG:manhaut add 842xHoa hồng xanh (old: 841) lydo: Nhặt từ map at 03/11/2023 4:14 AM
+BAG:manhaut add 1xGiáp tập luyện cấp 1 lydo: Lấy từ body vào hành trang at 03/11/2023 4:14 AM
+BAG:manhaut add 3xĐá Titan (old: 2) lydo: Nhặt từ map at 03/11/2023 4:14 AM
+BAG:manhaut add 1167xHoa hồng vàng (old: 1166) lydo: Nhặt từ map at 03/11/2023 4:14 AM
+BAG:manhaut add 840xHoa hồng đỏ (old: 839) lydo: Nhặt từ map at 03/11/2023 4:14 AM
+BAG:manhaut add 841xHoa hồng đỏ (old: 840) lydo: Nhặt từ map at 03/11/2023 4:14 AM
+BAG:manhaut add 1168xHoa hồng vàng (old: 1167) lydo: Nhặt từ map at 03/11/2023 4:15 AM
+BAG:manhaut add 6xĐá thạch anh tím (old: 5) lydo: Nhặt từ map at 03/11/2023 4:15 AM
+BAG:manhaut add 1169xHoa hồng vàng (old: 1168) lydo: Nhặt từ map at 03/11/2023 4:15 AM
+BAG:manhaut add 1170xHoa hồng vàng (old: 1169) lydo: Nhặt từ map at 03/11/2023 4:15 AM
+BAG:manhaut add 843xHoa hồng xanh (old: 842) lydo: Nhặt từ map at 03/11/2023 4:15 AM
+BAG:manhaut add 27xĐá lục bảo (old: 26) lydo: Nhặt từ map at 03/11/2023 4:15 AM
+BAG:manhaut add 1171xHoa hồng vàng (old: 1170) lydo: Nhặt từ map at 03/11/2023 4:15 AM
+BAG:manhaut add 28xĐá lục bảo (old: 27) lydo: Nhặt từ map at 03/11/2023 4:15 AM
+BAG:manhaut add 1172xHoa hồng vàng (old: 1171) lydo: Nhặt từ map at 03/11/2023 4:15 AM
+BAG:manhaut add 844xHoa hồng xanh (old: 843) lydo: Nhặt từ map at 03/11/2023 4:15 AM
+BAG:manhaut add 4xĐá Titan (old: 3) lydo: Nhặt từ map at 03/11/2023 4:16 AM
+BAG:manhaut add 1173xHoa hồng vàng (old: 1172) lydo: Nhặt từ map at 03/11/2023 4:18 AM
+BAG:manhaut add 845xHoa hồng xanh (old: 844) lydo: Nhặt từ map at 03/11/2023 4:18 AM
+BAG:manhaut add 1174xHoa hồng vàng (old: 1173) lydo: Nhặt từ map at 03/11/2023 4:18 AM
+BAG:manhaut add 846xHoa hồng xanh (old: 845) lydo: Nhặt từ map at 03/11/2023 4:19 AM
+BAG:manhaut add 5xĐá Saphia (old: 4) lydo: Nhặt từ map at 03/11/2023 4:19 AM
+BAG:manhaut add 1175xHoa hồng vàng (old: 1174) lydo: Nhặt từ map at 03/11/2023 4:20 AM
+BAG:manhaut add 30xNgọc Rồng 4 sao (old: 29) lydo: Nhặt từ map at 03/11/2023 4:20 AM
+BAG:manhaut add 21xNgọc Rồng 5 sao (old: 8) lydo: Lấy từ rương qua người at 03/11/2023 7:04 AM
+BAG:manhaut add 18xNgọc Rồng 3 sao lydo: Lấy từ rương qua người at 03/11/2023 7:04 AM
+BAG:manhaut add 19xNgọc Rồng 3 sao (old: 18) lydo: Nhập ngọc at 03/11/2023 7:04 AM
+BAG:manhaut add 20xNgọc Rồng 3 sao (old: 19) lydo: Nhập ngọc at 03/11/2023 7:04 AM
+BAG:manhaut add 21xNgọc Rồng 3 sao (old: 20) lydo: Nhập ngọc at 03/11/2023 7:05 AM
+BAG:manhaut add 22xNgọc Rồng 3 sao (old: 21) lydo: Nhập ngọc at 03/11/2023 7:05 AM
+BAG:manhaut add 1xNgọc Rồng 2 sao lydo: Nhập ngọc at 03/11/2023 7:05 AM
+BAG:manhaut add 2xNgọc Rồng 2 sao (old: 1) lydo: Nhập ngọc at 03/11/2023 7:05 AM
+BAG:manhaut add 3xNgọc Rồng 2 sao (old: 2) lydo: Nhập ngọc at 03/11/2023 7:05 AM
+BAG:manhaut add 1xGiáp tập luyện cấp 1 lydo: Lấy từ body vào hành trang at 03/11/2023 7:07 AM
+BAG:manhaut add 1xÁo vải thô lydo: Lấy từ body vào hành trang at 03/11/2023 7:07 AM
+BAG:manhaut add 1xQuần vải thô lydo: Lấy từ body vào hành trang at 03/11/2023 7:07 AM
+BAG:manhaut add 1xGiầy vải thô lydo: Lấy từ body vào hành trang at 03/11/2023 7:07 AM
+BAG:manhaut add 1xRada cấp 1 lydo: Lấy từ body vào hành trang at 03/11/2023 7:07 AM
+BAG:manhaut add 1xCT Genma 01 lydo: Lấy từ body vào hành trang at 03/11/2023 7:07 AM
+BAG:manhaut add 1xĐá Ruby lydo: Nhặt từ map at 03/11/2023 7:24 AM
+BAG:manhaut add 1xGiáp tập luyện cấp 1 lydo: Lấy từ body vào hành trang at 03/11/2023 7:24 AM
+BAG:manhaut add 1xCải trang Saibamen lydo: Mua từ cửa hàng at 03/11/2023 7:28 AM
+BAG:manhaut add 1xTanjiro lydo: Lấy từ body vào hành trang at 03/11/2023 7:28 AM
+BAG:manhaut add 1xGiáp tập luyện cấp 1 lydo: Lấy từ body vào hành trang at 03/11/2023 7:29 AM
+BAG:manhaut add 1176xHoa hồng vàng (old: 1175) lydo: Nhặt từ map at 03/11/2023 7:30 AM
+BAG:manhaut add 1xĐá Titan lydo: Nhặt từ map at 03/11/2023 7:30 AM
+BAG:manhaut add 842xHoa hồng đỏ (old: 841) lydo: Nhặt từ map at 03/11/2023 7:30 AM
+BAG:manhaut add 847xHoa hồng xanh (old: 846) lydo: Nhặt từ map at 03/11/2023 7:30 AM
+BAG:manhaut add 29xĐá lục bảo (old: 28) lydo: Nhặt từ map at 03/11/2023 7:30 AM
+BAG:manhaut add 1177xHoa hồng vàng (old: 1176) lydo: Nhặt từ map at 03/11/2023 7:30 AM
+BAG:manhaut add 843xHoa hồng đỏ (old: 842) lydo: Nhặt từ map at 03/11/2023 7:30 AM
+BAG:manhaut add 30xĐậu thần cấp 9 lydo: Mua từ cửa hàng at 03/11/2023 7:53 AM
+BAG:manhaut add 60xĐậu thần cấp 9 (old: 30) lydo: Mua từ cửa hàng at 03/11/2023 7:53 AM
+BAG:manhaut add 90xĐậu thần cấp 9 (old: 60) lydo: Mua từ cửa hàng at 03/11/2023 7:53 AM
+BAG:manhaut add 21xĐậu thần cấp 9 lydo: Mua từ cửa hàng at 03/11/2023 7:53 AM
+BAG:manhaut add 99xĐậu thần cấp 9 (old: 90) lydo: Mua từ cửa hàng at 03/11/2023 7:53 AM
+BAG:manhaut add 51xĐậu thần cấp 9 (old: 21) lydo: Mua từ cửa hàng at 03/11/2023 7:53 AM
+BAG:manhaut add 81xĐậu thần cấp 9 (old: 51) lydo: Mua từ cửa hàng at 03/11/2023 7:53 AM
+BAG:manhaut add 12xĐậu thần cấp 9 lydo: Mua từ cửa hàng at 03/11/2023 7:53 AM
+BAG:manhaut add 99xĐậu thần cấp 9 (old: 81) lydo: Mua từ cửa hàng at 03/11/2023 7:53 AM
+BAG:manhaut add 42xĐậu thần cấp 9 (old: 12) lydo: Mua từ cửa hàng at 03/11/2023 7:53 AM
+BAG:manhaut add 72xĐậu thần cấp 9 (old: 42) lydo: Mua từ cửa hàng at 03/11/2023 7:53 AM
+BAG:manhaut add 3xĐậu thần cấp 9 lydo: Mua từ cửa hàng at 03/11/2023 7:53 AM
+BAG:manhaut add 99xĐậu thần cấp 9 (old: 72) lydo: Mua từ cửa hàng at 03/11/2023 7:53 AM
+BAG:manhaut add 1xÁo vải thô lydo: Lấy từ body vào hành trang at 03/11/2023 12:07 PM
+BAG:manhaut add 1xQuần vải thô lydo: Lấy từ body vào hành trang at 03/11/2023 12:07 PM
+BAG:manhaut add 1xGiầy vải thô lydo: Lấy từ body vào hành trang at 03/11/2023 12:08 PM
+BAG:manhaut add 1xRada cấp 1 lydo: Lấy từ body vào hành trang at 03/11/2023 12:08 PM
+BAG:manhaut add 1xĐá Ruby lydo: Nhặt từ map at 03/11/2023 12:08 PM
+BAG:manhaut add 848xHoa hồng xanh (old: 847) lydo: Nhặt từ map at 03/11/2023 12:09 PM
+BAG:manhaut add 1178xHoa hồng vàng (old: 1177) lydo: Nhặt từ map at 03/11/2023 12:10 PM
+BAG:manhaut add 1179xHoa hồng vàng (old: 1178) lydo: Nhặt từ map at 03/11/2023 12:10 PM
+BAG:manhaut add 849xHoa hồng xanh (old: 848) lydo: Nhặt từ map at 03/11/2023 12:11 PM
+BAG:manhaut add 1xNgọc Rồng 4 sao lydo: Nhặt từ map at 03/11/2023 12:16 PM
+BAG:manhaut add 1xĐá Saphia lydo: Nhặt từ map at 03/11/2023 12:17 PM
+BAG:manhaut add 1180xHoa hồng vàng (old: 1179) lydo: Nhặt từ map at 03/11/2023 12:17 PM
+BAG:manhaut add 1181xHoa hồng vàng (old: 1180) lydo: Nhặt từ map at 03/11/2023 12:18 PM
+BAG:manhaut add 30xĐá lục bảo (old: 29) lydo: Nhặt từ map at 03/11/2023 12:20 PM
+BAG:manhaut add 1182xHoa hồng vàng (old: 1181) lydo: Nhặt từ map at 03/11/2023 12:21 PM
+BAG:manhaut add 844xHoa hồng đỏ (old: 843) lydo: Nhặt từ map at 03/11/2023 12:24 PM
+BAG:manhaut add 850xHoa hồng xanh (old: 849) lydo: Nhặt từ map at 03/11/2023 12:26 PM
+BAG:manhaut add 2xNgọc Rồng 4 sao (old: 1) lydo: Nhặt từ map at 03/11/2023 12:27 PM
+BAG:manhaut add 851xHoa hồng xanh (old: 850) lydo: Nhặt từ map at 03/11/2023 12:28 PM
+BAG:manhaut add 1183xHoa hồng vàng (old: 1182) lydo: Nhặt từ map at 03/11/2023 12:29 PM
+BAG:manhaut add 845xHoa hồng đỏ (old: 844) lydo: Nhặt từ map at 03/11/2023 12:29 PM
+BAG:manhaut add 852xHoa hồng xanh (old: 851) lydo: Nhặt từ map at 03/11/2023 12:31 PM
+BAG:manhaut add 1184xHoa hồng vàng (old: 1183) lydo: Nhặt từ map at 03/11/2023 1:04 PM
+BAG:manhaut add 846xHoa hồng đỏ (old: 845) lydo: Nhặt từ map at 03/11/2023 1:06 PM
+BAG:manhaut add 847xHoa hồng đỏ (old: 846) lydo: Nhặt từ map at 03/11/2023 1:06 PM
+BAG:manhaut add 853xHoa hồng xanh (old: 852) lydo: Nhặt từ map at 03/11/2023 1:10 PM
+BAG:manhaut add 848xHoa hồng đỏ (old: 847) lydo: Nhặt từ map at 03/11/2023 1:11 PM
+BAG:manhaut add 2xĐá Ruby (old: 1) lydo: Nhặt từ map at 03/11/2023 1:14 PM
+BAG:manhaut add 1185xHoa hồng vàng (old: 1184) lydo: Nhặt từ map at 03/11/2023 1:15 PM
+BAG:manhaut add 849xHoa hồng đỏ (old: 848) lydo: Nhặt từ map at 03/11/2023 1:16 PM
+BAG:manhaut add 2xĐá Saphia (old: 1) lydo: Nhặt từ map at 03/11/2023 1:18 PM
+BAG:manhaut add 1xĐá thạch anh tím lydo: Nhặt từ map at 03/11/2023 1:19 PM
+BAG:manhaut add 1186xHoa hồng vàng (old: 1185) lydo: Nhặt từ map at 03/11/2023 1:24 PM
+BAG:manhaut add 1187xHoa hồng vàng (old: 1186) lydo: Nhặt từ map at 03/11/2023 1:26 PM
+BAG:manhaut add 1188xHoa hồng vàng (old: 1187) lydo: Nhặt từ map at 03/11/2023 1:27 PM
+BAG:manhaut add 854xHoa hồng xanh (old: 853) lydo: Nhặt từ map at 03/11/2023 1:29 PM
+BAG:manhaut add 850xHoa hồng đỏ (old: 849) lydo: Nhặt từ map at 03/11/2023 1:29 PM
+BAG:manhaut add 851xHoa hồng đỏ (old: 850) lydo: Nhặt từ map at 03/11/2023 1:33 PM
+BAG:manhaut add 31xĐá lục bảo (old: 30) lydo: Nhặt từ map at 03/11/2023 1:35 PM
+BAG:manhaut add 1189xHoa hồng vàng (old: 1188) lydo: Nhặt từ map at 03/11/2023 1:36 PM
+BAG:manhaut add 100xThỏi vàng lydo: Giftcode at 03/11/2023 9:36 PM
+BAG:manhaut add 99xViên Capsule kì bí lydo: Mua từ bill at 03/11/2023 9:36 PM
+BAG:manhaut add 1xBổ khí lydo: CSKB at 03/11/2023 9:37 PM
+BAG:manhaut add 1xẨn danh lydo: CSKB at 03/11/2023 9:37 PM
+BAG:manhaut add 1xẨn danh lydo: CSKB at 03/11/2023 9:37 PM
+BAG:manhaut add 13xNgọc Rồng 4 sao (old: 2) lydo: Lấy từ rương qua người at 03/11/2023 9:38 PM
+BAG:manhaut add 29xNgọc Rồng 6 sao (old: 8) lydo: Lấy từ rương qua người at 03/11/2023 9:38 PM
+BAG:manhaut add 1xẨn danh lydo: CSKB at 03/11/2023 9:38 PM
+BAG:manhaut add 2xẨn danh (old: 1) lydo: CSKB at 03/11/2023 9:38 PM
+BAG:manhaut add 3xẨn danh (old: 2) lydo: CSKB at 03/11/2023 9:38 PM
+BAG:manhaut add 1xBổ huyết lydo: CSKB at 03/11/2023 9:38 PM
+BAG:manhaut add 1xCuồng nộ lydo: CSKB at 03/11/2023 9:38 PM
+BAG:manhaut add 2xBổ khí (old: 1) lydo: CSKB at 03/11/2023 9:39 PM
+BAG:manhaut add 4xẨn danh (old: 3) lydo: CSKB at 03/11/2023 9:39 PM
+BAG:manhaut add 1xCuồng nộ lydo: CSKB at 03/11/2023 9:39 PM
+BAG:manhaut add 2xBổ huyết (old: 1) lydo: CSKB at 03/11/2023 9:39 PM
+BAG:manhaut add 3xBổ huyết (old: 2) lydo: CSKB at 03/11/2023 9:39 PM
+BAG:manhaut add 2xCuồng nộ (old: 1) lydo: CSKB at 03/11/2023 9:39 PM
+BAG:manhaut add 3xCuồng nộ (old: 2) lydo: CSKB at 03/11/2023 9:39 PM
+BAG:manhaut add 1190xHoa hồng vàng (old: 1189) lydo: Nhặt từ map at 03/11/2023 9:40 PM
+BAG:manhaut add 1191xHoa hồng vàng (old: 1190) lydo: Nhặt từ map at 03/11/2023 9:41 PM

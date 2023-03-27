@@ -1,0 +1,57 @@
+BAG:sieutroi add 352xHoa hồng vàng (old: 351) lydo: Nhặt từ map at 03/11/2023 6:25 AM
+BAG:sieutroi add 353xHoa hồng vàng (old: 352) lydo: Nhặt từ map at 03/11/2023 6:25 AM
+BAG:sieutroi add 255xHoa hồng xanh (old: 254) lydo: Nhặt từ map at 03/11/2023 6:26 AM
+BAG:sieutroi add 354xHoa hồng vàng (old: 353) lydo: Nhặt từ map at 03/11/2023 6:26 AM
+BAG:sieutroi add 284xHoa hồng đỏ (old: 283) lydo: Nhặt từ map at 03/11/2023 6:26 AM
+BAG:sieutroi add 49xĐá Ruby (old: 48) lydo: Nhặt từ map at 03/11/2023 6:26 AM
+BAG:sieutroi add 355xHoa hồng vàng (old: 354) lydo: Nhặt từ map at 03/11/2023 6:26 AM
+BAG:sieutroi add 50xĐá Ruby (old: 49) lydo: Nhặt từ map at 03/11/2023 6:26 AM
+BAG:sieutroi add 47xĐá Saphia (old: 46) lydo: Nhặt từ map at 03/11/2023 6:27 AM
+BAG:sieutroi add 356xHoa hồng vàng (old: 355) lydo: Nhặt từ map at 03/11/2023 6:27 AM
+BAG:sieutroi add 1xGiáp tập luyện cấp 3 lydo: Lấy từ body vào hành trang at 03/11/2023 6:27 AM
+BAG:sieutroi add 1xHóa khỉ khổng lồ lv1 lydo: Mua từ cửa hàng at 03/11/2023 6:28 AM
+BAG:sieutroi add 1xHóa khỉ khổng lồ lv2 lydo: Mua từ cửa hàng at 03/11/2023 6:28 AM
+BAG:sieutroi add 1xHóa khỉ khổng lồ lv3 lydo: Mua từ cửa hàng at 03/11/2023 6:28 AM
+BAG:sieutroi add 1xHóa khỉ khổng lồ lv4 lydo: Mua từ cửa hàng at 03/11/2023 6:28 AM
+BAG:sieutroi add 1xHóa khỉ khổng lồ lv5 lydo: Mua từ cửa hàng at 03/11/2023 6:28 AM
+BAG:sieutroi add 1xHóa khỉ khổng lồ lv6 lydo: Mua từ cửa hàng at 03/11/2023 6:28 AM
+BAG:sieutroi add 1xHoa hồng vàng lydo: Nhặt từ map at 03/11/2023 6:29 AM
+BAG:sieutroi add 1xHoa hồng đỏ lydo: Nhặt từ map at 03/11/2023 6:29 AM
+BAG:sieutroi add 25xĐá thạch anh tím (old: 24) lydo: Nhặt từ map at 03/11/2023 6:29 AM
+BAG:sieutroi add 2xHoa hồng đỏ (old: 1) lydo: Nhặt từ map at 03/11/2023 6:30 AM
+BAG:sieutroi add 48xĐá Saphia (old: 47) lydo: Nhặt từ map at 03/11/2023 6:30 AM
+BAG:sieutroi add 26xĐá thạch anh tím (old: 25) lydo: Nhặt từ map at 03/11/2023 6:30 AM
+BAG:sieutroi add 6xNgọc Rồng 6 sao (old: 5) lydo: Nhặt từ map at 03/11/2023 6:30 AM
+BAG:sieutroi add 3xHoa hồng đỏ (old: 2) lydo: Nhặt từ map at 03/11/2023 6:30 AM
+BAG:sieutroi add 1xHoa hồng xanh lydo: Nhặt từ map at 03/11/2023 6:30 AM
+BAG:sieutroi add 4xHoa hồng đỏ (old: 3) lydo: Nhặt từ map at 03/11/2023 6:30 AM
+BAG:sieutroi add 51xĐá Ruby (old: 50) lydo: Nhặt từ map at 03/11/2023 6:31 AM
+BAG:sieutroi add 2xHoa hồng xanh (old: 1) lydo: Nhặt từ map at 03/11/2023 6:31 AM
+BAG:sieutroi add 3xHoa hồng xanh (old: 2) lydo: Nhặt từ map at 03/11/2023 6:32 AM
+BAG:sieutroi add 4xHoa hồng xanh (old: 3) lydo: Nhặt từ map at 03/11/2023 6:32 AM
+BAG:sieutroi add 5xHoa hồng xanh (old: 4) lydo: Nhặt từ map at 03/11/2023 6:32 AM
+BAG:sieutroi add 52xĐá Ruby (old: 51) lydo: Nhặt từ map at 03/11/2023 6:32 AM
+BAG:sieutroi add 27xĐá lục bảo (old: 26) lydo: Nhặt từ map at 03/11/2023 6:33 AM
+BAG:sieutroi add 12xNgọc Rồng 4 sao (old: 11) lydo: Nhặt từ map at 03/11/2023 6:33 AM
+BAG:sieutroi add 1xHoa hồng vàng lydo: Nhặt từ map at 03/11/2023 6:33 AM
+BAG:sieutroi add 5xHoa hồng đỏ (old: 4) lydo: Nhặt từ map at 03/11/2023 6:33 AM
+BAG:sieutroi add 53xĐá Ruby (old: 52) lydo: Nhặt từ map at 03/11/2023 6:34 AM
+BAG:sieutroi add 27xĐá thạch anh tím (old: 26) lydo: Nhặt từ map at 03/11/2023 6:34 AM
+BAG:sieutroi add 28xĐá thạch anh tím (old: 27) lydo: Nhặt từ map at 03/11/2023 6:34 AM
+BAG:sieutroi add 2xHoa hồng vàng (old: 1) lydo: Nhặt từ map at 03/11/2023 6:35 AM
+BAG:sieutroi add 3xHoa hồng vàng (old: 2) lydo: Nhặt từ map at 03/11/2023 6:35 AM
+BAG:sieutroi add 6xHoa hồng xanh (old: 5) lydo: Nhặt từ map at 03/11/2023 6:35 AM
+BAG:sieutroi add 13xNgọc Rồng 4 sao (old: 12) lydo: Nhặt từ map at 03/11/2023 6:35 AM
+BAG:sieutroi add 52xĐá Titan (old: 51) lydo: Nhặt từ map at 03/11/2023 6:35 AM
+BAG:sieutroi add 6xHoa hồng đỏ (old: 5) lydo: Nhặt từ map at 03/11/2023 6:35 AM
+BAG:sieutroi add 53xĐá Titan (old: 52) lydo: Nhặt từ map at 03/11/2023 6:35 AM
+BAG:sieutroi add 7xHoa hồng đỏ (old: 6) lydo: Nhặt từ map at 03/11/2023 6:36 AM
+BAG:sieutroi add 8xHoa hồng đỏ (old: 7) lydo: Nhặt từ map at 03/11/2023 6:36 AM
+BAG:sieutroi add 1xSách Trói lv2 lydo: Mua từ cửa hàng at 03/11/2023 11:09 AM
+BAG:sieutroi add 1xSách Trói lv3 lydo: Mua từ cửa hàng at 03/11/2023 11:09 AM
+BAG:sieutroi add 1xSách Trói lv4 lydo: Mua từ cửa hàng at 03/11/2023 11:09 AM
+BAG:sieutroi add 1xSách Trói lv5 lydo: Mua từ cửa hàng at 03/11/2023 11:09 AM
+BAG:sieutroi add 54xĐá Ruby (old: 53) lydo: Nhặt từ map at 03/11/2023 11:10 AM
+BAG:sieutroi add 1xCải trang lydo: Mua từ cửa hàng at 03/11/2023 5:53 PM
+BAG:sieutroi add 1xCải trang lydo: Mua từ cửa hàng at 03/11/2023 5:53 PM
+BAG:sieutroi add 1xSách Antomic lv1 lydo: Mua từ cửa hàng at 03/11/2023 5:55 PM

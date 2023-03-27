@@ -1,0 +1,31 @@
+BAG:hiudznvtr add 5xĐậu thần cấp 1 lydo: Thu hoạch đậu at 03/11/2023 9:18 PM
+BAG:hiudznvtr add 5xĐậu thần cấp 1 lydo: Thu hoạch đậu at 03/11/2023 9:33 PM
+BAG:hiudznvtr add 10xĐậu thần cấp 8 lydo: Thu hoạch đậu at 03/11/2023 9:34 PM
+BAG:hiudznvtr add 19xĐậu thần cấp 8 (old: 10) lydo: Lấy từ rương qua người at 03/11/2023 9:34 PM
+BAG:hiudznvtr add 38xĐậu thần cấp 8 (old: 19) lydo: Lấy từ rương qua người at 03/11/2023 9:34 PM
+BAG:hiudznvtr add 57xĐậu thần cấp 8 (old: 38) lydo: Lấy từ rương qua người at 03/11/2023 9:35 PM
+BAG:hiudznvtr add 76xĐậu thần cấp 8 (old: 57) lydo: Lấy từ rương qua người at 03/11/2023 9:35 PM
+BAG:hiudznvtr add 95xĐậu thần cấp 8 (old: 76) lydo: Lấy từ rương qua người at 03/11/2023 9:35 PM
+BAG:hiudznvtr add 15xĐậu thần cấp 8 lydo: Lấy từ rương qua người at 03/11/2023 9:35 PM
+BAG:hiudznvtr add 99xĐậu thần cấp 8 (old: 95) lydo: Lấy từ rương qua người at 03/11/2023 9:35 PM
+BAG:hiudznvtr add 34xĐậu thần cấp 8 (old: 15) lydo: Lấy từ rương qua người at 03/11/2023 9:35 PM
+BAG:hiudznvtr add 53xĐậu thần cấp 8 (old: 34) lydo: Lấy từ rương qua người at 03/11/2023 9:35 PM
+BAG:hiudznvtr add 72xĐậu thần cấp 8 (old: 53) lydo: Lấy từ rương qua người at 03/11/2023 9:35 PM
+BAG:hiudznvtr add 91xĐậu thần cấp 8 (old: 72) lydo: Lấy từ rương qua người at 03/11/2023 9:36 PM
+BAG:hiudznvtr add 11xĐậu thần cấp 8 lydo: Lấy từ rương qua người at 03/11/2023 9:36 PM
+BAG:hiudznvtr add 99xĐậu thần cấp 8 (old: 91) lydo: Lấy từ rương qua người at 03/11/2023 9:36 PM
+BAG:hiudznvtr add 30xĐậu thần cấp 8 (old: 11) lydo: Lấy từ rương qua người at 03/11/2023 9:36 PM
+BAG:hiudznvtr add 49xĐậu thần cấp 8 (old: 30) lydo: Lấy từ rương qua người at 03/11/2023 9:36 PM
+BAG:hiudznvtr add 68xĐậu thần cấp 8 (old: 49) lydo: Lấy từ rương qua người at 03/11/2023 9:36 PM
+BAG:hiudznvtr add 87xĐậu thần cấp 8 (old: 68) lydo: Lấy từ rương qua người at 03/11/2023 9:36 PM
+BAG:hiudznvtr add 7xĐậu thần cấp 8 lydo: Lấy từ rương qua người at 03/11/2023 9:36 PM
+BAG:hiudznvtr add 99xĐậu thần cấp 8 (old: 87) lydo: Lấy từ rương qua người at 03/11/2023 9:36 PM
+BAG:hiudznvtr add 1xGăng vải thô lydo: Nhặt từ map at 03/11/2023 9:37 PM
+BAG:hiudznvtr add 1xHoa hồng vàng lydo: Nhặt từ map at 03/11/2023 9:38 PM
+BAG:hiudznvtr add 1xHoa hồng xanh lydo: Nhặt từ map at 03/11/2023 9:39 PM
+BAG:hiudznvtr add 2xHoa hồng xanh (old: 1) lydo: Nhặt từ map at 03/11/2023 9:40 PM
+BAG:hiudznvtr add 2xHoa hồng vàng (old: 1) lydo: Nhặt từ map at 03/11/2023 9:41 PM
+BAG:hiudznvtr add 1xĐá lục bảo lydo: Nhặt từ map at 03/11/2023 9:41 PM
+BAG:hiudznvtr add 1xCột nhà lydo: Mua từ cửa hàng at 03/11/2023 9:42 PM
+BAG:hiudznvtr add 3xHoa hồng vàng (old: 2) lydo: Nhặt từ map at 03/11/2023 9:42 PM
+BAG:hiudznvtr add 4xHoa hồng vàng (old: 3) lydo: Nhặt từ map at 03/11/2023 9:42 PM

@@ -1,0 +1,795 @@
+BAG:songokuglx add 150xThỏi vàng lydo: Giftcode at 03/12/2023 7:09 AM
+BAG:songokuglx add 99xNgọc Rồng 3 sao lydo: Giftcode at 03/12/2023 7:09 AM
+BAG:songokuglx add 250xThỏi vàng (old: 150) lydo: Giftcode at 03/12/2023 7:09 AM
+BAG:songokuglx add 10xĐậu thần cấp 10 lydo: Thu hoạch đậu at 03/12/2023 7:11 AM
+BAG:songokuglx add 30xĐậu thần cấp 10 (old: 10) lydo: Lấy từ rương qua người at 03/12/2023 7:13 AM
+BAG:songokuglx add 46xĐậu thần cấp 10 (old: 30) lydo: Lấy từ rương qua người at 03/12/2023 7:13 AM
+BAG:songokuglx add 1xHoa hồng xanh lydo: Nhặt từ map at 03/12/2023 7:24 AM
+BAG:songokuglx add 1xĐá Saphia lydo: Nhặt từ map at 03/12/2023 7:25 AM
+BAG:songokuglx add 2xHoa hồng xanh (old: 1) lydo: Nhặt từ map at 03/12/2023 7:25 AM
+BAG:songokuglx add 3xHoa hồng xanh (old: 2) lydo: Nhặt từ map at 03/12/2023 7:26 AM
+BAG:songokuglx add 1xQuần vải đen lydo: Nhặt từ map at 03/12/2023 7:26 AM
+BAG:songokuglx add 1xGiầy nhựa lydo: Nhặt từ map at 03/12/2023 7:27 AM
+BAG:songokuglx add 1xĐá Titan lydo: Nhặt từ map at 03/12/2023 7:27 AM
+BAG:songokuglx add 1xGiầy nhựa lydo: Nhặt từ map at 03/12/2023 7:29 AM
+BAG:songokuglx add 1xÁo vải 3 lỗ lydo: Nhặt từ map at 03/12/2023 7:29 AM
+BAG:songokuglx add 4xHoa hồng xanh (old: 3) lydo: Nhặt từ map at 03/12/2023 7:29 AM
+BAG:songokuglx add 1xHoa hồng đỏ lydo: Nhặt từ map at 03/12/2023 7:29 AM
+BAG:songokuglx add 5xHoa hồng xanh (old: 4) lydo: Nhặt từ map at 03/12/2023 7:29 AM
+BAG:songokuglx add 1xÁo vải 3 lỗ lydo: Nhặt từ map at 03/12/2023 7:30 AM
+BAG:songokuglx add 1xHoa hồng vàng lydo: Nhặt từ map at 03/12/2023 7:30 AM
+BAG:songokuglx add 1xQuần vải đen lydo: Nhặt từ map at 03/12/2023 7:30 AM
+BAG:songokuglx add 2xHoa hồng vàng (old: 1) lydo: Nhặt từ map at 03/12/2023 7:30 AM
+BAG:songokuglx add 1xQuần vải đen lydo: Nhặt từ map at 03/12/2023 7:30 AM
+BAG:songokuglx add 3xHoa hồng vàng (old: 2) lydo: Nhặt từ map at 03/12/2023 7:31 AM
+BAG:songokuglx add 4xHoa hồng vàng (old: 3) lydo: Nhặt từ map at 03/12/2023 7:31 AM
+BAG:songokuglx add 1xÁo vải 3 lỗ lydo: Nhặt từ map at 03/12/2023 7:31 AM
+BAG:songokuglx add 5xHoa hồng vàng (old: 4) lydo: Nhặt từ map at 03/12/2023 7:31 AM
+BAG:songokuglx add 1xViên Capsule đặc biệt lydo: Mua từ cửa hàng at 03/12/2023 7:32 AM
+BAG:songokuglx add 1xCân đẩu vân VIP lydo: Mua từ cửa hàng at 03/12/2023 7:32 AM
+BAG:songokuglx add 6xHoa hồng vàng (old: 5) lydo: Nhặt từ map at 03/12/2023 7:33 AM
+BAG:songokuglx add 2xĐá Saphia (old: 1) lydo: Nhặt từ map at 03/12/2023 7:33 AM
+BAG:songokuglx add 1xĐổi đệ tử lydo: Mua từ cửa hàng at 03/12/2023 7:36 AM
+BAG:songokuglx add 2xĐổi đệ tử (old: 1) lydo: Mua từ cửa hàng at 03/12/2023 7:36 AM
+BAG:songokuglx add 3xĐổi đệ tử (old: 2) lydo: Mua từ cửa hàng at 03/12/2023 7:36 AM
+BAG:songokuglx add 1xGiầy nhựa lydo: Lấy từ body đệ vào hành trang at 03/12/2023 7:37 AM
+BAG:songokuglx add 1xTự động luyện tập lydo: Mua TDTL từ cửa hàng at 03/12/2023 7:37 AM
+BAG:songokuglx add 1xCải trang Chill cấp 2 lydo: Mua từ cửa hàng at 03/12/2023 7:38 AM
+BAG:songokuglx add 1xCải trang Chill cấp 2 lydo: Mua từ cửa hàng at 03/12/2023 7:38 AM
+BAG:songokuglx add 250xThỏi vàng lydo: Lấy từ rương qua người at 03/12/2023 7:38 AM
+BAG:songokuglx add 99xNgọc Rồng 3 sao lydo: Lấy từ rương qua người at 03/12/2023 7:38 AM
+BAG:songokuglx add 1xÁo vải 3 lỗ lydo: Lấy từ rương qua người at 03/12/2023 7:38 AM
+BAG:songokuglx add 1xQuần vải đen lydo: Lấy từ rương qua người at 03/12/2023 7:38 AM
+BAG:songokuglx add 1xÁo vải 3 lỗ lydo: Lấy từ rương qua người at 03/12/2023 7:39 AM
+BAG:songokuglx add 1xGiầy nhựa lydo: Lấy từ rương qua người at 03/12/2023 7:39 AM
+BAG:songokuglx add 1xCân đẩu vân VIP lydo: Lấy từ rương qua người at 03/12/2023 7:39 AM
+BAG:songokuglx add 7xHoa hồng vàng (old: 6) lydo: Nhặt từ map at 03/12/2023 7:42 AM
+BAG:songokuglx add 6xHoa hồng xanh (old: 5) lydo: Nhặt từ map at 03/12/2023 7:42 AM
+BAG:songokuglx add 8xHoa hồng vàng (old: 7) lydo: Nhặt từ map at 03/12/2023 7:42 AM
+BAG:songokuglx add 3xĐá Saphia (old: 2) lydo: Nhặt từ map at 03/12/2023 7:42 AM
+BAG:songokuglx add 9xHoa hồng vàng (old: 8) lydo: Nhặt từ map at 03/12/2023 7:43 AM
+BAG:songokuglx add 7xHoa hồng xanh (old: 6) lydo: Nhặt từ map at 03/12/2023 7:46 AM
+BAG:songokuglx add 1xĐá thạch anh tím lydo: Nhặt từ map at 03/12/2023 7:47 AM
+BAG:songokuglx add 10xHoa hồng vàng (old: 9) lydo: Nhặt từ map at 03/12/2023 7:47 AM
+BAG:songokuglx add 8xHoa hồng xanh (old: 7) lydo: Nhặt từ map at 03/12/2023 7:47 AM
+BAG:songokuglx add 2xĐá Titan (old: 1) lydo: Nhặt từ map at 03/12/2023 7:47 AM
+BAG:songokuglx add 3xĐá Titan (old: 2) lydo: Nhặt từ map at 03/12/2023 7:47 AM
+BAG:songokuglx add 11xHoa hồng vàng (old: 10) lydo: Nhặt từ map at 03/12/2023 7:47 AM
+BAG:songokuglx add 12xHoa hồng vàng (old: 11) lydo: Nhặt từ map at 03/12/2023 7:48 AM
+BAG:songokuglx add 9xHoa hồng xanh (old: 8) lydo: Nhặt từ map at 03/12/2023 7:48 AM
+BAG:songokuglx add 13xHoa hồng vàng (old: 12) lydo: Nhặt từ map at 03/12/2023 7:48 AM
+BAG:songokuglx add 35xĐậu thần cấp 10 (old: 34) lydo: Clan cho đậu at 03/12/2023 7:48 AM
+BAG:songokuglx add 36xĐậu thần cấp 10 (old: 35) lydo: Clan cho đậu at 03/12/2023 7:48 AM
+BAG:songokuglx add 2xHoa hồng đỏ (old: 1) lydo: Nhặt từ map at 03/12/2023 7:48 AM
+BAG:songokuglx add 37xĐậu thần cấp 10 (old: 36) lydo: Clan cho đậu at 03/12/2023 7:48 AM
+BAG:songokuglx add 38xĐậu thần cấp 10 (old: 37) lydo: Clan cho đậu at 03/12/2023 7:48 AM
+BAG:songokuglx add 39xĐậu thần cấp 10 (old: 38) lydo: Clan cho đậu at 03/12/2023 7:48 AM
+BAG:songokuglx add 14xHoa hồng vàng (old: 13) lydo: Nhặt từ map at 03/12/2023 7:48 AM
+BAG:songokuglx add 1xĐá Ruby lydo: Nhặt từ map at 03/12/2023 7:48 AM
+BAG:songokuglx add 10xHoa hồng xanh (old: 9) lydo: Nhặt từ map at 03/12/2023 7:49 AM
+BAG:songokuglx add 2xĐá thạch anh tím (old: 1) lydo: Nhặt từ map at 03/12/2023 7:49 AM
+BAG:songokuglx add 3xĐá thạch anh tím (old: 2) lydo: Nhặt từ map at 03/12/2023 7:49 AM
+BAG:songokuglx add 15xHoa hồng vàng (old: 14) lydo: Nhặt từ map at 03/12/2023 7:49 AM
+BAG:songokuglx add 2xĐá Ruby (old: 1) lydo: Nhặt từ map at 03/12/2023 7:49 AM
+BAG:songokuglx add 16xHoa hồng vàng (old: 15) lydo: Nhặt từ map at 03/12/2023 7:49 AM
+BAG:songokuglx add 11xHoa hồng xanh (old: 10) lydo: Nhặt từ map at 03/12/2023 7:50 AM
+BAG:songokuglx add 4xĐá Titan (old: 3) lydo: Nhặt từ map at 03/12/2023 7:50 AM
+BAG:songokuglx add 3xHoa hồng đỏ (old: 2) lydo: Nhặt từ map at 03/12/2023 7:50 AM
+BAG:songokuglx add 12xHoa hồng xanh (old: 11) lydo: Nhặt từ map at 03/12/2023 7:50 AM
+BAG:songokuglx add 13xHoa hồng xanh (old: 12) lydo: Nhặt từ map at 03/12/2023 7:51 AM
+BAG:songokuglx add 14xHoa hồng xanh (old: 13) lydo: Nhặt từ map at 03/12/2023 7:51 AM
+BAG:songokuglx add 3xĐá Ruby (old: 2) lydo: Nhặt từ map at 03/12/2023 7:51 AM
+BAG:songokuglx add 15xHoa hồng xanh (old: 14) lydo: Nhặt từ map at 03/12/2023 7:52 AM
+BAG:songokuglx add 17xHoa hồng vàng (old: 16) lydo: Nhặt từ map at 03/12/2023 7:52 AM
+BAG:songokuglx add 18xHoa hồng vàng (old: 17) lydo: Nhặt từ map at 03/12/2023 7:52 AM
+BAG:songokuglx add 19xHoa hồng vàng (old: 18) lydo: Nhặt từ map at 03/12/2023 7:52 AM
+BAG:songokuglx add 4xHoa hồng đỏ (old: 3) lydo: Nhặt từ map at 03/12/2023 7:52 AM
+BAG:songokuglx add 5xHoa hồng đỏ (old: 4) lydo: Nhặt từ map at 03/12/2023 7:52 AM
+BAG:songokuglx add 5xĐá Titan (old: 4) lydo: Nhặt từ map at 03/12/2023 7:52 AM
+BAG:songokuglx add 16xHoa hồng xanh (old: 15) lydo: Nhặt từ map at 03/12/2023 7:52 AM
+BAG:songokuglx add 20xHoa hồng vàng (old: 19) lydo: Nhặt từ map at 03/12/2023 7:52 AM
+BAG:songokuglx add 21xHoa hồng vàng (old: 20) lydo: Nhặt từ map at 03/12/2023 7:53 AM
+BAG:songokuglx add 17xHoa hồng xanh (old: 16) lydo: Nhặt từ map at 03/12/2023 7:53 AM
+BAG:songokuglx add 4xĐá thạch anh tím (old: 3) lydo: Nhặt từ map at 03/12/2023 7:53 AM
+BAG:songokuglx add 22xHoa hồng vàng (old: 21) lydo: Nhặt từ map at 03/12/2023 7:53 AM
+BAG:songokuglx add 6xHoa hồng đỏ (old: 5) lydo: Nhặt từ map at 03/12/2023 7:53 AM
+BAG:songokuglx add 23xHoa hồng vàng (old: 22) lydo: Nhặt từ map at 03/12/2023 7:53 AM
+BAG:songokuglx add 18xHoa hồng xanh (old: 17) lydo: Nhặt từ map at 03/12/2023 7:54 AM
+BAG:songokuglx add 5xĐá thạch anh tím (old: 4) lydo: Nhặt từ map at 03/12/2023 7:54 AM
+BAG:songokuglx add 19xHoa hồng xanh (old: 18) lydo: Nhặt từ map at 03/12/2023 7:55 AM
+BAG:songokuglx add 20xHoa hồng xanh (old: 19) lydo: Nhặt từ map at 03/12/2023 7:56 AM
+BAG:songokuglx add 7xHoa hồng đỏ (old: 6) lydo: Nhặt từ map at 03/12/2023 7:57 AM
+BAG:songokuglx add 8xHoa hồng đỏ (old: 7) lydo: Nhặt từ map at 03/12/2023 7:57 AM
+BAG:songokuglx add 6xĐá Titan (old: 5) lydo: Nhặt từ map at 03/12/2023 7:58 AM
+BAG:songokuglx add 1xBông tai Porata lydo: Mua từ cửa hàng at 03/12/2023 7:58 AM
+BAG:songokuglx add 1xNgọc Rồng 5 sao lydo: Nhặt từ map at 03/12/2023 7:59 AM
+BAG:songokuglx add 21xHoa hồng xanh (old: 20) lydo: Nhặt từ map at 03/12/2023 8:00 AM
+BAG:songokuglx add 1xĐá Ruby lydo: Nhặt từ map at 03/12/2023 8:01 AM
+BAG:songokuglx add 1xHoa hồng vàng lydo: Nhặt từ map at 03/12/2023 8:02 AM
+BAG:songokuglx add 2xHoa hồng vàng (old: 1) lydo: Nhặt từ map at 03/12/2023 8:02 AM
+BAG:songokuglx add 3xHoa hồng vàng (old: 2) lydo: Nhặt từ map at 03/12/2023 8:03 AM
+BAG:songokuglx add 22xHoa hồng xanh (old: 21) lydo: Nhặt từ map at 03/12/2023 8:03 AM
+BAG:songokuglx add 4xHoa hồng vàng (old: 3) lydo: Nhặt từ map at 03/12/2023 8:04 AM
+BAG:songokuglx add 2xĐá Ruby (old: 1) lydo: Nhặt từ map at 03/12/2023 8:04 AM
+BAG:songokuglx add 1xHoa hồng đỏ lydo: Nhặt từ map at 03/12/2023 8:04 AM
+BAG:songokuglx add 23xHoa hồng xanh (old: 22) lydo: Nhặt từ map at 03/12/2023 8:04 AM
+BAG:songokuglx add 2xHoa hồng đỏ (old: 1) lydo: Nhặt từ map at 03/12/2023 8:05 AM
+BAG:songokuglx add 5xHoa hồng vàng (old: 4) lydo: Nhặt từ map at 03/12/2023 8:05 AM
+BAG:songokuglx add 2xNgọc Rồng 5 sao (old: 1) lydo: Nhặt từ map at 03/12/2023 8:05 AM
+BAG:songokuglx add 6xHoa hồng vàng (old: 5) lydo: Nhặt từ map at 03/12/2023 8:05 AM
+BAG:songokuglx add 3xHoa hồng đỏ (old: 2) lydo: Nhặt từ map at 03/12/2023 8:06 AM
+BAG:songokuglx add 4xHoa hồng đỏ (old: 3) lydo: Nhặt từ map at 03/12/2023 8:06 AM
+BAG:songokuglx add 7xHoa hồng vàng (old: 6) lydo: Nhặt từ map at 03/12/2023 8:06 AM
+BAG:songokuglx add 1xSách đấm Dragon lv2 lydo: Mua từ cửa hàng at 03/12/2023 8:06 AM
+BAG:songokuglx add 1xSách đấm Dragon lv3 lydo: Mua từ cửa hàng at 03/12/2023 8:06 AM
+BAG:songokuglx add 1xSách đấm Dragon lv4 lydo: Mua từ cửa hàng at 03/12/2023 8:06 AM
+BAG:songokuglx add 1xSách đấm Dragon lv5 lydo: Mua từ cửa hàng at 03/12/2023 8:07 AM
+BAG:songokuglx add 1xSách đấm Dragon lv6 lydo: Mua từ cửa hàng at 03/12/2023 8:07 AM
+BAG:songokuglx add 1xSách đấm Dragon lv7 lydo: Mua từ cửa hàng at 03/12/2023 8:07 AM
+BAG:songokuglx add 5xHoa hồng đỏ (old: 4) lydo: Nhặt từ map at 03/12/2023 8:09 AM
+BAG:songokuglx add 1xĐá lục bảo lydo: Nhặt từ map at 03/12/2023 8:09 AM
+BAG:songokuglx add 1xNgọc Rồng 6 sao lydo: Nhặt từ map at 03/12/2023 8:09 AM
+BAG:songokuglx add 24xHoa hồng xanh (old: 23) lydo: Nhặt từ map at 03/12/2023 8:09 AM
+BAG:songokuglx add 8xHoa hồng vàng (old: 7) lydo: Nhặt từ map at 03/12/2023 8:10 AM
+BAG:songokuglx add 25xHoa hồng xanh (old: 24) lydo: Nhặt từ map at 03/12/2023 8:10 AM
+BAG:songokuglx add 9xHoa hồng vàng (old: 8) lydo: Nhặt từ map at 03/12/2023 8:11 AM
+BAG:songokuglx add 10xHoa hồng vàng (old: 9) lydo: Nhặt từ map at 03/12/2023 8:11 AM
+BAG:songokuglx add 6xHoa hồng đỏ (old: 5) lydo: Nhặt từ map at 03/12/2023 8:11 AM
+BAG:songokuglx add 11xHoa hồng vàng (old: 10) lydo: Nhặt từ map at 03/12/2023 8:12 AM
+BAG:songokuglx add 3xĐá Ruby (old: 2) lydo: Nhặt từ map at 03/12/2023 8:13 AM
+BAG:songokuglx add 26xHoa hồng xanh (old: 25) lydo: Nhặt từ map at 03/12/2023 8:13 AM
+BAG:songokuglx add 1xĐá Saphia lydo: Nhặt từ map at 03/12/2023 8:13 AM
+BAG:songokuglx add 4xĐá Ruby (old: 3) lydo: Nhặt từ map at 03/12/2023 8:13 AM
+BAG:songokuglx add 12xHoa hồng vàng (old: 11) lydo: Nhặt từ map at 03/12/2023 8:14 AM
+BAG:songokuglx add 27xHoa hồng xanh (old: 26) lydo: Nhặt từ map at 03/12/2023 8:14 AM
+BAG:songokuglx add 7xHoa hồng đỏ (old: 6) lydo: Nhặt từ map at 03/12/2023 8:14 AM
+BAG:songokuglx add 28xHoa hồng xanh (old: 27) lydo: Nhặt từ map at 03/12/2023 8:16 AM
+BAG:songokuglx add 29xHoa hồng xanh (old: 28) lydo: Nhặt từ map at 03/12/2023 8:17 AM
+BAG:songokuglx add 1xRada cấp 1 lydo: Nhặt từ map at 03/12/2023 6:56 PM
+BAG:songokuglx add 13xHoa hồng vàng (old: 12) lydo: Nhặt từ map at 03/12/2023 6:56 PM
+BAG:songokuglx add 14xHoa hồng vàng (old: 13) lydo: Nhặt từ map at 03/12/2023 6:56 PM
+BAG:songokuglx add 1xĐá Ruby lydo: Nhặt từ map at 03/12/2023 6:56 PM
+BAG:songokuglx add 15xHoa hồng vàng (old: 14) lydo: Nhặt từ map at 03/12/2023 6:57 PM
+BAG:songokuglx add 1xQuần vải đen lydo: Nhặt từ map at 03/12/2023 6:57 PM
+BAG:songokuglx add 1xĐá Saphia lydo: Nhặt từ map at 03/12/2023 6:57 PM
+BAG:songokuglx add 1xGiầy nhựa lydo: Nhặt từ map at 03/12/2023 6:57 PM
+BAG:songokuglx add 8xHoa hồng đỏ (old: 7) lydo: Nhặt từ map at 03/12/2023 6:57 PM
+BAG:songokuglx add 1xÁo vải 3 lỗ lydo: Nhặt từ map at 03/12/2023 6:57 PM
+BAG:songokuglx add 1xQuần vải đen lydo: Nhặt từ map at 03/12/2023 6:58 PM
+BAG:songokuglx add 1xGiầy nhựa lydo: Nhặt từ map at 03/12/2023 6:58 PM
+BAG:songokuglx add 1xÁo vải 3 lỗ lydo: Nhặt từ map at 03/12/2023 6:58 PM
+BAG:songokuglx add 1xGăng vải đen lydo: Nhặt từ map at 03/12/2023 6:58 PM
+BAG:songokuglx add 1xQuần vải đen lydo: Nhặt từ map at 03/12/2023 6:59 PM
+BAG:songokuglx add 1xGiầy nhựa lydo: Nhặt từ map at 03/12/2023 6:59 PM
+BAG:songokuglx add 9xHoa hồng đỏ (old: 8) lydo: Nhặt từ map at 03/12/2023 6:59 PM
+BAG:songokuglx add 16xHoa hồng vàng (old: 15) lydo: Nhặt từ map at 03/12/2023 6:59 PM
+BAG:songokuglx add 1xĐá Titan lydo: Nhặt từ map at 03/12/2023 6:59 PM
+BAG:songokuglx add 1xGăng vải đen lydo: Nhặt từ map at 03/12/2023 7:00 PM
+BAG:songokuglx add 10xHoa hồng đỏ (old: 9) lydo: Nhặt từ map at 03/12/2023 7:00 PM
+BAG:songokuglx add 11xHoa hồng đỏ (old: 10) lydo: Nhặt từ map at 03/12/2023 7:00 PM
+BAG:songokuglx add 1xĐá thạch anh tím lydo: Nhặt từ map at 03/12/2023 7:00 PM
+BAG:songokuglx add 12xHoa hồng đỏ (old: 11) lydo: Nhặt từ map at 03/12/2023 7:00 PM
+BAG:songokuglx add 30xHoa hồng xanh (old: 29) lydo: Nhặt từ map at 03/12/2023 7:00 PM
+BAG:songokuglx add 31xHoa hồng xanh (old: 30) lydo: Nhặt từ map at 03/12/2023 7:01 PM
+BAG:songokuglx add 1xÁo vải 3 lỗ lydo: Nhặt từ map at 03/12/2023 7:01 PM
+BAG:songokuglx add 1xĐá thạch anh tím lydo: Nhặt từ map at 03/12/2023 7:01 PM
+BAG:songokuglx add 1xGiầy nhựa lydo: Nhặt từ map at 03/12/2023 7:01 PM
+BAG:songokuglx add 1xRada cấp 1 lydo: Nhặt từ map at 03/12/2023 7:01 PM
+BAG:songokuglx add 1xÁo vải 3 lỗ lydo: Nhặt từ map at 03/12/2023 7:02 PM
+BAG:songokuglx add 13xHoa hồng đỏ (old: 12) lydo: Nhặt từ map at 03/12/2023 7:02 PM
+BAG:songokuglx add 1xRada cấp 1 lydo: Nhặt từ map at 03/12/2023 7:02 PM
+BAG:songokuglx add 1xĐá Ruby lydo: Nhặt từ map at 03/12/2023 7:03 PM
+BAG:songokuglx add 1xÁo vải 3 lỗ lydo: Nhặt từ map at 03/12/2023 7:03 PM
+BAG:songokuglx add 1xRada cấp 1 lydo: Nhặt từ map at 03/12/2023 7:04 PM
+BAG:songokuglx add 1xRada cấp 1 lydo: Nhặt từ map at 03/12/2023 7:04 PM
+BAG:songokuglx add 1xGăng vải đen lydo: Nhặt từ map at 03/12/2023 7:04 PM
+BAG:songokuglx add 1xRada cấp 1 lydo: Nhặt từ map at 03/12/2023 7:04 PM
+BAG:songokuglx add 1xÁo vải 3 lỗ lydo: Nhặt từ map at 03/12/2023 7:04 PM
+BAG:songokuglx add 32xHoa hồng xanh (old: 31) lydo: Nhặt từ map at 03/12/2023 7:04 PM
+BAG:songokuglx add 1xMảnh Khủng long lydo: Nhặt từ map at 03/12/2023 7:05 PM
+BAG:songokuglx add 1xRada cấp 1 lydo: Nhặt từ map at 03/12/2023 7:05 PM
+BAG:songokuglx add 33xHoa hồng xanh (old: 32) lydo: Nhặt từ map at 03/12/2023 7:05 PM
+BAG:songokuglx add 1xQuần vải đen lydo: Nhặt từ map at 03/12/2023 7:06 PM
+BAG:songokuglx add 1xMảnh Khủng long lydo: Nhặt từ map at 03/12/2023 7:06 PM
+BAG:songokuglx add 14xHoa hồng đỏ (old: 13) lydo: Nhặt từ map at 03/12/2023 7:08 PM
+BAG:songokuglx add 15xHoa hồng đỏ (old: 14) lydo: Nhặt từ map at 03/12/2023 7:08 PM
+BAG:songokuglx add 2xMảnh Khủng long (old: 1) lydo: Nhặt từ map at 03/12/2023 7:09 PM
+BAG:songokuglx add 16xHoa hồng đỏ (old: 15) lydo: Nhặt từ map at 03/12/2023 7:09 PM
+BAG:songokuglx add 34xHoa hồng xanh (old: 33) lydo: Nhặt từ map at 03/12/2023 7:09 PM
+BAG:songokuglx add 17xHoa hồng đỏ (old: 16) lydo: Nhặt từ map at 03/12/2023 7:09 PM
+BAG:songokuglx add 1xGăng vải đen lydo: Nhặt từ map at 03/12/2023 7:09 PM
+BAG:songokuglx add 2xĐá Ruby (old: 1) lydo: Nhặt từ map at 03/12/2023 7:10 PM
+BAG:songokuglx add 1xÁo vải 3 lỗ lydo: Nhặt từ map at 03/12/2023 7:10 PM
+BAG:songokuglx add 17xHoa hồng vàng (old: 16) lydo: Nhặt từ map at 03/12/2023 7:10 PM
+BAG:songokuglx add 18xHoa hồng đỏ (old: 17) lydo: Nhặt từ map at 03/12/2023 7:11 PM
+BAG:songokuglx add 35xHoa hồng xanh (old: 34) lydo: Nhặt từ map at 03/12/2023 7:11 PM
+BAG:songokuglx add 36xHoa hồng xanh (old: 35) lydo: Nhặt từ map at 03/12/2023 7:12 PM
+BAG:songokuglx add 18xHoa hồng vàng (old: 17) lydo: Nhặt từ map at 03/12/2023 7:12 PM
+BAG:songokuglx add 37xHoa hồng xanh (old: 36) lydo: Nhặt từ map at 03/12/2023 7:12 PM
+BAG:songokuglx add 38xHoa hồng xanh (old: 37) lydo: Nhặt từ map at 03/12/2023 7:13 PM
+BAG:songokuglx add 1xRada cấp 1 lydo: Nhặt từ map at 03/12/2023 7:13 PM
+BAG:songokuglx add 1xQuần vải đen lydo: Nhặt từ map at 03/12/2023 7:13 PM
+BAG:songokuglx add 1xGăng vải đen lydo: Nhặt từ map at 03/12/2023 7:13 PM
+BAG:songokuglx add 1xÁo vải 3 lỗ lydo: Nhặt từ map at 03/12/2023 7:14 PM
+BAG:songokuglx add 19xHoa hồng vàng (old: 18) lydo: Nhặt từ map at 03/12/2023 7:14 PM
+BAG:songokuglx add 20xHoa hồng vàng (old: 19) lydo: Nhặt từ map at 03/12/2023 7:14 PM
+BAG:songokuglx add 1xGăng vải đen lydo: Nhặt từ map at 03/12/2023 7:15 PM
+BAG:songokuglx add 39xHoa hồng xanh (old: 38) lydo: Nhặt từ map at 03/12/2023 7:15 PM
+BAG:songokuglx add 1xRada cấp 1 lydo: Nhặt từ map at 03/12/2023 7:16 PM
+BAG:songokuglx add 1xGăng vải đen lydo: Nhặt từ map at 03/12/2023 7:16 PM
+BAG:songokuglx add 1xGiầy nhựa lydo: Nhặt từ map at 03/12/2023 7:17 PM
+BAG:songokuglx add 21xHoa hồng vàng (old: 20) lydo: Nhặt từ map at 03/12/2023 7:17 PM
+BAG:songokuglx add 22xHoa hồng vàng (old: 21) lydo: Nhặt từ map at 03/12/2023 7:23 PM
+BAG:songokuglx add 40xHoa hồng xanh (old: 39) lydo: Nhặt từ map at 03/12/2023 7:24 PM
+BAG:songokuglx add 19xHoa hồng đỏ (old: 18) lydo: Nhặt từ map at 03/12/2023 7:25 PM
+BAG:songokuglx add 41xHoa hồng xanh (old: 40) lydo: Nhặt từ map at 03/12/2023 7:25 PM
+BAG:songokuglx add 1xĐá thạch anh tím lydo: Nhặt từ map at 03/12/2023 7:25 PM
+BAG:songokuglx add 1xMảnh Khủng long lydo: Nhặt từ map at 03/12/2023 7:26 PM
+BAG:songokuglx add 23xHoa hồng vàng (old: 22) lydo: Nhặt từ map at 03/12/2023 7:26 PM
+BAG:songokuglx add 1xGiầy nhựa lydo: Nhặt từ map at 03/12/2023 7:26 PM
+BAG:songokuglx add 1xNgọc Rồng 6 sao lydo: Nhặt từ map at 03/12/2023 7:26 PM
+BAG:songokuglx add 24xHoa hồng vàng (old: 23) lydo: Nhặt từ map at 03/12/2023 7:26 PM
+BAG:songokuglx add 25xHoa hồng vàng (old: 24) lydo: Nhặt từ map at 03/12/2023 7:27 PM
+BAG:songokuglx add 1xGăng vải đen lydo: Nhặt từ map at 03/12/2023 7:27 PM
+BAG:songokuglx add 20xHoa hồng đỏ (old: 19) lydo: Nhặt từ map at 03/12/2023 7:27 PM
+BAG:songokuglx add 1xRada cấp 1 lydo: Nhặt từ map at 03/12/2023 7:28 PM
+BAG:songokuglx add 42xHoa hồng xanh (old: 41) lydo: Nhặt từ map at 03/12/2023 7:28 PM
+BAG:songokuglx add 21xHoa hồng đỏ (old: 20) lydo: Nhặt từ map at 03/12/2023 7:28 PM
+BAG:songokuglx add 1xGiầy nhựa lydo: Lấy từ rương qua người at 03/12/2023 7:29 PM
+BAG:songokuglx add 1xCân đẩu vân VIP lydo: Lấy từ rương qua người at 03/12/2023 7:29 PM
+BAG:songokuglx add 249xThỏi vàng lydo: Lấy từ rương qua người at 03/12/2023 7:29 PM
+BAG:songokuglx add 42xĐậu thần cấp 10 (old: 22) lydo: Lấy từ rương qua người at 03/12/2023 7:29 PM
+BAG:songokuglx add 99xNgọc Rồng 3 sao lydo: Lấy từ rương qua người at 03/12/2023 7:29 PM
+BAG:songokuglx add 1xCải Trang Thần Zeno Trái Đất lydo: Mua từ bill at 03/12/2023 7:30 PM
+BAG:songokuglx add 1xÁo vải 3 lỗ lydo: Lấy từ body vào hành trang at 03/12/2023 7:30 PM
+BAG:songokuglx add 1xQuần vải đen lydo: Lấy từ body vào hành trang at 03/12/2023 7:30 PM
+BAG:songokuglx add 1xGăng vải đen lydo: Lấy từ body vào hành trang at 03/12/2023 7:30 PM
+BAG:songokuglx add 1xGiầy nhựa lydo: Lấy từ body vào hành trang at 03/12/2023 7:30 PM
+BAG:songokuglx add 1xRada cấp 1 lydo: Lấy từ body vào hành trang at 03/12/2023 7:30 PM
+BAG:songokuglx add 1xCải Trang Thần Zeno Trái Đất lydo: Lấy từ body vào hành trang at 03/12/2023 7:30 PM
+BAG:songokuglx add 99xThỏi vàng lydo: Tách thỏi vàng at 03/12/2023 7:33 PM
+BAG:songokuglx add 1xGăng vải Kame lydo: Mua từ cửa hàng at 03/12/2023 7:44 PM
+BAG:songokuglx add 1xGăng vải Kame lydo: Mua từ cửa hàng at 03/12/2023 7:44 PM
+BAG:songokuglx add 1xGăng vải Kame lydo: Mua từ cửa hàng at 03/12/2023 7:44 PM
+BAG:songokuglx add 1xÁo thun Kame lydo: Mua từ cửa hàng at 03/12/2023 7:45 PM
+BAG:songokuglx add 1xÁo võ Goku lydo: Mua từ cửa hàng at 03/12/2023 7:45 PM
+BAG:songokuglx add 1xÁo võ Goku lydo: Mua từ cửa hàng at 03/12/2023 7:45 PM
+BAG:songokuglx add 1xÁo võ Goku lydo: Mua từ cửa hàng at 03/12/2023 7:45 PM
+BAG:songokuglx add 1xÁo võ Goku lydo: Mua từ cửa hàng at 03/12/2023 7:46 PM
+BAG:songokuglx add 1xÁo võ Goku lydo: Mua từ cửa hàng at 03/12/2023 7:46 PM
+BAG:songokuglx add 1xÁo võ Goku lydo: Mua từ cửa hàng at 03/12/2023 7:46 PM
+BAG:songokuglx add 1xÁo võ Goku lydo: Mua từ cửa hàng at 03/12/2023 7:46 PM
+BAG:songokuglx add 1xRada cấp 8 lydo: Mua từ cửa hàng at 03/12/2023 7:47 PM
+BAG:songokuglx add 1xRada cấp 8 lydo: Mua từ cửa hàng at 03/12/2023 7:47 PM
+BAG:songokuglx add 1xRada cấp 8 lydo: Mua từ cửa hàng at 03/12/2023 7:47 PM
+BAG:songokuglx add 1xRada cấp 8 lydo: Mua từ cửa hàng at 03/12/2023 7:47 PM
+BAG:songokuglx add 1xRada cấp 8 lydo: Mua từ cửa hàng at 03/12/2023 7:47 PM
+BAG:songokuglx add 1xRada cấp 8 lydo: Mua từ cửa hàng at 03/12/2023 7:47 PM
+BAG:songokuglx add 1xRada cấp 8 lydo: Mua từ cửa hàng at 03/12/2023 7:47 PM
+BAG:songokuglx add 1xRada cấp 8 lydo: Mua từ cửa hàng at 03/12/2023 7:47 PM
+BAG:songokuglx add 1xRada cấp 8 lydo: Mua từ cửa hàng at 03/12/2023 7:48 PM
+BAG:songokuglx add 1xRada cấp 8 lydo: Mua từ cửa hàng at 03/12/2023 7:48 PM
+BAG:songokuglx add 1xRada cấp 8 lydo: Mua từ cửa hàng at 03/12/2023 7:48 PM
+BAG:songokuglx add 1xRada cấp 8 lydo: Mua từ cửa hàng at 03/12/2023 7:48 PM
+BAG:songokuglx add 1xRada cấp 8 lydo: Mua từ cửa hàng at 03/12/2023 7:49 PM
+BAG:songokuglx add 1xRada cấp 8 lydo: Mua từ cửa hàng at 03/12/2023 7:49 PM
+BAG:songokuglx add 1xRada cấp 8 lydo: Mua từ cửa hàng at 03/12/2023 7:49 PM
+BAG:songokuglx add 1xRada cấp 8 lydo: Mua từ cửa hàng at 03/12/2023 7:49 PM
+BAG:songokuglx add 1xRada cấp 8 lydo: Mua từ cửa hàng at 03/12/2023 7:49 PM
+BAG:songokuglx add 1xRada cấp 8 lydo: Mua từ cửa hàng at 03/12/2023 7:49 PM
+BAG:songokuglx add 1xRada cấp 8 lydo: Mua từ cửa hàng at 03/12/2023 7:49 PM
+BAG:songokuglx add 1xRada cấp 8 lydo: Mua từ cửa hàng at 03/12/2023 7:49 PM
+BAG:songokuglx add 1xRada cấp 8 lydo: Mua từ cửa hàng at 03/12/2023 7:50 PM
+BAG:songokuglx add 1xRada cấp 8 lydo: Mua từ cửa hàng at 03/12/2023 7:50 PM
+BAG:songokuglx add 1xRada cấp 8 lydo: Mua từ cửa hàng at 03/12/2023 7:50 PM
+BAG:songokuglx add 1xRada cấp 8 lydo: Mua từ cửa hàng at 03/12/2023 7:50 PM
+BAG:songokuglx add 1xRada cấp 8 lydo: Mua từ cửa hàng at 03/12/2023 7:51 PM
+BAG:songokuglx add 1xRada cấp 8 lydo: Mua từ cửa hàng at 03/12/2023 7:51 PM
+BAG:songokuglx add 1xRada cấp 8 lydo: Mua từ cửa hàng at 03/12/2023 7:51 PM
+BAG:songokuglx add 1xRada cấp 8 lydo: Mua từ cửa hàng at 03/12/2023 7:51 PM
+BAG:songokuglx add 1xRada cấp 8 lydo: Mua từ cửa hàng at 03/12/2023 7:51 PM
+BAG:songokuglx add 1xRada cấp 8 lydo: Mua từ cửa hàng at 03/12/2023 7:51 PM
+BAG:songokuglx add 1xRada cấp 8 lydo: Mua từ cửa hàng at 03/12/2023 7:52 PM
+BAG:songokuglx add 1xRada cấp 8 lydo: Mua từ cửa hàng at 03/12/2023 7:52 PM
+BAG:songokuglx add 1xRada cấp 8 lydo: Mua từ cửa hàng at 03/12/2023 7:53 PM
+BAG:songokuglx add 1xRada cấp 8 lydo: Mua từ cửa hàng at 03/12/2023 7:53 PM
+BAG:songokuglx add 1xRada cấp 8 lydo: Mua từ cửa hàng at 03/12/2023 7:53 PM
+BAG:songokuglx add 1xRada cấp 8 lydo: Mua từ cửa hàng at 03/12/2023 7:53 PM
+BAG:songokuglx add 1xRada cấp 8 lydo: Mua từ cửa hàng at 03/12/2023 7:53 PM
+BAG:songokuglx add 1xRada cấp 8 lydo: Mua từ cửa hàng at 03/12/2023 7:53 PM
+BAG:songokuglx add 1xRada cấp 8 lydo: Mua từ cửa hàng at 03/12/2023 7:53 PM
+BAG:songokuglx add 1xRada cấp 8 lydo: Mua từ cửa hàng at 03/12/2023 7:53 PM
+BAG:songokuglx add 1xRada cấp 8 lydo: Mua từ cửa hàng at 03/12/2023 7:54 PM
+BAG:songokuglx add 1xRada cấp 8 lydo: Mua từ cửa hàng at 03/12/2023 7:54 PM
+BAG:songokuglx add 1xRada cấp 8 lydo: Mua từ cửa hàng at 03/12/2023 7:54 PM
+BAG:songokuglx add 1xRada cấp 8 lydo: Mua từ cửa hàng at 03/12/2023 7:54 PM
+BAG:songokuglx add 1xRada cấp 8 lydo: Mua từ cửa hàng at 03/12/2023 8:03 PM
+BAG:songokuglx add 1xRada cấp 8 lydo: Mua từ cửa hàng at 03/12/2023 8:03 PM
+BAG:songokuglx add 1xRada cấp 8 lydo: Mua từ cửa hàng at 03/12/2023 8:03 PM
+BAG:songokuglx add 1xRada cấp 8 lydo: Mua từ cửa hàng at 03/12/2023 8:03 PM
+BAG:songokuglx add 1xRada cấp 8 lydo: Mua từ cửa hàng at 03/12/2023 8:04 PM
+BAG:songokuglx add 1xRada cấp 8 lydo: Mua từ cửa hàng at 03/12/2023 8:04 PM
+BAG:songokuglx add 1xRada cấp 8 lydo: Mua từ cửa hàng at 03/12/2023 8:04 PM
+BAG:songokuglx add 1xRada cấp 8 lydo: Mua từ cửa hàng at 03/12/2023 8:04 PM
+BAG:songokuglx add 1xRada cấp 8 lydo: Mua từ cửa hàng at 03/12/2023 8:05 PM
+BAG:songokuglx add 1xRada cấp 8 lydo: Mua từ cửa hàng at 03/12/2023 8:05 PM
+BAG:songokuglx add 1xRada cấp 8 lydo: Mua từ cửa hàng at 03/12/2023 8:05 PM
+BAG:songokuglx add 1xRada cấp 8 lydo: Mua từ cửa hàng at 03/12/2023 8:05 PM
+BAG:songokuglx add 1xRada cấp 8 lydo: Mua từ cửa hàng at 03/12/2023 8:06 PM
+BAG:songokuglx add 1xRada cấp 8 lydo: Mua từ cửa hàng at 03/12/2023 8:06 PM
+BAG:songokuglx add 1xRada cấp 8 lydo: Mua từ cửa hàng at 03/12/2023 8:06 PM
+BAG:songokuglx add 1xRada cấp 8 lydo: Mua từ cửa hàng at 03/12/2023 8:06 PM
+BAG:songokuglx add 1xRada cấp 8 lydo: Mua từ cửa hàng at 03/12/2023 8:06 PM
+BAG:songokuglx add 1xRada cấp 8 lydo: Mua từ cửa hàng at 03/12/2023 8:06 PM
+BAG:songokuglx add 1xRada cấp 8 lydo: Mua từ cửa hàng at 03/12/2023 8:06 PM
+BAG:songokuglx add 1xRada cấp 8 lydo: Mua từ cửa hàng at 03/12/2023 8:06 PM
+BAG:songokuglx add 1xRada cấp 8 lydo: Mua từ cửa hàng at 03/12/2023 8:07 PM
+BAG:songokuglx add 1xRada cấp 8 lydo: Mua từ cửa hàng at 03/12/2023 8:07 PM
+BAG:songokuglx add 1xRada cấp 8 lydo: Mua từ cửa hàng at 03/12/2023 8:07 PM
+BAG:songokuglx add 1xRada cấp 7 lydo: Mua từ cửa hàng at 03/12/2023 8:07 PM
+BAG:songokuglx add 1xGăng vải Kame lydo: Mua từ cửa hàng at 03/12/2023 8:07 PM
+BAG:songokuglx add 1xGăng thun dày lydo: Mua từ cửa hàng at 03/12/2023 8:08 PM
+BAG:songokuglx add 1xGăng vải dày lydo: Mua từ cửa hàng at 03/12/2023 8:08 PM
+BAG:songokuglx add 1xGăng vải dày lydo: Mua từ cửa hàng at 03/12/2023 8:08 PM
+BAG:songokuglx add 1xGăng vải đen lydo: Mua từ cửa hàng at 03/12/2023 8:08 PM
+BAG:songokuglx add 1xÁo vải 3 lỗ lydo: Mua từ cửa hàng at 03/12/2023 8:18 PM
+BAG:songokuglx add 1xBông tai Porata lydo: Mua từ cửa hàng at 03/12/2023 8:19 PM
+BAG:songokuglx add 1xCân đẩu vân VIP lydo: Lấy từ rương qua người at 03/12/2023 8:20 PM
+BAG:songokuglx add 99xNgọc Rồng 3 sao lydo: Lấy từ rương qua người at 03/12/2023 8:20 PM
+BAG:songokuglx add 124xThỏi vàng (old: 25) lydo: Lấy từ rương qua người at 03/12/2023 8:20 PM
+BAG:songokuglx add 1xÁo vải 3 lỗ lydo: Lấy từ body vào hành trang at 03/12/2023 8:22 PM
+BAG:songokuglx add 1xQuần vải đen lydo: Lấy từ body vào hành trang at 03/12/2023 8:22 PM
+BAG:songokuglx add 1xGiầy nhựa lydo: Lấy từ body vào hành trang at 03/12/2023 8:22 PM
+BAG:songokuglx add 1xRada cấp 1 lydo: Lấy từ body vào hành trang at 03/12/2023 8:22 PM
+BAG:songokuglx add 1xCải Trang Thần Zeno Trái Đất lydo: Lấy từ body vào hành trang at 03/12/2023 8:22 PM
+BAG:songokuglx add 1xGăng vải đen lydo: Lấy từ body vào hành trang at 03/12/2023 8:41 PM
+BAG:songokuglx add 1xÁo vải 3 lỗ lydo: Lấy từ body vào hành trang at 03/12/2023 8:41 PM
+BAG:songokuglx add 1xĐá Saphia lydo: Nhặt từ map at 03/12/2023 8:54 PM
+BAG:songokuglx add 43xHoa hồng xanh (old: 42) lydo: Nhặt từ map at 03/12/2023 8:55 PM
+BAG:songokuglx add 26xHoa hồng vàng (old: 25) lydo: Nhặt từ map at 03/12/2023 8:55 PM
+BAG:songokuglx add 27xHoa hồng vàng (old: 26) lydo: Nhặt từ map at 03/12/2023 8:55 PM
+BAG:songokuglx add 44xHoa hồng xanh (old: 43) lydo: Nhặt từ map at 03/12/2023 8:55 PM
+BAG:songokuglx add 2xĐá Saphia (old: 1) lydo: Nhặt từ map at 03/12/2023 8:56 PM
+BAG:songokuglx add 28xHoa hồng vàng (old: 27) lydo: Nhặt từ map at 03/12/2023 8:56 PM
+BAG:songokuglx add 1xSách đấm Dragon lv2 lydo: Mua từ cửa hàng at 03/12/2023 8:56 PM
+BAG:songokuglx add 1xSách đấm Dragon lv3 lydo: Mua từ cửa hàng at 03/12/2023 8:56 PM
+BAG:songokuglx add 1xSách đấm Dragon lv4 lydo: Mua từ cửa hàng at 03/12/2023 8:56 PM
+BAG:songokuglx add 1xSách đấm Dragon lv5 lydo: Mua từ cửa hàng at 03/12/2023 8:56 PM
+BAG:songokuglx add 1xSách đấm Dragon lv6 lydo: Mua từ cửa hàng at 03/12/2023 8:56 PM
+BAG:songokuglx add 1xSách đấm Dragon lv7 lydo: Mua từ cửa hàng at 03/12/2023 8:56 PM
+BAG:songokuglx add 1xSách đấm Dragon lv2 lydo: Mua từ cửa hàng at 03/12/2023 8:57 PM
+BAG:songokuglx add 1xSách đấm Dragon lv3 lydo: Mua từ cửa hàng at 03/12/2023 8:57 PM
+BAG:songokuglx add 1xKaioken lv1 lydo: Mua từ cửa hàng at 03/12/2023 8:57 PM
+BAG:songokuglx add 1xKaioken lv2 lydo: Mua từ cửa hàng at 03/12/2023 8:57 PM
+BAG:songokuglx add 1xKaioken lv3 lydo: Mua từ cửa hàng at 03/12/2023 8:57 PM
+BAG:songokuglx add 1xKaioken lv4 lydo: Mua từ cửa hàng at 03/12/2023 8:58 PM
+BAG:songokuglx add 1xKaioken lv5 lydo: Mua từ cửa hàng at 03/12/2023 8:58 PM
+BAG:songokuglx add 1xKaioken lv6 lydo: Mua từ cửa hàng at 03/12/2023 8:58 PM
+BAG:songokuglx add 1xKaioken lv7 lydo: Mua từ cửa hàng at 03/12/2023 8:58 PM
+BAG:songokuglx add 1xKaioken lv1 lydo: Mua từ cửa hàng at 03/12/2023 8:59 PM
+BAG:songokuglx add 1xKaioken lv2 lydo: Mua từ cửa hàng at 03/12/2023 8:59 PM
+BAG:songokuglx add 1xKaioken lv3 lydo: Mua từ cửa hàng at 03/12/2023 8:59 PM
+BAG:songokuglx add 1xKaioken lv4 lydo: Mua từ cửa hàng at 03/12/2023 8:59 PM
+BAG:songokuglx add 1xKaioken lv5 lydo: Mua từ cửa hàng at 03/12/2023 8:59 PM
+BAG:songokuglx add 1xKaioken lv6 lydo: Mua từ cửa hàng at 03/12/2023 8:59 PM
+BAG:songokuglx add 1xKaioken lv7 lydo: Mua từ cửa hàng at 03/12/2023 8:59 PM
+BAG:songokuglx add 1xSách Kamejoko lv1 lydo: Mua từ cửa hàng at 03/12/2023 8:59 PM
+BAG:songokuglx add 1xSách Kamejoko lv2 lydo: Mua từ cửa hàng at 03/12/2023 8:59 PM
+BAG:songokuglx add 1xSách Kamejoko lv3 lydo: Mua từ cửa hàng at 03/12/2023 8:59 PM
+BAG:songokuglx add 1xSách Kamejoko lv4 lydo: Mua từ cửa hàng at 03/12/2023 8:59 PM
+BAG:songokuglx add 1xSách Kamejoko lv5 lydo: Mua từ cửa hàng at 03/12/2023 8:59 PM
+BAG:songokuglx add 1xSách Kamejoko lv6 lydo: Mua từ cửa hàng at 03/12/2023 8:59 PM
+BAG:songokuglx add 1xSách Kamejoko lv7 lydo: Mua từ cửa hàng at 03/12/2023 8:59 PM
+BAG:songokuglx add 1xThái Dương Hạ San lv1 lydo: Mua từ cửa hàng at 03/12/2023 9:00 PM
+BAG:songokuglx add 1xThái Dương Hạ San lv2 lydo: Mua từ cửa hàng at 03/12/2023 9:00 PM
+BAG:songokuglx add 1xThái Dương Hạ San lv3 lydo: Mua từ cửa hàng at 03/12/2023 9:00 PM
+BAG:songokuglx add 1xThái Dương Hạ San lv4 lydo: Mua từ cửa hàng at 03/12/2023 9:00 PM
+BAG:songokuglx add 1xThái Dương Hạ San lv5 lydo: Mua từ cửa hàng at 03/12/2023 9:00 PM
+BAG:songokuglx add 1xThái Dương Hạ San lv6 lydo: Mua từ cửa hàng at 03/12/2023 9:00 PM
+BAG:songokuglx add 1xThái Dương Hạ San lv7 lydo: Mua từ cửa hàng at 03/12/2023 9:00 PM
+BAG:songokuglx add 1xQuả cầu Kênh Khi lv1 lydo: Mua từ cửa hàng at 03/12/2023 9:00 PM
+BAG:songokuglx add 1xQuả cầu Kênh Khi lv2 lydo: Mua từ cửa hàng at 03/12/2023 9:01 PM
+BAG:songokuglx add 1xQuả cầu Kênh Khi lv3 lydo: Mua từ cửa hàng at 03/12/2023 9:01 PM
+BAG:songokuglx add 1xQuả cầu Kênh Khi lv4 lydo: Mua từ cửa hàng at 03/12/2023 9:01 PM
+BAG:songokuglx add 1xQuả cầu Kênh Khi lv5 lydo: Mua từ cửa hàng at 03/12/2023 9:01 PM
+BAG:songokuglx add 1xQuả cầu Kênh Khi lv6 lydo: Mua từ cửa hàng at 03/12/2023 9:01 PM
+BAG:songokuglx add 1xQuả cầu Kênh Khi lv7 lydo: Mua từ cửa hàng at 03/12/2023 9:01 PM
+BAG:songokuglx add 1xĐá Ruby lydo: Nhặt từ map at 03/12/2023 9:02 PM
+BAG:songokuglx add 29xHoa hồng vàng (old: 28) lydo: Nhặt từ map at 03/12/2023 9:02 PM
+BAG:songokuglx add 45xHoa hồng xanh (old: 44) lydo: Nhặt từ map at 03/12/2023 9:02 PM
+BAG:songokuglx add 30xHoa hồng vàng (old: 29) lydo: Nhặt từ map at 03/12/2023 9:02 PM
+BAG:songokuglx add 22xHoa hồng đỏ (old: 21) lydo: Nhặt từ map at 03/12/2023 9:02 PM
+BAG:songokuglx add 2xĐá Ruby (old: 1) lydo: Nhặt từ map at 03/12/2023 9:02 PM
+BAG:songokuglx add 31xHoa hồng vàng (old: 30) lydo: Nhặt từ map at 03/12/2023 9:02 PM
+BAG:songokuglx add 32xHoa hồng vàng (old: 31) lydo: Nhặt từ map at 03/12/2023 9:02 PM
+BAG:songokuglx add 23xHoa hồng đỏ (old: 22) lydo: Nhặt từ map at 03/12/2023 9:03 PM
+BAG:songokuglx add 46xHoa hồng xanh (old: 45) lydo: Nhặt từ map at 03/12/2023 9:03 PM
+BAG:songokuglx add 33xHoa hồng vàng (old: 32) lydo: Nhặt từ map at 03/12/2023 9:03 PM
+BAG:songokuglx add 34xHoa hồng vàng (old: 33) lydo: Nhặt từ map at 03/12/2023 9:03 PM
+BAG:songokuglx add 1xQuần vải đen lydo: Nhặt từ map at 03/12/2023 9:04 PM
+BAG:songokuglx add 1xRada cấp 1 lydo: Nhặt từ map at 03/12/2023 9:04 PM
+BAG:songokuglx add 1xGiầy nhựa lydo: Nhặt từ map at 03/12/2023 9:04 PM
+BAG:songokuglx add 1xQuần vải đen lydo: Nhặt từ map at 03/12/2023 9:04 PM
+BAG:songokuglx add 24xHoa hồng đỏ (old: 23) lydo: Nhặt từ map at 03/12/2023 9:05 PM
+BAG:songokuglx add 35xHoa hồng vàng (old: 34) lydo: Nhặt từ map at 03/12/2023 9:05 PM
+BAG:songokuglx add 3xĐá Saphia (old: 2) lydo: Nhặt từ map at 03/12/2023 9:05 PM
+BAG:songokuglx add 4xĐá Saphia (old: 3) lydo: Nhặt từ map at 03/12/2023 9:05 PM
+BAG:songokuglx add 36xHoa hồng vàng (old: 35) lydo: Nhặt từ map at 03/12/2023 9:05 PM
+BAG:songokuglx add 47xHoa hồng xanh (old: 46) lydo: Nhặt từ map at 03/12/2023 9:05 PM
+BAG:songokuglx add 37xHoa hồng vàng (old: 36) lydo: Nhặt từ map at 03/12/2023 9:05 PM
+BAG:songokuglx add 1xQuần vải đen lydo: Nhặt từ map at 03/12/2023 9:05 PM
+BAG:songokuglx add 1xQuần vải đen lydo: Nhặt từ map at 03/12/2023 9:05 PM
+BAG:songokuglx add 38xHoa hồng vàng (old: 37) lydo: Nhặt từ map at 03/12/2023 9:05 PM
+BAG:songokuglx add 1xQuần vải đen lydo: Nhặt từ map at 03/12/2023 9:06 PM
+BAG:songokuglx add 1xĐá Titan lydo: Nhặt từ map at 03/12/2023 9:06 PM
+BAG:songokuglx add 39xHoa hồng vàng (old: 38) lydo: Nhặt từ map at 03/12/2023 9:06 PM
+BAG:songokuglx add 40xHoa hồng vàng (old: 39) lydo: Nhặt từ map at 03/12/2023 9:06 PM
+BAG:songokuglx add 25xHoa hồng đỏ (old: 24) lydo: Nhặt từ map at 03/12/2023 9:06 PM
+BAG:songokuglx add 41xHoa hồng vàng (old: 40) lydo: Nhặt từ map at 03/12/2023 9:06 PM
+BAG:songokuglx add 42xHoa hồng vàng (old: 41) lydo: Nhặt từ map at 03/12/2023 9:06 PM
+BAG:songokuglx add 5xĐá Saphia (old: 4) lydo: Nhặt từ map at 03/12/2023 9:06 PM
+BAG:songokuglx add 48xHoa hồng xanh (old: 47) lydo: Nhặt từ map at 03/12/2023 9:07 PM
+BAG:songokuglx add 43xHoa hồng vàng (old: 42) lydo: Nhặt từ map at 03/12/2023 9:07 PM
+BAG:songokuglx add 26xHoa hồng đỏ (old: 25) lydo: Nhặt từ map at 03/12/2023 9:07 PM
+BAG:songokuglx add 44xHoa hồng vàng (old: 43) lydo: Nhặt từ map at 03/12/2023 9:07 PM
+BAG:songokuglx add 45xHoa hồng vàng (old: 44) lydo: Nhặt từ map at 03/12/2023 9:07 PM
+BAG:songokuglx add 46xHoa hồng vàng (old: 45) lydo: Nhặt từ map at 03/12/2023 9:08 PM
+BAG:songokuglx add 49xHoa hồng xanh (old: 48) lydo: Nhặt từ map at 03/12/2023 9:08 PM
+BAG:songokuglx add 47xHoa hồng vàng (old: 46) lydo: Nhặt từ map at 03/12/2023 9:08 PM
+BAG:songokuglx add 48xHoa hồng vàng (old: 47) lydo: Nhặt từ map at 03/12/2023 9:08 PM
+BAG:songokuglx add 27xHoa hồng đỏ (old: 26) lydo: Nhặt từ map at 03/12/2023 9:08 PM
+BAG:songokuglx add 28xHoa hồng đỏ (old: 27) lydo: Nhặt từ map at 03/12/2023 9:08 PM
+BAG:songokuglx add 29xHoa hồng đỏ (old: 28) lydo: Nhặt từ map at 03/12/2023 9:08 PM
+BAG:songokuglx add 30xHoa hồng đỏ (old: 29) lydo: Nhặt từ map at 03/12/2023 9:09 PM
+BAG:songokuglx add 31xHoa hồng đỏ (old: 30) lydo: Nhặt từ map at 03/12/2023 9:09 PM
+BAG:songokuglx add 32xHoa hồng đỏ (old: 31) lydo: Nhặt từ map at 03/12/2023 9:09 PM
+BAG:songokuglx add 49xHoa hồng vàng (old: 48) lydo: Nhặt từ map at 03/12/2023 9:09 PM
+BAG:songokuglx add 33xHoa hồng đỏ (old: 32) lydo: Nhặt từ map at 03/12/2023 9:09 PM
+BAG:songokuglx add 50xHoa hồng vàng (old: 49) lydo: Nhặt từ map at 03/12/2023 9:09 PM
+BAG:songokuglx add 50xHoa hồng xanh (old: 49) lydo: Nhặt từ map at 03/12/2023 9:09 PM
+BAG:songokuglx add 51xHoa hồng xanh (old: 50) lydo: Nhặt từ map at 03/12/2023 9:09 PM
+BAG:songokuglx add 51xHoa hồng vàng (old: 50) lydo: Nhặt từ map at 03/12/2023 9:09 PM
+BAG:songokuglx add 52xHoa hồng vàng (old: 51) lydo: Nhặt từ map at 03/12/2023 9:09 PM
+BAG:songokuglx add 34xHoa hồng đỏ (old: 33) lydo: Nhặt từ map at 03/12/2023 9:09 PM
+BAG:songokuglx add 3xĐá Ruby (old: 2) lydo: Nhặt từ map at 03/12/2023 9:09 PM
+BAG:songokuglx add 53xHoa hồng vàng (old: 52) lydo: Nhặt từ map at 03/12/2023 9:10 PM
+BAG:songokuglx add 6xĐá Saphia (old: 5) lydo: Nhặt từ map at 03/12/2023 9:10 PM
+BAG:songokuglx add 35xHoa hồng đỏ (old: 34) lydo: Nhặt từ map at 03/12/2023 9:10 PM
+BAG:songokuglx add 54xHoa hồng vàng (old: 53) lydo: Nhặt từ map at 03/12/2023 9:10 PM
+BAG:songokuglx add 55xHoa hồng vàng (old: 54) lydo: Nhặt từ map at 03/12/2023 9:10 PM
+BAG:songokuglx add 36xHoa hồng đỏ (old: 35) lydo: Nhặt từ map at 03/12/2023 9:10 PM
+BAG:songokuglx add 56xHoa hồng vàng (old: 55) lydo: Nhặt từ map at 03/12/2023 9:10 PM
+BAG:songokuglx add 2xĐá Titan (old: 1) lydo: Nhặt từ map at 03/12/2023 9:11 PM
+BAG:songokuglx add 57xHoa hồng vàng (old: 56) lydo: Nhặt từ map at 03/12/2023 9:11 PM
+BAG:songokuglx add 58xHoa hồng vàng (old: 57) lydo: Nhặt từ map at 03/12/2023 9:11 PM
+BAG:songokuglx add 52xHoa hồng xanh (old: 51) lydo: Nhặt từ map at 03/12/2023 9:11 PM
+BAG:songokuglx add 59xHoa hồng vàng (old: 58) lydo: Nhặt từ map at 03/12/2023 9:11 PM
+BAG:songokuglx add 60xHoa hồng vàng (old: 59) lydo: Nhặt từ map at 03/12/2023 9:11 PM
+BAG:songokuglx add 37xHoa hồng đỏ (old: 36) lydo: Nhặt từ map at 03/12/2023 9:11 PM
+BAG:songokuglx add 7xĐá Saphia (old: 6) lydo: Nhặt từ map at 03/12/2023 9:11 PM
+BAG:songokuglx add 61xHoa hồng vàng (old: 60) lydo: Nhặt từ map at 03/12/2023 9:12 PM
+BAG:songokuglx add 38xHoa hồng đỏ (old: 37) lydo: Nhặt từ map at 03/12/2023 9:12 PM
+BAG:songokuglx add 39xHoa hồng đỏ (old: 38) lydo: Nhặt từ map at 03/12/2023 9:12 PM
+BAG:songokuglx add 62xHoa hồng vàng (old: 61) lydo: Nhặt từ map at 03/12/2023 9:12 PM
+BAG:songokuglx add 63xHoa hồng vàng (old: 62) lydo: Nhặt từ map at 03/12/2023 9:12 PM
+BAG:songokuglx add 53xHoa hồng xanh (old: 52) lydo: Nhặt từ map at 03/12/2023 9:13 PM
+BAG:songokuglx add 54xHoa hồng xanh (old: 53) lydo: Nhặt từ map at 03/12/2023 9:13 PM
+BAG:songokuglx add 55xHoa hồng xanh (old: 54) lydo: Nhặt từ map at 03/12/2023 9:13 PM
+BAG:songokuglx add 40xHoa hồng đỏ (old: 39) lydo: Nhặt từ map at 03/12/2023 9:13 PM
+BAG:songokuglx add 64xHoa hồng vàng (old: 63) lydo: Nhặt từ map at 03/12/2023 9:13 PM
+BAG:songokuglx add 41xHoa hồng đỏ (old: 40) lydo: Nhặt từ map at 03/12/2023 9:14 PM
+BAG:songokuglx add 56xHoa hồng xanh (old: 55) lydo: Nhặt từ map at 03/12/2023 9:14 PM
+BAG:songokuglx add 42xHoa hồng đỏ (old: 41) lydo: Nhặt từ map at 03/12/2023 9:14 PM
+BAG:songokuglx add 43xHoa hồng đỏ (old: 42) lydo: Nhặt từ map at 03/12/2023 9:14 PM
+BAG:songokuglx add 57xHoa hồng xanh (old: 56) lydo: Nhặt từ map at 03/12/2023 9:14 PM
+BAG:songokuglx add 65xHoa hồng vàng (old: 64) lydo: Nhặt từ map at 03/12/2023 9:14 PM
+BAG:songokuglx add 8xĐá Saphia (old: 7) lydo: Nhặt từ map at 03/12/2023 9:15 PM
+BAG:songokuglx add 58xHoa hồng xanh (old: 57) lydo: Nhặt từ map at 03/12/2023 9:15 PM
+BAG:songokuglx add 59xHoa hồng xanh (old: 58) lydo: Nhặt từ map at 03/12/2023 9:15 PM
+BAG:songokuglx add 66xHoa hồng vàng (old: 65) lydo: Nhặt từ map at 03/12/2023 9:15 PM
+BAG:songokuglx add 67xHoa hồng vàng (old: 66) lydo: Nhặt từ map at 03/12/2023 9:15 PM
+BAG:songokuglx add 44xHoa hồng đỏ (old: 43) lydo: Nhặt từ map at 03/12/2023 9:15 PM
+BAG:songokuglx add 45xHoa hồng đỏ (old: 44) lydo: Nhặt từ map at 03/12/2023 9:15 PM
+BAG:songokuglx add 68xHoa hồng vàng (old: 67) lydo: Nhặt từ map at 03/12/2023 9:16 PM
+BAG:songokuglx add 46xHoa hồng đỏ (old: 45) lydo: Nhặt từ map at 03/12/2023 9:16 PM
+BAG:songokuglx add 69xHoa hồng vàng (old: 68) lydo: Nhặt từ map at 03/12/2023 9:16 PM
+BAG:songokuglx add 47xHoa hồng đỏ (old: 46) lydo: Nhặt từ map at 03/12/2023 9:16 PM
+BAG:songokuglx add 70xHoa hồng vàng (old: 69) lydo: Nhặt từ map at 03/12/2023 9:16 PM
+BAG:songokuglx add 71xHoa hồng vàng (old: 70) lydo: Nhặt từ map at 03/12/2023 9:16 PM
+BAG:songokuglx add 60xHoa hồng xanh (old: 59) lydo: Nhặt từ map at 03/12/2023 9:16 PM
+BAG:songokuglx add 61xHoa hồng xanh (old: 60) lydo: Nhặt từ map at 03/12/2023 9:17 PM
+BAG:songokuglx add 72xHoa hồng vàng (old: 71) lydo: Nhặt từ map at 03/12/2023 9:17 PM
+BAG:songokuglx add 3xĐá Titan (old: 2) lydo: Nhặt từ map at 03/12/2023 9:17 PM
+BAG:songokuglx add 48xHoa hồng đỏ (old: 47) lydo: Nhặt từ map at 03/12/2023 9:17 PM
+BAG:songokuglx add 73xHoa hồng vàng (old: 72) lydo: Nhặt từ map at 03/12/2023 9:17 PM
+BAG:songokuglx add 74xHoa hồng vàng (old: 73) lydo: Nhặt từ map at 03/12/2023 9:17 PM
+BAG:songokuglx add 75xHoa hồng vàng (old: 74) lydo: Nhặt từ map at 03/12/2023 9:17 PM
+BAG:songokuglx add 49xHoa hồng đỏ (old: 48) lydo: Nhặt từ map at 03/12/2023 9:17 PM
+BAG:songokuglx add 62xHoa hồng xanh (old: 61) lydo: Nhặt từ map at 03/12/2023 9:18 PM
+BAG:songokuglx add 63xHoa hồng xanh (old: 62) lydo: Nhặt từ map at 03/12/2023 9:18 PM
+BAG:songokuglx add 76xHoa hồng vàng (old: 75) lydo: Nhặt từ map at 03/12/2023 9:18 PM
+BAG:songokuglx add 50xHoa hồng đỏ (old: 49) lydo: Nhặt từ map at 03/12/2023 9:18 PM
+BAG:songokuglx add 64xHoa hồng xanh (old: 63) lydo: Nhặt từ map at 03/12/2023 9:18 PM
+BAG:songokuglx add 51xHoa hồng đỏ (old: 50) lydo: Nhặt từ map at 03/12/2023 9:19 PM
+BAG:songokuglx add 77xHoa hồng vàng (old: 76) lydo: Nhặt từ map at 03/12/2023 9:19 PM
+BAG:songokuglx add 78xHoa hồng vàng (old: 77) lydo: Nhặt từ map at 03/12/2023 9:19 PM
+BAG:songokuglx add 65xHoa hồng xanh (old: 64) lydo: Nhặt từ map at 03/12/2023 9:19 PM
+BAG:songokuglx add 52xHoa hồng đỏ (old: 51) lydo: Nhặt từ map at 03/12/2023 9:20 PM
+BAG:songokuglx add 79xHoa hồng vàng (old: 78) lydo: Nhặt từ map at 03/12/2023 9:20 PM
+BAG:songokuglx add 53xHoa hồng đỏ (old: 52) lydo: Nhặt từ map at 03/12/2023 9:20 PM
+BAG:songokuglx add 80xHoa hồng vàng (old: 79) lydo: Nhặt từ map at 03/12/2023 9:20 PM
+BAG:songokuglx add 54xHoa hồng đỏ (old: 53) lydo: Nhặt từ map at 03/12/2023 9:20 PM
+BAG:songokuglx add 55xHoa hồng đỏ (old: 54) lydo: Nhặt từ map at 03/12/2023 9:20 PM
+BAG:songokuglx add 81xHoa hồng vàng (old: 80) lydo: Nhặt từ map at 03/12/2023 9:21 PM
+BAG:songokuglx add 66xHoa hồng xanh (old: 65) lydo: Nhặt từ map at 03/12/2023 9:41 PM
+BAG:songokuglx add 67xHoa hồng xanh (old: 66) lydo: Nhặt từ map at 03/12/2023 9:41 PM
+BAG:songokuglx add 56xHoa hồng đỏ (old: 55) lydo: Nhặt từ map at 03/12/2023 9:41 PM
+BAG:songokuglx add 82xHoa hồng vàng (old: 81) lydo: Nhặt từ map at 03/12/2023 9:42 PM
+BAG:songokuglx add 9xĐá Saphia (old: 8) lydo: Nhặt từ map at 03/12/2023 9:42 PM
+BAG:songokuglx add 57xHoa hồng đỏ (old: 56) lydo: Nhặt từ map at 03/12/2023 9:42 PM
+BAG:songokuglx add 83xHoa hồng vàng (old: 82) lydo: Nhặt từ map at 03/12/2023 9:43 PM
+BAG:songokuglx add 4xĐá Ruby (old: 3) lydo: Nhặt từ map at 03/12/2023 9:43 PM
+BAG:songokuglx add 58xHoa hồng đỏ (old: 57) lydo: Nhặt từ map at 03/12/2023 9:43 PM
+BAG:songokuglx add 84xHoa hồng vàng (old: 83) lydo: Nhặt từ map at 03/12/2023 9:43 PM
+BAG:songokuglx add 68xHoa hồng xanh (old: 67) lydo: Nhặt từ map at 03/12/2023 9:43 PM
+BAG:songokuglx add 69xHoa hồng xanh (old: 68) lydo: Nhặt từ map at 03/12/2023 9:43 PM
+BAG:songokuglx add 59xHoa hồng đỏ (old: 58) lydo: Nhặt từ map at 03/12/2023 9:43 PM
+BAG:songokuglx add 60xHoa hồng đỏ (old: 59) lydo: Nhặt từ map at 03/12/2023 9:44 PM
+BAG:songokuglx add 70xHoa hồng xanh (old: 69) lydo: Nhặt từ map at 03/12/2023 9:44 PM
+BAG:songokuglx add 71xHoa hồng xanh (old: 70) lydo: Nhặt từ map at 03/12/2023 9:44 PM
+BAG:songokuglx add 85xHoa hồng vàng (old: 84) lydo: Nhặt từ map at 03/12/2023 9:44 PM
+BAG:songokuglx add 86xHoa hồng vàng (old: 85) lydo: Nhặt từ map at 03/12/2023 9:44 PM
+BAG:songokuglx add 87xHoa hồng vàng (old: 86) lydo: Nhặt từ map at 03/12/2023 9:45 PM
+BAG:songokuglx add 4xĐá Titan (old: 3) lydo: Nhặt từ map at 03/12/2023 9:45 PM
+BAG:songokuglx add 88xHoa hồng vàng (old: 87) lydo: Nhặt từ map at 03/12/2023 9:45 PM
+BAG:songokuglx add 72xHoa hồng xanh (old: 71) lydo: Nhặt từ map at 03/12/2023 9:45 PM
+BAG:songokuglx add 89xHoa hồng vàng (old: 88) lydo: Nhặt từ map at 03/12/2023 9:45 PM
+BAG:songokuglx add 90xHoa hồng vàng (old: 89) lydo: Nhặt từ map at 03/12/2023 9:45 PM
+BAG:songokuglx add 5xĐá Ruby (old: 4) lydo: Nhặt từ map at 03/12/2023 9:45 PM
+BAG:songokuglx add 91xHoa hồng vàng (old: 90) lydo: Nhặt từ map at 03/12/2023 9:46 PM
+BAG:songokuglx add 92xHoa hồng vàng (old: 91) lydo: Nhặt từ map at 03/12/2023 9:46 PM
+BAG:songokuglx add 73xHoa hồng xanh (old: 72) lydo: Nhặt từ map at 03/12/2023 9:46 PM
+BAG:songokuglx add 93xHoa hồng vàng (old: 92) lydo: Nhặt từ map at 03/12/2023 9:46 PM
+BAG:songokuglx add 74xHoa hồng xanh (old: 73) lydo: Nhặt từ map at 03/12/2023 9:46 PM
+BAG:songokuglx add 75xHoa hồng xanh (old: 74) lydo: Nhặt từ map at 03/12/2023 9:46 PM
+BAG:songokuglx add 61xHoa hồng đỏ (old: 60) lydo: Nhặt từ map at 03/12/2023 9:46 PM
+BAG:songokuglx add 94xHoa hồng vàng (old: 93) lydo: Nhặt từ map at 03/12/2023 9:46 PM
+BAG:songokuglx add 76xHoa hồng xanh (old: 75) lydo: Nhặt từ map at 03/12/2023 9:46 PM
+BAG:songokuglx add 95xHoa hồng vàng (old: 94) lydo: Nhặt từ map at 03/12/2023 9:47 PM
+BAG:songokuglx add 96xHoa hồng vàng (old: 95) lydo: Nhặt từ map at 03/12/2023 9:47 PM
+BAG:songokuglx add 77xHoa hồng xanh (old: 76) lydo: Nhặt từ map at 03/12/2023 9:47 PM
+BAG:songokuglx add 78xHoa hồng xanh (old: 77) lydo: Nhặt từ map at 03/12/2023 9:47 PM
+BAG:songokuglx add 62xHoa hồng đỏ (old: 61) lydo: Nhặt từ map at 03/12/2023 9:48 PM
+BAG:songokuglx add 63xHoa hồng đỏ (old: 62) lydo: Nhặt từ map at 03/12/2023 9:48 PM
+BAG:songokuglx add 97xHoa hồng vàng (old: 96) lydo: Nhặt từ map at 03/12/2023 9:48 PM
+BAG:songokuglx add 64xHoa hồng đỏ (old: 63) lydo: Nhặt từ map at 03/12/2023 9:48 PM
+BAG:songokuglx add 10xĐá Saphia (old: 9) lydo: Nhặt từ map at 03/12/2023 9:48 PM
+BAG:songokuglx add 65xHoa hồng đỏ (old: 64) lydo: Nhặt từ map at 03/12/2023 9:48 PM
+BAG:songokuglx add 98xHoa hồng vàng (old: 97) lydo: Nhặt từ map at 03/12/2023 9:48 PM
+BAG:songokuglx add 11xĐá Saphia (old: 10) lydo: Nhặt từ map at 03/12/2023 9:48 PM
+BAG:songokuglx add 66xHoa hồng đỏ (old: 65) lydo: Nhặt từ map at 03/12/2023 9:49 PM
+BAG:songokuglx add 99xHoa hồng vàng (old: 98) lydo: Nhặt từ map at 03/12/2023 9:49 PM
+BAG:songokuglx add 79xHoa hồng xanh (old: 78) lydo: Nhặt từ map at 03/12/2023 9:49 PM
+BAG:songokuglx add 100xHoa hồng vàng (old: 99) lydo: Nhặt từ map at 03/12/2023 9:49 PM
+BAG:songokuglx add 67xHoa hồng đỏ (old: 66) lydo: Nhặt từ map at 03/12/2023 9:50 PM
+BAG:songokuglx add 80xHoa hồng xanh (old: 79) lydo: Nhặt từ map at 03/12/2023 9:51 PM
+BAG:songokuglx add 81xHoa hồng xanh (old: 80) lydo: Nhặt từ map at 03/12/2023 9:51 PM
+BAG:songokuglx add 68xHoa hồng đỏ (old: 67) lydo: Nhặt từ map at 03/12/2023 9:51 PM
+BAG:songokuglx add 82xHoa hồng xanh (old: 81) lydo: Nhặt từ map at 03/12/2023 9:52 PM
+BAG:songokuglx add 5xĐá Titan (old: 4) lydo: Nhặt từ map at 03/12/2023 9:52 PM
+BAG:songokuglx add 101xHoa hồng vàng (old: 100) lydo: Nhặt từ map at 03/12/2023 9:52 PM
+BAG:songokuglx add 102xHoa hồng vàng (old: 101) lydo: Nhặt từ map at 03/12/2023 9:52 PM
+BAG:songokuglx add 69xHoa hồng đỏ (old: 68) lydo: Nhặt từ map at 03/12/2023 9:53 PM
+BAG:songokuglx add 103xHoa hồng vàng (old: 102) lydo: Nhặt từ map at 03/12/2023 9:53 PM
+BAG:songokuglx add 104xHoa hồng vàng (old: 103) lydo: Nhặt từ map at 03/12/2023 9:53 PM
+BAG:songokuglx add 83xHoa hồng xanh (old: 82) lydo: Nhặt từ map at 03/12/2023 9:53 PM
+BAG:songokuglx add 84xHoa hồng xanh (old: 83) lydo: Nhặt từ map at 03/12/2023 9:54 PM
+BAG:songokuglx add 6xĐá Titan (old: 5) lydo: Nhặt từ map at 03/12/2023 9:54 PM
+BAG:songokuglx add 105xHoa hồng vàng (old: 104) lydo: Nhặt từ map at 03/12/2023 9:54 PM
+BAG:songokuglx add 85xHoa hồng xanh (old: 84) lydo: Nhặt từ map at 03/12/2023 9:54 PM
+BAG:songokuglx add 86xHoa hồng xanh (old: 85) lydo: Nhặt từ map at 03/12/2023 9:54 PM
+BAG:songokuglx add 106xHoa hồng vàng (old: 105) lydo: Nhặt từ map at 03/12/2023 9:54 PM
+BAG:songokuglx add 70xHoa hồng đỏ (old: 69) lydo: Nhặt từ map at 03/12/2023 9:55 PM
+BAG:songokuglx add 87xHoa hồng xanh (old: 86) lydo: Nhặt từ map at 03/12/2023 9:55 PM
+BAG:songokuglx add 107xHoa hồng vàng (old: 106) lydo: Nhặt từ map at 03/12/2023 9:56 PM
+BAG:songokuglx add 108xHoa hồng vàng (old: 107) lydo: Nhặt từ map at 03/12/2023 9:56 PM
+BAG:songokuglx add 6xĐá Ruby (old: 5) lydo: Nhặt từ map at 03/12/2023 9:56 PM
+BAG:songokuglx add 88xHoa hồng xanh (old: 87) lydo: Nhặt từ map at 03/12/2023 9:57 PM
+BAG:songokuglx add 109xHoa hồng vàng (old: 108) lydo: Nhặt từ map at 03/12/2023 9:57 PM
+BAG:songokuglx add 110xHoa hồng vàng (old: 109) lydo: Nhặt từ map at 03/12/2023 9:57 PM
+BAG:songokuglx add 89xHoa hồng xanh (old: 88) lydo: Nhặt từ map at 03/12/2023 9:57 PM
+BAG:songokuglx add 71xHoa hồng đỏ (old: 70) lydo: Nhặt từ map at 03/12/2023 9:57 PM
+BAG:songokuglx add 72xHoa hồng đỏ (old: 71) lydo: Nhặt từ map at 03/12/2023 9:58 PM
+BAG:songokuglx add 73xHoa hồng đỏ (old: 72) lydo: Nhặt từ map at 03/12/2023 9:58 PM
+BAG:songokuglx add 12xĐá Saphia (old: 11) lydo: Nhặt từ map at 03/12/2023 9:58 PM
+BAG:songokuglx add 111xHoa hồng vàng (old: 110) lydo: Nhặt từ map at 03/12/2023 9:58 PM
+BAG:songokuglx add 74xHoa hồng đỏ (old: 73) lydo: Nhặt từ map at 03/12/2023 9:58 PM
+BAG:songokuglx add 112xHoa hồng vàng (old: 111) lydo: Nhặt từ map at 03/12/2023 9:58 PM
+BAG:songokuglx add 113xHoa hồng vàng (old: 112) lydo: Nhặt từ map at 03/12/2023 9:59 PM
+BAG:songokuglx add 7xĐá Titan (old: 6) lydo: Nhặt từ map at 03/12/2023 9:59 PM
+BAG:songokuglx add 90xHoa hồng xanh (old: 89) lydo: Nhặt từ map at 03/12/2023 10:00 PM
+BAG:songokuglx add 114xHoa hồng vàng (old: 113) lydo: Nhặt từ map at 03/12/2023 10:00 PM
+BAG:songokuglx add 75xHoa hồng đỏ (old: 74) lydo: Nhặt từ map at 03/12/2023 10:00 PM
+BAG:songokuglx add 115xHoa hồng vàng (old: 114) lydo: Nhặt từ map at 03/12/2023 10:00 PM
+BAG:songokuglx add 76xHoa hồng đỏ (old: 75) lydo: Nhặt từ map at 03/12/2023 10:01 PM
+BAG:songokuglx add 91xHoa hồng xanh (old: 90) lydo: Nhặt từ map at 03/12/2023 10:01 PM
+BAG:songokuglx add 116xHoa hồng vàng (old: 115) lydo: Nhặt từ map at 03/12/2023 10:01 PM
+BAG:songokuglx add 77xHoa hồng đỏ (old: 76) lydo: Nhặt từ map at 03/12/2023 10:02 PM
+BAG:songokuglx add 92xHoa hồng xanh (old: 91) lydo: Nhặt từ map at 03/12/2023 10:02 PM
+BAG:songokuglx add 93xHoa hồng xanh (old: 92) lydo: Nhặt từ map at 03/12/2023 10:02 PM
+BAG:songokuglx add 78xHoa hồng đỏ (old: 77) lydo: Nhặt từ map at 03/12/2023 10:02 PM
+BAG:songokuglx add 117xHoa hồng vàng (old: 116) lydo: Nhặt từ map at 03/12/2023 10:02 PM
+BAG:songokuglx add 94xHoa hồng xanh (old: 93) lydo: Nhặt từ map at 03/12/2023 10:03 PM
+BAG:songokuglx add 118xHoa hồng vàng (old: 117) lydo: Nhặt từ map at 03/12/2023 10:03 PM
+BAG:songokuglx add 95xHoa hồng xanh (old: 94) lydo: Nhặt từ map at 03/12/2023 10:03 PM
+BAG:songokuglx add 96xHoa hồng xanh (old: 95) lydo: Nhặt từ map at 03/12/2023 10:04 PM
+BAG:songokuglx add 119xHoa hồng vàng (old: 118) lydo: Nhặt từ map at 03/12/2023 10:04 PM
+BAG:songokuglx add 7xĐá Ruby (old: 6) lydo: Nhặt từ map at 03/12/2023 10:04 PM
+BAG:songokuglx add 79xHoa hồng đỏ (old: 78) lydo: Nhặt từ map at 03/12/2023 10:04 PM
+BAG:songokuglx add 120xHoa hồng vàng (old: 119) lydo: Nhặt từ map at 03/12/2023 10:04 PM
+BAG:songokuglx add 80xHoa hồng đỏ (old: 79) lydo: Nhặt từ map at 03/12/2023 10:04 PM
+BAG:songokuglx add 121xHoa hồng vàng (old: 120) lydo: Nhặt từ map at 03/12/2023 10:05 PM
+BAG:songokuglx add 122xHoa hồng vàng (old: 121) lydo: Nhặt từ map at 03/12/2023 10:05 PM
+BAG:songokuglx add 123xHoa hồng vàng (old: 122) lydo: Nhặt từ map at 03/12/2023 10:05 PM
+BAG:songokuglx add 81xHoa hồng đỏ (old: 80) lydo: Nhặt từ map at 03/12/2023 10:06 PM
+BAG:songokuglx add 97xHoa hồng xanh (old: 96) lydo: Nhặt từ map at 03/12/2023 10:06 PM
+BAG:songokuglx add 82xHoa hồng đỏ (old: 81) lydo: Nhặt từ map at 03/12/2023 10:06 PM
+BAG:songokuglx add 98xHoa hồng xanh (old: 97) lydo: Nhặt từ map at 03/12/2023 10:06 PM
+BAG:songokuglx add 99xHoa hồng xanh (old: 98) lydo: Nhặt từ map at 03/12/2023 10:07 PM
+BAG:songokuglx add 124xHoa hồng vàng (old: 123) lydo: Nhặt từ map at 03/12/2023 10:07 PM
+BAG:songokuglx add 125xHoa hồng vàng (old: 124) lydo: Nhặt từ map at 03/12/2023 10:07 PM
+BAG:songokuglx add 126xHoa hồng vàng (old: 125) lydo: Nhặt từ map at 03/12/2023 10:07 PM
+BAG:songokuglx add 83xHoa hồng đỏ (old: 82) lydo: Nhặt từ map at 03/12/2023 10:08 PM
+BAG:songokuglx add 8xĐá Ruby (old: 7) lydo: Nhặt từ map at 03/12/2023 10:08 PM
+BAG:songokuglx add 13xĐá Saphia (old: 12) lydo: Nhặt từ map at 03/12/2023 10:08 PM
+BAG:songokuglx add 84xHoa hồng đỏ (old: 83) lydo: Nhặt từ map at 03/12/2023 10:09 PM
+BAG:songokuglx add 127xHoa hồng vàng (old: 126) lydo: Nhặt từ map at 03/12/2023 10:09 PM
+BAG:songokuglx add 128xHoa hồng vàng (old: 127) lydo: Nhặt từ map at 03/12/2023 10:10 PM
+BAG:songokuglx add 9xĐá Ruby (old: 8) lydo: Nhặt từ map at 03/12/2023 10:10 PM
+BAG:songokuglx add 100xHoa hồng xanh (old: 99) lydo: Nhặt từ map at 03/12/2023 10:10 PM
+BAG:songokuglx add 129xHoa hồng vàng (old: 128) lydo: Nhặt từ map at 03/12/2023 10:10 PM
+BAG:songokuglx add 10xĐá Ruby (old: 9) lydo: Nhặt từ map at 03/12/2023 10:11 PM
+BAG:songokuglx add 130xHoa hồng vàng (old: 129) lydo: Nhặt từ map at 03/12/2023 10:11 PM
+BAG:songokuglx add 101xHoa hồng xanh (old: 100) lydo: Nhặt từ map at 03/12/2023 10:11 PM
+BAG:songokuglx add 131xHoa hồng vàng (old: 130) lydo: Nhặt từ map at 03/12/2023 10:11 PM
+BAG:songokuglx add 132xHoa hồng vàng (old: 131) lydo: Nhặt từ map at 03/12/2023 10:11 PM
+BAG:songokuglx add 8xĐá Titan (old: 7) lydo: Nhặt từ map at 03/12/2023 10:11 PM
+BAG:songokuglx add 102xHoa hồng xanh (old: 101) lydo: Nhặt từ map at 03/12/2023 10:11 PM
+BAG:songokuglx add 133xHoa hồng vàng (old: 132) lydo: Nhặt từ map at 03/12/2023 10:12 PM
+BAG:songokuglx add 134xHoa hồng vàng (old: 133) lydo: Nhặt từ map at 03/12/2023 10:12 PM
+BAG:songokuglx add 103xHoa hồng xanh (old: 102) lydo: Nhặt từ map at 03/12/2023 10:12 PM
+BAG:songokuglx add 11xĐá Ruby (old: 10) lydo: Nhặt từ map at 03/12/2023 10:12 PM
+BAG:songokuglx add 135xHoa hồng vàng (old: 134) lydo: Nhặt từ map at 03/12/2023 10:12 PM
+BAG:songokuglx add 104xHoa hồng xanh (old: 103) lydo: Nhặt từ map at 03/12/2023 10:12 PM
+BAG:songokuglx add 85xHoa hồng đỏ (old: 84) lydo: Nhặt từ map at 03/12/2023 10:13 PM
+BAG:songokuglx add 136xHoa hồng vàng (old: 135) lydo: Nhặt từ map at 03/12/2023 10:13 PM
+BAG:songokuglx add 105xHoa hồng xanh (old: 104) lydo: Nhặt từ map at 03/12/2023 10:13 PM
+BAG:songokuglx add 106xHoa hồng xanh (old: 105) lydo: Nhặt từ map at 03/12/2023 10:14 PM
+BAG:songokuglx add 86xHoa hồng đỏ (old: 85) lydo: Nhặt từ map at 03/12/2023 10:14 PM
+BAG:songokuglx add 137xHoa hồng vàng (old: 136) lydo: Nhặt từ map at 03/12/2023 10:14 PM
+BAG:songokuglx add 87xHoa hồng đỏ (old: 86) lydo: Nhặt từ map at 03/12/2023 10:14 PM
+BAG:songokuglx add 12xĐá Ruby (old: 11) lydo: Nhặt từ map at 03/12/2023 10:14 PM
+BAG:songokuglx add 107xHoa hồng xanh (old: 106) lydo: Nhặt từ map at 03/12/2023 10:14 PM
+BAG:songokuglx add 108xHoa hồng xanh (old: 107) lydo: Nhặt từ map at 03/12/2023 10:15 PM
+BAG:songokuglx add 1xĐá thạch anh tím lydo: Nhặt từ map at 03/12/2023 10:15 PM
+BAG:songokuglx add 138xHoa hồng vàng (old: 137) lydo: Nhặt từ map at 03/12/2023 10:15 PM
+BAG:songokuglx add 139xHoa hồng vàng (old: 138) lydo: Nhặt từ map at 03/12/2023 10:15 PM
+BAG:songokuglx add 88xHoa hồng đỏ (old: 87) lydo: Nhặt từ map at 03/12/2023 10:15 PM
+BAG:songokuglx add 109xHoa hồng xanh (old: 108) lydo: Nhặt từ map at 03/12/2023 10:16 PM
+BAG:songokuglx add 110xHoa hồng xanh (old: 109) lydo: Nhặt từ map at 03/12/2023 10:16 PM
+BAG:songokuglx add 111xHoa hồng xanh (old: 110) lydo: Nhặt từ map at 03/12/2023 10:16 PM
+BAG:songokuglx add 89xHoa hồng đỏ (old: 88) lydo: Nhặt từ map at 03/12/2023 10:16 PM
+BAG:songokuglx add 9xĐá Titan (old: 8) lydo: Nhặt từ map at 03/12/2023 10:16 PM
+BAG:songokuglx add 14xĐá Saphia (old: 13) lydo: Nhặt từ map at 03/12/2023 10:17 PM
+BAG:songokuglx add 112xHoa hồng xanh (old: 111) lydo: Nhặt từ map at 03/12/2023 10:17 PM
+BAG:songokuglx add 113xHoa hồng xanh (old: 112) lydo: Nhặt từ map at 03/12/2023 10:18 PM
+BAG:songokuglx add 140xHoa hồng vàng (old: 139) lydo: Nhặt từ map at 03/12/2023 10:18 PM
+BAG:songokuglx add 30xĐậu thần cấp 9 lydo: Mua từ cửa hàng at 03/12/2023 10:19 PM
+BAG:songokuglx add 60xĐậu thần cấp 9 (old: 30) lydo: Mua từ cửa hàng at 03/12/2023 10:19 PM
+BAG:songokuglx add 90xĐậu thần cấp 9 (old: 60) lydo: Mua từ cửa hàng at 03/12/2023 10:19 PM
+BAG:songokuglx add 1xQuỷ Chim lydo: Mua từ cửa hàng at 03/12/2023 10:20 PM
+BAG:songokuglx add 21xĐậu thần cấp 9 lydo: Mua từ cửa hàng at 03/12/2023 10:20 PM
+BAG:songokuglx add 99xĐậu thần cấp 9 (old: 90) lydo: Mua từ cửa hàng at 03/12/2023 10:20 PM
+BAG:songokuglx add 51xĐậu thần cấp 9 (old: 21) lydo: Mua từ cửa hàng at 03/12/2023 10:20 PM
+BAG:songokuglx add 81xĐậu thần cấp 9 (old: 51) lydo: Mua từ cửa hàng at 03/12/2023 10:20 PM
+BAG:songokuglx add 1xGiáp tập luyện cấp 3 lydo: Mua từ cửa hàng at 03/12/2023 10:21 PM
+BAG:songokuglx add 141xHoa hồng vàng (old: 140) lydo: Nhặt từ map at 03/12/2023 10:24 PM
+BAG:songokuglx add 1xĐá lục bảo lydo: Nhặt từ map at 03/12/2023 10:24 PM
+BAG:songokuglx add 142xHoa hồng vàng (old: 141) lydo: Nhặt từ map at 03/12/2023 10:24 PM
+BAG:songokuglx add 143xHoa hồng vàng (old: 142) lydo: Nhặt từ map at 03/12/2023 10:24 PM
+BAG:songokuglx add 144xHoa hồng vàng (old: 143) lydo: Nhặt từ map at 03/12/2023 10:25 PM
+BAG:songokuglx add 145xHoa hồng vàng (old: 144) lydo: Nhặt từ map at 03/12/2023 10:25 PM
+BAG:songokuglx add 146xHoa hồng vàng (old: 145) lydo: Nhặt từ map at 03/12/2023 10:25 PM
+BAG:songokuglx add 147xHoa hồng vàng (old: 146) lydo: Nhặt từ map at 03/12/2023 10:25 PM
+BAG:songokuglx add 148xHoa hồng vàng (old: 147) lydo: Nhặt từ map at 03/12/2023 10:25 PM
+BAG:songokuglx add 15xĐá Saphia (old: 14) lydo: Nhặt từ map at 03/12/2023 10:25 PM
+BAG:songokuglx add 149xHoa hồng vàng (old: 148) lydo: Nhặt từ map at 03/12/2023 10:26 PM
+BAG:songokuglx add 150xHoa hồng vàng (old: 149) lydo: Nhặt từ map at 03/12/2023 10:26 PM
+BAG:songokuglx add 16xĐá Saphia (old: 15) lydo: Nhặt từ map at 03/12/2023 10:26 PM
+BAG:songokuglx add 90xHoa hồng đỏ (old: 89) lydo: Nhặt từ map at 03/12/2023 10:26 PM
+BAG:songokuglx add 114xHoa hồng xanh (old: 113) lydo: Nhặt từ map at 03/12/2023 10:26 PM
+BAG:songokuglx add 151xHoa hồng vàng (old: 150) lydo: Nhặt từ map at 03/12/2023 10:27 PM
+BAG:songokuglx add 91xHoa hồng đỏ (old: 90) lydo: Nhặt từ map at 03/12/2023 10:27 PM
+BAG:songokuglx add 92xHoa hồng đỏ (old: 91) lydo: Nhặt từ map at 03/12/2023 10:27 PM
+BAG:songokuglx add 93xHoa hồng đỏ (old: 92) lydo: Nhặt từ map at 03/12/2023 10:27 PM
+BAG:songokuglx add 115xHoa hồng xanh (old: 114) lydo: Nhặt từ map at 03/12/2023 11:42 PM
+BAG:songokuglx add 116xHoa hồng xanh (old: 115) lydo: Nhặt từ map at 03/12/2023 11:42 PM
+BAG:songokuglx add 117xHoa hồng xanh (old: 116) lydo: Nhặt từ map at 03/12/2023 11:43 PM
+BAG:songokuglx add 13xĐá Ruby (old: 12) lydo: Nhặt từ map at 03/12/2023 11:43 PM
+BAG:songokuglx add 152xHoa hồng vàng (old: 151) lydo: Nhặt từ map at 03/12/2023 11:43 PM
+BAG:songokuglx add 118xHoa hồng xanh (old: 117) lydo: Nhặt từ map at 03/12/2023 11:43 PM
+BAG:songokuglx add 94xHoa hồng đỏ (old: 93) lydo: Nhặt từ map at 03/12/2023 11:43 PM
+BAG:songokuglx add 95xHoa hồng đỏ (old: 94) lydo: Nhặt từ map at 03/12/2023 11:44 PM
+BAG:songokuglx add 2xĐá thạch anh tím (old: 1) lydo: Nhặt từ map at 03/12/2023 11:44 PM
+BAG:songokuglx add 1xNgọc Rồng 4 sao lydo: Nhặt từ map at 03/12/2023 11:44 PM
+BAG:songokuglx add 119xHoa hồng xanh (old: 118) lydo: Nhặt từ map at 03/12/2023 11:44 PM
+BAG:songokuglx add 120xHoa hồng xanh (old: 119) lydo: Nhặt từ map at 03/12/2023 11:44 PM
+BAG:songokuglx add 96xHoa hồng đỏ (old: 95) lydo: Nhặt từ map at 03/12/2023 11:45 PM
+BAG:songokuglx add 97xHoa hồng đỏ (old: 96) lydo: Nhặt từ map at 03/12/2023 11:45 PM
+BAG:songokuglx add 153xHoa hồng vàng (old: 152) lydo: Nhặt từ map at 03/12/2023 11:45 PM
+BAG:songokuglx add 17xĐá Saphia (old: 16) lydo: Nhặt từ map at 03/12/2023 11:45 PM
+BAG:songokuglx add 154xHoa hồng vàng (old: 153) lydo: Nhặt từ map at 03/12/2023 11:46 PM
+BAG:songokuglx add 121xHoa hồng xanh (old: 120) lydo: Nhặt từ map at 03/12/2023 11:46 PM
+BAG:songokuglx add 122xHoa hồng xanh (old: 121) lydo: Nhặt từ map at 03/12/2023 11:46 PM
+BAG:songokuglx add 155xHoa hồng vàng (old: 154) lydo: Nhặt từ map at 03/12/2023 11:46 PM
+BAG:songokuglx add 2xĐá lục bảo (old: 1) lydo: Nhặt từ map at 03/12/2023 11:47 PM
+BAG:songokuglx add 98xHoa hồng đỏ (old: 97) lydo: Nhặt từ map at 03/12/2023 11:47 PM
+BAG:songokuglx add 156xHoa hồng vàng (old: 155) lydo: Nhặt từ map at 03/12/2023 11:47 PM
+BAG:songokuglx add 123xHoa hồng xanh (old: 122) lydo: Nhặt từ map at 03/12/2023 11:47 PM
+BAG:songokuglx add 18xĐá Saphia (old: 17) lydo: Nhặt từ map at 03/12/2023 11:47 PM
+BAG:songokuglx add 1xNgọc Rồng 5 sao lydo: Nhặt từ map at 03/12/2023 11:47 PM
+BAG:songokuglx add 19xĐá Saphia (old: 18) lydo: Nhặt từ map at 03/12/2023 11:48 PM
+BAG:songokuglx add 99xHoa hồng đỏ (old: 98) lydo: Nhặt từ map at 03/12/2023 11:48 PM
+BAG:songokuglx add 100xHoa hồng đỏ (old: 99) lydo: Nhặt từ map at 03/12/2023 11:48 PM
+BAG:songokuglx add 157xHoa hồng vàng (old: 156) lydo: Nhặt từ map at 03/12/2023 11:49 PM
+BAG:songokuglx add 124xHoa hồng xanh (old: 123) lydo: Nhặt từ map at 03/12/2023 11:49 PM
+BAG:songokuglx add 125xHoa hồng xanh (old: 124) lydo: Nhặt từ map at 03/12/2023 11:49 PM
+BAG:songokuglx add 101xHoa hồng đỏ (old: 100) lydo: Nhặt từ map at 03/12/2023 11:49 PM
+BAG:songokuglx add 10xĐá Titan (old: 9) lydo: Nhặt từ map at 03/12/2023 11:49 PM
+BAG:songokuglx add 102xHoa hồng đỏ (old: 101) lydo: Nhặt từ map at 03/12/2023 11:49 PM
+BAG:songokuglx add 126xHoa hồng xanh (old: 125) lydo: Nhặt từ map at 03/12/2023 11:49 PM
+BAG:songokuglx add 127xHoa hồng xanh (old: 126) lydo: Nhặt từ map at 03/12/2023 11:50 PM
+BAG:songokuglx add 158xHoa hồng vàng (old: 157) lydo: Nhặt từ map at 03/12/2023 11:50 PM
+BAG:songokuglx add 159xHoa hồng vàng (old: 158) lydo: Nhặt từ map at 03/12/2023 11:50 PM
+BAG:songokuglx add 128xHoa hồng xanh (old: 127) lydo: Nhặt từ map at 03/12/2023 11:50 PM
+BAG:songokuglx add 103xHoa hồng đỏ (old: 102) lydo: Nhặt từ map at 03/12/2023 11:50 PM
+BAG:songokuglx add 160xHoa hồng vàng (old: 159) lydo: Nhặt từ map at 03/12/2023 11:50 PM
+BAG:songokuglx add 14xĐá Ruby (old: 13) lydo: Nhặt từ map at 03/12/2023 11:51 PM
+BAG:songokuglx add 3xĐá lục bảo (old: 2) lydo: Nhặt từ map at 03/12/2023 11:51 PM
+BAG:songokuglx add 129xHoa hồng xanh (old: 128) lydo: Nhặt từ map at 03/12/2023 11:52 PM
+BAG:songokuglx add 20xĐá Saphia (old: 19) lydo: Nhặt từ map at 03/12/2023 11:52 PM
+BAG:songokuglx add 161xHoa hồng vàng (old: 160) lydo: Nhặt từ map at 03/12/2023 11:52 PM
+BAG:songokuglx add 162xHoa hồng vàng (old: 161) lydo: Nhặt từ map at 03/12/2023 11:53 PM
+BAG:songokuglx add 130xHoa hồng xanh (old: 129) lydo: Nhặt từ map at 03/12/2023 11:53 PM
+BAG:songokuglx add 3xĐá thạch anh tím (old: 2) lydo: Nhặt từ map at 03/12/2023 11:53 PM
+BAG:songokuglx add 4xĐá lục bảo (old: 3) lydo: Nhặt từ map at 03/12/2023 11:53 PM
+BAG:songokuglx add 15xĐá Ruby (old: 14) lydo: Nhặt từ map at 03/12/2023 11:53 PM
+BAG:songokuglx add 104xHoa hồng đỏ (old: 103) lydo: Nhặt từ map at 03/12/2023 11:54 PM
+BAG:songokuglx add 131xHoa hồng xanh (old: 130) lydo: Nhặt từ map at 03/12/2023 11:54 PM
+BAG:songokuglx add 163xHoa hồng vàng (old: 162) lydo: Nhặt từ map at 03/12/2023 11:54 PM
+BAG:songokuglx add 11xĐá Titan (old: 10) lydo: Nhặt từ map at 03/12/2023 11:54 PM
+BAG:songokuglx add 16xĐá Ruby (old: 15) lydo: Nhặt từ map at 03/12/2023 11:55 PM
+BAG:songokuglx add 164xHoa hồng vàng (old: 163) lydo: Nhặt từ map at 03/12/2023 11:55 PM
+BAG:songokuglx add 132xHoa hồng xanh (old: 131) lydo: Nhặt từ map at 03/12/2023 11:55 PM
+BAG:songokuglx add 4xĐá thạch anh tím (old: 3) lydo: Nhặt từ map at 03/12/2023 11:55 PM
+BAG:songokuglx add 2xNgọc Rồng 4 sao (old: 1) lydo: Nhặt từ map at 03/12/2023 11:56 PM
+BAG:songokuglx add 3xNgọc Rồng 4 sao (old: 2) lydo: Nhặt từ map at 03/12/2023 11:56 PM
+BAG:songokuglx add 133xHoa hồng xanh (old: 132) lydo: Nhặt từ map at 03/12/2023 11:56 PM
+BAG:songokuglx add 105xHoa hồng đỏ (old: 104) lydo: Nhặt từ map at 03/12/2023 11:56 PM
+BAG:songokuglx add 5xĐá lục bảo (old: 4) lydo: Nhặt từ map at 03/12/2023 11:57 PM
+BAG:songokuglx add 12xĐá Titan (old: 11) lydo: Nhặt từ map at 03/12/2023 11:57 PM
+BAG:songokuglx add 134xHoa hồng xanh (old: 133) lydo: Nhặt từ map at 03/12/2023 11:57 PM
+BAG:songokuglx add 165xHoa hồng vàng (old: 164) lydo: Nhặt từ map at 03/12/2023 11:57 PM
+BAG:songokuglx add 17xĐá Ruby (old: 16) lydo: Nhặt từ map at 03/12/2023 11:57 PM
+BAG:songokuglx add 106xHoa hồng đỏ (old: 105) lydo: Nhặt từ map at 03/12/2023 11:57 PM
+BAG:songokuglx add 166xHoa hồng vàng (old: 165) lydo: Nhặt từ map at 03/12/2023 11:57 PM
+BAG:songokuglx add 4xNgọc Rồng 4 sao (old: 3) lydo: Nhặt từ map at 03/12/2023 11:58 PM
+BAG:songokuglx add 135xHoa hồng xanh (old: 134) lydo: Nhặt từ map at 03/12/2023 11:58 PM
+BAG:songokuglx add 21xĐá Saphia (old: 20) lydo: Nhặt từ map at 03/12/2023 11:58 PM
+BAG:songokuglx add 167xHoa hồng vàng (old: 166) lydo: Nhặt từ map at 03/12/2023 11:58 PM
+BAG:songokuglx add 168xHoa hồng vàng (old: 167) lydo: Nhặt từ map at 03/12/2023 11:58 PM
+BAG:songokuglx add 136xHoa hồng xanh (old: 135) lydo: Nhặt từ map at 03/12/2023 11:58 PM
+BAG:songokuglx add 18xĐá Ruby (old: 17) lydo: Nhặt từ map at 03/12/2023 11:59 PM
+BAG:songokuglx add 169xHoa hồng vàng (old: 168) lydo: Nhặt từ map at 03/12/2023 11:59 PM
+BAG:songokuglx add 107xHoa hồng đỏ (old: 106) lydo: Nhặt từ map at 03/12/2023 11:59 PM
+BAG:songokuglx add 108xHoa hồng đỏ (old: 107) lydo: Nhặt từ map at 03/12/2023 11:59 PM

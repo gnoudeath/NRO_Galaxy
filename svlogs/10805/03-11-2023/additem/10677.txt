@@ -1,0 +1,77 @@
+BAG:senzukon add 150xThỏi vàng lydo: Giftcode at 03/11/2023 1:49 PM
+BAG:senzukon add 25xNgọc Rồng 3 sao lydo: Giftcode at 03/11/2023 1:49 PM
+BAG:senzukon add 99xNgọc Rồng 3 sao (old: 25) lydo: Giftcode at 03/11/2023 1:49 PM
+BAG:senzukon add 10xĐậu thần cấp 10 (old: 8) lydo: Thu hoạch đậu at 03/11/2023 2:10 PM
+BAG:senzukon add 30xĐậu thần cấp 10 (old: 10) lydo: Lấy từ rương qua người at 03/11/2023 2:11 PM
+BAG:senzukon add 44xĐậu thần cấp 10 (old: 30) lydo: Lấy từ rương qua người at 03/11/2023 2:11 PM
+BAG:senzukon add 1xHoa hồng xanh lydo: Nhặt từ map at 03/11/2023 2:39 PM
+BAG:senzukon add 1xĐá thạch anh tím lydo: Nhặt từ map at 03/11/2023 2:41 PM
+BAG:senzukon add 2xHoa hồng đỏ (old: 1) lydo: Nhặt từ map at 03/11/2023 2:42 PM
+BAG:senzukon add 2xHoa hồng xanh (old: 1) lydo: Nhặt từ map at 03/11/2023 2:43 PM
+BAG:senzukon add 3xHoa hồng xanh (old: 2) lydo: Nhặt từ map at 03/11/2023 2:47 PM
+BAG:senzukon add 1xHoa hồng vàng lydo: Nhặt từ map at 03/11/2023 2:47 PM
+BAG:senzukon add 1xĐá Saphia lydo: Nhặt từ map at 03/11/2023 2:47 PM
+BAG:senzukon add 2xHoa hồng vàng (old: 1) lydo: Nhặt từ map at 03/11/2023 2:49 PM
+BAG:senzukon add 3xHoa hồng vàng (old: 2) lydo: Nhặt từ map at 03/11/2023 2:50 PM
+BAG:senzukon add 4xHoa hồng vàng (old: 3) lydo: Nhặt từ map at 03/11/2023 2:52 PM
+BAG:senzukon add 4xHoa hồng xanh (old: 3) lydo: Nhặt từ map at 03/11/2023 2:53 PM
+BAG:senzukon add 5xHoa hồng xanh (old: 4) lydo: Nhặt từ map at 03/11/2023 2:54 PM
+BAG:senzukon add 3xHoa hồng đỏ (old: 2) lydo: Nhặt từ map at 03/11/2023 2:54 PM
+BAG:senzukon add 6xHoa hồng xanh (old: 5) lydo: Nhặt từ map at 03/11/2023 2:55 PM
+BAG:senzukon add 2xĐá thạch anh tím (old: 1) lydo: Nhặt từ map at 03/11/2023 2:57 PM
+BAG:senzukon add 1xNgọc Rồng 5 sao lydo: Nhặt từ map at 03/11/2023 2:58 PM
+BAG:senzukon add 1xNâng cấp kỹ năng 1 đệ tử lydo: Mua từ cửa hàng at 03/11/2023 3:01 PM
+BAG:senzukon add 2xNâng cấp kỹ năng 1 đệ tử (old: 1) lydo: Mua từ cửa hàng at 03/11/2023 3:01 PM
+BAG:senzukon add 7xHoa hồng xanh (old: 6) lydo: Nhặt từ map at 03/11/2023 3:02 PM
+BAG:senzukon add 1xCải Trang Thần Zeno Xayda lydo: Lấy từ body vào hành trang at 03/11/2023 3:02 PM
+BAG:senzukon add 8xHoa hồng xanh (old: 7) lydo: Nhặt từ map at 03/11/2023 3:02 PM
+BAG:senzukon add 1xNâng cấp kỹ năng 1 đệ tử lydo: Mua từ cửa hàng at 03/11/2023 3:03 PM
+BAG:senzukon add 2xNâng cấp kỹ năng 1 đệ tử (old: 1) lydo: Mua từ cửa hàng at 03/11/2023 3:03 PM
+BAG:senzukon add 3xNâng cấp kỹ năng 1 đệ tử (old: 2) lydo: Mua từ cửa hàng at 03/11/2023 3:03 PM
+BAG:senzukon add 4xNâng cấp kỹ năng 1 đệ tử (old: 3) lydo: Mua từ cửa hàng at 03/11/2023 3:04 PM
+BAG:senzukon add 4xHoa hồng đỏ (old: 3) lydo: Nhặt từ map at 03/11/2023 3:04 PM
+BAG:senzukon add 5xHoa hồng đỏ (old: 4) lydo: Nhặt từ map at 03/11/2023 3:04 PM
+BAG:senzukon add 1xĐá Titan lydo: Nhặt từ map at 03/11/2023 3:04 PM
+BAG:senzukon add 9xHoa hồng xanh (old: 8) lydo: Nhặt từ map at 03/11/2023 3:05 PM
+BAG:senzukon add 5xHoa hồng vàng (old: 4) lydo: Nhặt từ map at 03/11/2023 3:05 PM
+BAG:senzukon add 10xHoa hồng xanh (old: 9) lydo: Nhặt từ map at 03/11/2023 3:06 PM
+BAG:senzukon add 6xHoa hồng đỏ (old: 5) lydo: Nhặt từ map at 03/11/2023 3:06 PM
+BAG:senzukon add 6xHoa hồng vàng (old: 5) lydo: Nhặt từ map at 03/11/2023 3:07 PM
+BAG:senzukon add 7xHoa hồng vàng (old: 6) lydo: Nhặt từ map at 03/11/2023 3:07 PM
+BAG:senzukon add 7xHoa hồng đỏ (old: 6) lydo: Nhặt từ map at 03/11/2023 3:07 PM
+BAG:senzukon add 1xĐá lục bảo lydo: Nhặt từ map at 03/11/2023 3:08 PM
+BAG:senzukon add 8xHoa hồng vàng (old: 7) lydo: Nhặt từ map at 03/11/2023 3:08 PM
+BAG:senzukon add 11xHoa hồng xanh (old: 10) lydo: Nhặt từ map at 03/11/2023 3:09 PM
+BAG:senzukon add 12xHoa hồng xanh (old: 11) lydo: Nhặt từ map at 03/11/2023 3:09 PM
+BAG:senzukon add 3xĐá thạch anh tím (old: 2) lydo: Nhặt từ map at 03/11/2023 3:10 PM
+BAG:senzukon add 9xHoa hồng vàng (old: 8) lydo: Nhặt từ map at 03/11/2023 3:10 PM
+BAG:senzukon add 13xHoa hồng xanh (old: 12) lydo: Nhặt từ map at 03/11/2023 3:10 PM
+BAG:senzukon add 14xHoa hồng xanh (old: 13) lydo: Nhặt từ map at 03/11/2023 3:10 PM
+BAG:senzukon add 15xHoa hồng xanh (old: 14) lydo: Nhặt từ map at 03/11/2023 3:10 PM
+BAG:senzukon add 16xHoa hồng xanh (old: 15) lydo: Nhặt từ map at 03/11/2023 3:10 PM
+BAG:senzukon add 17xHoa hồng xanh (old: 16) lydo: Nhặt từ map at 03/11/2023 3:11 PM
+BAG:senzukon add 10xHoa hồng vàng (old: 9) lydo: Nhặt từ map at 03/11/2023 3:11 PM
+BAG:senzukon add 18xHoa hồng xanh (old: 17) lydo: Nhặt từ map at 03/11/2023 3:11 PM
+BAG:senzukon add 2xĐá Titan (old: 1) lydo: Nhặt từ map at 03/11/2023 3:11 PM
+BAG:senzukon add 19xHoa hồng xanh (old: 18) lydo: Nhặt từ map at 03/11/2023 3:12 PM
+BAG:senzukon add 11xHoa hồng vàng (old: 10) lydo: Nhặt từ map at 03/11/2023 3:12 PM
+BAG:senzukon add 3xĐá Titan (old: 2) lydo: Nhặt từ map at 03/11/2023 3:12 PM
+BAG:senzukon add 1xĐá Ruby lydo: Nhặt từ map at 03/11/2023 3:12 PM
+BAG:senzukon add 8xHoa hồng đỏ (old: 7) lydo: Nhặt từ map at 03/11/2023 3:12 PM
+BAG:senzukon add 12xHoa hồng vàng (old: 11) lydo: Nhặt từ map at 03/11/2023 3:13 PM
+BAG:senzukon add 4xĐá Titan (old: 3) lydo: Nhặt từ map at 03/11/2023 3:13 PM
+BAG:senzukon add 13xHoa hồng vàng (old: 12) lydo: Nhặt từ map at 03/11/2023 3:13 PM
+BAG:senzukon add 20xHoa hồng xanh (old: 19) lydo: Nhặt từ map at 03/11/2023 3:13 PM
+BAG:senzukon add 9xHoa hồng đỏ (old: 8) lydo: Nhặt từ map at 03/11/2023 3:13 PM
+BAG:senzukon add 14xHoa hồng vàng (old: 13) lydo: Nhặt từ map at 03/11/2023 3:13 PM
+BAG:senzukon add 10xHoa hồng đỏ (old: 9) lydo: Nhặt từ map at 03/11/2023 3:13 PM
+BAG:senzukon add 15xHoa hồng vàng (old: 14) lydo: Nhặt từ map at 03/11/2023 3:13 PM
+BAG:senzukon add 16xHoa hồng vàng (old: 15) lydo: Nhặt từ map at 03/11/2023 3:13 PM
+BAG:senzukon add 2xĐá Saphia (old: 1) lydo: Nhặt từ map at 03/11/2023 3:13 PM
+BAG:senzukon add 5xĐá Titan (old: 4) lydo: Nhặt từ map at 03/11/2023 3:14 PM
+BAG:senzukon add 21xHoa hồng xanh (old: 20) lydo: Nhặt từ map at 03/11/2023 3:14 PM
+BAG:senzukon add 1xMảnh Quỷ đất lydo: Nhặt từ map at 03/11/2023 3:14 PM
+BAG:senzukon add 17xHoa hồng vàng (old: 16) lydo: Nhặt từ map at 03/11/2023 3:15 PM
+BAG:senzukon add 22xHoa hồng xanh (old: 21) lydo: Nhặt từ map at 03/11/2023 3:20 PM
+BAG:senzukon add 18xHoa hồng vàng (old: 17) lydo: Nhặt từ map at 03/11/2023 3:20 PM
+BAG:senzukon add 23xHoa hồng xanh (old: 22) lydo: Nhặt từ map at 03/11/2023 3:21 PM

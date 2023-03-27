@@ -1,0 +1,50 @@
+BAG:trumpksv add 5xĐậu thần cấp 1 lydo: Thu hoạch đậu at 03/11/2023 10:57 AM
+BAG:trumpksv add 14xHoa hồng đỏ (old: 13) lydo: Nhặt từ map at 03/11/2023 10:57 AM
+BAG:trumpksv add 1xRada cấp 1 lydo: Nhặt từ map at 03/11/2023 10:57 AM
+BAG:trumpksv add 1xRada cấp 1 lydo: Nhặt từ map at 03/11/2023 10:57 AM
+BAG:trumpksv add 15xHoa hồng đỏ (old: 14) lydo: Nhặt từ map at 03/11/2023 11:00 AM
+BAG:trumpksv add 1xĐá Saphia lydo: Nhặt từ map at 03/11/2023 11:00 AM
+BAG:trumpksv add 8xHoa hồng xanh (old: 7) lydo: Nhặt từ map at 03/11/2023 11:01 AM
+BAG:trumpksv add 14xHoa hồng vàng (old: 13) lydo: Nhặt từ map at 03/11/2023 11:01 AM
+BAG:trumpksv add 9xHoa hồng xanh (old: 8) lydo: Nhặt từ map at 03/11/2023 11:01 AM
+BAG:trumpksv add 3xMảnh Lợn lòi (old: 2) lydo: Nhặt từ map at 03/11/2023 11:01 AM
+BAG:trumpksv add 10xHoa hồng xanh (old: 9) lydo: Nhặt từ map at 03/11/2023 11:01 AM
+BAG:trumpksv add 11xHoa hồng xanh (old: 10) lydo: Nhặt từ map at 03/11/2023 11:01 AM
+BAG:trumpksv add 15xHoa hồng vàng (old: 14) lydo: Nhặt từ map at 03/11/2023 11:01 AM
+BAG:trumpksv add 1xĐá Ruby lydo: Nhặt từ map at 03/11/2023 11:02 AM
+BAG:trumpksv add 16xHoa hồng vàng (old: 15) lydo: Nhặt từ map at 03/11/2023 11:02 AM
+BAG:trumpksv add 16xHoa hồng đỏ (old: 15) lydo: Nhặt từ map at 03/11/2023 11:02 AM
+BAG:trumpksv add 1xAvatar lydo: Lấy từ body vào hành trang at 03/11/2023 11:02 AM
+BAG:trumpksv add 8xĐậu thần cấp 1 (old: 5) lydo: Thu hoạch đậu at 03/11/2023 11:03 AM
+BAG:trumpksv add 1xViên Capsule đặc biệt lydo: Mua từ cửa hàng at 03/11/2023 11:04 AM
+BAG:trumpksv add 17xHoa hồng đỏ (old: 16) lydo: Nhặt từ map at 03/11/2023 11:04 AM
+BAG:trumpksv add 17xHoa hồng vàng (old: 16) lydo: Nhặt từ map at 03/11/2023 11:04 AM
+BAG:trumpksv add 1xQuần sợi len lydo: Nhặt từ map at 03/11/2023 11:04 AM
+BAG:trumpksv add 1xGiầy sợi len lydo: Nhặt từ map at 03/11/2023 11:05 AM
+BAG:trumpksv add 2xĐá Titan (old: 1) lydo: Nhặt từ map at 03/11/2023 11:05 AM
+BAG:trumpksv add 1xĐá lục bảo lydo: Nhặt từ map at 03/11/2023 11:05 AM
+BAG:trumpksv add 18xHoa hồng vàng (old: 17) lydo: Nhặt từ map at 03/11/2023 11:06 AM
+BAG:trumpksv add 1xĐậu thần cấp 10 lydo: Clan cho đậu at 03/11/2023 1:57 PM
+BAG:trumpksv add 2xĐậu thần cấp 10 (old: 1) lydo: Clan cho đậu at 03/11/2023 1:57 PM
+BAG:trumpksv add 3xĐậu thần cấp 10 (old: 2) lydo: Clan cho đậu at 03/11/2023 1:57 PM
+BAG:trumpksv add 4xĐậu thần cấp 10 (old: 3) lydo: Clan cho đậu at 03/11/2023 1:57 PM
+BAG:trumpksv add 5xĐậu thần cấp 10 (old: 4) lydo: Clan cho đậu at 03/11/2023 1:57 PM
+BAG:trumpksv add 1xNgọc Rồng 2 sao lydo: Nhập ngọc at 03/11/2023 1:58 PM
+BAG:trumpksv add 2xNgọc Rồng 2 sao (old: 1) lydo: Nhập ngọc at 03/11/2023 1:59 PM
+BAG:trumpksv add 3xNgọc Rồng 2 sao (old: 2) lydo: Nhập ngọc at 03/11/2023 1:59 PM
+BAG:trumpksv add 4xNgọc Rồng 2 sao (old: 3) lydo: Nhập ngọc at 03/11/2023 1:59 PM
+BAG:trumpksv add 5xNgọc Rồng 2 sao (old: 4) lydo: Nhập ngọc at 03/11/2023 1:59 PM
+BAG:trumpksv add 6xNgọc Rồng 2 sao (old: 5) lydo: Nhập ngọc at 03/11/2023 1:59 PM
+BAG:trumpksv add 7xNgọc Rồng 2 sao (old: 6) lydo: Nhập ngọc at 03/11/2023 1:59 PM
+BAG:trumpksv add 19xHoa hồng vàng (old: 18) lydo: Nhặt từ map at 03/11/2023 2:04 PM
+BAG:trumpksv add 20xHoa hồng vàng (old: 19) lydo: Nhặt từ map at 03/11/2023 2:05 PM
+BAG:trumpksv add 2xĐá Ruby (old: 1) lydo: Nhặt từ map at 03/11/2023 2:05 PM
+BAG:trumpksv add 2xĐá Saphia (old: 1) lydo: Nhặt từ map at 03/11/2023 2:05 PM
+BAG:trumpksv add 12xHoa hồng xanh (old: 11) lydo: Nhặt từ map at 03/11/2023 2:06 PM
+BAG:trumpksv add 13xHoa hồng xanh (old: 12) lydo: Nhặt từ map at 03/11/2023 2:06 PM
+BAG:trumpksv add 14xHoa hồng xanh (old: 13) lydo: Nhặt từ map at 03/11/2023 2:06 PM
+BAG:trumpksv add 15xHoa hồng xanh (old: 14) lydo: Nhặt từ map at 03/11/2023 2:08 PM
+BAG:trumpksv add 1xNâng cấp kỹ năng 1 đệ tử lydo: Mua từ cửa hàng at 03/11/2023 2:09 PM
+BAG:trumpksv add 21xHoa hồng vàng (old: 20) lydo: Nhặt từ map at 03/11/2023 2:12 PM
+BAG:trumpksv add 1xAvatar lydo: Lấy từ body vào hành trang at 03/11/2023 2:12 PM
+BAG:trumpksv add 1xHoa hồng đỏ lydo: Nhặt từ map at 03/11/2023 2:14 PM

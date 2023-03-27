@@ -1,0 +1,352 @@
+BAG:digiok remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/11/2023 7:45 AM
+BAG:digiok remove 1xNâng cấp kỹ năng 3 đệ tử lydo: Dùng sách kĩ năng đệ tử at 03/11/2023 7:54 AM
+BAG:digiok remove 1xNâng cấp kỹ năng 3 đệ tử lydo: Dùng sách kĩ năng đệ tử at 03/11/2023 7:59 AM
+BAG:digiok remove 1xNâng cấp kỹ năng 3 đệ tử lydo: Dùng sách kĩ năng đệ tử at 03/11/2023 8:00 AM
+BAG:digiok remove 1xNâng cấp kỹ năng 3 đệ tử lydo: Dùng sách kĩ năng đệ tử at 03/11/2023 8:00 AM
+BAG:digiok remove Đổi đệ tử lydo: Tự Xóa vật phẩm at 03/11/2023 8:00 AM
+BAG:digiok remove Nâng cấp kỹ năng 1 đệ tử lydo: Tự Xóa vật phẩm at 03/11/2023 8:00 AM
+BAG:digiok remove 1xNâng cấp kỹ năng 3 đệ tử lydo: Dùng sách kĩ năng đệ tử at 03/11/2023 8:00 AM
+BAG:digiok remove 1xNâng cấp kỹ năng 3 đệ tử lydo: Dùng sách kĩ năng đệ tử at 03/11/2023 8:00 AM
+BAG:digiok remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/11/2023 8:44 AM
+BAG:digiok remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/11/2023 8:55 AM
+BAG:digiok remove Găng bạc Goku lydo: Mặc vào người at 03/11/2023 8:59 AM
+BAG:digiok remove Găng vải đen lydo: Tự Xóa vật phẩm at 03/11/2023 9:00 AM
+BAG:digiok remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/11/2023 9:01 AM
+BAG:digiok remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/11/2023 9:12 AM
+BAG:digiok remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/11/2023 9:15 AM
+BAG:digiok remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/11/2023 9:21 AM
+BAG:digiok remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/11/2023 9:25 AM
+BAG:digiok remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/11/2023 9:30 AM
+BAG:digiok remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/11/2023 9:37 AM
+BAG:digiok remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/11/2023 9:39 AM
+BAG:digiok remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/11/2023 9:46 AM
+BAG:digiok remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/11/2023 9:53 AM
+BAG:digiok remove 10xHoa hồng đỏ lydo: Đổi hoa at 03/11/2023 10:04 AM
+BAG:digiok remove 10xHoa hồng đỏ lydo: Đổi hoa at 03/11/2023 10:04 AM
+BAG:digiok remove 10xHoa hồng đỏ lydo: Đổi hoa at 03/11/2023 10:04 AM
+BAG:digiok remove 10xHoa hồng đỏ lydo: Đổi hoa at 03/11/2023 10:04 AM
+BAG:digiok remove 10xHoa hồng đỏ lydo: Đổi hoa at 03/11/2023 10:04 AM
+BAG:digiok remove 10xHoa hồng đỏ lydo: Đổi hoa at 03/11/2023 10:04 AM
+BAG:digiok remove 10xHoa hồng đỏ lydo: Đổi hoa at 03/11/2023 10:04 AM
+BAG:digiok remove 10xHoa hồng đỏ lydo: Đổi hoa at 03/11/2023 10:04 AM
+BAG:digiok remove 10xHoa hồng đỏ lydo: Đổi hoa at 03/11/2023 10:04 AM
+BAG:digiok remove Đá Saphia lydo: Tự Xóa vật phẩm at 03/11/2023 10:05 AM
+BAG:digiok remove Nâng cấp kỹ năng 2 đệ tử lydo: Tự Xóa vật phẩm at 03/11/2023 10:05 AM
+BAG:digiok remove 1xThỏi vàng lydo: Bán cho shop at 03/11/2023 10:05 AM
+BAG:digiok remove 1xThỏi vàng lydo: Bán cho shop at 03/11/2023 10:05 AM
+BAG:digiok remove 10xHoa hồng đỏ lydo: Đổi hoa at 03/11/2023 10:05 AM
+BAG:digiok remove 2xThỏi vàng lydo: Mua đồ hủy diệt at 03/11/2023 10:05 AM
+BAG:digiok remove 2xThỏi vàng lydo: Mua đồ hủy diệt at 03/11/2023 10:05 AM
+BAG:digiok remove 2xThỏi vàng lydo: Mua đồ hủy diệt at 03/11/2023 10:05 AM
+BAG:digiok remove 10xBó hoa hồng đỏ lydo: Đổi hoa at 03/11/2023 10:05 AM
+BAG:digiok remove 1xGiỏ hoa lydo: Đổi hoa at 03/11/2023 10:05 AM
+BAG:digiok remove 10xHoa hồng xanh lydo: Đổi hoa at 03/11/2023 10:06 AM
+BAG:digiok remove 10xHoa hồng xanh lydo: Đổi hoa at 03/11/2023 10:06 AM
+BAG:digiok remove 10xHoa hồng xanh lydo: Đổi hoa at 03/11/2023 10:06 AM
+BAG:digiok remove 10xHoa hồng xanh lydo: Đổi hoa at 03/11/2023 10:06 AM
+BAG:digiok remove 10xHoa hồng xanh lydo: Đổi hoa at 03/11/2023 10:06 AM
+BAG:digiok remove 10xHoa hồng xanh lydo: Đổi hoa at 03/11/2023 10:06 AM
+BAG:digiok remove 10xHoa hồng xanh lydo: Đổi hoa at 03/11/2023 10:06 AM
+BAG:digiok remove 10xHoa hồng xanh lydo: Đổi hoa at 03/11/2023 10:06 AM
+BAG:digiok remove 10xHoa hồng xanh lydo: Đổi hoa at 03/11/2023 10:06 AM
+BAG:digiok remove 10xHoa hồng xanh lydo: Đổi hoa at 03/11/2023 10:06 AM
+BAG:digiok remove 10xHoa hồng vàng lydo: Đổi hoa at 03/11/2023 10:06 AM
+BAG:digiok remove Đá Titan lydo: Tự Xóa vật phẩm at 03/11/2023 10:06 AM
+BAG:digiok remove Đá Ruby lydo: Tự Xóa vật phẩm at 03/11/2023 10:06 AM
+BAG:digiok remove Ngọc Rồng 6 sao lydo: Tự Xóa vật phẩm at 03/11/2023 10:06 AM
+BAG:digiok remove 10xBó hoa hồng xanh lydo: Đổi hoa at 03/11/2023 10:06 AM
+BAG:digiok remove 1xGiỏ hoa lydo: Đổi hoa at 03/11/2023 10:06 AM
+BAG:digiok remove 10xHoa hồng vàng lydo: Đổi hoa at 03/11/2023 10:06 AM
+BAG:digiok remove 10xHoa hồng vàng lydo: Đổi hoa at 03/11/2023 10:06 AM
+BAG:digiok remove 10xHoa hồng vàng lydo: Đổi hoa at 03/11/2023 10:06 AM
+BAG:digiok remove 10xHoa hồng vàng lydo: Đổi hoa at 03/11/2023 10:06 AM
+BAG:digiok remove 10xHoa hồng vàng lydo: Đổi hoa at 03/11/2023 10:06 AM
+BAG:digiok remove 10xHoa hồng vàng lydo: Đổi hoa at 03/11/2023 10:06 AM
+BAG:digiok remove 1xThỏi vàng lydo: Bán cho shop at 03/11/2023 10:07 AM
+BAG:digiok remove 1xThỏi vàng lydo: Bán cho shop at 03/11/2023 10:07 AM
+BAG:digiok remove 1xThỏi vàng lydo: Bán cho shop at 03/11/2023 10:07 AM
+BAG:digiok remove 10xHoa hồng vàng lydo: Đổi hoa at 03/11/2023 10:07 AM
+BAG:digiok remove 10xHoa hồng vàng lydo: Đổi hoa at 03/11/2023 10:07 AM
+BAG:digiok remove 10xHoa hồng vàng lydo: Đổi hoa at 03/11/2023 10:07 AM
+BAG:digiok remove 10xBó hoa hồng vàng lydo: Đổi hoa at 03/11/2023 10:07 AM
+BAG:digiok remove 1xGiỏ hoa lydo: Đổi hoa at 03/11/2023 10:07 AM
+BAG:digiok remove 1xGiỏ hoa hồng đỏ lydo: Đổi quà at 03/11/2023 10:07 AM
+BAG:digiok remove 1xGiỏ hoa hồng xanh lydo: Đổi quà at 03/11/2023 10:07 AM
+BAG:digiok remove 1xGiỏ hoa hồng vàng lydo: Đổi quà at 03/11/2023 10:07 AM
+BAG:digiok remove 1xHộp quà 8/3 lydo: CSKB at 03/11/2023 10:07 AM
+BAG:digiok remove Đá bảo vệ lydo: Tự Xóa vật phẩm at 03/11/2023 10:08 AM
+BAG:digiok remove 1xGăng vải Kame lydo: Bán cho shop at 03/11/2023 10:10 AM
+BAG:digiok remove 1xGăng võ goku lydo: Bán cho shop at 03/11/2023 10:10 AM
+BAG:digiok remove 1xGăng thun Kame lydo: Bán cho shop at 03/11/2023 10:10 AM
+BAG:digiok remove 1xThỏi vàng lydo: Bán cho shop at 03/11/2023 10:10 AM
+BAG:digiok remove 1xThỏi vàng lydo: Bán cho shop at 03/11/2023 10:10 AM
+BAG:digiok remove 1xThỏi vàng lydo: Bán cho shop at 03/11/2023 10:10 AM
+BAG:digiok remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 03/11/2023 10:11 AM
+BAG:digiok remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 03/11/2023 10:11 AM
+BAG:digiok remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 03/11/2023 10:11 AM
+BAG:digiok remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 03/11/2023 10:11 AM
+BAG:digiok remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 03/11/2023 10:11 AM
+BAG:digiok remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 03/11/2023 10:11 AM
+BAG:digiok remove Găng vàng Goku lydo: Tự Xóa vật phẩm at 03/11/2023 10:12 AM
+BAG:digiok remove Găng bạc Goku lydo: Tự Xóa vật phẩm at 03/11/2023 10:12 AM
+BAG:digiok remove Sách Thôi Miên lv1 lydo: Tự Xóa vật phẩm at 03/11/2023 10:22 AM
+BAG:digiok remove Sách Thôi Miên lv2 lydo: Tự Xóa vật phẩm at 03/11/2023 10:22 AM
+BAG:digiok remove Sách Thôi Miên lv3 lydo: Tự Xóa vật phẩm at 03/11/2023 10:22 AM
+BAG:digiok remove Sách Thôi Miên lv4 lydo: Tự Xóa vật phẩm at 03/11/2023 10:22 AM
+BAG:digiok remove Sách Thôi Miên lv5 lydo: Tự Xóa vật phẩm at 03/11/2023 10:22 AM
+BAG:digiok remove Sách Thôi Miên lv6 lydo: Tự Xóa vật phẩm at 03/11/2023 10:22 AM
+BAG:digiok remove Sách Thôi Miên lv7 lydo: Tự Xóa vật phẩm at 03/11/2023 10:22 AM
+BAG:digiok remove 99xThỏi vàng lydo: Tách thỏi vàng at 03/11/2023 10:24 AM
+BAG:digiok remove 99xThỏi vàng lydo: Giao dịch với iphone at 03/11/2023 10:24 AM
+BAG:digiok remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/11/2023 10:25 AM
+BAG:digiok remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/11/2023 10:25 AM
+BAG:digiok remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/11/2023 10:26 AM
+BAG:digiok remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/11/2023 10:26 AM
+BAG:digiok remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/11/2023 10:26 AM
+BAG:digiok remove Găng da Calic lydo: Tự Xóa vật phẩm at 03/11/2023 10:26 AM
+BAG:digiok remove Áo vải 3 lỗ lydo: Mặc vào người at 03/11/2023 10:27 AM
+BAG:digiok remove Quần vải đen lydo: Mặc vào người at 03/11/2023 10:27 AM
+BAG:digiok remove Giầy nhựa lydo: Mặc vào người at 03/11/2023 10:27 AM
+BAG:digiok remove Rada cấp 1 lydo: Mặc vào người at 03/11/2023 10:27 AM
+BAG:digiok remove Inosuke lydo: Mặc cho đệ tử at 03/11/2023 10:27 AM
+BAG:digiok remove 1xThỏi vàng lydo: Bán cho shop at 03/11/2023 10:30 AM
+BAG:digiok remove 1xThỏi vàng lydo: Bán cho shop at 03/11/2023 10:30 AM
+BAG:digiok remove 1xThỏi vàng lydo: Bán cho shop at 03/11/2023 10:30 AM
+BAG:digiok remove Giáp tập luyện cấp 3 lydo: Mặc vào người at 03/11/2023 10:30 AM
+BAG:digiok remove 1xThỏi vàng lydo: Bán cho shop at 03/11/2023 10:31 AM
+BAG:digiok remove 1xThỏi vàng lydo: Bán cho shop at 03/11/2023 10:31 AM
+BAG:digiok remove 1xThỏi vàng lydo: Bán cho shop at 03/11/2023 10:31 AM
+BAG:digiok remove 1xThỏi vàng lydo: Bán cho shop at 03/11/2023 10:32 AM
+BAG:digiok remove 1xThỏi vàng lydo: Bán cho shop at 03/11/2023 10:32 AM
+BAG:digiok remove 1xThỏi vàng lydo: Bán cho shop at 03/11/2023 10:32 AM
+BAG:digiok remove 1xThỏi vàng lydo: Bán cho shop at 03/11/2023 10:35 AM
+BAG:digiok remove 1xThỏi vàng lydo: Bán cho shop at 03/11/2023 10:35 AM
+BAG:digiok remove 1xThỏi vàng lydo: Bán cho shop at 03/11/2023 10:35 AM
+BAG:digiok remove 1xThỏi vàng lydo: Bán cho shop at 03/11/2023 10:36 AM
+BAG:digiok remove 1xThỏi vàng lydo: Bán cho shop at 03/11/2023 10:36 AM
+BAG:digiok remove 1xThỏi vàng lydo: Bán cho shop at 03/11/2023 10:36 AM
+BAG:digiok remove 1xThỏi vàng lydo: Bán cho shop at 03/11/2023 10:37 AM
+BAG:digiok remove 1xThỏi vàng lydo: Bán cho shop at 03/11/2023 10:37 AM
+BAG:digiok remove 1xThỏi vàng lydo: Bán cho shop at 03/11/2023 10:37 AM
+BAG:digiok remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 03/11/2023 10:38 AM
+BAG:digiok remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 03/11/2023 10:38 AM
+BAG:digiok remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 03/11/2023 10:39 AM
+BAG:digiok remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 03/11/2023 10:39 AM
+BAG:digiok remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 03/11/2023 10:39 AM
+BAG:digiok remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 03/11/2023 10:39 AM
+BAG:digiok remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 03/11/2023 10:39 AM
+BAG:digiok remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 03/11/2023 10:39 AM
+BAG:digiok remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 03/11/2023 10:39 AM
+BAG:digiok remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 03/11/2023 10:39 AM
+BAG:digiok remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 03/11/2023 10:39 AM
+BAG:digiok remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 03/11/2023 10:39 AM
+BAG:digiok remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 03/11/2023 10:40 AM
+BAG:digiok remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 03/11/2023 10:40 AM
+BAG:digiok remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 03/11/2023 10:40 AM
+BAG:digiok remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 03/11/2023 10:40 AM
+BAG:digiok remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 03/11/2023 10:40 AM
+BAG:digiok remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 03/11/2023 10:40 AM
+BAG:digiok remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 03/11/2023 10:40 AM
+BAG:digiok remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 03/11/2023 10:40 AM
+BAG:digiok remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 03/11/2023 10:40 AM
+BAG:digiok remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 03/11/2023 10:41 AM
+BAG:digiok remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 03/11/2023 10:41 AM
+BAG:digiok remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 03/11/2023 10:41 AM
+BAG:digiok remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 03/11/2023 10:41 AM
+BAG:digiok remove Áo jean Calic lydo: Mặc cho đệ tử at 03/11/2023 10:41 AM
+BAG:digiok remove Rada cấp 12 lydo: Mặc cho đệ tử at 03/11/2023 10:41 AM
+BAG:digiok remove Quần jean Calic lydo: Mặc cho đệ tử at 03/11/2023 10:41 AM
+BAG:digiok remove Giày jean Calic lydo: Mặc cho đệ tử at 03/11/2023 10:41 AM
+BAG:digiok remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/11/2023 10:42 AM
+BAG:digiok remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/11/2023 10:42 AM
+BAG:digiok remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/11/2023 10:42 AM
+BAG:digiok remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/11/2023 10:43 AM
+BAG:digiok remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/11/2023 10:43 AM
+BAG:digiok remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/11/2023 10:43 AM
+BAG:digiok remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/11/2023 10:43 AM
+BAG:digiok remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/11/2023 10:44 AM
+BAG:digiok remove Khiên năng lượng lv2 lydo: Sách kĩ năng at 03/11/2023 10:45 AM
+BAG:digiok remove Khiên năng lượng lv3 lydo: Sách kĩ năng at 03/11/2023 10:45 AM
+BAG:digiok remove Khiên năng lượng lv4 lydo: Sách kĩ năng at 03/11/2023 10:45 AM
+BAG:digiok remove Khiên năng lượng lv5 lydo: Sách kĩ năng at 03/11/2023 10:45 AM
+BAG:digiok remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/11/2023 10:45 AM
+BAG:digiok remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/11/2023 10:46 AM
+BAG:digiok remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/11/2023 10:46 AM
+BAG:digiok remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/11/2023 10:47 AM
+BAG:digiok remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/11/2023 10:47 AM
+BAG:digiok remove Giáp tập luyện cấp 3 lydo: Mặc vào người at 03/11/2023 10:47 AM
+BAG:digiok remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/11/2023 10:48 AM
+BAG:digiok remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/11/2023 10:48 AM
+BAG:digiok remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/11/2023 10:48 AM
+BAG:digiok remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/11/2023 10:48 AM
+BAG:digiok remove Giáp tập luyện cấp 3 lydo: Mặc vào người at 03/11/2023 10:49 AM
+BAG:digiok remove Giáp tập luyện cấp 3 lydo: Mặc vào người at 03/11/2023 10:49 AM
+BAG:digiok remove Viên Capsule đặc biệt lydo: Tự Xóa vật phẩm at 03/11/2023 10:53 AM
+BAG:digiok remove Giáp tập luyện cấp 3 lydo: Mặc vào người at 03/11/2023 10:54 AM
+BAG:digiok remove Giáp tập luyện cấp 3 lydo: Mặc vào người at 03/11/2023 10:54 AM
+BAG:digiok remove Giáp tập luyện cấp 3 lydo: Mặc vào người at 03/11/2023 10:58 AM
+BAG:digiok remove Giáp tập luyện cấp 3 lydo: Mặc vào người at 03/11/2023 11:02 AM
+BAG:digiok remove Giáp tập luyện cấp 3 lydo: Mặc vào người at 03/11/2023 11:04 AM
+BAG:digiok remove Giày bạc Goku lydo: Tự Xóa vật phẩm at 03/11/2023 11:07 AM
+BAG:digiok remove Găng bạc Goku lydo: Tự Xóa vật phẩm at 03/11/2023 11:07 AM
+BAG:digiok remove Áo thun dày lydo: Tự Xóa vật phẩm at 03/11/2023 11:07 AM
+BAG:digiok remove Áo thun dày lydo: Tự Xóa vật phẩm at 03/11/2023 11:07 AM
+BAG:digiok remove Găng vải đen lydo: Tự Xóa vật phẩm at 03/11/2023 11:08 AM
+BAG:digiok remove Áo thun 3 lỗ lydo: Tự Xóa vật phẩm at 03/11/2023 11:08 AM
+BAG:digiok remove 1xThỏi vàng lydo: Bán cho shop at 03/11/2023 11:11 AM
+BAG:digiok remove 1xThỏi vàng lydo: Bán cho shop at 03/11/2023 11:11 AM
+BAG:digiok remove 1xThỏi vàng lydo: Bán cho shop at 03/11/2023 11:11 AM
+BAG:digiok remove 1xThỏi vàng lydo: Bán cho shop at 03/11/2023 11:11 AM
+BAG:digiok remove Bông tai Porata lydo: Tự Xóa vật phẩm at 03/11/2023 11:26 AM
+BAG:digiok remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/11/2023 11:30 AM
+BAG:digiok remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/11/2023 11:30 AM
+BAG:digiok remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/11/2023 11:30 AM
+BAG:digiok remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/11/2023 11:30 AM
+BAG:digiok remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/11/2023 11:34 AM
+BAG:digiok remove Bông tai Porata lydo: Tự Xóa vật phẩm at 03/11/2023 11:34 AM
+BAG:digiok remove Ghế bay lydo: Tự Xóa vật phẩm at 03/11/2023 11:36 AM
+BAG:digiok remove Đá Saphia lydo: Tự Xóa vật phẩm at 03/11/2023 11:39 AM
+BAG:digiok remove Đá Titan lydo: Tự Xóa vật phẩm at 03/11/2023 11:39 AM
+BAG:digiok remove Giáp tập luyện cấp 3 lydo: Mặc vào người at 03/11/2023 11:46 AM
+BAG:digiok remove Giáp tập luyện cấp 3 lydo: Mặc vào người at 03/11/2023 11:55 AM
+BAG:digiok remove Giáp tập luyện cấp 3 lydo: Mặc vào người at 03/11/2023 11:56 AM
+BAG:digiok remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/11/2023 11:57 AM
+BAG:digiok remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/11/2023 12:01 PM
+BAG:digiok remove Inosuke lydo: Mặc vào người at 03/11/2023 12:03 PM
+BAG:digiok remove 1xThỏi vàng lydo: Bán cho shop at 03/11/2023 12:04 PM
+BAG:digiok remove 1xThỏi vàng lydo: Bán cho shop at 03/11/2023 12:04 PM
+BAG:digiok remove 1xThỏi vàng lydo: Bán cho shop at 03/11/2023 12:04 PM
+BAG:digiok remove 14xĐá thạch anh tím lydo: Dùng đá nâng cấp at 03/11/2023 12:04 PM
+BAG:digiok remove 16xĐá thạch anh tím lydo: Dùng đá nâng cấp at 03/11/2023 12:04 PM
+BAG:digiok remove 16xĐá thạch anh tím lydo: Dùng đá nâng cấp at 03/11/2023 12:04 PM
+BAG:digiok remove 18xĐá thạch anh tím lydo: Dùng đá nâng cấp at 03/11/2023 12:04 PM
+BAG:digiok remove 16xĐá thạch anh tím lydo: Dùng đá nâng cấp at 03/11/2023 12:04 PM
+BAG:digiok remove Găng jean Calic lydo: Mặc cho đệ tử at 03/11/2023 12:04 PM
+BAG:digiok remove 14xĐá lục bảo lydo: Dùng đá nâng cấp at 03/11/2023 12:05 PM
+BAG:digiok remove 16xĐá lục bảo lydo: Dùng đá nâng cấp at 03/11/2023 12:05 PM
+BAG:digiok remove 16xĐá lục bảo lydo: Dùng đá nâng cấp at 03/11/2023 12:05 PM
+BAG:digiok remove 18xĐá lục bảo lydo: Dùng đá nâng cấp at 03/11/2023 12:05 PM
+BAG:digiok remove 16xĐá lục bảo lydo: Dùng đá nâng cấp at 03/11/2023 12:05 PM
+BAG:digiok remove 16xĐá lục bảo lydo: Dùng đá nâng cấp at 03/11/2023 12:05 PM
+BAG:digiok remove Rada cấp 12 lydo: Mặc cho đệ tử at 03/11/2023 12:05 PM
+BAG:digiok remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/11/2023 2:56 PM
+BAG:digiok remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/11/2023 3:08 PM
+BAG:digiok remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/11/2023 3:30 PM
+BAG:digiok remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/11/2023 3:47 PM
+BAG:digiok remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/11/2023 3:57 PM
+BAG:digiok remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/11/2023 4:46 PM
+BAG:digiok remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/11/2023 4:46 PM
+BAG:digiok remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/11/2023 4:47 PM
+BAG:digiok remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/11/2023 4:47 PM
+BAG:digiok remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/11/2023 4:47 PM
+BAG:digiok remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/11/2023 4:47 PM
+BAG:digiok remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/11/2023 4:47 PM
+BAG:digiok remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/11/2023 4:48 PM
+BAG:digiok remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/11/2023 4:48 PM
+BAG:digiok remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/11/2023 4:49 PM
+BAG:digiok remove Găng vải đen lydo: Mặc vào người at 03/11/2023 4:57 PM
+BAG:digiok remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/11/2023 5:04 PM
+BAG:digiok remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/11/2023 5:06 PM
+BAG:digiok remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/11/2023 5:08 PM
+BAG:digiok remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/11/2023 5:10 PM
+BAG:digiok remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/11/2023 5:16 PM
+BAG:digiok remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/11/2023 5:20 PM
+BAG:digiok remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/11/2023 5:21 PM
+BAG:digiok remove Inosuke lydo: Mặc vào người at 03/11/2023 5:24 PM
+BAG:digiok remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/11/2023 5:24 PM
+BAG:digiok remove Giáp tập luyện cấp 3 lydo: Mặc vào người at 03/11/2023 5:25 PM
+BAG:digiok remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/11/2023 5:26 PM
+BAG:digiok remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/11/2023 5:28 PM
+BAG:digiok remove Giáp tập luyện cấp 3 lydo: Mặc vào người at 03/11/2023 5:34 PM
+BAG:digiok remove Hoa hồng đỏ lydo: Tự Xóa vật phẩm at 03/11/2023 5:35 PM
+BAG:digiok remove Hoa hồng xanh lydo: Tự Xóa vật phẩm at 03/11/2023 5:35 PM
+BAG:digiok remove Hoa hồng vàng lydo: Tự Xóa vật phẩm at 03/11/2023 5:35 PM
+BAG:digiok remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/11/2023 5:35 PM
+BAG:digiok remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/11/2023 5:39 PM
+BAG:digiok remove Inosuke lydo: Mặc vào người at 03/11/2023 5:40 PM
+BAG:digiok remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/11/2023 5:40 PM
+BAG:digiok remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/11/2023 5:40 PM
+BAG:digiok remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/11/2023 5:40 PM
+BAG:digiok remove Giáp tập luyện cấp 3 lydo: Mặc vào người at 03/11/2023 5:41 PM
+BAG:digiok remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/11/2023 5:46 PM
+BAG:digiok remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/11/2023 5:58 PM
+BAG:digiok remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/11/2023 6:00 PM
+BAG:digiok remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/11/2023 6:03 PM
+BAG:digiok remove Inosuke lydo: Mặc vào người at 03/11/2023 6:14 PM
+BAG:digiok remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/11/2023 6:20 PM
+BAG:digiok remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/11/2023 6:23 PM
+BAG:digiok remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/11/2023 6:24 PM
+BAG:digiok remove Sách Dịch Chuyển lv2 lydo: Sách kĩ năng at 03/11/2023 6:25 PM
+BAG:digiok remove Sách Dịch Chuyển lv3 lydo: Sách kĩ năng at 03/11/2023 6:25 PM
+BAG:digiok remove Sách Dịch Chuyển lv4 lydo: Sách kĩ năng at 03/11/2023 6:25 PM
+BAG:digiok remove Sách Dịch Chuyển lv5 lydo: Sách kĩ năng at 03/11/2023 6:25 PM
+BAG:digiok remove Sách Dịch Chuyển lv6 lydo: Sách kĩ năng at 03/11/2023 6:25 PM
+BAG:digiok remove Sách Dịch Chuyển lv7 lydo: Sách kĩ năng at 03/11/2023 6:25 PM
+BAG:digiok remove Kaioken lv1 lydo: Sách kĩ năng at 03/11/2023 6:25 PM
+BAG:digiok remove Kaioken lv2 lydo: Sách kĩ năng at 03/11/2023 6:25 PM
+BAG:digiok remove Kaioken lv3 lydo: Sách kĩ năng at 03/11/2023 6:25 PM
+BAG:digiok remove Kaioken lv4 lydo: Sách kĩ năng at 03/11/2023 6:25 PM
+BAG:digiok remove Kaioken lv5 lydo: Sách kĩ năng at 03/11/2023 6:25 PM
+BAG:digiok remove Kaioken lv6 lydo: Sách kĩ năng at 03/11/2023 6:25 PM
+BAG:digiok remove Kaioken lv7 lydo: Sách kĩ năng at 03/11/2023 6:25 PM
+BAG:digiok remove Sách Thôi Miên lv1 lydo: Sách kĩ năng at 03/11/2023 6:25 PM
+BAG:digiok remove Sách Thôi Miên lv2 lydo: Sách kĩ năng at 03/11/2023 6:25 PM
+BAG:digiok remove Sách Thôi Miên lv3 lydo: Sách kĩ năng at 03/11/2023 6:25 PM
+BAG:digiok remove Sách Thôi Miên lv4 lydo: Sách kĩ năng at 03/11/2023 6:25 PM
+BAG:digiok remove Sách Thôi Miên lv5 lydo: Sách kĩ năng at 03/11/2023 6:26 PM
+BAG:digiok remove Sách Thôi Miên lv6 lydo: Sách kĩ năng at 03/11/2023 6:26 PM
+BAG:digiok remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/11/2023 6:31 PM
+BAG:digiok remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/11/2023 6:31 PM
+BAG:digiok remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/11/2023 6:32 PM
+BAG:digiok remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/11/2023 6:32 PM
+BAG:digiok remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/11/2023 6:34 PM
+BAG:digiok remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/11/2023 6:36 PM
+BAG:digiok remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/11/2023 6:42 PM
+BAG:digiok remove 1xSao pha lê lydo: Bán cho shop at 03/11/2023 6:51 PM
+BAG:digiok remove 1xSao pha lê lydo: Bán cho shop at 03/11/2023 6:51 PM
+BAG:digiok remove 22xNgọc Rồng 6 sao lydo: Bán cho shop at 03/11/2023 6:52 PM
+BAG:digiok remove Inosuke lydo: Mặc vào người at 03/11/2023 6:52 PM
+BAG:digiok remove 18xHoa hồng đỏ lydo: Bán cho shop at 03/11/2023 6:52 PM
+BAG:digiok remove 21xHoa hồng xanh lydo: Bán cho shop at 03/11/2023 6:52 PM
+BAG:digiok remove 23xHoa hồng vàng lydo: Bán cho shop at 03/11/2023 6:52 PM
+BAG:digiok remove Sách Thôi Miên lv7 lydo: Sách kĩ năng at 03/11/2023 6:52 PM
+BAG:digiok remove Khiên năng lượng lv6 lydo: Sách kĩ năng at 03/11/2023 6:52 PM
+BAG:digiok remove Khiên năng lượng lv7 lydo: Sách kĩ năng at 03/11/2023 6:52 PM
+BAG:digiok remove Quả cầu Kênh Khi lv1 lydo: Sách kĩ năng at 03/11/2023 6:52 PM
+BAG:digiok remove Quả cầu Kênh Khi lv2 lydo: Sách kĩ năng at 03/11/2023 6:53 PM
+BAG:digiok remove Quả cầu Kênh Khi lv3 lydo: Sách kĩ năng at 03/11/2023 6:53 PM
+BAG:digiok remove Quả cầu Kênh Khi lv4 lydo: Sách kĩ năng at 03/11/2023 6:53 PM
+BAG:digiok remove Quả cầu Kênh Khi lv5 lydo: Sách kĩ năng at 03/11/2023 6:53 PM
+BAG:digiok remove Quả cầu Kênh Khi lv6 lydo: Sách kĩ năng at 03/11/2023 6:53 PM
+BAG:digiok remove Quả cầu Kênh Khi lv7 lydo: Sách kĩ năng at 03/11/2023 6:53 PM
+BAG:digiok remove 1xVệ tinh trí tuệ lydo: Dùng vệ tinh at 03/11/2023 6:54 PM
+BAG:digiok remove 1xVệ tinh trí tuệ lydo: Dùng vệ tinh at 03/11/2023 6:54 PM
+BAG:digiok remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/11/2023 7:06 PM
+BAG:digiok remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/11/2023 7:21 PM
+BAG:digiok remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/11/2023 7:41 PM
+BAG:digiok remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/11/2023 8:05 PM
+BAG:digiok remove 4xHoa hồng xanh lydo: Bán cho shop at 03/11/2023 8:17 PM
+BAG:digiok remove 4xHoa hồng đỏ lydo: Bán cho shop at 03/11/2023 8:17 PM
+BAG:digiok remove 1xHoa hồng vàng lydo: Bán cho shop at 03/11/2023 8:17 PM
+BAG:digiok remove 1xSao pha lê lydo: Bán cho shop at 03/11/2023 8:17 PM
+BAG:digiok remove 2xSao pha lê lydo: Bán cho shop at 03/11/2023 8:17 PM
+BAG:digiok remove 1xSao pha lê lydo: Bán cho shop at 03/11/2023 8:17 PM
+BAG:digiok remove 3xSao pha lê lydo: Bán cho shop at 03/11/2023 8:17 PM
+BAG:digiok remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/11/2023 8:25 PM
+BAG:digiok remove Găng jean Calic lydo: Mặc vào người at 03/11/2023 8:25 PM
+BAG:digiok remove Giáp tập luyện cấp 3 lydo: Mặc vào người at 03/11/2023 8:50 PM
+BAG:digiok remove Inosuke lydo: Mặc cho đệ tử at 03/11/2023 8:54 PM
+BAG:digiok remove Inosuke lydo: Mặc vào người at 03/11/2023 8:56 PM
+BAG:digiok remove Giáp tập luyện cấp 3 lydo: Mặc vào người at 03/11/2023 8:56 PM
+BAG:digiok remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/11/2023 8:59 PM
+BAG:digiok remove 1xNâng cấp kỹ năng 4 đệ tử lydo: Dùng sách kĩ năng đệ tử at 03/11/2023 9:05 PM
+BAG:digiok remove 1xNâng cấp kỹ năng 4 đệ tử lydo: Dùng sách kĩ năng đệ tử at 03/11/2023 9:05 PM
+BAG:digiok remove 1xNâng cấp kỹ năng 4 đệ tử lydo: Dùng sách kĩ năng đệ tử at 03/11/2023 9:05 PM
+BAG:digiok remove 1xNâng cấp kỹ năng 4 đệ tử lydo: Dùng sách kĩ năng đệ tử at 03/11/2023 9:06 PM
+BAG:digiok remove 1xNâng cấp kỹ năng 4 đệ tử lydo: Dùng sách kĩ năng đệ tử at 03/11/2023 9:06 PM
+BAG:digiok remove 1xNâng cấp kỹ năng 4 đệ tử lydo: Dùng sách kĩ năng đệ tử at 03/11/2023 9:06 PM
+BAG:digiok remove Nâng cấp kỹ năng 4 đệ tử lydo: Tự Xóa vật phẩm at 03/11/2023 9:06 PM
+BAG:digiok remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/11/2023 9:21 PM
+BAG:digiok remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/11/2023 9:39 PM
+BAG:digiok remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/11/2023 9:39 PM
+BAG:digiok remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/11/2023 9:41 PM

@@ -1,0 +1,335 @@
+BAG:memayha add 91xHoa hồng xanh (old: 90) lydo: Nhặt từ map at 03/13/2023 12:00 AM
+BAG:memayha add 19xĐá lục bảo (old: 18) lydo: Nhặt từ map at 03/13/2023 12:00 AM
+BAG:memayha add 96xHoa hồng đỏ (old: 95) lydo: Nhặt từ map at 03/13/2023 12:00 AM
+BAG:memayha add 92xHoa hồng xanh (old: 91) lydo: Nhặt từ map at 03/13/2023 12:01 AM
+BAG:memayha add 93xHoa hồng xanh (old: 92) lydo: Nhặt từ map at 03/13/2023 12:01 AM
+BAG:memayha add 5xNgọc Rồng 5 sao (old: 4) lydo: Nhặt từ map at 03/13/2023 12:01 AM
+BAG:memayha add 128xHoa hồng vàng (old: 127) lydo: Nhặt từ map at 03/13/2023 12:01 AM
+BAG:memayha add 97xHoa hồng đỏ (old: 96) lydo: Nhặt từ map at 03/13/2023 12:02 AM
+BAG:memayha add 89xThỏi vàng lydo: Lấy từ rương qua người at 03/13/2023 12:20 AM
+BAG:memayha add 1xQuần vải thô lydo: Nhặt từ map at 03/13/2023 12:21 AM
+BAG:memayha add 98xHoa hồng đỏ (old: 97) lydo: Nhặt từ map at 03/13/2023 12:21 AM
+BAG:memayha add 1xĐá thạch anh tím lydo: Nhặt từ map at 03/13/2023 12:21 AM
+BAG:memayha add 1xÁo vải thô lydo: Nhặt từ map at 03/13/2023 12:21 AM
+BAG:memayha add 1xGăng vải thô lydo: Nhặt từ map at 03/13/2023 12:21 AM
+BAG:memayha add 99xHoa hồng đỏ (old: 98) lydo: Nhặt từ map at 03/13/2023 12:21 AM
+BAG:memayha add 17xĐá Titan (old: 16) lydo: Nhặt từ map at 03/13/2023 12:22 AM
+BAG:memayha add 1xMảnh Quỷ đất lydo: Nhặt từ map at 03/13/2023 12:22 AM
+BAG:memayha add 1xÁo vải thô lydo: Nhặt từ map at 03/13/2023 12:22 AM
+BAG:memayha add 1xĐá lục bảo lydo: Nhặt từ map at 03/13/2023 12:22 AM
+BAG:memayha add 1xGăng vải thô lydo: Nhặt từ map at 03/13/2023 12:22 AM
+BAG:memayha add 1xÁo vải thô lydo: Nhặt từ map at 03/13/2023 12:22 AM
+BAG:memayha add 1xGiầy vải thô lydo: Nhặt từ map at 03/13/2023 12:22 AM
+BAG:memayha add 1xGăng vải thô lydo: Nhặt từ map at 03/13/2023 12:22 AM
+BAG:memayha add 100xHoa hồng đỏ (old: 99) lydo: Nhặt từ map at 03/13/2023 12:22 AM
+BAG:memayha add 94xHoa hồng xanh (old: 93) lydo: Nhặt từ map at 03/13/2023 12:22 AM
+BAG:memayha add 129xHoa hồng vàng (old: 128) lydo: Nhặt từ map at 03/13/2023 12:22 AM
+BAG:memayha add 1xQuần vải thô lydo: Nhặt từ map at 03/13/2023 12:22 AM
+BAG:memayha add 2xĐá thạch anh tím (old: 1) lydo: Nhặt từ map at 03/13/2023 12:22 AM
+BAG:memayha add 130xHoa hồng vàng (old: 129) lydo: Nhặt từ map at 03/13/2023 12:23 AM
+BAG:memayha add 3xĐá thạch anh tím (old: 2) lydo: Nhặt từ map at 03/13/2023 12:23 AM
+BAG:memayha add 101xHoa hồng đỏ (old: 100) lydo: Nhặt từ map at 03/13/2023 12:23 AM
+BAG:memayha add 131xHoa hồng vàng (old: 130) lydo: Nhặt từ map at 03/13/2023 12:23 AM
+BAG:memayha add 102xHoa hồng đỏ (old: 101) lydo: Nhặt từ map at 03/13/2023 12:23 AM
+BAG:memayha add 1xRada cấp 1 lydo: Nhặt từ map at 03/13/2023 12:23 AM
+BAG:memayha add 1xGăng vải thô lydo: Nhặt từ map at 03/13/2023 12:23 AM
+BAG:memayha add 1xGiầy vải thô lydo: Nhặt từ map at 03/13/2023 12:23 AM
+BAG:memayha add 103xHoa hồng đỏ (old: 102) lydo: Nhặt từ map at 03/13/2023 12:23 AM
+BAG:memayha add 1xQuần vải thô lydo: Nhặt từ map at 03/13/2023 12:23 AM
+BAG:memayha add 1xÁo vải thô lydo: Nhặt từ map at 03/13/2023 12:24 AM
+BAG:memayha add 1xGăng vải thô lydo: Nhặt từ map at 03/13/2023 12:24 AM
+BAG:memayha add 1xQuần vải thô lydo: Nhặt từ map at 03/13/2023 12:24 AM
+BAG:memayha add 1xQuần vải thô lydo: Nhặt từ map at 03/13/2023 12:24 AM
+BAG:memayha add 18xĐá Ruby (old: 17) lydo: Nhặt từ map at 03/13/2023 12:24 AM
+BAG:memayha add 19xĐá Ruby (old: 18) lydo: Nhặt từ map at 03/13/2023 12:24 AM
+BAG:memayha add 132xHoa hồng vàng (old: 131) lydo: Nhặt từ map at 03/13/2023 12:24 AM
+BAG:memayha add 104xHoa hồng đỏ (old: 103) lydo: Nhặt từ map at 03/13/2023 12:24 AM
+BAG:memayha add 133xHoa hồng vàng (old: 132) lydo: Nhặt từ map at 03/13/2023 12:24 AM
+BAG:memayha add 1xĐá thạch anh tím lydo: Nhặt từ map at 03/13/2023 12:24 AM
+BAG:memayha add 1xĐá lục bảo lydo: Nhặt từ map at 03/13/2023 12:24 AM
+BAG:memayha add 95xHoa hồng xanh (old: 94) lydo: Nhặt từ map at 03/13/2023 12:24 AM
+BAG:memayha add 134xHoa hồng vàng (old: 133) lydo: Nhặt từ map at 03/13/2023 12:24 AM
+BAG:memayha add 105xHoa hồng đỏ (old: 104) lydo: Nhặt từ map at 03/13/2023 12:25 AM
+BAG:memayha add 1xÁo vải thô lydo: Nhặt từ map at 03/13/2023 12:25 AM
+BAG:memayha add 135xHoa hồng vàng (old: 134) lydo: Nhặt từ map at 03/13/2023 12:25 AM
+BAG:memayha add 136xHoa hồng vàng (old: 135) lydo: Nhặt từ map at 03/13/2023 12:25 AM
+BAG:memayha add 1xĐá Saphia lydo: Nhặt từ map at 03/13/2023 12:25 AM
+BAG:memayha add 96xHoa hồng xanh (old: 95) lydo: Nhặt từ map at 03/13/2023 12:25 AM
+BAG:memayha add 1xÁo vải thô lydo: Nhặt từ map at 03/13/2023 12:25 AM
+BAG:memayha add 1xGăng vải thô lydo: Nhặt từ map at 03/13/2023 12:25 AM
+BAG:memayha add 137xHoa hồng vàng (old: 136) lydo: Nhặt từ map at 03/13/2023 12:25 AM
+BAG:memayha add 1xRada cấp 1 lydo: Nhặt từ map at 03/13/2023 12:25 AM
+BAG:memayha add 138xHoa hồng vàng (old: 137) lydo: Nhặt từ map at 03/13/2023 12:25 AM
+BAG:memayha add 1xQuần vải thô lydo: Nhặt từ map at 03/13/2023 12:26 AM
+BAG:memayha add 139xHoa hồng vàng (old: 138) lydo: Nhặt từ map at 03/13/2023 12:26 AM
+BAG:memayha add 10xSao pha lê lydo: Lấy từ rương qua người at 03/13/2023 12:27 AM
+BAG:memayha add 1xCải trang lydo: Mua từ cửa hàng at 03/13/2023 12:27 AM
+BAG:memayha add 97xHoa hồng xanh (old: 96) lydo: Nhặt từ map at 03/13/2023 12:28 AM
+BAG:memayha add 106xHoa hồng đỏ (old: 105) lydo: Nhặt từ map at 03/13/2023 12:28 AM
+BAG:memayha add 140xHoa hồng vàng (old: 139) lydo: Nhặt từ map at 03/13/2023 12:29 AM
+BAG:memayha add 107xHoa hồng đỏ (old: 106) lydo: Nhặt từ map at 03/13/2023 12:29 AM
+BAG:memayha add 1xNgọc Rồng 4 sao lydo: Nhặt từ map at 03/13/2023 12:29 AM
+BAG:memayha add 98xHoa hồng xanh (old: 97) lydo: Nhặt từ map at 03/13/2023 12:29 AM
+BAG:memayha add 141xHoa hồng vàng (old: 140) lydo: Nhặt từ map at 03/13/2023 12:29 AM
+BAG:memayha add 99xHoa hồng xanh (old: 98) lydo: Nhặt từ map at 03/13/2023 12:29 AM
+BAG:memayha add 2xĐá thạch anh tím (old: 1) lydo: Nhặt từ map at 03/13/2023 12:29 AM
+BAG:memayha add 11xSao pha lê (old: 10) lydo: Nhặt từ map at 03/13/2023 12:29 AM
+BAG:memayha add 100xHoa hồng xanh (old: 99) lydo: Nhặt từ map at 03/13/2023 12:30 AM
+BAG:memayha add 12xSao pha lê (old: 11) lydo: Lấy từ lucky box at 03/13/2023 12:30 AM
+BAG:memayha add 13xSao pha lê (old: 12) lydo: Lấy từ lucky box at 03/13/2023 12:30 AM
+BAG:memayha add 14xSao pha lê (old: 13) lydo: Lấy từ lucky box at 03/13/2023 12:30 AM
+BAG:memayha add 15xSao pha lê (old: 14) lydo: Lấy từ lucky box at 03/13/2023 12:30 AM
+BAG:memayha add 108xHoa hồng đỏ (old: 107) lydo: Nhặt từ map at 03/13/2023 12:31 AM
+BAG:memayha add 142xHoa hồng vàng (old: 141) lydo: Nhặt từ map at 03/13/2023 12:31 AM
+BAG:memayha add 143xHoa hồng vàng (old: 142) lydo: Nhặt từ map at 03/13/2023 12:31 AM
+BAG:memayha add 109xHoa hồng đỏ (old: 108) lydo: Nhặt từ map at 03/13/2023 12:31 AM
+BAG:memayha add 144xHoa hồng vàng (old: 143) lydo: Nhặt từ map at 03/13/2023 12:31 AM
+BAG:memayha add 145xHoa hồng vàng (old: 144) lydo: Nhặt từ map at 03/13/2023 12:31 AM
+BAG:memayha add 1xSao pha lê lydo: Nhặt từ map at 03/13/2023 12:32 AM
+BAG:memayha add 146xHoa hồng vàng (old: 145) lydo: Nhặt từ map at 03/13/2023 12:32 AM
+BAG:memayha add 110xHoa hồng đỏ (old: 109) lydo: Nhặt từ map at 03/13/2023 12:32 AM
+BAG:memayha add 147xHoa hồng vàng (old: 146) lydo: Nhặt từ map at 03/13/2023 12:32 AM
+BAG:memayha add 111xHoa hồng đỏ (old: 110) lydo: Nhặt từ map at 03/13/2023 12:32 AM
+BAG:memayha add 3xĐá thạch anh tím (old: 2) lydo: Nhặt từ map at 03/13/2023 12:32 AM
+BAG:memayha add 112xHoa hồng đỏ (old: 111) lydo: Nhặt từ map at 03/13/2023 12:32 AM
+BAG:memayha add 113xHoa hồng đỏ (old: 112) lydo: Nhặt từ map at 03/13/2023 12:32 AM
+BAG:memayha add 101xHoa hồng xanh (old: 100) lydo: Nhặt từ map at 03/13/2023 12:32 AM
+BAG:memayha add 148xHoa hồng vàng (old: 147) lydo: Nhặt từ map at 03/13/2023 12:33 AM
+BAG:memayha add 102xHoa hồng xanh (old: 101) lydo: Nhặt từ map at 03/13/2023 12:33 AM
+BAG:memayha add 149xHoa hồng vàng (old: 148) lydo: Nhặt từ map at 03/13/2023 12:33 AM
+BAG:memayha add 2xSao pha lê (old: 1) lydo: Nhặt từ map at 03/13/2023 12:33 AM
+BAG:memayha add 150xHoa hồng vàng (old: 149) lydo: Nhặt từ map at 03/13/2023 12:33 AM
+BAG:memayha add 103xHoa hồng xanh (old: 102) lydo: Nhặt từ map at 03/13/2023 12:34 AM
+BAG:memayha add 3xSao pha lê (old: 2) lydo: Nhặt từ map at 03/13/2023 12:34 AM
+BAG:memayha add 104xHoa hồng xanh (old: 103) lydo: Nhặt từ map at 03/13/2023 12:34 AM
+BAG:memayha add 151xHoa hồng vàng (old: 150) lydo: Nhặt từ map at 03/13/2023 12:34 AM
+BAG:memayha add 152xHoa hồng vàng (old: 151) lydo: Nhặt từ map at 03/13/2023 12:34 AM
+BAG:memayha add 4xĐá thạch anh tím (old: 3) lydo: Nhặt từ map at 03/13/2023 12:35 AM
+BAG:memayha add 5xĐá thạch anh tím (old: 4) lydo: Nhặt từ map at 03/13/2023 12:35 AM
+BAG:memayha add 105xHoa hồng xanh (old: 104) lydo: Nhặt từ map at 03/13/2023 12:35 AM
+BAG:memayha add 4xSao pha lê (old: 3) lydo: Nhặt từ map at 03/13/2023 12:35 AM
+BAG:memayha add 2xNgọc Rồng 4 sao (old: 1) lydo: Nhặt từ map at 03/13/2023 12:35 AM
+BAG:memayha add 106xHoa hồng xanh (old: 105) lydo: Nhặt từ map at 03/13/2023 12:35 AM
+BAG:memayha add 153xHoa hồng vàng (old: 152) lydo: Nhặt từ map at 03/13/2023 12:35 AM
+BAG:memayha add 6xĐá thạch anh tím (old: 5) lydo: Nhặt từ map at 03/13/2023 12:35 AM
+BAG:memayha add 154xHoa hồng vàng (old: 153) lydo: Nhặt từ map at 03/13/2023 12:36 AM
+BAG:memayha add 155xHoa hồng vàng (old: 154) lydo: Nhặt từ map at 03/13/2023 12:36 AM
+BAG:memayha add 107xHoa hồng xanh (old: 106) lydo: Nhặt từ map at 03/13/2023 12:36 AM
+BAG:memayha add 114xHoa hồng đỏ (old: 113) lydo: Nhặt từ map at 03/13/2023 12:36 AM
+BAG:memayha add 156xHoa hồng vàng (old: 155) lydo: Nhặt từ map at 03/13/2023 12:36 AM
+BAG:memayha add 115xHoa hồng đỏ (old: 114) lydo: Nhặt từ map at 03/13/2023 12:36 AM
+BAG:memayha add 108xHoa hồng xanh (old: 107) lydo: Nhặt từ map at 03/13/2023 12:36 AM
+BAG:memayha add 109xHoa hồng xanh (old: 108) lydo: Nhặt từ map at 03/13/2023 12:36 AM
+BAG:memayha add 3xNgọc Rồng 4 sao (old: 2) lydo: Nhặt từ map at 03/13/2023 12:36 AM
+BAG:memayha add 116xHoa hồng đỏ (old: 115) lydo: Nhặt từ map at 03/13/2023 12:36 AM
+BAG:memayha add 117xHoa hồng đỏ (old: 116) lydo: Nhặt từ map at 03/13/2023 12:36 AM
+BAG:memayha add 157xHoa hồng vàng (old: 156) lydo: Nhặt từ map at 03/13/2023 12:37 AM
+BAG:memayha add 118xHoa hồng đỏ (old: 117) lydo: Nhặt từ map at 03/13/2023 12:37 AM
+BAG:memayha add 119xHoa hồng đỏ (old: 118) lydo: Nhặt từ map at 03/13/2023 12:37 AM
+BAG:memayha add 158xHoa hồng vàng (old: 157) lydo: Nhặt từ map at 03/13/2023 12:37 AM
+BAG:memayha add 120xHoa hồng đỏ (old: 119) lydo: Nhặt từ map at 03/13/2023 12:37 AM
+BAG:memayha add 5xSao pha lê (old: 4) lydo: Nhặt từ map at 03/13/2023 12:37 AM
+BAG:memayha add 121xHoa hồng đỏ (old: 120) lydo: Nhặt từ map at 03/13/2023 12:37 AM
+BAG:memayha add 159xHoa hồng vàng (old: 158) lydo: Nhặt từ map at 03/13/2023 12:37 AM
+BAG:memayha add 160xHoa hồng vàng (old: 159) lydo: Nhặt từ map at 03/13/2023 12:38 AM
+BAG:memayha add 110xHoa hồng xanh (old: 109) lydo: Nhặt từ map at 03/13/2023 12:38 AM
+BAG:memayha add 16xSao pha lê (old: 15) lydo: Nhặt từ map at 03/13/2023 12:38 AM
+BAG:memayha add 111xHoa hồng xanh (old: 110) lydo: Nhặt từ map at 03/13/2023 12:38 AM
+BAG:memayha add 122xHoa hồng đỏ (old: 121) lydo: Nhặt từ map at 03/13/2023 12:38 AM
+BAG:memayha add 7xĐá thạch anh tím (old: 6) lydo: Nhặt từ map at 03/13/2023 12:38 AM
+BAG:memayha add 123xHoa hồng đỏ (old: 122) lydo: Nhặt từ map at 03/13/2023 12:38 AM
+BAG:memayha add 124xHoa hồng đỏ (old: 123) lydo: Nhặt từ map at 03/13/2023 12:39 AM
+BAG:memayha add 161xHoa hồng vàng (old: 160) lydo: Nhặt từ map at 03/13/2023 12:39 AM
+BAG:memayha add 8xĐá thạch anh tím (old: 7) lydo: Nhặt từ map at 03/13/2023 12:39 AM
+BAG:memayha add 125xHoa hồng đỏ (old: 124) lydo: Nhặt từ map at 03/13/2023 12:39 AM
+BAG:memayha add 126xHoa hồng đỏ (old: 125) lydo: Nhặt từ map at 03/13/2023 12:39 AM
+BAG:memayha add 4xNgọc Rồng 4 sao (old: 3) lydo: Nhặt từ map at 03/13/2023 12:39 AM
+BAG:memayha add 127xHoa hồng đỏ (old: 126) lydo: Nhặt từ map at 03/13/2023 12:40 AM
+BAG:memayha add 112xHoa hồng xanh (old: 111) lydo: Nhặt từ map at 03/13/2023 12:40 AM
+BAG:memayha add 113xHoa hồng xanh (old: 112) lydo: Nhặt từ map at 03/13/2023 12:40 AM
+BAG:memayha add 114xHoa hồng xanh (old: 113) lydo: Nhặt từ map at 03/13/2023 12:40 AM
+BAG:memayha add 128xHoa hồng đỏ (old: 127) lydo: Nhặt từ map at 03/13/2023 12:40 AM
+BAG:memayha add 115xHoa hồng xanh (old: 114) lydo: Nhặt từ map at 03/13/2023 12:40 AM
+BAG:memayha add 162xHoa hồng vàng (old: 161) lydo: Nhặt từ map at 03/13/2023 12:40 AM
+BAG:memayha add 9xĐá thạch anh tím (old: 8) lydo: Nhặt từ map at 03/13/2023 12:40 AM
+BAG:memayha add 163xHoa hồng vàng (old: 162) lydo: Nhặt từ map at 03/13/2023 12:40 AM
+BAG:memayha add 164xHoa hồng vàng (old: 163) lydo: Nhặt từ map at 03/13/2023 12:41 AM
+BAG:memayha add 165xHoa hồng vàng (old: 164) lydo: Nhặt từ map at 03/13/2023 12:41 AM
+BAG:memayha add 17xSao pha lê (old: 16) lydo: Nhặt từ map at 03/13/2023 12:41 AM
+BAG:memayha add 129xHoa hồng đỏ (old: 128) lydo: Nhặt từ map at 03/13/2023 12:41 AM
+BAG:memayha add 116xHoa hồng xanh (old: 115) lydo: Nhặt từ map at 03/13/2023 12:41 AM
+BAG:memayha add 130xHoa hồng đỏ (old: 129) lydo: Nhặt từ map at 03/13/2023 12:41 AM
+BAG:memayha add 131xHoa hồng đỏ (old: 130) lydo: Nhặt từ map at 03/13/2023 12:42 AM
+BAG:memayha add 132xHoa hồng đỏ (old: 131) lydo: Nhặt từ map at 03/13/2023 12:42 AM
+BAG:memayha add 133xHoa hồng đỏ (old: 132) lydo: Nhặt từ map at 03/13/2023 12:42 AM
+BAG:memayha add 134xHoa hồng đỏ (old: 133) lydo: Nhặt từ map at 03/13/2023 12:42 AM
+BAG:memayha add 117xHoa hồng xanh (old: 116) lydo: Nhặt từ map at 03/13/2023 12:42 AM
+BAG:memayha add 118xHoa hồng xanh (old: 117) lydo: Nhặt từ map at 03/13/2023 12:43 AM
+BAG:memayha add 166xHoa hồng vàng (old: 165) lydo: Nhặt từ map at 03/13/2023 12:43 AM
+BAG:memayha add 135xHoa hồng đỏ (old: 134) lydo: Nhặt từ map at 03/13/2023 12:43 AM
+BAG:memayha add 167xHoa hồng vàng (old: 166) lydo: Nhặt từ map at 03/13/2023 12:43 AM
+BAG:memayha add 6xSao pha lê (old: 5) lydo: Nhặt từ map at 03/13/2023 12:43 AM
+BAG:memayha add 5xNgọc Rồng 4 sao (old: 4) lydo: Nhặt từ map at 03/13/2023 12:43 AM
+BAG:memayha add 168xHoa hồng vàng (old: 167) lydo: Nhặt từ map at 03/13/2023 12:43 AM
+BAG:memayha add 136xHoa hồng đỏ (old: 135) lydo: Nhặt từ map at 03/13/2023 12:44 AM
+BAG:memayha add 169xHoa hồng vàng (old: 168) lydo: Nhặt từ map at 03/13/2023 12:44 AM
+BAG:memayha add 1xĐá Saphia lydo: Nhặt từ map at 03/13/2023 12:44 AM
+BAG:memayha add 137xHoa hồng đỏ (old: 136) lydo: Nhặt từ map at 03/13/2023 12:44 AM
+BAG:memayha add 170xHoa hồng vàng (old: 169) lydo: Nhặt từ map at 03/13/2023 12:44 AM
+BAG:memayha add 171xHoa hồng vàng (old: 170) lydo: Nhặt từ map at 03/13/2023 12:44 AM
+BAG:memayha add 138xHoa hồng đỏ (old: 137) lydo: Nhặt từ map at 03/13/2023 12:45 AM
+BAG:memayha add 119xHoa hồng xanh (old: 118) lydo: Nhặt từ map at 03/13/2023 12:45 AM
+BAG:memayha add 10xĐá thạch anh tím (old: 9) lydo: Nhặt từ map at 03/13/2023 12:45 AM
+BAG:memayha add 172xHoa hồng vàng (old: 171) lydo: Nhặt từ map at 03/13/2023 12:45 AM
+BAG:memayha add 173xHoa hồng vàng (old: 172) lydo: Nhặt từ map at 03/13/2023 12:46 AM
+BAG:memayha add 174xHoa hồng vàng (old: 173) lydo: Nhặt từ map at 03/13/2023 12:46 AM
+BAG:memayha add 139xHoa hồng đỏ (old: 138) lydo: Nhặt từ map at 03/13/2023 12:46 AM
+BAG:memayha add 11xĐá thạch anh tím (old: 10) lydo: Nhặt từ map at 03/13/2023 12:46 AM
+BAG:memayha add 120xHoa hồng xanh (old: 119) lydo: Nhặt từ map at 03/13/2023 12:46 AM
+BAG:memayha add 175xHoa hồng vàng (old: 174) lydo: Nhặt từ map at 03/13/2023 12:46 AM
+BAG:memayha add 18xSao pha lê (old: 17) lydo: Nhặt từ map at 03/13/2023 12:46 AM
+BAG:memayha add 12xĐá thạch anh tím (old: 11) lydo: Nhặt từ map at 03/13/2023 12:46 AM
+BAG:memayha add 140xHoa hồng đỏ (old: 139) lydo: Nhặt từ map at 03/13/2023 12:47 AM
+BAG:memayha add 141xHoa hồng đỏ (old: 140) lydo: Nhặt từ map at 03/13/2023 12:47 AM
+BAG:memayha add 176xHoa hồng vàng (old: 175) lydo: Nhặt từ map at 03/13/2023 12:47 AM
+BAG:memayha add 177xHoa hồng vàng (old: 176) lydo: Nhặt từ map at 03/13/2023 12:47 AM
+BAG:memayha add 19xSao pha lê (old: 18) lydo: Nhặt từ map at 03/13/2023 12:47 AM
+BAG:memayha add 178xHoa hồng vàng (old: 177) lydo: Nhặt từ map at 03/13/2023 12:47 AM
+BAG:memayha add 179xHoa hồng vàng (old: 178) lydo: Nhặt từ map at 03/13/2023 12:47 AM
+BAG:memayha add 121xHoa hồng xanh (old: 120) lydo: Nhặt từ map at 03/13/2023 12:47 AM
+BAG:memayha add 6xNgọc Rồng 4 sao (old: 5) lydo: Nhặt từ map at 03/13/2023 12:48 AM
+BAG:memayha add 142xHoa hồng đỏ (old: 141) lydo: Nhặt từ map at 03/13/2023 12:48 AM
+BAG:memayha add 122xHoa hồng xanh (old: 121) lydo: Nhặt từ map at 03/13/2023 12:48 AM
+BAG:memayha add 143xHoa hồng đỏ (old: 142) lydo: Nhặt từ map at 03/13/2023 12:48 AM
+BAG:memayha add 2xĐá Saphia (old: 1) lydo: Nhặt từ map at 03/13/2023 12:48 AM
+BAG:memayha add 144xHoa hồng đỏ (old: 143) lydo: Nhặt từ map at 03/13/2023 12:48 AM
+BAG:memayha add 180xHoa hồng vàng (old: 179) lydo: Nhặt từ map at 03/13/2023 12:49 AM
+BAG:memayha add 123xHoa hồng xanh (old: 122) lydo: Nhặt từ map at 03/13/2023 12:49 AM
+BAG:memayha add 181xHoa hồng vàng (old: 180) lydo: Nhặt từ map at 03/13/2023 12:49 AM
+BAG:memayha add 182xHoa hồng vàng (old: 181) lydo: Nhặt từ map at 03/13/2023 12:49 AM
+BAG:memayha add 183xHoa hồng vàng (old: 182) lydo: Nhặt từ map at 03/13/2023 12:49 AM
+BAG:memayha add 184xHoa hồng vàng (old: 183) lydo: Nhặt từ map at 03/13/2023 12:49 AM
+BAG:memayha add 20xSao pha lê (old: 19) lydo: Nhặt từ map at 03/13/2023 12:49 AM
+BAG:memayha add 185xHoa hồng vàng (old: 184) lydo: Nhặt từ map at 03/13/2023 12:50 AM
+BAG:memayha add 145xHoa hồng đỏ (old: 144) lydo: Nhặt từ map at 03/13/2023 12:50 AM
+BAG:memayha add 146xHoa hồng đỏ (old: 145) lydo: Nhặt từ map at 03/13/2023 12:50 AM
+BAG:memayha add 7xNgọc Rồng 4 sao (old: 6) lydo: Nhặt từ map at 03/13/2023 12:50 AM
+BAG:memayha add 186xHoa hồng vàng (old: 185) lydo: Nhặt từ map at 03/13/2023 12:50 AM
+BAG:memayha add 187xHoa hồng vàng (old: 186) lydo: Nhặt từ map at 03/13/2023 12:50 AM
+BAG:memayha add 147xHoa hồng đỏ (old: 146) lydo: Nhặt từ map at 03/13/2023 12:50 AM
+BAG:memayha add 188xHoa hồng vàng (old: 187) lydo: Nhặt từ map at 03/13/2023 12:51 AM
+BAG:memayha add 189xHoa hồng vàng (old: 188) lydo: Nhặt từ map at 03/13/2023 12:51 AM
+BAG:memayha add 190xHoa hồng vàng (old: 189) lydo: Nhặt từ map at 03/13/2023 12:51 AM
+BAG:memayha add 191xHoa hồng vàng (old: 190) lydo: Nhặt từ map at 03/13/2023 12:51 AM
+BAG:memayha add 3xĐá Saphia (old: 2) lydo: Nhặt từ map at 03/13/2023 12:51 AM
+BAG:memayha add 8xNgọc Rồng 4 sao (old: 7) lydo: Nhặt từ map at 03/13/2023 12:51 AM
+BAG:memayha add 124xHoa hồng xanh (old: 123) lydo: Nhặt từ map at 03/13/2023 12:51 AM
+BAG:memayha add 148xHoa hồng đỏ (old: 147) lydo: Nhặt từ map at 03/13/2023 12:51 AM
+BAG:memayha add 13xĐá thạch anh tím (old: 12) lydo: Nhặt từ map at 03/13/2023 12:51 AM
+BAG:memayha add 149xHoa hồng đỏ (old: 148) lydo: Nhặt từ map at 03/13/2023 12:51 AM
+BAG:memayha add 125xHoa hồng xanh (old: 124) lydo: Nhặt từ map at 03/13/2023 12:51 AM
+BAG:memayha add 21xSao pha lê (old: 20) lydo: Nhặt từ map at 03/13/2023 12:51 AM
+BAG:memayha add 14xĐá thạch anh tím (old: 13) lydo: Nhặt từ map at 03/13/2023 12:51 AM
+BAG:memayha add 192xHoa hồng vàng (old: 191) lydo: Nhặt từ map at 03/13/2023 12:51 AM
+BAG:memayha add 9xNgọc Rồng 4 sao (old: 8) lydo: Nhặt từ map at 03/13/2023 12:52 AM
+BAG:memayha add 193xHoa hồng vàng (old: 192) lydo: Nhặt từ map at 03/13/2023 12:52 AM
+BAG:memayha add 126xHoa hồng xanh (old: 125) lydo: Nhặt từ map at 03/13/2023 12:52 AM
+BAG:memayha add 127xHoa hồng xanh (old: 126) lydo: Nhặt từ map at 03/13/2023 12:52 AM
+BAG:memayha add 22xSao pha lê (old: 21) lydo: Nhặt từ map at 03/13/2023 12:52 AM
+BAG:memayha add 150xHoa hồng đỏ (old: 149) lydo: Nhặt từ map at 03/13/2023 12:52 AM
+BAG:memayha add 4xĐá Saphia (old: 3) lydo: Nhặt từ map at 03/13/2023 12:53 AM
+BAG:memayha add 194xHoa hồng vàng (old: 193) lydo: Nhặt từ map at 03/13/2023 12:53 AM
+BAG:memayha add 151xHoa hồng đỏ (old: 150) lydo: Nhặt từ map at 03/13/2023 12:53 AM
+BAG:memayha add 128xHoa hồng xanh (old: 127) lydo: Nhặt từ map at 03/13/2023 12:53 AM
+BAG:memayha add 152xHoa hồng đỏ (old: 151) lydo: Nhặt từ map at 03/13/2023 12:53 AM
+BAG:memayha add 129xHoa hồng xanh (old: 128) lydo: Nhặt từ map at 03/13/2023 12:53 AM
+BAG:memayha add 195xHoa hồng vàng (old: 194) lydo: Nhặt từ map at 03/13/2023 12:53 AM
+BAG:memayha add 153xHoa hồng đỏ (old: 152) lydo: Nhặt từ map at 03/13/2023 12:53 AM
+BAG:memayha add 154xHoa hồng đỏ (old: 153) lydo: Nhặt từ map at 03/13/2023 12:53 AM
+BAG:memayha add 130xHoa hồng xanh (old: 129) lydo: Nhặt từ map at 03/13/2023 12:53 AM
+BAG:memayha add 5xĐá Saphia (old: 4) lydo: Nhặt từ map at 03/13/2023 12:54 AM
+BAG:memayha add 15xĐá thạch anh tím (old: 14) lydo: Nhặt từ map at 03/13/2023 12:54 AM
+BAG:memayha add 10xNgọc Rồng 4 sao (old: 9) lydo: Nhặt từ map at 03/13/2023 12:54 AM
+BAG:memayha add 131xHoa hồng xanh (old: 130) lydo: Nhặt từ map at 03/13/2023 12:54 AM
+BAG:memayha add 155xHoa hồng đỏ (old: 154) lydo: Nhặt từ map at 03/13/2023 12:54 AM
+BAG:memayha add 196xHoa hồng vàng (old: 195) lydo: Nhặt từ map at 03/13/2023 12:54 AM
+BAG:memayha add 156xHoa hồng đỏ (old: 155) lydo: Nhặt từ map at 03/13/2023 12:54 AM
+BAG:memayha add 197xHoa hồng vàng (old: 196) lydo: Nhặt từ map at 03/13/2023 12:54 AM
+BAG:memayha add 198xHoa hồng vàng (old: 197) lydo: Nhặt từ map at 03/13/2023 12:54 AM
+BAG:memayha add 199xHoa hồng vàng (old: 198) lydo: Nhặt từ map at 03/13/2023 12:54 AM
+BAG:memayha add 200xHoa hồng vàng (old: 199) lydo: Nhặt từ map at 03/13/2023 12:54 AM
+BAG:memayha add 132xHoa hồng xanh (old: 131) lydo: Nhặt từ map at 03/13/2023 12:54 AM
+BAG:memayha add 201xHoa hồng vàng (old: 200) lydo: Nhặt từ map at 03/13/2023 12:55 AM
+BAG:memayha add 133xHoa hồng xanh (old: 132) lydo: Nhặt từ map at 03/13/2023 12:55 AM
+BAG:memayha add 16xĐá thạch anh tím (old: 15) lydo: Nhặt từ map at 03/13/2023 12:55 AM
+BAG:memayha add 157xHoa hồng đỏ (old: 156) lydo: Nhặt từ map at 03/13/2023 12:55 AM
+BAG:memayha add 158xHoa hồng đỏ (old: 157) lydo: Nhặt từ map at 03/13/2023 12:55 AM
+BAG:memayha add 134xHoa hồng xanh (old: 133) lydo: Nhặt từ map at 03/13/2023 12:55 AM
+BAG:memayha add 11xNgọc Rồng 4 sao (old: 10) lydo: Nhặt từ map at 03/13/2023 12:55 AM
+BAG:memayha add 159xHoa hồng đỏ (old: 158) lydo: Nhặt từ map at 03/13/2023 12:55 AM
+BAG:memayha add 135xHoa hồng xanh (old: 134) lydo: Nhặt từ map at 03/13/2023 12:55 AM
+BAG:memayha add 202xHoa hồng vàng (old: 201) lydo: Nhặt từ map at 03/13/2023 12:55 AM
+BAG:memayha add 203xHoa hồng vàng (old: 202) lydo: Nhặt từ map at 03/13/2023 12:56 AM
+BAG:memayha add 12xNgọc Rồng 4 sao (old: 11) lydo: Nhặt từ map at 03/13/2023 12:56 AM
+BAG:memayha add 204xHoa hồng vàng (old: 203) lydo: Nhặt từ map at 03/13/2023 12:56 AM
+BAG:memayha add 6xĐá Saphia (old: 5) lydo: Nhặt từ map at 03/13/2023 12:56 AM
+BAG:memayha add 136xHoa hồng xanh (old: 135) lydo: Nhặt từ map at 03/13/2023 12:56 AM
+BAG:memayha add 1xGiáp tập luyện cấp 3 lydo: Lấy từ body vào hành trang at 03/13/2023 12:57 AM
+BAG:memayha add 1xSao pha lê lydo: Nhặt từ map at 03/13/2023 1:10 AM
+BAG:memayha add 1xGiáp tập luyện cấp 3 lydo: Lấy từ body vào hành trang at 03/13/2023 1:11 AM
+BAG:memayha add 205xHoa hồng vàng (old: 204) lydo: Nhặt từ map at 03/13/2023 1:14 AM
+BAG:memayha add 23xSao pha lê (old: 22) lydo: Nhặt từ map at 03/13/2023 1:14 AM
+BAG:memayha add 206xHoa hồng vàng (old: 205) lydo: Nhặt từ map at 03/13/2023 1:14 AM
+BAG:memayha add 24xSao pha lê (old: 23) lydo: Nhặt từ map at 03/13/2023 1:15 AM
+BAG:memayha add 7xĐá Saphia (old: 6) lydo: Nhặt từ map at 03/13/2023 1:15 AM
+BAG:memayha add 1xCải trang Hit lydo: Mua từ cửa hàng at 03/13/2023 1:17 AM
+BAG:memayha add 1xCải trang lydo: Lấy từ rương qua người at 03/13/2023 1:21 AM
+BAG:memayha add 51xNgọc Rồng 4 sao (old: 12) lydo: Lấy từ rương qua người at 03/13/2023 1:28 AM
+BAG:memayha add 1xNgọc Rồng 3 sao lydo: Nhập ngọc at 03/13/2023 1:28 AM
+BAG:memayha add 2xNgọc Rồng 3 sao (old: 1) lydo: Nhập ngọc at 03/13/2023 1:28 AM
+BAG:memayha add 3xNgọc Rồng 3 sao (old: 2) lydo: Nhập ngọc at 03/13/2023 1:28 AM
+BAG:memayha add 4xNgọc Rồng 3 sao (old: 3) lydo: Nhập ngọc at 03/13/2023 1:28 AM
+BAG:memayha add 5xNgọc Rồng 3 sao (old: 4) lydo: Nhập ngọc at 03/13/2023 1:28 AM
+BAG:memayha add 6xNgọc Rồng 3 sao (old: 5) lydo: Nhập ngọc at 03/13/2023 1:28 AM
+BAG:memayha add 7xNgọc Rồng 3 sao (old: 6) lydo: Nhập ngọc at 03/13/2023 1:28 AM
+BAG:memayha add 1xCải trang Hit lydo: Lấy từ body vào hành trang at 03/13/2023 1:31 AM
+BAG:memayha add 10xCuồng nộ lydo: Lấy từ rương qua người at 03/13/2023 1:33 AM
+BAG:memayha add 2xNgọc Rồng 4 sao lydo: Lấy từ rương qua người at 03/13/2023 1:33 AM
+BAG:memayha add 99xViên Capsule kì bí lydo: Mua từ bill at 03/13/2023 1:34 AM
+BAG:memayha add 11xCuồng nộ (old: 10) lydo: CSKB at 03/13/2023 1:34 AM
+BAG:memayha add 1xẨn danh lydo: CSKB at 03/13/2023 1:34 AM
+BAG:memayha add 2xẨn danh (old: 1) lydo: CSKB at 03/13/2023 1:34 AM
+BAG:memayha add 1xBổ khí lydo: CSKB at 03/13/2023 1:34 AM
+BAG:memayha add 1xẨn danh lydo: CSKB at 03/13/2023 1:34 AM
+BAG:memayha add 1xBổ huyết lydo: CSKB at 03/13/2023 1:35 AM
+BAG:memayha add 1xBổ khí lydo: CSKB at 03/13/2023 1:35 AM
+BAG:memayha add 2xẨn danh (old: 1) lydo: CSKB at 03/13/2023 1:35 AM
+BAG:memayha add 2xBổ khí (old: 1) lydo: CSKB at 03/13/2023 1:35 AM
+BAG:memayha add 3xẨn danh (old: 2) lydo: CSKB at 03/13/2023 1:35 AM
+BAG:memayha add 12xCuồng nộ (old: 11) lydo: CSKB at 03/13/2023 1:35 AM
+BAG:memayha add 4xẨn danh (old: 3) lydo: CSKB at 03/13/2023 1:36 AM
+BAG:memayha add 1xCuồng nộ lydo: CSKB at 03/13/2023 1:36 AM
+BAG:memayha add 2xCuồng nộ (old: 1) lydo: CSKB at 03/13/2023 1:36 AM
+BAG:memayha add 5xẨn danh (old: 4) lydo: CSKB at 03/13/2023 1:36 AM
+BAG:memayha add 6xẨn danh (old: 5) lydo: CSKB at 03/13/2023 1:36 AM
+BAG:memayha add 14xCuồng nộ (old: 2) lydo: Lấy từ rương qua người at 03/13/2023 1:36 AM
+BAG:memayha add 1xHoa hồng xanh lydo: Nhặt từ map at 03/13/2023 1:40 AM
+BAG:memayha add 3xNgọc Rồng 4 sao (old: 2) lydo: Nhặt từ map at 03/13/2023 1:40 AM
+BAG:memayha add 1xHoa hồng xanh lydo: Nhặt từ map at 03/13/2023 1:55 AM
+BAG:memayha add 1xHoa hồng đỏ lydo: Nhặt từ map at 03/13/2023 1:56 AM
+BAG:memayha add 1xHoa hồng vàng lydo: Nhặt từ map at 03/13/2023 1:58 AM
+BAG:memayha add 1xHoa hồng vàng lydo: Nhặt từ map at 03/13/2023 2:02 AM
+BAG:memayha add 1xHoa hồng đỏ lydo: Nhặt từ map at 03/13/2023 2:10 AM
+BAG:memayha add 1xĐá thạch anh tím lydo: Nhặt từ map at 03/13/2023 2:11 AM
+BAG:memayha add 1xHoa hồng xanh lydo: Nhặt từ map at 03/13/2023 2:11 AM
+BAG:memayha add 2xHoa hồng đỏ (old: 1) lydo: Nhặt từ map at 03/13/2023 2:12 AM
+BAG:memayha add 1xHoa hồng vàng lydo: Nhặt từ map at 03/13/2023 2:12 AM
+BAG:memayha add 1xHoa hồng xanh lydo: Nhặt từ map at 03/13/2023 2:12 AM
+BAG:memayha add 1xĐá Ruby lydo: Nhặt từ map at 03/13/2023 2:12 AM
+BAG:memayha add 2xHoa hồng xanh (old: 1) lydo: Nhặt từ map at 03/13/2023 2:14 AM
+BAG:memayha add 2xHoa hồng vàng (old: 1) lydo: Nhặt từ map at 03/13/2023 2:14 AM
+BAG:memayha add 1xNgọc Rồng 3 sao lydo: Nhặt từ map at 03/13/2023 2:15 AM
+BAG:memayha add 2xNgọc Rồng 3 sao (old: 1) lydo: Nhặt từ map at 03/13/2023 2:20 AM
+BAG:memayha add 3xHoa hồng xanh (old: 2) lydo: Nhặt từ map at 03/13/2023 2:21 AM
+BAG:memayha add 2xĐá thạch anh tím (old: 1) lydo: Nhặt từ map at 03/13/2023 2:22 AM
+BAG:memayha add 4xNgọc Rồng 4 sao (old: 3) lydo: Nhặt từ map at 03/13/2023 2:43 AM

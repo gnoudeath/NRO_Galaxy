@@ -1,0 +1,49 @@
+BAG:fukada add 150xThỏi vàng lydo: Giftcode at 03/11/2023 11:44 AM
+BAG:fukada add 99xNgọc Rồng 3 sao lydo: Giftcode at 03/11/2023 11:44 AM
+BAG:fukada add 1xÁo vải thô lydo: Nhặt từ map at 03/11/2023 11:45 AM
+BAG:fukada add 1xHoa hồng xanh lydo: Nhặt từ map at 03/11/2023 11:45 AM
+BAG:fukada add 1xĐá thạch anh tím lydo: Nhặt từ map at 03/11/2023 11:45 AM
+BAG:fukada add 1xMảnh Quỷ đất lydo: Nhặt từ map at 03/11/2023 11:45 AM
+BAG:fukada add 1xÁo vải thô lydo: Nhặt từ map at 03/11/2023 11:45 AM
+BAG:fukada add 2xHoa hồng xanh (old: 1) lydo: Nhặt từ map at 03/11/2023 11:46 AM
+BAG:fukada add 1xHoa hồng đỏ lydo: Nhặt từ map at 03/11/2023 11:46 AM
+BAG:fukada add 2xHoa hồng đỏ (old: 1) lydo: Nhặt từ map at 03/11/2023 11:46 AM
+BAG:fukada add 1xQuần vải thô lydo: Nhặt từ map at 03/11/2023 11:47 AM
+BAG:fukada add 1xRada cấp 1 lydo: Nhặt từ map at 03/11/2023 11:47 AM
+BAG:fukada add 3xHoa hồng xanh (old: 2) lydo: Nhặt từ map at 03/11/2023 11:49 AM
+BAG:fukada add 3xHoa hồng đỏ (old: 2) lydo: Nhặt từ map at 03/11/2023 11:49 AM
+BAG:fukada add 1xĐá Ruby lydo: Nhặt từ map at 03/11/2023 11:50 AM
+BAG:fukada add 1xHoa hồng vàng lydo: Nhặt từ map at 03/11/2023 11:51 AM
+BAG:fukada add 1xQuần vải thô lydo: Nhặt từ map at 03/11/2023 11:51 AM
+BAG:fukada add 4xHoa hồng đỏ (old: 3) lydo: Nhặt từ map at 03/11/2023 11:51 AM
+BAG:fukada add 1xRada cấp 1 lydo: Nhặt từ map at 03/11/2023 11:51 AM
+BAG:fukada add 5xHoa hồng đỏ (old: 4) lydo: Nhặt từ map at 03/11/2023 11:52 AM
+BAG:fukada add 1xĐá Saphia lydo: Nhặt từ map at 03/11/2023 11:58 AM
+BAG:fukada add 5xĐậu thần cấp 1 lydo: Thu hoạch đậu at 03/11/2023 12:00 PM
+BAG:fukada add 2xĐá Ruby (old: 1) lydo: Nhặt từ map at 03/11/2023 12:02 PM
+BAG:fukada add 1xQuần vải thô lydo: Nhặt từ map at 03/11/2023 12:02 PM
+BAG:fukada add 4xHoa hồng xanh (old: 3) lydo: Nhặt từ map at 03/11/2023 12:02 PM
+BAG:fukada add 1xNgọc Rồng 5 sao lydo: Nhặt từ map at 03/11/2023 12:03 PM
+BAG:fukada add 1xRada cấp 1 lydo: Nhặt từ map at 03/11/2023 12:03 PM
+BAG:fukada add 2xHoa hồng vàng (old: 1) lydo: Nhặt từ map at 03/11/2023 12:03 PM
+BAG:fukada add 3xHoa hồng vàng (old: 2) lydo: Nhặt từ map at 03/11/2023 12:03 PM
+BAG:fukada add 1xÁo vải thô lydo: Nhặt từ map at 03/11/2023 12:03 PM
+BAG:fukada add 1xGăng vải thô lydo: Nhặt từ map at 03/11/2023 12:04 PM
+BAG:fukada add 1xGăng vải thô lydo: Nhặt từ map at 03/11/2023 12:04 PM
+BAG:fukada add 6xHoa hồng đỏ (old: 5) lydo: Nhặt từ map at 03/11/2023 12:04 PM
+BAG:fukada add 1xViên Capsule đặc biệt lydo: Mua từ cửa hàng at 03/11/2023 12:05 PM
+BAG:fukada add 1xĐổi đệ tử lydo: Mua từ cửa hàng at 03/11/2023 12:49 PM
+BAG:fukada add 2xĐổi đệ tử (old: 1) lydo: Mua từ cửa hàng at 03/11/2023 12:49 PM
+BAG:fukada add 3xĐổi đệ tử (old: 2) lydo: Mua từ cửa hàng at 03/11/2023 12:49 PM
+BAG:fukada add 4xĐổi đệ tử (old: 3) lydo: Mua từ cửa hàng at 03/11/2023 12:49 PM
+BAG:fukada add 5xĐổi đệ tử (old: 4) lydo: Mua từ cửa hàng at 03/11/2023 12:49 PM
+BAG:fukada add 6xĐổi đệ tử (old: 5) lydo: Mua từ cửa hàng at 03/11/2023 12:49 PM
+BAG:fukada add 7xĐổi đệ tử (old: 6) lydo: Mua từ cửa hàng at 03/11/2023 12:49 PM
+BAG:fukada add 8xĐổi đệ tử (old: 7) lydo: Mua từ cửa hàng at 03/11/2023 12:49 PM
+BAG:fukada add 9xĐổi đệ tử (old: 8) lydo: Mua từ cửa hàng at 03/11/2023 12:49 PM
+BAG:fukada add 10xĐổi đệ tử (old: 9) lydo: Mua từ cửa hàng at 03/11/2023 12:49 PM
+BAG:fukada add 11xĐổi đệ tử (old: 10) lydo: Mua từ cửa hàng at 03/11/2023 12:49 PM
+BAG:fukada add 12xĐổi đệ tử (old: 11) lydo: Mua từ cửa hàng at 03/11/2023 12:49 PM
+BAG:fukada add 13xĐổi đệ tử (old: 12) lydo: Mua từ cửa hàng at 03/11/2023 12:49 PM
+BAG:fukada add 14xĐổi đệ tử (old: 13) lydo: Mua từ cửa hàng at 03/11/2023 12:49 PM
+BAG:fukada add 15xĐổi đệ tử (old: 14) lydo: Mua từ cửa hàng at 03/11/2023 12:49 PM

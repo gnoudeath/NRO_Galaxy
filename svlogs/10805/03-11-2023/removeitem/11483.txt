@@ -1,0 +1,148 @@
+BAG:hoiblue remove Đậu thần cấp 7 lydo: Tự Xóa vật phẩm at 03/11/2023 1:57 PM
+BAG:hoiblue remove Đậu thần cấp 7 lydo: Tự Xóa vật phẩm at 03/11/2023 2:00 PM
+BAG:hoiblue remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/11/2023 2:04 PM
+BAG:hoiblue remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/11/2023 2:07 PM
+BAG:hoiblue remove Rada cấp 1 lydo: Mặc vào người at 03/11/2023 2:08 PM
+BAG:hoiblue remove 100xThỏi vàng lydo: Mua đồ hủy diệt at 03/11/2023 2:09 PM
+BAG:hoiblue remove Cải Trang Thần Zeno Trái Đất lydo: Mặc vào người at 03/11/2023 2:09 PM
+BAG:hoiblue remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/11/2023 2:09 PM
+BAG:hoiblue remove Quần vải đen lydo: Tự Xóa vật phẩm at 03/11/2023 2:11 PM
+BAG:hoiblue remove Quần vải đen lydo: Tự Xóa vật phẩm at 03/11/2023 2:12 PM
+BAG:hoiblue remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/11/2023 2:12 PM
+BAG:hoiblue remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/11/2023 2:12 PM
+BAG:hoiblue remove Quần vải đen lydo: Tự Xóa vật phẩm at 03/11/2023 2:13 PM
+BAG:hoiblue remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/11/2023 2:13 PM
+BAG:hoiblue remove Găng vải đen lydo: Tự Xóa vật phẩm at 03/11/2023 2:14 PM
+BAG:hoiblue remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/11/2023 2:14 PM
+BAG:hoiblue remove Găng vải đen lydo: Tự Xóa vật phẩm at 03/11/2023 2:16 PM
+BAG:hoiblue remove Quần vải đen lydo: Tự Xóa vật phẩm at 03/11/2023 2:16 PM
+BAG:hoiblue remove Đá lục bảo lydo: Tự Xóa vật phẩm at 03/11/2023 2:17 PM
+BAG:hoiblue remove Đá Saphia lydo: Tự Xóa vật phẩm at 03/11/2023 2:17 PM
+BAG:hoiblue remove Áo vải 3 lỗ lydo: Tự Xóa vật phẩm at 03/11/2023 2:17 PM
+BAG:hoiblue remove Rada cấp 1 lydo: Tự Xóa vật phẩm at 03/11/2023 2:17 PM
+BAG:hoiblue remove Quần vải đen lydo: Tự Xóa vật phẩm at 03/11/2023 2:18 PM
+BAG:hoiblue remove Áo vải 3 lỗ lydo: Tự Xóa vật phẩm at 03/11/2023 2:18 PM
+BAG:hoiblue remove Rada cấp 1 lydo: Tự Xóa vật phẩm at 03/11/2023 2:18 PM
+BAG:hoiblue remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/11/2023 2:18 PM
+BAG:hoiblue remove Áo vải 3 lỗ lydo: Tự Xóa vật phẩm at 03/11/2023 2:18 PM
+BAG:hoiblue remove Găng vải đen lydo: Tự Xóa vật phẩm at 03/11/2023 2:18 PM
+BAG:hoiblue remove Rada cấp 1 lydo: Tự Xóa vật phẩm at 03/11/2023 2:18 PM
+BAG:hoiblue remove Đá Titan lydo: Tự Xóa vật phẩm at 03/11/2023 2:19 PM
+BAG:hoiblue remove Giầy nhựa lydo: Tự Xóa vật phẩm at 03/11/2023 2:19 PM
+BAG:hoiblue remove Đá Saphia lydo: Tự Xóa vật phẩm at 03/11/2023 2:19 PM
+BAG:hoiblue remove Rada cấp 1 lydo: Tự Xóa vật phẩm at 03/11/2023 2:19 PM
+BAG:hoiblue remove Găng vải đen lydo: Mặc cho đệ tử at 03/11/2023 2:20 PM
+BAG:hoiblue remove Áo vải 3 lỗ lydo: Mặc cho đệ tử at 03/11/2023 2:20 PM
+BAG:hoiblue remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/11/2023 2:20 PM
+BAG:hoiblue remove Giầy nhựa lydo: Mặc cho đệ tử at 03/11/2023 2:20 PM
+BAG:hoiblue remove Rada cấp 1 lydo: Mặc cho đệ tử at 03/11/2023 2:20 PM
+BAG:hoiblue remove 1xQuần vải đen lydo: Bán cho shop at 03/11/2023 2:20 PM
+BAG:hoiblue remove 1xRada cấp 1 lydo: Bán cho shop at 03/11/2023 2:20 PM
+BAG:hoiblue remove 1xGiầy nhựa lydo: Bán cho shop at 03/11/2023 2:20 PM
+BAG:hoiblue remove 1xÁo vải 3 lỗ lydo: Bán cho shop at 03/11/2023 2:21 PM
+BAG:hoiblue remove 1xGiầy nhựa lydo: Bán cho shop at 03/11/2023 2:21 PM
+BAG:hoiblue remove 1xRada cấp 1 lydo: Bán cho shop at 03/11/2023 2:21 PM
+BAG:hoiblue remove 1xGiầy nhựa lydo: Bán cho shop at 03/11/2023 2:21 PM
+BAG:hoiblue remove 1xĐá Saphia lydo: Bán cho shop at 03/11/2023 2:21 PM
+BAG:hoiblue remove 1xĐá Titan lydo: Bán cho shop at 03/11/2023 2:21 PM
+BAG:hoiblue remove 10xHoa hồng đỏ lydo: Bán cho shop at 03/11/2023 2:21 PM
+BAG:hoiblue remove 1xĐá lục bảo lydo: Bán cho shop at 03/11/2023 2:22 PM
+BAG:hoiblue remove 1xÁo vải 3 lỗ lydo: Bán cho shop at 03/11/2023 2:22 PM
+BAG:hoiblue remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/11/2023 2:22 PM
+BAG:hoiblue remove 1xÁo vải 3 lỗ lydo: Bán cho shop at 03/11/2023 2:22 PM
+BAG:hoiblue remove 1xQuần vải đen lydo: Bán cho shop at 03/11/2023 2:22 PM
+BAG:hoiblue remove 1xRada cấp 1 lydo: Bán cho shop at 03/11/2023 2:22 PM
+BAG:hoiblue remove 1xQuần vải đen lydo: Bán cho shop at 03/11/2023 2:22 PM
+BAG:hoiblue remove 1xGăng vải đen lydo: Bán cho shop at 03/11/2023 2:22 PM
+BAG:hoiblue remove 1xÁo vải 3 lỗ lydo: Bán cho shop at 03/11/2023 2:22 PM
+BAG:hoiblue remove 1xGiầy nhựa lydo: Bán cho shop at 03/11/2023 2:22 PM
+BAG:hoiblue remove 1xGăng vải đen lydo: Bán cho shop at 03/11/2023 2:22 PM
+BAG:hoiblue remove 1xMảnh Khủng long lydo: Dùng thẻ sưu tầm at 03/11/2023 2:23 PM
+BAG:hoiblue remove Găng vải đen lydo: Tự Xóa vật phẩm at 03/11/2023 2:23 PM
+BAG:hoiblue remove Găng vải đen lydo: Tự Xóa vật phẩm at 03/11/2023 2:23 PM
+BAG:hoiblue remove Quần vải đen lydo: Mặc cho đệ tử at 03/11/2023 2:23 PM
+BAG:hoiblue remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/11/2023 2:23 PM
+BAG:hoiblue remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/11/2023 2:24 PM
+BAG:hoiblue remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/11/2023 2:25 PM
+BAG:hoiblue remove Mảnh Thằn lằn bay lydo: Tự Xóa vật phẩm at 03/11/2023 2:25 PM
+BAG:hoiblue remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/11/2023 2:28 PM
+BAG:hoiblue remove Áo vải 3 lỗ lydo: Tự Xóa vật phẩm at 03/11/2023 2:33 PM
+BAG:hoiblue remove Áo vải 3 lỗ lydo: Mặc vào người at 03/11/2023 2:39 PM
+BAG:hoiblue remove Quần vải đen lydo: Mặc vào người at 03/11/2023 2:40 PM
+BAG:hoiblue remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 03/11/2023 2:42 PM
+BAG:hoiblue remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 03/11/2023 2:43 PM
+BAG:hoiblue remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 03/11/2023 2:43 PM
+BAG:hoiblue remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 03/11/2023 2:43 PM
+BAG:hoiblue remove Áo vải 3 lỗ lydo: Mặc vào người at 03/11/2023 2:44 PM
+BAG:hoiblue remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 03/11/2023 2:44 PM
+BAG:hoiblue remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 03/11/2023 2:44 PM
+BAG:hoiblue remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 03/11/2023 2:45 PM
+BAG:hoiblue remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 03/11/2023 2:45 PM
+BAG:hoiblue remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 03/11/2023 2:45 PM
+BAG:hoiblue remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 03/11/2023 2:45 PM
+BAG:hoiblue remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 03/11/2023 2:46 PM
+BAG:hoiblue remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 03/11/2023 2:46 PM
+BAG:hoiblue remove Giầy nhựa lydo: Mặc vào người at 03/11/2023 5:38 PM
+BAG:hoiblue remove Găng vải đen lydo: Mặc vào người at 03/11/2023 5:38 PM
+BAG:hoiblue remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 03/11/2023 5:38 PM
+BAG:hoiblue remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 03/11/2023 5:39 PM
+BAG:hoiblue remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 03/11/2023 5:39 PM
+BAG:hoiblue remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 03/11/2023 5:40 PM
+BAG:hoiblue remove Rada cấp 1 lydo: Mặc vào người at 03/11/2023 5:40 PM
+BAG:hoiblue remove Quần vải đen lydo: Mặc vào người at 03/11/2023 5:40 PM
+BAG:hoiblue remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/11/2023 5:41 PM
+BAG:hoiblue remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/11/2023 5:41 PM
+BAG:hoiblue remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/11/2023 5:42 PM
+BAG:hoiblue remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/11/2023 5:43 PM
+BAG:hoiblue remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/11/2023 5:43 PM
+BAG:hoiblue remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/11/2023 5:43 PM
+BAG:hoiblue remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/11/2023 5:44 PM
+BAG:hoiblue remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/11/2023 5:44 PM
+BAG:hoiblue remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/11/2023 5:44 PM
+BAG:hoiblue remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/11/2023 5:45 PM
+BAG:hoiblue remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/11/2023 5:45 PM
+BAG:hoiblue remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/11/2023 5:46 PM
+BAG:hoiblue remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/11/2023 5:46 PM
+BAG:hoiblue remove Sách đấm Dragon lv2 lydo: Sách kĩ năng at 03/11/2023 5:47 PM
+BAG:hoiblue remove Sách đấm Dragon lv3 lydo: Sách kĩ năng at 03/11/2023 5:47 PM
+BAG:hoiblue remove Sách đấm Dragon lv4 lydo: Sách kĩ năng at 03/11/2023 5:47 PM
+BAG:hoiblue remove Sách đấm Dragon lv5 lydo: Sách kĩ năng at 03/11/2023 5:47 PM
+BAG:hoiblue remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/11/2023 5:49 PM
+BAG:hoiblue remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/11/2023 5:49 PM
+BAG:hoiblue remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/11/2023 5:50 PM
+BAG:hoiblue remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/11/2023 5:50 PM
+BAG:hoiblue remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/11/2023 5:50 PM
+BAG:hoiblue remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/11/2023 5:51 PM
+BAG:hoiblue remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/11/2023 5:51 PM
+BAG:hoiblue remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/11/2023 5:51 PM
+BAG:hoiblue remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/11/2023 5:52 PM
+BAG:hoiblue remove 1xThỏi vàng lydo: Bán cho shop at 03/11/2023 5:52 PM
+BAG:hoiblue remove 1xThỏi vàng lydo: Bán cho shop at 03/11/2023 5:52 PM
+BAG:hoiblue remove 1xThỏi vàng lydo: Bán cho shop at 03/11/2023 5:52 PM
+BAG:hoiblue remove 83xNgọc Rồng 3 sao lydo: Bán cho shop at 03/11/2023 5:54 PM
+BAG:hoiblue remove 1xThỏi vàng lydo: Bán cho shop at 03/11/2023 5:54 PM
+BAG:hoiblue remove Giáp tập luyện cấp 1 lydo: Tự Xóa vật phẩm at 03/11/2023 5:55 PM
+BAG:hoiblue remove Giáp tập luyện cấp 1 lydo: Tự Xóa vật phẩm at 03/11/2023 5:55 PM
+BAG:hoiblue remove Giáp tập luyện cấp 1 lydo: Tự Xóa vật phẩm at 03/11/2023 5:55 PM
+BAG:hoiblue remove Giáp tập luyện cấp 2 lydo: Tự Xóa vật phẩm at 03/11/2023 5:55 PM
+BAG:hoiblue remove 1xNâng cấp kỹ năng 1 đệ tử lydo: Dùng sách kĩ năng đệ tử at 03/11/2023 5:58 PM
+BAG:hoiblue remove 1xNâng cấp kỹ năng 1 đệ tử lydo: Dùng sách kĩ năng đệ tử at 03/11/2023 5:58 PM
+BAG:hoiblue remove 1xNâng cấp kỹ năng 1 đệ tử lydo: Dùng sách kĩ năng đệ tử at 03/11/2023 5:58 PM
+BAG:hoiblue remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/11/2023 5:59 PM
+BAG:hoiblue remove Giầy nhựa lydo: Mặc vào người at 03/11/2023 6:00 PM
+BAG:hoiblue remove Rada cấp 1 lydo: Mặc vào người at 03/11/2023 6:00 PM
+BAG:hoiblue remove Cải Trang Thần Zeno Trái Đất lydo: Mặc cho đệ tử at 03/11/2023 6:00 PM
+BAG:hoiblue remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/11/2023 6:01 PM
+BAG:hoiblue remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/11/2023 6:01 PM
+BAG:hoiblue remove Đặt tên đệ tử lydo: Tự Xóa vật phẩm at 03/11/2023 6:03 PM
+BAG:hoiblue remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/11/2023 6:04 PM
+BAG:hoiblue remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/11/2023 6:06 PM
+BAG:hoiblue remove 2xThỏi vàng lydo: Mua đồ hủy diệt at 03/11/2023 6:06 PM
+BAG:hoiblue remove 2xThỏi vàng lydo: Mua đồ hủy diệt at 03/11/2023 6:07 PM
+BAG:hoiblue remove 10xHoa hồng đỏ lydo: Đổi hoa at 03/11/2023 6:08 PM
+BAG:hoiblue remove 10xHoa hồng xanh lydo: Đổi hoa at 03/11/2023 6:08 PM
+BAG:hoiblue remove 10xHoa hồng vàng lydo: Đổi hoa at 03/11/2023 6:08 PM
+BAG:hoiblue remove 10xHoa hồng vàng lydo: Đổi hoa at 03/11/2023 6:08 PM
+BAG:hoiblue remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/11/2023 6:08 PM
+BAG:hoiblue remove Đá Ruby lydo: Tự Xóa vật phẩm at 03/11/2023 6:08 PM
+BAG:hoiblue remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/11/2023 6:10 PM

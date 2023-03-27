@@ -1,0 +1,132 @@
+BAG:kakarote1 add 1xĐá ngũ sắc lydo: Lấy từ rương qua người at 03/12/2023 9:36 AM
+BAG:kakarote1 add 1xGăng Thần Namếc lydo: Mua từ bill at 03/12/2023 9:37 AM
+BAG:kakarote1 add 1xBông tai Porata lydo: Mua từ cửa hàng at 03/12/2023 9:42 AM
+BAG:kakarote1 add 2xHộp bánh Trung Thu lydo: Lấy từ rương qua người at 03/12/2023 9:43 AM
+BAG:kakarote1 add 1xRada cấp 1 lydo: Nhặt từ map at 03/12/2023 9:44 AM
+BAG:kakarote1 add 1xHoa hồng vàng lydo: Nhặt từ map at 03/12/2023 9:44 AM
+BAG:kakarote1 add 1xĐá thạch anh tím lydo: Nhặt từ map at 03/12/2023 9:44 AM
+BAG:kakarote1 add 3xHoa hồng đỏ (old: 2) lydo: Nhặt từ map at 03/12/2023 9:44 AM
+BAG:kakarote1 add 1xHoa hồng xanh lydo: Nhặt từ map at 03/12/2023 9:45 AM
+BAG:kakarote1 add 1xHoa hồng vàng lydo: Nhặt từ map at 03/12/2023 9:45 AM
+BAG:kakarote1 add 2xHoa hồng vàng (old: 1) lydo: Nhặt từ map at 03/12/2023 9:45 AM
+BAG:kakarote1 add 1xRada cấp 1 lydo: Nhặt từ map at 03/12/2023 9:47 AM
+BAG:kakarote1 add 1xHoa hồng đỏ lydo: Nhặt từ map at 03/12/2023 9:47 AM
+BAG:kakarote1 add 1xQuần vải thô lydo: Nhặt từ map at 03/12/2023 9:47 AM
+BAG:kakarote1 add 1xGiầy vải thô lydo: Nhặt từ map at 03/12/2023 9:47 AM
+BAG:kakarote1 add 1xÁo vải thô lydo: Nhặt từ map at 03/12/2023 9:47 AM
+BAG:kakarote1 add 1xGiầy vải thô lydo: Nhặt từ map at 03/12/2023 9:47 AM
+BAG:kakarote1 add 1xHoa hồng xanh lydo: Nhặt từ map at 03/12/2023 9:47 AM
+BAG:kakarote1 add 1xQuần vải thô lydo: Nhặt từ map at 03/12/2023 9:47 AM
+BAG:kakarote1 add 1xHoa hồng vàng lydo: Nhặt từ map at 03/12/2023 9:47 AM
+BAG:kakarote1 add 1xRada cấp 1 lydo: Nhặt từ map at 03/12/2023 9:47 AM
+BAG:kakarote1 add 1xGiầy vải thô lydo: Nhặt từ map at 03/12/2023 9:47 AM
+BAG:kakarote1 add 1xGiầy vải thô lydo: Nhặt từ map at 03/12/2023 9:47 AM
+BAG:kakarote1 add 2xHoa hồng vàng (old: 1) lydo: Nhặt từ map at 03/12/2023 9:47 AM
+BAG:kakarote1 add 3xHoa hồng vàng (old: 2) lydo: Nhặt từ map at 03/12/2023 9:47 AM
+BAG:kakarote1 add 2xHoa hồng đỏ (old: 1) lydo: Nhặt từ map at 03/12/2023 9:47 AM
+BAG:kakarote1 add 1xÁo vải thô lydo: Nhặt từ map at 03/12/2023 9:47 AM
+BAG:kakarote1 add 1xQuần vải thô lydo: Nhặt từ map at 03/12/2023 9:47 AM
+BAG:kakarote1 add 2xHoa hồng xanh (old: 1) lydo: Nhặt từ map at 03/12/2023 9:48 AM
+BAG:kakarote1 add 1xRada cấp 1 lydo: Nhặt từ map at 03/12/2023 9:48 AM
+BAG:kakarote1 add 3xHoa hồng đỏ (old: 2) lydo: Nhặt từ map at 03/12/2023 9:48 AM
+BAG:kakarote1 add 1xĐá Ruby lydo: Nhặt từ map at 03/12/2023 9:48 AM
+BAG:kakarote1 add 4xHoa hồng đỏ (old: 3) lydo: Nhặt từ map at 03/12/2023 9:48 AM
+BAG:kakarote1 add 4xHoa hồng vàng (old: 3) lydo: Nhặt từ map at 03/12/2023 9:48 AM
+BAG:kakarote1 add 3xHoa hồng xanh (old: 2) lydo: Nhặt từ map at 03/12/2023 9:48 AM
+BAG:kakarote1 add 1xÁo vải thô lydo: Nhặt từ map at 03/12/2023 9:48 AM
+BAG:kakarote1 add 5xHoa hồng vàng (old: 4) lydo: Nhặt từ map at 03/12/2023 9:48 AM
+BAG:kakarote1 add 1xĐá thạch anh tím lydo: Nhặt từ map at 03/12/2023 9:48 AM
+BAG:kakarote1 add 2xĐá thạch anh tím (old: 1) lydo: Nhặt từ map at 03/12/2023 9:48 AM
+BAG:kakarote1 add 1xCải trang Chill cấp 2 lydo: Mua từ cửa hàng at 03/12/2023 10:02 AM
+BAG:kakarote1 add 1xCải trang Chill cấp 2 lydo: Mua từ cửa hàng at 03/12/2023 10:02 AM
+BAG:kakarote1 add 1xGiáp tập luyện cấp 3 lydo: Lấy từ body vào hành trang at 03/12/2023 10:02 AM
+BAG:kakarote1 add 1xBông tai Porata lydo: Mua từ cửa hàng at 03/12/2023 2:03 PM
+BAG:kakarote1 add 1xGăng Thiên Sứ lydo: Mua từ cửa hàng at 03/12/2023 2:21 PM
+BAG:kakarote1 add 1xGăng Thiên Sứ lydo: Mua từ cửa hàng at 03/12/2023 2:21 PM
+BAG:kakarote1 add 1xGăng Thiên Sứ lydo: Mua từ cửa hàng at 03/12/2023 2:21 PM
+BAG:kakarote1 add 1xCải Trang Thần Zeno Trái Đất lydo: Mua từ cửa hàng at 03/12/2023 6:24 PM
+BAG:kakarote1 add 1xCải Trang Thần Zeno Trái Đất lydo: Mua từ cửa hàng at 03/12/2023 6:24 PM
+BAG:kakarote1 add 1xGiáp tập luyện cấp 3 lydo: Lấy từ body vào hành trang at 03/12/2023 6:58 PM
+BAG:kakarote1 add 54xNgọc Rồng 3 sao (old: 53) lydo: Nhặt từ map at 03/12/2023 7:00 PM
+BAG:kakarote1 add 1xNhẫn thời không sai lệch lydo: Mua từ cửa hàng at 03/12/2023 7:01 PM
+BAG:kakarote1 add 1xNhẫn thời không sai lệch lydo: Mua từ cửa hàng at 03/12/2023 7:01 PM
+BAG:kakarote1 add 1xĐá thạch anh tím lydo: Nhặt từ map at 03/12/2023 7:06 PM
+BAG:kakarote1 add 1xHoa hồng xanh lydo: Nhặt từ map at 03/12/2023 7:06 PM
+BAG:kakarote1 add 1xHoa hồng vàng lydo: Nhặt từ map at 03/12/2023 7:06 PM
+BAG:kakarote1 add 2xHoa hồng vàng (old: 1) lydo: Nhặt từ map at 03/12/2023 7:06 PM
+BAG:kakarote1 add 99xViên Capsule kì bí lydo: Mua từ cửa hàng at 03/12/2023 10:14 PM
+BAG:kakarote1 add 1xẨn danh lydo: CSKB at 03/12/2023 10:14 PM
+BAG:kakarote1 add 2xẨn danh (old: 1) lydo: CSKB at 03/12/2023 10:14 PM
+BAG:kakarote1 add 9xCuồng nộ (old: 8) lydo: CSKB at 03/12/2023 10:14 PM
+BAG:kakarote1 add 1xBổ khí lydo: CSKB at 03/12/2023 10:15 PM
+BAG:kakarote1 add 2xBổ khí (old: 1) lydo: CSKB at 03/12/2023 10:15 PM
+BAG:kakarote1 add 3xBổ khí (old: 2) lydo: CSKB at 03/12/2023 10:15 PM
+BAG:kakarote1 add 3xẨn danh (old: 2) lydo: CSKB at 03/12/2023 10:15 PM
+BAG:kakarote1 add 10xCuồng nộ (old: 9) lydo: CSKB at 03/12/2023 10:15 PM
+BAG:kakarote1 add 4xBổ khí (old: 3) lydo: CSKB at 03/12/2023 10:15 PM
+BAG:kakarote1 add 5xBổ khí (old: 4) lydo: CSKB at 03/12/2023 10:15 PM
+BAG:kakarote1 add 6xBổ khí (old: 5) lydo: CSKB at 03/12/2023 10:16 PM
+BAG:kakarote1 add 4xẨn danh (old: 3) lydo: CSKB at 03/12/2023 10:16 PM
+BAG:kakarote1 add 7xBổ khí (old: 6) lydo: CSKB at 03/12/2023 10:16 PM
+BAG:kakarote1 add 1xBổ huyết lydo: CSKB at 03/12/2023 10:16 PM
+BAG:kakarote1 add 11xCuồng nộ (old: 10) lydo: CSKB at 03/12/2023 10:16 PM
+BAG:kakarote1 add 5xẨn danh (old: 4) lydo: CSKB at 03/12/2023 10:16 PM
+BAG:kakarote1 add 8xBổ khí (old: 7) lydo: CSKB at 03/12/2023 10:16 PM
+BAG:kakarote1 add 12xCuồng nộ (old: 11) lydo: CSKB at 03/12/2023 10:16 PM
+BAG:kakarote1 add 6xẨn danh (old: 5) lydo: CSKB at 03/12/2023 10:16 PM
+BAG:kakarote1 add 13xCuồng nộ (old: 12) lydo: CSKB at 03/12/2023 10:16 PM
+BAG:kakarote1 add 1xNhẫn thời không sai lệch lydo: Lấy từ rương qua người at 03/12/2023 10:22 PM
+BAG:kakarote1 add 2xHộp bánh Trung Thu lydo: Lấy từ rương qua người at 03/12/2023 10:22 PM
+BAG:kakarote1 add 1xGiáp tập luyện cấp 3 lydo: Lấy từ body vào hành trang at 03/12/2023 10:28 PM
+BAG:kakarote1 add 1xGiáp tập luyện cấp 3 lydo: Lấy từ body vào hành trang at 03/12/2023 10:33 PM
+BAG:kakarote1 add 1xNgọc Rồng 3 sao lydo: Nhặt từ map at 03/12/2023 10:34 PM
+BAG:kakarote1 add 1xThiệp chúc mừng xanh lydo: Nhặt từ map at 03/12/2023 10:34 PM
+BAG:kakarote1 add 1xÁo Thần Xayda lydo: Mua từ cửa hàng at 03/12/2023 11:32 PM
+BAG:kakarote1 add 1xNhẫn Thần Linh lydo: Mua từ cửa hàng at 03/12/2023 11:36 PM
+BAG:kakarote1 add 1xGiầy Thần Xayda lydo: (GD) Nhận từ 1hit1bae at 03/12/2023 11:38 PM
+BAG:kakarote1 add 1xQuần Thần Xayda lydo: (GD) Nhận từ 1hit1bae at 03/12/2023 11:38 PM
+BAG:kakarote1 add 1xGăng Thần Xayda lydo: (GD) Nhận từ 1hit1bae at 03/12/2023 11:38 PM
+BAG:kakarote1 add 1xHoa hồng đỏ lydo: Nhặt từ map at 03/12/2023 11:48 PM
+BAG:kakarote1 add 2xHoa hồng đỏ (old: 1) lydo: Nhặt từ map at 03/12/2023 11:48 PM
+BAG:kakarote1 add 2xHoa hồng xanh (old: 1) lydo: Nhặt từ map at 03/12/2023 11:48 PM
+BAG:kakarote1 add 3xHoa hồng vàng (old: 2) lydo: Nhặt từ map at 03/12/2023 11:48 PM
+BAG:kakarote1 add 1xĐá Titan lydo: Nhặt từ map at 03/12/2023 11:49 PM
+BAG:kakarote1 add 2xĐá Titan (old: 1) lydo: Nhặt từ map at 03/12/2023 11:49 PM
+BAG:kakarote1 add 4xHoa hồng vàng (old: 3) lydo: Nhặt từ map at 03/12/2023 11:49 PM
+BAG:kakarote1 add 1xNgọc Rồng 6 sao lydo: Nhặt từ map at 03/12/2023 11:49 PM
+BAG:kakarote1 add 3xHoa hồng đỏ (old: 2) lydo: Nhặt từ map at 03/12/2023 11:49 PM
+BAG:kakarote1 add 3xHoa hồng xanh (old: 2) lydo: Nhặt từ map at 03/12/2023 11:49 PM
+BAG:kakarote1 add 4xHoa hồng xanh (old: 3) lydo: Nhặt từ map at 03/12/2023 11:49 PM
+BAG:kakarote1 add 3xĐá Titan (old: 2) lydo: Nhặt từ map at 03/12/2023 11:49 PM
+BAG:kakarote1 add 5xHoa hồng xanh (old: 4) lydo: Nhặt từ map at 03/12/2023 11:49 PM
+BAG:kakarote1 add 4xHoa hồng đỏ (old: 3) lydo: Nhặt từ map at 03/12/2023 11:49 PM
+BAG:kakarote1 add 5xHoa hồng đỏ (old: 4) lydo: Nhặt từ map at 03/12/2023 11:49 PM
+BAG:kakarote1 add 1xĐá lục bảo lydo: Nhặt từ map at 03/12/2023 11:49 PM
+BAG:kakarote1 add 6xHoa hồng đỏ (old: 5) lydo: Nhặt từ map at 03/12/2023 11:49 PM
+BAG:kakarote1 add 7xHoa hồng đỏ (old: 6) lydo: Nhặt từ map at 03/12/2023 11:49 PM
+BAG:kakarote1 add 5xHoa hồng vàng (old: 4) lydo: Nhặt từ map at 03/12/2023 11:49 PM
+BAG:kakarote1 add 6xHoa hồng xanh (old: 5) lydo: Nhặt từ map at 03/12/2023 11:49 PM
+BAG:kakarote1 add 7xHoa hồng xanh (old: 6) lydo: Nhặt từ map at 03/12/2023 11:50 PM
+BAG:kakarote1 add 6xHoa hồng vàng (old: 5) lydo: Nhặt từ map at 03/12/2023 11:50 PM
+BAG:kakarote1 add 8xHoa hồng xanh (old: 7) lydo: Nhặt từ map at 03/12/2023 11:50 PM
+BAG:kakarote1 add 2xĐá thạch anh tím (old: 1) lydo: Nhặt từ map at 03/12/2023 11:50 PM
+BAG:kakarote1 add 8xHoa hồng đỏ (old: 7) lydo: Nhặt từ map at 03/12/2023 11:50 PM
+BAG:kakarote1 add 4xĐá Titan (old: 3) lydo: Nhặt từ map at 03/12/2023 11:50 PM
+BAG:kakarote1 add 9xHoa hồng đỏ (old: 8) lydo: Nhặt từ map at 03/12/2023 11:50 PM
+BAG:kakarote1 add 2xĐá lục bảo (old: 1) lydo: Nhặt từ map at 03/12/2023 11:50 PM
+BAG:kakarote1 add 3xĐá lục bảo (old: 2) lydo: Nhặt từ map at 03/12/2023 11:50 PM
+BAG:kakarote1 add 10xHoa hồng đỏ (old: 9) lydo: Nhặt từ map at 03/12/2023 11:50 PM
+BAG:kakarote1 add 11xHoa hồng đỏ (old: 10) lydo: Nhặt từ map at 03/12/2023 11:50 PM
+BAG:kakarote1 add 7xHoa hồng vàng (old: 6) lydo: Nhặt từ map at 03/12/2023 11:50 PM
+BAG:kakarote1 add 9xHoa hồng xanh (old: 8) lydo: Nhặt từ map at 03/12/2023 11:50 PM
+BAG:kakarote1 add 4xĐá lục bảo (old: 3) lydo: Nhặt từ map at 03/12/2023 11:51 PM
+BAG:kakarote1 add 1xNgọc Rồng 5 sao lydo: Nhặt từ map at 03/12/2023 11:51 PM
+BAG:kakarote1 add 8xHoa hồng vàng (old: 7) lydo: Nhặt từ map at 03/12/2023 11:51 PM
+BAG:kakarote1 add 9xHoa hồng vàng (old: 8) lydo: Nhặt từ map at 03/12/2023 11:51 PM
+BAG:kakarote1 add 10xHoa hồng vàng (old: 9) lydo: Nhặt từ map at 03/12/2023 11:51 PM
+BAG:kakarote1 add 11xHoa hồng vàng (old: 10) lydo: Nhặt từ map at 03/12/2023 11:51 PM
+BAG:kakarote1 add 5xĐá Titan (old: 4) lydo: Nhặt từ map at 03/12/2023 11:51 PM
+BAG:kakarote1 add 3xĐá thạch anh tím (old: 2) lydo: Nhặt từ map at 03/12/2023 11:51 PM
+BAG:kakarote1 add 12xHoa hồng vàng (old: 11) lydo: Nhặt từ map at 03/12/2023 11:51 PM
+BAG:kakarote1 add 4xĐá thạch anh tím (old: 3) lydo: Nhặt từ map at 03/12/2023 11:51 PM
+BAG:kakarote1 add 12xHoa hồng đỏ (old: 11) lydo: Nhặt từ map at 03/12/2023 11:51 PM

@@ -1,0 +1,192 @@
+BAG:namecsd remove Cải Trang Glaxy lydo: Mặc vào người at 03/11/2023 1:00 AM
+BAG:namecsd remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/11/2023 1:00 AM
+BAG:namecsd remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/11/2023 1:02 AM
+BAG:namecsd remove Áo choàng thun lydo: Mặc vào người at 03/11/2023 1:02 AM
+BAG:namecsd remove Cải Trang Glaxy lydo: Mặc cho đệ tử at 03/11/2023 1:03 AM
+BAG:namecsd remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/11/2023 1:03 AM
+BAG:namecsd remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/11/2023 1:13 AM
+BAG:namecsd remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/11/2023 1:16 AM
+BAG:namecsd remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/11/2023 1:17 AM
+BAG:namecsd remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/11/2023 1:17 AM
+BAG:namecsd remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/11/2023 1:17 AM
+BAG:namecsd remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/11/2023 1:17 AM
+BAG:namecsd remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/11/2023 1:18 AM
+BAG:namecsd remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/11/2023 1:18 AM
+BAG:namecsd remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/11/2023 1:18 AM
+BAG:namecsd remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/11/2023 1:18 AM
+BAG:namecsd remove CT Genma 01 lydo: Mặc vào người at 03/11/2023 1:53 AM
+BAG:namecsd remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/11/2023 8:47 AM
+BAG:namecsd remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/11/2023 8:47 AM
+BAG:namecsd remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/11/2023 8:48 AM
+BAG:namecsd remove Đậu thần cấp 4 lydo: Tự Xóa vật phẩm at 03/11/2023 8:48 AM
+BAG:namecsd remove Đậu thần cấp 2 lydo: Tự Xóa vật phẩm at 03/11/2023 8:48 AM
+BAG:namecsd remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/11/2023 8:48 AM
+BAG:namecsd remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/11/2023 8:49 AM
+BAG:namecsd remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/11/2023 8:49 AM
+BAG:namecsd remove Đá Ruby lydo: Tự Xóa vật phẩm at 03/11/2023 8:50 AM
+BAG:namecsd remove Hoa hồng vàng lydo: Tự Xóa vật phẩm at 03/11/2023 8:50 AM
+BAG:namecsd remove Đá lục bảo lydo: Tự Xóa vật phẩm at 03/11/2023 8:50 AM
+BAG:namecsd remove Đá Saphia lydo: Tự Xóa vật phẩm at 03/11/2023 8:50 AM
+BAG:namecsd remove Ngọc Rồng 5 sao lydo: Tự Xóa vật phẩm at 03/11/2023 8:50 AM
+BAG:namecsd remove Hoa hồng đỏ lydo: Tự Xóa vật phẩm at 03/11/2023 8:50 AM
+BAG:namecsd remove Đá Titan lydo: Tự Xóa vật phẩm at 03/11/2023 8:50 AM
+BAG:namecsd remove Hoa hồng xanh lydo: Tự Xóa vật phẩm at 03/11/2023 8:50 AM
+BAG:namecsd remove Găng thun cứng lydo: Mặc vào người at 03/11/2023 8:51 AM
+BAG:namecsd remove Quần vải cứng Pico lydo: Mặc vào người at 03/11/2023 8:51 AM
+BAG:namecsd remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/11/2023 8:52 AM
+BAG:namecsd remove Áo choàng thun lydo: Mặc vào người at 03/11/2023 8:53 AM
+BAG:namecsd remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/11/2023 8:54 AM
+BAG:namecsd remove Găng len cứng lydo: Tự Xóa vật phẩm at 03/11/2023 8:55 AM
+BAG:namecsd remove Áo sợi len lydo: Tự Xóa vật phẩm at 03/11/2023 8:55 AM
+BAG:namecsd remove Giầy sợi len lydo: Tự Xóa vật phẩm at 03/11/2023 8:55 AM
+BAG:namecsd remove Hoa hồng đỏ lydo: Tự Xóa vật phẩm at 03/11/2023 8:55 AM
+BAG:namecsd remove Hoa hồng vàng lydo: Tự Xóa vật phẩm at 03/11/2023 8:55 AM
+BAG:namecsd remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/11/2023 8:55 AM
+BAG:namecsd remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/11/2023 8:56 AM
+BAG:namecsd remove Găng sợi len lydo: Tự Xóa vật phẩm at 03/11/2023 8:56 AM
+BAG:namecsd remove Giầy sợi len lydo: Tự Xóa vật phẩm at 03/11/2023 8:56 AM
+BAG:namecsd remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/11/2023 8:56 AM
+BAG:namecsd remove Cải Trang Glaxy lydo: Mặc vào người at 03/11/2023 8:57 AM
+BAG:namecsd remove 1xGiầy sợi len lydo: Bán cho shop at 03/11/2023 9:00 AM
+BAG:namecsd remove 1xÁo sợi len lydo: Bán cho shop at 03/11/2023 9:00 AM
+BAG:namecsd remove 1xGiầy sợi len lydo: Bán cho shop at 03/11/2023 9:00 AM
+BAG:namecsd remove 5xHoa hồng vàng lydo: Bán cho shop at 03/11/2023 9:00 AM
+BAG:namecsd remove 2xHoa hồng xanh lydo: Bán cho shop at 03/11/2023 9:00 AM
+BAG:namecsd remove 1xHoa hồng đỏ lydo: Bán cho shop at 03/11/2023 9:00 AM
+BAG:namecsd remove 1xĐá Ruby lydo: Bán cho shop at 03/11/2023 9:00 AM
+BAG:namecsd remove 1xĐá Titan lydo: Bán cho shop at 03/11/2023 9:00 AM
+BAG:namecsd remove 1xĐá Saphia lydo: Bán cho shop at 03/11/2023 9:00 AM
+BAG:namecsd remove Đẻ trứng lv1 lydo: Sách kĩ năng at 03/11/2023 9:00 AM
+BAG:namecsd remove Đẻ trứng lv2 lydo: Sách kĩ năng at 03/11/2023 9:00 AM
+BAG:namecsd remove Đẻ trứng lv3 lydo: Sách kĩ năng at 03/11/2023 9:00 AM
+BAG:namecsd remove Đẻ trứng lv4 lydo: Sách kĩ năng at 03/11/2023 9:00 AM
+BAG:namecsd remove Đẻ trứng lv5 lydo: Sách kĩ năng at 03/11/2023 9:00 AM
+BAG:namecsd remove Đẻ trứng lv6 lydo: Sách kĩ năng at 03/11/2023 9:00 AM
+BAG:namecsd remove Đẻ trứng lv7 lydo: Sách kĩ năng at 03/11/2023 9:00 AM
+BAG:namecsd remove Áo sợi len lydo: Tự Xóa vật phẩm at 03/11/2023 9:01 AM
+BAG:namecsd remove Rada cấp 1 lydo: Tự Xóa vật phẩm at 03/11/2023 9:01 AM
+BAG:namecsd remove Giầy sợi len lydo: Tự Xóa vật phẩm at 03/11/2023 9:01 AM
+BAG:namecsd remove Rada cấp 1 lydo: Tự Xóa vật phẩm at 03/11/2023 9:01 AM
+BAG:namecsd remove Quần sợi len lydo: Tự Xóa vật phẩm at 03/11/2023 9:01 AM
+BAG:namecsd remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/11/2023 9:02 AM
+BAG:namecsd remove Rada cấp 1 lydo: Tự Xóa vật phẩm at 03/11/2023 9:04 AM
+BAG:namecsd remove Áo sợi len lydo: Tự Xóa vật phẩm at 03/11/2023 9:04 AM
+BAG:namecsd remove Giầy sợi len lydo: Tự Xóa vật phẩm at 03/11/2023 9:04 AM
+BAG:namecsd remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/11/2023 9:29 AM
+BAG:namecsd remove Rada cấp 1 lydo: Tự Xóa vật phẩm at 03/11/2023 9:30 AM
+BAG:namecsd remove Giầy sợi len lydo: Tự Xóa vật phẩm at 03/11/2023 9:30 AM
+BAG:namecsd remove Áo sợi len lydo: Tự Xóa vật phẩm at 03/11/2023 9:30 AM
+BAG:namecsd remove CT Genma 01 lydo: Mặc vào người at 03/11/2023 9:30 AM
+BAG:namecsd remove Quần sợi len lydo: Tự Xóa vật phẩm at 03/11/2023 9:31 AM
+BAG:namecsd remove Rada cấp 1 lydo: Tự Xóa vật phẩm at 03/11/2023 9:31 AM
+BAG:namecsd remove Rada cấp 1 lydo: Tự Xóa vật phẩm at 03/11/2023 9:31 AM
+BAG:namecsd remove Rada cấp 1 lydo: Tự Xóa vật phẩm at 03/11/2023 9:31 AM
+BAG:namecsd remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/11/2023 9:31 AM
+BAG:namecsd remove Cải Trang Glaxy lydo: Mặc vào người at 03/11/2023 9:31 AM
+BAG:namecsd remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/11/2023 9:35 AM
+BAG:namecsd remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/11/2023 9:37 AM
+BAG:namecsd remove Quần sợi len lydo: Tự Xóa vật phẩm at 03/11/2023 9:38 AM
+BAG:namecsd remove Rada cấp 1 lydo: Tự Xóa vật phẩm at 03/11/2023 9:38 AM
+BAG:namecsd remove Quần sợi len lydo: Tự Xóa vật phẩm at 03/11/2023 9:38 AM
+BAG:namecsd remove Áo choàng thun lydo: Tự Xóa vật phẩm at 03/11/2023 9:38 AM
+BAG:namecsd remove Quần vải cứng Pico lydo: Tự Xóa vật phẩm at 03/11/2023 9:38 AM
+BAG:namecsd remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/11/2023 9:46 AM
+BAG:namecsd remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/11/2023 9:55 AM
+BAG:namecsd remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/11/2023 10:00 AM
+BAG:namecsd remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/11/2023 10:04 AM
+BAG:namecsd remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/11/2023 10:13 AM
+BAG:namecsd remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/11/2023 10:22 AM
+BAG:namecsd remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/11/2023 10:31 AM
+BAG:namecsd remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/11/2023 10:40 AM
+BAG:namecsd remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/11/2023 11:14 AM
+BAG:namecsd remove Rada cấp 1 lydo: Mặc cho đệ tử at 03/11/2023 11:14 AM
+BAG:namecsd remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/11/2023 11:15 AM
+BAG:namecsd remove Rada cấp 1 lydo: Mặc cho đệ tử at 03/11/2023 11:16 AM
+BAG:namecsd remove 161xHoa hồng xanh lydo: Bán cho shop at 03/11/2023 11:17 AM
+BAG:namecsd remove 1xĐổi đệ tử lydo: Dùng đổi đệ tử at 03/11/2023 11:17 AM
+BAG:namecsd remove CT Genma 01 lydo: Mặc cho đệ tử at 03/11/2023 11:18 AM
+BAG:namecsd remove 1xĐổi đệ tử lydo: Dùng đổi đệ tử at 03/11/2023 11:19 AM
+BAG:namecsd remove 1xĐổi đệ tử lydo: Dùng đổi đệ tử at 03/11/2023 11:20 AM
+BAG:namecsd remove 1xĐổi đệ tử lydo: Dùng đổi đệ tử at 03/11/2023 11:20 AM
+BAG:namecsd remove Giáp tập luyện cấp 3 lydo: Mặc vào người at 03/11/2023 11:20 AM
+BAG:namecsd remove 1xĐổi đệ tử lydo: Dùng đổi đệ tử at 03/11/2023 11:21 AM
+BAG:namecsd remove CT Genma 01 lydo: Mặc cho đệ tử at 03/11/2023 11:21 AM
+BAG:namecsd remove Giầy sợi len lydo: Mặc cho đệ tử at 03/11/2023 11:22 AM
+BAG:namecsd remove Rada cấp 1 lydo: Tự Xóa vật phẩm at 03/11/2023 11:22 AM
+BAG:namecsd remove Giầy sợi len lydo: Tự Xóa vật phẩm at 03/11/2023 11:22 AM
+BAG:namecsd remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/11/2023 11:22 AM
+BAG:namecsd remove Găng thun cứng lydo: Mặc cho đệ tử at 03/11/2023 11:22 AM
+BAG:namecsd remove Giày da Pico lydo: Mặc cho đệ tử at 03/11/2023 11:22 AM
+BAG:namecsd remove 1xNâng cấp kỹ năng 1 đệ tử lydo: Dùng sách kĩ năng đệ tử at 03/11/2023 11:23 AM
+BAG:namecsd remove 1xNâng cấp kỹ năng 1 đệ tử lydo: Dùng sách kĩ năng đệ tử at 03/11/2023 11:23 AM
+BAG:namecsd remove 1xNâng cấp kỹ năng 1 đệ tử lydo: Dùng sách kĩ năng đệ tử at 03/11/2023 11:24 AM
+BAG:namecsd remove 1xNâng cấp kỹ năng 1 đệ tử lydo: Dùng sách kĩ năng đệ tử at 03/11/2023 11:24 AM
+BAG:namecsd remove 1xNâng cấp kỹ năng 1 đệ tử lydo: Dùng sách kĩ năng đệ tử at 03/11/2023 11:24 AM
+BAG:namecsd remove 1xNâng cấp kỹ năng 1 đệ tử lydo: Dùng sách kĩ năng đệ tử at 03/11/2023 11:24 AM
+BAG:namecsd remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/11/2023 11:24 AM
+BAG:namecsd remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/11/2023 11:25 AM
+BAG:namecsd remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/11/2023 11:26 AM
+BAG:namecsd remove Giáp tập luyện cấp 3 lydo: Mặc vào người at 03/11/2023 11:26 AM
+BAG:namecsd remove Đổi đệ tử lydo: Tự Xóa vật phẩm at 03/11/2023 11:27 AM
+BAG:namecsd remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/11/2023 11:27 AM
+BAG:namecsd remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/11/2023 11:27 AM
+BAG:namecsd remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/11/2023 11:27 AM
+BAG:namecsd remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/11/2023 11:27 AM
+BAG:namecsd remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/11/2023 11:28 AM
+BAG:namecsd remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/11/2023 11:28 AM
+BAG:namecsd remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/11/2023 11:28 AM
+BAG:namecsd remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/11/2023 11:28 AM
+BAG:namecsd remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/11/2023 11:28 AM
+BAG:namecsd remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/11/2023 11:28 AM
+BAG:namecsd remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/11/2023 11:29 AM
+BAG:namecsd remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/11/2023 11:29 AM
+BAG:namecsd remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/11/2023 11:29 AM
+BAG:namecsd remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/11/2023 11:29 AM
+BAG:namecsd remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/11/2023 11:29 AM
+BAG:namecsd remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/11/2023 11:29 AM
+BAG:namecsd remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/11/2023 11:30 AM
+BAG:namecsd remove 139xHoa hồng đỏ lydo: Bán cho shop at 03/11/2023 11:30 AM
+BAG:namecsd remove 1xGăng thun cứng lydo: Bán cho shop at 03/11/2023 11:30 AM
+BAG:namecsd remove 222xHoa hồng vàng lydo: Bán cho shop at 03/11/2023 11:30 AM
+BAG:namecsd remove Sách Liên hoàn lv1 lydo: Sách kĩ năng at 03/11/2023 11:31 AM
+BAG:namecsd remove Sách Liên hoàn lv2 lydo: Sách kĩ năng at 03/11/2023 11:31 AM
+BAG:namecsd remove Sách Liên hoàn lv3 lydo: Sách kĩ năng at 03/11/2023 11:31 AM
+BAG:namecsd remove Sách Liên hoàn lv4 lydo: Sách kĩ năng at 03/11/2023 11:31 AM
+BAG:namecsd remove Sách Liên hoàn lv5 lydo: Sách kĩ năng at 03/11/2023 11:31 AM
+BAG:namecsd remove Sách Liên hoàn lv6 lydo: Sách kĩ năng at 03/11/2023 11:31 AM
+BAG:namecsd remove Sách Liên hoàn lv7 lydo: Sách kĩ năng at 03/11/2023 11:31 AM
+BAG:namecsd remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/11/2023 11:31 AM
+BAG:namecsd remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/11/2023 11:31 AM
+BAG:namecsd remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/11/2023 11:32 AM
+BAG:namecsd remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/11/2023 11:32 AM
+BAG:namecsd remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/11/2023 11:32 AM
+BAG:namecsd remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/11/2023 11:32 AM
+BAG:namecsd remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/11/2023 11:32 AM
+BAG:namecsd remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/11/2023 11:33 AM
+BAG:namecsd remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/11/2023 11:33 AM
+BAG:namecsd remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/11/2023 11:33 AM
+BAG:namecsd remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/11/2023 11:33 AM
+BAG:namecsd remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/11/2023 11:33 AM
+BAG:namecsd remove Thỏi vàng lydo: Cất vào rương at 03/11/2023 11:34 AM
+BAG:namecsd remove Ngọc Rồng 6 sao lydo: Cất vào rương at 03/11/2023 11:34 AM
+BAG:namecsd remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/11/2023 11:36 AM
+BAG:namecsd remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/11/2023 11:36 AM
+BAG:namecsd remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/11/2023 11:38 AM
+BAG:namecsd remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/11/2023 11:38 AM
+BAG:namecsd remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/11/2023 11:39 AM
+BAG:namecsd remove Giáp tập luyện cấp 3 lydo: Mặc vào người at 03/11/2023 11:41 AM
+BAG:namecsd remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/11/2023 11:44 AM
+BAG:namecsd remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/11/2023 11:44 AM
+BAG:namecsd remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/11/2023 11:46 AM
+BAG:namecsd remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/11/2023 11:46 AM
+BAG:namecsd remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/11/2023 11:46 AM
+BAG:namecsd remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/11/2023 11:46 AM
+BAG:namecsd remove Giáp tập luyện cấp 3 lydo: Mặc vào người at 03/11/2023 11:53 AM
+BAG:namecsd remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/11/2023 11:57 AM
+BAG:namecsd remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/11/2023 12:02 PM
+BAG:namecsd remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/11/2023 12:11 PM
+BAG:namecsd remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/11/2023 12:14 PM
+BAG:namecsd remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/11/2023 12:15 PM
+BAG:namecsd remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/11/2023 12:21 PM
+BAG:namecsd remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/11/2023 12:22 PM
+BAG:namecsd remove Ngọc Rồng 6 sao lydo: Tự Xóa vật phẩm at 03/11/2023 12:23 PM

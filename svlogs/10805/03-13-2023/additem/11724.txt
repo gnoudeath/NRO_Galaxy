@@ -1,0 +1,6 @@
+BAG:damphatchet add 7xĐậu thần cấp 2 lydo: Thu hoạch đậu at 03/13/2023 1:21 AM
+BAG:damphatchet add 3xĐậu thần cấp 10 lydo: Thu hoạch đậu at 03/13/2023 1:21 AM
+BAG:damphatchet add 23xĐậu thần cấp 10 (old: 3) lydo: Lấy từ rương qua người at 03/13/2023 1:22 AM
+BAG:damphatchet add 1xRada cấp 1 lydo: Lấy từ rương qua người at 03/13/2023 1:22 AM
+BAG:damphatchet add 43xĐậu thần cấp 10 (old: 23) lydo: Lấy từ rương qua người at 03/13/2023 1:22 AM
+BAG:damphatchet add 63xĐậu thần cấp 10 (old: 43) lydo: Lấy từ rương qua người at 03/13/2023 1:22 AM

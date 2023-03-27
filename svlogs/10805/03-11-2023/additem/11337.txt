@@ -1,0 +1,124 @@
+BAG:zinzen add 26xHoa hồng xanh (old: 25) lydo: Nhặt từ map at 03/11/2023 4:44 AM
+BAG:zinzen add 1xÁo vải thô lydo: Nhặt từ map at 03/11/2023 4:45 AM
+BAG:zinzen add 3xMảnh Quỷ đất (old: 2) lydo: Nhặt từ map at 03/11/2023 4:45 AM
+BAG:zinzen add 31xHoa hồng vàng (old: 30) lydo: Nhặt từ map at 03/11/2023 4:45 AM
+BAG:zinzen add 27xHoa hồng xanh (old: 26) lydo: Nhặt từ map at 03/11/2023 4:45 AM
+BAG:zinzen add 23xHoa hồng đỏ (old: 22) lydo: Nhặt từ map at 03/11/2023 4:45 AM
+BAG:zinzen add 32xHoa hồng vàng (old: 31) lydo: Nhặt từ map at 03/11/2023 4:45 AM
+BAG:zinzen add 24xHoa hồng đỏ (old: 23) lydo: Nhặt từ map at 03/11/2023 4:45 AM
+BAG:zinzen add 33xHoa hồng vàng (old: 32) lydo: Nhặt từ map at 03/11/2023 4:45 AM
+BAG:zinzen add 1xÁo vải thô lydo: Nhặt từ map at 03/11/2023 4:45 AM
+BAG:zinzen add 28xHoa hồng xanh (old: 27) lydo: Nhặt từ map at 03/11/2023 4:45 AM
+BAG:zinzen add 1xĐá thạch anh tím lydo: Nhặt từ map at 03/11/2023 4:45 AM
+BAG:zinzen add 25xHoa hồng đỏ (old: 24) lydo: Nhặt từ map at 03/11/2023 4:45 AM
+BAG:zinzen add 34xHoa hồng vàng (old: 33) lydo: Nhặt từ map at 03/11/2023 4:45 AM
+BAG:zinzen add 35xHoa hồng vàng (old: 34) lydo: Nhặt từ map at 03/11/2023 4:46 AM
+BAG:zinzen add 36xHoa hồng vàng (old: 35) lydo: Nhặt từ map at 03/11/2023 4:46 AM
+BAG:zinzen add 37xHoa hồng vàng (old: 36) lydo: Nhặt từ map at 03/11/2023 4:46 AM
+BAG:zinzen add 38xHoa hồng vàng (old: 37) lydo: Nhặt từ map at 03/11/2023 4:46 AM
+BAG:zinzen add 1xGiầy vải thô lydo: Nhặt từ map at 03/11/2023 4:46 AM
+BAG:zinzen add 39xHoa hồng vàng (old: 38) lydo: Nhặt từ map at 03/11/2023 4:46 AM
+BAG:zinzen add 1xSách đấm Galick lv2 lydo: Mua từ cửa hàng at 03/11/2023 4:48 AM
+BAG:zinzen add 1xSách đấm Galick lv3 lydo: Mua từ cửa hàng at 03/11/2023 4:48 AM
+BAG:zinzen add 1xQuần vải thô lydo: Nhặt từ map at 03/11/2023 4:48 AM
+BAG:zinzen add 1xĐá Titan lydo: Nhặt từ map at 03/11/2023 4:48 AM
+BAG:zinzen add 40xHoa hồng vàng (old: 39) lydo: Nhặt từ map at 03/11/2023 4:48 AM
+BAG:zinzen add 4xĐá lục bảo (old: 3) lydo: Nhặt từ map at 03/11/2023 4:48 AM
+BAG:zinzen add 26xHoa hồng đỏ (old: 25) lydo: Nhặt từ map at 03/11/2023 4:48 AM
+BAG:zinzen add 41xHoa hồng vàng (old: 40) lydo: Nhặt từ map at 03/11/2023 4:48 AM
+BAG:zinzen add 42xHoa hồng vàng (old: 41) lydo: Nhặt từ map at 03/11/2023 4:48 AM
+BAG:zinzen add 43xHoa hồng vàng (old: 42) lydo: Nhặt từ map at 03/11/2023 4:49 AM
+BAG:zinzen add 29xHoa hồng xanh (old: 28) lydo: Nhặt từ map at 03/11/2023 4:49 AM
+BAG:zinzen add 5xĐá lục bảo (old: 4) lydo: Nhặt từ map at 03/11/2023 4:49 AM
+BAG:zinzen add 1xRada cấp 1 lydo: Nhặt từ map at 03/11/2023 4:49 AM
+BAG:zinzen add 1xGiầy vải thô lydo: Nhặt từ map at 03/11/2023 4:49 AM
+BAG:zinzen add 44xHoa hồng vàng (old: 43) lydo: Nhặt từ map at 03/11/2023 4:49 AM
+BAG:zinzen add 27xHoa hồng đỏ (old: 26) lydo: Nhặt từ map at 03/11/2023 4:49 AM
+BAG:zinzen add 1xGăng vải thô lydo: Nhặt từ map at 03/11/2023 4:49 AM
+BAG:zinzen add 1xGăng vải thô lydo: Nhặt từ map at 03/11/2023 4:49 AM
+BAG:zinzen add 1xGăng vải thô lydo: Nhặt từ map at 03/11/2023 4:49 AM
+BAG:zinzen add 2xĐá thạch anh tím (old: 1) lydo: Nhặt từ map at 03/11/2023 4:49 AM
+BAG:zinzen add 3xĐá Ruby (old: 2) lydo: Nhặt từ map at 03/11/2023 4:49 AM
+BAG:zinzen add 1xMảnh Quỷ bay lydo: Nhặt từ map at 03/11/2023 4:49 AM
+BAG:zinzen add 1xÁo vải thô lydo: Nhặt từ map at 03/11/2023 4:49 AM
+BAG:zinzen add 1xGăng vải thô lydo: Nhặt từ map at 03/11/2023 4:49 AM
+BAG:zinzen add 28xHoa hồng đỏ (old: 27) lydo: Nhặt từ map at 03/11/2023 4:50 AM
+BAG:zinzen add 45xHoa hồng vàng (old: 44) lydo: Nhặt từ map at 03/11/2023 4:50 AM
+BAG:zinzen add 29xHoa hồng đỏ (old: 28) lydo: Nhặt từ map at 03/11/2023 4:50 AM
+BAG:zinzen add 3xĐá thạch anh tím (old: 2) lydo: Nhặt từ map at 03/11/2023 4:50 AM
+BAG:zinzen add 30xHoa hồng đỏ (old: 29) lydo: Nhặt từ map at 03/11/2023 4:50 AM
+BAG:zinzen add 1xRada cấp 1 lydo: Nhặt từ map at 03/11/2023 4:50 AM
+BAG:zinzen add 30xHoa hồng xanh (old: 29) lydo: Nhặt từ map at 03/11/2023 4:50 AM
+BAG:zinzen add 31xHoa hồng xanh (old: 30) lydo: Nhặt từ map at 03/11/2023 4:50 AM
+BAG:zinzen add 1xÁo vải thô lydo: Nhặt từ map at 03/11/2023 4:50 AM
+BAG:zinzen add 46xHoa hồng vàng (old: 45) lydo: Nhặt từ map at 03/11/2023 4:50 AM
+BAG:zinzen add 47xHoa hồng vàng (old: 46) lydo: Nhặt từ map at 03/11/2023 4:50 AM
+BAG:zinzen add 32xHoa hồng xanh (old: 31) lydo: Nhặt từ map at 03/11/2023 4:50 AM
+BAG:zinzen add 48xHoa hồng vàng (old: 47) lydo: Nhặt từ map at 03/11/2023 4:50 AM
+BAG:zinzen add 1xQuần vải thô lydo: Nhặt từ map at 03/11/2023 4:50 AM
+BAG:zinzen add 1xGăng vải thô lydo: Nhặt từ map at 03/11/2023 4:50 AM
+BAG:zinzen add 49xHoa hồng vàng (old: 48) lydo: Nhặt từ map at 03/11/2023 4:50 AM
+BAG:zinzen add 50xHoa hồng vàng (old: 49) lydo: Nhặt từ map at 03/11/2023 4:50 AM
+BAG:zinzen add 51xHoa hồng vàng (old: 50) lydo: Nhặt từ map at 03/11/2023 4:50 AM
+BAG:zinzen add 1xGiầy vải thô lydo: Nhặt từ map at 03/11/2023 4:50 AM
+BAG:zinzen add 52xHoa hồng vàng (old: 51) lydo: Nhặt từ map at 03/11/2023 4:50 AM
+BAG:zinzen add 53xHoa hồng vàng (old: 52) lydo: Nhặt từ map at 03/11/2023 4:51 AM
+BAG:zinzen add 2xĐá Titan (old: 1) lydo: Nhặt từ map at 03/11/2023 4:51 AM
+BAG:zinzen add 31xHoa hồng đỏ (old: 30) lydo: Nhặt từ map at 03/11/2023 4:51 AM
+BAG:zinzen add 32xHoa hồng đỏ (old: 31) lydo: Nhặt từ map at 03/11/2023 4:51 AM
+BAG:zinzen add 6xĐá lục bảo (old: 5) lydo: Nhặt từ map at 03/11/2023 4:51 AM
+BAG:zinzen add 33xHoa hồng xanh (old: 32) lydo: Nhặt từ map at 03/11/2023 4:51 AM
+BAG:zinzen add 33xHoa hồng đỏ (old: 32) lydo: Nhặt từ map at 03/11/2023 4:51 AM
+BAG:zinzen add 34xHoa hồng đỏ (old: 33) lydo: Nhặt từ map at 03/11/2023 4:51 AM
+BAG:zinzen add 1xViên Capsule đặc biệt lydo: Mua từ cửa hàng at 03/11/2023 4:52 AM
+BAG:zinzen add 30xĐậu thần cấp 9 lydo: Mua từ cửa hàng at 03/11/2023 4:52 AM
+BAG:zinzen add 60xĐậu thần cấp 9 (old: 30) lydo: Mua từ cửa hàng at 03/11/2023 4:52 AM
+BAG:zinzen add 54xHoa hồng vàng (old: 53) lydo: Nhặt từ map at 03/11/2023 4:53 AM
+BAG:zinzen add 4xĐá Ruby (old: 3) lydo: Nhặt từ map at 03/11/2023 4:54 AM
+BAG:zinzen add 1xÁo vải thô lydo: Lấy từ rương qua người at 03/11/2023 5:10 AM
+BAG:zinzen add 1xVệ tinh sinh lực lydo: Lấy từ lucky box at 03/11/2023 5:15 AM
+BAG:zinzen add 1xCT Genma 02 lydo: Lấy từ lucky box at 03/11/2023 5:15 AM
+BAG:zinzen add 1xSao pha lê lydo: Lấy từ lucky box at 03/11/2023 5:15 AM
+BAG:zinzen add 1xSao pha lê lydo: Lấy từ lucky box at 03/11/2023 5:15 AM
+BAG:zinzen add 1xNgọc Rồng 5 sao lydo: Lấy từ lucky box at 03/11/2023 5:15 AM
+BAG:zinzen add 2xVệ tinh sinh lực (old: 1) lydo: Lấy từ lucky box at 03/11/2023 5:15 AM
+BAG:zinzen add 1xSao pha lê lydo: Lấy từ lucky box at 03/11/2023 5:15 AM
+BAG:zinzen add 1xVệ tinh phòng thủ lydo: Lấy từ lucky box at 03/11/2023 5:15 AM
+BAG:zinzen add 2xSao pha lê (old: 1) lydo: Lấy từ lucky box at 03/11/2023 5:16 AM
+BAG:zinzen add 3xSao pha lê (old: 2) lydo: Lấy từ lucky box at 03/11/2023 5:16 AM
+BAG:zinzen add 2xSao pha lê (old: 1) lydo: Lấy từ lucky box at 03/11/2023 5:16 AM
+BAG:zinzen add 3xVệ tinh sinh lực (old: 2) lydo: Lấy từ lucky box at 03/11/2023 5:16 AM
+BAG:zinzen add 1xSao pha lê lydo: Lấy từ lucky box at 03/11/2023 5:16 AM
+BAG:zinzen add 4xVệ tinh sinh lực (old: 3) lydo: Lấy từ lucky box at 03/11/2023 5:16 AM
+BAG:zinzen add 1xNgọc Rồng 6 sao lydo: Lấy từ lucky box at 03/11/2023 5:16 AM
+BAG:zinzen add 1xSao pha lê lydo: Lấy từ lucky box at 03/11/2023 5:16 AM
+BAG:zinzen add 1xNgọc Rồng 4 sao lydo: Lấy từ lucky box at 03/11/2023 5:16 AM
+BAG:zinzen add 1xCải trang Hatchiyack lydo: Lấy từ lucky box at 03/11/2023 5:16 AM
+BAG:zinzen add 1xCải trang mồn lèo lydo: Lấy từ lucky box at 03/11/2023 5:16 AM
+BAG:zinzen add 2xNgọc Rồng 4 sao (old: 1) lydo: Lấy từ lucky box at 03/11/2023 5:16 AM
+BAG:zinzen add 1xSao pha lê lydo: Lấy từ lucky box at 03/11/2023 5:16 AM
+BAG:zinzen add 2xSao pha lê (old: 1) lydo: Lấy từ lucky box at 03/11/2023 5:17 AM
+BAG:zinzen add 2xSao pha lê (old: 1) lydo: Lấy từ lucky box at 03/11/2023 5:17 AM
+BAG:zinzen add 5xVệ tinh sinh lực (old: 4) lydo: Lấy từ lucky box at 03/11/2023 5:17 AM
+BAG:zinzen add 1xSao pha lê lydo: Lấy từ lucky box at 03/11/2023 5:17 AM
+BAG:zinzen add 1xVệ tinh trí tuệ lydo: Lấy từ lucky box at 03/11/2023 5:17 AM
+BAG:zinzen add 3xNgọc Rồng 4 sao (old: 2) lydo: Lấy từ lucky box at 03/11/2023 5:17 AM
+BAG:zinzen add 1xSao pha lê lydo: Lấy từ lucky box at 03/11/2023 5:17 AM
+BAG:zinzen add 2xSao pha lê (old: 1) lydo: Lấy từ lucky box at 03/11/2023 5:17 AM
+BAG:zinzen add 4xNgọc Rồng 4 sao (old: 3) lydo: Lấy từ lucky box at 03/11/2023 5:17 AM
+BAG:zinzen add 2xSao pha lê (old: 1) lydo: Lấy từ lucky box at 03/11/2023 5:17 AM
+BAG:zinzen add 1xNgọc Rồng 7 sao lydo: Lấy từ lucky box at 03/11/2023 5:17 AM
+BAG:zinzen add 3xSao pha lê (old: 2) lydo: Lấy từ lucky box at 03/11/2023 5:17 AM
+BAG:zinzen add 2xVệ tinh trí tuệ (old: 1) lydo: Lấy từ lucky box at 03/11/2023 5:17 AM
+BAG:zinzen add 1xSao pha lê lydo: Lấy từ lucky box at 03/11/2023 5:17 AM
+BAG:zinzen add 2xNgọc Rồng 7 sao (old: 1) lydo: Lấy từ lucky box at 03/11/2023 5:17 AM
+BAG:zinzen add 1xVệ tinh trí lực lydo: Lấy từ lucky box at 03/11/2023 5:17 AM
+BAG:zinzen add 1xCải trang mồn lèo lydo: Lấy từ lucky box at 03/11/2023 5:17 AM
+BAG:zinzen add 3xNgọc Rồng 7 sao (old: 2) lydo: Lấy từ lucky box at 03/11/2023 5:17 AM
+BAG:zinzen add 5xNgọc Rồng 4 sao (old: 4) lydo: Lấy từ lucky box at 03/11/2023 5:17 AM
+BAG:zinzen add 1xNgọc Rồng 5 sao lydo: Lấy từ lucky box at 03/11/2023 5:17 AM
+BAG:zinzen add 35xHoa hồng đỏ (old: 34) lydo: Nhặt từ map at 03/11/2023 5:19 AM
+BAG:zinzen add 1xNâng cấp kỹ năng 1 đệ tử lydo: Mua từ cửa hàng at 03/11/2023 5:19 AM
+BAG:zinzen add 34xHoa hồng xanh (old: 33) lydo: Nhặt từ map at 03/11/2023 5:19 AM
+BAG:zinzen add 35xHoa hồng xanh (old: 34) lydo: Nhặt từ map at 03/11/2023 5:19 AM
+BAG:zinzen add 36xHoa hồng đỏ (old: 35) lydo: Nhặt từ map at 03/11/2023 8:56 PM

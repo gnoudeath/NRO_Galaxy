@@ -1,0 +1,8 @@
+BAG:haimulet add 264xThỏi vàng (old: 164) lydo: Giftcode at 03/11/2023 6:24 AM
+BAG:haimulet add 10xĐậu thần cấp 7 (old: 7) lydo: Thu hoạch đậu at 03/11/2023 6:25 AM
+BAG:haimulet add 24xĐậu thần cấp 7 (old: 10) lydo: Lấy từ rương qua người at 03/11/2023 6:25 AM
+BAG:haimulet add 41xĐậu thần cấp 7 (old: 24) lydo: Lấy từ rương qua người at 03/11/2023 6:25 AM
+BAG:haimulet add 58xĐậu thần cấp 7 (old: 41) lydo: Lấy từ rương qua người at 03/11/2023 6:26 AM
+BAG:haimulet add 75xĐậu thần cấp 7 (old: 58) lydo: Lấy từ rương qua người at 03/11/2023 6:26 AM
+BAG:haimulet add 92xĐậu thần cấp 7 (old: 75) lydo: Lấy từ rương qua người at 03/11/2023 6:26 AM
+BAG:haimulet add 202xHoa hồng đỏ (old: 201) lydo: Nhặt từ map at 03/11/2023 1:04 PM

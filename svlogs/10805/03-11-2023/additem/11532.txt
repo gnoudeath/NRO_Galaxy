@@ -1,0 +1,92 @@
+BAG:duloveyou add 1xRada cấp 1 lydo: Lấy từ rương qua người at 03/11/2023 8:53 PM
+BAG:duloveyou add 150xThỏi vàng lydo: Giftcode at 03/11/2023 8:53 PM
+BAG:duloveyou add 99xNgọc Rồng 3 sao lydo: Giftcode at 03/11/2023 8:53 PM
+BAG:duloveyou add 10xĐậu thần cấp 10 lydo: Thu hoạch đậu at 03/11/2023 8:56 PM
+BAG:duloveyou add 30xĐậu thần cấp 10 (old: 10) lydo: Lấy từ rương qua người at 03/11/2023 8:56 PM
+BAG:duloveyou add 50xĐậu thần cấp 10 (old: 30) lydo: Lấy từ rương qua người at 03/11/2023 8:56 PM
+BAG:duloveyou add 70xĐậu thần cấp 10 (old: 50) lydo: Lấy từ rương qua người at 03/11/2023 8:56 PM
+BAG:duloveyou add 150xThỏi vàng lydo: Lấy từ rương qua người at 03/11/2023 8:59 PM
+BAG:duloveyou add 1xHoa hồng đỏ lydo: Nhặt từ map at 03/11/2023 9:01 PM
+BAG:duloveyou add 1xHoa hồng xanh lydo: Nhặt từ map at 03/11/2023 9:01 PM
+BAG:duloveyou add 1xĐá Titan lydo: Nhặt từ map at 03/11/2023 9:01 PM
+BAG:duloveyou add 2xHoa hồng xanh (old: 1) lydo: Nhặt từ map at 03/11/2023 9:01 PM
+BAG:duloveyou add 1xHoa hồng vàng lydo: Nhặt từ map at 03/11/2023 9:01 PM
+BAG:duloveyou add 2xHoa hồng vàng (old: 1) lydo: Nhặt từ map at 03/11/2023 9:02 PM
+BAG:duloveyou add 1xĐá thạch anh tím lydo: Nhặt từ map at 03/11/2023 9:03 PM
+BAG:duloveyou add 1xQuần vải đen lydo: Nhặt từ map at 03/11/2023 9:03 PM
+BAG:duloveyou add 1xÁo vải 3 lỗ lydo: Lấy từ body vào hành trang at 03/11/2023 9:03 PM
+BAG:duloveyou add 1xQuần vải đen lydo: Lấy từ body vào hành trang at 03/11/2023 9:03 PM
+BAG:duloveyou add 3xHoa hồng vàng (old: 2) lydo: Nhặt từ map at 03/11/2023 9:03 PM
+BAG:duloveyou add 1xGăng vải đen lydo: Nhặt từ map at 03/11/2023 9:03 PM
+BAG:duloveyou add 2xHoa hồng đỏ (old: 1) lydo: Nhặt từ map at 03/11/2023 9:03 PM
+BAG:duloveyou add 1xGăng vải đen lydo: Nhặt từ map at 03/11/2023 9:05 PM
+BAG:duloveyou add 1xĐá Ruby lydo: Nhặt từ map at 03/11/2023 9:05 PM
+BAG:duloveyou add 3xHoa hồng đỏ (old: 2) lydo: Nhặt từ map at 03/11/2023 9:06 PM
+BAG:duloveyou add 1xĐá Saphia lydo: Nhặt từ map at 03/11/2023 9:06 PM
+BAG:duloveyou add 4xHoa hồng vàng (old: 3) lydo: Nhặt từ map at 03/11/2023 9:06 PM
+BAG:duloveyou add 1xMảnh Quỷ đất mẹ lydo: Nhặt từ map at 03/11/2023 9:07 PM
+BAG:duloveyou add 4xHoa hồng đỏ (old: 3) lydo: Nhặt từ map at 03/11/2023 9:07 PM
+BAG:duloveyou add 3xHoa hồng xanh (old: 2) lydo: Nhặt từ map at 03/11/2023 9:07 PM
+BAG:duloveyou add 5xHoa hồng đỏ (old: 4) lydo: Nhặt từ map at 03/11/2023 9:08 PM
+BAG:duloveyou add 6xHoa hồng đỏ (old: 5) lydo: Nhặt từ map at 03/11/2023 9:08 PM
+BAG:duloveyou add 1xGiầy nhựa lydo: Lấy từ body vào hành trang at 03/11/2023 9:08 PM
+BAG:duloveyou add 4xHoa hồng xanh (old: 3) lydo: Nhặt từ map at 03/11/2023 9:09 PM
+BAG:duloveyou add 5xHoa hồng vàng (old: 4) lydo: Nhặt từ map at 03/11/2023 9:10 PM
+BAG:duloveyou add 5xHoa hồng xanh (old: 4) lydo: Nhặt từ map at 03/11/2023 9:10 PM
+BAG:duloveyou add 2xĐá Ruby (old: 1) lydo: Nhặt từ map at 03/11/2023 9:10 PM
+BAG:duloveyou add 7xHoa hồng đỏ (old: 6) lydo: Nhặt từ map at 03/11/2023 9:10 PM
+BAG:duloveyou add 6xHoa hồng xanh (old: 5) lydo: Nhặt từ map at 03/11/2023 9:10 PM
+BAG:duloveyou add 1xGăng vải đen lydo: Nhặt từ map at 03/11/2023 9:10 PM
+BAG:duloveyou add 6xHoa hồng vàng (old: 5) lydo: Nhặt từ map at 03/11/2023 9:10 PM
+BAG:duloveyou add 7xHoa hồng xanh (old: 6) lydo: Nhặt từ map at 03/11/2023 9:10 PM
+BAG:duloveyou add 1xSách đấm Dragon lv2 lydo: Mua từ cửa hàng at 03/11/2023 9:11 PM
+BAG:duloveyou add 1xSách Kamejoko lv1 lydo: Mua từ cửa hàng at 03/11/2023 9:11 PM
+BAG:duloveyou add 1xSách Kamejoko lv2 lydo: Mua từ cửa hàng at 03/11/2023 9:11 PM
+BAG:duloveyou add 1xGhế bay lydo: Mua từ cửa hàng at 03/11/2023 9:11 PM
+BAG:duloveyou add 30xĐậu thần cấp 9 lydo: Mua từ cửa hàng at 03/11/2023 9:12 PM
+BAG:duloveyou add 60xĐậu thần cấp 9 (old: 30) lydo: Mua từ cửa hàng at 03/11/2023 9:12 PM
+BAG:duloveyou add 8xHoa hồng xanh (old: 7) lydo: Nhặt từ map at 03/11/2023 9:13 PM
+BAG:duloveyou add 8xHoa hồng đỏ (old: 7) lydo: Nhặt từ map at 03/11/2023 9:13 PM
+BAG:duloveyou add 7xHoa hồng vàng (old: 6) lydo: Nhặt từ map at 03/11/2023 9:14 PM
+BAG:duloveyou add 9xHoa hồng xanh (old: 8) lydo: Nhặt từ map at 03/11/2023 9:14 PM
+BAG:duloveyou add 2xĐá thạch anh tím (old: 1) lydo: Nhặt từ map at 03/11/2023 9:14 PM
+BAG:duloveyou add 9xHoa hồng đỏ (old: 8) lydo: Nhặt từ map at 03/11/2023 9:15 PM
+BAG:duloveyou add 10xHoa hồng đỏ (old: 9) lydo: Nhặt từ map at 03/11/2023 9:15 PM
+BAG:duloveyou add 8xHoa hồng vàng (old: 7) lydo: Nhặt từ map at 03/11/2023 9:15 PM
+BAG:duloveyou add 11xHoa hồng đỏ (old: 10) lydo: Nhặt từ map at 03/11/2023 9:16 PM
+BAG:duloveyou add 10xHoa hồng xanh (old: 9) lydo: Nhặt từ map at 03/11/2023 9:16 PM
+BAG:duloveyou add 1xRada cấp 1 lydo: Nhặt từ map at 03/11/2023 9:16 PM
+BAG:duloveyou add 12xHoa hồng đỏ (old: 11) lydo: Nhặt từ map at 03/11/2023 9:17 PM
+BAG:duloveyou add 1xQuần vải đen lydo: Nhặt từ map at 03/11/2023 9:17 PM
+BAG:duloveyou add 1xGiầy nhựa lydo: Nhặt từ map at 03/11/2023 9:17 PM
+BAG:duloveyou add 1xViên Capsule đặc biệt lydo: Mua từ cửa hàng at 03/11/2023 9:18 PM
+BAG:duloveyou add 11xHoa hồng xanh (old: 10) lydo: Nhặt từ map at 03/11/2023 9:18 PM
+BAG:duloveyou add 12xHoa hồng xanh (old: 11) lydo: Nhặt từ map at 03/11/2023 9:19 PM
+BAG:duloveyou add 9xHoa hồng vàng (old: 8) lydo: Nhặt từ map at 03/11/2023 9:19 PM
+BAG:duloveyou add 10xHoa hồng vàng (old: 9) lydo: Nhặt từ map at 03/11/2023 9:20 PM
+BAG:duloveyou add 13xHoa hồng xanh (old: 12) lydo: Nhặt từ map at 03/11/2023 9:21 PM
+BAG:duloveyou add 1xSách đấm Dragon lv2 lydo: Mua từ cửa hàng at 03/11/2023 9:24 PM
+BAG:duloveyou add 1xSách đấm Dragon lv3 lydo: Mua từ cửa hàng at 03/11/2023 9:24 PM
+BAG:duloveyou add 1xSách đấm Dragon lv4 lydo: Mua từ cửa hàng at 03/11/2023 9:24 PM
+BAG:duloveyou add 1xSách đấm Dragon lv5 lydo: Mua từ cửa hàng at 03/11/2023 9:24 PM
+BAG:duloveyou add 1xSách đấm Dragon lv6 lydo: Mua từ cửa hàng at 03/11/2023 9:24 PM
+BAG:duloveyou add 1xSách đấm Dragon lv7 lydo: Mua từ cửa hàng at 03/11/2023 9:24 PM
+BAG:duloveyou add 1xSách Kamejoko lv2 lydo: Mua từ cửa hàng at 03/11/2023 9:24 PM
+BAG:duloveyou add 1xSách Kamejoko lv3 lydo: Mua từ cửa hàng at 03/11/2023 9:25 PM
+BAG:duloveyou add 1xSách Kamejoko lv4 lydo: Mua từ cửa hàng at 03/11/2023 9:25 PM
+BAG:duloveyou add 1xSách Kamejoko lv5 lydo: Mua từ cửa hàng at 03/11/2023 9:25 PM
+BAG:duloveyou add 1xSách Kamejoko lv6 lydo: Mua từ cửa hàng at 03/11/2023 9:25 PM
+BAG:duloveyou add 1xSách Kamejoko lv7 lydo: Mua từ cửa hàng at 03/11/2023 9:25 PM
+BAG:duloveyou add 1xThái Dương Hạ San lv1 lydo: Mua từ cửa hàng at 03/11/2023 9:25 PM
+BAG:duloveyou add 1xThái Dương Hạ San lv2 lydo: Mua từ cửa hàng at 03/11/2023 9:25 PM
+BAG:duloveyou add 1xThái Dương Hạ San lv3 lydo: Mua từ cửa hàng at 03/11/2023 9:25 PM
+BAG:duloveyou add 1xThái Dương Hạ San lv4 lydo: Mua từ cửa hàng at 03/11/2023 9:25 PM
+BAG:duloveyou add 1xThái Dương Hạ San lv5 lydo: Mua từ cửa hàng at 03/11/2023 9:25 PM
+BAG:duloveyou add 1xThái Dương Hạ San lv6 lydo: Mua từ cửa hàng at 03/11/2023 9:25 PM
+BAG:duloveyou add 1xThái Dương Hạ San lv7 lydo: Mua từ cửa hàng at 03/11/2023 9:25 PM
+BAG:duloveyou add 1xGăng vải đen lydo: Lấy từ body vào hành trang at 03/11/2023 9:27 PM
+BAG:duloveyou add 1xÁo vải 3 lỗ lydo: Lấy từ body vào hành trang at 03/11/2023 9:29 PM
+BAG:duloveyou add 1xQuần vải đen lydo: Lấy từ body vào hành trang at 03/11/2023 9:29 PM
+BAG:duloveyou add 1xGiầy nhựa lydo: Lấy từ body vào hành trang at 03/11/2023 9:29 PM
+BAG:duloveyou add 1xRada cấp 1 lydo: Lấy từ body vào hành trang at 03/11/2023 9:29 PM
+BAG:duloveyou add 99xThỏi vàng lydo: Tách thỏi vàng at 03/11/2023 9:38 PM

@@ -1,0 +1,424 @@
+BAG:hapanda add 354xHoa hồng xanh (old: 353) lydo: Nhặt từ map at 03/11/2023 5:49 AM
+BAG:hapanda add 445xHoa hồng vàng (old: 444) lydo: Nhặt từ map at 03/11/2023 5:49 AM
+BAG:hapanda add 6xĐá Ruby (old: 5) lydo: Nhặt từ map at 03/11/2023 5:49 AM
+BAG:hapanda add 375xHoa hồng đỏ (old: 374) lydo: Nhặt từ map at 03/11/2023 5:50 AM
+BAG:hapanda add 10xĐậu thần cấp 9 (old: 1) lydo: Thu hoạch đậu at 03/11/2023 5:50 AM
+BAG:hapanda add 28xNgọc Rồng 4 sao lydo: Lấy từ rương qua người at 03/11/2023 5:51 AM
+BAG:hapanda add 30xĐậu thần cấp 9 (old: 10) lydo: Lấy từ rương qua người at 03/11/2023 5:51 AM
+BAG:hapanda add 50xĐậu thần cấp 9 (old: 30) lydo: Lấy từ rương qua người at 03/11/2023 5:52 AM
+BAG:hapanda add 70xĐậu thần cấp 9 (old: 50) lydo: Lấy từ rương qua người at 03/11/2023 5:52 AM
+BAG:hapanda add 90xĐậu thần cấp 9 (old: 70) lydo: Lấy từ rương qua người at 03/11/2023 5:52 AM
+BAG:hapanda add 11xĐậu thần cấp 9 lydo: Lấy từ rương qua người at 03/11/2023 5:52 AM
+BAG:hapanda add 99xĐậu thần cấp 9 (old: 90) lydo: Lấy từ rương qua người at 03/11/2023 5:52 AM
+BAG:hapanda add 1xGiáp tập luyện cấp 3 lydo: Lấy từ body vào hành trang at 03/11/2023 5:56 AM
+BAG:hapanda add 1xNgọc Rồng 5 sao lydo: Nhặt từ map at 03/11/2023 5:56 AM
+BAG:hapanda add 1xHoa hồng xanh lydo: Nhặt từ map at 03/11/2023 5:57 AM
+BAG:hapanda add 2xHoa hồng xanh (old: 1) lydo: Nhặt từ map at 03/11/2023 5:57 AM
+BAG:hapanda add 1xHoa hồng đỏ lydo: Nhặt từ map at 03/11/2023 5:57 AM
+BAG:hapanda add 2xHoa hồng đỏ (old: 1) lydo: Nhặt từ map at 03/11/2023 5:57 AM
+BAG:hapanda add 7xĐá Ruby (old: 6) lydo: Nhặt từ map at 03/11/2023 5:57 AM
+BAG:hapanda add 3xHoa hồng đỏ (old: 2) lydo: Nhặt từ map at 03/11/2023 5:58 AM
+BAG:hapanda add 4xHoa hồng đỏ (old: 3) lydo: Nhặt từ map at 03/11/2023 5:58 AM
+BAG:hapanda add 3xHoa hồng xanh (old: 2) lydo: Nhặt từ map at 03/11/2023 5:58 AM
+BAG:hapanda add 5xHoa hồng đỏ (old: 4) lydo: Nhặt từ map at 03/11/2023 5:58 AM
+BAG:hapanda add 4xHoa hồng xanh (old: 3) lydo: Nhặt từ map at 03/11/2023 5:59 AM
+BAG:hapanda add 6xHoa hồng đỏ (old: 5) lydo: Nhặt từ map at 03/11/2023 5:59 AM
+BAG:hapanda add 5xHoa hồng xanh (old: 4) lydo: Nhặt từ map at 03/11/2023 5:59 AM
+BAG:hapanda add 6xHoa hồng xanh (old: 5) lydo: Nhặt từ map at 03/11/2023 5:59 AM
+BAG:hapanda add 7xHoa hồng đỏ (old: 6) lydo: Nhặt từ map at 03/11/2023 6:00 AM
+BAG:hapanda add 8xHoa hồng đỏ (old: 7) lydo: Nhặt từ map at 03/11/2023 6:00 AM
+BAG:hapanda add 7xHoa hồng xanh (old: 6) lydo: Nhặt từ map at 03/11/2023 6:00 AM
+BAG:hapanda add 9xHoa hồng đỏ (old: 8) lydo: Nhặt từ map at 03/11/2023 6:00 AM
+BAG:hapanda add 4xĐá Titan (old: 3) lydo: Nhặt từ map at 03/11/2023 6:00 AM
+BAG:hapanda add 10xHoa hồng đỏ (old: 9) lydo: Nhặt từ map at 03/11/2023 6:00 AM
+BAG:hapanda add 11xHoa hồng đỏ (old: 10) lydo: Nhặt từ map at 03/11/2023 6:00 AM
+BAG:hapanda add 12xHoa hồng đỏ (old: 11) lydo: Nhặt từ map at 03/11/2023 6:01 AM
+BAG:hapanda add 8xHoa hồng xanh (old: 7) lydo: Nhặt từ map at 03/11/2023 6:01 AM
+BAG:hapanda add 9xHoa hồng xanh (old: 8) lydo: Nhặt từ map at 03/11/2023 6:01 AM
+BAG:hapanda add 10xHoa hồng xanh (old: 9) lydo: Nhặt từ map at 03/11/2023 6:01 AM
+BAG:hapanda add 29xNgọc Rồng 4 sao (old: 28) lydo: Nhặt từ map at 03/11/2023 6:01 AM
+BAG:hapanda add 11xHoa hồng xanh (old: 10) lydo: Nhặt từ map at 03/11/2023 6:01 AM
+BAG:hapanda add 12xHoa hồng xanh (old: 11) lydo: Nhặt từ map at 03/11/2023 6:01 AM
+BAG:hapanda add 2xNgọc Rồng 5 sao (old: 1) lydo: Nhặt từ map at 03/11/2023 6:01 AM
+BAG:hapanda add 3xNgọc Rồng 5 sao (old: 2) lydo: Nhặt từ map at 03/11/2023 6:01 AM
+BAG:hapanda add 4xNgọc Rồng 5 sao (old: 3) lydo: Nhặt từ map at 03/11/2023 6:02 AM
+BAG:hapanda add 30xNgọc Rồng 4 sao (old: 29) lydo: Nhặt từ map at 03/11/2023 6:02 AM
+BAG:hapanda add 13xHoa hồng đỏ (old: 12) lydo: Nhặt từ map at 03/11/2023 6:02 AM
+BAG:hapanda add 13xHoa hồng xanh (old: 12) lydo: Nhặt từ map at 03/11/2023 6:02 AM
+BAG:hapanda add 14xHoa hồng đỏ (old: 13) lydo: Nhặt từ map at 03/11/2023 6:02 AM
+BAG:hapanda add 31xNgọc Rồng 4 sao (old: 30) lydo: Nhặt từ map at 03/11/2023 6:03 AM
+BAG:hapanda add 8xĐá Ruby (old: 7) lydo: Nhặt từ map at 03/11/2023 6:03 AM
+BAG:hapanda add 15xHoa hồng đỏ (old: 14) lydo: Nhặt từ map at 03/11/2023 6:03 AM
+BAG:hapanda add 16xHoa hồng đỏ (old: 15) lydo: Nhặt từ map at 03/11/2023 6:03 AM
+BAG:hapanda add 17xHoa hồng đỏ (old: 16) lydo: Nhặt từ map at 03/11/2023 6:03 AM
+BAG:hapanda add 14xHoa hồng xanh (old: 13) lydo: Nhặt từ map at 03/11/2023 6:03 AM
+BAG:hapanda add 15xHoa hồng xanh (old: 14) lydo: Nhặt từ map at 03/11/2023 6:03 AM
+BAG:hapanda add 9xĐá Ruby (old: 8) lydo: Nhặt từ map at 03/11/2023 6:04 AM
+BAG:hapanda add 18xHoa hồng đỏ (old: 17) lydo: Nhặt từ map at 03/11/2023 6:04 AM
+BAG:hapanda add 16xHoa hồng xanh (old: 15) lydo: Nhặt từ map at 03/11/2023 6:04 AM
+BAG:hapanda add 17xHoa hồng xanh (old: 16) lydo: Nhặt từ map at 03/11/2023 6:04 AM
+BAG:hapanda add 16xNgọc Rồng 6 sao (old: 15) lydo: Nhặt từ map at 03/11/2023 6:04 AM
+BAG:hapanda add 18xHoa hồng xanh (old: 17) lydo: Nhặt từ map at 03/11/2023 6:04 AM
+BAG:hapanda add 19xHoa hồng xanh (old: 18) lydo: Nhặt từ map at 03/11/2023 6:04 AM
+BAG:hapanda add 19xHoa hồng đỏ (old: 18) lydo: Nhặt từ map at 03/11/2023 6:05 AM
+BAG:hapanda add 20xHoa hồng đỏ (old: 19) lydo: Nhặt từ map at 03/11/2023 6:05 AM
+BAG:hapanda add 20xHoa hồng xanh (old: 19) lydo: Nhặt từ map at 03/11/2023 6:05 AM
+BAG:hapanda add 10xĐá Ruby (old: 9) lydo: Nhặt từ map at 03/11/2023 6:05 AM
+BAG:hapanda add 21xHoa hồng đỏ (old: 20) lydo: Nhặt từ map at 03/11/2023 6:05 AM
+BAG:hapanda add 22xHoa hồng đỏ (old: 21) lydo: Nhặt từ map at 03/11/2023 6:06 AM
+BAG:hapanda add 21xHoa hồng xanh (old: 20) lydo: Nhặt từ map at 03/11/2023 6:06 AM
+BAG:hapanda add 5xĐá Titan (old: 4) lydo: Nhặt từ map at 03/11/2023 6:06 AM
+BAG:hapanda add 11xĐá Ruby (old: 10) lydo: Nhặt từ map at 03/11/2023 6:06 AM
+BAG:hapanda add 23xHoa hồng đỏ (old: 22) lydo: Nhặt từ map at 03/11/2023 6:06 AM
+BAG:hapanda add 24xHoa hồng đỏ (old: 23) lydo: Nhặt từ map at 03/11/2023 6:07 AM
+BAG:hapanda add 22xHoa hồng xanh (old: 21) lydo: Nhặt từ map at 03/11/2023 6:07 AM
+BAG:hapanda add 6xĐá Titan (old: 5) lydo: Nhặt từ map at 03/11/2023 6:07 AM
+BAG:hapanda add 23xHoa hồng xanh (old: 22) lydo: Nhặt từ map at 03/11/2023 6:07 AM
+BAG:hapanda add 24xHoa hồng xanh (old: 23) lydo: Nhặt từ map at 03/11/2023 6:08 AM
+BAG:hapanda add 25xHoa hồng đỏ (old: 24) lydo: Nhặt từ map at 03/11/2023 6:08 AM
+BAG:hapanda add 1xHoa hồng vàng lydo: Nhặt từ map at 03/11/2023 6:08 AM
+BAG:hapanda add 2xHoa hồng vàng (old: 1) lydo: Nhặt từ map at 03/11/2023 6:08 AM
+BAG:hapanda add 3xHoa hồng vàng (old: 2) lydo: Nhặt từ map at 03/11/2023 6:09 AM
+BAG:hapanda add 4xHoa hồng vàng (old: 3) lydo: Nhặt từ map at 03/11/2023 6:09 AM
+BAG:hapanda add 26xHoa hồng đỏ (old: 25) lydo: Nhặt từ map at 03/11/2023 6:09 AM
+BAG:hapanda add 5xHoa hồng vàng (old: 4) lydo: Nhặt từ map at 03/11/2023 6:09 AM
+BAG:hapanda add 6xHoa hồng vàng (old: 5) lydo: Nhặt từ map at 03/11/2023 6:09 AM
+BAG:hapanda add 27xHoa hồng đỏ (old: 26) lydo: Nhặt từ map at 03/11/2023 6:09 AM
+BAG:hapanda add 25xHoa hồng xanh (old: 24) lydo: Nhặt từ map at 03/11/2023 6:09 AM
+BAG:hapanda add 28xHoa hồng đỏ (old: 27) lydo: Nhặt từ map at 03/11/2023 6:10 AM
+BAG:hapanda add 7xHoa hồng vàng (old: 6) lydo: Nhặt từ map at 03/11/2023 6:10 AM
+BAG:hapanda add 26xHoa hồng xanh (old: 25) lydo: Nhặt từ map at 03/11/2023 6:10 AM
+BAG:hapanda add 8xHoa hồng vàng (old: 7) lydo: Nhặt từ map at 03/11/2023 6:10 AM
+BAG:hapanda add 9xHoa hồng vàng (old: 8) lydo: Nhặt từ map at 03/11/2023 6:10 AM
+BAG:hapanda add 29xHoa hồng đỏ (old: 28) lydo: Nhặt từ map at 03/11/2023 6:11 AM
+BAG:hapanda add 27xHoa hồng xanh (old: 26) lydo: Nhặt từ map at 03/11/2023 6:11 AM
+BAG:hapanda add 7xĐá Titan (old: 6) lydo: Nhặt từ map at 03/11/2023 6:11 AM
+BAG:hapanda add 10xHoa hồng vàng (old: 9) lydo: Nhặt từ map at 03/11/2023 6:11 AM
+BAG:hapanda add 30xHoa hồng đỏ (old: 29) lydo: Nhặt từ map at 03/11/2023 6:11 AM
+BAG:hapanda add 31xHoa hồng đỏ (old: 30) lydo: Nhặt từ map at 03/11/2023 6:11 AM
+BAG:hapanda add 32xHoa hồng đỏ (old: 31) lydo: Nhặt từ map at 03/11/2023 6:11 AM
+BAG:hapanda add 11xHoa hồng vàng (old: 10) lydo: Nhặt từ map at 03/11/2023 6:11 AM
+BAG:hapanda add 33xHoa hồng đỏ (old: 32) lydo: Nhặt từ map at 03/11/2023 6:12 AM
+BAG:hapanda add 34xHoa hồng đỏ (old: 33) lydo: Nhặt từ map at 03/11/2023 6:12 AM
+BAG:hapanda add 12xĐá Ruby (old: 11) lydo: Nhặt từ map at 03/11/2023 6:12 AM
+BAG:hapanda add 35xHoa hồng đỏ (old: 34) lydo: Nhặt từ map at 03/11/2023 6:12 AM
+BAG:hapanda add 13xĐá Ruby (old: 12) lydo: Nhặt từ map at 03/11/2023 6:12 AM
+BAG:hapanda add 12xHoa hồng vàng (old: 11) lydo: Nhặt từ map at 03/11/2023 6:12 AM
+BAG:hapanda add 14xĐá Ruby (old: 13) lydo: Nhặt từ map at 03/11/2023 6:12 AM
+BAG:hapanda add 28xHoa hồng xanh (old: 27) lydo: Nhặt từ map at 03/11/2023 6:13 AM
+BAG:hapanda add 13xHoa hồng vàng (old: 12) lydo: Nhặt từ map at 03/11/2023 6:13 AM
+BAG:hapanda add 36xHoa hồng đỏ (old: 35) lydo: Nhặt từ map at 03/11/2023 6:13 AM
+BAG:hapanda add 14xHoa hồng vàng (old: 13) lydo: Nhặt từ map at 03/11/2023 6:13 AM
+BAG:hapanda add 17xNgọc Rồng 6 sao (old: 16) lydo: Nhặt từ map at 03/11/2023 6:14 AM
+BAG:hapanda add 37xHoa hồng đỏ (old: 36) lydo: Nhặt từ map at 03/11/2023 6:14 AM
+BAG:hapanda add 15xHoa hồng vàng (old: 14) lydo: Nhặt từ map at 03/11/2023 6:14 AM
+BAG:hapanda add 16xHoa hồng vàng (old: 15) lydo: Nhặt từ map at 03/11/2023 6:14 AM
+BAG:hapanda add 32xNgọc Rồng 4 sao (old: 31) lydo: Nhặt từ map at 03/11/2023 6:14 AM
+BAG:hapanda add 17xHoa hồng vàng (old: 16) lydo: Nhặt từ map at 03/11/2023 6:14 AM
+BAG:hapanda add 18xHoa hồng vàng (old: 17) lydo: Nhặt từ map at 03/11/2023 6:14 AM
+BAG:hapanda add 19xHoa hồng vàng (old: 18) lydo: Nhặt từ map at 03/11/2023 6:14 AM
+BAG:hapanda add 29xHoa hồng xanh (old: 28) lydo: Nhặt từ map at 03/11/2023 6:15 AM
+BAG:hapanda add 38xHoa hồng đỏ (old: 37) lydo: Nhặt từ map at 03/11/2023 6:16 AM
+BAG:hapanda add 20xHoa hồng vàng (old: 19) lydo: Nhặt từ map at 03/11/2023 6:17 AM
+BAG:hapanda add 33xNgọc Rồng 4 sao (old: 32) lydo: Nhặt từ map at 03/11/2023 6:17 AM
+BAG:hapanda add 21xHoa hồng vàng (old: 20) lydo: Nhặt từ map at 03/11/2023 6:18 AM
+BAG:hapanda add 22xHoa hồng vàng (old: 21) lydo: Nhặt từ map at 03/11/2023 6:18 AM
+BAG:hapanda add 8xĐá Titan (old: 7) lydo: Nhặt từ map at 03/11/2023 6:20 AM
+BAG:hapanda add 39xHoa hồng đỏ (old: 38) lydo: Nhặt từ map at 03/11/2023 1:10 PM
+BAG:hapanda add 40xHoa hồng đỏ (old: 39) lydo: Nhặt từ map at 03/11/2023 1:10 PM
+BAG:hapanda add 30xHoa hồng xanh (old: 29) lydo: Nhặt từ map at 03/11/2023 1:10 PM
+BAG:hapanda add 31xHoa hồng xanh (old: 30) lydo: Nhặt từ map at 03/11/2023 1:11 PM
+BAG:hapanda add 32xHoa hồng xanh (old: 31) lydo: Nhặt từ map at 03/11/2023 1:12 PM
+BAG:hapanda add 1xÁo thun Pico lydo: Mua từ cửa hàng at 03/11/2023 1:19 PM
+BAG:hapanda add 1xQuần vải mềm Pico lydo: Mua từ cửa hàng at 03/11/2023 1:19 PM
+BAG:hapanda add 1xGiày sắt Pico lydo: Mua từ cửa hàng at 03/11/2023 1:19 PM
+BAG:hapanda add 33xHoa hồng xanh (old: 32) lydo: Nhặt từ map at 03/11/2023 1:20 PM
+BAG:hapanda add 34xHoa hồng xanh (old: 33) lydo: Nhặt từ map at 03/11/2023 1:20 PM
+BAG:hapanda add 15xĐá Ruby (old: 14) lydo: Nhặt từ map at 03/11/2023 1:20 PM
+BAG:hapanda add 1xĐá thạch anh tím lydo: Nhặt từ map at 03/11/2023 1:21 PM
+BAG:hapanda add 35xHoa hồng xanh (old: 34) lydo: Nhặt từ map at 03/11/2023 1:21 PM
+BAG:hapanda add 23xHoa hồng vàng (old: 22) lydo: Nhặt từ map at 03/11/2023 1:21 PM
+BAG:hapanda add 36xHoa hồng xanh (old: 35) lydo: Nhặt từ map at 03/11/2023 1:21 PM
+BAG:hapanda add 41xHoa hồng đỏ (old: 40) lydo: Nhặt từ map at 03/11/2023 1:21 PM
+BAG:hapanda add 37xHoa hồng xanh (old: 36) lydo: Nhặt từ map at 03/11/2023 1:21 PM
+BAG:hapanda add 42xHoa hồng đỏ (old: 41) lydo: Nhặt từ map at 03/11/2023 1:22 PM
+BAG:hapanda add 43xHoa hồng đỏ (old: 42) lydo: Nhặt từ map at 03/11/2023 1:22 PM
+BAG:hapanda add 38xHoa hồng xanh (old: 37) lydo: Nhặt từ map at 03/11/2023 1:22 PM
+BAG:hapanda add 24xHoa hồng vàng (old: 23) lydo: Nhặt từ map at 03/11/2023 1:23 PM
+BAG:hapanda add 44xHoa hồng đỏ (old: 43) lydo: Nhặt từ map at 03/11/2023 1:23 PM
+BAG:hapanda add 45xHoa hồng đỏ (old: 44) lydo: Nhặt từ map at 03/11/2023 1:23 PM
+BAG:hapanda add 25xHoa hồng vàng (old: 24) lydo: Nhặt từ map at 03/11/2023 1:23 PM
+BAG:hapanda add 26xHoa hồng vàng (old: 25) lydo: Nhặt từ map at 03/11/2023 1:24 PM
+BAG:hapanda add 39xHoa hồng xanh (old: 38) lydo: Nhặt từ map at 03/11/2023 1:24 PM
+BAG:hapanda add 46xHoa hồng đỏ (old: 45) lydo: Nhặt từ map at 03/11/2023 1:24 PM
+BAG:hapanda add 47xHoa hồng đỏ (old: 46) lydo: Nhặt từ map at 03/11/2023 1:24 PM
+BAG:hapanda add 40xHoa hồng xanh (old: 39) lydo: Nhặt từ map at 03/11/2023 1:25 PM
+BAG:hapanda add 18xNgọc Rồng 6 sao (old: 17) lydo: Nhặt từ map at 03/11/2023 1:25 PM
+BAG:hapanda add 48xHoa hồng đỏ (old: 47) lydo: Nhặt từ map at 03/11/2023 1:25 PM
+BAG:hapanda add 49xHoa hồng đỏ (old: 48) lydo: Nhặt từ map at 03/11/2023 1:26 PM
+BAG:hapanda add 2xĐá thạch anh tím (old: 1) lydo: Nhặt từ map at 03/11/2023 1:28 PM
+BAG:hapanda add 50xHoa hồng đỏ (old: 49) lydo: Nhặt từ map at 03/11/2023 1:28 PM
+BAG:hapanda add 27xHoa hồng vàng (old: 26) lydo: Nhặt từ map at 03/11/2023 1:29 PM
+BAG:hapanda add 41xHoa hồng xanh (old: 40) lydo: Nhặt từ map at 03/11/2023 1:29 PM
+BAG:hapanda add 28xHoa hồng vàng (old: 27) lydo: Nhặt từ map at 03/11/2023 1:29 PM
+BAG:hapanda add 51xHoa hồng đỏ (old: 50) lydo: Nhặt từ map at 03/11/2023 1:29 PM
+BAG:hapanda add 42xHoa hồng xanh (old: 41) lydo: Nhặt từ map at 03/11/2023 1:30 PM
+BAG:hapanda add 29xHoa hồng vàng (old: 28) lydo: Nhặt từ map at 03/11/2023 1:31 PM
+BAG:hapanda add 43xHoa hồng xanh (old: 42) lydo: Nhặt từ map at 03/11/2023 1:31 PM
+BAG:hapanda add 30xHoa hồng vàng (old: 29) lydo: Nhặt từ map at 03/11/2023 1:32 PM
+BAG:hapanda add 44xHoa hồng xanh (old: 43) lydo: Nhặt từ map at 03/11/2023 1:32 PM
+BAG:hapanda add 52xHoa hồng đỏ (old: 51) lydo: Nhặt từ map at 03/11/2023 1:33 PM
+BAG:hapanda add 31xHoa hồng vàng (old: 30) lydo: Nhặt từ map at 03/11/2023 1:33 PM
+BAG:hapanda add 32xHoa hồng vàng (old: 31) lydo: Nhặt từ map at 03/11/2023 1:34 PM
+BAG:hapanda add 53xHoa hồng đỏ (old: 52) lydo: Nhặt từ map at 03/11/2023 1:35 PM
+BAG:hapanda add 9xĐá Titan (old: 8) lydo: Nhặt từ map at 03/11/2023 1:35 PM
+BAG:hapanda add 54xHoa hồng đỏ (old: 53) lydo: Nhặt từ map at 03/11/2023 1:36 PM
+BAG:hapanda add 33xHoa hồng vàng (old: 32) lydo: Nhặt từ map at 03/11/2023 1:36 PM
+BAG:hapanda add 34xHoa hồng vàng (old: 33) lydo: Nhặt từ map at 03/11/2023 1:36 PM
+BAG:hapanda add 35xHoa hồng vàng (old: 34) lydo: Nhặt từ map at 03/11/2023 1:37 PM
+BAG:hapanda add 45xHoa hồng xanh (old: 44) lydo: Nhặt từ map at 03/11/2023 1:38 PM
+BAG:hapanda add 36xHoa hồng vàng (old: 35) lydo: Nhặt từ map at 03/11/2023 1:38 PM
+BAG:hapanda add 37xHoa hồng vàng (old: 36) lydo: Nhặt từ map at 03/11/2023 1:38 PM
+BAG:hapanda add 55xHoa hồng đỏ (old: 54) lydo: Nhặt từ map at 03/11/2023 1:40 PM
+BAG:hapanda add 46xHoa hồng xanh (old: 45) lydo: Nhặt từ map at 03/11/2023 1:40 PM
+BAG:hapanda add 3xĐá thạch anh tím (old: 2) lydo: Nhặt từ map at 03/11/2023 1:40 PM
+BAG:hapanda add 56xHoa hồng đỏ (old: 55) lydo: Nhặt từ map at 03/11/2023 1:40 PM
+BAG:hapanda add 38xHoa hồng vàng (old: 37) lydo: Nhặt từ map at 03/11/2023 1:41 PM
+BAG:hapanda add 47xHoa hồng xanh (old: 46) lydo: Nhặt từ map at 03/11/2023 1:41 PM
+BAG:hapanda add 48xHoa hồng xanh (old: 47) lydo: Nhặt từ map at 03/11/2023 1:42 PM
+BAG:hapanda add 4xĐá thạch anh tím (old: 3) lydo: Nhặt từ map at 03/11/2023 1:42 PM
+BAG:hapanda add 39xHoa hồng vàng (old: 38) lydo: Nhặt từ map at 03/11/2023 1:43 PM
+BAG:hapanda add 40xHoa hồng vàng (old: 39) lydo: Nhặt từ map at 03/11/2023 1:44 PM
+BAG:hapanda add 41xHoa hồng vàng (old: 40) lydo: Nhặt từ map at 03/11/2023 1:44 PM
+BAG:hapanda add 42xHoa hồng vàng (old: 41) lydo: Nhặt từ map at 03/11/2023 1:44 PM
+BAG:hapanda add 57xHoa hồng đỏ (old: 56) lydo: Nhặt từ map at 03/11/2023 1:45 PM
+BAG:hapanda add 43xHoa hồng vàng (old: 42) lydo: Nhặt từ map at 03/11/2023 1:45 PM
+BAG:hapanda add 44xHoa hồng vàng (old: 43) lydo: Nhặt từ map at 03/11/2023 1:45 PM
+BAG:hapanda add 49xHoa hồng xanh (old: 48) lydo: Nhặt từ map at 03/11/2023 1:45 PM
+BAG:hapanda add 16xĐá Ruby (old: 15) lydo: Nhặt từ map at 03/11/2023 1:46 PM
+BAG:hapanda add 58xHoa hồng đỏ (old: 57) lydo: Nhặt từ map at 03/11/2023 1:47 PM
+BAG:hapanda add 59xHoa hồng đỏ (old: 58) lydo: Nhặt từ map at 03/11/2023 1:48 PM
+BAG:hapanda add 60xHoa hồng đỏ (old: 59) lydo: Nhặt từ map at 03/11/2023 1:50 PM
+BAG:hapanda add 45xHoa hồng vàng (old: 44) lydo: Nhặt từ map at 03/11/2023 1:54 PM
+BAG:hapanda add 1xĐá Saphia lydo: Nhặt từ map at 03/11/2023 1:54 PM
+BAG:hapanda add 50xHoa hồng xanh (old: 49) lydo: Nhặt từ map at 03/11/2023 1:55 PM
+BAG:hapanda add 46xHoa hồng vàng (old: 45) lydo: Nhặt từ map at 03/11/2023 1:55 PM
+BAG:hapanda add 47xHoa hồng vàng (old: 46) lydo: Nhặt từ map at 03/11/2023 1:56 PM
+BAG:hapanda add 61xHoa hồng đỏ (old: 60) lydo: Nhặt từ map at 03/11/2023 1:58 PM
+BAG:hapanda add 51xHoa hồng xanh (old: 50) lydo: Nhặt từ map at 03/11/2023 1:58 PM
+BAG:hapanda add 62xHoa hồng đỏ (old: 61) lydo: Nhặt từ map at 03/11/2023 1:58 PM
+BAG:hapanda add 17xĐá Ruby (old: 16) lydo: Nhặt từ map at 03/11/2023 1:59 PM
+BAG:hapanda add 52xHoa hồng xanh (old: 51) lydo: Nhặt từ map at 03/11/2023 1:59 PM
+BAG:hapanda add 53xHoa hồng xanh (old: 52) lydo: Nhặt từ map at 03/11/2023 1:59 PM
+BAG:hapanda add 63xHoa hồng đỏ (old: 62) lydo: Nhặt từ map at 03/11/2023 1:59 PM
+BAG:hapanda add 48xHoa hồng vàng (old: 47) lydo: Nhặt từ map at 03/11/2023 2:00 PM
+BAG:hapanda add 49xHoa hồng vàng (old: 48) lydo: Nhặt từ map at 03/11/2023 2:01 PM
+BAG:hapanda add 54xHoa hồng xanh (old: 53) lydo: Nhặt từ map at 03/11/2023 2:01 PM
+BAG:hapanda add 50xHoa hồng vàng (old: 49) lydo: Nhặt từ map at 03/11/2023 2:02 PM
+BAG:hapanda add 64xHoa hồng đỏ (old: 63) lydo: Nhặt từ map at 03/11/2023 2:02 PM
+BAG:hapanda add 55xHoa hồng xanh (old: 54) lydo: Nhặt từ map at 03/11/2023 2:02 PM
+BAG:hapanda add 65xHoa hồng đỏ (old: 64) lydo: Nhặt từ map at 03/11/2023 2:03 PM
+BAG:hapanda add 51xHoa hồng vàng (old: 50) lydo: Nhặt từ map at 03/11/2023 2:03 PM
+BAG:hapanda add 52xHoa hồng vàng (old: 51) lydo: Nhặt từ map at 03/11/2023 2:03 PM
+BAG:hapanda add 1xĐá lục bảo lydo: Nhặt từ map at 03/11/2023 2:03 PM
+BAG:hapanda add 53xHoa hồng vàng (old: 52) lydo: Nhặt từ map at 03/11/2023 2:04 PM
+BAG:hapanda add 54xHoa hồng vàng (old: 53) lydo: Nhặt từ map at 03/11/2023 2:04 PM
+BAG:hapanda add 55xHoa hồng vàng (old: 54) lydo: Nhặt từ map at 03/11/2023 2:04 PM
+BAG:hapanda add 10xĐậu thần cấp 9 (old: 6) lydo: Thu hoạch đậu at 03/11/2023 2:23 PM
+BAG:hapanda add 27xĐậu thần cấp 9 (old: 10) lydo: Lấy từ rương qua người at 03/11/2023 2:24 PM
+BAG:hapanda add 47xĐậu thần cấp 9 (old: 27) lydo: Lấy từ rương qua người at 03/11/2023 2:24 PM
+BAG:hapanda add 67xĐậu thần cấp 9 (old: 47) lydo: Lấy từ rương qua người at 03/11/2023 2:24 PM
+BAG:hapanda add 66xHoa hồng đỏ (old: 65) lydo: Nhặt từ map at 03/11/2023 2:25 PM
+BAG:hapanda add 1xHoa hồng xanh lydo: Nhặt từ map at 03/11/2023 2:25 PM
+BAG:hapanda add 18xĐá Ruby (old: 17) lydo: Nhặt từ map at 03/11/2023 2:25 PM
+BAG:hapanda add 2xHoa hồng xanh (old: 1) lydo: Nhặt từ map at 03/11/2023 2:25 PM
+BAG:hapanda add 56xHoa hồng vàng (old: 55) lydo: Nhặt từ map at 03/11/2023 2:25 PM
+BAG:hapanda add 5xNgọc Rồng 5 sao (old: 4) lydo: Nhặt từ map at 03/11/2023 2:25 PM
+BAG:hapanda add 57xHoa hồng vàng (old: 56) lydo: Nhặt từ map at 03/11/2023 2:26 PM
+BAG:hapanda add 3xHoa hồng xanh (old: 2) lydo: Nhặt từ map at 03/11/2023 2:27 PM
+BAG:hapanda add 2xĐá Saphia (old: 1) lydo: Nhặt từ map at 03/11/2023 2:27 PM
+BAG:hapanda add 67xHoa hồng đỏ (old: 66) lydo: Nhặt từ map at 03/11/2023 2:27 PM
+BAG:hapanda add 58xHoa hồng vàng (old: 57) lydo: Nhặt từ map at 03/11/2023 2:27 PM
+BAG:hapanda add 68xHoa hồng đỏ (old: 67) lydo: Nhặt từ map at 03/11/2023 2:28 PM
+BAG:hapanda add 59xHoa hồng vàng (old: 58) lydo: Nhặt từ map at 03/11/2023 2:29 PM
+BAG:hapanda add 4xHoa hồng xanh (old: 3) lydo: Nhặt từ map at 03/11/2023 2:29 PM
+BAG:hapanda add 5xHoa hồng xanh (old: 4) lydo: Nhặt từ map at 03/11/2023 2:29 PM
+BAG:hapanda add 60xHoa hồng vàng (old: 59) lydo: Nhặt từ map at 03/11/2023 2:29 PM
+BAG:hapanda add 61xHoa hồng vàng (old: 60) lydo: Nhặt từ map at 03/11/2023 2:30 PM
+BAG:hapanda add 69xHoa hồng đỏ (old: 68) lydo: Nhặt từ map at 03/11/2023 2:30 PM
+BAG:hapanda add 62xHoa hồng vàng (old: 61) lydo: Nhặt từ map at 03/11/2023 2:30 PM
+BAG:hapanda add 70xHoa hồng đỏ (old: 69) lydo: Nhặt từ map at 03/11/2023 2:30 PM
+BAG:hapanda add 71xHoa hồng đỏ (old: 70) lydo: Nhặt từ map at 03/11/2023 2:31 PM
+BAG:hapanda add 19xNgọc Rồng 6 sao (old: 18) lydo: Nhặt từ map at 03/11/2023 2:31 PM
+BAG:hapanda add 6xHoa hồng xanh (old: 5) lydo: Nhặt từ map at 03/11/2023 2:32 PM
+BAG:hapanda add 72xHoa hồng đỏ (old: 71) lydo: Nhặt từ map at 03/11/2023 2:32 PM
+BAG:hapanda add 34xNgọc Rồng 4 sao (old: 33) lydo: Nhặt từ map at 03/11/2023 2:32 PM
+BAG:hapanda add 63xHoa hồng vàng (old: 62) lydo: Nhặt từ map at 03/11/2023 2:32 PM
+BAG:hapanda add 10xĐá Titan (old: 9) lydo: Nhặt từ map at 03/11/2023 2:32 PM
+BAG:hapanda add 3xĐá Saphia (old: 2) lydo: Nhặt từ map at 03/11/2023 2:33 PM
+BAG:hapanda add 64xHoa hồng vàng (old: 63) lydo: Nhặt từ map at 03/11/2023 2:36 PM
+BAG:hapanda add 65xHoa hồng vàng (old: 64) lydo: Nhặt từ map at 03/11/2023 2:36 PM
+BAG:hapanda add 73xHoa hồng đỏ (old: 72) lydo: Nhặt từ map at 03/11/2023 2:36 PM
+BAG:hapanda add 66xHoa hồng vàng (old: 65) lydo: Nhặt từ map at 03/11/2023 2:36 PM
+BAG:hapanda add 67xHoa hồng vàng (old: 66) lydo: Nhặt từ map at 03/11/2023 2:36 PM
+BAG:hapanda add 68xHoa hồng vàng (old: 67) lydo: Nhặt từ map at 03/11/2023 2:36 PM
+BAG:hapanda add 7xHoa hồng xanh (old: 6) lydo: Nhặt từ map at 03/11/2023 2:37 PM
+BAG:hapanda add 1xĐá Ruby lydo: Nhặt từ map at 03/11/2023 2:37 PM
+BAG:hapanda add 11xĐá Titan (old: 10) lydo: Nhặt từ map at 03/11/2023 2:37 PM
+BAG:hapanda add 1xĐá thạch anh tím lydo: Nhặt từ map at 03/11/2023 2:37 PM
+BAG:hapanda add 74xHoa hồng đỏ (old: 73) lydo: Nhặt từ map at 03/11/2023 2:37 PM
+BAG:hapanda add 6xNgọc Rồng 5 sao (old: 5) lydo: Nhặt từ map at 03/11/2023 2:38 PM
+BAG:hapanda add 69xHoa hồng vàng (old: 68) lydo: Nhặt từ map at 03/11/2023 2:38 PM
+BAG:hapanda add 70xHoa hồng vàng (old: 69) lydo: Nhặt từ map at 03/11/2023 2:38 PM
+BAG:hapanda add 71xHoa hồng vàng (old: 70) lydo: Nhặt từ map at 03/11/2023 2:38 PM
+BAG:hapanda add 12xĐá Titan (old: 11) lydo: Nhặt từ map at 03/11/2023 2:38 PM
+BAG:hapanda add 2xĐá thạch anh tím (old: 1) lydo: Nhặt từ map at 03/11/2023 2:38 PM
+BAG:hapanda add 8xHoa hồng xanh (old: 7) lydo: Nhặt từ map at 03/11/2023 2:38 PM
+BAG:hapanda add 72xHoa hồng vàng (old: 71) lydo: Nhặt từ map at 03/11/2023 2:38 PM
+BAG:hapanda add 2xĐá Ruby (old: 1) lydo: Nhặt từ map at 03/11/2023 2:38 PM
+BAG:hapanda add 1xĐá lục bảo lydo: Nhặt từ map at 03/11/2023 2:38 PM
+BAG:hapanda add 75xHoa hồng đỏ (old: 74) lydo: Nhặt từ map at 03/11/2023 2:38 PM
+BAG:hapanda add 76xHoa hồng đỏ (old: 75) lydo: Nhặt từ map at 03/11/2023 2:39 PM
+BAG:hapanda add 3xĐá thạch anh tím (old: 2) lydo: Nhặt từ map at 03/11/2023 2:39 PM
+BAG:hapanda add 2xĐá lục bảo (old: 1) lydo: Nhặt từ map at 03/11/2023 2:39 PM
+BAG:hapanda add 1xĐá Saphia lydo: Nhặt từ map at 03/11/2023 2:39 PM
+BAG:hapanda add 9xHoa hồng xanh (old: 8) lydo: Nhặt từ map at 03/11/2023 2:39 PM
+BAG:hapanda add 73xHoa hồng vàng (old: 72) lydo: Nhặt từ map at 03/11/2023 2:40 PM
+BAG:hapanda add 10xHoa hồng xanh (old: 9) lydo: Nhặt từ map at 03/11/2023 2:40 PM
+BAG:hapanda add 2xĐá Saphia (old: 1) lydo: Nhặt từ map at 03/11/2023 2:40 PM
+BAG:hapanda add 74xHoa hồng vàng (old: 73) lydo: Nhặt từ map at 03/11/2023 2:40 PM
+BAG:hapanda add 3xĐá lục bảo (old: 2) lydo: Nhặt từ map at 03/11/2023 2:40 PM
+BAG:hapanda add 11xHoa hồng xanh (old: 10) lydo: Nhặt từ map at 03/11/2023 2:40 PM
+BAG:hapanda add 75xHoa hồng vàng (old: 74) lydo: Nhặt từ map at 03/11/2023 2:40 PM
+BAG:hapanda add 13xĐá Titan (old: 12) lydo: Nhặt từ map at 03/11/2023 2:40 PM
+BAG:hapanda add 14xĐá Titan (old: 13) lydo: Nhặt từ map at 03/11/2023 2:40 PM
+BAG:hapanda add 12xHoa hồng xanh (old: 11) lydo: Nhặt từ map at 03/11/2023 2:41 PM
+BAG:hapanda add 76xHoa hồng vàng (old: 75) lydo: Nhặt từ map at 03/11/2023 2:41 PM
+BAG:hapanda add 77xHoa hồng vàng (old: 76) lydo: Nhặt từ map at 03/11/2023 2:41 PM
+BAG:hapanda add 4xĐá thạch anh tím (old: 3) lydo: Nhặt từ map at 03/11/2023 2:41 PM
+BAG:hapanda add 35xNgọc Rồng 4 sao (old: 34) lydo: Nhặt từ map at 03/11/2023 2:41 PM
+BAG:hapanda add 77xHoa hồng đỏ (old: 76) lydo: Nhặt từ map at 03/11/2023 2:41 PM
+BAG:hapanda add 13xHoa hồng xanh (old: 12) lydo: Nhặt từ map at 03/11/2023 2:41 PM
+BAG:hapanda add 78xHoa hồng vàng (old: 77) lydo: Nhặt từ map at 03/11/2023 2:41 PM
+BAG:hapanda add 14xHoa hồng xanh (old: 13) lydo: Nhặt từ map at 03/11/2023 2:41 PM
+BAG:hapanda add 4xĐá lục bảo (old: 3) lydo: Nhặt từ map at 03/11/2023 2:42 PM
+BAG:hapanda add 78xHoa hồng đỏ (old: 77) lydo: Nhặt từ map at 03/11/2023 2:42 PM
+BAG:hapanda add 7xNgọc Rồng 5 sao (old: 6) lydo: Nhặt từ map at 03/11/2023 2:42 PM
+BAG:hapanda add 79xHoa hồng vàng (old: 78) lydo: Nhặt từ map at 03/11/2023 2:42 PM
+BAG:hapanda add 15xĐá Titan (old: 14) lydo: Nhặt từ map at 03/11/2023 2:42 PM
+BAG:hapanda add 80xHoa hồng vàng (old: 79) lydo: Nhặt từ map at 03/11/2023 2:42 PM
+BAG:hapanda add 81xHoa hồng vàng (old: 80) lydo: Nhặt từ map at 03/11/2023 2:42 PM
+BAG:hapanda add 79xHoa hồng đỏ (old: 78) lydo: Nhặt từ map at 03/11/2023 2:42 PM
+BAG:hapanda add 80xHoa hồng đỏ (old: 79) lydo: Nhặt từ map at 03/11/2023 2:42 PM
+BAG:hapanda add 36xNgọc Rồng 4 sao (old: 35) lydo: Nhặt từ map at 03/11/2023 2:43 PM
+BAG:hapanda add 3xĐá Saphia (old: 2) lydo: Nhặt từ map at 03/11/2023 2:43 PM
+BAG:hapanda add 15xHoa hồng xanh (old: 14) lydo: Nhặt từ map at 03/11/2023 2:43 PM
+BAG:hapanda add 16xHoa hồng xanh (old: 15) lydo: Nhặt từ map at 03/11/2023 2:43 PM
+BAG:hapanda add 17xHoa hồng xanh (old: 16) lydo: Nhặt từ map at 03/11/2023 2:43 PM
+BAG:hapanda add 82xHoa hồng vàng (old: 81) lydo: Nhặt từ map at 03/11/2023 2:43 PM
+BAG:hapanda add 81xHoa hồng đỏ (old: 80) lydo: Nhặt từ map at 03/11/2023 2:43 PM
+BAG:hapanda add 5xĐá thạch anh tím (old: 4) lydo: Nhặt từ map at 03/11/2023 2:43 PM
+BAG:hapanda add 16xĐá Titan (old: 15) lydo: Nhặt từ map at 03/11/2023 2:44 PM
+BAG:hapanda add 5xĐá lục bảo (old: 4) lydo: Nhặt từ map at 03/11/2023 2:44 PM
+BAG:hapanda add 82xHoa hồng đỏ (old: 81) lydo: Nhặt từ map at 03/11/2023 2:44 PM
+BAG:hapanda add 83xHoa hồng vàng (old: 82) lydo: Nhặt từ map at 03/11/2023 2:44 PM
+BAG:hapanda add 8xNgọc Rồng 5 sao (old: 7) lydo: Nhặt từ map at 03/11/2023 2:44 PM
+BAG:hapanda add 18xHoa hồng xanh (old: 17) lydo: Nhặt từ map at 03/11/2023 2:44 PM
+BAG:hapanda add 83xHoa hồng đỏ (old: 82) lydo: Nhặt từ map at 03/11/2023 2:44 PM
+BAG:hapanda add 19xHoa hồng xanh (old: 18) lydo: Nhặt từ map at 03/11/2023 2:45 PM
+BAG:hapanda add 84xHoa hồng đỏ (old: 83) lydo: Nhặt từ map at 03/11/2023 2:45 PM
+BAG:hapanda add 85xHoa hồng đỏ (old: 84) lydo: Nhặt từ map at 03/11/2023 2:45 PM
+BAG:hapanda add 84xHoa hồng vàng (old: 83) lydo: Nhặt từ map at 03/11/2023 2:45 PM
+BAG:hapanda add 85xHoa hồng vàng (old: 84) lydo: Nhặt từ map at 03/11/2023 2:45 PM
+BAG:hapanda add 6xĐá thạch anh tím (old: 5) lydo: Nhặt từ map at 03/11/2023 2:45 PM
+BAG:hapanda add 20xHoa hồng xanh (old: 19) lydo: Nhặt từ map at 03/11/2023 2:45 PM
+BAG:hapanda add 21xHoa hồng xanh (old: 20) lydo: Nhặt từ map at 03/11/2023 2:46 PM
+BAG:hapanda add 86xHoa hồng đỏ (old: 85) lydo: Nhặt từ map at 03/11/2023 2:46 PM
+BAG:hapanda add 22xHoa hồng xanh (old: 21) lydo: Nhặt từ map at 03/11/2023 2:46 PM
+BAG:hapanda add 87xHoa hồng đỏ (old: 86) lydo: Nhặt từ map at 03/11/2023 2:46 PM
+BAG:hapanda add 4xĐá Saphia (old: 3) lydo: Nhặt từ map at 03/11/2023 2:46 PM
+BAG:hapanda add 88xHoa hồng đỏ (old: 87) lydo: Nhặt từ map at 03/11/2023 2:46 PM
+BAG:hapanda add 6xĐá lục bảo (old: 5) lydo: Nhặt từ map at 03/11/2023 2:47 PM
+BAG:hapanda add 23xHoa hồng xanh (old: 22) lydo: Nhặt từ map at 03/11/2023 2:47 PM
+BAG:hapanda add 24xHoa hồng xanh (old: 23) lydo: Nhặt từ map at 03/11/2023 2:47 PM
+BAG:hapanda add 25xHoa hồng xanh (old: 24) lydo: Nhặt từ map at 03/11/2023 2:47 PM
+BAG:hapanda add 5xĐá Saphia (old: 4) lydo: Nhặt từ map at 03/11/2023 2:47 PM
+BAG:hapanda add 20xNgọc Rồng 6 sao (old: 19) lydo: Nhặt từ map at 03/11/2023 2:47 PM
+BAG:hapanda add 89xHoa hồng đỏ (old: 88) lydo: Nhặt từ map at 03/11/2023 2:47 PM
+BAG:hapanda add 26xHoa hồng xanh (old: 25) lydo: Nhặt từ map at 03/11/2023 2:48 PM
+BAG:hapanda add 7xĐá thạch anh tím (old: 6) lydo: Nhặt từ map at 03/11/2023 2:48 PM
+BAG:hapanda add 17xĐá Titan (old: 16) lydo: Nhặt từ map at 03/11/2023 2:48 PM
+BAG:hapanda add 86xHoa hồng vàng (old: 85) lydo: Nhặt từ map at 03/11/2023 2:48 PM
+BAG:hapanda add 87xHoa hồng vàng (old: 86) lydo: Nhặt từ map at 03/11/2023 2:48 PM
+BAG:hapanda add 88xHoa hồng vàng (old: 87) lydo: Nhặt từ map at 03/11/2023 2:48 PM
+BAG:hapanda add 27xHoa hồng xanh (old: 26) lydo: Nhặt từ map at 03/11/2023 2:48 PM
+BAG:hapanda add 7xĐá lục bảo (old: 6) lydo: Nhặt từ map at 03/11/2023 2:48 PM
+BAG:hapanda add 89xHoa hồng vàng (old: 88) lydo: Nhặt từ map at 03/11/2023 2:48 PM
+BAG:hapanda add 90xHoa hồng vàng (old: 89) lydo: Nhặt từ map at 03/11/2023 2:48 PM
+BAG:hapanda add 8xĐá thạch anh tím (old: 7) lydo: Nhặt từ map at 03/11/2023 2:49 PM
+BAG:hapanda add 18xĐá Titan (old: 17) lydo: Nhặt từ map at 03/11/2023 2:49 PM
+BAG:hapanda add 19xĐá Titan (old: 18) lydo: Nhặt từ map at 03/11/2023 2:49 PM
+BAG:hapanda add 37xNgọc Rồng 4 sao (old: 36) lydo: Nhặt từ map at 03/11/2023 2:49 PM
+BAG:hapanda add 28xHoa hồng xanh (old: 27) lydo: Nhặt từ map at 03/11/2023 2:49 PM
+BAG:hapanda add 29xHoa hồng xanh (old: 28) lydo: Nhặt từ map at 03/11/2023 2:49 PM
+BAG:hapanda add 91xHoa hồng vàng (old: 90) lydo: Nhặt từ map at 03/11/2023 2:49 PM
+BAG:hapanda add 30xHoa hồng xanh (old: 29) lydo: Nhặt từ map at 03/11/2023 2:49 PM
+BAG:hapanda add 90xHoa hồng đỏ (old: 89) lydo: Nhặt từ map at 03/11/2023 2:49 PM
+BAG:hapanda add 31xHoa hồng xanh (old: 30) lydo: Nhặt từ map at 03/11/2023 2:49 PM
+BAG:hapanda add 92xHoa hồng vàng (old: 91) lydo: Nhặt từ map at 03/11/2023 2:49 PM
+BAG:hapanda add 32xHoa hồng xanh (old: 31) lydo: Nhặt từ map at 03/11/2023 2:49 PM
+BAG:hapanda add 33xHoa hồng xanh (old: 32) lydo: Nhặt từ map at 03/11/2023 2:49 PM
+BAG:hapanda add 93xHoa hồng vàng (old: 92) lydo: Nhặt từ map at 03/11/2023 2:49 PM
+BAG:hapanda add 9xĐá thạch anh tím (old: 8) lydo: Nhặt từ map at 03/11/2023 2:50 PM
+BAG:hapanda add 34xHoa hồng xanh (old: 33) lydo: Nhặt từ map at 03/11/2023 2:50 PM
+BAG:hapanda add 35xHoa hồng xanh (old: 34) lydo: Nhặt từ map at 03/11/2023 2:50 PM
+BAG:hapanda add 91xHoa hồng đỏ (old: 90) lydo: Nhặt từ map at 03/11/2023 2:50 PM
+BAG:hapanda add 36xHoa hồng xanh (old: 35) lydo: Nhặt từ map at 03/11/2023 2:50 PM
+BAG:hapanda add 94xHoa hồng vàng (old: 93) lydo: Nhặt từ map at 03/11/2023 2:50 PM
+BAG:hapanda add 37xHoa hồng xanh (old: 36) lydo: Nhặt từ map at 03/11/2023 2:50 PM
+BAG:hapanda add 95xHoa hồng vàng (old: 94) lydo: Nhặt từ map at 03/11/2023 2:51 PM
+BAG:hapanda add 10xĐá thạch anh tím (old: 9) lydo: Nhặt từ map at 03/11/2023 2:51 PM
+BAG:hapanda add 38xHoa hồng xanh (old: 37) lydo: Nhặt từ map at 03/11/2023 2:51 PM
+BAG:hapanda add 20xĐá Titan (old: 19) lydo: Nhặt từ map at 03/11/2023 2:51 PM
+BAG:hapanda add 21xĐá Titan (old: 20) lydo: Nhặt từ map at 03/11/2023 2:51 PM
+BAG:hapanda add 9xNgọc Rồng 5 sao (old: 8) lydo: Nhặt từ map at 03/11/2023 2:51 PM
+BAG:hapanda add 39xHoa hồng xanh (old: 38) lydo: Nhặt từ map at 03/11/2023 2:51 PM
+BAG:hapanda add 40xHoa hồng xanh (old: 39) lydo: Nhặt từ map at 03/11/2023 2:52 PM
+BAG:hapanda add 6xĐá Saphia (old: 5) lydo: Nhặt từ map at 03/11/2023 2:52 PM
+BAG:hapanda add 41xHoa hồng xanh (old: 40) lydo: Nhặt từ map at 03/11/2023 2:52 PM
+BAG:hapanda add 92xHoa hồng đỏ (old: 91) lydo: Nhặt từ map at 03/11/2023 2:52 PM
+BAG:hapanda add 96xHoa hồng vàng (old: 95) lydo: Nhặt từ map at 03/11/2023 2:52 PM
+BAG:hapanda add 42xHoa hồng xanh (old: 41) lydo: Nhặt từ map at 03/11/2023 2:52 PM
+BAG:hapanda add 10xNgọc Rồng 5 sao (old: 9) lydo: Nhặt từ map at 03/11/2023 2:52 PM
+BAG:hapanda add 43xHoa hồng xanh (old: 42) lydo: Nhặt từ map at 03/11/2023 2:53 PM
+BAG:hapanda add 44xHoa hồng xanh (old: 43) lydo: Nhặt từ map at 03/11/2023 2:53 PM
+BAG:hapanda add 45xHoa hồng xanh (old: 44) lydo: Nhặt từ map at 03/11/2023 2:53 PM
+BAG:hapanda add 93xHoa hồng đỏ (old: 92) lydo: Nhặt từ map at 03/11/2023 2:53 PM
+BAG:hapanda add 94xHoa hồng đỏ (old: 93) lydo: Nhặt từ map at 03/11/2023 2:53 PM
+BAG:hapanda add 95xHoa hồng đỏ (old: 94) lydo: Nhặt từ map at 03/11/2023 2:53 PM
+BAG:hapanda add 46xHoa hồng xanh (old: 45) lydo: Nhặt từ map at 03/11/2023 2:54 PM
+BAG:hapanda add 8xĐá lục bảo (old: 7) lydo: Nhặt từ map at 03/11/2023 2:54 PM
+BAG:hapanda add 97xHoa hồng vàng (old: 96) lydo: Nhặt từ map at 03/11/2023 2:54 PM
+BAG:hapanda add 11xĐá thạch anh tím (old: 10) lydo: Nhặt từ map at 03/11/2023 2:54 PM
+BAG:hapanda add 98xHoa hồng vàng (old: 97) lydo: Nhặt từ map at 03/11/2023 2:54 PM
+BAG:hapanda add 12xĐá thạch anh tím (old: 11) lydo: Nhặt từ map at 03/11/2023 2:54 PM
+BAG:hapanda add 7xĐá Saphia (old: 6) lydo: Nhặt từ map at 03/11/2023 2:54 PM
+BAG:hapanda add 96xHoa hồng đỏ (old: 95) lydo: Nhặt từ map at 03/11/2023 2:54 PM
+BAG:hapanda add 47xHoa hồng xanh (old: 46) lydo: Nhặt từ map at 03/11/2023 2:54 PM
+BAG:hapanda add 38xNgọc Rồng 4 sao (old: 37) lydo: Nhặt từ map at 03/11/2023 2:54 PM
+BAG:hapanda add 97xHoa hồng đỏ (old: 96) lydo: Nhặt từ map at 03/11/2023 2:54 PM
+BAG:hapanda add 8xĐá Saphia (old: 7) lydo: Nhặt từ map at 03/11/2023 2:54 PM
+BAG:hapanda add 98xHoa hồng đỏ (old: 97) lydo: Nhặt từ map at 03/11/2023 2:55 PM
+BAG:hapanda add 99xHoa hồng vàng (old: 98) lydo: Nhặt từ map at 03/11/2023 2:55 PM
+BAG:hapanda add 99xHoa hồng đỏ (old: 98) lydo: Nhặt từ map at 03/11/2023 2:55 PM
+BAG:hapanda add 48xHoa hồng xanh (old: 47) lydo: Nhặt từ map at 03/11/2023 2:55 PM
+BAG:hapanda add 13xĐá thạch anh tím (old: 12) lydo: Nhặt từ map at 03/11/2023 2:55 PM
+BAG:hapanda add 100xHoa hồng vàng (old: 99) lydo: Nhặt từ map at 03/11/2023 2:55 PM
+BAG:hapanda add 100xHoa hồng đỏ (old: 99) lydo: Nhặt từ map at 03/11/2023 2:55 PM
+BAG:hapanda add 101xHoa hồng đỏ (old: 100) lydo: Nhặt từ map at 03/11/2023 2:56 PM
+BAG:hapanda add 102xHoa hồng đỏ (old: 101) lydo: Nhặt từ map at 03/11/2023 2:56 PM
+BAG:hapanda add 22xĐá Titan (old: 21) lydo: Nhặt từ map at 03/11/2023 2:56 PM
+BAG:hapanda add 3xĐá Ruby (old: 2) lydo: Nhặt từ map at 03/11/2023 2:56 PM
+BAG:hapanda add 101xHoa hồng vàng (old: 100) lydo: Nhặt từ map at 03/11/2023 2:57 PM
+BAG:hapanda add 102xHoa hồng vàng (old: 101) lydo: Nhặt từ map at 03/11/2023 2:57 PM
+BAG:hapanda add 49xHoa hồng xanh (old: 48) lydo: Nhặt từ map at 03/11/2023 2:58 PM

@@ -1,0 +1,22 @@
+BAG:x2lh100 add 1xTanjiro lydo: Lấy từ body đệ vào hành trang at 03/13/2023 12:00 AM
+BAG:x2lh100 add 1676xHoa hồng xanh (old: 1675) lydo: Nhặt từ map at 03/13/2023 12:00 AM
+BAG:x2lh100 add 2207xHoa hồng vàng (old: 2206) lydo: Nhặt từ map at 03/13/2023 12:01 AM
+BAG:x2lh100 add 1736xHoa hồng đỏ (old: 1735) lydo: Nhặt từ map at 03/13/2023 12:01 AM
+BAG:x2lh100 add 2208xHoa hồng vàng (old: 2207) lydo: Nhặt từ map at 03/13/2023 12:01 AM
+BAG:x2lh100 add 1677xHoa hồng xanh (old: 1676) lydo: Nhặt từ map at 03/13/2023 12:01 AM
+BAG:x2lh100 add 1678xHoa hồng xanh (old: 1677) lydo: Nhặt từ map at 03/13/2023 12:01 AM
+BAG:x2lh100 add 1737xHoa hồng đỏ (old: 1736) lydo: Nhặt từ map at 03/13/2023 12:01 AM
+BAG:x2lh100 add 1679xHoa hồng xanh (old: 1678) lydo: Nhặt từ map at 03/13/2023 12:01 AM
+BAG:x2lh100 add 1738xHoa hồng đỏ (old: 1737) lydo: Nhặt từ map at 03/13/2023 12:02 AM
+BAG:x2lh100 add 2209xHoa hồng vàng (old: 2208) lydo: Nhặt từ map at 03/13/2023 12:02 AM
+BAG:x2lh100 add 2210xHoa hồng vàng (old: 2209) lydo: Nhặt từ map at 03/13/2023 12:02 AM
+BAG:x2lh100 add 1739xHoa hồng đỏ (old: 1738) lydo: Nhặt từ map at 03/13/2023 12:02 AM
+BAG:x2lh100 add 1680xHoa hồng xanh (old: 1679) lydo: Nhặt từ map at 03/13/2023 12:03 AM
+BAG:x2lh100 add 40xNgọc Rồng 5 sao (old: 39) lydo: Nhặt từ map at 03/13/2023 12:03 AM
+BAG:x2lh100 add 1681xHoa hồng xanh (old: 1680) lydo: Nhặt từ map at 03/13/2023 12:03 AM
+BAG:x2lh100 add 1740xHoa hồng đỏ (old: 1739) lydo: Nhặt từ map at 03/13/2023 12:04 AM
+BAG:x2lh100 add 1xNgọc Rồng 4 sao lydo: Nhặt từ map at 03/13/2023 12:04 AM
+BAG:x2lh100 add 2211xHoa hồng vàng (old: 2210) lydo: Nhặt từ map at 03/13/2023 12:04 AM
+BAG:x2lh100 add 1xĐá thạch anh tím lydo: Nhặt từ map at 03/13/2023 12:04 AM
+BAG:x2lh100 add 1682xHoa hồng xanh (old: 1681) lydo: Nhặt từ map at 03/13/2023 12:04 AM
+BAG:x2lh100 add 1683xHoa hồng xanh (old: 1682) lydo: Nhặt từ map at 03/13/2023 12:04 AM

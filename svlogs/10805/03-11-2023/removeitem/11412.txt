@@ -1,0 +1,524 @@
+BAG:cubin37 remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 03/11/2023 8:09 AM
+BAG:cubin37 remove Rada cấp 1 lydo: Mặc vào người at 03/11/2023 8:09 AM
+BAG:cubin37 remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 03/11/2023 8:10 AM
+BAG:cubin37 remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 03/11/2023 8:10 AM
+BAG:cubin37 remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 03/11/2023 8:11 AM
+BAG:cubin37 remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 03/11/2023 8:13 AM
+BAG:cubin37 remove 100xThỏi vàng lydo: Mua đồ hủy diệt at 03/11/2023 8:15 AM
+BAG:cubin37 remove Cải Trang Thần Zeno Xayda lydo: Mặc vào người at 03/11/2023 8:15 AM
+BAG:cubin37 remove Giầy vải thô lydo: Mặc vào người at 03/11/2023 8:21 AM
+BAG:cubin37 remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 03/11/2023 8:22 AM
+BAG:cubin37 remove Giầy vải thô lydo: Mặc vào người at 03/11/2023 8:23 AM
+BAG:cubin37 remove Đá Ruby lydo: Tự Xóa vật phẩm at 03/11/2023 8:23 AM
+BAG:cubin37 remove Áo vải thô lydo: Tự Xóa vật phẩm at 03/11/2023 8:23 AM
+BAG:cubin37 remove Giầy vải thô lydo: Tự Xóa vật phẩm at 03/11/2023 8:24 AM
+BAG:cubin37 remove Đá Saphia lydo: Tự Xóa vật phẩm at 03/11/2023 8:24 AM
+BAG:cubin37 remove Đá Titan lydo: Tự Xóa vật phẩm at 03/11/2023 8:24 AM
+BAG:cubin37 remove Đậu thần cấp 1 lydo: Tự Xóa vật phẩm at 03/11/2023 8:24 AM
+BAG:cubin37 remove Áo vải thô lydo: Tự Xóa vật phẩm at 03/11/2023 8:26 AM
+BAG:cubin37 remove Quần vải thô lydo: Tự Xóa vật phẩm at 03/11/2023 8:26 AM
+BAG:cubin37 remove Áo vải thô lydo: Tự Xóa vật phẩm at 03/11/2023 8:26 AM
+BAG:cubin37 remove Áo vải thô lydo: Tự Xóa vật phẩm at 03/11/2023 8:27 AM
+BAG:cubin37 remove Rada cấp 1 lydo: Tự Xóa vật phẩm at 03/11/2023 8:27 AM
+BAG:cubin37 remove Giầy vải thô lydo: Tự Xóa vật phẩm at 03/11/2023 8:27 AM
+BAG:cubin37 remove 1xĐậu thần cấp 2 lydo: Ăn đậu at 03/11/2023 8:28 AM
+BAG:cubin37 remove Giầy vải thô lydo: Tự Xóa vật phẩm at 03/11/2023 8:28 AM
+BAG:cubin37 remove Quần vải thô lydo: Tự Xóa vật phẩm at 03/11/2023 8:28 AM
+BAG:cubin37 remove Quần vải thô lydo: Tự Xóa vật phẩm at 03/11/2023 8:28 AM
+BAG:cubin37 remove Rada cấp 1 lydo: Tự Xóa vật phẩm at 03/11/2023 8:28 AM
+BAG:cubin37 remove Quần vải thô lydo: Tự Xóa vật phẩm at 03/11/2023 8:29 AM
+BAG:cubin37 remove 1xĐậu thần cấp 2 lydo: Ăn đậu at 03/11/2023 8:29 AM
+BAG:cubin37 remove Áo vải thô lydo: Cất vào rương at 03/11/2023 8:30 AM
+BAG:cubin37 remove Găng vải thô lydo: Cất vào rương at 03/11/2023 8:30 AM
+BAG:cubin37 remove Giầy vải thô lydo: Cất vào rương at 03/11/2023 8:30 AM
+BAG:cubin37 remove Găng vải thô lydo: Cất vào rương at 03/11/2023 8:30 AM
+BAG:cubin37 remove Rada cấp 1 lydo: Cất vào rương at 03/11/2023 8:30 AM
+BAG:cubin37 remove Áo vải thô lydo: Cất vào rương at 03/11/2023 8:30 AM
+BAG:cubin37 remove Quần vải thô lydo: Cất vào rương at 03/11/2023 8:30 AM
+BAG:cubin37 remove Găng vải thô lydo: Cất vào rương at 03/11/2023 8:30 AM
+BAG:cubin37 remove 1xĐậu thần cấp 2 lydo: Ăn đậu at 03/11/2023 8:31 AM
+BAG:cubin37 remove 1xĐậu thần cấp 2 lydo: Ăn đậu at 03/11/2023 8:33 AM
+BAG:cubin37 remove 1xĐậu thần cấp 2 lydo: Ăn đậu at 03/11/2023 8:34 AM
+BAG:cubin37 remove 1xĐậu thần cấp 2 lydo: Ăn đậu at 03/11/2023 8:35 AM
+BAG:cubin37 remove 1xĐậu thần cấp 2 lydo: Ăn đậu at 03/11/2023 8:35 AM
+BAG:cubin37 remove 1xĐậu thần cấp 2 lydo: Ăn đậu at 03/11/2023 8:36 AM
+BAG:cubin37 remove 1xĐậu thần cấp 2 lydo: Ăn đậu at 03/11/2023 8:36 AM
+BAG:cubin37 remove 1xĐậu thần cấp 2 lydo: Ăn đậu at 03/11/2023 8:37 AM
+BAG:cubin37 remove 1xĐậu thần cấp 2 lydo: Ăn đậu at 03/11/2023 8:51 AM
+BAG:cubin37 remove 1xĐậu thần cấp 2 lydo: Ăn đậu at 03/11/2023 8:51 AM
+BAG:cubin37 remove 1xĐậu thần cấp 2 lydo: Ăn đậu at 03/11/2023 8:51 AM
+BAG:cubin37 remove Quần vải thô lydo: Tự Xóa vật phẩm at 03/11/2023 8:55 AM
+BAG:cubin37 remove Quần vải thô lydo: Tự Xóa vật phẩm at 03/11/2023 8:55 AM
+BAG:cubin37 remove Giầy vải thô lydo: Tự Xóa vật phẩm at 03/11/2023 8:55 AM
+BAG:cubin37 remove Quần vải thô lydo: Cất vào rương at 03/11/2023 8:57 AM
+BAG:cubin37 remove Giầy vải thô lydo: Cất vào rương at 03/11/2023 8:57 AM
+BAG:cubin37 remove Quần vải thô lydo: Cất vào rương at 03/11/2023 8:57 AM
+BAG:cubin37 remove Rada cấp 1 lydo: Cất vào rương at 03/11/2023 8:57 AM
+BAG:cubin37 remove Găng vải thô lydo: Cất vào rương at 03/11/2023 8:57 AM
+BAG:cubin37 remove Găng vải thô lydo: Cất vào rương at 03/11/2023 8:57 AM
+BAG:cubin37 remove Quần vải thô lydo: Cất vào rương at 03/11/2023 8:57 AM
+BAG:cubin37 remove 10xHoa hồng đỏ lydo: Đổi hoa at 03/11/2023 8:57 AM
+BAG:cubin37 remove Sách đấm Galick lv2 lydo: Sách kĩ năng at 03/11/2023 8:58 AM
+BAG:cubin37 remove Đậu thần cấp 2 lydo: Cất vào rương at 03/11/2023 9:00 AM
+BAG:cubin37 remove Đậu thần cấp 8 lydo: Cất vào rương at 03/11/2023 9:00 AM
+BAG:cubin37 remove Găng vải thô lydo: Mặc vào người at 03/11/2023 9:06 AM
+BAG:cubin37 remove Giầy vải thô lydo: Mặc vào người at 03/11/2023 9:06 AM
+BAG:cubin37 remove Quần vải thô lydo: Mặc vào người at 03/11/2023 9:06 AM
+BAG:cubin37 remove Rada cấp 1 lydo: Mặc vào người at 03/11/2023 9:06 AM
+BAG:cubin37 remove Áo vải thô lydo: Mặc vào người at 03/11/2023 9:06 AM
+BAG:cubin37 remove 1xThỏi vàng lydo: Bán cho shop at 03/11/2023 9:07 AM
+BAG:cubin37 remove 1xĐá lục bảo lydo: Bán cho shop at 03/11/2023 9:07 AM
+BAG:cubin37 remove 30xĐậu thần cấp 2 lydo: Bán cho shop at 03/11/2023 9:08 AM
+BAG:cubin37 remove 1xSao pha lê lydo: Ép ngọc rồng at 03/11/2023 9:09 AM
+BAG:cubin37 remove 1xSao pha lê lydo: Ép ngọc rồng at 03/11/2023 9:09 AM
+BAG:cubin37 remove 1xSao pha lê lydo: Ép ngọc rồng at 03/11/2023 9:09 AM
+BAG:cubin37 remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 03/11/2023 9:09 AM
+BAG:cubin37 remove Áo vải thô lydo: Mặc vào người at 03/11/2023 9:09 AM
+BAG:cubin37 remove 1xSao pha lê lydo: Ép ngọc rồng at 03/11/2023 9:10 AM
+BAG:cubin37 remove 1xSao pha lê lydo: Ép ngọc rồng at 03/11/2023 9:10 AM
+BAG:cubin37 remove 1xSao pha lê lydo: Ép ngọc rồng at 03/11/2023 9:10 AM
+BAG:cubin37 remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 03/11/2023 9:10 AM
+BAG:cubin37 remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 03/11/2023 9:11 AM
+BAG:cubin37 remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 03/11/2023 9:11 AM
+BAG:cubin37 remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 03/11/2023 9:11 AM
+BAG:cubin37 remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 03/11/2023 9:11 AM
+BAG:cubin37 remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 03/11/2023 9:11 AM
+BAG:cubin37 remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 03/11/2023 9:11 AM
+BAG:cubin37 remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 03/11/2023 9:11 AM
+BAG:cubin37 remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 03/11/2023 9:11 AM
+BAG:cubin37 remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 03/11/2023 9:11 AM
+BAG:cubin37 remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 03/11/2023 9:12 AM
+BAG:cubin37 remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 03/11/2023 9:12 AM
+BAG:cubin37 remove Quần vải thô lydo: Mặc vào người at 03/11/2023 9:12 AM
+BAG:cubin37 remove Găng vải thô lydo: Mặc vào người at 03/11/2023 9:12 AM
+BAG:cubin37 remove Giầy vải thô lydo: Mặc vào người at 03/11/2023 9:12 AM
+BAG:cubin37 remove Rada cấp 1 lydo: Mặc vào người at 03/11/2023 9:12 AM
+BAG:cubin37 remove Cải Trang Thần Zeno Xayda lydo: Mặc cho đệ tử at 03/11/2023 9:12 AM
+BAG:cubin37 remove 1xThỏi vàng lydo: Bán cho shop at 03/11/2023 9:15 AM
+BAG:cubin37 remove 1xThỏi vàng lydo: Bán cho shop at 03/11/2023 9:15 AM
+BAG:cubin37 remove 1xThỏi vàng lydo: Bán cho shop at 03/11/2023 9:15 AM
+BAG:cubin37 remove 1xThỏi vàng lydo: Bán cho shop at 03/11/2023 9:16 AM
+BAG:cubin37 remove Găng bạc lydo: Cất vào rương at 03/11/2023 9:17 AM
+BAG:cubin37 remove Rada cấp 1 lydo: Cất vào rương at 03/11/2023 9:18 AM
+BAG:cubin37 remove 1xGăng bạc lydo: Bán cho shop at 03/11/2023 9:19 AM
+BAG:cubin37 remove 1xGăng bạc lydo: Bán cho shop at 03/11/2023 9:19 AM
+BAG:cubin37 remove 1xGăng bạc lydo: Bán cho shop at 03/11/2023 9:19 AM
+BAG:cubin37 remove Giày lông Xayda lydo: Tự Xóa vật phẩm at 03/11/2023 9:20 AM
+BAG:cubin37 remove Giày lông Xayda lydo: Tự Xóa vật phẩm at 03/11/2023 9:20 AM
+BAG:cubin37 remove Giày lông Xayda lydo: Tự Xóa vật phẩm at 03/11/2023 9:20 AM
+BAG:cubin37 remove Giày lông Xayda lydo: Tự Xóa vật phẩm at 03/11/2023 9:21 AM
+BAG:cubin37 remove Giày lông Xayda lydo: Tự Xóa vật phẩm at 03/11/2023 9:21 AM
+BAG:cubin37 remove Giày lông Xayda lydo: Tự Xóa vật phẩm at 03/11/2023 9:21 AM
+BAG:cubin37 remove 1xGiày lông Xayda lydo: Bán cho shop at 03/11/2023 9:21 AM
+BAG:cubin37 remove 1xThỏi vàng lydo: Bán cho shop at 03/11/2023 9:25 AM
+BAG:cubin37 remove 1xVệ tinh trí tuệ lydo: Dùng vệ tinh at 03/11/2023 9:25 AM
+BAG:cubin37 remove 1xĐậu thần cấp 8 lydo: Ăn đậu at 03/11/2023 9:26 AM
+BAG:cubin37 remove 7xNgọc Rồng 3 sao lydo: Nhập ngọc at 03/11/2023 9:29 AM
+BAG:cubin37 remove 7xNgọc Rồng 3 sao lydo: Nhập ngọc at 03/11/2023 9:29 AM
+BAG:cubin37 remove 7xNgọc Rồng 3 sao lydo: Nhập ngọc at 03/11/2023 9:29 AM
+BAG:cubin37 remove 7xNgọc Rồng 3 sao lydo: Nhập ngọc at 03/11/2023 9:29 AM
+BAG:cubin37 remove 7xNgọc Rồng 3 sao lydo: Nhập ngọc at 03/11/2023 9:29 AM
+BAG:cubin37 remove 7xNgọc Rồng 3 sao lydo: Nhập ngọc at 03/11/2023 9:30 AM
+BAG:cubin37 remove 7xNgọc Rồng 3 sao lydo: Nhập ngọc at 03/11/2023 9:30 AM
+BAG:cubin37 remove 7xNgọc Rồng 3 sao lydo: Nhập ngọc at 03/11/2023 9:30 AM
+BAG:cubin37 remove Ngọc Rồng 5 sao lydo: Tự Xóa vật phẩm at 03/11/2023 9:30 AM
+BAG:cubin37 remove 7xNgọc Rồng 2 sao lydo: Nhập ngọc at 03/11/2023 9:30 AM
+BAG:cubin37 remove 3xĐá Titan lydo: Bán cho shop at 03/11/2023 9:31 AM
+BAG:cubin37 remove 5xĐá Ruby lydo: Bán cho shop at 03/11/2023 9:31 AM
+BAG:cubin37 remove 1xĐá Saphia lydo: Bán cho shop at 03/11/2023 9:31 AM
+BAG:cubin37 remove 1xĐá lục bảo lydo: Bán cho shop at 03/11/2023 9:31 AM
+BAG:cubin37 remove Giầy vải thô lydo: Cất vào rương at 03/11/2023 9:39 AM
+BAG:cubin37 remove Ngọc Rồng 1 sao lydo: Cất vào rương at 03/11/2023 9:39 AM
+BAG:cubin37 remove Ngọc Rồng 2 sao lydo: Cất vào rương at 03/11/2023 9:39 AM
+BAG:cubin37 remove Ngọc Rồng 3 sao lydo: Cất vào rương at 03/11/2023 9:39 AM
+BAG:cubin37 remove Sách đấm Galick lv3 lydo: Sách kĩ năng at 03/11/2023 9:40 AM
+BAG:cubin37 remove Sách đấm Galick lv4 lydo: Sách kĩ năng at 03/11/2023 9:40 AM
+BAG:cubin37 remove Sách đấm Galick lv5 lydo: Sách kĩ năng at 03/11/2023 9:40 AM
+BAG:cubin37 remove Sách đấm Galick lv6 lydo: Sách kĩ năng at 03/11/2023 9:40 AM
+BAG:cubin37 remove 1xĐậu thần cấp 8 lydo: Ăn đậu at 03/11/2023 9:41 AM
+BAG:cubin37 remove Sách đấm Galick lv7 lydo: Sách kĩ năng at 03/11/2023 9:44 AM
+BAG:cubin37 remove Đá lục bảo lydo: Tự Xóa vật phẩm at 03/11/2023 9:52 AM
+BAG:cubin37 remove Đá Titan lydo: Tự Xóa vật phẩm at 03/11/2023 9:52 AM
+BAG:cubin37 remove Áo vải thô lydo: Mặc vào người at 03/11/2023 9:52 AM
+BAG:cubin37 remove 1xNâng cấp kỹ năng 1 đệ tử lydo: Dùng sách kĩ năng đệ tử at 03/11/2023 9:53 AM
+BAG:cubin37 remove 1xVệ tinh trí tuệ lydo: Dùng vệ tinh at 03/11/2023 9:54 AM
+BAG:cubin37 remove 1xNâng cấp kỹ năng 1 đệ tử lydo: Dùng sách kĩ năng đệ tử at 03/11/2023 9:54 AM
+BAG:cubin37 remove 1xNâng cấp kỹ năng 1 đệ tử lydo: Dùng sách kĩ năng đệ tử at 03/11/2023 9:54 AM
+BAG:cubin37 remove 1xĐậu thần cấp 8 lydo: Ăn đậu at 03/11/2023 9:54 AM
+BAG:cubin37 remove 1xNâng cấp kỹ năng 1 đệ tử lydo: Dùng sách kĩ năng đệ tử at 03/11/2023 10:42 AM
+BAG:cubin37 remove 1xNâng cấp kỹ năng 1 đệ tử lydo: Dùng sách kĩ năng đệ tử at 03/11/2023 1:11 PM
+BAG:cubin37 remove Áo vải thô lydo: Mặc cho đệ tử at 03/11/2023 1:11 PM
+BAG:cubin37 remove Quần vải thô lydo: Mặc cho đệ tử at 03/11/2023 1:11 PM
+BAG:cubin37 remove Găng vải thô lydo: Mặc cho đệ tử at 03/11/2023 1:11 PM
+BAG:cubin37 remove Giầy vải thô lydo: Mặc cho đệ tử at 03/11/2023 1:11 PM
+BAG:cubin37 remove Rada cấp 1 lydo: Mặc cho đệ tử at 03/11/2023 1:11 PM
+BAG:cubin37 remove 1xĐậu thần cấp 8 lydo: Ăn đậu at 03/11/2023 1:11 PM
+BAG:cubin37 remove Cải trang Hatchiyack lydo: Mặc vào người at 03/11/2023 1:15 PM
+BAG:cubin37 remove 1xĐậu thần cấp 8 lydo: Ăn đậu at 03/11/2023 1:16 PM
+BAG:cubin37 remove 1xNâng cấp kỹ năng 1 đệ tử lydo: Dùng sách kĩ năng đệ tử at 03/11/2023 1:16 PM
+BAG:cubin37 remove 1xĐậu thần cấp 8 lydo: Ăn đậu at 03/11/2023 1:17 PM
+BAG:cubin37 remove 1xĐậu thần cấp 8 lydo: Ăn đậu at 03/11/2023 1:18 PM
+BAG:cubin37 remove 1xĐậu thần cấp 8 lydo: Ăn đậu at 03/11/2023 1:19 PM
+BAG:cubin37 remove 1xĐậu thần cấp 8 lydo: Ăn đậu at 03/11/2023 1:23 PM
+BAG:cubin37 remove 1xĐậu thần cấp 8 lydo: Ăn đậu at 03/11/2023 1:24 PM
+BAG:cubin37 remove 1xĐậu thần cấp 8 lydo: Ăn đậu at 03/11/2023 1:25 PM
+BAG:cubin37 remove Găng vải thô lydo: Mặc vào người at 03/11/2023 1:26 PM
+BAG:cubin37 remove Áo vải thô lydo: Mặc vào người at 03/11/2023 1:26 PM
+BAG:cubin37 remove Giầy vải thô lydo: Mặc vào người at 03/11/2023 1:26 PM
+BAG:cubin37 remove Quần vải thô lydo: Mặc vào người at 03/11/2023 1:26 PM
+BAG:cubin37 remove Rada cấp 1 lydo: Mặc vào người at 03/11/2023 1:26 PM
+BAG:cubin37 remove CT Genma 02 lydo: Mặc vào người at 03/11/2023 1:26 PM
+BAG:cubin37 remove Giáp tập luyện cấp 3 lydo: Mặc vào người at 03/11/2023 1:28 PM
+BAG:cubin37 remove Giáp tập luyện cấp 1 lydo: Mặc cho đệ tử at 03/11/2023 1:28 PM
+BAG:cubin37 remove Tái tạo năng lượng lv1 lydo: Sách kĩ năng at 03/11/2023 1:30 PM
+BAG:cubin37 remove 1xTái tạo năng lượng lv1 lydo: Bán cho shop at 03/11/2023 1:30 PM
+BAG:cubin37 remove Tái tạo năng lượng lv2 lydo: Sách kĩ năng at 03/11/2023 1:30 PM
+BAG:cubin37 remove Tái tạo năng lượng lv3 lydo: Sách kĩ năng at 03/11/2023 1:30 PM
+BAG:cubin37 remove Tái tạo năng lượng lv4 lydo: Sách kĩ năng at 03/11/2023 1:30 PM
+BAG:cubin37 remove Tái tạo năng lượng lv5 lydo: Sách kĩ năng at 03/11/2023 1:30 PM
+BAG:cubin37 remove Tái tạo năng lượng lv6 lydo: Sách kĩ năng at 03/11/2023 1:30 PM
+BAG:cubin37 remove Tái tạo năng lượng lv7 lydo: Sách kĩ năng at 03/11/2023 1:30 PM
+BAG:cubin37 remove 1xĐậu thần cấp 8 lydo: Ăn đậu at 03/11/2023 1:31 PM
+BAG:cubin37 remove Giáp tập luyện cấp 3 lydo: Tự Xóa vật phẩm at 03/11/2023 1:32 PM
+BAG:cubin37 remove 1xVệ tinh trí tuệ lydo: Dùng vệ tinh at 03/11/2023 1:32 PM
+BAG:cubin37 remove Đá Titan lydo: Tự Xóa vật phẩm at 03/11/2023 1:38 PM
+BAG:cubin37 remove Bông tai Porata lydo: Tự Xóa vật phẩm at 03/11/2023 1:40 PM
+BAG:cubin37 remove 1xThỏi vàng lydo: Bán cho shop at 03/11/2023 1:45 PM
+BAG:cubin37 remove 10xHoa hồng đỏ lydo: Đổi hoa at 03/11/2023 1:45 PM
+BAG:cubin37 remove 10xHoa hồng đỏ lydo: Đổi hoa at 03/11/2023 1:45 PM
+BAG:cubin37 remove 10xHoa hồng đỏ lydo: Đổi hoa at 03/11/2023 1:45 PM
+BAG:cubin37 remove 10xHoa hồng đỏ lydo: Đổi hoa at 03/11/2023 1:45 PM
+BAG:cubin37 remove 10xHoa hồng xanh lydo: Đổi hoa at 03/11/2023 1:45 PM
+BAG:cubin37 remove 10xHoa hồng xanh lydo: Đổi hoa at 03/11/2023 1:45 PM
+BAG:cubin37 remove 10xHoa hồng xanh lydo: Đổi hoa at 03/11/2023 1:45 PM
+BAG:cubin37 remove 10xHoa hồng xanh lydo: Đổi hoa at 03/11/2023 1:45 PM
+BAG:cubin37 remove 10xHoa hồng xanh lydo: Đổi hoa at 03/11/2023 1:45 PM
+BAG:cubin37 remove 10xHoa hồng vàng lydo: Đổi hoa at 03/11/2023 1:45 PM
+BAG:cubin37 remove 1xThỏi vàng lydo: Bán cho shop at 03/11/2023 1:45 PM
+BAG:cubin37 remove Đá Saphia lydo: Tự Xóa vật phẩm at 03/11/2023 1:46 PM
+BAG:cubin37 remove Đá Ruby lydo: Tự Xóa vật phẩm at 03/11/2023 1:46 PM
+BAG:cubin37 remove 10xHoa hồng vàng lydo: Đổi hoa at 03/11/2023 1:46 PM
+BAG:cubin37 remove 10xHoa hồng vàng lydo: Đổi hoa at 03/11/2023 1:46 PM
+BAG:cubin37 remove 10xHoa hồng vàng lydo: Đổi hoa at 03/11/2023 1:46 PM
+BAG:cubin37 remove 10xHoa hồng vàng lydo: Đổi hoa at 03/11/2023 1:46 PM
+BAG:cubin37 remove Đá lục bảo lydo: Tự Xóa vật phẩm at 03/11/2023 2:17 PM
+BAG:cubin37 remove 1xThỏi vàng lydo: Bán cho shop at 03/11/2023 2:17 PM
+BAG:cubin37 remove 10xHoa hồng đỏ lydo: Đổi hoa at 03/11/2023 2:17 PM
+BAG:cubin37 remove 10xHoa hồng đỏ lydo: Đổi hoa at 03/11/2023 2:17 PM
+BAG:cubin37 remove 10xHoa hồng đỏ lydo: Đổi hoa at 03/11/2023 2:18 PM
+BAG:cubin37 remove 10xHoa hồng đỏ lydo: Đổi hoa at 03/11/2023 2:18 PM
+BAG:cubin37 remove 10xHoa hồng đỏ lydo: Đổi hoa at 03/11/2023 2:18 PM
+BAG:cubin37 remove 10xHoa hồng xanh lydo: Đổi hoa at 03/11/2023 2:18 PM
+BAG:cubin37 remove 10xHoa hồng xanh lydo: Đổi hoa at 03/11/2023 2:18 PM
+BAG:cubin37 remove 10xHoa hồng xanh lydo: Đổi hoa at 03/11/2023 2:18 PM
+BAG:cubin37 remove 10xHoa hồng xanh lydo: Đổi hoa at 03/11/2023 2:18 PM
+BAG:cubin37 remove 10xHoa hồng xanh lydo: Đổi hoa at 03/11/2023 2:18 PM
+BAG:cubin37 remove 10xHoa hồng vàng lydo: Đổi hoa at 03/11/2023 2:18 PM
+BAG:cubin37 remove 10xHoa hồng vàng lydo: Đổi hoa at 03/11/2023 2:18 PM
+BAG:cubin37 remove 10xHoa hồng vàng lydo: Đổi hoa at 03/11/2023 2:18 PM
+BAG:cubin37 remove 10xHoa hồng vàng lydo: Đổi hoa at 03/11/2023 2:18 PM
+BAG:cubin37 remove 10xHoa hồng vàng lydo: Đổi hoa at 03/11/2023 2:18 PM
+BAG:cubin37 remove 2xThỏi vàng lydo: Mua đồ hủy diệt at 03/11/2023 2:19 PM
+BAG:cubin37 remove Đá Ruby lydo: Tự Xóa vật phẩm at 03/11/2023 2:20 PM
+BAG:cubin37 remove Đá Saphia lydo: Tự Xóa vật phẩm at 03/11/2023 2:20 PM
+BAG:cubin37 remove 2xThỏi vàng lydo: Mua đồ hủy diệt at 03/11/2023 2:20 PM
+BAG:cubin37 remove 2xThỏi vàng lydo: Mua đồ hủy diệt at 03/11/2023 2:20 PM
+BAG:cubin37 remove 10xBó hoa hồng đỏ lydo: Đổi hoa at 03/11/2023 2:20 PM
+BAG:cubin37 remove 1xGiỏ hoa lydo: Đổi hoa at 03/11/2023 2:20 PM
+BAG:cubin37 remove 1xThỏi vàng lydo: Bán cho shop at 03/11/2023 2:20 PM
+BAG:cubin37 remove 10xBó hoa hồng vàng lydo: Đổi hoa at 03/11/2023 2:20 PM
+BAG:cubin37 remove 1xGiỏ hoa lydo: Đổi hoa at 03/11/2023 2:20 PM
+BAG:cubin37 remove 10xBó hoa hồng xanh lydo: Đổi hoa at 03/11/2023 2:20 PM
+BAG:cubin37 remove 1xGiỏ hoa lydo: Đổi hoa at 03/11/2023 2:20 PM
+BAG:cubin37 remove 1xGiỏ hoa hồng đỏ lydo: Đổi quà at 03/11/2023 2:20 PM
+BAG:cubin37 remove 1xGiỏ hoa hồng xanh lydo: Đổi quà at 03/11/2023 2:20 PM
+BAG:cubin37 remove 1xGiỏ hoa hồng vàng lydo: Đổi quà at 03/11/2023 2:20 PM
+BAG:cubin37 remove 1xHộp quà 8/3 lydo: CSKB at 03/11/2023 2:21 PM
+BAG:cubin37 remove 1xĐậu thần cấp 8 lydo: Ăn đậu at 03/11/2023 2:39 PM
+BAG:cubin37 remove Đá lục bảo lydo: Tự Xóa vật phẩm at 03/11/2023 2:46 PM
+BAG:cubin37 remove Ngọc Rồng 4 sao lydo: Tự Xóa vật phẩm at 03/11/2023 2:46 PM
+BAG:cubin37 remove Đá Titan lydo: Tự Xóa vật phẩm at 03/11/2023 2:46 PM
+BAG:cubin37 remove Đá Ruby lydo: Tự Xóa vật phẩm at 03/11/2023 2:46 PM
+BAG:cubin37 remove Đá Saphia lydo: Tự Xóa vật phẩm at 03/11/2023 2:47 PM
+BAG:cubin37 remove Giầy vải thô lydo: Tự Xóa vật phẩm at 03/11/2023 2:47 PM
+BAG:cubin37 remove Giầy vải thô lydo: Tự Xóa vật phẩm at 03/11/2023 2:47 PM
+BAG:cubin37 remove Rada cấp 1 lydo: Tự Xóa vật phẩm at 03/11/2023 2:47 PM
+BAG:cubin37 remove Giầy vải thô lydo: Tự Xóa vật phẩm at 03/11/2023 2:48 PM
+BAG:cubin37 remove Quần vải thô lydo: Tự Xóa vật phẩm at 03/11/2023 2:48 PM
+BAG:cubin37 remove Áo vải thô lydo: Tự Xóa vật phẩm at 03/11/2023 2:48 PM
+BAG:cubin37 remove Rada cấp 1 lydo: Tự Xóa vật phẩm at 03/11/2023 2:49 PM
+BAG:cubin37 remove Đá Ruby lydo: Tự Xóa vật phẩm at 03/11/2023 2:49 PM
+BAG:cubin37 remove Rada cấp 1 lydo: Tự Xóa vật phẩm at 03/11/2023 2:49 PM
+BAG:cubin37 remove Ngọc Rồng 5 sao lydo: Tự Xóa vật phẩm at 03/11/2023 2:50 PM
+BAG:cubin37 remove Quần vải thô lydo: Tự Xóa vật phẩm at 03/11/2023 2:50 PM
+BAG:cubin37 remove Đá Saphia lydo: Tự Xóa vật phẩm at 03/11/2023 2:50 PM
+BAG:cubin37 remove Găng vải thô lydo: Tự Xóa vật phẩm at 03/11/2023 2:50 PM
+BAG:cubin37 remove Áo vải thô lydo: Tự Xóa vật phẩm at 03/11/2023 2:50 PM
+BAG:cubin37 remove Rada cấp 1 lydo: Tự Xóa vật phẩm at 03/11/2023 2:50 PM
+BAG:cubin37 remove Giầy vải thô lydo: Tự Xóa vật phẩm at 03/11/2023 2:50 PM
+BAG:cubin37 remove Giầy vải thô lydo: Tự Xóa vật phẩm at 03/11/2023 2:51 PM
+BAG:cubin37 remove Áo vải thô lydo: Tự Xóa vật phẩm at 03/11/2023 2:51 PM
+BAG:cubin37 remove Quần vải thô lydo: Tự Xóa vật phẩm at 03/11/2023 2:51 PM
+BAG:cubin37 remove Găng vải thô lydo: Tự Xóa vật phẩm at 03/11/2023 2:51 PM
+BAG:cubin37 remove Găng vải thô lydo: Tự Xóa vật phẩm at 03/11/2023 2:52 PM
+BAG:cubin37 remove Quần vải thô lydo: Tự Xóa vật phẩm at 03/11/2023 2:52 PM
+BAG:cubin37 remove Rada cấp 1 lydo: Tự Xóa vật phẩm at 03/11/2023 2:52 PM
+BAG:cubin37 remove Giầy vải thô lydo: Tự Xóa vật phẩm at 03/11/2023 2:52 PM
+BAG:cubin37 remove Giầy vải thô lydo: Tự Xóa vật phẩm at 03/11/2023 2:52 PM
+BAG:cubin37 remove Giầy vải thô lydo: Tự Xóa vật phẩm at 03/11/2023 2:53 PM
+BAG:cubin37 remove Quần vải thô lydo: Tự Xóa vật phẩm at 03/11/2023 2:53 PM
+BAG:cubin37 remove Giầy vải thô lydo: Tự Xóa vật phẩm at 03/11/2023 2:53 PM
+BAG:cubin37 remove Giầy vải thô lydo: Tự Xóa vật phẩm at 03/11/2023 2:53 PM
+BAG:cubin37 remove Đá Titan lydo: Tự Xóa vật phẩm at 03/11/2023 2:54 PM
+BAG:cubin37 remove Quần vải thô lydo: Tự Xóa vật phẩm at 03/11/2023 2:54 PM
+BAG:cubin37 remove Găng vải thô lydo: Tự Xóa vật phẩm at 03/11/2023 2:54 PM
+BAG:cubin37 remove Áo vải thô lydo: Tự Xóa vật phẩm at 03/11/2023 2:54 PM
+BAG:cubin37 remove Giầy vải thô lydo: Tự Xóa vật phẩm at 03/11/2023 2:55 PM
+BAG:cubin37 remove Quần vải thô lydo: Tự Xóa vật phẩm at 03/11/2023 2:55 PM
+BAG:cubin37 remove Quần vải thô lydo: Tự Xóa vật phẩm at 03/11/2023 2:55 PM
+BAG:cubin37 remove Găng vải thô lydo: Tự Xóa vật phẩm at 03/11/2023 2:55 PM
+BAG:cubin37 remove Quần vải thô lydo: Tự Xóa vật phẩm at 03/11/2023 2:55 PM
+BAG:cubin37 remove Áo vải thô lydo: Tự Xóa vật phẩm at 03/11/2023 2:56 PM
+BAG:cubin37 remove Rada cấp 1 lydo: Tự Xóa vật phẩm at 03/11/2023 2:56 PM
+BAG:cubin37 remove Quần vải thô lydo: Tự Xóa vật phẩm at 03/11/2023 2:56 PM
+BAG:cubin37 remove Đá lục bảo lydo: Tự Xóa vật phẩm at 03/11/2023 2:56 PM
+BAG:cubin37 remove Giầy vải thô lydo: Tự Xóa vật phẩm at 03/11/2023 2:56 PM
+BAG:cubin37 remove Quần vải thô lydo: Tự Xóa vật phẩm at 03/11/2023 2:56 PM
+BAG:cubin37 remove Giầy vải thô lydo: Tự Xóa vật phẩm at 03/11/2023 2:56 PM
+BAG:cubin37 remove Găng vải thô lydo: Tự Xóa vật phẩm at 03/11/2023 2:57 PM
+BAG:cubin37 remove Găng vải thô lydo: Tự Xóa vật phẩm at 03/11/2023 2:57 PM
+BAG:cubin37 remove 1xĐậu thần cấp 8 lydo: Ăn đậu at 03/11/2023 2:57 PM
+BAG:cubin37 remove 1xĐá Saphia lydo: Bán cho shop at 03/11/2023 3:03 PM
+BAG:cubin37 remove 1xĐá Ruby lydo: Bán cho shop at 03/11/2023 3:03 PM
+BAG:cubin37 remove 1xĐá Titan lydo: Bán cho shop at 03/11/2023 3:03 PM
+BAG:cubin37 remove Hóa khỉ khổng lồ lv1 lydo: Sách kĩ năng at 03/11/2023 3:03 PM
+BAG:cubin37 remove Hóa khỉ khổng lồ lv2 lydo: Sách kĩ năng at 03/11/2023 3:03 PM
+BAG:cubin37 remove Hóa khỉ khổng lồ lv3 lydo: Sách kĩ năng at 03/11/2023 3:03 PM
+BAG:cubin37 remove Hóa khỉ khổng lồ lv4 lydo: Sách kĩ năng at 03/11/2023 3:03 PM
+BAG:cubin37 remove Hóa khỉ khổng lồ lv5 lydo: Sách kĩ năng at 03/11/2023 3:03 PM
+BAG:cubin37 remove Hóa khỉ khổng lồ lv6 lydo: Sách kĩ năng at 03/11/2023 3:03 PM
+BAG:cubin37 remove Hóa khỉ khổng lồ lv7 lydo: Sách kĩ năng at 03/11/2023 3:03 PM
+BAG:cubin37 remove 1xĐậu thần cấp 8 lydo: Ăn đậu at 03/11/2023 3:23 PM
+BAG:cubin37 remove 1xĐậu thần cấp 8 lydo: Ăn đậu at 03/11/2023 3:26 PM
+BAG:cubin37 remove Áo vải thô lydo: Cất vào rương at 03/11/2023 3:36 PM
+BAG:cubin37 remove Găng vải thô lydo: Cất vào rương at 03/11/2023 3:37 PM
+BAG:cubin37 remove Rada cấp 1 lydo: Cất vào rương at 03/11/2023 3:37 PM
+BAG:cubin37 remove Giầy vải thô lydo: Cất vào rương at 03/11/2023 3:37 PM
+BAG:cubin37 remove Áo vải thô lydo: Tự Xóa vật phẩm at 03/11/2023 3:37 PM
+BAG:cubin37 remove Quần vải thô lydo: Tự Xóa vật phẩm at 03/11/2023 3:37 PM
+BAG:cubin37 remove Găng bạc lydo: Tự Xóa vật phẩm at 03/11/2023 3:37 PM
+BAG:cubin37 remove Rada cấp 1 lydo: Mặc cho đệ tử at 03/11/2023 3:38 PM
+BAG:cubin37 remove Giầy vải thô lydo: Mặc cho đệ tử at 03/11/2023 3:38 PM
+BAG:cubin37 remove Quần vải thô lydo: Mặc cho đệ tử at 03/11/2023 3:38 PM
+BAG:cubin37 remove Áo vải thô lydo: Mặc cho đệ tử at 03/11/2023 3:38 PM
+BAG:cubin37 remove Găng vải thô lydo: Mặc cho đệ tử at 03/11/2023 3:38 PM
+BAG:cubin37 remove Giáp tập luyện cấp 3 lydo: Mặc vào người at 03/11/2023 3:39 PM
+BAG:cubin37 remove 1xĐậu thần cấp 8 lydo: Ăn đậu at 03/11/2023 3:39 PM
+BAG:cubin37 remove 1xGăng lông Xayda lydo: Bán cho shop at 03/11/2023 3:40 PM
+BAG:cubin37 remove Cải trang lydo: Mặc vào người at 03/11/2023 3:40 PM
+BAG:cubin37 remove 1xĐậu thần cấp 8 lydo: Ăn đậu at 03/11/2023 3:41 PM
+BAG:cubin37 remove 1xĐậu thần cấp 8 lydo: Ăn đậu at 03/11/2023 3:43 PM
+BAG:cubin37 remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/11/2023 3:45 PM
+BAG:cubin37 remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/11/2023 3:47 PM
+BAG:cubin37 remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/11/2023 3:49 PM
+BAG:cubin37 remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/11/2023 3:52 PM
+BAG:cubin37 remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/11/2023 3:54 PM
+BAG:cubin37 remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/11/2023 3:57 PM
+BAG:cubin37 remove 1xThỏi vàng lydo: Bán cho shop at 03/11/2023 3:58 PM
+BAG:cubin37 remove 1xThỏi vàng lydo: Bán cho shop at 03/11/2023 3:58 PM
+BAG:cubin37 remove 1xNgọc Rồng 7 sao lydo: Ép ngọc rồng at 03/11/2023 4:00 PM
+BAG:cubin37 remove 1xNgọc Rồng 7 sao lydo: Ép ngọc rồng at 03/11/2023 4:00 PM
+BAG:cubin37 remove Cải trang lydo: Tự Xóa vật phẩm at 03/11/2023 4:01 PM
+BAG:cubin37 remove Đá Titan lydo: Tự Xóa vật phẩm at 03/11/2023 4:01 PM
+BAG:cubin37 remove Đá Ruby lydo: Tự Xóa vật phẩm at 03/11/2023 4:01 PM
+BAG:cubin37 remove Giáp tập luyện cấp 3 lydo: Mặc vào người at 03/11/2023 4:01 PM
+BAG:cubin37 remove Giầy vải thô lydo: Mặc vào người at 03/11/2023 4:01 PM
+BAG:cubin37 remove Quần vải thô lydo: Mặc vào người at 03/11/2023 4:01 PM
+BAG:cubin37 remove Áo vải thô lydo: Mặc vào người at 03/11/2023 4:01 PM
+BAG:cubin37 remove Găng vải thô lydo: Mặc vào người at 03/11/2023 4:01 PM
+BAG:cubin37 remove Rada cấp 1 lydo: Mặc vào người at 03/11/2023 4:01 PM
+BAG:cubin37 remove Quần vải thô lydo: Cất vào rương at 03/11/2023 4:02 PM
+BAG:cubin37 remove Găng vải thô lydo: Cất vào rương at 03/11/2023 4:02 PM
+BAG:cubin37 remove Giầy vải thô lydo: Cất vào rương at 03/11/2023 4:02 PM
+BAG:cubin37 remove Rada cấp 1 lydo: Cất vào rương at 03/11/2023 4:02 PM
+BAG:cubin37 remove Áo vải thô lydo: Cất vào rương at 03/11/2023 4:02 PM
+BAG:cubin37 remove Quần vải thô lydo: Mặc cho đệ tử at 03/11/2023 4:02 PM
+BAG:cubin37 remove Rada cấp 1 lydo: Mặc cho đệ tử at 03/11/2023 4:02 PM
+BAG:cubin37 remove Găng vải thô lydo: Mặc cho đệ tử at 03/11/2023 4:02 PM
+BAG:cubin37 remove Áo vải thô lydo: Mặc cho đệ tử at 03/11/2023 4:03 PM
+BAG:cubin37 remove Giầy vải thô lydo: Mặc cho đệ tử at 03/11/2023 4:03 PM
+BAG:cubin37 remove Cải trang Hatchiyack lydo: Mặc cho đệ tử at 03/11/2023 4:03 PM
+BAG:cubin37 remove 1xThỏi vàng lydo: Bán cho shop at 03/11/2023 4:03 PM
+BAG:cubin37 remove 1xThỏi vàng lydo: Bán cho shop at 03/11/2023 4:03 PM
+BAG:cubin37 remove 1xThỏi vàng lydo: Bán cho shop at 03/11/2023 4:07 PM
+BAG:cubin37 remove 1xThỏi vàng lydo: Bán cho shop at 03/11/2023 4:07 PM
+BAG:cubin37 remove 1xThỏi vàng lydo: Bán cho shop at 03/11/2023 4:09 PM
+BAG:cubin37 remove 1xThỏi vàng lydo: Bán cho shop at 03/11/2023 4:09 PM
+BAG:cubin37 remove 1xNgọc Rồng 7 sao lydo: Ép ngọc rồng at 03/11/2023 4:10 PM
+BAG:cubin37 remove 1xNgọc Rồng 7 sao lydo: Ép ngọc rồng at 03/11/2023 4:10 PM
+BAG:cubin37 remove 1xNgọc Rồng 7 sao lydo: Ép ngọc rồng at 03/11/2023 4:10 PM
+BAG:cubin37 remove 1xNgọc Rồng 7 sao lydo: Ép ngọc rồng at 03/11/2023 4:10 PM
+BAG:cubin37 remove 1xNgọc Rồng 7 sao lydo: Ép ngọc rồng at 03/11/2023 4:10 PM
+BAG:cubin37 remove 1xNgọc Rồng 7 sao lydo: Ép ngọc rồng at 03/11/2023 4:10 PM
+BAG:cubin37 remove Giáp tập luyện cấp 3 lydo: Mặc vào người at 03/11/2023 4:11 PM
+BAG:cubin37 remove Giầy vải thô lydo: Mặc vào người at 03/11/2023 4:11 PM
+BAG:cubin37 remove 1xThỏi vàng lydo: Bán cho shop at 03/11/2023 4:14 PM
+BAG:cubin37 remove 1xThỏi vàng lydo: Bán cho shop at 03/11/2023 4:14 PM
+BAG:cubin37 remove 1xThỏi vàng lydo: Bán cho shop at 03/11/2023 4:14 PM
+BAG:cubin37 remove 1xThỏi vàng lydo: Bán cho shop at 03/11/2023 4:16 PM
+BAG:cubin37 remove 1xThỏi vàng lydo: Bán cho shop at 03/11/2023 4:16 PM
+BAG:cubin37 remove 1xThỏi vàng lydo: Bán cho shop at 03/11/2023 4:16 PM
+BAG:cubin37 remove 1xThỏi vàng lydo: Bán cho shop at 03/11/2023 4:18 PM
+BAG:cubin37 remove Áo vải thô lydo: Cất vào rương at 03/11/2023 4:20 PM
+BAG:cubin37 remove Quần vải thô lydo: Cất vào rương at 03/11/2023 4:20 PM
+BAG:cubin37 remove CT Genma 02 lydo: Cất vào rương at 03/11/2023 4:20 PM
+BAG:cubin37 remove Đá xanh lam lydo: Cất vào rương at 03/11/2023 4:20 PM
+BAG:cubin37 remove Ngọc Rồng 2 sao lydo: Cất vào rương at 03/11/2023 4:20 PM
+BAG:cubin37 remove Áo vải thô lydo: Mặc cho đệ tử at 03/11/2023 4:20 PM
+BAG:cubin37 remove Quần vải thô lydo: Mặc cho đệ tử at 03/11/2023 4:21 PM
+BAG:cubin37 remove Cải trang Hatchiyack lydo: Cất vào rương at 03/11/2023 4:22 PM
+BAG:cubin37 remove Rada cấp 1 lydo: Cất vào rương at 03/11/2023 4:22 PM
+BAG:cubin37 remove Giầy vải thô lydo: Cất vào rương at 03/11/2023 4:22 PM
+BAG:cubin37 remove Găng vải thô lydo: Cất vào rương at 03/11/2023 4:22 PM
+BAG:cubin37 remove CT Genma 02 lydo: Mặc cho đệ tử at 03/11/2023 4:27 PM
+BAG:cubin37 remove Áo vải thô lydo: Mặc cho đệ tử at 03/11/2023 4:29 PM
+BAG:cubin37 remove Quần vải thô lydo: Mặc cho đệ tử at 03/11/2023 4:29 PM
+BAG:cubin37 remove CT Genma 01 lydo: Mặc vào người at 03/11/2023 4:29 PM
+BAG:cubin37 remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/11/2023 4:30 PM
+BAG:cubin37 remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/11/2023 4:30 PM
+BAG:cubin37 remove Găng vải thô lydo: Mặc vào người at 03/11/2023 4:31 PM
+BAG:cubin37 remove 1xVệ tinh trí tuệ lydo: Dùng vệ tinh at 03/11/2023 4:32 PM
+BAG:cubin37 remove 8xĐá Titan lydo: Bán cho shop at 03/11/2023 4:54 PM
+BAG:cubin37 remove 2xĐậu thần cấp 10 lydo: Bán cho shop at 03/11/2023 4:54 PM
+BAG:cubin37 remove 1xĐậu thần cấp 8 lydo: Ăn đậu at 03/11/2023 4:55 PM
+BAG:cubin37 remove 1xĐậu thần cấp 8 lydo: Ăn đậu at 03/11/2023 4:55 PM
+BAG:cubin37 remove CT Genma 01 lydo: Mặc vào người at 03/11/2023 4:58 PM
+BAG:cubin37 remove Găng vải thô lydo: Mặc vào người at 03/11/2023 4:59 PM
+BAG:cubin37 remove Rada cấp 1 lydo: Mặc cho đệ tử at 03/11/2023 5:17 PM
+BAG:cubin37 remove Đá Saphia lydo: Tự Xóa vật phẩm at 03/11/2023 5:18 PM
+BAG:cubin37 remove Đá lục bảo lydo: Tự Xóa vật phẩm at 03/11/2023 5:18 PM
+BAG:cubin37 remove Quần vải thô lydo: Mặc vào người at 03/11/2023 5:19 PM
+BAG:cubin37 remove Áo vải thô lydo: Cất vào rương at 03/11/2023 5:19 PM
+BAG:cubin37 remove Găng vải thô lydo: Mặc vào người at 03/11/2023 5:19 PM
+BAG:cubin37 remove Áo vải thô lydo: Mặc vào người at 03/11/2023 5:19 PM
+BAG:cubin37 remove Giầy vải thô lydo: Cất vào rương at 03/11/2023 5:19 PM
+BAG:cubin37 remove Rada cấp 1 lydo: Cất vào rương at 03/11/2023 5:19 PM
+BAG:cubin37 remove Giầy vải thô lydo: Mặc cho đệ tử at 03/11/2023 5:20 PM
+BAG:cubin37 remove Găng vàng lydo: Tự Xóa vật phẩm at 03/11/2023 5:20 PM
+BAG:cubin37 remove CT Genma 02 lydo: Mặc vào người at 03/11/2023 5:20 PM
+BAG:cubin37 remove 1xThỏi vàng lydo: Bán cho shop at 03/11/2023 5:20 PM
+BAG:cubin37 remove 1xThỏi vàng lydo: Bán cho shop at 03/11/2023 5:20 PM
+BAG:cubin37 remove 1xThỏi vàng lydo: Bán cho shop at 03/11/2023 5:22 PM
+BAG:cubin37 remove 1xNgọc Rồng 7 sao lydo: Ép ngọc rồng at 03/11/2023 5:23 PM
+BAG:cubin37 remove 1xNgọc Rồng 7 sao lydo: Ép ngọc rồng at 03/11/2023 5:23 PM
+BAG:cubin37 remove 1xNgọc Rồng 7 sao lydo: Ép ngọc rồng at 03/11/2023 5:23 PM
+BAG:cubin37 remove 1xNgọc Rồng 7 sao lydo: Ép ngọc rồng at 03/11/2023 5:24 PM
+BAG:cubin37 remove 1xNgọc Rồng 7 sao lydo: Ép ngọc rồng at 03/11/2023 5:24 PM
+BAG:cubin37 remove 1xNgọc Rồng 7 sao lydo: Ép ngọc rồng at 03/11/2023 5:24 PM
+BAG:cubin37 remove Giáp tập luyện cấp 3 lydo: Mặc vào người at 03/11/2023 5:24 PM
+BAG:cubin37 remove Áo vải thô lydo: Mặc vào người at 03/11/2023 5:24 PM
+BAG:cubin37 remove Găng vải thô lydo: Mặc vào người at 03/11/2023 5:24 PM
+BAG:cubin37 remove Rada cấp 1 lydo: Mặc vào người at 03/11/2023 5:24 PM
+BAG:cubin37 remove Quần vải thô lydo: Mặc vào người at 03/11/2023 5:24 PM
+BAG:cubin37 remove 1xThỏi vàng lydo: Bán cho shop at 03/11/2023 5:25 PM
+BAG:cubin37 remove 1xThỏi vàng lydo: Bán cho shop at 03/11/2023 5:25 PM
+BAG:cubin37 remove 1xThỏi vàng lydo: Bán cho shop at 03/11/2023 5:27 PM
+BAG:cubin37 remove 1xThỏi vàng lydo: Bán cho shop at 03/11/2023 5:27 PM
+BAG:cubin37 remove 1xNgọc Rồng 7 sao lydo: Ép ngọc rồng at 03/11/2023 5:30 PM
+BAG:cubin37 remove 1xNgọc Rồng 7 sao lydo: Ép ngọc rồng at 03/11/2023 5:30 PM
+BAG:cubin37 remove 1xNgọc Rồng 7 sao lydo: Ép ngọc rồng at 03/11/2023 5:30 PM
+BAG:cubin37 remove 1xNgọc Rồng 7 sao lydo: Ép ngọc rồng at 03/11/2023 5:30 PM
+BAG:cubin37 remove 1xNgọc Rồng 7 sao lydo: Ép ngọc rồng at 03/11/2023 5:30 PM
+BAG:cubin37 remove 1xNgọc Rồng 7 sao lydo: Ép ngọc rồng at 03/11/2023 5:31 PM
+BAG:cubin37 remove 1xNgọc Rồng 7 sao lydo: Ép ngọc rồng at 03/11/2023 5:31 PM
+BAG:cubin37 remove 1xNgọc Rồng 7 sao lydo: Ép ngọc rồng at 03/11/2023 5:31 PM
+BAG:cubin37 remove Găng vải thô lydo: Mặc vào người at 03/11/2023 5:31 PM
+BAG:cubin37 remove Quần vải thô lydo: Mặc vào người at 03/11/2023 5:31 PM
+BAG:cubin37 remove Sách Huýt Sáo lv1 lydo: Sách kĩ năng at 03/11/2023 5:32 PM
+BAG:cubin37 remove Sách Huýt Sáo lv2 lydo: Sách kĩ năng at 03/11/2023 5:32 PM
+BAG:cubin37 remove Sách Huýt Sáo lv3 lydo: Sách kĩ năng at 03/11/2023 5:32 PM
+BAG:cubin37 remove Sách Huýt Sáo lv4 lydo: Sách kĩ năng at 03/11/2023 5:32 PM
+BAG:cubin37 remove Sách Huýt Sáo lv5 lydo: Sách kĩ năng at 03/11/2023 5:32 PM
+BAG:cubin37 remove Sách Huýt Sáo lv6 lydo: Sách kĩ năng at 03/11/2023 5:33 PM
+BAG:cubin37 remove Sách Huýt Sáo lv7 lydo: Sách kĩ năng at 03/11/2023 5:33 PM
+BAG:cubin37 remove Bom hi sinh lv1 lydo: Sách kĩ năng at 03/11/2023 5:34 PM
+BAG:cubin37 remove Bom hi sinh lv2 lydo: Sách kĩ năng at 03/11/2023 5:34 PM
+BAG:cubin37 remove Bom hi sinh lv3 lydo: Sách kĩ năng at 03/11/2023 5:34 PM
+BAG:cubin37 remove Bom hi sinh lv4 lydo: Sách kĩ năng at 03/11/2023 5:34 PM
+BAG:cubin37 remove Bom hi sinh lv5 lydo: Sách kĩ năng at 03/11/2023 5:34 PM
+BAG:cubin37 remove Bom hi sinh lv6 lydo: Sách kĩ năng at 03/11/2023 5:34 PM
+BAG:cubin37 remove Bom hi sinh lv7 lydo: Sách kĩ năng at 03/11/2023 5:34 PM
+BAG:cubin37 remove 1xThỏi vàng lydo: Bán cho shop at 03/11/2023 5:34 PM
+BAG:cubin37 remove 1xThỏi vàng lydo: Bán cho shop at 03/11/2023 5:34 PM
+BAG:cubin37 remove 1xThỏi vàng lydo: Bán cho shop at 03/11/2023 5:35 PM
+BAG:cubin37 remove 1xThỏi vàng lydo: Bán cho shop at 03/11/2023 5:36 PM
+BAG:cubin37 remove 1xThỏi vàng lydo: Bán cho shop at 03/11/2023 5:37 PM
+BAG:cubin37 remove 1xThỏi vàng lydo: Bán cho shop at 03/11/2023 5:37 PM
+BAG:cubin37 remove 1xThỏi vàng lydo: Bán cho shop at 03/11/2023 5:38 PM
+BAG:cubin37 remove 1xThỏi vàng lydo: Bán cho shop at 03/11/2023 5:38 PM
+BAG:cubin37 remove 1xNgọc Rồng 7 sao lydo: Ép ngọc rồng at 03/11/2023 5:40 PM
+BAG:cubin37 remove 1xNgọc Rồng 7 sao lydo: Ép ngọc rồng at 03/11/2023 5:40 PM
+BAG:cubin37 remove Găng vải thô lydo: Mặc vào người at 03/11/2023 5:40 PM
+BAG:cubin37 remove Rada cấp 1 lydo: Mặc vào người at 03/11/2023 5:40 PM
+BAG:cubin37 remove Áo vải thô lydo: Cất vào rương at 03/11/2023 5:45 PM
+BAG:cubin37 remove Quần vải thô lydo: Cất vào rương at 03/11/2023 5:45 PM
+BAG:cubin37 remove Giầy vải thô lydo: Cất vào rương at 03/11/2023 5:45 PM
+BAG:cubin37 remove Găng vải thô lydo: Cất vào rương at 03/11/2023 5:45 PM
+BAG:cubin37 remove Rada cấp 1 lydo: Cất vào rương at 03/11/2023 5:45 PM
+BAG:cubin37 remove CT Genma 02 lydo: Cất vào rương at 03/11/2023 5:45 PM
+BAG:cubin37 remove Giầy vải thô lydo: Mặc cho đệ tử at 03/11/2023 5:46 PM
+BAG:cubin37 remove Quần vải thô lydo: Mặc cho đệ tử at 03/11/2023 5:46 PM
+BAG:cubin37 remove Áo vải thô lydo: Mặc cho đệ tử at 03/11/2023 5:46 PM
+BAG:cubin37 remove Rada cấp 1 lydo: Mặc cho đệ tử at 03/11/2023 5:46 PM
+BAG:cubin37 remove Găng vải thô lydo: Mặc cho đệ tử at 03/11/2023 5:46 PM
+BAG:cubin37 remove CT Genma 01 lydo: Mặc cho đệ tử at 03/11/2023 5:46 PM
+BAG:cubin37 remove 1xThỏi vàng lydo: Bán cho shop at 03/11/2023 5:46 PM
+BAG:cubin37 remove 1xSao pha lê lydo: Ép ngọc rồng at 03/11/2023 5:47 PM
+BAG:cubin37 remove 1xSao pha lê lydo: Ép ngọc rồng at 03/11/2023 5:47 PM
+BAG:cubin37 remove 1xSao pha lê lydo: Ép ngọc rồng at 03/11/2023 5:47 PM
+BAG:cubin37 remove 1xSao pha lê lydo: Ép ngọc rồng at 03/11/2023 5:47 PM
+BAG:cubin37 remove 1xSao pha lê lydo: Ép ngọc rồng at 03/11/2023 5:48 PM
+BAG:cubin37 remove Áo vải thô lydo: Mặc vào người at 03/11/2023 5:49 PM
+BAG:cubin37 remove Quần vải thô lydo: Mặc vào người at 03/11/2023 5:49 PM
+BAG:cubin37 remove Găng vải thô lydo: Mặc vào người at 03/11/2023 5:49 PM
+BAG:cubin37 remove Rada cấp 1 lydo: Mặc vào người at 03/11/2023 5:49 PM
+BAG:cubin37 remove Giầy vải thô lydo: Mặc vào người at 03/11/2023 5:49 PM
+BAG:cubin37 remove CT Genma 02 lydo: Mặc cho đệ tử at 03/11/2023 5:49 PM
+BAG:cubin37 remove Giáp tập luyện cấp 3 lydo: Mặc vào người at 03/11/2023 7:03 PM
+BAG:cubin37 remove Giầy vải thô lydo: Cất vào rương at 03/11/2023 7:03 PM
+BAG:cubin37 remove Quần vải thô lydo: Cất vào rương at 03/11/2023 7:04 PM
+BAG:cubin37 remove Áo vải thô lydo: Cất vào rương at 03/11/2023 7:04 PM
+BAG:cubin37 remove CT Genma 01 lydo: Cất vào rương at 03/11/2023 7:04 PM
+BAG:cubin37 remove Rada cấp 1 lydo: Cất vào rương at 03/11/2023 7:04 PM
+BAG:cubin37 remove Găng vải thô lydo: Cất vào rương at 03/11/2023 7:04 PM
+BAG:cubin37 remove Quần vải thô lydo: Mặc vào người at 03/11/2023 7:05 PM
+BAG:cubin37 remove Găng vải thô lydo: Mặc vào người at 03/11/2023 7:05 PM
+BAG:cubin37 remove CT Genma 02 lydo: Mặc vào người at 03/11/2023 7:05 PM
+BAG:cubin37 remove Giầy vải thô lydo: Mặc vào người at 03/11/2023 7:05 PM
+BAG:cubin37 remove Áo vải thô lydo: Mặc vào người at 03/11/2023 7:05 PM
+BAG:cubin37 remove Rada cấp 1 lydo: Mặc vào người at 03/11/2023 7:05 PM
+BAG:cubin37 remove Khiên năng lượng lv1 lydo: Sách kĩ năng at 03/11/2023 7:11 PM
+BAG:cubin37 remove Khiên năng lượng lv2 lydo: Sách kĩ năng at 03/11/2023 7:11 PM
+BAG:cubin37 remove Khiên năng lượng lv3 lydo: Sách kĩ năng at 03/11/2023 7:11 PM
+BAG:cubin37 remove Khiên năng lượng lv4 lydo: Sách kĩ năng at 03/11/2023 7:11 PM
+BAG:cubin37 remove Khiên năng lượng lv5 lydo: Sách kĩ năng at 03/11/2023 7:11 PM
+BAG:cubin37 remove Khiên năng lượng lv6 lydo: Sách kĩ năng at 03/11/2023 7:12 PM
+BAG:cubin37 remove Khiên năng lượng lv7 lydo: Sách kĩ năng at 03/11/2023 7:12 PM
+BAG:cubin37 remove Sách Trói lv1 lydo: Sách kĩ năng at 03/11/2023 7:24 PM
+BAG:cubin37 remove Sách Trói lv2 lydo: Sách kĩ năng at 03/11/2023 7:24 PM
+BAG:cubin37 remove Sách Trói lv3 lydo: Sách kĩ năng at 03/11/2023 7:24 PM
+BAG:cubin37 remove Sách Trói lv4 lydo: Sách kĩ năng at 03/11/2023 7:24 PM
+BAG:cubin37 remove Đá Saphia lydo: Tự Xóa vật phẩm at 03/11/2023 7:26 PM
+BAG:cubin37 remove Đá lục bảo lydo: Tự Xóa vật phẩm at 03/11/2023 7:26 PM
+BAG:cubin37 remove Đá Titan lydo: Tự Xóa vật phẩm at 03/11/2023 7:27 PM
+BAG:cubin37 remove Đá Ruby lydo: Tự Xóa vật phẩm at 03/11/2023 7:27 PM
+BAG:cubin37 remove Giáp tập luyện cấp 3 lydo: Mặc vào người at 03/11/2023 7:28 PM
+BAG:cubin37 remove Đá lục bảo lydo: Tự Xóa vật phẩm at 03/11/2023 7:36 PM
+BAG:cubin37 remove Ngọc Rồng 6 sao lydo: Tự Xóa vật phẩm at 03/11/2023 7:37 PM
+BAG:cubin37 remove Sách Antomic lv1 lydo: Sách kĩ năng at 03/11/2023 7:37 PM
+BAG:cubin37 remove Sách Antomic lv2 lydo: Sách kĩ năng at 03/11/2023 7:37 PM
+BAG:cubin37 remove Sách Antomic lv3 lydo: Sách kĩ năng at 03/11/2023 7:37 PM
+BAG:cubin37 remove Sách Antomic lv4 lydo: Sách kĩ năng at 03/11/2023 7:37 PM
+BAG:cubin37 remove Sách Antomic lv5 lydo: Sách kĩ năng at 03/11/2023 7:37 PM
+BAG:cubin37 remove Sách Antomic lv6 lydo: Sách kĩ năng at 03/11/2023 7:37 PM
+BAG:cubin37 remove Sách Antomic lv7 lydo: Sách kĩ năng at 03/11/2023 7:37 PM

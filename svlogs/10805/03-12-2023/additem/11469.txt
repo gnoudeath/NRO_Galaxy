@@ -1,0 +1,8 @@
+BAG:galaxytd add 1xCải trang lydo: Mua từ cửa hàng at 03/12/2023 11:02 AM
+BAG:galaxytd add 1xĐổi đệ tử lydo: Mua từ cửa hàng at 03/12/2023 11:03 AM
+BAG:galaxytd add 1xNâng cấp kỹ năng 1 đệ tử lydo: Mua từ cửa hàng at 03/12/2023 11:03 AM
+BAG:galaxytd add 2xĐổi đệ tử (old: 1) lydo: Mua từ cửa hàng at 03/12/2023 11:03 AM
+BAG:galaxytd add 3xĐổi đệ tử (old: 2) lydo: Mua từ cửa hàng at 03/12/2023 11:03 AM
+BAG:galaxytd add 2xNâng cấp kỹ năng 1 đệ tử (old: 1) lydo: Mua từ cửa hàng at 03/12/2023 11:03 AM
+BAG:galaxytd add 3xNâng cấp kỹ năng 1 đệ tử (old: 2) lydo: Mua từ cửa hàng at 03/12/2023 11:03 AM
+BAG:galaxytd add 4xNâng cấp kỹ năng 1 đệ tử (old: 3) lydo: Mua từ cửa hàng at 03/12/2023 11:03 AM

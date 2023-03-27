@@ -1,0 +1,413 @@
+BAG:hungwibu2 add 161xThỏi vàng (old: 61) lydo: Giftcode at 03/11/2023 5:05 AM
+BAG:hungwibu2 add 9xĐậu thần cấp 10 lydo: Lấy từ rương qua người at 03/11/2023 5:06 AM
+BAG:hungwibu2 add 99xĐậu thần cấp 10 (old: 88) lydo: Lấy từ rương qua người at 03/11/2023 5:06 AM
+BAG:hungwibu2 add 1027xHoa hồng vàng (old: 1026) lydo: Nhặt từ map at 03/11/2023 5:06 AM
+BAG:hungwibu2 add 1285xHoa hồng xanh (old: 1284) lydo: Nhặt từ map at 03/11/2023 5:07 AM
+BAG:hungwibu2 add 1286xHoa hồng xanh (old: 1285) lydo: Nhặt từ map at 03/11/2023 5:07 AM
+BAG:hungwibu2 add 15xĐá Ruby (old: 14) lydo: Nhặt từ map at 03/11/2023 5:07 AM
+BAG:hungwibu2 add 1xQuần Thiên Sứ lydo: Đổi Mảnh Thiên Sứ at 03/11/2023 5:07 AM
+BAG:hungwibu2 add 1xBó hoa hồng đỏ lydo: Đổi bó hoa hồng đỏ at 03/11/2023 5:10 AM
+BAG:hungwibu2 add 2xBó hoa hồng đỏ (old: 1) lydo: Đổi bó hoa hồng đỏ at 03/11/2023 5:11 AM
+BAG:hungwibu2 add 3xBó hoa hồng đỏ (old: 2) lydo: Đổi bó hoa hồng đỏ at 03/11/2023 5:11 AM
+BAG:hungwibu2 add 4xBó hoa hồng đỏ (old: 3) lydo: Đổi bó hoa hồng đỏ at 03/11/2023 5:11 AM
+BAG:hungwibu2 add 5xBó hoa hồng đỏ (old: 4) lydo: Đổi bó hoa hồng đỏ at 03/11/2023 5:11 AM
+BAG:hungwibu2 add 1xBó hoa hồng xanh lydo: Đổi bó hoa hồng xanh at 03/11/2023 5:11 AM
+BAG:hungwibu2 add 2xBó hoa hồng xanh (old: 1) lydo: Đổi bó hoa hồng xanh at 03/11/2023 5:12 AM
+BAG:hungwibu2 add 3xBó hoa hồng xanh (old: 2) lydo: Đổi bó hoa hồng xanh at 03/11/2023 5:12 AM
+BAG:hungwibu2 add 4xBó hoa hồng xanh (old: 3) lydo: Đổi bó hoa hồng xanh at 03/11/2023 5:12 AM
+BAG:hungwibu2 add 5xBó hoa hồng xanh (old: 4) lydo: Đổi bó hoa hồng xanh at 03/11/2023 5:12 AM
+BAG:hungwibu2 add 1xBó hoa hồng vàng lydo: Đổi bó hoa hồng đỏ at 03/11/2023 5:12 AM
+BAG:hungwibu2 add 2xBó hoa hồng vàng (old: 1) lydo: Đổi bó hoa hồng đỏ at 03/11/2023 5:12 AM
+BAG:hungwibu2 add 3xBó hoa hồng vàng (old: 2) lydo: Đổi bó hoa hồng đỏ at 03/11/2023 5:12 AM
+BAG:hungwibu2 add 4xBó hoa hồng vàng (old: 3) lydo: Đổi bó hoa hồng đỏ at 03/11/2023 5:12 AM
+BAG:hungwibu2 add 5xBó hoa hồng vàng (old: 4) lydo: Đổi bó hoa hồng đỏ at 03/11/2023 5:12 AM
+BAG:hungwibu2 add 6xBó hoa hồng đỏ (old: 5) lydo: Đổi bó hoa hồng đỏ at 03/11/2023 5:13 AM
+BAG:hungwibu2 add 7xBó hoa hồng đỏ (old: 6) lydo: Đổi bó hoa hồng đỏ at 03/11/2023 5:13 AM
+BAG:hungwibu2 add 8xBó hoa hồng đỏ (old: 7) lydo: Đổi bó hoa hồng đỏ at 03/11/2023 5:13 AM
+BAG:hungwibu2 add 9xBó hoa hồng đỏ (old: 8) lydo: Đổi bó hoa hồng đỏ at 03/11/2023 5:13 AM
+BAG:hungwibu2 add 10xBó hoa hồng đỏ (old: 9) lydo: Đổi bó hoa hồng đỏ at 03/11/2023 5:13 AM
+BAG:hungwibu2 add 11xBó hoa hồng đỏ (old: 10) lydo: Đổi bó hoa hồng đỏ at 03/11/2023 5:13 AM
+BAG:hungwibu2 add 12xBó hoa hồng đỏ (old: 11) lydo: Đổi bó hoa hồng đỏ at 03/11/2023 5:13 AM
+BAG:hungwibu2 add 13xBó hoa hồng đỏ (old: 12) lydo: Đổi bó hoa hồng đỏ at 03/11/2023 5:13 AM
+BAG:hungwibu2 add 14xBó hoa hồng đỏ (old: 13) lydo: Đổi bó hoa hồng đỏ at 03/11/2023 5:13 AM
+BAG:hungwibu2 add 15xBó hoa hồng đỏ (old: 14) lydo: Đổi bó hoa hồng đỏ at 03/11/2023 5:13 AM
+BAG:hungwibu2 add 16xBó hoa hồng đỏ (old: 15) lydo: Đổi bó hoa hồng đỏ at 03/11/2023 5:13 AM
+BAG:hungwibu2 add 17xBó hoa hồng đỏ (old: 16) lydo: Đổi bó hoa hồng đỏ at 03/11/2023 5:13 AM
+BAG:hungwibu2 add 18xBó hoa hồng đỏ (old: 17) lydo: Đổi bó hoa hồng đỏ at 03/11/2023 5:13 AM
+BAG:hungwibu2 add 19xBó hoa hồng đỏ (old: 18) lydo: Đổi bó hoa hồng đỏ at 03/11/2023 5:13 AM
+BAG:hungwibu2 add 20xBó hoa hồng đỏ (old: 19) lydo: Đổi bó hoa hồng đỏ at 03/11/2023 5:13 AM
+BAG:hungwibu2 add 21xBó hoa hồng đỏ (old: 20) lydo: Đổi bó hoa hồng đỏ at 03/11/2023 5:13 AM
+BAG:hungwibu2 add 22xBó hoa hồng đỏ (old: 21) lydo: Đổi bó hoa hồng đỏ at 03/11/2023 5:14 AM
+BAG:hungwibu2 add 23xBó hoa hồng đỏ (old: 22) lydo: Đổi bó hoa hồng đỏ at 03/11/2023 5:14 AM
+BAG:hungwibu2 add 24xBó hoa hồng đỏ (old: 23) lydo: Đổi bó hoa hồng đỏ at 03/11/2023 5:14 AM
+BAG:hungwibu2 add 25xBó hoa hồng đỏ (old: 24) lydo: Đổi bó hoa hồng đỏ at 03/11/2023 5:14 AM
+BAG:hungwibu2 add 26xBó hoa hồng đỏ (old: 25) lydo: Đổi bó hoa hồng đỏ at 03/11/2023 5:14 AM
+BAG:hungwibu2 add 27xBó hoa hồng đỏ (old: 26) lydo: Đổi bó hoa hồng đỏ at 03/11/2023 5:14 AM
+BAG:hungwibu2 add 28xBó hoa hồng đỏ (old: 27) lydo: Đổi bó hoa hồng đỏ at 03/11/2023 5:14 AM
+BAG:hungwibu2 add 29xBó hoa hồng đỏ (old: 28) lydo: Đổi bó hoa hồng đỏ at 03/11/2023 5:14 AM
+BAG:hungwibu2 add 30xBó hoa hồng đỏ (old: 29) lydo: Đổi bó hoa hồng đỏ at 03/11/2023 5:14 AM
+BAG:hungwibu2 add 31xBó hoa hồng đỏ (old: 30) lydo: Đổi bó hoa hồng đỏ at 03/11/2023 5:14 AM
+BAG:hungwibu2 add 32xBó hoa hồng đỏ (old: 31) lydo: Đổi bó hoa hồng đỏ at 03/11/2023 5:14 AM
+BAG:hungwibu2 add 33xBó hoa hồng đỏ (old: 32) lydo: Đổi bó hoa hồng đỏ at 03/11/2023 5:14 AM
+BAG:hungwibu2 add 34xBó hoa hồng đỏ (old: 33) lydo: Đổi bó hoa hồng đỏ at 03/11/2023 5:14 AM
+BAG:hungwibu2 add 35xBó hoa hồng đỏ (old: 34) lydo: Đổi bó hoa hồng đỏ at 03/11/2023 5:14 AM
+BAG:hungwibu2 add 36xBó hoa hồng đỏ (old: 35) lydo: Đổi bó hoa hồng đỏ at 03/11/2023 5:14 AM
+BAG:hungwibu2 add 37xBó hoa hồng đỏ (old: 36) lydo: Đổi bó hoa hồng đỏ at 03/11/2023 5:14 AM
+BAG:hungwibu2 add 38xBó hoa hồng đỏ (old: 37) lydo: Đổi bó hoa hồng đỏ at 03/11/2023 5:14 AM
+BAG:hungwibu2 add 6xBó hoa hồng xanh (old: 5) lydo: Đổi bó hoa hồng xanh at 03/11/2023 5:15 AM
+BAG:hungwibu2 add 7xBó hoa hồng xanh (old: 6) lydo: Đổi bó hoa hồng xanh at 03/11/2023 5:15 AM
+BAG:hungwibu2 add 8xBó hoa hồng xanh (old: 7) lydo: Đổi bó hoa hồng xanh at 03/11/2023 5:15 AM
+BAG:hungwibu2 add 9xBó hoa hồng xanh (old: 8) lydo: Đổi bó hoa hồng xanh at 03/11/2023 5:15 AM
+BAG:hungwibu2 add 10xBó hoa hồng xanh (old: 9) lydo: Đổi bó hoa hồng xanh at 03/11/2023 5:15 AM
+BAG:hungwibu2 add 6xBó hoa hồng vàng (old: 5) lydo: Đổi bó hoa hồng đỏ at 03/11/2023 5:15 AM
+BAG:hungwibu2 add 7xBó hoa hồng vàng (old: 6) lydo: Đổi bó hoa hồng đỏ at 03/11/2023 5:15 AM
+BAG:hungwibu2 add 8xBó hoa hồng vàng (old: 7) lydo: Đổi bó hoa hồng đỏ at 03/11/2023 5:15 AM
+BAG:hungwibu2 add 9xBó hoa hồng vàng (old: 8) lydo: Đổi bó hoa hồng đỏ at 03/11/2023 5:15 AM
+BAG:hungwibu2 add 10xBó hoa hồng vàng (old: 9) lydo: Đổi bó hoa hồng đỏ at 03/11/2023 5:15 AM
+BAG:hungwibu2 add 1xGiỏ hoa lydo: Mua từ bill at 03/11/2023 5:15 AM
+BAG:hungwibu2 add 2xGiỏ hoa (old: 1) lydo: Mua từ bill at 03/11/2023 5:15 AM
+BAG:hungwibu2 add 3xGiỏ hoa (old: 2) lydo: Mua từ bill at 03/11/2023 5:15 AM
+BAG:hungwibu2 add 1xGiỏ hoa hồng đỏ lydo: Đổi giỏ hoa hồng đỏ at 03/11/2023 5:15 AM
+BAG:hungwibu2 add 1xGiỏ hoa hồng xanh lydo: Đổi giỏ hoa hồng xanh at 03/11/2023 5:15 AM
+BAG:hungwibu2 add 1xGiỏ hoa hồng vàng lydo: Đổi giỏ hoa hồng vàng at 03/11/2023 5:16 AM
+BAG:hungwibu2 add 1xHộp quà 8/3 lydo: Đổi hộp quà 8/3 at 03/11/2023 5:16 AM
+BAG:hungwibu2 add 1xNgọc Rồng 2 sao lydo: CSKB at 03/11/2023 5:16 AM
+BAG:hungwibu2 add 99xThỏi vàng lydo: Tách thỏi vàng at 03/11/2023 5:17 AM
+BAG:hungwibu2 add 2xSao pha lê lydo: Lấy từ rương qua người at 03/11/2023 5:20 AM
+BAG:hungwibu2 add 1xÁo vải thô lydo: Nhặt từ map at 03/11/2023 5:21 AM
+BAG:hungwibu2 add 1xRada cấp 1 lydo: Nhặt từ map at 03/11/2023 5:21 AM
+BAG:hungwibu2 add 1xGăng vải thô lydo: Nhặt từ map at 03/11/2023 5:21 AM
+BAG:hungwibu2 add 1xGăng vải thô lydo: Nhặt từ map at 03/11/2023 5:21 AM
+BAG:hungwibu2 add 928xHoa hồng vàng (old: 927) lydo: Nhặt từ map at 03/11/2023 5:21 AM
+BAG:hungwibu2 add 1xÁo vải thô lydo: Nhặt từ map at 03/11/2023 5:21 AM
+BAG:hungwibu2 add 1xQuần vải thô lydo: Nhặt từ map at 03/11/2023 5:22 AM
+BAG:hungwibu2 add 1xRada cấp 1 lydo: Lấy từ rương qua người at 03/11/2023 5:22 AM
+BAG:hungwibu2 add 99xNgọc Rồng 6 sao lydo: Lấy từ rương qua người at 03/11/2023 5:22 AM
+BAG:hungwibu2 add 1xĐá Saphia lydo: Nhặt từ map at 03/11/2023 5:23 AM
+BAG:hungwibu2 add 188xHoa hồng xanh (old: 187) lydo: Nhặt từ map at 03/11/2023 5:23 AM
+BAG:hungwibu2 add 189xHoa hồng xanh (old: 188) lydo: Nhặt từ map at 03/11/2023 5:24 AM
+BAG:hungwibu2 add 1xQuần vải thô lydo: Nhặt từ map at 03/11/2023 5:24 AM
+BAG:hungwibu2 add 929xHoa hồng vàng (old: 928) lydo: Nhặt từ map at 03/11/2023 5:24 AM
+BAG:hungwibu2 add 1041xHoa hồng đỏ (old: 1040) lydo: Nhặt từ map at 03/11/2023 5:24 AM
+BAG:hungwibu2 add 1042xHoa hồng đỏ (old: 1041) lydo: Nhặt từ map at 03/11/2023 5:24 AM
+BAG:hungwibu2 add 1xGiầy vải thô lydo: Nhặt từ map at 03/11/2023 5:24 AM
+BAG:hungwibu2 add 190xHoa hồng xanh (old: 189) lydo: Nhặt từ map at 03/11/2023 5:25 AM
+BAG:hungwibu2 add 191xHoa hồng xanh (old: 190) lydo: Nhặt từ map at 03/11/2023 5:25 AM
+BAG:hungwibu2 add 1xRada cấp 1 lydo: Nhặt từ map at 03/11/2023 5:25 AM
+BAG:hungwibu2 add 1043xHoa hồng đỏ (old: 1042) lydo: Nhặt từ map at 03/11/2023 5:25 AM
+BAG:hungwibu2 add 1xÁo vải thô lydo: Nhặt từ map at 03/11/2023 5:25 AM
+BAG:hungwibu2 add 930xHoa hồng vàng (old: 929) lydo: Nhặt từ map at 03/11/2023 5:25 AM
+BAG:hungwibu2 add 931xHoa hồng vàng (old: 930) lydo: Nhặt từ map at 03/11/2023 5:25 AM
+BAG:hungwibu2 add 1xQuần vải thô lydo: Nhặt từ map at 03/11/2023 5:26 AM
+BAG:hungwibu2 add 1xGăng vải thô lydo: Nhặt từ map at 03/11/2023 5:26 AM
+BAG:hungwibu2 add 1xĐá Titan lydo: Nhặt từ map at 03/11/2023 5:26 AM
+BAG:hungwibu2 add 1xGăng vải thô lydo: Nhặt từ map at 03/11/2023 5:26 AM
+BAG:hungwibu2 add 932xHoa hồng vàng (old: 931) lydo: Nhặt từ map at 03/11/2023 5:26 AM
+BAG:hungwibu2 add 933xHoa hồng vàng (old: 932) lydo: Nhặt từ map at 03/11/2023 5:26 AM
+BAG:hungwibu2 add 1xGiầy vải thô lydo: Nhặt từ map at 03/11/2023 5:27 AM
+BAG:hungwibu2 add 2xĐá Saphia (old: 1) lydo: Nhặt từ map at 03/11/2023 5:27 AM
+BAG:hungwibu2 add 1xĐá thạch anh tím lydo: Nhặt từ map at 03/11/2023 5:27 AM
+BAG:hungwibu2 add 934xHoa hồng vàng (old: 933) lydo: Nhặt từ map at 03/11/2023 5:27 AM
+BAG:hungwibu2 add 192xHoa hồng xanh (old: 191) lydo: Nhặt từ map at 03/11/2023 5:27 AM
+BAG:hungwibu2 add 1xÁo vải thô lydo: Nhặt từ map at 03/11/2023 5:27 AM
+BAG:hungwibu2 add 1044xHoa hồng đỏ (old: 1043) lydo: Nhặt từ map at 03/11/2023 5:27 AM
+BAG:hungwibu2 add 1xGiầy vải thô lydo: Nhặt từ map at 03/11/2023 5:27 AM
+BAG:hungwibu2 add 193xHoa hồng xanh (old: 192) lydo: Nhặt từ map at 03/11/2023 5:27 AM
+BAG:hungwibu2 add 1xĐá lục bảo lydo: Nhặt từ map at 03/11/2023 5:27 AM
+BAG:hungwibu2 add 1xÁo vải thô lydo: Nhặt từ map at 03/11/2023 5:27 AM
+BAG:hungwibu2 add 935xHoa hồng vàng (old: 934) lydo: Nhặt từ map at 03/11/2023 5:27 AM
+BAG:hungwibu2 add 936xHoa hồng vàng (old: 935) lydo: Nhặt từ map at 03/11/2023 5:28 AM
+BAG:hungwibu2 add 1xGăng vải thô lydo: Nhặt từ map at 03/11/2023 5:28 AM
+BAG:hungwibu2 add 937xHoa hồng vàng (old: 936) lydo: Nhặt từ map at 03/11/2023 5:28 AM
+BAG:hungwibu2 add 1xGiầy vải thô lydo: Nhặt từ map at 03/11/2023 5:28 AM
+BAG:hungwibu2 add 938xHoa hồng vàng (old: 937) lydo: Nhặt từ map at 03/11/2023 5:28 AM
+BAG:hungwibu2 add 194xHoa hồng xanh (old: 193) lydo: Nhặt từ map at 03/11/2023 5:28 AM
+BAG:hungwibu2 add 1xGiầy vải thô lydo: Nhặt từ map at 03/11/2023 5:28 AM
+BAG:hungwibu2 add 1xĐá Saphia lydo: Nhặt từ map at 03/11/2023 5:28 AM
+BAG:hungwibu2 add 939xHoa hồng vàng (old: 938) lydo: Nhặt từ map at 03/11/2023 5:28 AM
+BAG:hungwibu2 add 195xHoa hồng xanh (old: 194) lydo: Nhặt từ map at 03/11/2023 5:28 AM
+BAG:hungwibu2 add 940xHoa hồng vàng (old: 939) lydo: Nhặt từ map at 03/11/2023 5:28 AM
+BAG:hungwibu2 add 1xÁo vải thô lydo: Nhặt từ map at 03/11/2023 5:28 AM
+BAG:hungwibu2 add 1xRada cấp 1 lydo: Nhặt từ map at 03/11/2023 5:28 AM
+BAG:hungwibu2 add 196xHoa hồng xanh (old: 195) lydo: Nhặt từ map at 03/11/2023 5:28 AM
+BAG:hungwibu2 add 1xGiầy vải thô lydo: Nhặt từ map at 03/11/2023 5:28 AM
+BAG:hungwibu2 add 1045xHoa hồng đỏ (old: 1044) lydo: Nhặt từ map at 03/11/2023 5:28 AM
+BAG:hungwibu2 add 1xQuần vải thô lydo: Nhặt từ map at 03/11/2023 5:28 AM
+BAG:hungwibu2 add 1xĐá Ruby lydo: Nhặt từ map at 03/11/2023 5:28 AM
+BAG:hungwibu2 add 1xGăng vải thô lydo: Nhặt từ map at 03/11/2023 5:28 AM
+BAG:hungwibu2 add 2xĐá Ruby (old: 1) lydo: Nhặt từ map at 03/11/2023 5:28 AM
+BAG:hungwibu2 add 1046xHoa hồng đỏ (old: 1045) lydo: Nhặt từ map at 03/11/2023 5:28 AM
+BAG:hungwibu2 add 1xÁo vải thô lydo: Nhặt từ map at 03/11/2023 5:28 AM
+BAG:hungwibu2 add 1xĐá lục bảo lydo: Nhặt từ map at 03/11/2023 5:29 AM
+BAG:hungwibu2 add 1047xHoa hồng đỏ (old: 1046) lydo: Nhặt từ map at 03/11/2023 5:29 AM
+BAG:hungwibu2 add 941xHoa hồng vàng (old: 940) lydo: Nhặt từ map at 03/11/2023 5:29 AM
+BAG:hungwibu2 add 1048xHoa hồng đỏ (old: 1047) lydo: Nhặt từ map at 03/11/2023 5:29 AM
+BAG:hungwibu2 add 1xQuần vải thô lydo: Nhặt từ map at 03/11/2023 5:29 AM
+BAG:hungwibu2 add 942xHoa hồng vàng (old: 941) lydo: Nhặt từ map at 03/11/2023 5:29 AM
+BAG:hungwibu2 add 1xRada cấp 1 lydo: Nhặt từ map at 03/11/2023 5:29 AM
+BAG:hungwibu2 add 943xHoa hồng vàng (old: 942) lydo: Nhặt từ map at 03/11/2023 5:29 AM
+BAG:hungwibu2 add 1049xHoa hồng đỏ (old: 1048) lydo: Nhặt từ map at 03/11/2023 5:29 AM
+BAG:hungwibu2 add 1xGiầy vải thô lydo: Nhặt từ map at 03/11/2023 5:29 AM
+BAG:hungwibu2 add 197xHoa hồng xanh (old: 196) lydo: Nhặt từ map at 03/11/2023 5:29 AM
+BAG:hungwibu2 add 1050xHoa hồng đỏ (old: 1049) lydo: Nhặt từ map at 03/11/2023 5:29 AM
+BAG:hungwibu2 add 1xĐá lục bảo lydo: Nhặt từ map at 03/11/2023 5:29 AM
+BAG:hungwibu2 add 1051xHoa hồng đỏ (old: 1050) lydo: Nhặt từ map at 03/11/2023 5:29 AM
+BAG:hungwibu2 add 1xÁo vải thô lydo: Nhặt từ map at 03/11/2023 5:29 AM
+BAG:hungwibu2 add 944xHoa hồng vàng (old: 943) lydo: Nhặt từ map at 03/11/2023 5:29 AM
+BAG:hungwibu2 add 1052xHoa hồng đỏ (old: 1051) lydo: Nhặt từ map at 03/11/2023 5:29 AM
+BAG:hungwibu2 add 1053xHoa hồng đỏ (old: 1052) lydo: Nhặt từ map at 03/11/2023 5:29 AM
+BAG:hungwibu2 add 1xGiầy vải thô lydo: Nhặt từ map at 03/11/2023 5:29 AM
+BAG:hungwibu2 add 1054xHoa hồng đỏ (old: 1053) lydo: Nhặt từ map at 03/11/2023 5:29 AM
+BAG:hungwibu2 add 945xHoa hồng vàng (old: 944) lydo: Nhặt từ map at 03/11/2023 5:29 AM
+BAG:hungwibu2 add 946xHoa hồng vàng (old: 945) lydo: Nhặt từ map at 03/11/2023 5:29 AM
+BAG:hungwibu2 add 947xHoa hồng vàng (old: 946) lydo: Nhặt từ map at 03/11/2023 5:29 AM
+BAG:hungwibu2 add 1xGiầy vải thô lydo: Nhặt từ map at 03/11/2023 5:30 AM
+BAG:hungwibu2 add 1055xHoa hồng đỏ (old: 1054) lydo: Nhặt từ map at 03/11/2023 5:30 AM
+BAG:hungwibu2 add 198xHoa hồng xanh (old: 197) lydo: Nhặt từ map at 03/11/2023 5:30 AM
+BAG:hungwibu2 add 1xQuần vải thô lydo: Nhặt từ map at 03/11/2023 5:30 AM
+BAG:hungwibu2 add 199xHoa hồng xanh (old: 198) lydo: Nhặt từ map at 03/11/2023 5:30 AM
+BAG:hungwibu2 add 1xGăng vải thô lydo: Nhặt từ map at 03/11/2023 5:30 AM
+BAG:hungwibu2 add 1xGăng vải thô lydo: Nhặt từ map at 03/11/2023 5:30 AM
+BAG:hungwibu2 add 1xMảnh Quỷ đất lydo: Nhặt từ map at 03/11/2023 5:30 AM
+BAG:hungwibu2 add 1xQuần vải thô lydo: Nhặt từ map at 03/11/2023 5:30 AM
+BAG:hungwibu2 add 948xHoa hồng vàng (old: 947) lydo: Nhặt từ map at 03/11/2023 5:30 AM
+BAG:hungwibu2 add 949xHoa hồng vàng (old: 948) lydo: Nhặt từ map at 03/11/2023 5:30 AM
+BAG:hungwibu2 add 950xHoa hồng vàng (old: 949) lydo: Nhặt từ map at 03/11/2023 5:30 AM
+BAG:hungwibu2 add 1xGăng vải thô lydo: Nhặt từ map at 03/11/2023 5:30 AM
+BAG:hungwibu2 add 1xGiầy vải thô lydo: Nhặt từ map at 03/11/2023 5:30 AM
+BAG:hungwibu2 add 951xHoa hồng vàng (old: 950) lydo: Nhặt từ map at 03/11/2023 5:30 AM
+BAG:hungwibu2 add 1xÁo vải thô lydo: Nhặt từ map at 03/11/2023 5:30 AM
+BAG:hungwibu2 add 1056xHoa hồng đỏ (old: 1055) lydo: Nhặt từ map at 03/11/2023 5:30 AM
+BAG:hungwibu2 add 952xHoa hồng vàng (old: 951) lydo: Nhặt từ map at 03/11/2023 5:30 AM
+BAG:hungwibu2 add 953xHoa hồng vàng (old: 952) lydo: Nhặt từ map at 03/11/2023 5:30 AM
+BAG:hungwibu2 add 1xGiầy vải thô lydo: Nhặt từ map at 03/11/2023 5:30 AM
+BAG:hungwibu2 add 1xGiầy vải thô lydo: Nhặt từ map at 03/11/2023 5:30 AM
+BAG:hungwibu2 add 1xGiầy vải thô lydo: Nhặt từ map at 03/11/2023 5:30 AM
+BAG:hungwibu2 add 1xGăng vải thô lydo: Nhặt từ map at 03/11/2023 5:30 AM
+BAG:hungwibu2 add 954xHoa hồng vàng (old: 953) lydo: Nhặt từ map at 03/11/2023 5:30 AM
+BAG:hungwibu2 add 1xQuần vải thô lydo: Nhặt từ map at 03/11/2023 5:31 AM
+BAG:hungwibu2 add 1xĐá Ruby lydo: Nhặt từ map at 03/11/2023 5:31 AM
+BAG:hungwibu2 add 1xGăng vải thô lydo: Nhặt từ map at 03/11/2023 5:31 AM
+BAG:hungwibu2 add 200xHoa hồng xanh (old: 199) lydo: Nhặt từ map at 03/11/2023 5:31 AM
+BAG:hungwibu2 add 1xGăng vải thô lydo: Nhặt từ map at 03/11/2023 5:31 AM
+BAG:hungwibu2 add 201xHoa hồng xanh (old: 200) lydo: Nhặt từ map at 03/11/2023 5:31 AM
+BAG:hungwibu2 add 1xGăng vải thô lydo: Nhặt từ map at 03/11/2023 5:31 AM
+BAG:hungwibu2 add 1xRada cấp 1 lydo: Nhặt từ map at 03/11/2023 5:31 AM
+BAG:hungwibu2 add 1xĐá Saphia lydo: Nhặt từ map at 03/11/2023 5:31 AM
+BAG:hungwibu2 add 1xQuần vải thô lydo: Nhặt từ map at 03/11/2023 5:31 AM
+BAG:hungwibu2 add 1xÁo vải thô lydo: Nhặt từ map at 03/11/2023 5:31 AM
+BAG:hungwibu2 add 1xQuần vải thô lydo: Nhặt từ map at 03/11/2023 5:31 AM
+BAG:hungwibu2 add 1057xHoa hồng đỏ (old: 1056) lydo: Nhặt từ map at 03/11/2023 5:31 AM
+BAG:hungwibu2 add 1xRada cấp 1 lydo: Nhặt từ map at 03/11/2023 5:31 AM
+BAG:hungwibu2 add 955xHoa hồng vàng (old: 954) lydo: Nhặt từ map at 03/11/2023 5:31 AM
+BAG:hungwibu2 add 1xGăng vải thô lydo: Nhặt từ map at 03/11/2023 5:31 AM
+BAG:hungwibu2 add 956xHoa hồng vàng (old: 955) lydo: Nhặt từ map at 03/11/2023 5:31 AM
+BAG:hungwibu2 add 1058xHoa hồng đỏ (old: 1057) lydo: Nhặt từ map at 03/11/2023 5:31 AM
+BAG:hungwibu2 add 1xGăng vải thô lydo: Nhặt từ map at 03/11/2023 5:31 AM
+BAG:hungwibu2 add 1xÁo vải thô lydo: Nhặt từ map at 03/11/2023 5:31 AM
+BAG:hungwibu2 add 957xHoa hồng vàng (old: 956) lydo: Nhặt từ map at 03/11/2023 5:31 AM
+BAG:hungwibu2 add 2xĐá Saphia (old: 1) lydo: Nhặt từ map at 03/11/2023 5:32 AM
+BAG:hungwibu2 add 1xGăng vải thô lydo: Nhặt từ map at 03/11/2023 5:32 AM
+BAG:hungwibu2 add 202xHoa hồng xanh (old: 201) lydo: Nhặt từ map at 03/11/2023 5:32 AM
+BAG:hungwibu2 add 1xÁo vải thô lydo: Nhặt từ map at 03/11/2023 5:32 AM
+BAG:hungwibu2 add 1xGiầy vải thô lydo: Nhặt từ map at 03/11/2023 5:32 AM
+BAG:hungwibu2 add 1xÁo vải thô lydo: Nhặt từ map at 03/11/2023 5:32 AM
+BAG:hungwibu2 add 958xHoa hồng vàng (old: 957) lydo: Nhặt từ map at 03/11/2023 5:32 AM
+BAG:hungwibu2 add 959xHoa hồng vàng (old: 958) lydo: Nhặt từ map at 03/11/2023 5:32 AM
+BAG:hungwibu2 add 1xQuần vải thô lydo: Nhặt từ map at 03/11/2023 5:32 AM
+BAG:hungwibu2 add 203xHoa hồng xanh (old: 202) lydo: Nhặt từ map at 03/11/2023 5:32 AM
+BAG:hungwibu2 add 1xÁo vải thô lydo: Nhặt từ map at 03/11/2023 5:32 AM
+BAG:hungwibu2 add 1xMảnh Quỷ đất lydo: Nhặt từ map at 03/11/2023 5:32 AM
+BAG:hungwibu2 add 1xĐá Saphia lydo: Nhặt từ map at 03/11/2023 5:32 AM
+BAG:hungwibu2 add 1xÁo vải thô lydo: Nhặt từ map at 03/11/2023 5:32 AM
+BAG:hungwibu2 add 204xHoa hồng xanh (old: 203) lydo: Nhặt từ map at 03/11/2023 5:32 AM
+BAG:hungwibu2 add 205xHoa hồng xanh (old: 204) lydo: Nhặt từ map at 03/11/2023 5:32 AM
+BAG:hungwibu2 add 1059xHoa hồng đỏ (old: 1058) lydo: Nhặt từ map at 03/11/2023 5:33 AM
+BAG:hungwibu2 add 1060xHoa hồng đỏ (old: 1059) lydo: Nhặt từ map at 03/11/2023 5:33 AM
+BAG:hungwibu2 add 1xGiầy vải thô lydo: Nhặt từ map at 03/11/2023 5:33 AM
+BAG:hungwibu2 add 960xHoa hồng vàng (old: 959) lydo: Nhặt từ map at 03/11/2023 5:33 AM
+BAG:hungwibu2 add 1061xHoa hồng đỏ (old: 1060) lydo: Nhặt từ map at 03/11/2023 5:33 AM
+BAG:hungwibu2 add 206xHoa hồng xanh (old: 205) lydo: Nhặt từ map at 03/11/2023 5:33 AM
+BAG:hungwibu2 add 1xĐá Ruby lydo: Nhặt từ map at 03/11/2023 5:33 AM
+BAG:hungwibu2 add 1062xHoa hồng đỏ (old: 1061) lydo: Nhặt từ map at 03/11/2023 5:33 AM
+BAG:hungwibu2 add 1063xHoa hồng đỏ (old: 1062) lydo: Nhặt từ map at 03/11/2023 5:33 AM
+BAG:hungwibu2 add 1xÁo vải thô lydo: Nhặt từ map at 03/11/2023 5:33 AM
+BAG:hungwibu2 add 2xMảnh Quỷ đất (old: 1) lydo: Nhặt từ map at 03/11/2023 5:33 AM
+BAG:hungwibu2 add 1xQuần vải thô lydo: Nhặt từ map at 03/11/2023 5:33 AM
+BAG:hungwibu2 add 1xRada cấp 1 lydo: Nhặt từ map at 03/11/2023 5:33 AM
+BAG:hungwibu2 add 1xRada cấp 1 lydo: Nhặt từ map at 03/11/2023 5:33 AM
+BAG:hungwibu2 add 1xRada cấp 1 lydo: Nhặt từ map at 03/11/2023 5:33 AM
+BAG:hungwibu2 add 207xHoa hồng xanh (old: 206) lydo: Nhặt từ map at 03/11/2023 5:33 AM
+BAG:hungwibu2 add 1xGăng vải thô lydo: Nhặt từ map at 03/11/2023 5:33 AM
+BAG:hungwibu2 add 1xĐá thạch anh tím lydo: Nhặt từ map at 03/11/2023 5:33 AM
+BAG:hungwibu2 add 1xĐá lục bảo lydo: Nhặt từ map at 03/11/2023 5:33 AM
+BAG:hungwibu2 add 1xÁo vải thô lydo: Nhặt từ map at 03/11/2023 5:33 AM
+BAG:hungwibu2 add 1064xHoa hồng đỏ (old: 1063) lydo: Nhặt từ map at 03/11/2023 5:33 AM
+BAG:hungwibu2 add 1xQuần vải thô lydo: Nhặt từ map at 03/11/2023 5:34 AM
+BAG:hungwibu2 add 1xQuần vải thô lydo: Nhặt từ map at 03/11/2023 5:34 AM
+BAG:hungwibu2 add 1xGăng vải thô lydo: Nhặt từ map at 03/11/2023 5:34 AM
+BAG:hungwibu2 add 961xHoa hồng vàng (old: 960) lydo: Nhặt từ map at 03/11/2023 5:34 AM
+BAG:hungwibu2 add 1065xHoa hồng đỏ (old: 1064) lydo: Nhặt từ map at 03/11/2023 5:34 AM
+BAG:hungwibu2 add 1066xHoa hồng đỏ (old: 1065) lydo: Nhặt từ map at 03/11/2023 5:34 AM
+BAG:hungwibu2 add 1067xHoa hồng đỏ (old: 1066) lydo: Nhặt từ map at 03/11/2023 5:34 AM
+BAG:hungwibu2 add 1068xHoa hồng đỏ (old: 1067) lydo: Nhặt từ map at 03/11/2023 5:34 AM
+BAG:hungwibu2 add 1069xHoa hồng đỏ (old: 1068) lydo: Nhặt từ map at 03/11/2023 5:34 AM
+BAG:hungwibu2 add 99xNgọc Rồng 4 sao lydo: Lấy từ rương qua người at 03/11/2023 5:46 AM
+BAG:hungwibu2 add 99xNgọc Rồng 4 sao lydo: Lấy từ rương qua người at 03/11/2023 5:46 AM
+BAG:hungwibu2 add 99xNgọc Rồng 4 sao lydo: Lấy từ rương qua người at 03/11/2023 5:46 AM
+BAG:hungwibu2 add 31xNgọc Rồng 4 sao lydo: Lấy từ rương qua người at 03/11/2023 5:46 AM
+BAG:hungwibu2 add 1xNgọc Rồng 3 sao lydo: Nhập ngọc at 03/11/2023 5:46 AM
+BAG:hungwibu2 add 2xNgọc Rồng 3 sao (old: 1) lydo: Nhập ngọc at 03/11/2023 5:46 AM
+BAG:hungwibu2 add 3xNgọc Rồng 3 sao (old: 2) lydo: Nhập ngọc at 03/11/2023 5:46 AM
+BAG:hungwibu2 add 4xNgọc Rồng 3 sao (old: 3) lydo: Nhập ngọc at 03/11/2023 5:46 AM
+BAG:hungwibu2 add 5xNgọc Rồng 3 sao (old: 4) lydo: Nhập ngọc at 03/11/2023 5:46 AM
+BAG:hungwibu2 add 6xNgọc Rồng 3 sao (old: 5) lydo: Nhập ngọc at 03/11/2023 5:46 AM
+BAG:hungwibu2 add 7xNgọc Rồng 3 sao (old: 6) lydo: Nhập ngọc at 03/11/2023 5:46 AM
+BAG:hungwibu2 add 8xNgọc Rồng 3 sao (old: 7) lydo: Nhập ngọc at 03/11/2023 5:46 AM
+BAG:hungwibu2 add 9xNgọc Rồng 3 sao (old: 8) lydo: Nhập ngọc at 03/11/2023 5:46 AM
+BAG:hungwibu2 add 10xNgọc Rồng 3 sao (old: 9) lydo: Nhập ngọc at 03/11/2023 5:46 AM
+BAG:hungwibu2 add 11xNgọc Rồng 3 sao (old: 10) lydo: Nhập ngọc at 03/11/2023 5:46 AM
+BAG:hungwibu2 add 12xNgọc Rồng 3 sao (old: 11) lydo: Nhập ngọc at 03/11/2023 5:46 AM
+BAG:hungwibu2 add 13xNgọc Rồng 3 sao (old: 12) lydo: Nhập ngọc at 03/11/2023 5:46 AM
+BAG:hungwibu2 add 14xNgọc Rồng 3 sao (old: 13) lydo: Nhập ngọc at 03/11/2023 5:46 AM
+BAG:hungwibu2 add 15xNgọc Rồng 3 sao (old: 14) lydo: Nhập ngọc at 03/11/2023 5:46 AM
+BAG:hungwibu2 add 16xNgọc Rồng 3 sao (old: 15) lydo: Nhập ngọc at 03/11/2023 5:47 AM
+BAG:hungwibu2 add 17xNgọc Rồng 3 sao (old: 16) lydo: Nhập ngọc at 03/11/2023 5:47 AM
+BAG:hungwibu2 add 18xNgọc Rồng 3 sao (old: 17) lydo: Nhập ngọc at 03/11/2023 5:47 AM
+BAG:hungwibu2 add 19xNgọc Rồng 3 sao (old: 18) lydo: Nhập ngọc at 03/11/2023 5:47 AM
+BAG:hungwibu2 add 20xNgọc Rồng 3 sao (old: 19) lydo: Nhập ngọc at 03/11/2023 5:47 AM
+BAG:hungwibu2 add 21xNgọc Rồng 3 sao (old: 20) lydo: Nhập ngọc at 03/11/2023 5:47 AM
+BAG:hungwibu2 add 22xNgọc Rồng 3 sao (old: 21) lydo: Nhập ngọc at 03/11/2023 5:47 AM
+BAG:hungwibu2 add 23xNgọc Rồng 3 sao (old: 22) lydo: Nhập ngọc at 03/11/2023 5:47 AM
+BAG:hungwibu2 add 24xNgọc Rồng 3 sao (old: 23) lydo: Nhập ngọc at 03/11/2023 5:47 AM
+BAG:hungwibu2 add 25xNgọc Rồng 3 sao (old: 24) lydo: Nhập ngọc at 03/11/2023 5:47 AM
+BAG:hungwibu2 add 26xNgọc Rồng 3 sao (old: 25) lydo: Nhập ngọc at 03/11/2023 5:47 AM
+BAG:hungwibu2 add 27xNgọc Rồng 3 sao (old: 26) lydo: Nhập ngọc at 03/11/2023 5:47 AM
+BAG:hungwibu2 add 28xNgọc Rồng 3 sao (old: 27) lydo: Nhập ngọc at 03/11/2023 5:47 AM
+BAG:hungwibu2 add 29xNgọc Rồng 3 sao (old: 28) lydo: Nhập ngọc at 03/11/2023 5:47 AM
+BAG:hungwibu2 add 30xNgọc Rồng 3 sao (old: 29) lydo: Nhập ngọc at 03/11/2023 5:47 AM
+BAG:hungwibu2 add 31xNgọc Rồng 3 sao (old: 30) lydo: Nhập ngọc at 03/11/2023 5:47 AM
+BAG:hungwibu2 add 32xNgọc Rồng 3 sao (old: 31) lydo: Nhập ngọc at 03/11/2023 5:47 AM
+BAG:hungwibu2 add 33xNgọc Rồng 3 sao (old: 32) lydo: Nhập ngọc at 03/11/2023 5:47 AM
+BAG:hungwibu2 add 34xNgọc Rồng 3 sao (old: 33) lydo: Nhập ngọc at 03/11/2023 5:47 AM
+BAG:hungwibu2 add 35xNgọc Rồng 3 sao (old: 34) lydo: Nhập ngọc at 03/11/2023 5:47 AM
+BAG:hungwibu2 add 36xNgọc Rồng 3 sao (old: 35) lydo: Nhập ngọc at 03/11/2023 5:47 AM
+BAG:hungwibu2 add 37xNgọc Rồng 3 sao (old: 36) lydo: Nhập ngọc at 03/11/2023 5:47 AM
+BAG:hungwibu2 add 38xNgọc Rồng 3 sao (old: 37) lydo: Nhập ngọc at 03/11/2023 5:47 AM
+BAG:hungwibu2 add 39xNgọc Rồng 3 sao (old: 38) lydo: Nhập ngọc at 03/11/2023 5:47 AM
+BAG:hungwibu2 add 40xNgọc Rồng 3 sao (old: 39) lydo: Nhập ngọc at 03/11/2023 5:47 AM
+BAG:hungwibu2 add 41xNgọc Rồng 3 sao (old: 40) lydo: Nhập ngọc at 03/11/2023 5:47 AM
+BAG:hungwibu2 add 42xNgọc Rồng 3 sao (old: 41) lydo: Nhập ngọc at 03/11/2023 5:47 AM
+BAG:hungwibu2 add 43xNgọc Rồng 3 sao (old: 42) lydo: Nhập ngọc at 03/11/2023 5:47 AM
+BAG:hungwibu2 add 44xNgọc Rồng 3 sao (old: 43) lydo: Nhập ngọc at 03/11/2023 5:47 AM
+BAG:hungwibu2 add 45xNgọc Rồng 3 sao (old: 44) lydo: Nhập ngọc at 03/11/2023 5:47 AM
+BAG:hungwibu2 add 46xNgọc Rồng 3 sao (old: 45) lydo: Nhập ngọc at 03/11/2023 5:47 AM
+BAG:hungwibu2 add 1xGiáp tập luyện cấp 3 lydo: Lấy từ body vào hành trang at 03/11/2023 5:53 AM
+BAG:hungwibu2 add 1xÁo vải thô lydo: Lấy từ body đệ vào hành trang at 03/11/2023 4:14 PM
+BAG:hungwibu2 add 1xQuần vải thô lydo: Lấy từ body đệ vào hành trang at 03/11/2023 4:14 PM
+BAG:hungwibu2 add 1xGăng vải thô lydo: Lấy từ body đệ vào hành trang at 03/11/2023 4:14 PM
+BAG:hungwibu2 add 1xGiầy vải thô lydo: Lấy từ body đệ vào hành trang at 03/11/2023 4:14 PM
+BAG:hungwibu2 add 1xRada cấp 1 lydo: Lấy từ body đệ vào hành trang at 03/11/2023 4:14 PM
+BAG:hungwibu2 add 1xCT Genma 01 lydo: Lấy từ body đệ vào hành trang at 03/11/2023 4:14 PM
+BAG:hungwibu2 add 1xNâng cấp kỹ năng 1 đệ tử lydo: Mua từ cửa hàng at 03/11/2023 4:15 PM
+BAG:hungwibu2 add 2xNâng cấp kỹ năng 1 đệ tử (old: 1) lydo: Mua từ cửa hàng at 03/11/2023 4:15 PM
+BAG:hungwibu2 add 3xNâng cấp kỹ năng 1 đệ tử (old: 2) lydo: Mua từ cửa hàng at 03/11/2023 4:15 PM
+BAG:hungwibu2 add 4xNâng cấp kỹ năng 1 đệ tử (old: 3) lydo: Mua từ cửa hàng at 03/11/2023 4:15 PM
+BAG:hungwibu2 add 1xGăng da Xayda lydo: Mua từ cửa hàng at 03/11/2023 4:54 PM
+BAG:hungwibu2 add 1xGăng lông đỏ lydo: Mua từ cửa hàng at 03/11/2023 4:54 PM
+BAG:hungwibu2 add 1xGiáp tập luyện cấp 3 lydo: Lấy từ body vào hành trang at 03/11/2023 4:57 PM
+BAG:hungwibu2 add 1xĐá thạch anh tím lydo: Nhặt từ map at 03/11/2023 4:57 PM
+BAG:hungwibu2 add 962xHoa hồng vàng (old: 961) lydo: Nhặt từ map at 03/11/2023 4:57 PM
+BAG:hungwibu2 add 963xHoa hồng vàng (old: 962) lydo: Nhặt từ map at 03/11/2023 6:00 PM
+BAG:hungwibu2 add 1xNâng cấp kỹ năng 2 đệ tử lydo: Mua từ cửa hàng at 03/11/2023 6:00 PM
+BAG:hungwibu2 add 2xNâng cấp kỹ năng 2 đệ tử (old: 1) lydo: Mua từ cửa hàng at 03/11/2023 6:00 PM
+BAG:hungwibu2 add 3xNâng cấp kỹ năng 2 đệ tử (old: 2) lydo: Mua từ cửa hàng at 03/11/2023 6:00 PM
+BAG:hungwibu2 add 4xNâng cấp kỹ năng 2 đệ tử (old: 3) lydo: Mua từ cửa hàng at 03/11/2023 6:00 PM
+BAG:hungwibu2 add 5xNâng cấp kỹ năng 2 đệ tử (old: 4) lydo: Mua từ cửa hàng at 03/11/2023 6:00 PM
+BAG:hungwibu2 add 6xNâng cấp kỹ năng 2 đệ tử (old: 5) lydo: Mua từ cửa hàng at 03/11/2023 6:00 PM
+BAG:hungwibu2 add 1xQuần vải thô lydo: Lấy từ body đệ vào hành trang at 03/11/2023 6:02 PM
+BAG:hungwibu2 add 1xGăng lông đỏ lydo: Lấy từ body đệ vào hành trang at 03/11/2023 6:02 PM
+BAG:hungwibu2 add 1xÁo vải thô lydo: Lấy từ body đệ vào hành trang at 03/11/2023 6:02 PM
+BAG:hungwibu2 add 1xCT Genma 01 lydo: Lấy từ body đệ vào hành trang at 03/11/2023 6:02 PM
+BAG:hungwibu2 add 1xRada cấp 1 lydo: Lấy từ body đệ vào hành trang at 03/11/2023 6:02 PM
+BAG:hungwibu2 add 1xGiầy vải thô lydo: Lấy từ body đệ vào hành trang at 03/11/2023 6:02 PM
+BAG:hungwibu2 add 99xNgọc Rồng 5 sao lydo: Lấy từ rương qua người at 03/11/2023 6:03 PM
+BAG:hungwibu2 add 6xNgọc Rồng 4 sao lydo: Lấy từ rương qua người at 03/11/2023 6:03 PM
+BAG:hungwibu2 add 52xNgọc Rồng 5 sao lydo: Lấy từ rương qua người at 03/11/2023 6:03 PM
+BAG:hungwibu2 add 7xNgọc Rồng 2 sao lydo: Lấy từ rương qua người at 03/11/2023 6:04 PM
+BAG:hungwibu2 add 47xNgọc Rồng 3 sao (old: 20) lydo: Lấy từ rương qua người at 03/11/2023 6:04 PM
+BAG:hungwibu2 add 8xNgọc Rồng 2 sao (old: 7) lydo: Nhập ngọc at 03/11/2023 6:04 PM
+BAG:hungwibu2 add 1xNgọc Rồng 1 sao lydo: Nhập ngọc at 03/11/2023 6:04 PM
+BAG:hungwibu2 add 1xNgọc Rồng 6 sao lydo: Lấy từ lucky box at 03/11/2023 6:05 PM
+BAG:hungwibu2 add 1xNgọc Rồng 7 sao lydo: Lấy từ lucky box at 03/11/2023 6:09 PM
+BAG:hungwibu2 add 7xĐậu thần cấp 10 lydo: Lấy từ rương qua người at 03/11/2023 6:10 PM
+BAG:hungwibu2 add 99xĐậu thần cấp 10 (old: 86) lydo: Lấy từ rương qua người at 03/11/2023 6:10 PM
+BAG:hungwibu2 add 1xPhóng lợn lydo: Lấy từ rương qua người at 03/11/2023 6:10 PM
+BAG:hungwibu2 add 1xNâng cấp kỹ năng 1 đệ tử lydo: Mua từ cửa hàng at 03/11/2023 6:12 PM
+BAG:hungwibu2 add 2xNâng cấp kỹ năng 1 đệ tử (old: 1) lydo: Mua từ cửa hàng at 03/11/2023 6:12 PM
+BAG:hungwibu2 add 3xNâng cấp kỹ năng 1 đệ tử (old: 2) lydo: Mua từ cửa hàng at 03/11/2023 6:12 PM
+BAG:hungwibu2 add 4xNâng cấp kỹ năng 1 đệ tử (old: 3) lydo: Mua từ cửa hàng at 03/11/2023 6:12 PM
+BAG:hungwibu2 add 5xNâng cấp kỹ năng 1 đệ tử (old: 4) lydo: Mua từ cửa hàng at 03/11/2023 6:12 PM
+BAG:hungwibu2 add 6xNâng cấp kỹ năng 1 đệ tử (old: 5) lydo: Mua từ cửa hàng at 03/11/2023 6:12 PM
+BAG:hungwibu2 add 1xĐặt tên đệ tử lydo: Mua từ cửa hàng at 03/11/2023 6:12 PM
+BAG:hungwibu2 add 964xHoa hồng vàng (old: 963) lydo: Nhặt từ map at 03/11/2023 8:34 PM
+BAG:hungwibu2 add 965xHoa hồng vàng (old: 964) lydo: Nhặt từ map at 03/11/2023 8:34 PM
+BAG:hungwibu2 add 966xHoa hồng vàng (old: 965) lydo: Nhặt từ map at 03/11/2023 8:35 PM
+BAG:hungwibu2 add 1xNâng cấp kỹ năng 2 đệ tử lydo: Mua từ cửa hàng at 03/11/2023 9:07 PM
+BAG:hungwibu2 add 2xNâng cấp kỹ năng 2 đệ tử (old: 1) lydo: Mua từ cửa hàng at 03/11/2023 9:07 PM
+BAG:hungwibu2 add 3xNâng cấp kỹ năng 2 đệ tử (old: 2) lydo: Mua từ cửa hàng at 03/11/2023 9:07 PM
+BAG:hungwibu2 add 4xNâng cấp kỹ năng 2 đệ tử (old: 3) lydo: Mua từ cửa hàng at 03/11/2023 9:07 PM
+BAG:hungwibu2 add 5xNâng cấp kỹ năng 2 đệ tử (old: 4) lydo: Mua từ cửa hàng at 03/11/2023 9:07 PM
+BAG:hungwibu2 add 6xNâng cấp kỹ năng 2 đệ tử (old: 5) lydo: Mua từ cửa hàng at 03/11/2023 9:07 PM
+BAG:hungwibu2 add 2xĐá thạch anh tím (old: 1) lydo: Nhặt từ map at 03/11/2023 9:08 PM
+BAG:hungwibu2 add 967xHoa hồng vàng (old: 966) lydo: Nhặt từ map at 03/11/2023 9:28 PM
+BAG:hungwibu2 add 1xĐá lục bảo lydo: Nhặt từ map at 03/11/2023 9:29 PM
+BAG:hungwibu2 add 208xHoa hồng xanh (old: 207) lydo: Nhặt từ map at 03/11/2023 9:29 PM
+BAG:hungwibu2 add 1xGăng siêu Xayda lydo: Mua từ cửa hàng at 03/11/2023 9:30 PM
+BAG:hungwibu2 add 1xGăng Kaio lydo: Mua từ cửa hàng at 03/11/2023 9:30 PM
+BAG:hungwibu2 add 1xGăng lưỡng long lydo: Mua từ cửa hàng at 03/11/2023 9:30 PM
+BAG:hungwibu2 add 968xHoa hồng vàng (old: 967) lydo: Nhặt từ map at 03/11/2023 9:31 PM
+BAG:hungwibu2 add 1070xHoa hồng đỏ (old: 1069) lydo: Nhặt từ map at 03/11/2023 9:31 PM
+BAG:hungwibu2 add 1xĐá Ruby lydo: Nhặt từ map at 03/11/2023 9:31 PM
+BAG:hungwibu2 add 969xHoa hồng vàng (old: 968) lydo: Nhặt từ map at 03/11/2023 9:31 PM
+BAG:hungwibu2 add 209xHoa hồng xanh (old: 208) lydo: Nhặt từ map at 03/11/2023 9:32 PM
+BAG:hungwibu2 add 1071xHoa hồng đỏ (old: 1070) lydo: Nhặt từ map at 03/11/2023 9:32 PM
+BAG:hungwibu2 add 3xĐá thạch anh tím (old: 2) lydo: Nhặt từ map at 03/11/2023 9:32 PM
+BAG:hungwibu2 add 970xHoa hồng vàng (old: 969) lydo: Nhặt từ map at 03/11/2023 9:33 PM
+BAG:hungwibu2 add 2xĐá Ruby (old: 1) lydo: Nhặt từ map at 03/11/2023 9:33 PM
+BAG:hungwibu2 add 1072xHoa hồng đỏ (old: 1071) lydo: Nhặt từ map at 03/11/2023 9:33 PM
+BAG:hungwibu2 add 3xĐá Ruby (old: 2) lydo: Nhặt từ map at 03/11/2023 9:34 PM
+BAG:hungwibu2 add 1xNgọc Rồng 6 sao lydo: Nhặt từ map at 03/11/2023 9:34 PM
+BAG:hungwibu2 add 1xNgọc Rồng 4 sao lydo: Nhặt từ map at 03/11/2023 9:34 PM
+BAG:hungwibu2 add 2xĐá lục bảo (old: 1) lydo: Nhặt từ map at 03/11/2023 9:34 PM
+BAG:hungwibu2 add 4xĐá thạch anh tím (old: 3) lydo: Nhặt từ map at 03/11/2023 9:34 PM
+BAG:hungwibu2 add 971xHoa hồng vàng (old: 970) lydo: Nhặt từ map at 03/11/2023 9:34 PM
+BAG:hungwibu2 add 972xHoa hồng vàng (old: 971) lydo: Nhặt từ map at 03/11/2023 9:35 PM
+BAG:hungwibu2 add 1xĐá Saphia lydo: Nhặt từ map at 03/11/2023 9:35 PM
+BAG:hungwibu2 add 2xNgọc Rồng 4 sao (old: 1) lydo: Nhặt từ map at 03/11/2023 9:35 PM
+BAG:hungwibu2 add 973xHoa hồng vàng (old: 972) lydo: Nhặt từ map at 03/11/2023 9:35 PM
+BAG:hungwibu2 add 1073xHoa hồng đỏ (old: 1072) lydo: Nhặt từ map at 03/11/2023 9:35 PM
+BAG:hungwibu2 add 974xHoa hồng vàng (old: 973) lydo: Nhặt từ map at 03/11/2023 9:36 PM
+BAG:hungwibu2 add 3xĐá lục bảo (old: 2) lydo: Nhặt từ map at 03/11/2023 9:36 PM
+BAG:hungwibu2 add 1074xHoa hồng đỏ (old: 1073) lydo: Nhặt từ map at 03/11/2023 9:36 PM
+BAG:hungwibu2 add 210xHoa hồng xanh (old: 209) lydo: Nhặt từ map at 03/11/2023 9:37 PM
+BAG:hungwibu2 add 975xHoa hồng vàng (old: 974) lydo: Nhặt từ map at 03/11/2023 9:37 PM
+BAG:hungwibu2 add 976xHoa hồng vàng (old: 975) lydo: Nhặt từ map at 03/11/2023 9:37 PM
+BAG:hungwibu2 add 1075xHoa hồng đỏ (old: 1074) lydo: Nhặt từ map at 03/11/2023 9:37 PM
+BAG:hungwibu2 add 1076xHoa hồng đỏ (old: 1075) lydo: Nhặt từ map at 03/11/2023 9:37 PM
+BAG:hungwibu2 add 1077xHoa hồng đỏ (old: 1076) lydo: Nhặt từ map at 03/11/2023 9:38 PM
+BAG:hungwibu2 add 1078xHoa hồng đỏ (old: 1077) lydo: Nhặt từ map at 03/11/2023 9:38 PM
+BAG:hungwibu2 add 2xĐá Saphia (old: 1) lydo: Nhặt từ map at 03/11/2023 9:38 PM
+BAG:hungwibu2 add 1079xHoa hồng đỏ (old: 1078) lydo: Nhặt từ map at 03/11/2023 9:39 PM
+BAG:hungwibu2 add 4xĐá lục bảo (old: 3) lydo: Nhặt từ map at 03/11/2023 9:39 PM
+BAG:hungwibu2 add 5xĐá thạch anh tím (old: 4) lydo: Nhặt từ map at 03/11/2023 9:39 PM
+BAG:hungwibu2 add 977xHoa hồng vàng (old: 976) lydo: Nhặt từ map at 03/11/2023 9:40 PM
+BAG:hungwibu2 add 211xHoa hồng xanh (old: 210) lydo: Nhặt từ map at 03/11/2023 9:40 PM
+BAG:hungwibu2 add 1xĐá Titan lydo: Nhặt từ map at 03/11/2023 9:40 PM
+BAG:hungwibu2 add 6xĐá thạch anh tím (old: 5) lydo: Nhặt từ map at 03/11/2023 9:41 PM
+BAG:hungwibu2 add 212xHoa hồng xanh (old: 211) lydo: Nhặt từ map at 03/11/2023 9:41 PM
+BAG:hungwibu2 add 978xHoa hồng vàng (old: 977) lydo: Nhặt từ map at 03/11/2023 9:41 PM
+BAG:hungwibu2 add 213xHoa hồng xanh (old: 212) lydo: Nhặt từ map at 03/11/2023 9:41 PM
+BAG:hungwibu2 add 979xHoa hồng vàng (old: 978) lydo: Nhặt từ map at 03/11/2023 9:42 PM
+BAG:hungwibu2 add 214xHoa hồng xanh (old: 213) lydo: Nhặt từ map at 03/11/2023 9:42 PM
+BAG:hungwibu2 add 1080xHoa hồng đỏ (old: 1079) lydo: Nhặt từ map at 03/11/2023 9:43 PM

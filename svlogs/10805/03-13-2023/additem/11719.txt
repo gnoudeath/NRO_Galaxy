@@ -1,0 +1,22 @@
+BAG:bltun add 150xThỏi vàng lydo: Giftcode at 03/13/2023 12:03 AM
+BAG:bltun add 99xNgọc Rồng 3 sao lydo: Giftcode at 03/13/2023 12:03 AM
+BAG:bltun add 1xCải Trang Thần Zeno Namec lydo: Mua từ bill at 03/13/2023 12:05 AM
+BAG:bltun add 1xNgọc Rồng 2 sao lydo: Nhập ngọc at 03/13/2023 12:14 AM
+BAG:bltun add 2xNgọc Rồng 2 sao (old: 1) lydo: Nhập ngọc at 03/13/2023 12:14 AM
+BAG:bltun add 3xNgọc Rồng 2 sao (old: 2) lydo: Nhập ngọc at 03/13/2023 12:14 AM
+BAG:bltun add 4xNgọc Rồng 2 sao (old: 3) lydo: Nhập ngọc at 03/13/2023 12:14 AM
+BAG:bltun add 5xNgọc Rồng 2 sao (old: 4) lydo: Nhập ngọc at 03/13/2023 12:14 AM
+BAG:bltun add 6xNgọc Rồng 2 sao (old: 5) lydo: Nhập ngọc at 03/13/2023 12:14 AM
+BAG:bltun add 7xNgọc Rồng 2 sao (old: 6) lydo: Nhập ngọc at 03/13/2023 12:14 AM
+BAG:bltun add 8xNgọc Rồng 2 sao (old: 7) lydo: Nhập ngọc at 03/13/2023 12:14 AM
+BAG:bltun add 9xNgọc Rồng 2 sao (old: 8) lydo: Nhập ngọc at 03/13/2023 12:14 AM
+BAG:bltun add 10xNgọc Rồng 2 sao (old: 9) lydo: Nhập ngọc at 03/13/2023 12:14 AM
+BAG:bltun add 11xNgọc Rồng 2 sao (old: 10) lydo: Nhập ngọc at 03/13/2023 12:14 AM
+BAG:bltun add 12xNgọc Rồng 2 sao (old: 11) lydo: Nhập ngọc at 03/13/2023 12:14 AM
+BAG:bltun add 13xNgọc Rồng 2 sao (old: 12) lydo: Nhập ngọc at 03/13/2023 12:14 AM
+BAG:bltun add 14xNgọc Rồng 2 sao (old: 13) lydo: Nhập ngọc at 03/13/2023 12:14 AM
+BAG:bltun add 1xNgọc Rồng 1 sao lydo: Nhập ngọc at 03/13/2023 12:14 AM
+BAG:bltun add 1xHoa hồng xanh lydo: Nhặt từ map at 03/13/2023 12:15 AM
+BAG:bltun add 1xHoa hồng vàng lydo: Nhặt từ map at 03/13/2023 12:15 AM
+BAG:bltun add 10xĐậu thần cấp 9 lydo: Thu hoạch đậu at 03/13/2023 12:17 AM
+BAG:bltun add 10xĐậu thần cấp 9 (old: 9) lydo: Thu hoạch đậu at 03/13/2023 12:19 AM

@@ -1,0 +1,497 @@
+BAG:sieuxayda remove 1xNgọc Rồng 1 sao lydo: Gọi rồng at 03/12/2023 5:57 AM
+BAG:sieuxayda remove 1xNgọc Rồng 2 sao lydo: Gọi rồng at 03/12/2023 5:57 AM
+BAG:sieuxayda remove 1xNgọc Rồng 3 sao lydo: Gọi rồng at 03/12/2023 5:57 AM
+BAG:sieuxayda remove 1xNgọc Rồng 4 sao lydo: Gọi rồng at 03/12/2023 5:57 AM
+BAG:sieuxayda remove 1xNgọc Rồng 5 sao lydo: Gọi rồng at 03/12/2023 5:57 AM
+BAG:sieuxayda remove 1xNgọc Rồng 6 sao lydo: Gọi rồng at 03/12/2023 5:57 AM
+BAG:sieuxayda remove 1xNgọc Rồng 7 sao lydo: Gọi rồng at 03/12/2023 5:57 AM
+BAG:sieuxayda remove Đá Titan lydo: Tự Xóa vật phẩm at 03/12/2023 5:58 AM
+BAG:sieuxayda remove Đá Saphia lydo: Tự Xóa vật phẩm at 03/12/2023 6:02 AM
+BAG:sieuxayda remove Đá lục bảo lydo: Tự Xóa vật phẩm at 03/12/2023 6:02 AM
+BAG:sieuxayda remove Đá Ruby lydo: Tự Xóa vật phẩm at 03/12/2023 6:02 AM
+BAG:sieuxayda remove Găng vải thô lydo: Mặc vào người at 03/12/2023 6:03 AM
+BAG:sieuxayda remove Ngọc Rồng 3 sao lydo: Cất vào rương at 03/12/2023 6:04 AM
+BAG:sieuxayda remove Quần vải thô lydo: Mặc vào người at 03/12/2023 6:04 AM
+BAG:sieuxayda remove Áo vải thô lydo: Mặc vào người at 03/12/2023 6:04 AM
+BAG:sieuxayda remove Rada cấp 1 lydo: Mặc vào người at 03/12/2023 6:04 AM
+BAG:sieuxayda remove Giầy vải thô lydo: Mặc vào người at 03/12/2023 6:04 AM
+BAG:sieuxayda remove Sách đấm Galick lv2 lydo: Sách kĩ năng at 03/12/2023 6:05 AM
+BAG:sieuxayda remove Sách đấm Galick lv3 lydo: Sách kĩ năng at 03/12/2023 6:05 AM
+BAG:sieuxayda remove Sách đấm Galick lv4 lydo: Sách kĩ năng at 03/12/2023 6:05 AM
+BAG:sieuxayda remove Sách đấm Galick lv5 lydo: Sách kĩ năng at 03/12/2023 6:05 AM
+BAG:sieuxayda remove Sách đấm Galick lv6 lydo: Sách kĩ năng at 03/12/2023 6:05 AM
+BAG:sieuxayda remove Sách đấm Galick lv7 lydo: Sách kĩ năng at 03/12/2023 6:05 AM
+BAG:sieuxayda remove Giáp tập luyện cấp 3 lydo: Mặc vào người at 03/12/2023 6:08 AM
+BAG:sieuxayda remove 1xThỏi vàng lydo: Bán cho shop at 03/12/2023 6:08 AM
+BAG:sieuxayda remove 1xThỏi vàng lydo: Bán cho shop at 03/12/2023 6:08 AM
+BAG:sieuxayda remove Áo vải thô lydo: Cất vào rương at 03/12/2023 6:10 AM
+BAG:sieuxayda remove Quần vải thô lydo: Cất vào rương at 03/12/2023 6:10 AM
+BAG:sieuxayda remove Giầy vải thô lydo: Cất vào rương at 03/12/2023 6:10 AM
+BAG:sieuxayda remove Rada cấp 1 lydo: Cất vào rương at 03/12/2023 6:10 AM
+BAG:sieuxayda remove Găng vải thô lydo: Cất vào rương at 03/12/2023 6:10 AM
+BAG:sieuxayda remove 14xĐá thạch anh tím lydo: Dùng đá nâng cấp at 03/12/2023 6:11 AM
+BAG:sieuxayda remove Áo vải thô lydo: Mặc cho đệ tử at 03/12/2023 6:12 AM
+BAG:sieuxayda remove Quần vải thô lydo: Mặc cho đệ tử at 03/12/2023 6:13 AM
+BAG:sieuxayda remove Giầy vải thô lydo: Mặc cho đệ tử at 03/12/2023 6:13 AM
+BAG:sieuxayda remove Rada cấp 1 lydo: Mặc cho đệ tử at 03/12/2023 6:13 AM
+BAG:sieuxayda remove Giáp tập luyện cấp 1 lydo: Mặc cho đệ tử at 03/12/2023 6:13 AM
+BAG:sieuxayda remove CT Genma 01 lydo: Mặc cho đệ tử at 03/12/2023 6:13 AM
+BAG:sieuxayda remove Găng bạc lydo: Mặc cho đệ tử at 03/12/2023 6:13 AM
+BAG:sieuxayda remove Đá lục bảo lydo: Tự Xóa vật phẩm at 03/12/2023 6:39 AM
+BAG:sieuxayda remove Giáp tập luyện cấp 3 lydo: Mặc vào người at 03/12/2023 6:40 AM
+BAG:sieuxayda remove Đá Titan lydo: Tự Xóa vật phẩm at 03/12/2023 6:40 AM
+BAG:sieuxayda remove Đá Saphia lydo: Tự Xóa vật phẩm at 03/12/2023 6:40 AM
+BAG:sieuxayda remove Đá Ruby lydo: Tự Xóa vật phẩm at 03/12/2023 6:40 AM
+BAG:sieuxayda remove 16xĐá thạch anh tím lydo: Dùng đá nâng cấp at 03/12/2023 6:41 AM
+BAG:sieuxayda remove 1xNâng cấp kỹ năng 1 đệ tử lydo: Dùng sách kĩ năng đệ tử at 03/12/2023 6:41 AM
+BAG:sieuxayda remove 1xNâng cấp kỹ năng 1 đệ tử lydo: Dùng sách kĩ năng đệ tử at 03/12/2023 6:42 AM
+BAG:sieuxayda remove 1xNâng cấp kỹ năng 1 đệ tử lydo: Dùng sách kĩ năng đệ tử at 03/12/2023 6:42 AM
+BAG:sieuxayda remove 1xNâng cấp kỹ năng 1 đệ tử lydo: Dùng sách kĩ năng đệ tử at 03/12/2023 6:42 AM
+BAG:sieuxayda remove 1xNâng cấp kỹ năng 1 đệ tử lydo: Dùng sách kĩ năng đệ tử at 03/12/2023 6:42 AM
+BAG:sieuxayda remove 1xNâng cấp kỹ năng 1 đệ tử lydo: Dùng sách kĩ năng đệ tử at 03/12/2023 6:42 AM
+BAG:sieuxayda remove Hoa hồng vàng lydo: Tự Xóa vật phẩm at 03/12/2023 6:43 AM
+BAG:sieuxayda remove Hoa hồng đỏ lydo: Tự Xóa vật phẩm at 03/12/2023 6:43 AM
+BAG:sieuxayda remove Hoa hồng xanh lydo: Tự Xóa vật phẩm at 03/12/2023 6:43 AM
+BAG:sieuxayda remove Găng bạc lydo: Tự Xóa vật phẩm at 03/12/2023 6:44 AM
+BAG:sieuxayda remove Găng vàng lydo: Tự Xóa vật phẩm at 03/12/2023 6:45 AM
+BAG:sieuxayda remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/12/2023 6:45 AM
+BAG:sieuxayda remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/12/2023 6:48 AM
+BAG:sieuxayda remove Găng lông Xayda lydo: Tự Xóa vật phẩm at 03/12/2023 6:49 AM
+BAG:sieuxayda remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/12/2023 6:50 AM
+BAG:sieuxayda remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/12/2023 6:51 AM
+BAG:sieuxayda remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/12/2023 6:53 AM
+BAG:sieuxayda remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/12/2023 6:55 AM
+BAG:sieuxayda remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/12/2023 6:56 AM
+BAG:sieuxayda remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/12/2023 6:56 AM
+BAG:sieuxayda remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/12/2023 6:59 AM
+BAG:sieuxayda remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/12/2023 6:59 AM
+BAG:sieuxayda remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/12/2023 7:00 AM
+BAG:sieuxayda remove Hoa hồng xanh lydo: Tự Xóa vật phẩm at 03/12/2023 7:05 AM
+BAG:sieuxayda remove Đá Ruby lydo: Tự Xóa vật phẩm at 03/12/2023 7:05 AM
+BAG:sieuxayda remove Hoa hồng đỏ lydo: Tự Xóa vật phẩm at 03/12/2023 7:05 AM
+BAG:sieuxayda remove Hoa hồng vàng lydo: Tự Xóa vật phẩm at 03/12/2023 7:05 AM
+BAG:sieuxayda remove Rada cấp 1 lydo: Mặc vào người at 03/12/2023 7:05 AM
+BAG:sieuxayda remove Giầy vải thô lydo: Mặc vào người at 03/12/2023 7:05 AM
+BAG:sieuxayda remove Găng vải thô lydo: Mặc vào người at 03/12/2023 7:05 AM
+BAG:sieuxayda remove Quần vải thô lydo: Mặc vào người at 03/12/2023 7:05 AM
+BAG:sieuxayda remove Áo vải thô lydo: Mặc vào người at 03/12/2023 7:05 AM
+BAG:sieuxayda remove Giáp tập luyện cấp 3 lydo: Mặc vào người at 03/12/2023 7:11 AM
+BAG:sieuxayda remove 1xNâng cấp kỹ năng 2 đệ tử lydo: Dùng sách kĩ năng đệ tử at 03/12/2023 7:11 AM
+BAG:sieuxayda remove 1xNâng cấp kỹ năng 2 đệ tử lydo: Dùng sách kĩ năng đệ tử at 03/12/2023 7:11 AM
+BAG:sieuxayda remove 1xNâng cấp kỹ năng 2 đệ tử lydo: Dùng sách kĩ năng đệ tử at 03/12/2023 7:11 AM
+BAG:sieuxayda remove 1xNâng cấp kỹ năng 2 đệ tử lydo: Dùng sách kĩ năng đệ tử at 03/12/2023 7:11 AM
+BAG:sieuxayda remove 1xNâng cấp kỹ năng 2 đệ tử lydo: Dùng sách kĩ năng đệ tử at 03/12/2023 7:11 AM
+BAG:sieuxayda remove 1xNâng cấp kỹ năng 2 đệ tử lydo: Dùng sách kĩ năng đệ tử at 03/12/2023 7:11 AM
+BAG:sieuxayda remove Găng lưỡng long lydo: Cất vào rương at 03/12/2023 7:11 AM
+BAG:sieuxayda remove Giáp tập luyện cấp 2 lydo: Cất vào rương at 03/12/2023 7:11 AM
+BAG:sieuxayda remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/12/2023 7:13 AM
+BAG:sieuxayda remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/12/2023 7:13 AM
+BAG:sieuxayda remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/12/2023 7:14 AM
+BAG:sieuxayda remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/12/2023 7:14 AM
+BAG:sieuxayda remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/12/2023 7:14 AM
+BAG:sieuxayda remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/12/2023 7:15 AM
+BAG:sieuxayda remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/12/2023 7:16 AM
+BAG:sieuxayda remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/12/2023 7:16 AM
+BAG:sieuxayda remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/12/2023 7:17 AM
+BAG:sieuxayda remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/12/2023 7:18 AM
+BAG:sieuxayda remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/12/2023 7:19 AM
+BAG:sieuxayda remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/12/2023 7:19 AM
+BAG:sieuxayda remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/12/2023 7:20 AM
+BAG:sieuxayda remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/12/2023 7:21 AM
+BAG:sieuxayda remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/12/2023 7:21 AM
+BAG:sieuxayda remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/12/2023 7:22 AM
+BAG:sieuxayda remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/12/2023 7:23 AM
+BAG:sieuxayda remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/12/2023 7:24 AM
+BAG:sieuxayda remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/12/2023 7:25 AM
+BAG:sieuxayda remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/12/2023 7:26 AM
+BAG:sieuxayda remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/12/2023 7:28 AM
+BAG:sieuxayda remove Hoa hồng xanh lydo: Tự Xóa vật phẩm at 03/12/2023 7:28 AM
+BAG:sieuxayda remove Đá Ruby lydo: Tự Xóa vật phẩm at 03/12/2023 7:29 AM
+BAG:sieuxayda remove Đá Titan lydo: Tự Xóa vật phẩm at 03/12/2023 7:29 AM
+BAG:sieuxayda remove Hoa hồng đỏ lydo: Tự Xóa vật phẩm at 03/12/2023 7:29 AM
+BAG:sieuxayda remove Đá Saphia lydo: Tự Xóa vật phẩm at 03/12/2023 7:29 AM
+BAG:sieuxayda remove Hoa hồng vàng lydo: Tự Xóa vật phẩm at 03/12/2023 7:29 AM
+BAG:sieuxayda remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/12/2023 7:29 AM
+BAG:sieuxayda remove 1xGăng da Xayda lydo: Bán cho shop at 03/12/2023 7:30 AM
+BAG:sieuxayda remove 1xGăng siêu Xayda lydo: Bán cho shop at 03/12/2023 7:30 AM
+BAG:sieuxayda remove 1xGăng lông đỏ lydo: Bán cho shop at 03/12/2023 7:30 AM
+BAG:sieuxayda remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/12/2023 7:32 AM
+BAG:sieuxayda remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/12/2023 7:48 AM
+BAG:sieuxayda remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/12/2023 7:55 AM
+BAG:sieuxayda remove Giáp tập luyện cấp 3 lydo: Mặc vào người at 03/12/2023 10:47 AM
+BAG:sieuxayda remove Giáp tập luyện cấp 3 lydo: Mặc vào người at 03/12/2023 10:52 AM
+BAG:sieuxayda remove Giáp tập luyện cấp 3 lydo: Mặc vào người at 03/12/2023 10:54 AM
+BAG:sieuxayda remove Giáp tập luyện cấp 3 lydo: Mặc vào người at 03/12/2023 11:19 AM
+BAG:sieuxayda remove Giáp tập luyện cấp 3 lydo: Mặc vào người at 03/12/2023 11:22 AM
+BAG:sieuxayda remove Giáp tập luyện cấp 3 lydo: Mặc vào người at 03/12/2023 11:26 AM
+BAG:sieuxayda remove Giáp tập luyện cấp 3 lydo: Mặc vào người at 03/12/2023 11:28 AM
+BAG:sieuxayda remove Giáp tập luyện cấp 3 lydo: Mặc vào người at 03/12/2023 11:31 AM
+BAG:sieuxayda remove Ngọc Rồng 3 sao lydo: Cất vào rương at 03/12/2023 11:32 AM
+BAG:sieuxayda remove 1xMáy dò Capsule kì bí lydo: Dùng máy dò at 03/12/2023 11:33 AM
+BAG:sieuxayda remove Đá lục bảo lydo: Tự Xóa vật phẩm at 03/12/2023 11:33 AM
+BAG:sieuxayda remove Đá Titan lydo: Tự Xóa vật phẩm at 03/12/2023 11:33 AM
+BAG:sieuxayda remove Đá Saphia lydo: Tự Xóa vật phẩm at 03/12/2023 11:33 AM
+BAG:sieuxayda remove Đá Ruby lydo: Tự Xóa vật phẩm at 03/12/2023 11:33 AM
+BAG:sieuxayda remove Đá Saphia lydo: Tự Xóa vật phẩm at 03/12/2023 11:38 AM
+BAG:sieuxayda remove Đá Ruby lydo: Tự Xóa vật phẩm at 03/12/2023 11:38 AM
+BAG:sieuxayda remove Đá Titan lydo: Tự Xóa vật phẩm at 03/12/2023 11:38 AM
+BAG:sieuxayda remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 11:38 AM
+BAG:sieuxayda remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 11:38 AM
+BAG:sieuxayda remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 11:38 AM
+BAG:sieuxayda remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 11:38 AM
+BAG:sieuxayda remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 11:38 AM
+BAG:sieuxayda remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 11:38 AM
+BAG:sieuxayda remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 11:38 AM
+BAG:sieuxayda remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 11:38 AM
+BAG:sieuxayda remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 11:38 AM
+BAG:sieuxayda remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 11:38 AM
+BAG:sieuxayda remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 11:38 AM
+BAG:sieuxayda remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 11:38 AM
+BAG:sieuxayda remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 11:38 AM
+BAG:sieuxayda remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 11:38 AM
+BAG:sieuxayda remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 11:38 AM
+BAG:sieuxayda remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 11:38 AM
+BAG:sieuxayda remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 11:38 AM
+BAG:sieuxayda remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 11:38 AM
+BAG:sieuxayda remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 11:38 AM
+BAG:sieuxayda remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 11:39 AM
+BAG:sieuxayda remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 11:39 AM
+BAG:sieuxayda remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 11:39 AM
+BAG:sieuxayda remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 11:39 AM
+BAG:sieuxayda remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 11:39 AM
+BAG:sieuxayda remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 11:39 AM
+BAG:sieuxayda remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 11:39 AM
+BAG:sieuxayda remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 11:39 AM
+BAG:sieuxayda remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 11:39 AM
+BAG:sieuxayda remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 11:39 AM
+BAG:sieuxayda remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 11:39 AM
+BAG:sieuxayda remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 11:39 AM
+BAG:sieuxayda remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 11:39 AM
+BAG:sieuxayda remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 11:39 AM
+BAG:sieuxayda remove 1xBổ khí lydo: Dùng buff at 03/12/2023 11:39 AM
+BAG:sieuxayda remove Đá Titan lydo: Tự Xóa vật phẩm at 03/12/2023 11:39 AM
+BAG:sieuxayda remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 11:41 AM
+BAG:sieuxayda remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 11:41 AM
+BAG:sieuxayda remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 11:41 AM
+BAG:sieuxayda remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 11:41 AM
+BAG:sieuxayda remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 11:41 AM
+BAG:sieuxayda remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 11:41 AM
+BAG:sieuxayda remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 11:41 AM
+BAG:sieuxayda remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 11:41 AM
+BAG:sieuxayda remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 11:41 AM
+BAG:sieuxayda remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 11:41 AM
+BAG:sieuxayda remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 11:41 AM
+BAG:sieuxayda remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 11:41 AM
+BAG:sieuxayda remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 11:41 AM
+BAG:sieuxayda remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 11:41 AM
+BAG:sieuxayda remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 11:41 AM
+BAG:sieuxayda remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 11:41 AM
+BAG:sieuxayda remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 11:41 AM
+BAG:sieuxayda remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 11:41 AM
+BAG:sieuxayda remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 11:41 AM
+BAG:sieuxayda remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 11:41 AM
+BAG:sieuxayda remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 11:41 AM
+BAG:sieuxayda remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 11:41 AM
+BAG:sieuxayda remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 11:41 AM
+BAG:sieuxayda remove Đá Titan lydo: Tự Xóa vật phẩm at 03/12/2023 11:41 AM
+BAG:sieuxayda remove Bổ khí lydo: Tự Xóa vật phẩm at 03/12/2023 11:41 AM
+BAG:sieuxayda remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 11:43 AM
+BAG:sieuxayda remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 11:43 AM
+BAG:sieuxayda remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 11:43 AM
+BAG:sieuxayda remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 11:43 AM
+BAG:sieuxayda remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 11:43 AM
+BAG:sieuxayda remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 11:43 AM
+BAG:sieuxayda remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 11:43 AM
+BAG:sieuxayda remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 11:43 AM
+BAG:sieuxayda remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 11:43 AM
+BAG:sieuxayda remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 11:43 AM
+BAG:sieuxayda remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 11:43 AM
+BAG:sieuxayda remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 11:43 AM
+BAG:sieuxayda remove 1xBổ khí lydo: Dùng buff at 03/12/2023 11:43 AM
+BAG:sieuxayda remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 11:45 AM
+BAG:sieuxayda remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 11:45 AM
+BAG:sieuxayda remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 11:45 AM
+BAG:sieuxayda remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 11:45 AM
+BAG:sieuxayda remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 11:45 AM
+BAG:sieuxayda remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 11:45 AM
+BAG:sieuxayda remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 11:45 AM
+BAG:sieuxayda remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 11:46 AM
+BAG:sieuxayda remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 11:46 AM
+BAG:sieuxayda remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 11:46 AM
+BAG:sieuxayda remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 11:46 AM
+BAG:sieuxayda remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 11:46 AM
+BAG:sieuxayda remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 11:46 AM
+BAG:sieuxayda remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 11:46 AM
+BAG:sieuxayda remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 11:46 AM
+BAG:sieuxayda remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 11:46 AM
+BAG:sieuxayda remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 11:46 AM
+BAG:sieuxayda remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 11:46 AM
+BAG:sieuxayda remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 11:46 AM
+BAG:sieuxayda remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 11:46 AM
+BAG:sieuxayda remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 11:46 AM
+BAG:sieuxayda remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 11:46 AM
+BAG:sieuxayda remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 11:46 AM
+BAG:sieuxayda remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 11:46 AM
+BAG:sieuxayda remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 11:46 AM
+BAG:sieuxayda remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 11:46 AM
+BAG:sieuxayda remove Ẩn danh lydo: Tự Xóa vật phẩm at 03/12/2023 11:47 AM
+BAG:sieuxayda remove Đá Ruby lydo: Tự Xóa vật phẩm at 03/12/2023 11:47 AM
+BAG:sieuxayda remove Đá Titan lydo: Tự Xóa vật phẩm at 03/12/2023 11:47 AM
+BAG:sieuxayda remove Đá lục bảo lydo: Tự Xóa vật phẩm at 03/12/2023 11:47 AM
+BAG:sieuxayda remove Giáp tập luyện cấp 3 lydo: Mặc vào người at 03/12/2023 11:47 AM
+BAG:sieuxayda remove 1xCuồng nộ lydo: Dùng buff at 03/12/2023 11:48 AM
+BAG:sieuxayda remove Giáp tập luyện cấp 3 lydo: Mặc vào người at 03/12/2023 11:50 AM
+BAG:sieuxayda remove Hoa hồng xanh lydo: Tự Xóa vật phẩm at 03/12/2023 11:55 AM
+BAG:sieuxayda remove Hoa hồng vàng lydo: Tự Xóa vật phẩm at 03/12/2023 11:55 AM
+BAG:sieuxayda remove Hoa hồng đỏ lydo: Tự Xóa vật phẩm at 03/12/2023 11:55 AM
+BAG:sieuxayda remove Đá Ruby lydo: Tự Xóa vật phẩm at 03/12/2023 11:55 AM
+BAG:sieuxayda remove Đá lục bảo lydo: Tự Xóa vật phẩm at 03/12/2023 11:56 AM
+BAG:sieuxayda remove Đá Saphia lydo: Tự Xóa vật phẩm at 03/12/2023 11:56 AM
+BAG:sieuxayda remove Đá Titan lydo: Tự Xóa vật phẩm at 03/12/2023 11:56 AM
+BAG:sieuxayda remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 11:57 AM
+BAG:sieuxayda remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 11:57 AM
+BAG:sieuxayda remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 11:57 AM
+BAG:sieuxayda remove 1xCuồng nộ lydo: Dùng buff at 03/12/2023 11:59 AM
+BAG:sieuxayda remove Rada cấp 1 lydo: Cất vào rương at 03/12/2023 12:01 PM
+BAG:sieuxayda remove Áo vải thô lydo: Cất vào rương at 03/12/2023 12:01 PM
+BAG:sieuxayda remove Giầy vải thô lydo: Cất vào rương at 03/12/2023 12:01 PM
+BAG:sieuxayda remove Găng vải thô lydo: Cất vào rương at 03/12/2023 12:01 PM
+BAG:sieuxayda remove Rada cấp 1 lydo: Cất vào rương at 03/12/2023 12:01 PM
+BAG:sieuxayda remove Quần vải thô lydo: Cất vào rương at 03/12/2023 12:01 PM
+BAG:sieuxayda remove Giáp tập luyện cấp 3 lydo: Mặc vào người at 03/12/2023 12:02 PM
+BAG:sieuxayda remove 1xThỏi vàng lydo: Bán cho shop at 03/12/2023 12:02 PM
+BAG:sieuxayda remove 1xThỏi vàng lydo: Bán cho shop at 03/12/2023 12:02 PM
+BAG:sieuxayda remove Rada cấp 1 lydo: Mặc cho đệ tử at 03/12/2023 12:03 PM
+BAG:sieuxayda remove Quần vải thô lydo: Mặc cho đệ tử at 03/12/2023 12:03 PM
+BAG:sieuxayda remove Áo vải thô lydo: Mặc cho đệ tử at 03/12/2023 12:03 PM
+BAG:sieuxayda remove Giầy vải thô lydo: Mặc cho đệ tử at 03/12/2023 12:03 PM
+BAG:sieuxayda remove Giáp tập luyện cấp 1 lydo: Mặc cho đệ tử at 03/12/2023 12:03 PM
+BAG:sieuxayda remove CT Genma 01 lydo: Mặc cho đệ tử at 03/12/2023 12:03 PM
+BAG:sieuxayda remove 1xNâng cấp kỹ năng 1 đệ tử lydo: Dùng sách kĩ năng đệ tử at 03/12/2023 12:04 PM
+BAG:sieuxayda remove 1xNâng cấp kỹ năng 1 đệ tử lydo: Dùng sách kĩ năng đệ tử at 03/12/2023 12:04 PM
+BAG:sieuxayda remove 1xNâng cấp kỹ năng 1 đệ tử lydo: Dùng sách kĩ năng đệ tử at 03/12/2023 12:04 PM
+BAG:sieuxayda remove 1xNâng cấp kỹ năng 1 đệ tử lydo: Dùng sách kĩ năng đệ tử at 03/12/2023 12:04 PM
+BAG:sieuxayda remove 1xNâng cấp kỹ năng 1 đệ tử lydo: Dùng sách kĩ năng đệ tử at 03/12/2023 12:04 PM
+BAG:sieuxayda remove 1xNâng cấp kỹ năng 1 đệ tử lydo: Dùng sách kĩ năng đệ tử at 03/12/2023 12:04 PM
+BAG:sieuxayda remove Găng bạc lydo: Mặc cho đệ tử at 03/12/2023 12:05 PM
+BAG:sieuxayda remove Tái tạo năng lượng lv1 lydo: Sách kĩ năng at 03/12/2023 12:05 PM
+BAG:sieuxayda remove Tái tạo năng lượng lv2 lydo: Sách kĩ năng at 03/12/2023 12:05 PM
+BAG:sieuxayda remove Tái tạo năng lượng lv3 lydo: Sách kĩ năng at 03/12/2023 12:05 PM
+BAG:sieuxayda remove Tái tạo năng lượng lv4 lydo: Sách kĩ năng at 03/12/2023 12:05 PM
+BAG:sieuxayda remove Tái tạo năng lượng lv5 lydo: Sách kĩ năng at 03/12/2023 12:05 PM
+BAG:sieuxayda remove Tái tạo năng lượng lv6 lydo: Sách kĩ năng at 03/12/2023 12:05 PM
+BAG:sieuxayda remove Tái tạo năng lượng lv7 lydo: Sách kĩ năng at 03/12/2023 12:05 PM
+BAG:sieuxayda remove Khiên năng lượng lv1 lydo: Sách kĩ năng at 03/12/2023 12:05 PM
+BAG:sieuxayda remove Khiên năng lượng lv2 lydo: Sách kĩ năng at 03/12/2023 12:05 PM
+BAG:sieuxayda remove Khiên năng lượng lv3 lydo: Sách kĩ năng at 03/12/2023 12:06 PM
+BAG:sieuxayda remove Khiên năng lượng lv4 lydo: Sách kĩ năng at 03/12/2023 12:06 PM
+BAG:sieuxayda remove Khiên năng lượng lv5 lydo: Sách kĩ năng at 03/12/2023 12:06 PM
+BAG:sieuxayda remove Khiên năng lượng lv6 lydo: Sách kĩ năng at 03/12/2023 12:06 PM
+BAG:sieuxayda remove Khiên năng lượng lv7 lydo: Sách kĩ năng at 03/12/2023 12:06 PM
+BAG:sieuxayda remove Sách Huýt Sáo lv1 lydo: Sách kĩ năng at 03/12/2023 12:06 PM
+BAG:sieuxayda remove Sách Huýt Sáo lv2 lydo: Sách kĩ năng at 03/12/2023 12:06 PM
+BAG:sieuxayda remove Sách Huýt Sáo lv3 lydo: Sách kĩ năng at 03/12/2023 12:06 PM
+BAG:sieuxayda remove Sách Huýt Sáo lv4 lydo: Sách kĩ năng at 03/12/2023 12:06 PM
+BAG:sieuxayda remove Sách Huýt Sáo lv5 lydo: Sách kĩ năng at 03/12/2023 12:06 PM
+BAG:sieuxayda remove Sách Huýt Sáo lv6 lydo: Sách kĩ năng at 03/12/2023 12:06 PM
+BAG:sieuxayda remove 1xSách Huýt Sáo lv5 lydo: Bán cho shop at 03/12/2023 12:06 PM
+BAG:sieuxayda remove Sách Huýt Sáo lv7 lydo: Sách kĩ năng at 03/12/2023 12:06 PM
+BAG:sieuxayda remove Sách Antomic lv1 lydo: Sách kĩ năng at 03/12/2023 12:07 PM
+BAG:sieuxayda remove Sách Antomic lv2 lydo: Sách kĩ năng at 03/12/2023 12:07 PM
+BAG:sieuxayda remove Sách Antomic lv3 lydo: Sách kĩ năng at 03/12/2023 12:07 PM
+BAG:sieuxayda remove Sách Antomic lv4 lydo: Sách kĩ năng at 03/12/2023 12:07 PM
+BAG:sieuxayda remove Sách Antomic lv5 lydo: Sách kĩ năng at 03/12/2023 12:07 PM
+BAG:sieuxayda remove Sách Antomic lv6 lydo: Sách kĩ năng at 03/12/2023 12:07 PM
+BAG:sieuxayda remove Sách Antomic lv7 lydo: Sách kĩ năng at 03/12/2023 12:07 PM
+BAG:sieuxayda remove Bom hi sinh lv1 lydo: Sách kĩ năng at 03/12/2023 12:07 PM
+BAG:sieuxayda remove Bom hi sinh lv2 lydo: Sách kĩ năng at 03/12/2023 12:07 PM
+BAG:sieuxayda remove Bom hi sinh lv3 lydo: Sách kĩ năng at 03/12/2023 12:07 PM
+BAG:sieuxayda remove Bom hi sinh lv4 lydo: Sách kĩ năng at 03/12/2023 12:07 PM
+BAG:sieuxayda remove Bom hi sinh lv5 lydo: Sách kĩ năng at 03/12/2023 12:07 PM
+BAG:sieuxayda remove Bom hi sinh lv6 lydo: Sách kĩ năng at 03/12/2023 12:08 PM
+BAG:sieuxayda remove Bom hi sinh lv7 lydo: Sách kĩ năng at 03/12/2023 12:08 PM
+BAG:sieuxayda remove Ngọc Rồng 4 sao lydo: Cất vào rương at 03/12/2023 12:09 PM
+BAG:sieuxayda remove Ngọc Rồng 5 sao lydo: Cất vào rương at 03/12/2023 12:09 PM
+BAG:sieuxayda remove Ngọc Rồng 6 sao lydo: Cất vào rương at 03/12/2023 12:09 PM
+BAG:sieuxayda remove Găng bạc lydo: Tự Xóa vật phẩm at 03/12/2023 12:11 PM
+BAG:sieuxayda remove Găng vàng lydo: Tự Xóa vật phẩm at 03/12/2023 12:12 PM
+BAG:sieuxayda remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 12:12 PM
+BAG:sieuxayda remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 12:12 PM
+BAG:sieuxayda remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 12:12 PM
+BAG:sieuxayda remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 12:12 PM
+BAG:sieuxayda remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 12:12 PM
+BAG:sieuxayda remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 12:12 PM
+BAG:sieuxayda remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 12:13 PM
+BAG:sieuxayda remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 12:13 PM
+BAG:sieuxayda remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 12:13 PM
+BAG:sieuxayda remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 12:13 PM
+BAG:sieuxayda remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 12:13 PM
+BAG:sieuxayda remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 12:13 PM
+BAG:sieuxayda remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 12:13 PM
+BAG:sieuxayda remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 12:13 PM
+BAG:sieuxayda remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 12:13 PM
+BAG:sieuxayda remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 12:13 PM
+BAG:sieuxayda remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 12:13 PM
+BAG:sieuxayda remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 12:13 PM
+BAG:sieuxayda remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 12:13 PM
+BAG:sieuxayda remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 12:13 PM
+BAG:sieuxayda remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 12:13 PM
+BAG:sieuxayda remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 12:13 PM
+BAG:sieuxayda remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 12:13 PM
+BAG:sieuxayda remove 1xẨn danh lydo: Dùng buff at 03/12/2023 12:13 PM
+BAG:sieuxayda remove 1xBổ khí lydo: Dùng buff at 03/12/2023 12:13 PM
+BAG:sieuxayda remove 1xẨn danh lydo: Dùng buff at 03/12/2023 12:13 PM
+BAG:sieuxayda remove 1xẨn danh lydo: Dùng buff at 03/12/2023 12:13 PM
+BAG:sieuxayda remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/12/2023 12:13 PM
+BAG:sieuxayda remove Găng lông Xayda lydo: Tự Xóa vật phẩm at 03/12/2023 12:13 PM
+BAG:sieuxayda remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/12/2023 12:16 PM
+BAG:sieuxayda remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/12/2023 12:19 PM
+BAG:sieuxayda remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/12/2023 12:21 PM
+BAG:sieuxayda remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/12/2023 12:22 PM
+BAG:sieuxayda remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/12/2023 12:25 PM
+BAG:sieuxayda remove Hoa hồng đỏ lydo: Tự Xóa vật phẩm at 03/12/2023 12:28 PM
+BAG:sieuxayda remove Hoa hồng xanh lydo: Tự Xóa vật phẩm at 03/12/2023 12:28 PM
+BAG:sieuxayda remove Đá Titan lydo: Tự Xóa vật phẩm at 03/12/2023 12:28 PM
+BAG:sieuxayda remove 1xNâng cấp kỹ năng 2 đệ tử lydo: Dùng sách kĩ năng đệ tử at 03/12/2023 12:28 PM
+BAG:sieuxayda remove 1xNâng cấp kỹ năng 2 đệ tử lydo: Dùng sách kĩ năng đệ tử at 03/12/2023 12:28 PM
+BAG:sieuxayda remove 1xNâng cấp kỹ năng 2 đệ tử lydo: Dùng sách kĩ năng đệ tử at 03/12/2023 12:29 PM
+BAG:sieuxayda remove 1xNâng cấp kỹ năng 2 đệ tử lydo: Dùng sách kĩ năng đệ tử at 03/12/2023 12:29 PM
+BAG:sieuxayda remove 1xNâng cấp kỹ năng 2 đệ tử lydo: Dùng sách kĩ năng đệ tử at 03/12/2023 12:29 PM
+BAG:sieuxayda remove 1xNâng cấp kỹ năng 2 đệ tử lydo: Dùng sách kĩ năng đệ tử at 03/12/2023 12:29 PM
+BAG:sieuxayda remove Nâng cấp kỹ năng 2 đệ tử lydo: Tự Xóa vật phẩm at 03/12/2023 12:30 PM
+BAG:sieuxayda remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/12/2023 12:35 PM
+BAG:sieuxayda remove Găng da Xayda lydo: Tự Xóa vật phẩm at 03/12/2023 12:38 PM
+BAG:sieuxayda remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/12/2023 12:38 PM
+BAG:sieuxayda remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/12/2023 12:40 PM
+BAG:sieuxayda remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/12/2023 12:40 PM
+BAG:sieuxayda remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/12/2023 12:42 PM
+BAG:sieuxayda remove Đá lục bảo lydo: Tự Xóa vật phẩm at 03/12/2023 12:43 PM
+BAG:sieuxayda remove Đá Saphia lydo: Tự Xóa vật phẩm at 03/12/2023 12:43 PM
+BAG:sieuxayda remove Hoa hồng xanh lydo: Tự Xóa vật phẩm at 03/12/2023 12:43 PM
+BAG:sieuxayda remove Hoa hồng vàng lydo: Tự Xóa vật phẩm at 03/12/2023 12:43 PM
+BAG:sieuxayda remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/12/2023 12:44 PM
+BAG:sieuxayda remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/12/2023 12:46 PM
+BAG:sieuxayda remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/12/2023 12:47 PM
+BAG:sieuxayda remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/12/2023 12:48 PM
+BAG:sieuxayda remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/12/2023 12:49 PM
+BAG:sieuxayda remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/12/2023 12:50 PM
+BAG:sieuxayda remove 1xGăng siêu Xayda lydo: Bán cho shop at 03/12/2023 12:51 PM
+BAG:sieuxayda remove Cải Trang Thần Zeno Xayda lydo: Mặc vào người at 03/12/2023 1:01 PM
+BAG:sieuxayda remove Áo vải thô lydo: Mặc vào người at 03/12/2023 1:01 PM
+BAG:sieuxayda remove Quần vải thô lydo: Mặc vào người at 03/12/2023 1:01 PM
+BAG:sieuxayda remove Găng vải thô lydo: Mặc vào người at 03/12/2023 1:01 PM
+BAG:sieuxayda remove Giầy vải thô lydo: Mặc vào người at 03/12/2023 1:01 PM
+BAG:sieuxayda remove Rada cấp 1 lydo: Mặc vào người at 03/12/2023 1:01 PM
+BAG:sieuxayda remove Đá lục bảo lydo: Tự Xóa vật phẩm at 03/12/2023 1:03 PM
+BAG:sieuxayda remove Đá Saphia lydo: Tự Xóa vật phẩm at 03/12/2023 1:03 PM
+BAG:sieuxayda remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/12/2023 1:08 PM
+BAG:sieuxayda remove Hoa hồng xanh lydo: Tự Xóa vật phẩm at 03/12/2023 1:14 PM
+BAG:sieuxayda remove Hoa hồng vàng lydo: Tự Xóa vật phẩm at 03/12/2023 1:14 PM
+BAG:sieuxayda remove Hoa hồng đỏ lydo: Tự Xóa vật phẩm at 03/12/2023 1:14 PM
+BAG:sieuxayda remove 1xGăng Kaio lydo: Bán cho shop at 03/12/2023 1:16 PM
+BAG:sieuxayda remove Cải Trang Thần Zeno Xayda lydo: Mặc vào người at 03/12/2023 1:18 PM
+BAG:sieuxayda remove Rada cấp 1 lydo: Mặc vào người at 03/12/2023 1:18 PM
+BAG:sieuxayda remove Giầy vải thô lydo: Mặc vào người at 03/12/2023 1:18 PM
+BAG:sieuxayda remove Găng vải thô lydo: Mặc vào người at 03/12/2023 1:18 PM
+BAG:sieuxayda remove Quần vải thô lydo: Mặc vào người at 03/12/2023 1:18 PM
+BAG:sieuxayda remove Áo vải thô lydo: Mặc vào người at 03/12/2023 1:18 PM
+BAG:sieuxayda remove 1xCuồng nộ lydo: Dùng buff at 03/12/2023 1:19 PM
+BAG:sieuxayda remove 1xBổ huyết lydo: Dùng buff at 03/12/2023 1:19 PM
+BAG:sieuxayda remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/12/2023 1:19 PM
+BAG:sieuxayda remove Giáp tập luyện cấp 3 lydo: Mặc vào người at 03/12/2023 1:21 PM
+BAG:sieuxayda remove 1xNâng cấp kỹ năng 3 đệ tử lydo: Dùng sách kĩ năng đệ tử at 03/12/2023 1:22 PM
+BAG:sieuxayda remove 1xNâng cấp kỹ năng 3 đệ tử lydo: Dùng sách kĩ năng đệ tử at 03/12/2023 1:22 PM
+BAG:sieuxayda remove 1xNâng cấp kỹ năng 3 đệ tử lydo: Dùng sách kĩ năng đệ tử at 03/12/2023 1:22 PM
+BAG:sieuxayda remove 1xNâng cấp kỹ năng 3 đệ tử lydo: Dùng sách kĩ năng đệ tử at 03/12/2023 1:22 PM
+BAG:sieuxayda remove 1xNâng cấp kỹ năng 3 đệ tử lydo: Dùng sách kĩ năng đệ tử at 03/12/2023 1:22 PM
+BAG:sieuxayda remove 1xNâng cấp kỹ năng 3 đệ tử lydo: Dùng sách kĩ năng đệ tử at 03/12/2023 1:22 PM
+BAG:sieuxayda remove Đá Saphia lydo: Tự Xóa vật phẩm at 03/12/2023 1:24 PM
+BAG:sieuxayda remove Hoa hồng vàng lydo: Tự Xóa vật phẩm at 03/12/2023 1:24 PM
+BAG:sieuxayda remove Hoa hồng đỏ lydo: Tự Xóa vật phẩm at 03/12/2023 1:24 PM
+BAG:sieuxayda remove Đá Titan lydo: Tự Xóa vật phẩm at 03/12/2023 1:24 PM
+BAG:sieuxayda remove Giáp tập luyện cấp 3 lydo: Mặc vào người at 03/12/2023 1:26 PM
+BAG:sieuxayda remove Giáp tập luyện cấp 3 lydo: Mặc vào người at 03/12/2023 1:29 PM
+BAG:sieuxayda remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/12/2023 1:40 PM
+BAG:sieuxayda remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/12/2023 2:00 PM
+BAG:sieuxayda remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/12/2023 2:17 PM
+BAG:sieuxayda remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/12/2023 2:30 PM
+BAG:sieuxayda remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/12/2023 2:51 PM
+BAG:sieuxayda remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/12/2023 3:09 PM
+BAG:sieuxayda remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/12/2023 3:26 PM
+BAG:sieuxayda remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/12/2023 3:43 PM
+BAG:sieuxayda remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/12/2023 4:00 PM
+BAG:sieuxayda remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/12/2023 4:16 PM
+BAG:sieuxayda remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/12/2023 4:33 PM
+BAG:sieuxayda remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/12/2023 4:38 PM
+BAG:sieuxayda remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/12/2023 4:58 PM
+BAG:sieuxayda remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/12/2023 5:13 PM
+BAG:sieuxayda remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/12/2023 5:32 PM
+BAG:sieuxayda remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/12/2023 5:46 PM
+BAG:sieuxayda remove 1xCuồng nộ lydo: Dùng buff at 03/12/2023 5:56 PM
+BAG:sieuxayda remove Đá Saphia lydo: Tự Xóa vật phẩm at 03/12/2023 5:56 PM
+BAG:sieuxayda remove 1xCuồng nộ lydo: Dùng buff at 03/12/2023 5:56 PM
+BAG:sieuxayda remove Giáp tập luyện cấp 3 lydo: Mặc vào người at 03/12/2023 6:02 PM
+BAG:sieuxayda remove Đá lục bảo lydo: Tự Xóa vật phẩm at 03/12/2023 6:02 PM
+BAG:sieuxayda remove Đá Ruby lydo: Tự Xóa vật phẩm at 03/12/2023 6:02 PM
+BAG:sieuxayda remove Đá Titan lydo: Tự Xóa vật phẩm at 03/12/2023 6:02 PM
+BAG:sieuxayda remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/12/2023 6:12 PM
+BAG:sieuxayda remove 1xNâng cấp kỹ năng 4 đệ tử lydo: Dùng sách kĩ năng đệ tử at 03/12/2023 6:17 PM
+BAG:sieuxayda remove 1xNâng cấp kỹ năng 4 đệ tử lydo: Dùng sách kĩ năng đệ tử at 03/12/2023 6:17 PM
+BAG:sieuxayda remove 1xNâng cấp kỹ năng 4 đệ tử lydo: Dùng sách kĩ năng đệ tử at 03/12/2023 6:17 PM
+BAG:sieuxayda remove 1xNâng cấp kỹ năng 4 đệ tử lydo: Dùng sách kĩ năng đệ tử at 03/12/2023 6:18 PM
+BAG:sieuxayda remove 1xNâng cấp kỹ năng 4 đệ tử lydo: Dùng sách kĩ năng đệ tử at 03/12/2023 6:18 PM
+BAG:sieuxayda remove 1xNâng cấp kỹ năng 4 đệ tử lydo: Dùng sách kĩ năng đệ tử at 03/12/2023 6:18 PM
+BAG:sieuxayda remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/12/2023 6:20 PM
+BAG:sieuxayda remove Hoa hồng xanh lydo: Tự Xóa vật phẩm at 03/12/2023 6:32 PM
+BAG:sieuxayda remove Hoa hồng đỏ lydo: Tự Xóa vật phẩm at 03/12/2023 6:32 PM
+BAG:sieuxayda remove Hoa hồng vàng lydo: Tự Xóa vật phẩm at 03/12/2023 6:32 PM
+BAG:sieuxayda remove Giầy vải thô lydo: Mặc vào người at 03/12/2023 6:33 PM
+BAG:sieuxayda remove Quần vải thô lydo: Mặc vào người at 03/12/2023 6:33 PM
+BAG:sieuxayda remove Áo vải thô lydo: Mặc vào người at 03/12/2023 6:33 PM
+BAG:sieuxayda remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/12/2023 6:41 PM
+BAG:sieuxayda remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/12/2023 6:58 PM
+BAG:sieuxayda remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/12/2023 7:15 PM
+BAG:sieuxayda remove 1xCuồng nộ lydo: Dùng buff at 03/12/2023 7:20 PM
+BAG:sieuxayda remove Giáp tập luyện cấp 3 lydo: Mặc vào người at 03/12/2023 7:22 PM
+BAG:sieuxayda remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/12/2023 7:25 PM
+BAG:sieuxayda remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/12/2023 7:46 PM
+BAG:sieuxayda remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/12/2023 7:56 PM
+BAG:sieuxayda remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/12/2023 8:17 PM
+BAG:sieuxayda remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/12/2023 8:30 PM
+BAG:sieuxayda remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/12/2023 8:51 PM
+BAG:sieuxayda remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/12/2023 9:08 PM
+BAG:sieuxayda remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/12/2023 9:41 PM
+BAG:sieuxayda remove 1xCuồng nộ lydo: Dùng buff at 03/12/2023 9:56 PM
+BAG:sieuxayda remove Giáp tập luyện cấp 3 lydo: Mặc vào người at 03/12/2023 9:58 PM
+BAG:sieuxayda remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/12/2023 9:59 PM
+BAG:sieuxayda remove Ngọc Rồng 3 sao lydo: Cất vào rương at 03/12/2023 10:14 PM
+BAG:sieuxayda remove Ngọc Rồng 4 sao lydo: Cất vào rương at 03/12/2023 10:14 PM
+BAG:sieuxayda remove Ngọc Rồng 6 sao lydo: Cất vào rương at 03/12/2023 10:14 PM
+BAG:sieuxayda remove Ngọc Rồng 5 sao lydo: Cất vào rương at 03/12/2023 10:14 PM
+BAG:sieuxayda remove Giáp tập luyện cấp 3 lydo: Mặc vào người at 03/12/2023 10:19 PM
+BAG:sieuxayda remove 1xMáy dò Capsule kì bí lydo: Dùng máy dò at 03/12/2023 10:20 PM
+BAG:sieuxayda remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 10:21 PM
+BAG:sieuxayda remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 10:21 PM
+BAG:sieuxayda remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 10:21 PM
+BAG:sieuxayda remove Ẩn danh lydo: Tự Xóa vật phẩm at 03/12/2023 10:21 PM
+BAG:sieuxayda remove Đá Saphia lydo: Tự Xóa vật phẩm at 03/12/2023 10:21 PM
+BAG:sieuxayda remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 10:21 PM
+BAG:sieuxayda remove Hoa hồng đỏ lydo: Tự Xóa vật phẩm at 03/12/2023 10:22 PM
+BAG:sieuxayda remove Hoa hồng xanh lydo: Tự Xóa vật phẩm at 03/12/2023 10:22 PM
+BAG:sieuxayda remove Bổ khí lydo: Tự Xóa vật phẩm at 03/12/2023 10:22 PM
+BAG:sieuxayda remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 10:22 PM
+BAG:sieuxayda remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 10:22 PM
+BAG:sieuxayda remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 10:22 PM
+BAG:sieuxayda remove Hoa hồng vàng lydo: Tự Xóa vật phẩm at 03/12/2023 10:22 PM
+BAG:sieuxayda remove 1xBổ huyết lydo: Dùng buff at 03/12/2023 10:22 PM
+BAG:sieuxayda remove 1xCuồng nộ lydo: Dùng buff at 03/12/2023 10:26 PM
+BAG:sieuxayda remove Giáp tập luyện cấp 3 lydo: Mặc vào người at 03/12/2023 10:27 PM
+BAG:sieuxayda remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/12/2023 10:30 PM
+BAG:sieuxayda remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/12/2023 10:46 PM
+BAG:sieuxayda remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/12/2023 11:01 PM
+BAG:sieuxayda remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/12/2023 11:22 PM
+BAG:sieuxayda remove Hoa hồng xanh lydo: Tự Xóa vật phẩm at 03/12/2023 11:33 PM
+BAG:sieuxayda remove 1xBổ huyết lydo: Dùng buff at 03/12/2023 11:33 PM
+BAG:sieuxayda remove Giáp tập luyện cấp 3 lydo: Mặc vào người at 03/12/2023 11:37 PM
+BAG:sieuxayda remove Giáp tập luyện cấp 3 lydo: Mặc vào người at 03/12/2023 11:39 PM
+BAG:sieuxayda remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/12/2023 11:41 PM

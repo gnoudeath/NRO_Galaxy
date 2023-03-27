@@ -1,0 +1,95 @@
+BAG:pnott remove 1xĐậu thần cấp 9 lydo: Ăn đậu at 03/12/2023 7:03 AM
+BAG:pnott remove 1xĐậu thần cấp 9 lydo: Ăn đậu at 03/12/2023 7:05 AM
+BAG:pnott remove 1xĐậu thần cấp 9 lydo: Ăn đậu at 03/12/2023 7:07 AM
+BAG:pnott remove Ngọc Rồng 6 sao lydo: Tự Xóa vật phẩm at 03/12/2023 7:10 AM
+BAG:pnott remove Đậu thần cấp 10 lydo: Tự Xóa vật phẩm at 03/12/2023 7:10 AM
+BAG:pnott remove 1xSao pha lê lydo: Ép ngọc rồng at 03/12/2023 7:13 AM
+BAG:pnott remove 99xThỏi vàng lydo: Tách thỏi vàng at 03/12/2023 7:15 AM
+BAG:pnott remove 1xThỏi vàng lydo: Bán cho shop at 03/12/2023 7:15 AM
+BAG:pnott remove 1xThỏi vàng lydo: Bán cho shop at 03/12/2023 7:15 AM
+BAG:pnott remove 1xThỏi vàng lydo: Bán cho shop at 03/12/2023 7:15 AM
+BAG:pnott remove 1xSao pha lê lydo: Ép ngọc rồng at 03/12/2023 7:17 AM
+BAG:pnott remove 1xSao pha lê lydo: Ép ngọc rồng at 03/12/2023 7:18 AM
+BAG:pnott remove 1xSao pha lê lydo: Ép ngọc rồng at 03/12/2023 7:20 AM
+BAG:pnott remove 1xSao pha lê lydo: Ép ngọc rồng at 03/12/2023 7:21 AM
+BAG:pnott remove Áo lông đỏ lydo: Mặc vào người at 03/12/2023 7:22 AM
+BAG:pnott remove 1xThỏi vàng lydo: Bán cho shop at 03/12/2023 7:23 AM
+BAG:pnott remove 1xThỏi vàng lydo: Bán cho shop at 03/12/2023 7:23 AM
+BAG:pnott remove 1xThỏi vàng lydo: Bán cho shop at 03/12/2023 7:23 AM
+BAG:pnott remove 1xSao pha lê lydo: Ép ngọc rồng at 03/12/2023 7:26 AM
+BAG:pnott remove 1xSao pha lê lydo: Ép ngọc rồng at 03/12/2023 7:27 AM
+BAG:pnott remove 1xSao pha lê lydo: Ép ngọc rồng at 03/12/2023 7:28 AM
+BAG:pnott remove 1xSao pha lê lydo: Ép ngọc rồng at 03/12/2023 7:29 AM
+BAG:pnott remove 1xSao pha lê lydo: Ép ngọc rồng at 03/12/2023 7:30 AM
+BAG:pnott remove 1xSao pha lê lydo: Ép ngọc rồng at 03/12/2023 7:31 AM
+BAG:pnott remove Quần lông đỏ lydo: Mặc vào người at 03/12/2023 7:32 AM
+BAG:pnott remove 1xThỏi vàng lydo: Bán cho shop at 03/12/2023 7:33 AM
+BAG:pnott remove 1xThỏi vàng lydo: Bán cho shop at 03/12/2023 7:33 AM
+BAG:pnott remove 1xThỏi vàng lydo: Bán cho shop at 03/12/2023 7:33 AM
+BAG:pnott remove 1xSao pha lê lydo: Ép ngọc rồng at 03/12/2023 7:35 AM
+BAG:pnott remove 1xSao pha lê lydo: Ép ngọc rồng at 03/12/2023 7:36 AM
+BAG:pnott remove 1xSao pha lê lydo: Ép ngọc rồng at 03/12/2023 7:37 AM
+BAG:pnott remove 1xSao pha lê lydo: Ép ngọc rồng at 03/12/2023 7:38 AM
+BAG:pnott remove 1xSao pha lê lydo: Ép ngọc rồng at 03/12/2023 7:39 AM
+BAG:pnott remove 1xSao pha lê lydo: Ép ngọc rồng at 03/12/2023 7:40 AM
+BAG:pnott remove Găng da Xayda lydo: Mặc vào người at 03/12/2023 7:41 AM
+BAG:pnott remove 1xThỏi vàng lydo: Bán cho shop at 03/12/2023 7:42 AM
+BAG:pnott remove 1xGiày lông đỏ lydo: Bán cho shop at 03/12/2023 7:42 AM
+BAG:pnott remove Giày siêu Xayda lydo: Mặc vào người at 03/12/2023 7:44 AM
+BAG:pnott remove 1xThỏi vàng lydo: Bán cho shop at 03/12/2023 7:44 AM
+BAG:pnott remove 1xSao pha lê lydo: Ép ngọc rồng at 03/12/2023 7:47 AM
+BAG:pnott remove 1xSao pha lê lydo: Ép ngọc rồng at 03/12/2023 7:48 AM
+BAG:pnott remove 1xSao pha lê lydo: Ép ngọc rồng at 03/12/2023 7:49 AM
+BAG:pnott remove 1xSao pha lê lydo: Ép ngọc rồng at 03/12/2023 7:50 AM
+BAG:pnott remove 1xSao pha lê lydo: Ép ngọc rồng at 03/12/2023 7:51 AM
+BAG:pnott remove Giày siêu Xayda lydo: Mặc vào người at 03/12/2023 7:51 AM
+BAG:pnott remove 1xThỏi vàng lydo: Bán cho shop at 03/12/2023 7:52 AM
+BAG:pnott remove 1xThỏi vàng lydo: Bán cho shop at 03/12/2023 7:52 AM
+BAG:pnott remove 1xThỏi vàng lydo: Bán cho shop at 03/12/2023 7:52 AM
+BAG:pnott remove 1xSao pha lê lydo: Ép ngọc rồng at 03/12/2023 7:54 AM
+BAG:pnott remove 1xSao pha lê lydo: Ép ngọc rồng at 03/12/2023 7:55 AM
+BAG:pnott remove 1xSao pha lê lydo: Ép ngọc rồng at 03/12/2023 7:56 AM
+BAG:pnott remove 1xSao pha lê lydo: Ép ngọc rồng at 03/12/2023 7:57 AM
+BAG:pnott remove 1xSao pha lê lydo: Ép ngọc rồng at 03/12/2023 7:58 AM
+BAG:pnott remove 12xĐá lục bảo lydo: Dùng đá nâng cấp at 03/12/2023 8:00 AM
+BAG:pnott remove Rada cấp 10 lydo: Mặc vào người at 03/12/2023 8:01 AM
+BAG:pnott remove 1xĐậu thần cấp 9 lydo: Ăn đậu at 03/12/2023 8:01 AM
+BAG:pnott remove 1xĐậu thần cấp 9 lydo: Ăn đậu at 03/12/2023 8:14 AM
+BAG:pnott remove 1xĐậu thần cấp 9 lydo: Ăn đậu at 03/12/2023 8:14 AM
+BAG:pnott remove 1xĐậu thần cấp 9 lydo: Ăn đậu at 03/12/2023 8:14 AM
+BAG:pnott remove 1xĐậu thần cấp 9 lydo: Ăn đậu at 03/12/2023 8:15 AM
+BAG:pnott remove 1xĐậu thần cấp 9 lydo: Ăn đậu at 03/12/2023 8:15 AM
+BAG:pnott remove 1xĐậu thần cấp 9 lydo: Ăn đậu at 03/12/2023 8:15 AM
+BAG:pnott remove 1xĐậu thần cấp 9 lydo: Ăn đậu at 03/12/2023 8:15 AM
+BAG:pnott remove 1xĐậu thần cấp 9 lydo: Ăn đậu at 03/12/2023 8:15 AM
+BAG:pnott remove 1xĐậu thần cấp 9 lydo: Ăn đậu at 03/12/2023 8:16 AM
+BAG:pnott remove 1xĐậu thần cấp 9 lydo: Ăn đậu at 03/12/2023 8:16 AM
+BAG:pnott remove 1xĐậu thần cấp 9 lydo: Ăn đậu at 03/12/2023 8:16 AM
+BAG:pnott remove 1xĐậu thần cấp 9 lydo: Ăn đậu at 03/12/2023 8:16 AM
+BAG:pnott remove 1xĐậu thần cấp 9 lydo: Ăn đậu at 03/12/2023 8:16 AM
+BAG:pnott remove 1xĐậu thần cấp 9 lydo: Ăn đậu at 03/12/2023 8:16 AM
+BAG:pnott remove 1xĐậu thần cấp 9 lydo: Ăn đậu at 03/12/2023 8:17 AM
+BAG:pnott remove 1xĐậu thần cấp 9 lydo: Ăn đậu at 03/12/2023 8:17 AM
+BAG:pnott remove 1xĐậu thần cấp 9 lydo: Ăn đậu at 03/12/2023 8:17 AM
+BAG:pnott remove 1xĐậu thần cấp 9 lydo: Ăn đậu at 03/12/2023 8:17 AM
+BAG:pnott remove 1xĐậu thần cấp 9 lydo: Ăn đậu at 03/12/2023 8:17 AM
+BAG:pnott remove 1xĐậu thần cấp 9 lydo: Ăn đậu at 03/12/2023 8:17 AM
+BAG:pnott remove 1xĐậu thần cấp 9 lydo: Ăn đậu at 03/12/2023 8:18 AM
+BAG:pnott remove 1xĐậu thần cấp 9 lydo: Ăn đậu at 03/12/2023 8:18 AM
+BAG:pnott remove 1xĐậu thần cấp 9 lydo: Ăn đậu at 03/12/2023 8:18 AM
+BAG:pnott remove 1xĐậu thần cấp 9 lydo: Ăn đậu at 03/12/2023 8:19 AM
+BAG:pnott remove 1xĐậu thần cấp 9 lydo: Ăn đậu at 03/12/2023 8:19 AM
+BAG:pnott remove 1xĐậu thần cấp 9 lydo: Ăn đậu at 03/12/2023 8:19 AM
+BAG:pnott remove 1xĐậu thần cấp 9 lydo: Ăn đậu at 03/12/2023 8:19 AM
+BAG:pnott remove 1xĐậu thần cấp 9 lydo: Ăn đậu at 03/12/2023 8:19 AM
+BAG:pnott remove 1xĐậu thần cấp 9 lydo: Ăn đậu at 03/12/2023 8:20 AM
+BAG:pnott remove 1xĐậu thần cấp 9 lydo: Ăn đậu at 03/12/2023 8:20 AM
+BAG:pnott remove 1xĐậu thần cấp 9 lydo: Ăn đậu at 03/12/2023 8:20 AM
+BAG:pnott remove 1xĐậu thần cấp 9 lydo: Ăn đậu at 03/12/2023 8:20 AM
+BAG:pnott remove 1xĐậu thần cấp 9 lydo: Ăn đậu at 03/12/2023 8:21 AM
+BAG:pnott remove 1xĐậu thần cấp 9 lydo: Ăn đậu at 03/12/2023 8:21 AM
+BAG:pnott remove 1xĐậu thần cấp 9 lydo: Ăn đậu at 03/12/2023 8:21 AM
+BAG:pnott remove 1xĐậu thần cấp 9 lydo: Ăn đậu at 03/12/2023 8:21 AM
+BAG:pnott remove 1xĐậu thần cấp 9 lydo: Ăn đậu at 03/12/2023 8:21 AM
+BAG:pnott remove 1xĐậu thần cấp 9 lydo: Ăn đậu at 03/12/2023 8:22 AM
+BAG:pnott remove 1xĐậu thần cấp 9 lydo: Ăn đậu at 03/12/2023 8:22 AM

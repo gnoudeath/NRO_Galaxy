@@ -1,0 +1,221 @@
+BAG:charlotte add 11xĐá thạch anh tím (old: 10) lydo: Nhặt từ map at 03/11/2023 7:11 AM
+BAG:charlotte add 68xHoa hồng đỏ (old: 67) lydo: Nhặt từ map at 03/11/2023 7:11 AM
+BAG:charlotte add 69xHoa hồng đỏ (old: 68) lydo: Nhặt từ map at 03/11/2023 7:11 AM
+BAG:charlotte add 70xHoa hồng xanh (old: 69) lydo: Nhặt từ map at 03/11/2023 7:12 AM
+BAG:charlotte add 7xĐá Ruby (old: 6) lydo: Nhặt từ map at 03/11/2023 7:12 AM
+BAG:charlotte add 1xBông tai Porata lydo: Mua từ cửa hàng at 03/11/2023 7:13 AM
+BAG:charlotte add 1xBó hoa hồng đỏ lydo: Đổi bó hoa hồng đỏ at 03/11/2023 7:13 AM
+BAG:charlotte add 2xBó hoa hồng đỏ (old: 1) lydo: Đổi bó hoa hồng đỏ at 03/11/2023 7:13 AM
+BAG:charlotte add 3xBó hoa hồng đỏ (old: 2) lydo: Đổi bó hoa hồng đỏ at 03/11/2023 7:13 AM
+BAG:charlotte add 4xBó hoa hồng đỏ (old: 3) lydo: Đổi bó hoa hồng đỏ at 03/11/2023 7:13 AM
+BAG:charlotte add 5xBó hoa hồng đỏ (old: 4) lydo: Đổi bó hoa hồng đỏ at 03/11/2023 7:13 AM
+BAG:charlotte add 6xBó hoa hồng đỏ (old: 5) lydo: Đổi bó hoa hồng đỏ at 03/11/2023 7:13 AM
+BAG:charlotte add 1xBó hoa hồng xanh lydo: Đổi bó hoa hồng xanh at 03/11/2023 7:13 AM
+BAG:charlotte add 2xBó hoa hồng xanh (old: 1) lydo: Đổi bó hoa hồng xanh at 03/11/2023 7:14 AM
+BAG:charlotte add 3xBó hoa hồng xanh (old: 2) lydo: Đổi bó hoa hồng xanh at 03/11/2023 7:14 AM
+BAG:charlotte add 4xBó hoa hồng xanh (old: 3) lydo: Đổi bó hoa hồng xanh at 03/11/2023 7:14 AM
+BAG:charlotte add 5xBó hoa hồng xanh (old: 4) lydo: Đổi bó hoa hồng xanh at 03/11/2023 7:14 AM
+BAG:charlotte add 6xBó hoa hồng xanh (old: 5) lydo: Đổi bó hoa hồng xanh at 03/11/2023 7:14 AM
+BAG:charlotte add 7xBó hoa hồng xanh (old: 6) lydo: Đổi bó hoa hồng xanh at 03/11/2023 7:14 AM
+BAG:charlotte add 1xBó hoa hồng vàng lydo: Đổi bó hoa hồng đỏ at 03/11/2023 7:14 AM
+BAG:charlotte add 2xBó hoa hồng vàng (old: 1) lydo: Đổi bó hoa hồng đỏ at 03/11/2023 7:14 AM
+BAG:charlotte add 3xBó hoa hồng vàng (old: 2) lydo: Đổi bó hoa hồng đỏ at 03/11/2023 7:14 AM
+BAG:charlotte add 4xBó hoa hồng vàng (old: 3) lydo: Đổi bó hoa hồng đỏ at 03/11/2023 7:14 AM
+BAG:charlotte add 5xBó hoa hồng vàng (old: 4) lydo: Đổi bó hoa hồng đỏ at 03/11/2023 7:14 AM
+BAG:charlotte add 6xBó hoa hồng vàng (old: 5) lydo: Đổi bó hoa hồng đỏ at 03/11/2023 7:14 AM
+BAG:charlotte add 7xBó hoa hồng vàng (old: 6) lydo: Đổi bó hoa hồng đỏ at 03/11/2023 7:14 AM
+BAG:charlotte add 8xBó hoa hồng vàng (old: 7) lydo: Đổi bó hoa hồng đỏ at 03/11/2023 7:14 AM
+BAG:charlotte add 9xBó hoa hồng vàng (old: 8) lydo: Đổi bó hoa hồng đỏ at 03/11/2023 7:14 AM
+BAG:charlotte add 10xBó hoa hồng vàng (old: 9) lydo: Đổi bó hoa hồng đỏ at 03/11/2023 7:14 AM
+BAG:charlotte add 10xHoa hồng đỏ (old: 9) lydo: Nhặt từ map at 03/11/2023 7:15 AM
+BAG:charlotte add 1xHoa hồng vàng lydo: Nhặt từ map at 03/11/2023 7:15 AM
+BAG:charlotte add 1xĐá thạch anh tím lydo: Nhặt từ map at 03/11/2023 7:16 AM
+BAG:charlotte add 1xĐá lục bảo lydo: Nhặt từ map at 03/11/2023 7:16 AM
+BAG:charlotte add 11xHoa hồng đỏ (old: 10) lydo: Nhặt từ map at 03/11/2023 7:16 AM
+BAG:charlotte add 12xHoa hồng đỏ (old: 11) lydo: Nhặt từ map at 03/11/2023 7:16 AM
+BAG:charlotte add 1xZenitsu lydo: Lấy từ body đệ vào hành trang at 03/11/2023 7:16 AM
+BAG:charlotte add 1xGiầy nhựa lydo: Nhặt từ map at 03/11/2023 7:16 AM
+BAG:charlotte add 2xHoa hồng vàng (old: 1) lydo: Nhặt từ map at 03/11/2023 7:16 AM
+BAG:charlotte add 1xHoa hồng xanh lydo: Nhặt từ map at 03/11/2023 7:16 AM
+BAG:charlotte add 1xGiầy nhựa lydo: Nhặt từ map at 03/11/2023 7:16 AM
+BAG:charlotte add 1xGiầy nhựa lydo: Nhặt từ map at 03/11/2023 7:16 AM
+BAG:charlotte add 1xGăng vải đen lydo: Nhặt từ map at 03/11/2023 7:16 AM
+BAG:charlotte add 2xHoa hồng xanh (old: 1) lydo: Nhặt từ map at 03/11/2023 7:17 AM
+BAG:charlotte add 1xĐá Titan lydo: Nhặt từ map at 03/11/2023 7:17 AM
+BAG:charlotte add 1xÁo vải 3 lỗ lydo: Nhặt từ map at 03/11/2023 7:17 AM
+BAG:charlotte add 1xRada cấp 1 lydo: Nhặt từ map at 03/11/2023 7:17 AM
+BAG:charlotte add 1xGăng vải đen lydo: Nhặt từ map at 03/11/2023 7:17 AM
+BAG:charlotte add 1xÁo vải 3 lỗ lydo: Nhặt từ map at 03/11/2023 7:17 AM
+BAG:charlotte add 1xGiầy nhựa lydo: Nhặt từ map at 03/11/2023 7:17 AM
+BAG:charlotte add 1xQuần vải đen lydo: Nhặt từ map at 03/11/2023 7:17 AM
+BAG:charlotte add 3xHoa hồng vàng (old: 2) lydo: Nhặt từ map at 03/11/2023 7:17 AM
+BAG:charlotte add 1xRada cấp 1 lydo: Nhặt từ map at 03/11/2023 7:17 AM
+BAG:charlotte add 13xHoa hồng đỏ (old: 12) lydo: Nhặt từ map at 03/11/2023 7:17 AM
+BAG:charlotte add 1xĐá Titan lydo: Nhặt từ map at 03/11/2023 7:17 AM
+BAG:charlotte add 4xHoa hồng vàng (old: 3) lydo: Nhặt từ map at 03/11/2023 7:17 AM
+BAG:charlotte add 1xGăng vải đen lydo: Nhặt từ map at 03/11/2023 7:17 AM
+BAG:charlotte add 1xQuần vải đen lydo: Nhặt từ map at 03/11/2023 7:17 AM
+BAG:charlotte add 3xHoa hồng xanh (old: 2) lydo: Nhặt từ map at 03/11/2023 7:17 AM
+BAG:charlotte add 5xHoa hồng vàng (old: 4) lydo: Nhặt từ map at 03/11/2023 7:17 AM
+BAG:charlotte add 1xRada cấp 1 lydo: Nhặt từ map at 03/11/2023 7:17 AM
+BAG:charlotte add 4xHoa hồng xanh (old: 3) lydo: Nhặt từ map at 03/11/2023 7:18 AM
+BAG:charlotte add 6xHoa hồng vàng (old: 5) lydo: Nhặt từ map at 03/11/2023 7:18 AM
+BAG:charlotte add 14xHoa hồng đỏ (old: 13) lydo: Nhặt từ map at 03/11/2023 7:18 AM
+BAG:charlotte add 7xHoa hồng vàng (old: 6) lydo: Nhặt từ map at 03/11/2023 7:18 AM
+BAG:charlotte add 8xHoa hồng vàng (old: 7) lydo: Nhặt từ map at 03/11/2023 7:18 AM
+BAG:charlotte add 5xHoa hồng xanh (old: 4) lydo: Nhặt từ map at 03/11/2023 7:18 AM
+BAG:charlotte add 1xGăng vải đen lydo: Nhặt từ map at 03/11/2023 7:18 AM
+BAG:charlotte add 9xHoa hồng vàng (old: 8) lydo: Nhặt từ map at 03/11/2023 7:18 AM
+BAG:charlotte add 1xĐá Saphia lydo: Nhặt từ map at 03/11/2023 7:18 AM
+BAG:charlotte add 1xĐá Ruby lydo: Nhặt từ map at 03/11/2023 7:18 AM
+BAG:charlotte add 1xGiầy nhựa lydo: Nhặt từ map at 03/11/2023 7:18 AM
+BAG:charlotte add 10xHoa hồng vàng (old: 9) lydo: Nhặt từ map at 03/11/2023 7:18 AM
+BAG:charlotte add 11xHoa hồng vàng (old: 10) lydo: Nhặt từ map at 03/11/2023 7:18 AM
+BAG:charlotte add 1xQuần vải đen lydo: Nhặt từ map at 03/11/2023 7:18 AM
+BAG:charlotte add 1xGiầy nhựa lydo: Nhặt từ map at 03/11/2023 7:18 AM
+BAG:charlotte add 12xHoa hồng vàng (old: 11) lydo: Nhặt từ map at 03/11/2023 7:18 AM
+BAG:charlotte add 15xHoa hồng đỏ (old: 14) lydo: Nhặt từ map at 03/11/2023 7:18 AM
+BAG:charlotte add 1xMảnh Khủng long lydo: Nhặt từ map at 03/11/2023 7:19 AM
+BAG:charlotte add 1xGăng vải đen lydo: Nhặt từ map at 03/11/2023 7:19 AM
+BAG:charlotte add 1xGăng vải đen lydo: Nhặt từ map at 03/11/2023 7:19 AM
+BAG:charlotte add 13xHoa hồng vàng (old: 12) lydo: Nhặt từ map at 03/11/2023 7:19 AM
+BAG:charlotte add 14xHoa hồng vàng (old: 13) lydo: Nhặt từ map at 03/11/2023 7:19 AM
+BAG:charlotte add 1xRada cấp 1 lydo: Nhặt từ map at 03/11/2023 7:19 AM
+BAG:charlotte add 1xÁo vải 3 lỗ lydo: Nhặt từ map at 03/11/2023 7:19 AM
+BAG:charlotte add 16xHoa hồng đỏ (old: 15) lydo: Nhặt từ map at 03/11/2023 7:19 AM
+BAG:charlotte add 1xQuần vải đen lydo: Nhặt từ map at 03/11/2023 7:19 AM
+BAG:charlotte add 1xĐá Ruby lydo: Nhặt từ map at 03/11/2023 7:19 AM
+BAG:charlotte add 1xÁo vải 3 lỗ lydo: Nhặt từ map at 03/11/2023 7:19 AM
+BAG:charlotte add 1xQuần vải đen lydo: Nhặt từ map at 03/11/2023 7:19 AM
+BAG:charlotte add 1xGiầy nhựa lydo: Nhặt từ map at 03/11/2023 7:19 AM
+BAG:charlotte add 1xRada cấp 1 lydo: Nhặt từ map at 03/11/2023 7:19 AM
+BAG:charlotte add 17xHoa hồng đỏ (old: 16) lydo: Nhặt từ map at 03/11/2023 7:19 AM
+BAG:charlotte add 1xRada cấp 1 lydo: Nhặt từ map at 03/11/2023 7:19 AM
+BAG:charlotte add 6xHoa hồng xanh (old: 5) lydo: Nhặt từ map at 03/11/2023 7:20 AM
+BAG:charlotte add 1xGăng vải đen lydo: Nhặt từ map at 03/11/2023 7:20 AM
+BAG:charlotte add 15xHoa hồng vàng (old: 14) lydo: Nhặt từ map at 03/11/2023 7:20 AM
+BAG:charlotte add 16xHoa hồng vàng (old: 15) lydo: Nhặt từ map at 03/11/2023 7:20 AM
+BAG:charlotte add 1xRada cấp 1 lydo: Nhặt từ map at 03/11/2023 7:20 AM
+BAG:charlotte add 17xHoa hồng vàng (old: 16) lydo: Nhặt từ map at 03/11/2023 7:20 AM
+BAG:charlotte add 18xHoa hồng đỏ (old: 17) lydo: Nhặt từ map at 03/11/2023 7:20 AM
+BAG:charlotte add 18xHoa hồng vàng (old: 17) lydo: Nhặt từ map at 03/11/2023 7:20 AM
+BAG:charlotte add 19xHoa hồng vàng (old: 18) lydo: Nhặt từ map at 03/11/2023 7:20 AM
+BAG:charlotte add 1xGiầy nhựa lydo: Nhặt từ map at 03/11/2023 7:20 AM
+BAG:charlotte add 20xHoa hồng vàng (old: 19) lydo: Nhặt từ map at 03/11/2023 7:20 AM
+BAG:charlotte add 1xQuần vải đen lydo: Nhặt từ map at 03/11/2023 7:20 AM
+BAG:charlotte add 19xHoa hồng đỏ (old: 18) lydo: Nhặt từ map at 03/11/2023 7:21 AM
+BAG:charlotte add 7xHoa hồng xanh (old: 6) lydo: Nhặt từ map at 03/11/2023 7:21 AM
+BAG:charlotte add 1xGăng vải đen lydo: Nhặt từ map at 03/11/2023 7:21 AM
+BAG:charlotte add 20xHoa hồng đỏ (old: 19) lydo: Nhặt từ map at 03/11/2023 7:21 AM
+BAG:charlotte add 1xÁo vải 3 lỗ lydo: Nhặt từ map at 03/11/2023 7:21 AM
+BAG:charlotte add 21xHoa hồng đỏ (old: 20) lydo: Nhặt từ map at 03/11/2023 7:21 AM
+BAG:charlotte add 1xGăng vải đen lydo: Nhặt từ map at 03/11/2023 7:21 AM
+BAG:charlotte add 21xHoa hồng vàng (old: 20) lydo: Nhặt từ map at 03/11/2023 7:22 AM
+BAG:charlotte add 22xHoa hồng đỏ (old: 21) lydo: Nhặt từ map at 03/11/2023 7:22 AM
+BAG:charlotte add 22xHoa hồng vàng (old: 21) lydo: Nhặt từ map at 03/11/2023 7:22 AM
+BAG:charlotte add 23xHoa hồng vàng (old: 22) lydo: Nhặt từ map at 03/11/2023 7:22 AM
+BAG:charlotte add 8xHoa hồng xanh (old: 7) lydo: Nhặt từ map at 03/11/2023 7:22 AM
+BAG:charlotte add 9xHoa hồng xanh (old: 8) lydo: Nhặt từ map at 03/11/2023 7:22 AM
+BAG:charlotte add 24xHoa hồng vàng (old: 23) lydo: Nhặt từ map at 03/11/2023 7:22 AM
+BAG:charlotte add 10xHoa hồng xanh (old: 9) lydo: Nhặt từ map at 03/11/2023 7:23 AM
+BAG:charlotte add 11xHoa hồng xanh (old: 10) lydo: Nhặt từ map at 03/11/2023 7:23 AM
+BAG:charlotte add 25xHoa hồng vàng (old: 24) lydo: Nhặt từ map at 03/11/2023 7:23 AM
+BAG:charlotte add 26xHoa hồng vàng (old: 25) lydo: Nhặt từ map at 03/11/2023 7:23 AM
+BAG:charlotte add 27xHoa hồng vàng (old: 26) lydo: Nhặt từ map at 03/11/2023 7:23 AM
+BAG:charlotte add 23xHoa hồng đỏ (old: 22) lydo: Nhặt từ map at 03/11/2023 7:23 AM
+BAG:charlotte add 12xHoa hồng xanh (old: 11) lydo: Nhặt từ map at 03/11/2023 7:23 AM
+BAG:charlotte add 28xHoa hồng vàng (old: 27) lydo: Nhặt từ map at 03/11/2023 7:23 AM
+BAG:charlotte add 1xNgọc Rồng 6 sao lydo: Nhặt từ map at 03/11/2023 7:23 AM
+BAG:charlotte add 1xĐá Saphia lydo: Nhặt từ map at 03/11/2023 7:23 AM
+BAG:charlotte add 29xHoa hồng vàng (old: 28) lydo: Nhặt từ map at 03/11/2023 7:23 AM
+BAG:charlotte add 2xĐá Saphia (old: 1) lydo: Nhặt từ map at 03/11/2023 7:23 AM
+BAG:charlotte add 30xHoa hồng vàng (old: 29) lydo: Nhặt từ map at 03/11/2023 7:24 AM
+BAG:charlotte add 24xHoa hồng đỏ (old: 23) lydo: Nhặt từ map at 03/11/2023 7:24 AM
+BAG:charlotte add 1xĐá Titan lydo: Nhặt từ map at 03/11/2023 7:24 AM
+BAG:charlotte add 25xHoa hồng đỏ (old: 24) lydo: Nhặt từ map at 03/11/2023 7:24 AM
+BAG:charlotte add 26xHoa hồng đỏ (old: 25) lydo: Nhặt từ map at 03/11/2023 7:24 AM
+BAG:charlotte add 13xHoa hồng xanh (old: 12) lydo: Nhặt từ map at 03/11/2023 7:24 AM
+BAG:charlotte add 31xHoa hồng vàng (old: 30) lydo: Nhặt từ map at 03/11/2023 7:24 AM
+BAG:charlotte add 14xHoa hồng xanh (old: 13) lydo: Nhặt từ map at 03/11/2023 7:24 AM
+BAG:charlotte add 1xĐá lục bảo lydo: Nhặt từ map at 03/11/2023 7:24 AM
+BAG:charlotte add 15xHoa hồng xanh (old: 14) lydo: Nhặt từ map at 03/11/2023 7:24 AM
+BAG:charlotte add 27xHoa hồng đỏ (old: 26) lydo: Nhặt từ map at 03/11/2023 7:24 AM
+BAG:charlotte add 32xHoa hồng vàng (old: 31) lydo: Nhặt từ map at 03/11/2023 7:24 AM
+BAG:charlotte add 1xĐá thạch anh tím lydo: Nhặt từ map at 03/11/2023 7:24 AM
+BAG:charlotte add 2xĐá Titan (old: 1) lydo: Nhặt từ map at 03/11/2023 7:25 AM
+BAG:charlotte add 16xHoa hồng xanh (old: 15) lydo: Nhặt từ map at 03/11/2023 7:25 AM
+BAG:charlotte add 1xĐá Ruby lydo: Nhặt từ map at 03/11/2023 7:25 AM
+BAG:charlotte add 28xHoa hồng đỏ (old: 27) lydo: Nhặt từ map at 03/11/2023 7:25 AM
+BAG:charlotte add 33xHoa hồng vàng (old: 32) lydo: Nhặt từ map at 03/11/2023 7:25 AM
+BAG:charlotte add 2xĐá lục bảo (old: 1) lydo: Nhặt từ map at 03/11/2023 7:25 AM
+BAG:charlotte add 34xHoa hồng vàng (old: 33) lydo: Nhặt từ map at 03/11/2023 7:25 AM
+BAG:charlotte add 3xĐá Saphia (old: 2) lydo: Nhặt từ map at 03/11/2023 7:25 AM
+BAG:charlotte add 29xHoa hồng đỏ (old: 28) lydo: Nhặt từ map at 03/11/2023 7:25 AM
+BAG:charlotte add 30xHoa hồng đỏ (old: 29) lydo: Nhặt từ map at 03/11/2023 7:25 AM
+BAG:charlotte add 35xHoa hồng vàng (old: 34) lydo: Nhặt từ map at 03/11/2023 7:25 AM
+BAG:charlotte add 31xHoa hồng đỏ (old: 30) lydo: Nhặt từ map at 03/11/2023 7:26 AM
+BAG:charlotte add 1xÁo vải 3 lỗ lydo: Nhặt từ map at 03/11/2023 7:26 AM
+BAG:charlotte add 36xHoa hồng vàng (old: 35) lydo: Nhặt từ map at 03/11/2023 7:26 AM
+BAG:charlotte add 37xHoa hồng vàng (old: 36) lydo: Nhặt từ map at 03/11/2023 7:26 AM
+BAG:charlotte add 32xHoa hồng đỏ (old: 31) lydo: Nhặt từ map at 03/11/2023 7:26 AM
+BAG:charlotte add 1xRada cấp 1 lydo: Nhặt từ map at 03/11/2023 7:26 AM
+BAG:charlotte add 33xHoa hồng đỏ (old: 32) lydo: Nhặt từ map at 03/11/2023 7:26 AM
+BAG:charlotte add 1xQuần vải đen lydo: Nhặt từ map at 03/11/2023 7:26 AM
+BAG:charlotte add 1xGiầy nhựa lydo: Nhặt từ map at 03/11/2023 7:26 AM
+BAG:charlotte add 4xĐá Saphia (old: 3) lydo: Nhặt từ map at 03/11/2023 7:26 AM
+BAG:charlotte add 34xHoa hồng đỏ (old: 33) lydo: Nhặt từ map at 03/11/2023 7:26 AM
+BAG:charlotte add 1xNgọc Rồng 5 sao lydo: Nhặt từ map at 03/11/2023 7:26 AM
+BAG:charlotte add 1xRada cấp 1 lydo: Nhặt từ map at 03/11/2023 7:26 AM
+BAG:charlotte add 35xHoa hồng đỏ (old: 34) lydo: Nhặt từ map at 03/11/2023 7:26 AM
+BAG:charlotte add 17xHoa hồng xanh (old: 16) lydo: Nhặt từ map at 03/11/2023 7:26 AM
+BAG:charlotte add 1xGăng vải đen lydo: Nhặt từ map at 03/11/2023 7:26 AM
+BAG:charlotte add 1xGăng vải đen lydo: Nhặt từ map at 03/11/2023 7:26 AM
+BAG:charlotte add 38xHoa hồng vàng (old: 37) lydo: Nhặt từ map at 03/11/2023 7:26 AM
+BAG:charlotte add 18xHoa hồng xanh (old: 17) lydo: Nhặt từ map at 03/11/2023 7:26 AM
+BAG:charlotte add 36xHoa hồng đỏ (old: 35) lydo: Nhặt từ map at 03/11/2023 7:27 AM
+BAG:charlotte add 37xHoa hồng đỏ (old: 36) lydo: Nhặt từ map at 03/11/2023 7:27 AM
+BAG:charlotte add 19xHoa hồng xanh (old: 18) lydo: Nhặt từ map at 03/11/2023 7:27 AM
+BAG:charlotte add 39xHoa hồng vàng (old: 38) lydo: Nhặt từ map at 03/11/2023 7:27 AM
+BAG:charlotte add 40xHoa hồng vàng (old: 39) lydo: Nhặt từ map at 03/11/2023 7:27 AM
+BAG:charlotte add 38xHoa hồng đỏ (old: 37) lydo: Nhặt từ map at 03/11/2023 7:27 AM
+BAG:charlotte add 41xHoa hồng vàng (old: 40) lydo: Nhặt từ map at 03/11/2023 7:27 AM
+BAG:charlotte add 20xHoa hồng xanh (old: 19) lydo: Nhặt từ map at 03/11/2023 7:27 AM
+BAG:charlotte add 39xHoa hồng đỏ (old: 38) lydo: Nhặt từ map at 03/11/2023 7:27 AM
+BAG:charlotte add 21xHoa hồng xanh (old: 20) lydo: Nhặt từ map at 03/11/2023 7:27 AM
+BAG:charlotte add 42xHoa hồng vàng (old: 41) lydo: Nhặt từ map at 03/11/2023 7:27 AM
+BAG:charlotte add 22xHoa hồng xanh (old: 21) lydo: Nhặt từ map at 03/11/2023 7:27 AM
+BAG:charlotte add 23xHoa hồng xanh (old: 22) lydo: Nhặt từ map at 03/11/2023 7:27 AM
+BAG:charlotte add 24xHoa hồng xanh (old: 23) lydo: Nhặt từ map at 03/11/2023 7:27 AM
+BAG:charlotte add 40xHoa hồng đỏ (old: 39) lydo: Nhặt từ map at 03/11/2023 7:27 AM
+BAG:charlotte add 41xHoa hồng đỏ (old: 40) lydo: Nhặt từ map at 03/11/2023 7:27 AM
+BAG:charlotte add 42xHoa hồng đỏ (old: 41) lydo: Nhặt từ map at 03/11/2023 7:27 AM
+BAG:charlotte add 43xHoa hồng vàng (old: 42) lydo: Nhặt từ map at 03/11/2023 7:28 AM
+BAG:charlotte add 25xHoa hồng xanh (old: 24) lydo: Nhặt từ map at 03/11/2023 7:28 AM
+BAG:charlotte add 44xHoa hồng vàng (old: 43) lydo: Nhặt từ map at 03/11/2023 7:28 AM
+BAG:charlotte add 2xĐá thạch anh tím (old: 1) lydo: Nhặt từ map at 03/11/2023 7:28 AM
+BAG:charlotte add 1xViên Capsule đặc biệt lydo: Mua từ cửa hàng at 03/11/2023 7:29 AM
+BAG:charlotte add 26xHoa hồng xanh (old: 25) lydo: Nhặt từ map at 03/11/2023 7:29 AM
+BAG:charlotte add 1xCải trang Hit lydo: Mua từ cửa hàng at 03/11/2023 7:31 AM
+BAG:charlotte add 27xHoa hồng xanh (old: 26) lydo: Nhặt từ map at 03/11/2023 7:35 AM
+BAG:charlotte add 28xHoa hồng xanh (old: 27) lydo: Nhặt từ map at 03/11/2023 7:35 AM
+BAG:charlotte add 3xĐá Titan (old: 2) lydo: Nhặt từ map at 03/11/2023 7:35 AM
+BAG:charlotte add 45xHoa hồng vàng (old: 44) lydo: Nhặt từ map at 03/11/2023 7:35 AM
+BAG:charlotte add 43xHoa hồng đỏ (old: 42) lydo: Nhặt từ map at 03/11/2023 7:35 AM
+BAG:charlotte add 44xHoa hồng đỏ (old: 43) lydo: Nhặt từ map at 03/11/2023 7:35 AM
+BAG:charlotte add 45xHoa hồng đỏ (old: 44) lydo: Nhặt từ map at 03/11/2023 7:35 AM
+BAG:charlotte add 29xHoa hồng xanh (old: 28) lydo: Nhặt từ map at 03/11/2023 7:35 AM
+BAG:charlotte add 3xĐá thạch anh tím (old: 2) lydo: Nhặt từ map at 03/11/2023 7:35 AM
+BAG:charlotte add 1xĐá Ruby lydo: Nhặt từ map at 03/11/2023 7:35 AM
+BAG:charlotte add 46xHoa hồng vàng (old: 45) lydo: Nhặt từ map at 03/11/2023 7:35 AM
+BAG:charlotte add 47xHoa hồng vàng (old: 46) lydo: Nhặt từ map at 03/11/2023 7:35 AM
+BAG:charlotte add 48xHoa hồng vàng (old: 47) lydo: Nhặt từ map at 03/11/2023 7:36 AM
+BAG:charlotte add 49xHoa hồng vàng (old: 48) lydo: Nhặt từ map at 03/11/2023 7:36 AM
+BAG:charlotte add 50xHoa hồng vàng (old: 49) lydo: Nhặt từ map at 03/11/2023 7:36 AM
+BAG:charlotte add 4xĐá thạch anh tím (old: 3) lydo: Nhặt từ map at 03/11/2023 7:36 AM
+BAG:charlotte add 51xHoa hồng vàng (old: 50) lydo: Nhặt từ map at 03/11/2023 7:36 AM
+BAG:charlotte add 46xHoa hồng đỏ (old: 45) lydo: Nhặt từ map at 03/11/2023 7:36 AM
+BAG:charlotte add 47xHoa hồng đỏ (old: 46) lydo: Nhặt từ map at 03/11/2023 7:36 AM
+BAG:charlotte add 4xĐá Titan (old: 3) lydo: Nhặt từ map at 03/11/2023 7:37 AM
+BAG:charlotte add 2xĐá Ruby (old: 1) lydo: Nhặt từ map at 03/11/2023 7:37 AM
+BAG:charlotte add 52xHoa hồng vàng (old: 51) lydo: Nhặt từ map at 03/11/2023 7:37 AM
+BAG:charlotte add 53xHoa hồng vàng (old: 52) lydo: Nhặt từ map at 03/11/2023 7:37 AM

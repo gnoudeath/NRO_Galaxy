@@ -1,0 +1,278 @@
+BAG:lumiatakia add 2xHoa hồng xanh (old: 1) lydo: Nhặt từ map at 03/11/2023 5:57 AM
+BAG:lumiatakia add 3xHoa hồng xanh (old: 2) lydo: Nhặt từ map at 03/11/2023 5:57 AM
+BAG:lumiatakia add 4xHoa hồng vàng (old: 3) lydo: Nhặt từ map at 03/11/2023 5:57 AM
+BAG:lumiatakia add 4xHoa hồng xanh (old: 3) lydo: Nhặt từ map at 03/11/2023 5:58 AM
+BAG:lumiatakia add 5xHoa hồng vàng (old: 4) lydo: Nhặt từ map at 03/11/2023 5:59 AM
+BAG:lumiatakia add 5xHoa hồng đỏ (old: 4) lydo: Nhặt từ map at 03/11/2023 6:48 PM
+BAG:lumiatakia add 5xHoa hồng xanh (old: 4) lydo: Nhặt từ map at 03/11/2023 6:49 PM
+BAG:lumiatakia add 6xHoa hồng xanh (old: 5) lydo: Nhặt từ map at 03/11/2023 6:50 PM
+BAG:lumiatakia add 7xHoa hồng xanh (old: 6) lydo: Nhặt từ map at 03/11/2023 6:51 PM
+BAG:lumiatakia add 6xHoa hồng đỏ (old: 5) lydo: Nhặt từ map at 03/11/2023 6:53 PM
+BAG:lumiatakia add 6xHoa hồng vàng (old: 5) lydo: Nhặt từ map at 03/11/2023 6:53 PM
+BAG:lumiatakia add 7xHoa hồng vàng (old: 6) lydo: Nhặt từ map at 03/11/2023 6:54 PM
+BAG:lumiatakia add 3xĐá Titan (old: 2) lydo: Nhặt từ map at 03/11/2023 6:54 PM
+BAG:lumiatakia add 8xHoa hồng xanh (old: 7) lydo: Nhặt từ map at 03/11/2023 6:55 PM
+BAG:lumiatakia add 9xĐá Ruby (old: 8) lydo: Nhặt từ map at 03/11/2023 6:56 PM
+BAG:lumiatakia add 1xGiáp tập luyện cấp 1 lydo: Mua từ cửa hàng at 03/11/2023 6:57 PM
+BAG:lumiatakia add 8xHoa hồng vàng (old: 7) lydo: Nhặt từ map at 03/11/2023 6:57 PM
+BAG:lumiatakia add 9xHoa hồng vàng (old: 8) lydo: Nhặt từ map at 03/11/2023 6:57 PM
+BAG:lumiatakia add 10xHoa hồng vàng (old: 9) lydo: Nhặt từ map at 03/11/2023 6:57 PM
+BAG:lumiatakia add 11xHoa hồng vàng (old: 10) lydo: Nhặt từ map at 03/11/2023 6:57 PM
+BAG:lumiatakia add 1xQuần vải thô lydo: Lấy từ rương qua người at 03/11/2023 6:58 PM
+BAG:lumiatakia add 1xRada cấp 1 lydo: Lấy từ rương qua người at 03/11/2023 6:58 PM
+BAG:lumiatakia add 1xGiầy vải thô lydo: Lấy từ rương qua người at 03/11/2023 6:58 PM
+BAG:lumiatakia add 1xGăng vải thô lydo: Lấy từ rương qua người at 03/11/2023 6:58 PM
+BAG:lumiatakia add 1xÁo vải thô lydo: Lấy từ rương qua người at 03/11/2023 6:58 PM
+BAG:lumiatakia add 7xHoa hồng đỏ (old: 6) lydo: Nhặt từ map at 03/11/2023 7:00 PM
+BAG:lumiatakia add 1xĐá Saphia lydo: Nhặt từ map at 03/11/2023 7:00 PM
+BAG:lumiatakia add 12xHoa hồng vàng (old: 11) lydo: Nhặt từ map at 03/11/2023 7:00 PM
+BAG:lumiatakia add 9xHoa hồng xanh (old: 8) lydo: Nhặt từ map at 03/11/2023 7:00 PM
+BAG:lumiatakia add 13xHoa hồng vàng (old: 12) lydo: Nhặt từ map at 03/11/2023 7:00 PM
+BAG:lumiatakia add 2xĐá thạch anh tím (old: 1) lydo: Nhặt từ map at 03/11/2023 7:00 PM
+BAG:lumiatakia add 3xĐá thạch anh tím (old: 2) lydo: Nhặt từ map at 03/11/2023 7:00 PM
+BAG:lumiatakia add 8xHoa hồng đỏ (old: 7) lydo: Nhặt từ map at 03/11/2023 7:01 PM
+BAG:lumiatakia add 2xĐá Saphia (old: 1) lydo: Nhặt từ map at 03/11/2023 7:02 PM
+BAG:lumiatakia add 10xHoa hồng xanh (old: 9) lydo: Nhặt từ map at 03/11/2023 7:02 PM
+BAG:lumiatakia add 9xHoa hồng đỏ (old: 8) lydo: Nhặt từ map at 03/11/2023 7:02 PM
+BAG:lumiatakia add 10xHoa hồng đỏ (old: 9) lydo: Nhặt từ map at 03/11/2023 7:03 PM
+BAG:lumiatakia add 11xHoa hồng đỏ (old: 10) lydo: Nhặt từ map at 03/11/2023 7:03 PM
+BAG:lumiatakia add 12xHoa hồng đỏ (old: 11) lydo: Nhặt từ map at 03/11/2023 7:03 PM
+BAG:lumiatakia add 13xHoa hồng đỏ (old: 12) lydo: Nhặt từ map at 03/11/2023 7:03 PM
+BAG:lumiatakia add 1xĐá Titan lydo: Nhặt từ map at 03/11/2023 7:03 PM
+BAG:lumiatakia add 14xHoa hồng đỏ (old: 13) lydo: Nhặt từ map at 03/11/2023 7:04 PM
+BAG:lumiatakia add 14xHoa hồng vàng (old: 13) lydo: Nhặt từ map at 03/11/2023 7:04 PM
+BAG:lumiatakia add 15xHoa hồng vàng (old: 14) lydo: Nhặt từ map at 03/11/2023 7:04 PM
+BAG:lumiatakia add 16xHoa hồng vàng (old: 15) lydo: Nhặt từ map at 03/11/2023 7:04 PM
+BAG:lumiatakia add 11xHoa hồng xanh (old: 10) lydo: Nhặt từ map at 03/11/2023 7:04 PM
+BAG:lumiatakia add 12xHoa hồng xanh (old: 11) lydo: Nhặt từ map at 03/11/2023 7:04 PM
+BAG:lumiatakia add 13xHoa hồng xanh (old: 12) lydo: Nhặt từ map at 03/11/2023 7:05 PM
+BAG:lumiatakia add 17xHoa hồng vàng (old: 16) lydo: Nhặt từ map at 03/11/2023 7:05 PM
+BAG:lumiatakia add 15xHoa hồng đỏ (old: 14) lydo: Nhặt từ map at 03/11/2023 7:06 PM
+BAG:lumiatakia add 14xHoa hồng xanh (old: 13) lydo: Nhặt từ map at 03/11/2023 7:06 PM
+BAG:lumiatakia add 15xHoa hồng xanh (old: 14) lydo: Nhặt từ map at 03/11/2023 7:06 PM
+BAG:lumiatakia add 16xHoa hồng đỏ (old: 15) lydo: Nhặt từ map at 03/11/2023 7:06 PM
+BAG:lumiatakia add 16xHoa hồng xanh (old: 15) lydo: Nhặt từ map at 03/11/2023 7:07 PM
+BAG:lumiatakia add 1xĐá Ruby lydo: Nhặt từ map at 03/11/2023 7:08 PM
+BAG:lumiatakia add 2xĐá Titan (old: 1) lydo: Nhặt từ map at 03/11/2023 7:11 PM
+BAG:lumiatakia add 17xHoa hồng đỏ (old: 16) lydo: Nhặt từ map at 03/11/2023 7:12 PM
+BAG:lumiatakia add 18xHoa hồng đỏ (old: 17) lydo: Nhặt từ map at 03/11/2023 7:12 PM
+BAG:lumiatakia add 18xHoa hồng vàng (old: 17) lydo: Nhặt từ map at 03/11/2023 7:12 PM
+BAG:lumiatakia add 19xHoa hồng vàng (old: 18) lydo: Nhặt từ map at 03/11/2023 7:12 PM
+BAG:lumiatakia add 20xHoa hồng vàng (old: 19) lydo: Nhặt từ map at 03/11/2023 7:12 PM
+BAG:lumiatakia add 21xHoa hồng vàng (old: 20) lydo: Nhặt từ map at 03/11/2023 7:12 PM
+BAG:lumiatakia add 3xĐá Titan (old: 2) lydo: Nhặt từ map at 03/11/2023 7:12 PM
+BAG:lumiatakia add 22xHoa hồng vàng (old: 21) lydo: Nhặt từ map at 03/11/2023 7:12 PM
+BAG:lumiatakia add 17xHoa hồng xanh (old: 16) lydo: Nhặt từ map at 03/11/2023 7:12 PM
+BAG:lumiatakia add 23xHoa hồng vàng (old: 22) lydo: Nhặt từ map at 03/11/2023 7:12 PM
+BAG:lumiatakia add 1xMèo mun lydo: Lấy từ lucky box at 03/11/2023 7:15 PM
+BAG:lumiatakia add 1xNgọc Rồng 5 sao lydo: Lấy từ lucky box at 03/11/2023 7:16 PM
+BAG:lumiatakia add 1xNgọc Rồng 4 sao lydo: Lấy từ lucky box at 03/11/2023 7:16 PM
+BAG:lumiatakia add 1xNgọc Rồng 6 sao lydo: Lấy từ lucky box at 03/11/2023 7:16 PM
+BAG:lumiatakia add 2xNgọc Rồng 6 sao (old: 1) lydo: Lấy từ lucky box at 03/11/2023 7:16 PM
+BAG:lumiatakia add 3xNgọc Rồng 6 sao (old: 2) lydo: Lấy từ lucky box at 03/11/2023 7:16 PM
+BAG:lumiatakia add 2xNgọc Rồng 5 sao (old: 1) lydo: Lấy từ lucky box at 03/11/2023 7:16 PM
+BAG:lumiatakia add 3xNgọc Rồng 5 sao (old: 2) lydo: Lấy từ lucky box at 03/11/2023 7:16 PM
+BAG:lumiatakia add 2xNgọc Rồng 4 sao (old: 1) lydo: Lấy từ lucky box at 03/11/2023 7:16 PM
+BAG:lumiatakia add 1xNgọc Rồng 7 sao lydo: Lấy từ lucky box at 03/11/2023 7:16 PM
+BAG:lumiatakia add 4xNgọc Rồng 6 sao (old: 3) lydo: Lấy từ lucky box at 03/11/2023 7:17 PM
+BAG:lumiatakia add 5xNgọc Rồng 6 sao (old: 4) lydo: Lấy từ lucky box at 03/11/2023 7:17 PM
+BAG:lumiatakia add 11xNgọc Rồng 5 sao (old: 3) lydo: Lấy từ rương qua người at 03/11/2023 7:17 PM
+BAG:lumiatakia add 15xNgọc Rồng 6 sao (old: 5) lydo: Lấy từ rương qua người at 03/11/2023 7:17 PM
+BAG:lumiatakia add 5xNgọc Rồng 4 sao (old: 2) lydo: Lấy từ rương qua người at 03/11/2023 7:17 PM
+BAG:lumiatakia add 9xNgọc Rồng 7 sao (old: 1) lydo: Lấy từ rương qua người at 03/11/2023 7:17 PM
+BAG:lumiatakia add 1xSao pha lê lydo: Lấy từ rương qua người at 03/11/2023 7:18 PM
+BAG:lumiatakia add 1xSao pha lê lydo: Lấy từ rương qua người at 03/11/2023 7:18 PM
+BAG:lumiatakia add 3xĐá xanh lam lydo: Lấy từ rương qua người at 03/11/2023 7:18 PM
+BAG:lumiatakia add 1xSao pha lê lydo: Lấy từ lucky box at 03/11/2023 7:19 PM
+BAG:lumiatakia add 1xVệ tinh sinh lực lydo: Lấy từ lucky box at 03/11/2023 7:19 PM
+BAG:lumiatakia add 1xSao pha lê lydo: Lấy từ lucky box at 03/11/2023 7:19 PM
+BAG:lumiatakia add 1xVệ tinh trí lực lydo: Lấy từ lucky box at 03/11/2023 7:19 PM
+BAG:lumiatakia add 1xCải trang Hatchiyack lydo: Lấy từ lucky box at 03/11/2023 7:19 PM
+BAG:lumiatakia add 2xVệ tinh trí lực (old: 1) lydo: Lấy từ lucky box at 03/11/2023 7:19 PM
+BAG:lumiatakia add 3xVệ tinh trí lực (old: 2) lydo: Lấy từ lucky box at 03/11/2023 7:19 PM
+BAG:lumiatakia add 1xSao pha lê lydo: Lấy từ lucky box at 03/11/2023 7:19 PM
+BAG:lumiatakia add 1xVệ tinh phòng thủ lydo: Lấy từ lucky box at 03/11/2023 7:19 PM
+BAG:lumiatakia add 1xSao pha lê lydo: Lấy từ lucky box at 03/11/2023 7:19 PM
+BAG:lumiatakia add 2xVệ tinh sinh lực (old: 1) lydo: Lấy từ lucky box at 03/11/2023 7:19 PM
+BAG:lumiatakia add 2xVệ tinh phòng thủ (old: 1) lydo: Lấy từ lucky box at 03/11/2023 7:19 PM
+BAG:lumiatakia add 1xVệ tinh trí tuệ lydo: Lấy từ lucky box at 03/11/2023 7:19 PM
+BAG:lumiatakia add 2xSao pha lê (old: 1) lydo: Lấy từ lucky box at 03/11/2023 7:19 PM
+BAG:lumiatakia add 4xVệ tinh trí lực (old: 3) lydo: Lấy từ lucky box at 03/11/2023 7:19 PM
+BAG:lumiatakia add 3xVệ tinh phòng thủ (old: 2) lydo: Lấy từ lucky box at 03/11/2023 7:19 PM
+BAG:lumiatakia add 2xVệ tinh trí tuệ (old: 1) lydo: Lấy từ lucky box at 03/11/2023 7:19 PM
+BAG:lumiatakia add 3xVệ tinh sinh lực (old: 2) lydo: Lấy từ lucky box at 03/11/2023 7:19 PM
+BAG:lumiatakia add 4xVệ tinh phòng thủ (old: 3) lydo: Lấy từ lucky box at 03/11/2023 7:19 PM
+BAG:lumiatakia add 5xVệ tinh trí lực (old: 4) lydo: Lấy từ lucky box at 03/11/2023 7:19 PM
+BAG:lumiatakia add 2xSao pha lê (old: 1) lydo: Lấy từ lucky box at 03/11/2023 7:19 PM
+BAG:lumiatakia add 1xSao pha lê lydo: Lấy từ lucky box at 03/11/2023 7:19 PM
+BAG:lumiatakia add 6xVệ tinh trí lực (old: 5) lydo: Lấy từ lucky box at 03/11/2023 7:19 PM
+BAG:lumiatakia add 3xVệ tinh trí tuệ (old: 2) lydo: Lấy từ lucky box at 03/11/2023 7:19 PM
+BAG:lumiatakia add 7xVệ tinh trí lực (old: 6) lydo: Lấy từ lucky box at 03/11/2023 7:19 PM
+BAG:lumiatakia add 4xVệ tinh sinh lực (old: 3) lydo: Lấy từ lucky box at 03/11/2023 7:19 PM
+BAG:lumiatakia add 2xSao pha lê (old: 1) lydo: Lấy từ lucky box at 03/11/2023 7:19 PM
+BAG:lumiatakia add 1xSao pha lê lydo: Lấy từ lucky box at 03/11/2023 7:19 PM
+BAG:lumiatakia add 5xVệ tinh sinh lực (old: 4) lydo: Lấy từ lucky box at 03/11/2023 7:19 PM
+BAG:lumiatakia add 3xSao pha lê (old: 2) lydo: Lấy từ lucky box at 03/11/2023 7:19 PM
+BAG:lumiatakia add 1xSao pha lê lydo: Lấy từ lucky box at 03/11/2023 7:19 PM
+BAG:lumiatakia add 1xSao pha lê lydo: Lấy từ lucky box at 03/11/2023 7:20 PM
+BAG:lumiatakia add 6xVệ tinh sinh lực (old: 5) lydo: Lấy từ lucky box at 03/11/2023 7:20 PM
+BAG:lumiatakia add 5xVệ tinh phòng thủ (old: 4) lydo: Lấy từ lucky box at 03/11/2023 7:20 PM
+BAG:lumiatakia add 1xSao pha lê lydo: Lấy từ lucky box at 03/11/2023 7:20 PM
+BAG:lumiatakia add 1xSao pha lê lydo: Lấy từ lucky box at 03/11/2023 7:20 PM
+BAG:lumiatakia add 4xVệ tinh trí tuệ (old: 3) lydo: Lấy từ lucky box at 03/11/2023 7:20 PM
+BAG:lumiatakia add 1xSao pha lê lydo: Lấy từ lucky box at 03/11/2023 7:20 PM
+BAG:lumiatakia add 2xSao pha lê (old: 1) lydo: Lấy từ lucky box at 03/11/2023 7:20 PM
+BAG:lumiatakia add 7xVệ tinh sinh lực (old: 6) lydo: Lấy từ lucky box at 03/11/2023 7:20 PM
+BAG:lumiatakia add 5xVệ tinh trí tuệ (old: 4) lydo: Lấy từ lucky box at 03/11/2023 7:20 PM
+BAG:lumiatakia add 1xSao pha lê lydo: Lấy từ lucky box at 03/11/2023 7:20 PM
+BAG:lumiatakia add 16xNgọc Rồng 6 sao (old: 15) lydo: Lấy từ lucky box at 03/11/2023 7:20 PM
+BAG:lumiatakia add 2xSao pha lê (old: 1) lydo: Lấy từ lucky box at 03/11/2023 7:20 PM
+BAG:lumiatakia add 6xVệ tinh trí tuệ (old: 5) lydo: Lấy từ lucky box at 03/11/2023 7:20 PM
+BAG:lumiatakia add 6xVệ tinh phòng thủ (old: 5) lydo: Lấy từ lucky box at 03/11/2023 7:20 PM
+BAG:lumiatakia add 2xSao pha lê (old: 1) lydo: Lấy từ lucky box at 03/11/2023 7:20 PM
+BAG:lumiatakia add 12xNgọc Rồng 5 sao (old: 11) lydo: Lấy từ lucky box at 03/11/2023 7:20 PM
+BAG:lumiatakia add 13xNgọc Rồng 5 sao (old: 12) lydo: Lấy từ lucky box at 03/11/2023 7:20 PM
+BAG:lumiatakia add 1xSao pha lê lydo: Lấy từ lucky box at 03/11/2023 7:20 PM
+BAG:lumiatakia add 7xVệ tinh trí tuệ (old: 6) lydo: Lấy từ lucky box at 03/11/2023 7:20 PM
+BAG:lumiatakia add 1xDiều rồng lydo: Lấy từ lucky box at 03/11/2023 7:20 PM
+BAG:lumiatakia add 1xCải trang mồn lèo lydo: Lấy từ lucky box at 03/11/2023 7:20 PM
+BAG:lumiatakia add 10xNgọc Rồng 7 sao (old: 9) lydo: Lấy từ lucky box at 03/11/2023 7:20 PM
+BAG:lumiatakia add 8xVệ tinh trí tuệ (old: 7) lydo: Lấy từ lucky box at 03/11/2023 7:20 PM
+BAG:lumiatakia add 1xSao pha lê lydo: Lấy từ lucky box at 03/11/2023 7:20 PM
+BAG:lumiatakia add 8xVệ tinh trí lực (old: 7) lydo: Lấy từ lucky box at 03/11/2023 7:20 PM
+BAG:lumiatakia add 11xNgọc Rồng 7 sao (old: 10) lydo: Lấy từ lucky box at 03/11/2023 7:20 PM
+BAG:lumiatakia add 8xVệ tinh sinh lực (old: 7) lydo: Lấy từ lucky box at 03/11/2023 7:20 PM
+BAG:lumiatakia add 12xNgọc Rồng 7 sao (old: 11) lydo: Lấy từ lucky box at 03/11/2023 7:20 PM
+BAG:lumiatakia add 1xSao pha lê lydo: Lấy từ lucky box at 03/11/2023 7:20 PM
+BAG:lumiatakia add 13xNgọc Rồng 7 sao (old: 12) lydo: Lấy từ lucky box at 03/11/2023 7:20 PM
+BAG:lumiatakia add 2xSao pha lê (old: 1) lydo: Lấy từ lucky box at 03/11/2023 7:20 PM
+BAG:lumiatakia add 1xSao pha lê lydo: Lấy từ lucky box at 03/11/2023 7:24 PM
+BAG:lumiatakia add 1xSao pha lê lydo: Lấy từ lucky box at 03/11/2023 7:24 PM
+BAG:lumiatakia add 7xVệ tinh phòng thủ (old: 6) lydo: Lấy từ lucky box at 03/11/2023 7:24 PM
+BAG:lumiatakia add 1xSao pha lê lydo: Lấy từ lucky box at 03/11/2023 7:24 PM
+BAG:lumiatakia add 6xNgọc Rồng 4 sao (old: 5) lydo: Lấy từ lucky box at 03/11/2023 7:24 PM
+BAG:lumiatakia add 14xNgọc Rồng 7 sao (old: 13) lydo: Lấy từ lucky box at 03/11/2023 7:24 PM
+BAG:lumiatakia add 7xNgọc Rồng 4 sao (old: 6) lydo: Lấy từ lucky box at 03/11/2023 7:24 PM
+BAG:lumiatakia add 2xSao pha lê (old: 1) lydo: Lấy từ lucky box at 03/11/2023 7:24 PM
+BAG:lumiatakia add 9xVệ tinh sinh lực (old: 8) lydo: Lấy từ lucky box at 03/11/2023 7:24 PM
+BAG:lumiatakia add 15xNgọc Rồng 7 sao (old: 14) lydo: Lấy từ lucky box at 03/11/2023 7:24 PM
+BAG:lumiatakia add 8xVệ tinh phòng thủ (old: 7) lydo: Lấy từ lucky box at 03/11/2023 7:24 PM
+BAG:lumiatakia add 9xVệ tinh phòng thủ (old: 8) lydo: Lấy từ lucky box at 03/11/2023 7:24 PM
+BAG:lumiatakia add 9xVệ tinh trí lực (old: 8) lydo: Lấy từ lucky box at 03/11/2023 7:24 PM
+BAG:lumiatakia add 16xNgọc Rồng 7 sao (old: 15) lydo: Lấy từ lucky box at 03/11/2023 7:24 PM
+BAG:lumiatakia add 10xVệ tinh trí lực (old: 9) lydo: Lấy từ lucky box at 03/11/2023 7:24 PM
+BAG:lumiatakia add 11xVệ tinh trí lực (old: 10) lydo: Lấy từ lucky box at 03/11/2023 7:24 PM
+BAG:lumiatakia add 12xVệ tinh trí lực (old: 11) lydo: Lấy từ lucky box at 03/11/2023 7:24 PM
+BAG:lumiatakia add 3xSao pha lê (old: 2) lydo: Lấy từ lucky box at 03/11/2023 7:24 PM
+BAG:lumiatakia add 1xSao pha lê lydo: Lấy từ lucky box at 03/11/2023 7:24 PM
+BAG:lumiatakia add 2xSao pha lê (old: 1) lydo: Lấy từ lucky box at 03/11/2023 7:24 PM
+BAG:lumiatakia add 1xSao pha lê lydo: Lấy từ lucky box at 03/11/2023 7:24 PM
+BAG:lumiatakia add 3xSao pha lê (old: 2) lydo: Lấy từ lucky box at 03/11/2023 7:24 PM
+BAG:lumiatakia add 17xNgọc Rồng 6 sao (old: 16) lydo: Lấy từ lucky box at 03/11/2023 7:24 PM
+BAG:lumiatakia add 10xVệ tinh sinh lực (old: 9) lydo: Lấy từ lucky box at 03/11/2023 7:24 PM
+BAG:lumiatakia add 4xSao pha lê (old: 3) lydo: Lấy từ lucky box at 03/11/2023 7:24 PM
+BAG:lumiatakia add 13xVệ tinh trí lực (old: 12) lydo: Lấy từ lucky box at 03/11/2023 7:24 PM
+BAG:lumiatakia add 17xNgọc Rồng 7 sao (old: 16) lydo: Lấy từ lucky box at 03/11/2023 7:24 PM
+BAG:lumiatakia add 18xNgọc Rồng 7 sao (old: 17) lydo: Lấy từ lucky box at 03/11/2023 7:24 PM
+BAG:lumiatakia add 18xNgọc Rồng 6 sao (old: 17) lydo: Lấy từ lucky box at 03/11/2023 7:24 PM
+BAG:lumiatakia add 14xVệ tinh trí lực (old: 13) lydo: Lấy từ lucky box at 03/11/2023 7:24 PM
+BAG:lumiatakia add 2xSao pha lê (old: 1) lydo: Lấy từ lucky box at 03/11/2023 7:24 PM
+BAG:lumiatakia add 3xSao pha lê (old: 2) lydo: Lấy từ lucky box at 03/11/2023 7:24 PM
+BAG:lumiatakia add 8xNgọc Rồng 4 sao (old: 7) lydo: Lấy từ lucky box at 03/11/2023 7:24 PM
+BAG:lumiatakia add 5xSao pha lê (old: 4) lydo: Lấy từ lucky box at 03/11/2023 7:24 PM
+BAG:lumiatakia add 19xNgọc Rồng 7 sao (old: 18) lydo: Lấy từ lucky box at 03/11/2023 7:24 PM
+BAG:lumiatakia add 19xNgọc Rồng 6 sao (old: 18) lydo: Lấy từ lucky box at 03/11/2023 7:24 PM
+BAG:lumiatakia add 4xSao pha lê (old: 3) lydo: Lấy từ lucky box at 03/11/2023 7:24 PM
+BAG:lumiatakia add 20xNgọc Rồng 6 sao (old: 19) lydo: Lấy từ lucky box at 03/11/2023 7:24 PM
+BAG:lumiatakia add 1xCải trang mồn lèo lydo: Lấy từ lucky box at 03/11/2023 7:24 PM
+BAG:lumiatakia add 9xNgọc Rồng 4 sao (old: 8) lydo: Lấy từ lucky box at 03/11/2023 7:24 PM
+BAG:lumiatakia add 6xSao pha lê (old: 5) lydo: Lấy từ lucky box at 03/11/2023 7:24 PM
+BAG:lumiatakia add 5xSao pha lê (old: 4) lydo: Lấy từ lucky box at 03/11/2023 7:24 PM
+BAG:lumiatakia add 21xNgọc Rồng 6 sao (old: 20) lydo: Lấy từ lucky box at 03/11/2023 7:24 PM
+BAG:lumiatakia add 10xVệ tinh phòng thủ (old: 9) lydo: Lấy từ lucky box at 03/11/2023 7:24 PM
+BAG:lumiatakia add 15xVệ tinh trí lực (old: 14) lydo: Lấy từ lucky box at 03/11/2023 7:24 PM
+BAG:lumiatakia add 16xVệ tinh trí lực (old: 15) lydo: Lấy từ lucky box at 03/11/2023 7:24 PM
+BAG:lumiatakia add 1xSao pha lê lydo: Lấy từ lucky box at 03/11/2023 7:24 PM
+BAG:lumiatakia add 9xVệ tinh trí tuệ (old: 8) lydo: Lấy từ lucky box at 03/11/2023 7:24 PM
+BAG:lumiatakia add 7xSao pha lê (old: 6) lydo: Lấy từ lucky box at 03/11/2023 7:24 PM
+BAG:lumiatakia add 11xVệ tinh sinh lực (old: 10) lydo: Lấy từ lucky box at 03/11/2023 7:24 PM
+BAG:lumiatakia add 12xVệ tinh sinh lực (old: 11) lydo: Lấy từ lucky box at 03/11/2023 7:24 PM
+BAG:lumiatakia add 13xVệ tinh sinh lực (old: 12) lydo: Lấy từ lucky box at 03/11/2023 7:24 PM
+BAG:lumiatakia add 2xSao pha lê (old: 1) lydo: Lấy từ lucky box at 03/11/2023 7:24 PM
+BAG:lumiatakia add 4xSao pha lê (old: 3) lydo: Lấy từ lucky box at 03/11/2023 7:26 PM
+BAG:lumiatakia add 3xSao pha lê (old: 2) lydo: Lấy từ lucky box at 03/11/2023 7:26 PM
+BAG:lumiatakia add 4xSao pha lê (old: 3) lydo: Lấy từ lucky box at 03/11/2023 7:26 PM
+BAG:lumiatakia add 14xVệ tinh sinh lực (old: 13) lydo: Lấy từ lucky box at 03/11/2023 7:26 PM
+BAG:lumiatakia add 8xSao pha lê (old: 7) lydo: Lấy từ lucky box at 03/11/2023 7:26 PM
+BAG:lumiatakia add 1xSao pha lê lydo: Lấy từ lucky box at 03/11/2023 7:26 PM
+BAG:lumiatakia add 2xSao pha lê (old: 1) lydo: Lấy từ lucky box at 03/11/2023 7:27 PM
+BAG:lumiatakia add 5xSao pha lê (old: 4) lydo: Lấy từ lucky box at 03/11/2023 7:27 PM
+BAG:lumiatakia add 1xSao pha lê lydo: Lấy từ lucky box at 03/11/2023 7:27 PM
+BAG:lumiatakia add 6xSao pha lê (old: 5) lydo: Lấy từ lucky box at 03/11/2023 7:27 PM
+BAG:lumiatakia add 22xNgọc Rồng 6 sao (old: 21) lydo: Lấy từ lucky box at 03/11/2023 7:27 PM
+BAG:lumiatakia add 9xSao pha lê (old: 8) lydo: Lấy từ lucky box at 03/11/2023 7:27 PM
+BAG:lumiatakia add 11xVệ tinh phòng thủ (old: 10) lydo: Lấy từ lucky box at 03/11/2023 7:27 PM
+BAG:lumiatakia add 14xNgọc Rồng 5 sao (old: 13) lydo: Lấy từ lucky box at 03/11/2023 7:27 PM
+BAG:lumiatakia add 10xNgọc Rồng 4 sao (old: 9) lydo: Lấy từ lucky box at 03/11/2023 7:27 PM
+BAG:lumiatakia add 23xNgọc Rồng 6 sao (old: 22) lydo: Lấy từ lucky box at 03/11/2023 7:27 PM
+BAG:lumiatakia add 17xVệ tinh trí lực (old: 16) lydo: Lấy từ lucky box at 03/11/2023 7:27 PM
+BAG:lumiatakia add 24xNgọc Rồng 6 sao (old: 23) lydo: Lấy từ lucky box at 03/11/2023 7:27 PM
+BAG:lumiatakia add 15xNgọc Rồng 5 sao (old: 14) lydo: Lấy từ lucky box at 03/11/2023 7:27 PM
+BAG:lumiatakia add 25xNgọc Rồng 6 sao (old: 24) lydo: Lấy từ lucky box at 03/11/2023 7:27 PM
+BAG:lumiatakia add 7xSao pha lê (old: 6) lydo: Lấy từ lucky box at 03/11/2023 7:27 PM
+BAG:lumiatakia add 10xSao pha lê (old: 9) lydo: Lấy từ lucky box at 03/11/2023 7:27 PM
+BAG:lumiatakia add 10xVệ tinh trí tuệ (old: 9) lydo: Lấy từ lucky box at 03/11/2023 7:27 PM
+BAG:lumiatakia add 11xVệ tinh trí tuệ (old: 10) lydo: Lấy từ lucky box at 03/11/2023 7:27 PM
+BAG:lumiatakia add 16xNgọc Rồng 5 sao (old: 15) lydo: Lấy từ lucky box at 03/11/2023 7:27 PM
+BAG:lumiatakia add 12xVệ tinh trí tuệ (old: 11) lydo: Lấy từ lucky box at 03/11/2023 7:27 PM
+BAG:lumiatakia add 1xCải trang mồn lèo lydo: Lấy từ lucky box at 03/11/2023 7:27 PM
+BAG:lumiatakia add 26xNgọc Rồng 6 sao (old: 25) lydo: Lấy từ lucky box at 03/11/2023 7:27 PM
+BAG:lumiatakia add 1xSao pha lê lydo: Lấy từ lucky box at 03/11/2023 7:27 PM
+BAG:lumiatakia add 1xSao pha lê lydo: Lấy từ lucky box at 03/11/2023 7:27 PM
+BAG:lumiatakia add 27xNgọc Rồng 6 sao (old: 26) lydo: Lấy từ lucky box at 03/11/2023 7:27 PM
+BAG:lumiatakia add 1xSao pha lê lydo: Lấy từ lucky box at 03/11/2023 7:27 PM
+BAG:lumiatakia add 8xSao pha lê (old: 7) lydo: Lấy từ lucky box at 03/11/2023 7:27 PM
+BAG:lumiatakia add 13xVệ tinh trí tuệ (old: 12) lydo: Lấy từ lucky box at 03/11/2023 7:27 PM
+BAG:lumiatakia add 12xVệ tinh phòng thủ (old: 11) lydo: Lấy từ lucky box at 03/11/2023 7:27 PM
+BAG:lumiatakia add 17xNgọc Rồng 5 sao (old: 16) lydo: Lấy từ lucky box at 03/11/2023 7:27 PM
+BAG:lumiatakia add 1xSao pha lê lydo: Lấy từ lucky box at 03/11/2023 7:29 PM
+BAG:lumiatakia add 1xCải trang Hatchiyack lydo: Lấy từ lucky box at 03/11/2023 7:29 PM
+BAG:lumiatakia add 1xSao pha lê lydo: Lấy từ lucky box at 03/11/2023 7:29 PM
+BAG:lumiatakia add 18xVệ tinh trí lực (old: 17) lydo: Lấy từ lucky box at 03/11/2023 7:29 PM
+BAG:lumiatakia add 1xSao pha lê lydo: Lấy từ lucky box at 03/11/2023 7:29 PM
+BAG:lumiatakia add 1xSao pha lê lydo: Lấy từ lucky box at 03/11/2023 7:29 PM
+BAG:lumiatakia add 15xVệ tinh sinh lực (old: 14) lydo: Lấy từ lucky box at 03/11/2023 7:29 PM
+BAG:lumiatakia add 18xNgọc Rồng 5 sao (old: 17) lydo: Lấy từ lucky box at 03/11/2023 7:29 PM
+BAG:lumiatakia add 1xSao pha lê lydo: Lấy từ lucky box at 03/11/2023 7:29 PM
+BAG:lumiatakia add 1xSao pha lê lydo: Lấy từ lucky box at 03/11/2023 7:29 PM
+BAG:lumiatakia add 28xNgọc Rồng 6 sao (old: 27) lydo: Lấy từ lucky box at 03/11/2023 7:30 PM
+BAG:lumiatakia add 1xSao pha lê lydo: Lấy từ lucky box at 03/11/2023 7:30 PM
+BAG:lumiatakia add 16xVệ tinh sinh lực (old: 15) lydo: Lấy từ lucky box at 03/11/2023 7:30 PM
+BAG:lumiatakia add 14xVệ tinh trí tuệ (old: 13) lydo: Lấy từ lucky box at 03/11/2023 7:30 PM
+BAG:lumiatakia add 13xVệ tinh phòng thủ (old: 12) lydo: Lấy từ lucky box at 03/11/2023 7:30 PM
+BAG:lumiatakia add 15xVệ tinh trí tuệ (old: 14) lydo: Lấy từ lucky box at 03/11/2023 7:30 PM
+BAG:lumiatakia add 16xVệ tinh trí tuệ (old: 15) lydo: Lấy từ lucky box at 03/11/2023 7:30 PM
+BAG:lumiatakia add 17xVệ tinh sinh lực (old: 16) lydo: Lấy từ lucky box at 03/11/2023 7:30 PM
+BAG:lumiatakia add 19xNgọc Rồng 5 sao (old: 18) lydo: Lấy từ lucky box at 03/11/2023 7:30 PM
+BAG:lumiatakia add 1xSao pha lê lydo: Lấy từ lucky box at 03/11/2023 7:30 PM
+BAG:lumiatakia add 20xNgọc Rồng 7 sao (old: 19) lydo: Lấy từ lucky box at 03/11/2023 7:30 PM
+BAG:lumiatakia add 18xVệ tinh sinh lực (old: 17) lydo: Lấy từ lucky box at 03/11/2023 7:30 PM
+BAG:lumiatakia add 21xNgọc Rồng 7 sao (old: 20) lydo: Lấy từ lucky box at 03/11/2023 7:30 PM
+BAG:lumiatakia add 1xSao pha lê lydo: Lấy từ lucky box at 03/11/2023 7:30 PM
+BAG:lumiatakia add 29xNgọc Rồng 6 sao (old: 28) lydo: Lấy từ lucky box at 03/11/2023 7:30 PM
+BAG:lumiatakia add 1xSao pha lê lydo: Lấy từ lucky box at 03/11/2023 7:30 PM
+BAG:lumiatakia add 1xSao pha lê lydo: Lấy từ lucky box at 03/11/2023 7:30 PM
+BAG:lumiatakia add 30xNgọc Rồng 6 sao (old: 29) lydo: Lấy từ lucky box at 03/11/2023 7:30 PM
+BAG:lumiatakia add 11xNgọc Rồng 4 sao (old: 10) lydo: Lấy từ lucky box at 03/11/2023 7:30 PM
+BAG:lumiatakia add 12xNgọc Rồng 4 sao (old: 11) lydo: Lấy từ lucky box at 03/11/2023 7:30 PM
+BAG:lumiatakia add 1xSao pha lê lydo: Lấy từ lucky box at 03/11/2023 7:30 PM
+BAG:lumiatakia add 1xSao pha lê lydo: Lấy từ lucky box at 03/11/2023 7:30 PM
+BAG:lumiatakia add 22xNgọc Rồng 7 sao (old: 21) lydo: Lấy từ lucky box at 03/11/2023 7:30 PM
+BAG:lumiatakia add 17xVệ tinh trí tuệ (old: 16) lydo: Lấy từ lucky box at 03/11/2023 7:30 PM
+BAG:lumiatakia add 1xCải trang Hatchiyack lydo: Lấy từ lucky box at 03/11/2023 7:30 PM
+BAG:lumiatakia add 20xNgọc Rồng 5 sao (old: 19) lydo: Lấy từ lucky box at 03/11/2023 7:30 PM
+BAG:lumiatakia add 14xVệ tinh phòng thủ (old: 13) lydo: Lấy từ lucky box at 03/11/2023 7:30 PM
+BAG:lumiatakia add 2xSao pha lê (old: 1) lydo: Lấy từ lucky box at 03/11/2023 7:30 PM
+BAG:lumiatakia add 23xNgọc Rồng 7 sao (old: 22) lydo: Lấy từ lucky box at 03/11/2023 7:32 PM
+BAG:lumiatakia add 24xNgọc Rồng 7 sao (old: 23) lydo: Lấy từ lucky box at 03/11/2023 7:32 PM
+BAG:lumiatakia add 25xNgọc Rồng 7 sao (old: 24) lydo: Lấy từ lucky box at 03/11/2023 7:33 PM

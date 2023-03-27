@@ -1,0 +1,828 @@
+BAG:trumdaxanh remove 1xCuồng nộ lydo: Dùng buff at 03/11/2023 9:26 AM
+BAG:trumdaxanh remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/11/2023 9:27 AM
+BAG:trumdaxanh remove Giáp tập luyện cấp 3 lydo: Mặc vào người at 03/11/2023 9:29 AM
+BAG:trumdaxanh remove 1xCuồng nộ lydo: Dùng buff at 03/11/2023 9:55 AM
+BAG:trumdaxanh remove Giáp tập luyện cấp 3 lydo: Mặc vào người at 03/11/2023 9:58 AM
+BAG:trumdaxanh remove Đá Titan lydo: Tự Xóa vật phẩm at 03/11/2023 10:01 AM
+BAG:trumdaxanh remove Đá Ruby lydo: Tự Xóa vật phẩm at 03/11/2023 10:01 AM
+BAG:trumdaxanh remove Giáp tập luyện cấp 3 lydo: Mặc vào người at 03/11/2023 10:04 AM
+BAG:trumdaxanh remove 1xCuồng nộ lydo: Dùng buff at 03/11/2023 10:07 AM
+BAG:trumdaxanh remove Giáp tập luyện cấp 3 lydo: Mặc vào người at 03/11/2023 10:08 AM
+BAG:trumdaxanh remove Giáp tập luyện cấp 3 lydo: Mặc vào người at 03/11/2023 10:13 AM
+BAG:trumdaxanh remove Ngọc Rồng 2 sao lydo: Cất vào rương at 03/11/2023 11:00 AM
+BAG:trumdaxanh remove Ngọc Rồng 3 sao lydo: Cất vào rương at 03/11/2023 11:00 AM
+BAG:trumdaxanh remove Ngọc Rồng 5 sao lydo: Cất vào rương at 03/11/2023 11:00 AM
+BAG:trumdaxanh remove Ngọc Rồng 6 sao lydo: Cất vào rương at 03/11/2023 11:00 AM
+BAG:trumdaxanh remove 1xMáy dò Capsule kì bí lydo: Dùng máy dò at 03/11/2023 11:02 AM
+BAG:trumdaxanh remove Đá Saphia lydo: Tự Xóa vật phẩm at 03/11/2023 11:12 AM
+BAG:trumdaxanh remove 1xViên Capsule kì bí lydo: CSKB at 03/11/2023 11:17 AM
+BAG:trumdaxanh remove 1xViên Capsule kì bí lydo: CSKB at 03/11/2023 11:17 AM
+BAG:trumdaxanh remove 1xViên Capsule kì bí lydo: CSKB at 03/11/2023 11:17 AM
+BAG:trumdaxanh remove 1xViên Capsule kì bí lydo: CSKB at 03/11/2023 11:17 AM
+BAG:trumdaxanh remove 1xViên Capsule kì bí lydo: CSKB at 03/11/2023 11:17 AM
+BAG:trumdaxanh remove 1xViên Capsule kì bí lydo: CSKB at 03/11/2023 11:17 AM
+BAG:trumdaxanh remove 1xViên Capsule kì bí lydo: CSKB at 03/11/2023 11:17 AM
+BAG:trumdaxanh remove 1xViên Capsule kì bí lydo: CSKB at 03/11/2023 11:17 AM
+BAG:trumdaxanh remove 1xViên Capsule kì bí lydo: CSKB at 03/11/2023 11:17 AM
+BAG:trumdaxanh remove 1xViên Capsule kì bí lydo: CSKB at 03/11/2023 11:17 AM
+BAG:trumdaxanh remove 1xViên Capsule kì bí lydo: CSKB at 03/11/2023 11:17 AM
+BAG:trumdaxanh remove 1xViên Capsule kì bí lydo: CSKB at 03/11/2023 11:17 AM
+BAG:trumdaxanh remove 1xViên Capsule kì bí lydo: CSKB at 03/11/2023 11:17 AM
+BAG:trumdaxanh remove 1xViên Capsule kì bí lydo: CSKB at 03/11/2023 11:17 AM
+BAG:trumdaxanh remove 1xViên Capsule kì bí lydo: CSKB at 03/11/2023 11:17 AM
+BAG:trumdaxanh remove 1xViên Capsule kì bí lydo: CSKB at 03/11/2023 11:17 AM
+BAG:trumdaxanh remove 1xViên Capsule kì bí lydo: CSKB at 03/11/2023 11:17 AM
+BAG:trumdaxanh remove 1xViên Capsule kì bí lydo: CSKB at 03/11/2023 11:17 AM
+BAG:trumdaxanh remove 1xViên Capsule kì bí lydo: CSKB at 03/11/2023 11:17 AM
+BAG:trumdaxanh remove 1xViên Capsule kì bí lydo: CSKB at 03/11/2023 11:17 AM
+BAG:trumdaxanh remove 1xViên Capsule kì bí lydo: CSKB at 03/11/2023 11:17 AM
+BAG:trumdaxanh remove 1xViên Capsule kì bí lydo: CSKB at 03/11/2023 11:17 AM
+BAG:trumdaxanh remove 1xViên Capsule kì bí lydo: CSKB at 03/11/2023 11:18 AM
+BAG:trumdaxanh remove 1xViên Capsule kì bí lydo: CSKB at 03/11/2023 11:18 AM
+BAG:trumdaxanh remove 1xViên Capsule kì bí lydo: CSKB at 03/11/2023 11:18 AM
+BAG:trumdaxanh remove 1xViên Capsule kì bí lydo: CSKB at 03/11/2023 11:18 AM
+BAG:trumdaxanh remove 1xViên Capsule kì bí lydo: CSKB at 03/11/2023 11:18 AM
+BAG:trumdaxanh remove 1xViên Capsule kì bí lydo: CSKB at 03/11/2023 11:18 AM
+BAG:trumdaxanh remove 1xViên Capsule kì bí lydo: CSKB at 03/11/2023 11:18 AM
+BAG:trumdaxanh remove 1xViên Capsule kì bí lydo: CSKB at 03/11/2023 11:18 AM
+BAG:trumdaxanh remove 1xViên Capsule kì bí lydo: CSKB at 03/11/2023 11:18 AM
+BAG:trumdaxanh remove 1xViên Capsule kì bí lydo: CSKB at 03/11/2023 11:18 AM
+BAG:trumdaxanh remove 1xViên Capsule kì bí lydo: CSKB at 03/11/2023 11:18 AM
+BAG:trumdaxanh remove 1xViên Capsule kì bí lydo: CSKB at 03/11/2023 11:18 AM
+BAG:trumdaxanh remove 1xViên Capsule kì bí lydo: CSKB at 03/11/2023 11:18 AM
+BAG:trumdaxanh remove 1xViên Capsule kì bí lydo: CSKB at 03/11/2023 11:18 AM
+BAG:trumdaxanh remove 1xViên Capsule kì bí lydo: CSKB at 03/11/2023 11:18 AM
+BAG:trumdaxanh remove 1xViên Capsule kì bí lydo: CSKB at 03/11/2023 11:18 AM
+BAG:trumdaxanh remove 1xViên Capsule kì bí lydo: CSKB at 03/11/2023 11:18 AM
+BAG:trumdaxanh remove 1xViên Capsule kì bí lydo: CSKB at 03/11/2023 11:18 AM
+BAG:trumdaxanh remove 1xViên Capsule kì bí lydo: CSKB at 03/11/2023 11:18 AM
+BAG:trumdaxanh remove 1xViên Capsule kì bí lydo: CSKB at 03/11/2023 11:18 AM
+BAG:trumdaxanh remove 1xViên Capsule kì bí lydo: CSKB at 03/11/2023 11:18 AM
+BAG:trumdaxanh remove 1xViên Capsule kì bí lydo: CSKB at 03/11/2023 11:18 AM
+BAG:trumdaxanh remove 1xViên Capsule kì bí lydo: CSKB at 03/11/2023 11:18 AM
+BAG:trumdaxanh remove 1xViên Capsule kì bí lydo: CSKB at 03/11/2023 11:18 AM
+BAG:trumdaxanh remove 1xViên Capsule kì bí lydo: CSKB at 03/11/2023 11:18 AM
+BAG:trumdaxanh remove 1xViên Capsule kì bí lydo: CSKB at 03/11/2023 11:18 AM
+BAG:trumdaxanh remove 1xViên Capsule kì bí lydo: CSKB at 03/11/2023 11:18 AM
+BAG:trumdaxanh remove 1xViên Capsule kì bí lydo: CSKB at 03/11/2023 11:18 AM
+BAG:trumdaxanh remove 1xViên Capsule kì bí lydo: CSKB at 03/11/2023 11:18 AM
+BAG:trumdaxanh remove 1xViên Capsule kì bí lydo: CSKB at 03/11/2023 11:18 AM
+BAG:trumdaxanh remove 1xViên Capsule kì bí lydo: CSKB at 03/11/2023 11:18 AM
+BAG:trumdaxanh remove 1xViên Capsule kì bí lydo: CSKB at 03/11/2023 11:18 AM
+BAG:trumdaxanh remove 1xViên Capsule kì bí lydo: CSKB at 03/11/2023 11:18 AM
+BAG:trumdaxanh remove 1xViên Capsule kì bí lydo: CSKB at 03/11/2023 11:18 AM
+BAG:trumdaxanh remove 1xViên Capsule kì bí lydo: CSKB at 03/11/2023 11:18 AM
+BAG:trumdaxanh remove 1xViên Capsule kì bí lydo: CSKB at 03/11/2023 11:18 AM
+BAG:trumdaxanh remove 1xViên Capsule kì bí lydo: CSKB at 03/11/2023 11:18 AM
+BAG:trumdaxanh remove 1xViên Capsule kì bí lydo: CSKB at 03/11/2023 11:18 AM
+BAG:trumdaxanh remove 1xViên Capsule kì bí lydo: CSKB at 03/11/2023 11:18 AM
+BAG:trumdaxanh remove 1xViên Capsule kì bí lydo: CSKB at 03/11/2023 11:18 AM
+BAG:trumdaxanh remove 1xViên Capsule kì bí lydo: CSKB at 03/11/2023 11:18 AM
+BAG:trumdaxanh remove 1xMáy dò Capsule kì bí lydo: Dùng máy dò at 03/11/2023 11:43 AM
+BAG:trumdaxanh remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/11/2023 11:43 AM
+BAG:trumdaxanh remove 1xViên Capsule kì bí lydo: CSKB at 03/11/2023 11:54 AM
+BAG:trumdaxanh remove 1xViên Capsule kì bí lydo: CSKB at 03/11/2023 11:54 AM
+BAG:trumdaxanh remove 1xViên Capsule kì bí lydo: CSKB at 03/11/2023 11:54 AM
+BAG:trumdaxanh remove 1xViên Capsule kì bí lydo: CSKB at 03/11/2023 11:54 AM
+BAG:trumdaxanh remove 1xViên Capsule kì bí lydo: CSKB at 03/11/2023 11:54 AM
+BAG:trumdaxanh remove 1xViên Capsule kì bí lydo: CSKB at 03/11/2023 11:55 AM
+BAG:trumdaxanh remove 1xViên Capsule kì bí lydo: CSKB at 03/11/2023 11:55 AM
+BAG:trumdaxanh remove 1xViên Capsule kì bí lydo: CSKB at 03/11/2023 11:55 AM
+BAG:trumdaxanh remove 1xViên Capsule kì bí lydo: CSKB at 03/11/2023 11:55 AM
+BAG:trumdaxanh remove Đá Titan lydo: Tự Xóa vật phẩm at 03/11/2023 11:59 AM
+BAG:trumdaxanh remove 1xViên Capsule kì bí lydo: CSKB at 03/11/2023 12:09 PM
+BAG:trumdaxanh remove 1xViên Capsule kì bí lydo: CSKB at 03/11/2023 12:09 PM
+BAG:trumdaxanh remove 1xViên Capsule kì bí lydo: CSKB at 03/11/2023 12:09 PM
+BAG:trumdaxanh remove 1xViên Capsule kì bí lydo: CSKB at 03/11/2023 12:09 PM
+BAG:trumdaxanh remove 1xViên Capsule kì bí lydo: CSKB at 03/11/2023 12:10 PM
+BAG:trumdaxanh remove 1xViên Capsule kì bí lydo: CSKB at 03/11/2023 12:10 PM
+BAG:trumdaxanh remove 1xViên Capsule kì bí lydo: CSKB at 03/11/2023 12:10 PM
+BAG:trumdaxanh remove 1xViên Capsule kì bí lydo: CSKB at 03/11/2023 12:10 PM
+BAG:trumdaxanh remove 1xViên Capsule kì bí lydo: CSKB at 03/11/2023 12:10 PM
+BAG:trumdaxanh remove 1xViên Capsule kì bí lydo: CSKB at 03/11/2023 12:10 PM
+BAG:trumdaxanh remove 1xViên Capsule kì bí lydo: CSKB at 03/11/2023 12:10 PM
+BAG:trumdaxanh remove 1xViên Capsule kì bí lydo: CSKB at 03/11/2023 12:10 PM
+BAG:trumdaxanh remove 1xViên Capsule kì bí lydo: CSKB at 03/11/2023 12:10 PM
+BAG:trumdaxanh remove 1xViên Capsule kì bí lydo: CSKB at 03/11/2023 12:10 PM
+BAG:trumdaxanh remove 1xViên Capsule kì bí lydo: CSKB at 03/11/2023 12:10 PM
+BAG:trumdaxanh remove 1xViên Capsule kì bí lydo: CSKB at 03/11/2023 12:10 PM
+BAG:trumdaxanh remove 1xViên Capsule kì bí lydo: CSKB at 03/11/2023 12:10 PM
+BAG:trumdaxanh remove 1xViên Capsule kì bí lydo: CSKB at 03/11/2023 12:10 PM
+BAG:trumdaxanh remove 1xViên Capsule kì bí lydo: CSKB at 03/11/2023 12:10 PM
+BAG:trumdaxanh remove 1xViên Capsule kì bí lydo: CSKB at 03/11/2023 12:10 PM
+BAG:trumdaxanh remove 1xViên Capsule kì bí lydo: CSKB at 03/11/2023 12:10 PM
+BAG:trumdaxanh remove 1xViên Capsule kì bí lydo: CSKB at 03/11/2023 12:10 PM
+BAG:trumdaxanh remove 1xViên Capsule kì bí lydo: CSKB at 03/11/2023 12:10 PM
+BAG:trumdaxanh remove 1xViên Capsule kì bí lydo: CSKB at 03/11/2023 12:10 PM
+BAG:trumdaxanh remove 1xViên Capsule kì bí lydo: CSKB at 03/11/2023 12:10 PM
+BAG:trumdaxanh remove 1xViên Capsule kì bí lydo: CSKB at 03/11/2023 12:10 PM
+BAG:trumdaxanh remove 1xViên Capsule kì bí lydo: CSKB at 03/11/2023 12:10 PM
+BAG:trumdaxanh remove 1xViên Capsule kì bí lydo: CSKB at 03/11/2023 12:10 PM
+BAG:trumdaxanh remove 1xViên Capsule kì bí lydo: CSKB at 03/11/2023 12:10 PM
+BAG:trumdaxanh remove 1xViên Capsule kì bí lydo: CSKB at 03/11/2023 12:10 PM
+BAG:trumdaxanh remove 1xViên Capsule kì bí lydo: CSKB at 03/11/2023 12:10 PM
+BAG:trumdaxanh remove 1xViên Capsule kì bí lydo: CSKB at 03/11/2023 12:10 PM
+BAG:trumdaxanh remove 1xViên Capsule kì bí lydo: CSKB at 03/11/2023 12:10 PM
+BAG:trumdaxanh remove 1xViên Capsule kì bí lydo: CSKB at 03/11/2023 12:10 PM
+BAG:trumdaxanh remove 1xViên Capsule kì bí lydo: CSKB at 03/11/2023 12:10 PM
+BAG:trumdaxanh remove 1xViên Capsule kì bí lydo: CSKB at 03/11/2023 12:10 PM
+BAG:trumdaxanh remove 1xViên Capsule kì bí lydo: CSKB at 03/11/2023 12:10 PM
+BAG:trumdaxanh remove 1xViên Capsule kì bí lydo: CSKB at 03/11/2023 12:10 PM
+BAG:trumdaxanh remove 1xViên Capsule kì bí lydo: CSKB at 03/11/2023 12:10 PM
+BAG:trumdaxanh remove 1xViên Capsule kì bí lydo: CSKB at 03/11/2023 12:10 PM
+BAG:trumdaxanh remove 1xViên Capsule kì bí lydo: CSKB at 03/11/2023 12:10 PM
+BAG:trumdaxanh remove 1xViên Capsule kì bí lydo: CSKB at 03/11/2023 12:10 PM
+BAG:trumdaxanh remove 1xViên Capsule kì bí lydo: CSKB at 03/11/2023 12:11 PM
+BAG:trumdaxanh remove 1xViên Capsule kì bí lydo: CSKB at 03/11/2023 12:11 PM
+BAG:trumdaxanh remove 1xViên Capsule kì bí lydo: CSKB at 03/11/2023 12:11 PM
+BAG:trumdaxanh remove 1xViên Capsule kì bí lydo: CSKB at 03/11/2023 12:11 PM
+BAG:trumdaxanh remove 1xViên Capsule kì bí lydo: CSKB at 03/11/2023 12:11 PM
+BAG:trumdaxanh remove 1xViên Capsule kì bí lydo: CSKB at 03/11/2023 12:11 PM
+BAG:trumdaxanh remove 1xViên Capsule kì bí lydo: CSKB at 03/11/2023 12:11 PM
+BAG:trumdaxanh remove 1xViên Capsule kì bí lydo: CSKB at 03/11/2023 12:11 PM
+BAG:trumdaxanh remove 1xViên Capsule kì bí lydo: CSKB at 03/11/2023 12:11 PM
+BAG:trumdaxanh remove 1xViên Capsule kì bí lydo: CSKB at 03/11/2023 12:11 PM
+BAG:trumdaxanh remove 1xViên Capsule kì bí lydo: CSKB at 03/11/2023 12:11 PM
+BAG:trumdaxanh remove 1xViên Capsule kì bí lydo: CSKB at 03/11/2023 12:11 PM
+BAG:trumdaxanh remove 1xViên Capsule kì bí lydo: CSKB at 03/11/2023 12:11 PM
+BAG:trumdaxanh remove 1xViên Capsule kì bí lydo: CSKB at 03/11/2023 12:11 PM
+BAG:trumdaxanh remove 1xViên Capsule kì bí lydo: CSKB at 03/11/2023 12:11 PM
+BAG:trumdaxanh remove 1xViên Capsule kì bí lydo: CSKB at 03/11/2023 12:11 PM
+BAG:trumdaxanh remove 1xViên Capsule kì bí lydo: CSKB at 03/11/2023 12:11 PM
+BAG:trumdaxanh remove 1xViên Capsule kì bí lydo: CSKB at 03/11/2023 12:11 PM
+BAG:trumdaxanh remove 1xViên Capsule kì bí lydo: CSKB at 03/11/2023 12:11 PM
+BAG:trumdaxanh remove 1xViên Capsule kì bí lydo: CSKB at 03/11/2023 12:11 PM
+BAG:trumdaxanh remove 1xViên Capsule kì bí lydo: CSKB at 03/11/2023 12:11 PM
+BAG:trumdaxanh remove 1xViên Capsule kì bí lydo: CSKB at 03/11/2023 12:11 PM
+BAG:trumdaxanh remove 1xViên Capsule kì bí lydo: CSKB at 03/11/2023 12:11 PM
+BAG:trumdaxanh remove 1xViên Capsule kì bí lydo: CSKB at 03/11/2023 12:11 PM
+BAG:trumdaxanh remove 1xViên Capsule kì bí lydo: CSKB at 03/11/2023 12:11 PM
+BAG:trumdaxanh remove 1xViên Capsule kì bí lydo: CSKB at 03/11/2023 12:11 PM
+BAG:trumdaxanh remove 1xViên Capsule kì bí lydo: CSKB at 03/11/2023 12:11 PM
+BAG:trumdaxanh remove 1xViên Capsule kì bí lydo: CSKB at 03/11/2023 12:11 PM
+BAG:trumdaxanh remove 1xViên Capsule kì bí lydo: CSKB at 03/11/2023 12:11 PM
+BAG:trumdaxanh remove 1xViên Capsule kì bí lydo: CSKB at 03/11/2023 12:11 PM
+BAG:trumdaxanh remove 1xViên Capsule kì bí lydo: CSKB at 03/11/2023 12:11 PM
+BAG:trumdaxanh remove 1xViên Capsule kì bí lydo: CSKB at 03/11/2023 12:11 PM
+BAG:trumdaxanh remove 1xViên Capsule kì bí lydo: CSKB at 03/11/2023 12:11 PM
+BAG:trumdaxanh remove 1xViên Capsule kì bí lydo: CSKB at 03/11/2023 12:11 PM
+BAG:trumdaxanh remove 1xViên Capsule kì bí lydo: CSKB at 03/11/2023 12:11 PM
+BAG:trumdaxanh remove 1xViên Capsule kì bí lydo: CSKB at 03/11/2023 12:11 PM
+BAG:trumdaxanh remove 1xViên Capsule kì bí lydo: CSKB at 03/11/2023 12:11 PM
+BAG:trumdaxanh remove 1xViên Capsule kì bí lydo: CSKB at 03/11/2023 12:11 PM
+BAG:trumdaxanh remove 1xViên Capsule kì bí lydo: CSKB at 03/11/2023 12:11 PM
+BAG:trumdaxanh remove 1xViên Capsule kì bí lydo: CSKB at 03/11/2023 12:11 PM
+BAG:trumdaxanh remove 1xViên Capsule kì bí lydo: CSKB at 03/11/2023 12:11 PM
+BAG:trumdaxanh remove 1xViên Capsule kì bí lydo: CSKB at 03/11/2023 12:11 PM
+BAG:trumdaxanh remove 1xViên Capsule kì bí lydo: CSKB at 03/11/2023 12:11 PM
+BAG:trumdaxanh remove 1xViên Capsule kì bí lydo: CSKB at 03/11/2023 12:11 PM
+BAG:trumdaxanh remove 1xViên Capsule kì bí lydo: CSKB at 03/11/2023 12:11 PM
+BAG:trumdaxanh remove 1xViên Capsule kì bí lydo: CSKB at 03/11/2023 12:11 PM
+BAG:trumdaxanh remove 1xViên Capsule kì bí lydo: CSKB at 03/11/2023 12:11 PM
+BAG:trumdaxanh remove 1xViên Capsule kì bí lydo: CSKB at 03/11/2023 12:11 PM
+BAG:trumdaxanh remove 1xViên Capsule kì bí lydo: CSKB at 03/11/2023 12:12 PM
+BAG:trumdaxanh remove 1xViên Capsule kì bí lydo: CSKB at 03/11/2023 12:12 PM
+BAG:trumdaxanh remove 1xViên Capsule kì bí lydo: CSKB at 03/11/2023 12:12 PM
+BAG:trumdaxanh remove 1xViên Capsule kì bí lydo: CSKB at 03/11/2023 12:12 PM
+BAG:trumdaxanh remove 1xViên Capsule kì bí lydo: CSKB at 03/11/2023 12:12 PM
+BAG:trumdaxanh remove 1xViên Capsule kì bí lydo: CSKB at 03/11/2023 12:12 PM
+BAG:trumdaxanh remove 1xViên Capsule kì bí lydo: CSKB at 03/11/2023 12:12 PM
+BAG:trumdaxanh remove 1xViên Capsule kì bí lydo: CSKB at 03/11/2023 12:12 PM
+BAG:trumdaxanh remove 1xViên Capsule kì bí lydo: CSKB at 03/11/2023 12:12 PM
+BAG:trumdaxanh remove 1xViên Capsule kì bí lydo: CSKB at 03/11/2023 12:12 PM
+BAG:trumdaxanh remove 1xViên Capsule kì bí lydo: CSKB at 03/11/2023 12:12 PM
+BAG:trumdaxanh remove 1xViên Capsule kì bí lydo: CSKB at 03/11/2023 12:12 PM
+BAG:trumdaxanh remove 1xViên Capsule kì bí lydo: CSKB at 03/11/2023 12:12 PM
+BAG:trumdaxanh remove 1xViên Capsule kì bí lydo: CSKB at 03/11/2023 12:12 PM
+BAG:trumdaxanh remove 1xViên Capsule kì bí lydo: CSKB at 03/11/2023 12:12 PM
+BAG:trumdaxanh remove 1xViên Capsule kì bí lydo: CSKB at 03/11/2023 12:12 PM
+BAG:trumdaxanh remove 1xViên Capsule kì bí lydo: CSKB at 03/11/2023 12:12 PM
+BAG:trumdaxanh remove 1xViên Capsule kì bí lydo: CSKB at 03/11/2023 12:12 PM
+BAG:trumdaxanh remove 1xViên Capsule kì bí lydo: CSKB at 03/11/2023 12:12 PM
+BAG:trumdaxanh remove 1xViên Capsule kì bí lydo: CSKB at 03/11/2023 12:12 PM
+BAG:trumdaxanh remove 1xViên Capsule kì bí lydo: CSKB at 03/11/2023 12:12 PM
+BAG:trumdaxanh remove 1xViên Capsule kì bí lydo: CSKB at 03/11/2023 12:12 PM
+BAG:trumdaxanh remove 1xViên Capsule kì bí lydo: CSKB at 03/11/2023 12:12 PM
+BAG:trumdaxanh remove 1xViên Capsule kì bí lydo: CSKB at 03/11/2023 12:12 PM
+BAG:trumdaxanh remove 1xViên Capsule kì bí lydo: CSKB at 03/11/2023 12:12 PM
+BAG:trumdaxanh remove 1xViên Capsule kì bí lydo: CSKB at 03/11/2023 12:12 PM
+BAG:trumdaxanh remove 1xViên Capsule kì bí lydo: CSKB at 03/11/2023 12:12 PM
+BAG:trumdaxanh remove 1xViên Capsule kì bí lydo: CSKB at 03/11/2023 12:12 PM
+BAG:trumdaxanh remove 1xViên Capsule kì bí lydo: CSKB at 03/11/2023 12:12 PM
+BAG:trumdaxanh remove 1xViên Capsule kì bí lydo: CSKB at 03/11/2023 12:12 PM
+BAG:trumdaxanh remove 1xViên Capsule kì bí lydo: CSKB at 03/11/2023 12:12 PM
+BAG:trumdaxanh remove 1xViên Capsule kì bí lydo: CSKB at 03/11/2023 12:13 PM
+BAG:trumdaxanh remove 1xViên Capsule kì bí lydo: CSKB at 03/11/2023 12:13 PM
+BAG:trumdaxanh remove 1xViên Capsule kì bí lydo: CSKB at 03/11/2023 12:13 PM
+BAG:trumdaxanh remove 1xViên Capsule kì bí lydo: CSKB at 03/11/2023 12:13 PM
+BAG:trumdaxanh remove 1xViên Capsule kì bí lydo: CSKB at 03/11/2023 12:13 PM
+BAG:trumdaxanh remove 1xViên Capsule kì bí lydo: CSKB at 03/11/2023 12:13 PM
+BAG:trumdaxanh remove 1xViên Capsule kì bí lydo: CSKB at 03/11/2023 12:13 PM
+BAG:trumdaxanh remove 1xViên Capsule kì bí lydo: CSKB at 03/11/2023 12:13 PM
+BAG:trumdaxanh remove 1xViên Capsule kì bí lydo: CSKB at 03/11/2023 12:13 PM
+BAG:trumdaxanh remove 1xViên Capsule kì bí lydo: CSKB at 03/11/2023 12:13 PM
+BAG:trumdaxanh remove 1xViên Capsule kì bí lydo: CSKB at 03/11/2023 12:13 PM
+BAG:trumdaxanh remove 1xViên Capsule kì bí lydo: CSKB at 03/11/2023 12:13 PM
+BAG:trumdaxanh remove 1xViên Capsule kì bí lydo: CSKB at 03/11/2023 12:14 PM
+BAG:trumdaxanh remove 1xViên Capsule kì bí lydo: CSKB at 03/11/2023 12:14 PM
+BAG:trumdaxanh remove 1xViên Capsule kì bí lydo: CSKB at 03/11/2023 12:14 PM
+BAG:trumdaxanh remove 1xViên Capsule kì bí lydo: CSKB at 03/11/2023 12:14 PM
+BAG:trumdaxanh remove 1xViên Capsule kì bí lydo: CSKB at 03/11/2023 12:14 PM
+BAG:trumdaxanh remove 1xViên Capsule kì bí lydo: CSKB at 03/11/2023 12:14 PM
+BAG:trumdaxanh remove 1xViên Capsule kì bí lydo: CSKB at 03/11/2023 12:14 PM
+BAG:trumdaxanh remove 1xViên Capsule kì bí lydo: CSKB at 03/11/2023 12:14 PM
+BAG:trumdaxanh remove 1xViên Capsule kì bí lydo: CSKB at 03/11/2023 12:14 PM
+BAG:trumdaxanh remove 1xViên Capsule kì bí lydo: CSKB at 03/11/2023 12:14 PM
+BAG:trumdaxanh remove 1xViên Capsule kì bí lydo: CSKB at 03/11/2023 12:14 PM
+BAG:trumdaxanh remove 1xViên Capsule kì bí lydo: CSKB at 03/11/2023 12:14 PM
+BAG:trumdaxanh remove 1xViên Capsule kì bí lydo: CSKB at 03/11/2023 12:14 PM
+BAG:trumdaxanh remove 1xViên Capsule kì bí lydo: CSKB at 03/11/2023 12:14 PM
+BAG:trumdaxanh remove 1xViên Capsule kì bí lydo: CSKB at 03/11/2023 12:14 PM
+BAG:trumdaxanh remove 1xViên Capsule kì bí lydo: CSKB at 03/11/2023 12:14 PM
+BAG:trumdaxanh remove 1xViên Capsule kì bí lydo: CSKB at 03/11/2023 12:14 PM
+BAG:trumdaxanh remove 1xViên Capsule kì bí lydo: CSKB at 03/11/2023 12:14 PM
+BAG:trumdaxanh remove 1xViên Capsule kì bí lydo: CSKB at 03/11/2023 12:14 PM
+BAG:trumdaxanh remove 1xViên Capsule kì bí lydo: CSKB at 03/11/2023 12:14 PM
+BAG:trumdaxanh remove 1xViên Capsule kì bí lydo: CSKB at 03/11/2023 12:14 PM
+BAG:trumdaxanh remove 1xViên Capsule kì bí lydo: CSKB at 03/11/2023 12:14 PM
+BAG:trumdaxanh remove 1xViên Capsule kì bí lydo: CSKB at 03/11/2023 12:14 PM
+BAG:trumdaxanh remove 1xViên Capsule kì bí lydo: CSKB at 03/11/2023 12:14 PM
+BAG:trumdaxanh remove 1xViên Capsule kì bí lydo: CSKB at 03/11/2023 12:14 PM
+BAG:trumdaxanh remove 1xViên Capsule kì bí lydo: CSKB at 03/11/2023 12:14 PM
+BAG:trumdaxanh remove 1xViên Capsule kì bí lydo: CSKB at 03/11/2023 12:15 PM
+BAG:trumdaxanh remove 1xViên Capsule kì bí lydo: CSKB at 03/11/2023 12:15 PM
+BAG:trumdaxanh remove 1xViên Capsule kì bí lydo: CSKB at 03/11/2023 12:15 PM
+BAG:trumdaxanh remove 1xViên Capsule kì bí lydo: CSKB at 03/11/2023 12:15 PM
+BAG:trumdaxanh remove 1xViên Capsule kì bí lydo: CSKB at 03/11/2023 12:15 PM
+BAG:trumdaxanh remove 1xViên Capsule kì bí lydo: CSKB at 03/11/2023 12:15 PM
+BAG:trumdaxanh remove 1xViên Capsule kì bí lydo: CSKB at 03/11/2023 12:15 PM
+BAG:trumdaxanh remove 1xViên Capsule kì bí lydo: CSKB at 03/11/2023 12:15 PM
+BAG:trumdaxanh remove 1xViên Capsule kì bí lydo: CSKB at 03/11/2023 12:15 PM
+BAG:trumdaxanh remove 1xViên Capsule kì bí lydo: CSKB at 03/11/2023 12:15 PM
+BAG:trumdaxanh remove 1xViên Capsule kì bí lydo: CSKB at 03/11/2023 12:15 PM
+BAG:trumdaxanh remove 1xViên Capsule kì bí lydo: CSKB at 03/11/2023 12:15 PM
+BAG:trumdaxanh remove 1xViên Capsule kì bí lydo: CSKB at 03/11/2023 12:15 PM
+BAG:trumdaxanh remove 1xViên Capsule kì bí lydo: CSKB at 03/11/2023 12:15 PM
+BAG:trumdaxanh remove 1xViên Capsule kì bí lydo: CSKB at 03/11/2023 12:15 PM
+BAG:trumdaxanh remove 1xViên Capsule kì bí lydo: CSKB at 03/11/2023 12:15 PM
+BAG:trumdaxanh remove 1xViên Capsule kì bí lydo: CSKB at 03/11/2023 12:15 PM
+BAG:trumdaxanh remove 1xViên Capsule kì bí lydo: CSKB at 03/11/2023 12:15 PM
+BAG:trumdaxanh remove 1xViên Capsule kì bí lydo: CSKB at 03/11/2023 12:15 PM
+BAG:trumdaxanh remove 1xViên Capsule kì bí lydo: CSKB at 03/11/2023 12:15 PM
+BAG:trumdaxanh remove 1xViên Capsule kì bí lydo: CSKB at 03/11/2023 12:15 PM
+BAG:trumdaxanh remove 1xViên Capsule kì bí lydo: CSKB at 03/11/2023 12:15 PM
+BAG:trumdaxanh remove 1xViên Capsule kì bí lydo: CSKB at 03/11/2023 12:15 PM
+BAG:trumdaxanh remove 1xViên Capsule kì bí lydo: CSKB at 03/11/2023 12:15 PM
+BAG:trumdaxanh remove 1xViên Capsule kì bí lydo: CSKB at 03/11/2023 12:15 PM
+BAG:trumdaxanh remove 1xViên Capsule kì bí lydo: CSKB at 03/11/2023 12:15 PM
+BAG:trumdaxanh remove 1xViên Capsule kì bí lydo: CSKB at 03/11/2023 12:15 PM
+BAG:trumdaxanh remove 1xViên Capsule kì bí lydo: CSKB at 03/11/2023 12:15 PM
+BAG:trumdaxanh remove 1xViên Capsule kì bí lydo: CSKB at 03/11/2023 12:15 PM
+BAG:trumdaxanh remove 1xViên Capsule kì bí lydo: CSKB at 03/11/2023 12:15 PM
+BAG:trumdaxanh remove 1xViên Capsule kì bí lydo: CSKB at 03/11/2023 12:15 PM
+BAG:trumdaxanh remove 1xViên Capsule kì bí lydo: CSKB at 03/11/2023 12:15 PM
+BAG:trumdaxanh remove 1xViên Capsule kì bí lydo: CSKB at 03/11/2023 12:15 PM
+BAG:trumdaxanh remove 1xViên Capsule kì bí lydo: CSKB at 03/11/2023 12:15 PM
+BAG:trumdaxanh remove 1xViên Capsule kì bí lydo: CSKB at 03/11/2023 12:15 PM
+BAG:trumdaxanh remove 1xViên Capsule kì bí lydo: CSKB at 03/11/2023 12:15 PM
+BAG:trumdaxanh remove 1xViên Capsule kì bí lydo: CSKB at 03/11/2023 12:15 PM
+BAG:trumdaxanh remove 1xViên Capsule kì bí lydo: CSKB at 03/11/2023 12:15 PM
+BAG:trumdaxanh remove 1xViên Capsule kì bí lydo: CSKB at 03/11/2023 12:15 PM
+BAG:trumdaxanh remove 1xViên Capsule kì bí lydo: CSKB at 03/11/2023 12:15 PM
+BAG:trumdaxanh remove 1xViên Capsule kì bí lydo: CSKB at 03/11/2023 12:15 PM
+BAG:trumdaxanh remove 1xViên Capsule kì bí lydo: CSKB at 03/11/2023 12:15 PM
+BAG:trumdaxanh remove 1xViên Capsule kì bí lydo: CSKB at 03/11/2023 12:15 PM
+BAG:trumdaxanh remove 1xViên Capsule kì bí lydo: CSKB at 03/11/2023 12:15 PM
+BAG:trumdaxanh remove 1xViên Capsule kì bí lydo: CSKB at 03/11/2023 12:16 PM
+BAG:trumdaxanh remove 1xViên Capsule kì bí lydo: CSKB at 03/11/2023 12:16 PM
+BAG:trumdaxanh remove 1xViên Capsule kì bí lydo: CSKB at 03/11/2023 12:16 PM
+BAG:trumdaxanh remove 1xViên Capsule kì bí lydo: CSKB at 03/11/2023 12:16 PM
+BAG:trumdaxanh remove 1xViên Capsule kì bí lydo: CSKB at 03/11/2023 12:16 PM
+BAG:trumdaxanh remove 1xViên Capsule kì bí lydo: CSKB at 03/11/2023 12:16 PM
+BAG:trumdaxanh remove 1xViên Capsule kì bí lydo: CSKB at 03/11/2023 12:16 PM
+BAG:trumdaxanh remove 1xViên Capsule kì bí lydo: CSKB at 03/11/2023 12:16 PM
+BAG:trumdaxanh remove 1xViên Capsule kì bí lydo: CSKB at 03/11/2023 12:16 PM
+BAG:trumdaxanh remove 1xViên Capsule kì bí lydo: CSKB at 03/11/2023 12:16 PM
+BAG:trumdaxanh remove Áo sợi len lydo: Mặc vào người at 03/11/2023 12:16 PM
+BAG:trumdaxanh remove Quần sợi len lydo: Mặc vào người at 03/11/2023 12:16 PM
+BAG:trumdaxanh remove Đậu thần cấp 8 lydo: Tự Xóa vật phẩm at 03/11/2023 12:16 PM
+BAG:trumdaxanh remove Máy dò Capsule kì bí lydo: Tự Xóa vật phẩm at 03/11/2023 12:16 PM
+BAG:trumdaxanh remove Đá Ruby lydo: Tự Xóa vật phẩm at 03/11/2023 12:16 PM
+BAG:trumdaxanh remove 1xCuồng nộ lydo: Dùng buff at 03/11/2023 12:49 PM
+BAG:trumdaxanh remove 1xCuồng nộ lydo: Dùng buff at 03/11/2023 12:58 PM
+BAG:trumdaxanh remove Giáp tập luyện cấp 3 lydo: Mặc vào người at 03/11/2023 1:00 PM
+BAG:trumdaxanh remove Giáp tập luyện cấp 3 lydo: Mặc vào người at 03/11/2023 1:03 PM
+BAG:trumdaxanh remove Giáp tập luyện cấp 3 lydo: Mặc vào người at 03/11/2023 1:08 PM
+BAG:trumdaxanh remove 10xHoa hồng đỏ lydo: Đổi hoa at 03/11/2023 1:08 PM
+BAG:trumdaxanh remove 1xThỏi vàng lydo: Bán cho shop at 03/11/2023 1:08 PM
+BAG:trumdaxanh remove 1xThỏi vàng lydo: Bán cho shop at 03/11/2023 1:08 PM
+BAG:trumdaxanh remove 1xThỏi vàng lydo: Bán cho shop at 03/11/2023 1:08 PM
+BAG:trumdaxanh remove 10xHoa hồng đỏ lydo: Đổi hoa at 03/11/2023 1:08 PM
+BAG:trumdaxanh remove 10xHoa hồng đỏ lydo: Đổi hoa at 03/11/2023 1:08 PM
+BAG:trumdaxanh remove 10xHoa hồng đỏ lydo: Đổi hoa at 03/11/2023 1:09 PM
+BAG:trumdaxanh remove 10xHoa hồng đỏ lydo: Đổi hoa at 03/11/2023 1:09 PM
+BAG:trumdaxanh remove 10xHoa hồng đỏ lydo: Đổi hoa at 03/11/2023 1:09 PM
+BAG:trumdaxanh remove 10xHoa hồng đỏ lydo: Đổi hoa at 03/11/2023 1:09 PM
+BAG:trumdaxanh remove 10xHoa hồng đỏ lydo: Đổi hoa at 03/11/2023 1:09 PM
+BAG:trumdaxanh remove 10xHoa hồng đỏ lydo: Đổi hoa at 03/11/2023 1:09 PM
+BAG:trumdaxanh remove 10xHoa hồng đỏ lydo: Đổi hoa at 03/11/2023 1:09 PM
+BAG:trumdaxanh remove 10xHoa hồng đỏ lydo: Đổi hoa at 03/11/2023 1:09 PM
+BAG:trumdaxanh remove 10xHoa hồng đỏ lydo: Đổi hoa at 03/11/2023 1:09 PM
+BAG:trumdaxanh remove 2xThỏi vàng lydo: Mua đồ hủy diệt at 03/11/2023 1:09 PM
+BAG:trumdaxanh remove 2xThỏi vàng lydo: Mua đồ hủy diệt at 03/11/2023 1:09 PM
+BAG:trumdaxanh remove 2xThỏi vàng lydo: Mua đồ hủy diệt at 03/11/2023 1:09 PM
+BAG:trumdaxanh remove 10xBó hoa hồng đỏ lydo: Đổi hoa at 03/11/2023 1:09 PM
+BAG:trumdaxanh remove 1xGiỏ hoa lydo: Đổi hoa at 03/11/2023 1:09 PM
+BAG:trumdaxanh remove 10xBó hoa hồng đỏ lydo: Đổi hoa at 03/11/2023 1:09 PM
+BAG:trumdaxanh remove 1xGiỏ hoa lydo: Đổi hoa at 03/11/2023 1:09 PM
+BAG:trumdaxanh remove 10xBó hoa hồng đỏ lydo: Đổi hoa at 03/11/2023 1:09 PM
+BAG:trumdaxanh remove 1xGiỏ hoa lydo: Đổi hoa at 03/11/2023 1:09 PM
+BAG:trumdaxanh remove 10xHoa hồng xanh lydo: Đổi hoa at 03/11/2023 1:09 PM
+BAG:trumdaxanh remove 10xHoa hồng xanh lydo: Đổi hoa at 03/11/2023 1:09 PM
+BAG:trumdaxanh remove 10xHoa hồng xanh lydo: Đổi hoa at 03/11/2023 1:09 PM
+BAG:trumdaxanh remove 10xHoa hồng xanh lydo: Đổi hoa at 03/11/2023 1:09 PM
+BAG:trumdaxanh remove 10xHoa hồng xanh lydo: Đổi hoa at 03/11/2023 1:09 PM
+BAG:trumdaxanh remove 10xHoa hồng xanh lydo: Đổi hoa at 03/11/2023 1:09 PM
+BAG:trumdaxanh remove 10xHoa hồng xanh lydo: Đổi hoa at 03/11/2023 1:09 PM
+BAG:trumdaxanh remove 10xHoa hồng xanh lydo: Đổi hoa at 03/11/2023 1:09 PM
+BAG:trumdaxanh remove 10xHoa hồng xanh lydo: Đổi hoa at 03/11/2023 1:09 PM
+BAG:trumdaxanh remove 10xHoa hồng xanh lydo: Đổi hoa at 03/11/2023 1:09 PM
+BAG:trumdaxanh remove 10xHoa hồng xanh lydo: Đổi hoa at 03/11/2023 1:09 PM
+BAG:trumdaxanh remove 10xHoa hồng xanh lydo: Đổi hoa at 03/11/2023 1:10 PM
+BAG:trumdaxanh remove 10xHoa hồng xanh lydo: Đổi hoa at 03/11/2023 1:10 PM
+BAG:trumdaxanh remove 10xHoa hồng xanh lydo: Đổi hoa at 03/11/2023 1:10 PM
+BAG:trumdaxanh remove 10xHoa hồng xanh lydo: Đổi hoa at 03/11/2023 1:10 PM
+BAG:trumdaxanh remove 10xHoa hồng xanh lydo: Đổi hoa at 03/11/2023 1:10 PM
+BAG:trumdaxanh remove 10xHoa hồng xanh lydo: Đổi hoa at 03/11/2023 1:10 PM
+BAG:trumdaxanh remove 10xHoa hồng xanh lydo: Đổi hoa at 03/11/2023 1:10 PM
+BAG:trumdaxanh remove 10xHoa hồng xanh lydo: Đổi hoa at 03/11/2023 1:10 PM
+BAG:trumdaxanh remove 1xThỏi vàng lydo: Bán cho shop at 03/11/2023 1:10 PM
+BAG:trumdaxanh remove 1xThỏi vàng lydo: Bán cho shop at 03/11/2023 1:10 PM
+BAG:trumdaxanh remove 1xThỏi vàng lydo: Bán cho shop at 03/11/2023 1:10 PM
+BAG:trumdaxanh remove 10xHoa hồng xanh lydo: Đổi hoa at 03/11/2023 1:11 PM
+BAG:trumdaxanh remove 10xHoa hồng xanh lydo: Đổi hoa at 03/11/2023 1:11 PM
+BAG:trumdaxanh remove 10xHoa hồng xanh lydo: Đổi hoa at 03/11/2023 1:11 PM
+BAG:trumdaxanh remove 10xHoa hồng xanh lydo: Đổi hoa at 03/11/2023 1:11 PM
+BAG:trumdaxanh remove 10xHoa hồng xanh lydo: Đổi hoa at 03/11/2023 1:11 PM
+BAG:trumdaxanh remove 10xHoa hồng xanh lydo: Đổi hoa at 03/11/2023 1:11 PM
+BAG:trumdaxanh remove 10xHoa hồng xanh lydo: Đổi hoa at 03/11/2023 1:11 PM
+BAG:trumdaxanh remove 10xHoa hồng xanh lydo: Đổi hoa at 03/11/2023 1:11 PM
+BAG:trumdaxanh remove 10xHoa hồng xanh lydo: Đổi hoa at 03/11/2023 1:11 PM
+BAG:trumdaxanh remove 10xHoa hồng xanh lydo: Đổi hoa at 03/11/2023 1:11 PM
+BAG:trumdaxanh remove 10xHoa hồng xanh lydo: Đổi hoa at 03/11/2023 1:11 PM
+BAG:trumdaxanh remove 10xHoa hồng xanh lydo: Đổi hoa at 03/11/2023 1:11 PM
+BAG:trumdaxanh remove 10xHoa hồng xanh lydo: Đổi hoa at 03/11/2023 1:11 PM
+BAG:trumdaxanh remove 10xHoa hồng xanh lydo: Đổi hoa at 03/11/2023 1:11 PM
+BAG:trumdaxanh remove 10xHoa hồng xanh lydo: Đổi hoa at 03/11/2023 1:11 PM
+BAG:trumdaxanh remove 10xHoa hồng xanh lydo: Đổi hoa at 03/11/2023 1:11 PM
+BAG:trumdaxanh remove 10xHoa hồng xanh lydo: Đổi hoa at 03/11/2023 1:11 PM
+BAG:trumdaxanh remove 10xHoa hồng xanh lydo: Đổi hoa at 03/11/2023 1:11 PM
+BAG:trumdaxanh remove 10xHoa hồng xanh lydo: Đổi hoa at 03/11/2023 1:11 PM
+BAG:trumdaxanh remove 10xHoa hồng xanh lydo: Đổi hoa at 03/11/2023 1:11 PM
+BAG:trumdaxanh remove 10xHoa hồng xanh lydo: Đổi hoa at 03/11/2023 1:11 PM
+BAG:trumdaxanh remove 10xHoa hồng xanh lydo: Đổi hoa at 03/11/2023 1:11 PM
+BAG:trumdaxanh remove 10xHoa hồng xanh lydo: Đổi hoa at 03/11/2023 1:11 PM
+BAG:trumdaxanh remove 10xHoa hồng xanh lydo: Đổi hoa at 03/11/2023 1:11 PM
+BAG:trumdaxanh remove 10xHoa hồng xanh lydo: Đổi hoa at 03/11/2023 1:11 PM
+BAG:trumdaxanh remove 10xHoa hồng xanh lydo: Đổi hoa at 03/11/2023 1:11 PM
+BAG:trumdaxanh remove 10xHoa hồng xanh lydo: Đổi hoa at 03/11/2023 1:11 PM
+BAG:trumdaxanh remove 10xHoa hồng xanh lydo: Đổi hoa at 03/11/2023 1:11 PM
+BAG:trumdaxanh remove 10xHoa hồng xanh lydo: Đổi hoa at 03/11/2023 1:11 PM
+BAG:trumdaxanh remove 10xHoa hồng xanh lydo: Đổi hoa at 03/11/2023 1:11 PM
+BAG:trumdaxanh remove 1xThỏi vàng lydo: Bán cho shop at 03/11/2023 1:12 PM
+BAG:trumdaxanh remove 1xThỏi vàng lydo: Bán cho shop at 03/11/2023 1:12 PM
+BAG:trumdaxanh remove 1xThỏi vàng lydo: Bán cho shop at 03/11/2023 1:12 PM
+BAG:trumdaxanh remove 10xHoa hồng xanh lydo: Đổi hoa at 03/11/2023 1:12 PM
+BAG:trumdaxanh remove 2xThỏi vàng lydo: Mua đồ hủy diệt at 03/11/2023 1:12 PM
+BAG:trumdaxanh remove 2xThỏi vàng lydo: Mua đồ hủy diệt at 03/11/2023 1:12 PM
+BAG:trumdaxanh remove 2xThỏi vàng lydo: Mua đồ hủy diệt at 03/11/2023 1:12 PM
+BAG:trumdaxanh remove 2xThỏi vàng lydo: Mua đồ hủy diệt at 03/11/2023 1:12 PM
+BAG:trumdaxanh remove 2xThỏi vàng lydo: Mua đồ hủy diệt at 03/11/2023 1:12 PM
+BAG:trumdaxanh remove 10xBó hoa hồng xanh lydo: Đổi hoa at 03/11/2023 1:12 PM
+BAG:trumdaxanh remove 1xGiỏ hoa lydo: Đổi hoa at 03/11/2023 1:12 PM
+BAG:trumdaxanh remove 10xBó hoa hồng xanh lydo: Đổi hoa at 03/11/2023 1:12 PM
+BAG:trumdaxanh remove 1xGiỏ hoa lydo: Đổi hoa at 03/11/2023 1:12 PM
+BAG:trumdaxanh remove 10xBó hoa hồng xanh lydo: Đổi hoa at 03/11/2023 1:12 PM
+BAG:trumdaxanh remove 1xGiỏ hoa lydo: Đổi hoa at 03/11/2023 1:12 PM
+BAG:trumdaxanh remove 10xBó hoa hồng xanh lydo: Đổi hoa at 03/11/2023 1:12 PM
+BAG:trumdaxanh remove 1xGiỏ hoa lydo: Đổi hoa at 03/11/2023 1:12 PM
+BAG:trumdaxanh remove 10xBó hoa hồng xanh lydo: Đổi hoa at 03/11/2023 1:12 PM
+BAG:trumdaxanh remove 1xGiỏ hoa lydo: Đổi hoa at 03/11/2023 1:12 PM
+BAG:trumdaxanh remove 10xHoa hồng vàng lydo: Đổi hoa at 03/11/2023 1:12 PM
+BAG:trumdaxanh remove 10xHoa hồng vàng lydo: Đổi hoa at 03/11/2023 1:12 PM
+BAG:trumdaxanh remove 10xHoa hồng vàng lydo: Đổi hoa at 03/11/2023 1:12 PM
+BAG:trumdaxanh remove 10xHoa hồng vàng lydo: Đổi hoa at 03/11/2023 1:12 PM
+BAG:trumdaxanh remove 10xHoa hồng vàng lydo: Đổi hoa at 03/11/2023 1:12 PM
+BAG:trumdaxanh remove 10xHoa hồng vàng lydo: Đổi hoa at 03/11/2023 1:12 PM
+BAG:trumdaxanh remove 10xHoa hồng vàng lydo: Đổi hoa at 03/11/2023 1:12 PM
+BAG:trumdaxanh remove 10xHoa hồng vàng lydo: Đổi hoa at 03/11/2023 1:12 PM
+BAG:trumdaxanh remove 10xHoa hồng vàng lydo: Đổi hoa at 03/11/2023 1:12 PM
+BAG:trumdaxanh remove 10xHoa hồng vàng lydo: Đổi hoa at 03/11/2023 1:12 PM
+BAG:trumdaxanh remove 10xHoa hồng vàng lydo: Đổi hoa at 03/11/2023 1:12 PM
+BAG:trumdaxanh remove 10xHoa hồng vàng lydo: Đổi hoa at 03/11/2023 1:12 PM
+BAG:trumdaxanh remove 10xHoa hồng vàng lydo: Đổi hoa at 03/11/2023 1:13 PM
+BAG:trumdaxanh remove 10xHoa hồng vàng lydo: Đổi hoa at 03/11/2023 1:13 PM
+BAG:trumdaxanh remove 10xHoa hồng vàng lydo: Đổi hoa at 03/11/2023 1:13 PM
+BAG:trumdaxanh remove 10xHoa hồng vàng lydo: Đổi hoa at 03/11/2023 1:13 PM
+BAG:trumdaxanh remove 10xHoa hồng vàng lydo: Đổi hoa at 03/11/2023 1:13 PM
+BAG:trumdaxanh remove 10xHoa hồng vàng lydo: Đổi hoa at 03/11/2023 1:13 PM
+BAG:trumdaxanh remove 10xHoa hồng vàng lydo: Đổi hoa at 03/11/2023 1:13 PM
+BAG:trumdaxanh remove 10xHoa hồng vàng lydo: Đổi hoa at 03/11/2023 1:13 PM
+BAG:trumdaxanh remove 10xHoa hồng vàng lydo: Đổi hoa at 03/11/2023 1:13 PM
+BAG:trumdaxanh remove 10xHoa hồng vàng lydo: Đổi hoa at 03/11/2023 1:13 PM
+BAG:trumdaxanh remove 10xHoa hồng vàng lydo: Đổi hoa at 03/11/2023 1:13 PM
+BAG:trumdaxanh remove 10xHoa hồng vàng lydo: Đổi hoa at 03/11/2023 1:13 PM
+BAG:trumdaxanh remove 1xThỏi vàng lydo: Bán cho shop at 03/11/2023 1:13 PM
+BAG:trumdaxanh remove 1xThỏi vàng lydo: Bán cho shop at 03/11/2023 1:13 PM
+BAG:trumdaxanh remove 1xThỏi vàng lydo: Bán cho shop at 03/11/2023 1:13 PM
+BAG:trumdaxanh remove 10xHoa hồng vàng lydo: Đổi hoa at 03/11/2023 1:13 PM
+BAG:trumdaxanh remove 10xHoa hồng vàng lydo: Đổi hoa at 03/11/2023 1:13 PM
+BAG:trumdaxanh remove 10xHoa hồng vàng lydo: Đổi hoa at 03/11/2023 1:13 PM
+BAG:trumdaxanh remove 10xHoa hồng vàng lydo: Đổi hoa at 03/11/2023 1:13 PM
+BAG:trumdaxanh remove 10xHoa hồng vàng lydo: Đổi hoa at 03/11/2023 1:13 PM
+BAG:trumdaxanh remove 10xHoa hồng vàng lydo: Đổi hoa at 03/11/2023 1:13 PM
+BAG:trumdaxanh remove 10xHoa hồng vàng lydo: Đổi hoa at 03/11/2023 1:13 PM
+BAG:trumdaxanh remove 10xHoa hồng vàng lydo: Đổi hoa at 03/11/2023 1:13 PM
+BAG:trumdaxanh remove 10xHoa hồng vàng lydo: Đổi hoa at 03/11/2023 1:13 PM
+BAG:trumdaxanh remove 10xHoa hồng vàng lydo: Đổi hoa at 03/11/2023 1:14 PM
+BAG:trumdaxanh remove 10xHoa hồng vàng lydo: Đổi hoa at 03/11/2023 1:14 PM
+BAG:trumdaxanh remove 10xHoa hồng vàng lydo: Đổi hoa at 03/11/2023 1:14 PM
+BAG:trumdaxanh remove 10xHoa hồng vàng lydo: Đổi hoa at 03/11/2023 1:14 PM
+BAG:trumdaxanh remove 10xHoa hồng vàng lydo: Đổi hoa at 03/11/2023 1:14 PM
+BAG:trumdaxanh remove 10xHoa hồng vàng lydo: Đổi hoa at 03/11/2023 1:14 PM
+BAG:trumdaxanh remove 10xHoa hồng vàng lydo: Đổi hoa at 03/11/2023 1:14 PM
+BAG:trumdaxanh remove 10xHoa hồng vàng lydo: Đổi hoa at 03/11/2023 1:14 PM
+BAG:trumdaxanh remove 10xHoa hồng vàng lydo: Đổi hoa at 03/11/2023 1:14 PM
+BAG:trumdaxanh remove 10xHoa hồng vàng lydo: Đổi hoa at 03/11/2023 1:14 PM
+BAG:trumdaxanh remove 10xHoa hồng vàng lydo: Đổi hoa at 03/11/2023 1:14 PM
+BAG:trumdaxanh remove 10xHoa hồng vàng lydo: Đổi hoa at 03/11/2023 1:14 PM
+BAG:trumdaxanh remove 10xHoa hồng vàng lydo: Đổi hoa at 03/11/2023 1:14 PM
+BAG:trumdaxanh remove 10xHoa hồng vàng lydo: Đổi hoa at 03/11/2023 1:14 PM
+BAG:trumdaxanh remove 10xHoa hồng vàng lydo: Đổi hoa at 03/11/2023 1:14 PM
+BAG:trumdaxanh remove 10xHoa hồng vàng lydo: Đổi hoa at 03/11/2023 1:14 PM
+BAG:trumdaxanh remove 10xHoa hồng vàng lydo: Đổi hoa at 03/11/2023 1:14 PM
+BAG:trumdaxanh remove 2xThỏi vàng lydo: Mua đồ hủy diệt at 03/11/2023 1:14 PM
+BAG:trumdaxanh remove 2xThỏi vàng lydo: Mua đồ hủy diệt at 03/11/2023 1:14 PM
+BAG:trumdaxanh remove 2xThỏi vàng lydo: Mua đồ hủy diệt at 03/11/2023 1:14 PM
+BAG:trumdaxanh remove 2xThỏi vàng lydo: Mua đồ hủy diệt at 03/11/2023 1:14 PM
+BAG:trumdaxanh remove 2xThỏi vàng lydo: Mua đồ hủy diệt at 03/11/2023 1:14 PM
+BAG:trumdaxanh remove 10xBó hoa hồng vàng lydo: Đổi hoa at 03/11/2023 1:14 PM
+BAG:trumdaxanh remove 1xGiỏ hoa lydo: Đổi hoa at 03/11/2023 1:14 PM
+BAG:trumdaxanh remove 10xBó hoa hồng vàng lydo: Đổi hoa at 03/11/2023 1:14 PM
+BAG:trumdaxanh remove 1xGiỏ hoa lydo: Đổi hoa at 03/11/2023 1:14 PM
+BAG:trumdaxanh remove 10xBó hoa hồng vàng lydo: Đổi hoa at 03/11/2023 1:14 PM
+BAG:trumdaxanh remove 1xGiỏ hoa lydo: Đổi hoa at 03/11/2023 1:14 PM
+BAG:trumdaxanh remove 10xBó hoa hồng vàng lydo: Đổi hoa at 03/11/2023 1:14 PM
+BAG:trumdaxanh remove 1xGiỏ hoa lydo: Đổi hoa at 03/11/2023 1:14 PM
+BAG:trumdaxanh remove 1xThỏi vàng lydo: Bán cho shop at 03/11/2023 1:14 PM
+BAG:trumdaxanh remove 1xThỏi vàng lydo: Bán cho shop at 03/11/2023 1:14 PM
+BAG:trumdaxanh remove 10xBó hoa hồng vàng lydo: Đổi hoa at 03/11/2023 1:15 PM
+BAG:trumdaxanh remove 1xGiỏ hoa lydo: Đổi hoa at 03/11/2023 1:15 PM
+BAG:trumdaxanh remove 5xGiỏ hoa hồng đỏ lydo: Đổi quà at 03/11/2023 1:15 PM
+BAG:trumdaxanh remove 5xGiỏ hoa hồng xanh lydo: Đổi quà at 03/11/2023 1:15 PM
+BAG:trumdaxanh remove 5xGiỏ hoa hồng vàng lydo: Đổi quà at 03/11/2023 1:15 PM
+BAG:trumdaxanh remove 1xThiệp chúc mừng đỏ lydo: Đổi quà at 03/11/2023 1:15 PM
+BAG:trumdaxanh remove 1xHộp quà đỏ 8/3 lydo: CSKB at 03/11/2023 1:15 PM
+BAG:trumdaxanh remove Giáp tập luyện cấp 3 lydo: Mặc vào người at 03/11/2023 1:16 PM
+BAG:trumdaxanh remove 1xCuồng nộ lydo: Dùng buff at 03/11/2023 1:17 PM
+BAG:trumdaxanh remove Giáp tập luyện cấp 3 lydo: Mặc vào người at 03/11/2023 1:21 PM
+BAG:trumdaxanh remove Giáp tập luyện cấp 3 lydo: Mặc vào người at 03/11/2023 1:25 PM
+BAG:trumdaxanh remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/11/2023 1:25 PM
+BAG:trumdaxanh remove Giáp tập luyện cấp 3 lydo: Mặc vào người at 03/11/2023 1:27 PM
+BAG:trumdaxanh remove Ngọc Rồng 3 sao lydo: Cất vào rương at 03/11/2023 1:28 PM
+BAG:trumdaxanh remove Ngọc Rồng 4 sao lydo: Cất vào rương at 03/11/2023 1:28 PM
+BAG:trumdaxanh remove Ngọc Rồng 6 sao lydo: Cất vào rương at 03/11/2023 1:28 PM
+BAG:trumdaxanh remove 1xThỏi vàng lydo: Bán cho shop at 03/11/2023 1:28 PM
+BAG:trumdaxanh remove 1xNâng cấp kỹ năng 1 đệ tử lydo: Dùng sách kĩ năng đệ tử at 03/11/2023 1:29 PM
+BAG:trumdaxanh remove 1xNâng cấp kỹ năng 1 đệ tử lydo: Dùng sách kĩ năng đệ tử at 03/11/2023 1:29 PM
+BAG:trumdaxanh remove 1xNâng cấp kỹ năng 1 đệ tử lydo: Dùng sách kĩ năng đệ tử at 03/11/2023 1:29 PM
+BAG:trumdaxanh remove 1xNâng cấp kỹ năng 1 đệ tử lydo: Dùng sách kĩ năng đệ tử at 03/11/2023 1:29 PM
+BAG:trumdaxanh remove 1xNâng cấp kỹ năng 1 đệ tử lydo: Dùng sách kĩ năng đệ tử at 03/11/2023 1:29 PM
+BAG:trumdaxanh remove 1xNâng cấp kỹ năng 1 đệ tử lydo: Dùng sách kĩ năng đệ tử at 03/11/2023 1:29 PM
+BAG:trumdaxanh remove Giáp tập luyện cấp 1 lydo: Mặc cho đệ tử at 03/11/2023 1:29 PM
+BAG:trumdaxanh remove Cải Trang Glaxy lydo: Mặc cho đệ tử at 03/11/2023 1:29 PM
+BAG:trumdaxanh remove Áo sợi len lydo: Mặc cho đệ tử at 03/11/2023 1:29 PM
+BAG:trumdaxanh remove Giầy sợi len lydo: Mặc cho đệ tử at 03/11/2023 1:29 PM
+BAG:trumdaxanh remove Găng sợi len lydo: Mặc cho đệ tử at 03/11/2023 1:29 PM
+BAG:trumdaxanh remove Rada cấp 1 lydo: Mặc cho đệ tử at 03/11/2023 1:29 PM
+BAG:trumdaxanh remove Quần sợi len lydo: Mặc cho đệ tử at 03/11/2023 1:29 PM
+BAG:trumdaxanh remove 1xNâng cấp kỹ năng 2 đệ tử lydo: Dùng sách kĩ năng đệ tử at 03/11/2023 1:33 PM
+BAG:trumdaxanh remove 1xNâng cấp kỹ năng 2 đệ tử lydo: Dùng sách kĩ năng đệ tử at 03/11/2023 1:33 PM
+BAG:trumdaxanh remove 1xNâng cấp kỹ năng 2 đệ tử lydo: Dùng sách kĩ năng đệ tử at 03/11/2023 1:33 PM
+BAG:trumdaxanh remove 1xNâng cấp kỹ năng 2 đệ tử lydo: Dùng sách kĩ năng đệ tử at 03/11/2023 1:33 PM
+BAG:trumdaxanh remove 1xNâng cấp kỹ năng 2 đệ tử lydo: Dùng sách kĩ năng đệ tử at 03/11/2023 1:33 PM
+BAG:trumdaxanh remove 1xNâng cấp kỹ năng 2 đệ tử lydo: Dùng sách kĩ năng đệ tử at 03/11/2023 1:33 PM
+BAG:trumdaxanh remove Găng sợi len lydo: Mặc vào người at 03/11/2023 2:08 PM
+BAG:trumdaxanh remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/11/2023 2:17 PM
+BAG:trumdaxanh remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/11/2023 2:35 PM
+BAG:trumdaxanh remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/11/2023 2:52 PM
+BAG:trumdaxanh remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/11/2023 3:09 PM
+BAG:trumdaxanh remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/11/2023 3:26 PM
+BAG:trumdaxanh remove Giầy sợi len lydo: Mặc vào người at 03/11/2023 3:28 PM
+BAG:trumdaxanh remove Rada cấp 1 lydo: Mặc vào người at 03/11/2023 3:28 PM
+BAG:trumdaxanh remove Quần sợi len lydo: Mặc vào người at 03/11/2023 3:28 PM
+BAG:trumdaxanh remove Áo sợi len lydo: Mặc vào người at 03/11/2023 3:28 PM
+BAG:trumdaxanh remove Giáp tập luyện cấp 3 lydo: Mặc vào người at 03/11/2023 3:29 PM
+BAG:trumdaxanh remove Giáp tập luyện cấp 3 lydo: Mặc vào người at 03/11/2023 3:30 PM
+BAG:trumdaxanh remove Rada cấp 12 lydo: Mặc vào người at 03/11/2023 3:30 PM
+BAG:trumdaxanh remove Quần vàng Zealot lydo: Mặc vào người at 03/11/2023 3:30 PM
+BAG:trumdaxanh remove Giày vàng Zealot lydo: Mặc vào người at 03/11/2023 3:30 PM
+BAG:trumdaxanh remove Áo vàng Zealot lydo: Mặc vào người at 03/11/2023 3:31 PM
+BAG:trumdaxanh remove Ngọc Rồng 4 sao lydo: Tự Xóa vật phẩm at 03/11/2023 3:40 PM
+BAG:trumdaxanh remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/11/2023 3:46 PM
+BAG:trumdaxanh remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/11/2023 4:03 PM
+BAG:trumdaxanh remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/11/2023 4:03 PM
+BAG:trumdaxanh remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/11/2023 4:03 PM
+BAG:trumdaxanh remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/11/2023 4:03 PM
+BAG:trumdaxanh remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/11/2023 4:06 PM
+BAG:trumdaxanh remove Găng vàng Zealot lydo: Tự Xóa vật phẩm at 03/11/2023 4:29 PM
+BAG:trumdaxanh remove Áo jean Calic lydo: Tự Xóa vật phẩm at 03/11/2023 4:29 PM
+BAG:trumdaxanh remove 7xNgọc Rồng 3 sao lydo: Nhập ngọc at 03/11/2023 4:29 PM
+BAG:trumdaxanh remove 7xNgọc Rồng 3 sao lydo: Nhập ngọc at 03/11/2023 4:29 PM
+BAG:trumdaxanh remove 7xNgọc Rồng 3 sao lydo: Nhập ngọc at 03/11/2023 4:29 PM
+BAG:trumdaxanh remove 7xNgọc Rồng 3 sao lydo: Nhập ngọc at 03/11/2023 4:29 PM
+BAG:trumdaxanh remove 7xNgọc Rồng 3 sao lydo: Nhập ngọc at 03/11/2023 4:30 PM
+BAG:trumdaxanh remove 7xNgọc Rồng 3 sao lydo: Nhập ngọc at 03/11/2023 4:30 PM
+BAG:trumdaxanh remove 7xNgọc Rồng 3 sao lydo: Nhập ngọc at 03/11/2023 4:30 PM
+BAG:trumdaxanh remove 7xNgọc Rồng 3 sao lydo: Nhập ngọc at 03/11/2023 4:30 PM
+BAG:trumdaxanh remove 7xNgọc Rồng 2 sao lydo: Nhập ngọc at 03/11/2023 4:30 PM
+BAG:trumdaxanh remove 15xĐá thạch anh tím lydo: Dùng đá nâng cấp at 03/11/2023 4:31 PM
+BAG:trumdaxanh remove 17xĐá thạch anh tím lydo: Dùng đá nâng cấp at 03/11/2023 4:31 PM
+BAG:trumdaxanh remove 1xNgọc Rồng 1 sao lydo: Gọi rồng at 03/11/2023 4:32 PM
+BAG:trumdaxanh remove 1xNgọc Rồng 2 sao lydo: Gọi rồng at 03/11/2023 4:32 PM
+BAG:trumdaxanh remove 1xNgọc Rồng 3 sao lydo: Gọi rồng at 03/11/2023 4:32 PM
+BAG:trumdaxanh remove 1xNgọc Rồng 4 sao lydo: Gọi rồng at 03/11/2023 4:32 PM
+BAG:trumdaxanh remove 1xNgọc Rồng 5 sao lydo: Gọi rồng at 03/11/2023 4:32 PM
+BAG:trumdaxanh remove 1xNgọc Rồng 6 sao lydo: Gọi rồng at 03/11/2023 4:32 PM
+BAG:trumdaxanh remove 1xNgọc Rồng 7 sao lydo: Gọi rồng at 03/11/2023 4:32 PM
+BAG:trumdaxanh remove 21xĐá thạch anh tím lydo: Dùng đá nâng cấp at 03/11/2023 4:33 PM
+BAG:trumdaxanh remove 21xĐá thạch anh tím lydo: Dùng đá nâng cấp at 03/11/2023 4:33 PM
+BAG:trumdaxanh remove 21xĐá thạch anh tím lydo: Dùng đá nâng cấp at 03/11/2023 4:33 PM
+BAG:trumdaxanh remove Ngọc Rồng 4 sao lydo: Cất vào rương at 03/11/2023 4:34 PM
+BAG:trumdaxanh remove Găng sợi len lydo: Mặc vào người at 03/11/2023 4:35 PM
+BAG:trumdaxanh remove Quần vàng Zealot lydo: Mặc cho đệ tử at 03/11/2023 4:35 PM
+BAG:trumdaxanh remove Áo vàng Zealot lydo: Mặc cho đệ tử at 03/11/2023 4:35 PM
+BAG:trumdaxanh remove Giày vàng Zealot lydo: Mặc cho đệ tử at 03/11/2023 4:35 PM
+BAG:trumdaxanh remove Rada cấp 12 lydo: Mặc cho đệ tử at 03/11/2023 4:35 PM
+BAG:trumdaxanh remove Cải Trang Glaxy lydo: Mặc cho đệ tử at 03/11/2023 4:35 PM
+BAG:trumdaxanh remove Thỏi vàng lydo: Cất vào rương at 03/11/2023 4:37 PM
+BAG:trumdaxanh remove 1xThỏi vàng lydo: Bán cho shop at 03/11/2023 4:37 PM
+BAG:trumdaxanh remove 1xThỏi vàng lydo: Bán cho shop at 03/11/2023 4:37 PM
+BAG:trumdaxanh remove 1xThỏi vàng lydo: Bán cho shop at 03/11/2023 4:37 PM
+BAG:trumdaxanh remove 1xThỏi vàng lydo: Bán cho shop at 03/11/2023 4:38 PM
+BAG:trumdaxanh remove 1xThỏi vàng lydo: Bán cho shop at 03/11/2023 4:38 PM
+BAG:trumdaxanh remove 1xThỏi vàng lydo: Bán cho shop at 03/11/2023 4:38 PM
+BAG:trumdaxanh remove 1xThỏi vàng lydo: Bán cho shop at 03/11/2023 4:38 PM
+BAG:trumdaxanh remove 1xThỏi vàng lydo: Bán cho shop at 03/11/2023 4:38 PM
+BAG:trumdaxanh remove 1xThỏi vàng lydo: Bán cho shop at 03/11/2023 4:38 PM
+BAG:trumdaxanh remove 1xThỏi vàng lydo: Bán cho shop at 03/11/2023 4:38 PM
+BAG:trumdaxanh remove 1xThỏi vàng lydo: Bán cho shop at 03/11/2023 4:38 PM
+BAG:trumdaxanh remove 1xThỏi vàng lydo: Bán cho shop at 03/11/2023 4:38 PM
+BAG:trumdaxanh remove 1xThỏi vàng lydo: Bán cho shop at 03/11/2023 4:40 PM
+BAG:trumdaxanh remove 1xThỏi vàng lydo: Bán cho shop at 03/11/2023 4:40 PM
+BAG:trumdaxanh remove 1xThỏi vàng lydo: Bán cho shop at 03/11/2023 4:40 PM
+BAG:trumdaxanh remove 1xThỏi vàng lydo: Bán cho shop at 03/11/2023 4:40 PM
+BAG:trumdaxanh remove 1xThỏi vàng lydo: Bán cho shop at 03/11/2023 4:40 PM
+BAG:trumdaxanh remove 1xThỏi vàng lydo: Bán cho shop at 03/11/2023 4:40 PM
+BAG:trumdaxanh remove 1xThỏi vàng lydo: Bán cho shop at 03/11/2023 4:40 PM
+BAG:trumdaxanh remove 1xThỏi vàng lydo: Bán cho shop at 03/11/2023 4:40 PM
+BAG:trumdaxanh remove 1xThỏi vàng lydo: Bán cho shop at 03/11/2023 4:40 PM
+BAG:trumdaxanh remove 1xThỏi vàng lydo: Bán cho shop at 03/11/2023 4:41 PM
+BAG:trumdaxanh remove 1xThỏi vàng lydo: Bán cho shop at 03/11/2023 4:41 PM
+BAG:trumdaxanh remove 1xThỏi vàng lydo: Bán cho shop at 03/11/2023 4:41 PM
+BAG:trumdaxanh remove 1xThỏi vàng lydo: Bán cho shop at 03/11/2023 4:41 PM
+BAG:trumdaxanh remove 1xThỏi vàng lydo: Bán cho shop at 03/11/2023 4:41 PM
+BAG:trumdaxanh remove 1xThỏi vàng lydo: Bán cho shop at 03/11/2023 4:41 PM
+BAG:trumdaxanh remove 1xThỏi vàng lydo: Bán cho shop at 03/11/2023 4:41 PM
+BAG:trumdaxanh remove 1xThỏi vàng lydo: Bán cho shop at 03/11/2023 4:41 PM
+BAG:trumdaxanh remove 1xThỏi vàng lydo: Bán cho shop at 03/11/2023 4:41 PM
+BAG:trumdaxanh remove 1xThỏi vàng lydo: Bán cho shop at 03/11/2023 4:41 PM
+BAG:trumdaxanh remove 1xThỏi vàng lydo: Bán cho shop at 03/11/2023 4:42 PM
+BAG:trumdaxanh remove 1xThỏi vàng lydo: Bán cho shop at 03/11/2023 4:42 PM
+BAG:trumdaxanh remove 1xThỏi vàng lydo: Bán cho shop at 03/11/2023 4:42 PM
+BAG:trumdaxanh remove 1xThỏi vàng lydo: Bán cho shop at 03/11/2023 4:42 PM
+BAG:trumdaxanh remove 1xThỏi vàng lydo: Bán cho shop at 03/11/2023 4:42 PM
+BAG:trumdaxanh remove 1xThỏi vàng lydo: Bán cho shop at 03/11/2023 4:42 PM
+BAG:trumdaxanh remove 1xThỏi vàng lydo: Bán cho shop at 03/11/2023 4:42 PM
+BAG:trumdaxanh remove 1xThỏi vàng lydo: Bán cho shop at 03/11/2023 4:42 PM
+BAG:trumdaxanh remove 1xThỏi vàng lydo: Bán cho shop at 03/11/2023 4:42 PM
+BAG:trumdaxanh remove 1xThỏi vàng lydo: Bán cho shop at 03/11/2023 4:42 PM
+BAG:trumdaxanh remove 1xThỏi vàng lydo: Bán cho shop at 03/11/2023 4:42 PM
+BAG:trumdaxanh remove 1xThỏi vàng lydo: Bán cho shop at 03/11/2023 4:42 PM
+BAG:trumdaxanh remove 1xThỏi vàng lydo: Bán cho shop at 03/11/2023 4:42 PM
+BAG:trumdaxanh remove 1xThỏi vàng lydo: Bán cho shop at 03/11/2023 4:42 PM
+BAG:trumdaxanh remove 1xThỏi vàng lydo: Bán cho shop at 03/11/2023 4:43 PM
+BAG:trumdaxanh remove 1xThỏi vàng lydo: Bán cho shop at 03/11/2023 4:43 PM
+BAG:trumdaxanh remove 1xThỏi vàng lydo: Bán cho shop at 03/11/2023 4:43 PM
+BAG:trumdaxanh remove 1xThỏi vàng lydo: Bán cho shop at 03/11/2023 4:43 PM
+BAG:trumdaxanh remove 1xThỏi vàng lydo: Bán cho shop at 03/11/2023 4:43 PM
+BAG:trumdaxanh remove 1xThỏi vàng lydo: Bán cho shop at 03/11/2023 4:43 PM
+BAG:trumdaxanh remove 1xThỏi vàng lydo: Bán cho shop at 03/11/2023 4:43 PM
+BAG:trumdaxanh remove 1xThỏi vàng lydo: Bán cho shop at 03/11/2023 4:43 PM
+BAG:trumdaxanh remove 1xThỏi vàng lydo: Bán cho shop at 03/11/2023 4:43 PM
+BAG:trumdaxanh remove 1xThỏi vàng lydo: Bán cho shop at 03/11/2023 4:43 PM
+BAG:trumdaxanh remove 1xThỏi vàng lydo: Bán cho shop at 03/11/2023 4:43 PM
+BAG:trumdaxanh remove 1xThỏi vàng lydo: Bán cho shop at 03/11/2023 4:43 PM
+BAG:trumdaxanh remove 1xThỏi vàng lydo: Bán cho shop at 03/11/2023 4:44 PM
+BAG:trumdaxanh remove 1xThỏi vàng lydo: Bán cho shop at 03/11/2023 4:44 PM
+BAG:trumdaxanh remove 1xThỏi vàng lydo: Bán cho shop at 03/11/2023 4:44 PM
+BAG:trumdaxanh remove 1xThỏi vàng lydo: Bán cho shop at 03/11/2023 4:45 PM
+BAG:trumdaxanh remove 1xThỏi vàng lydo: Bán cho shop at 03/11/2023 4:45 PM
+BAG:trumdaxanh remove 1xThỏi vàng lydo: Bán cho shop at 03/11/2023 4:45 PM
+BAG:trumdaxanh remove 1xThỏi vàng lydo: Bán cho shop at 03/11/2023 4:45 PM
+BAG:trumdaxanh remove 1xThỏi vàng lydo: Bán cho shop at 03/11/2023 4:45 PM
+BAG:trumdaxanh remove 1xThỏi vàng lydo: Bán cho shop at 03/11/2023 4:45 PM
+BAG:trumdaxanh remove 1xThỏi vàng lydo: Bán cho shop at 03/11/2023 4:45 PM
+BAG:trumdaxanh remove 1xThỏi vàng lydo: Bán cho shop at 03/11/2023 4:45 PM
+BAG:trumdaxanh remove 1xThỏi vàng lydo: Bán cho shop at 03/11/2023 4:46 PM
+BAG:trumdaxanh remove 1xThỏi vàng lydo: Bán cho shop at 03/11/2023 4:46 PM
+BAG:trumdaxanh remove 1xThỏi vàng lydo: Bán cho shop at 03/11/2023 4:46 PM
+BAG:trumdaxanh remove 1xThỏi vàng lydo: Bán cho shop at 03/11/2023 4:46 PM
+BAG:trumdaxanh remove 1xThỏi vàng lydo: Bán cho shop at 03/11/2023 4:46 PM
+BAG:trumdaxanh remove 1xThỏi vàng lydo: Bán cho shop at 03/11/2023 4:46 PM
+BAG:trumdaxanh remove 1xThỏi vàng lydo: Bán cho shop at 03/11/2023 4:46 PM
+BAG:trumdaxanh remove 1xThỏi vàng lydo: Bán cho shop at 03/11/2023 4:46 PM
+BAG:trumdaxanh remove 1xThỏi vàng lydo: Bán cho shop at 03/11/2023 4:46 PM
+BAG:trumdaxanh remove 1xThỏi vàng lydo: Bán cho shop at 03/11/2023 4:46 PM
+BAG:trumdaxanh remove 1xThỏi vàng lydo: Bán cho shop at 03/11/2023 4:47 PM
+BAG:trumdaxanh remove 1xThỏi vàng lydo: Bán cho shop at 03/11/2023 4:47 PM
+BAG:trumdaxanh remove 1xThỏi vàng lydo: Bán cho shop at 03/11/2023 4:47 PM
+BAG:trumdaxanh remove 1xThỏi vàng lydo: Bán cho shop at 03/11/2023 4:47 PM
+BAG:trumdaxanh remove 1xThỏi vàng lydo: Bán cho shop at 03/11/2023 4:47 PM
+BAG:trumdaxanh remove 1xThỏi vàng lydo: Bán cho shop at 03/11/2023 4:47 PM
+BAG:trumdaxanh remove 1xThỏi vàng lydo: Bán cho shop at 03/11/2023 4:47 PM
+BAG:trumdaxanh remove 1xThỏi vàng lydo: Bán cho shop at 03/11/2023 4:47 PM
+BAG:trumdaxanh remove 1xThỏi vàng lydo: Bán cho shop at 03/11/2023 4:47 PM
+BAG:trumdaxanh remove 1xThỏi vàng lydo: Bán cho shop at 03/11/2023 4:48 PM
+BAG:trumdaxanh remove 1xThỏi vàng lydo: Bán cho shop at 03/11/2023 4:48 PM
+BAG:trumdaxanh remove 1xThỏi vàng lydo: Bán cho shop at 03/11/2023 4:48 PM
+BAG:trumdaxanh remove 1xThỏi vàng lydo: Bán cho shop at 03/11/2023 4:48 PM
+BAG:trumdaxanh remove 1xThỏi vàng lydo: Bán cho shop at 03/11/2023 4:48 PM
+BAG:trumdaxanh remove 1xThỏi vàng lydo: Bán cho shop at 03/11/2023 4:48 PM
+BAG:trumdaxanh remove 1xThỏi vàng lydo: Bán cho shop at 03/11/2023 4:48 PM
+BAG:trumdaxanh remove 1xThỏi vàng lydo: Bán cho shop at 03/11/2023 4:48 PM
+BAG:trumdaxanh remove 1xThỏi vàng lydo: Bán cho shop at 03/11/2023 4:48 PM
+BAG:trumdaxanh remove 1xThỏi vàng lydo: Bán cho shop at 03/11/2023 4:49 PM
+BAG:trumdaxanh remove 1xThỏi vàng lydo: Bán cho shop at 03/11/2023 4:49 PM
+BAG:trumdaxanh remove 1xThỏi vàng lydo: Bán cho shop at 03/11/2023 4:49 PM
+BAG:trumdaxanh remove 1xThỏi vàng lydo: Bán cho shop at 03/11/2023 4:49 PM
+BAG:trumdaxanh remove 1xThỏi vàng lydo: Bán cho shop at 03/11/2023 4:49 PM
+BAG:trumdaxanh remove 1xThỏi vàng lydo: Bán cho shop at 03/11/2023 4:49 PM
+BAG:trumdaxanh remove 1xThỏi vàng lydo: Bán cho shop at 03/11/2023 4:49 PM
+BAG:trumdaxanh remove 1xThỏi vàng lydo: Bán cho shop at 03/11/2023 4:49 PM
+BAG:trumdaxanh remove 1xThỏi vàng lydo: Bán cho shop at 03/11/2023 4:49 PM
+BAG:trumdaxanh remove 1xThỏi vàng lydo: Bán cho shop at 03/11/2023 4:50 PM
+BAG:trumdaxanh remove 1xThỏi vàng lydo: Bán cho shop at 03/11/2023 4:50 PM
+BAG:trumdaxanh remove 1xThỏi vàng lydo: Bán cho shop at 03/11/2023 4:50 PM
+BAG:trumdaxanh remove 1xThỏi vàng lydo: Bán cho shop at 03/11/2023 4:50 PM
+BAG:trumdaxanh remove 1xThỏi vàng lydo: Bán cho shop at 03/11/2023 4:50 PM
+BAG:trumdaxanh remove 1xThỏi vàng lydo: Bán cho shop at 03/11/2023 4:50 PM
+BAG:trumdaxanh remove 1xThỏi vàng lydo: Bán cho shop at 03/11/2023 4:50 PM
+BAG:trumdaxanh remove 1xThỏi vàng lydo: Bán cho shop at 03/11/2023 4:50 PM
+BAG:trumdaxanh remove 1xThỏi vàng lydo: Bán cho shop at 03/11/2023 4:50 PM
+BAG:trumdaxanh remove 1xThỏi vàng lydo: Bán cho shop at 03/11/2023 4:52 PM
+BAG:trumdaxanh remove 1xThỏi vàng lydo: Bán cho shop at 03/11/2023 4:52 PM
+BAG:trumdaxanh remove 1xThỏi vàng lydo: Bán cho shop at 03/11/2023 4:52 PM
+BAG:trumdaxanh remove 1xThỏi vàng lydo: Bán cho shop at 03/11/2023 4:52 PM
+BAG:trumdaxanh remove 1xThỏi vàng lydo: Bán cho shop at 03/11/2023 4:52 PM
+BAG:trumdaxanh remove 1xThỏi vàng lydo: Bán cho shop at 03/11/2023 4:52 PM
+BAG:trumdaxanh remove 1xThỏi vàng lydo: Bán cho shop at 03/11/2023 4:52 PM
+BAG:trumdaxanh remove 1xThỏi vàng lydo: Bán cho shop at 03/11/2023 4:52 PM
+BAG:trumdaxanh remove 1xThỏi vàng lydo: Bán cho shop at 03/11/2023 4:52 PM
+BAG:trumdaxanh remove 1xThỏi vàng lydo: Bán cho shop at 03/11/2023 4:53 PM
+BAG:trumdaxanh remove 1xThỏi vàng lydo: Bán cho shop at 03/11/2023 4:53 PM
+BAG:trumdaxanh remove 1xThỏi vàng lydo: Bán cho shop at 03/11/2023 4:53 PM
+BAG:trumdaxanh remove 1xThỏi vàng lydo: Bán cho shop at 03/11/2023 4:53 PM
+BAG:trumdaxanh remove 1xThỏi vàng lydo: Bán cho shop at 03/11/2023 4:53 PM
+BAG:trumdaxanh remove 1xThỏi vàng lydo: Bán cho shop at 03/11/2023 4:53 PM
+BAG:trumdaxanh remove 1xThỏi vàng lydo: Bán cho shop at 03/11/2023 4:53 PM
+BAG:trumdaxanh remove 1xThỏi vàng lydo: Bán cho shop at 03/11/2023 4:53 PM
+BAG:trumdaxanh remove 1xThỏi vàng lydo: Bán cho shop at 03/11/2023 4:53 PM
+BAG:trumdaxanh remove 1xThỏi vàng lydo: Bán cho shop at 03/11/2023 4:54 PM
+BAG:trumdaxanh remove 1xThỏi vàng lydo: Bán cho shop at 03/11/2023 4:54 PM
+BAG:trumdaxanh remove 1xThỏi vàng lydo: Bán cho shop at 03/11/2023 4:54 PM
+BAG:trumdaxanh remove 1xThỏi vàng lydo: Bán cho shop at 03/11/2023 4:54 PM
+BAG:trumdaxanh remove 1xThỏi vàng lydo: Bán cho shop at 03/11/2023 4:54 PM
+BAG:trumdaxanh remove 1xThỏi vàng lydo: Bán cho shop at 03/11/2023 4:54 PM
+BAG:trumdaxanh remove 1xThỏi vàng lydo: Bán cho shop at 03/11/2023 4:54 PM
+BAG:trumdaxanh remove 1xThỏi vàng lydo: Bán cho shop at 03/11/2023 4:54 PM
+BAG:trumdaxanh remove 1xThỏi vàng lydo: Bán cho shop at 03/11/2023 4:54 PM
+BAG:trumdaxanh remove 1xThỏi vàng lydo: Bán cho shop at 03/11/2023 4:55 PM
+BAG:trumdaxanh remove 1xThỏi vàng lydo: Bán cho shop at 03/11/2023 4:55 PM
+BAG:trumdaxanh remove 1xThỏi vàng lydo: Bán cho shop at 03/11/2023 4:55 PM
+BAG:trumdaxanh remove 1xThỏi vàng lydo: Bán cho shop at 03/11/2023 4:55 PM
+BAG:trumdaxanh remove 1xThỏi vàng lydo: Bán cho shop at 03/11/2023 4:55 PM
+BAG:trumdaxanh remove 1xThỏi vàng lydo: Bán cho shop at 03/11/2023 4:55 PM
+BAG:trumdaxanh remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 03/11/2023 4:58 PM
+BAG:trumdaxanh remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 03/11/2023 4:58 PM
+BAG:trumdaxanh remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 03/11/2023 4:59 PM
+BAG:trumdaxanh remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 03/11/2023 4:59 PM
+BAG:trumdaxanh remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 03/11/2023 4:59 PM
+BAG:trumdaxanh remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 03/11/2023 5:00 PM
+BAG:trumdaxanh remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 03/11/2023 5:00 PM
+BAG:trumdaxanh remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 03/11/2023 5:00 PM
+BAG:trumdaxanh remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 03/11/2023 5:00 PM
+BAG:trumdaxanh remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 03/11/2023 5:00 PM
+BAG:trumdaxanh remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 03/11/2023 5:01 PM
+BAG:trumdaxanh remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 03/11/2023 5:01 PM
+BAG:trumdaxanh remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 03/11/2023 5:01 PM
+BAG:trumdaxanh remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 03/11/2023 5:01 PM
+BAG:trumdaxanh remove Găng Thần Namếc lydo: Mặc cho đệ tử at 03/11/2023 5:01 PM
+BAG:trumdaxanh remove Giáp tập luyện cấp 1 lydo: Tự Xóa vật phẩm at 03/11/2023 5:01 PM
+BAG:trumdaxanh remove Giáp tập luyện cấp 1 lydo: Mặc cho đệ tử at 03/11/2023 5:02 PM
+BAG:trumdaxanh remove Giáp tập luyện cấp 3 lydo: Mặc vào người at 03/11/2023 5:09 PM
+BAG:trumdaxanh remove 1xCuồng nộ lydo: Dùng buff at 03/11/2023 5:14 PM
+BAG:trumdaxanh remove 1xCuồng nộ lydo: Dùng buff at 03/11/2023 5:30 PM
+BAG:trumdaxanh remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/11/2023 5:30 PM
+BAG:trumdaxanh remove Giáp tập luyện cấp 3 lydo: Mặc vào người at 03/11/2023 5:35 PM
+BAG:trumdaxanh remove Áo vàng Zealot lydo: Mặc vào người at 03/11/2023 5:35 PM
+BAG:trumdaxanh remove Quần vàng Zealot lydo: Mặc vào người at 03/11/2023 5:35 PM
+BAG:trumdaxanh remove Giày vàng Zealot lydo: Mặc vào người at 03/11/2023 5:35 PM
+BAG:trumdaxanh remove Rada cấp 12 lydo: Mặc vào người at 03/11/2023 5:35 PM
+BAG:trumdaxanh remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/11/2023 5:36 PM
+BAG:trumdaxanh remove 10xThỏi vàng lydo: Giao dịch với iphone at 03/11/2023 5:42 PM
+BAG:trumdaxanh remove 10xThỏi vàng lydo: Giao dịch với x2lh100 at 03/11/2023 5:45 PM
+BAG:trumdaxanh remove 21xĐá thạch anh tím lydo: Dùng đá nâng cấp at 03/11/2023 5:46 PM
+BAG:trumdaxanh remove 21xĐá thạch anh tím lydo: Dùng đá nâng cấp at 03/11/2023 5:46 PM
+BAG:trumdaxanh remove 21xĐá thạch anh tím lydo: Dùng đá nâng cấp at 03/11/2023 5:46 PM
+BAG:trumdaxanh remove 21xĐá thạch anh tím lydo: Dùng đá nâng cấp at 03/11/2023 5:46 PM
+BAG:trumdaxanh remove 21xĐá thạch anh tím lydo: Dùng đá nâng cấp at 03/11/2023 5:46 PM
+BAG:trumdaxanh remove 21xĐá thạch anh tím lydo: Dùng đá nâng cấp at 03/11/2023 5:47 PM
+BAG:trumdaxanh remove 21xĐá thạch anh tím lydo: Dùng đá nâng cấp at 03/11/2023 5:47 PM
+BAG:trumdaxanh remove 21xĐá thạch anh tím lydo: Dùng đá nâng cấp at 03/11/2023 5:47 PM
+BAG:trumdaxanh remove 21xĐá thạch anh tím lydo: Dùng đá nâng cấp at 03/11/2023 5:47 PM
+BAG:trumdaxanh remove Găng Thần Namếc lydo: Mặc cho đệ tử at 03/11/2023 5:47 PM
+BAG:trumdaxanh remove Rada cấp 1 lydo: Mặc vào người at 03/11/2023 5:59 PM
+BAG:trumdaxanh remove Giầy sợi len lydo: Mặc vào người at 03/11/2023 5:59 PM
+BAG:trumdaxanh remove Quần sợi len lydo: Mặc vào người at 03/11/2023 5:59 PM
+BAG:trumdaxanh remove Áo sợi len lydo: Mặc vào người at 03/11/2023 5:59 PM
+BAG:trumdaxanh remove Cải Trang Thần Zeno Namec lydo: Mặc vào người at 03/11/2023 5:59 PM
+BAG:trumdaxanh remove Đá Titan lydo: Tự Xóa vật phẩm at 03/11/2023 6:05 PM
+BAG:trumdaxanh remove Đá Saphia lydo: Tự Xóa vật phẩm at 03/11/2023 6:05 PM
+BAG:trumdaxanh remove Đá Ruby lydo: Tự Xóa vật phẩm at 03/11/2023 6:15 PM
+BAG:trumdaxanh remove Đá lục bảo lydo: Tự Xóa vật phẩm at 03/11/2023 6:15 PM
+BAG:trumdaxanh remove Đá Titan lydo: Tự Xóa vật phẩm at 03/11/2023 6:15 PM
+BAG:trumdaxanh remove Đá Saphia lydo: Tự Xóa vật phẩm at 03/11/2023 6:15 PM
+BAG:trumdaxanh remove Đá Saphia lydo: Tự Xóa vật phẩm at 03/11/2023 6:48 PM
+BAG:trumdaxanh remove 1xCuồng nộ lydo: Dùng buff at 03/11/2023 6:49 PM
+BAG:trumdaxanh remove Đá Titan lydo: Tự Xóa vật phẩm at 03/11/2023 6:54 PM
+BAG:trumdaxanh remove Đá Ruby lydo: Tự Xóa vật phẩm at 03/11/2023 6:54 PM
+BAG:trumdaxanh remove Đá lục bảo lydo: Tự Xóa vật phẩm at 03/11/2023 6:54 PM
+BAG:trumdaxanh remove 1xCuồng nộ lydo: Dùng buff at 03/11/2023 6:56 PM
+BAG:trumdaxanh remove 1xCuồng nộ lydo: Dùng buff at 03/11/2023 7:07 PM
+BAG:trumdaxanh remove Nhẫn thời không sai lệch lydo: Cất vào rương at 03/11/2023 7:11 PM
+BAG:trumdaxanh remove Giáp tập luyện cấp 3 lydo: Mặc vào người at 03/11/2023 7:15 PM
+BAG:trumdaxanh remove 1xCuồng nộ lydo: Dùng buff at 03/11/2023 7:20 PM
+BAG:trumdaxanh remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/11/2023 7:25 PM
+BAG:trumdaxanh remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/11/2023 7:28 PM
+BAG:trumdaxanh remove 1xCuồng nộ lydo: Dùng buff at 03/11/2023 7:32 PM
+BAG:trumdaxanh remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/11/2023 7:37 PM
+BAG:trumdaxanh remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/11/2023 7:37 PM
+BAG:trumdaxanh remove Giáp tập luyện cấp 3 lydo: Mặc vào người at 03/11/2023 7:37 PM
+BAG:trumdaxanh remove Đá Titan lydo: Tự Xóa vật phẩm at 03/11/2023 7:42 PM
+BAG:trumdaxanh remove Giáp tập luyện cấp 3 lydo: Mặc vào người at 03/11/2023 7:43 PM
+BAG:trumdaxanh remove 25xThỏi vàng lydo: Giao dịch với kameso200m at 03/11/2023 7:51 PM
+BAG:trumdaxanh remove Găng Thần Namếc lydo: Mặc vào người at 03/11/2023 7:52 PM
+BAG:trumdaxanh remove 25xThỏi vàng lydo: Giao dịch với kameso200m at 03/11/2023 7:53 PM
+BAG:trumdaxanh remove Hồn linh thú lydo: Cất vào rương at 03/11/2023 7:55 PM
+BAG:trumdaxanh remove Đá ngũ sắc lydo: Cất vào rương at 03/11/2023 7:55 PM
+BAG:trumdaxanh remove Đá thạch anh tím lydo: Cất vào rương at 03/11/2023 7:55 PM
+BAG:trumdaxanh remove Găng sợi len lydo: Mặc vào người at 03/11/2023 7:57 PM
+BAG:trumdaxanh remove Giày vàng Zealot lydo: Mặc vào người at 03/11/2023 7:58 PM
+BAG:trumdaxanh remove Áo vàng Zealot lydo: Mặc vào người at 03/11/2023 7:58 PM
+BAG:trumdaxanh remove Quần vàng Zealot lydo: Mặc vào người at 03/11/2023 7:58 PM
+BAG:trumdaxanh remove Rada cấp 12 lydo: Mặc vào người at 03/11/2023 7:58 PM
+BAG:trumdaxanh remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/11/2023 8:03 PM
+BAG:trumdaxanh remove 1xNâng cấp kỹ năng 4 đệ tử lydo: Dùng sách kĩ năng đệ tử at 03/11/2023 8:08 PM
+BAG:trumdaxanh remove 1xNâng cấp kỹ năng 4 đệ tử lydo: Dùng sách kĩ năng đệ tử at 03/11/2023 8:08 PM
+BAG:trumdaxanh remove 1xNâng cấp kỹ năng 4 đệ tử lydo: Dùng sách kĩ năng đệ tử at 03/11/2023 8:08 PM
+BAG:trumdaxanh remove 1xNâng cấp kỹ năng 4 đệ tử lydo: Dùng sách kĩ năng đệ tử at 03/11/2023 8:08 PM
+BAG:trumdaxanh remove 1xNâng cấp kỹ năng 4 đệ tử lydo: Dùng sách kĩ năng đệ tử at 03/11/2023 8:08 PM
+BAG:trumdaxanh remove 1xNâng cấp kỹ năng 4 đệ tử lydo: Dùng sách kĩ năng đệ tử at 03/11/2023 8:08 PM
+BAG:trumdaxanh remove 1xNâng cấp kỹ năng 3 đệ tử lydo: Dùng sách kĩ năng đệ tử at 03/11/2023 8:13 PM
+BAG:trumdaxanh remove 1xNâng cấp kỹ năng 3 đệ tử lydo: Dùng sách kĩ năng đệ tử at 03/11/2023 8:13 PM
+BAG:trumdaxanh remove 1xNâng cấp kỹ năng 3 đệ tử lydo: Dùng sách kĩ năng đệ tử at 03/11/2023 8:13 PM
+BAG:trumdaxanh remove 1xNâng cấp kỹ năng 3 đệ tử lydo: Dùng sách kĩ năng đệ tử at 03/11/2023 8:13 PM
+BAG:trumdaxanh remove 1xNâng cấp kỹ năng 3 đệ tử lydo: Dùng sách kĩ năng đệ tử at 03/11/2023 8:13 PM
+BAG:trumdaxanh remove 1xNâng cấp kỹ năng 3 đệ tử lydo: Dùng sách kĩ năng đệ tử at 03/11/2023 8:13 PM
+BAG:trumdaxanh remove Đậu thần cấp 8 lydo: Tự Xóa vật phẩm at 03/11/2023 8:14 PM
+BAG:trumdaxanh remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/11/2023 8:27 PM
+BAG:trumdaxanh remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/11/2023 8:43 PM
+BAG:trumdaxanh remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/11/2023 8:46 PM
+BAG:trumdaxanh remove Ngọc Rồng 1 sao lydo: Cất vào rương at 03/11/2023 9:07 PM
+BAG:trumdaxanh remove Ngọc Rồng 2 sao lydo: Cất vào rương at 03/11/2023 9:07 PM
+BAG:trumdaxanh remove Ngọc Rồng 3 sao lydo: Cất vào rương at 03/11/2023 9:07 PM
+BAG:trumdaxanh remove Ngọc Rồng 4 sao lydo: Cất vào rương at 03/11/2023 9:07 PM
+BAG:trumdaxanh remove Ngọc Rồng 5 sao lydo: Cất vào rương at 03/11/2023 9:07 PM
+BAG:trumdaxanh remove Ngọc Rồng 6 sao lydo: Cất vào rương at 03/11/2023 9:07 PM
+BAG:trumdaxanh remove Ngọc Rồng 7 sao lydo: Cất vào rương at 03/11/2023 9:07 PM
+BAG:trumdaxanh remove Hồn linh thú lydo: Cất vào rương at 03/11/2023 9:07 PM
+BAG:trumdaxanh remove Áo sợi len lydo: Mặc vào người at 03/11/2023 9:07 PM
+BAG:trumdaxanh remove Giầy sợi len lydo: Mặc vào người at 03/11/2023 9:07 PM
+BAG:trumdaxanh remove Rada cấp 1 lydo: Mặc vào người at 03/11/2023 9:07 PM
+BAG:trumdaxanh remove Quần sợi len lydo: Mặc vào người at 03/11/2023 9:07 PM
+BAG:trumdaxanh remove 1xMáy dò Capsule kì bí lydo: Dùng máy dò at 03/11/2023 9:08 PM
+BAG:trumdaxanh remove Ngọc Rồng 5 sao lydo: Tự Xóa vật phẩm at 03/11/2023 9:23 PM
+BAG:trumdaxanh remove Đá lục bảo lydo: Tự Xóa vật phẩm at 03/11/2023 9:23 PM
+BAG:trumdaxanh remove Đá Titan lydo: Tự Xóa vật phẩm at 03/11/2023 9:31 PM
+BAG:trumdaxanh remove 1xMáy dò Capsule kì bí lydo: Dùng máy dò at 03/11/2023 9:39 PM

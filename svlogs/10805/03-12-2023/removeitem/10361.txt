@@ -1,0 +1,64 @@
+BAG:kakalotreal remove 1xMèo mun lydo: Item hết hạn sử dụng at 03/12/2023 6:47 PM
+BAG:kakalotreal remove Giầy vải thô lydo: Cất vào rương at 03/12/2023 6:53 PM
+BAG:kakalotreal remove Quần vải thô lydo: Cất vào rương at 03/12/2023 6:53 PM
+BAG:kakalotreal remove Áo vải thô lydo: Cất vào rương at 03/12/2023 6:53 PM
+BAG:kakalotreal remove Găng vải thô lydo: Cất vào rương at 03/12/2023 6:53 PM
+BAG:kakalotreal remove Rada cấp 1 lydo: Cất vào rương at 03/12/2023 6:53 PM
+BAG:kakalotreal remove Cải trang mồn lèo lydo: Cất vào rương at 03/12/2023 6:53 PM
+BAG:kakalotreal remove Nhẫn thời không sai lệch lydo: Cất vào rương at 03/12/2023 6:53 PM
+BAG:kakalotreal remove Cuồng nộ lydo: Cất vào rương at 03/12/2023 6:53 PM
+BAG:kakalotreal remove 1xÁo lưỡng long lydo: Bán cho shop at 03/12/2023 8:23 PM
+BAG:kakalotreal remove 1xGiày lưỡng long lydo: Bán cho shop at 03/12/2023 8:23 PM
+BAG:kakalotreal remove 1xRada cấp 9 lydo: Bán cho shop at 03/12/2023 8:23 PM
+BAG:kakalotreal remove 1xRada cấp 9 lydo: Bán cho shop at 03/12/2023 8:23 PM
+BAG:kakalotreal remove 1xRada cấp 9 lydo: Bán cho shop at 03/12/2023 8:24 PM
+BAG:kakalotreal remove 1xRada cấp 8 lydo: Bán cho shop at 03/12/2023 8:24 PM
+BAG:kakalotreal remove 1xRada cấp 8 lydo: Bán cho shop at 03/12/2023 8:24 PM
+BAG:kakalotreal remove 1xGăng da Xayda lydo: Bán cho shop at 03/12/2023 8:24 PM
+BAG:kakalotreal remove 1xGăng da Xayda lydo: Bán cho shop at 03/12/2023 8:24 PM
+BAG:kakalotreal remove 1xGăng da Xayda lydo: Bán cho shop at 03/12/2023 8:24 PM
+BAG:kakalotreal remove 1xGăng vàng lydo: Bán cho shop at 03/12/2023 8:25 PM
+BAG:kakalotreal remove 1xGăng bạc lydo: Bán cho shop at 03/12/2023 8:25 PM
+BAG:kakalotreal remove 1xGăng bạc lydo: Bán cho shop at 03/12/2023 8:25 PM
+BAG:kakalotreal remove 1xGăng đồng lydo: Bán cho shop at 03/12/2023 8:25 PM
+BAG:kakalotreal remove 1xGăng sắt lydo: Bán cho shop at 03/12/2023 8:25 PM
+BAG:kakalotreal remove 1xGăng thun thô lydo: Bán cho shop at 03/12/2023 8:25 PM
+BAG:kakalotreal remove 1xGăng thun thô lydo: Bán cho shop at 03/12/2023 8:25 PM
+BAG:kakalotreal remove 1xGăng vải thô lydo: Bán cho shop at 03/12/2023 8:25 PM
+BAG:kakalotreal remove 1xGăng vải thô lydo: Bán cho shop at 03/12/2023 8:25 PM
+BAG:kakalotreal remove 1xGăng vải thô lydo: Bán cho shop at 03/12/2023 8:25 PM
+BAG:kakalotreal remove 1xGăng vải thô lydo: Bán cho shop at 03/12/2023 8:25 PM
+BAG:kakalotreal remove 1xÁo vải thô lydo: Bán cho shop at 03/12/2023 8:26 PM
+BAG:kakalotreal remove 1xÁo thun thô lydo: Bán cho shop at 03/12/2023 8:26 PM
+BAG:kakalotreal remove 1xÁo vải thô lydo: Bán cho shop at 03/12/2023 8:27 PM
+BAG:kakalotreal remove 1xÁo vải thô lydo: Bán cho shop at 03/12/2023 8:27 PM
+BAG:kakalotreal remove 1xÁo vải thô lydo: Bán cho shop at 03/12/2023 8:27 PM
+BAG:kakalotreal remove 1xGiầy vải thô lydo: Bán cho shop at 03/12/2023 8:27 PM
+BAG:kakalotreal remove 1xÁo thun thô lydo: Bán cho shop at 03/12/2023 8:28 PM
+BAG:kakalotreal remove 1xÁo vải thô lydo: Bán cho shop at 03/12/2023 8:28 PM
+BAG:kakalotreal remove 1xÁo vải thô lydo: Bán cho shop at 03/12/2023 8:28 PM
+BAG:kakalotreal remove 1xÁo vải thô lydo: Bán cho shop at 03/12/2023 8:28 PM
+BAG:kakalotreal remove 1xÁo vải thô lydo: Bán cho shop at 03/12/2023 8:29 PM
+BAG:kakalotreal remove 1xGăng vải thô lydo: Bán cho shop at 03/12/2023 8:29 PM
+BAG:kakalotreal remove 1xGiầy vải thô lydo: Bán cho shop at 03/12/2023 8:29 PM
+BAG:kakalotreal remove 1xGiầy cao su thô lydo: Bán cho shop at 03/12/2023 8:29 PM
+BAG:kakalotreal remove 1xRada cấp 1 lydo: Bán cho shop at 03/12/2023 8:30 PM
+BAG:kakalotreal remove 1xRada cấp 1 lydo: Bán cho shop at 03/12/2023 8:30 PM
+BAG:kakalotreal remove 1xRada cấp 1 lydo: Bán cho shop at 03/12/2023 8:30 PM
+BAG:kakalotreal remove 1xGiầy vải thô lydo: Bán cho shop at 03/12/2023 8:30 PM
+BAG:kakalotreal remove 1xGiầy vải thô lydo: Bán cho shop at 03/12/2023 8:30 PM
+BAG:kakalotreal remove 1xÁo vải thô lydo: Bán cho shop at 03/12/2023 8:30 PM
+BAG:kakalotreal remove Giáp tập luyện cấp 1 lydo: Mặc vào người at 03/12/2023 8:38 PM
+BAG:kakalotreal remove 1xMáy dò Capsule kì bí lydo: Dùng máy dò at 03/12/2023 8:38 PM
+BAG:kakalotreal remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/12/2023 9:01 PM
+BAG:kakalotreal remove 1xMáy dò Capsule kì bí lydo: Dùng máy dò at 03/12/2023 9:01 PM
+BAG:kakalotreal remove Bổ khí lydo: Tự Xóa vật phẩm at 03/12/2023 9:05 PM
+BAG:kakalotreal remove Đậu thần cấp 9 lydo: Tự Xóa vật phẩm at 03/12/2023 9:05 PM
+BAG:kakalotreal remove Giầy vải thô lydo: Cất vào rương at 03/12/2023 9:05 PM
+BAG:kakalotreal remove Quần vải thô lydo: Cất vào rương at 03/12/2023 9:05 PM
+BAG:kakalotreal remove Găng vải thô lydo: Cất vào rương at 03/12/2023 9:05 PM
+BAG:kakalotreal remove Áo vải thô lydo: Cất vào rương at 03/12/2023 9:05 PM
+BAG:kakalotreal remove Rada cấp 1 lydo: Cất vào rương at 03/12/2023 9:05 PM
+BAG:kakalotreal remove Bông tai Porata lydo: Cất vào rương at 03/12/2023 9:05 PM
+BAG:kakalotreal remove Quỷ Chim lydo: Cất vào rương at 03/12/2023 9:05 PM
+BAG:kakalotreal remove 1xMáy dò Capsule kì bí lydo: Dùng máy dò at 03/12/2023 11:03 PM

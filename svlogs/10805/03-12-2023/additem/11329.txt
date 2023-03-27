@@ -1,0 +1,27 @@
+BAG:momoken add 10xĐậu thần cấp 10 (old: 3) lydo: Thu hoạch đậu at 03/12/2023 6:33 AM
+BAG:momoken add 105xHoa hồng vàng (old: 104) lydo: Nhặt từ map at 03/12/2023 6:36 AM
+BAG:momoken add 1xBó hoa hồng đỏ lydo: Đổi bó hoa hồng đỏ at 03/12/2023 6:40 AM
+BAG:momoken add 2xBó hoa hồng đỏ (old: 1) lydo: Đổi bó hoa hồng đỏ at 03/12/2023 6:40 AM
+BAG:momoken add 1xBó hoa hồng xanh lydo: Đổi bó hoa hồng xanh at 03/12/2023 6:40 AM
+BAG:momoken add 1xBó hoa hồng vàng lydo: Đổi bó hoa hồng đỏ at 03/12/2023 6:41 AM
+BAG:momoken add 3xBó hoa hồng đỏ (old: 2) lydo: Đổi bó hoa hồng đỏ at 03/12/2023 6:42 AM
+BAG:momoken add 1xGiáp tập luyện cấp 3 lydo: Lấy từ body vào hành trang at 03/12/2023 6:45 AM
+BAG:momoken add 86xHoa hồng đỏ (old: 85) lydo: Nhặt từ map at 03/12/2023 6:45 AM
+BAG:momoken add 87xHoa hồng đỏ (old: 86) lydo: Nhặt từ map at 03/12/2023 6:46 AM
+BAG:momoken add 88xHoa hồng đỏ (old: 87) lydo: Nhặt từ map at 03/12/2023 6:46 AM
+BAG:momoken add 3xSao pha lê (old: 2) lydo: Nhặt từ map at 03/12/2023 6:46 AM
+BAG:momoken add 3xSao pha lê (old: 2) lydo: Nhặt từ map at 03/12/2023 6:46 AM
+BAG:momoken add 89xHoa hồng đỏ (old: 88) lydo: Nhặt từ map at 03/12/2023 6:46 AM
+BAG:momoken add 95xHoa hồng xanh (old: 94) lydo: Nhặt từ map at 03/12/2023 6:46 AM
+BAG:momoken add 1xHoa hồng vàng lydo: Nhặt từ map at 03/12/2023 6:47 AM
+BAG:momoken add 96xHoa hồng xanh (old: 95) lydo: Nhặt từ map at 03/12/2023 6:47 AM
+BAG:momoken add 97xHoa hồng xanh (old: 96) lydo: Nhặt từ map at 03/12/2023 6:47 AM
+BAG:momoken add 2xHoa hồng vàng (old: 1) lydo: Nhặt từ map at 03/12/2023 6:47 AM
+BAG:momoken add 90xHoa hồng đỏ (old: 89) lydo: Nhặt từ map at 03/12/2023 6:47 AM
+BAG:momoken add 91xHoa hồng đỏ (old: 90) lydo: Nhặt từ map at 03/12/2023 6:47 AM
+BAG:momoken add 92xHoa hồng đỏ (old: 91) lydo: Nhặt từ map at 03/12/2023 6:48 AM
+BAG:momoken add 98xHoa hồng xanh (old: 97) lydo: Nhặt từ map at 03/12/2023 6:48 AM
+BAG:momoken add 3xHoa hồng vàng (old: 2) lydo: Nhặt từ map at 03/12/2023 6:48 AM
+BAG:momoken add 1xÁo vải 3 lỗ lydo: Lấy từ body vào hành trang at 03/12/2023 3:04 PM
+BAG:momoken add 4xHoa hồng vàng (old: 3) lydo: Nhặt từ map at 03/12/2023 3:06 PM
+BAG:momoken add 1xRada cấp 1 lydo: Lấy từ body vào hành trang at 03/12/2023 3:07 PM

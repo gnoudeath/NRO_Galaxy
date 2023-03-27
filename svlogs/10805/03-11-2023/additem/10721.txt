@@ -1,0 +1,509 @@
+BAG:memayha add 1xCT Genma 01 lydo: Lấy từ rương qua người at 03/11/2023 1:03 AM
+BAG:memayha add 91xĐá Titan (old: 2) lydo: Lấy từ rương qua người at 03/11/2023 1:03 AM
+BAG:memayha add 76xĐá Ruby (old: 8) lydo: Lấy từ rương qua người at 03/11/2023 1:03 AM
+BAG:memayha add 79xĐá Saphia (old: 1) lydo: Lấy từ rương qua người at 03/11/2023 1:03 AM
+BAG:memayha add 7xĐá thạch anh tím lydo: Lấy từ rương qua người at 03/11/2023 1:03 AM
+BAG:memayha add 99xĐá thạch anh tím (old: 7) lydo: Lấy từ rương qua người at 03/11/2023 1:03 AM
+BAG:memayha add 1xGăng lưỡng long lydo: Lấy từ body đệ vào hành trang at 03/11/2023 1:04 AM
+BAG:memayha add 79xĐá thạch anh tím (old: 78) lydo: Nhặt từ map at 03/11/2023 1:13 AM
+BAG:memayha add 64xThỏi vàng lydo: Lấy từ rương qua người at 03/11/2023 2:03 AM
+BAG:memayha add 1xGiỏ hoa lydo: Mua từ bill at 03/11/2023 2:03 AM
+BAG:memayha add 2xGiỏ hoa (old: 1) lydo: Mua từ bill at 03/11/2023 2:03 AM
+BAG:memayha add 3xGiỏ hoa (old: 2) lydo: Mua từ bill at 03/11/2023 2:03 AM
+BAG:memayha add 1xBó hoa hồng đỏ lydo: Đổi bó hoa hồng đỏ at 03/11/2023 2:03 AM
+BAG:memayha add 2xBó hoa hồng đỏ (old: 1) lydo: Đổi bó hoa hồng đỏ at 03/11/2023 2:04 AM
+BAG:memayha add 3xBó hoa hồng đỏ (old: 2) lydo: Đổi bó hoa hồng đỏ at 03/11/2023 2:06 AM
+BAG:memayha add 4xBó hoa hồng đỏ (old: 3) lydo: Đổi bó hoa hồng đỏ at 03/11/2023 2:07 AM
+BAG:memayha add 5xBó hoa hồng đỏ (old: 4) lydo: Đổi bó hoa hồng đỏ at 03/11/2023 2:07 AM
+BAG:memayha add 6xBó hoa hồng đỏ (old: 5) lydo: Đổi bó hoa hồng đỏ at 03/11/2023 2:07 AM
+BAG:memayha add 7xBó hoa hồng đỏ (old: 6) lydo: Đổi bó hoa hồng đỏ at 03/11/2023 2:07 AM
+BAG:memayha add 8xBó hoa hồng đỏ (old: 7) lydo: Đổi bó hoa hồng đỏ at 03/11/2023 2:08 AM
+BAG:memayha add 9xBó hoa hồng đỏ (old: 8) lydo: Đổi bó hoa hồng đỏ at 03/11/2023 2:08 AM
+BAG:memayha add 10xBó hoa hồng đỏ (old: 9) lydo: Đổi bó hoa hồng đỏ at 03/11/2023 2:08 AM
+BAG:memayha add 1xGiỏ hoa hồng đỏ lydo: Đổi giỏ hoa hồng đỏ at 03/11/2023 2:09 AM
+BAG:memayha add 1xBó hoa hồng xanh lydo: Đổi bó hoa hồng xanh at 03/11/2023 2:09 AM
+BAG:memayha add 2xBó hoa hồng xanh (old: 1) lydo: Đổi bó hoa hồng xanh at 03/11/2023 2:09 AM
+BAG:memayha add 3xBó hoa hồng xanh (old: 2) lydo: Đổi bó hoa hồng xanh at 03/11/2023 2:10 AM
+BAG:memayha add 4xBó hoa hồng xanh (old: 3) lydo: Đổi bó hoa hồng xanh at 03/11/2023 2:10 AM
+BAG:memayha add 5xBó hoa hồng xanh (old: 4) lydo: Đổi bó hoa hồng xanh at 03/11/2023 2:10 AM
+BAG:memayha add 6xBó hoa hồng xanh (old: 5) lydo: Đổi bó hoa hồng xanh at 03/11/2023 2:11 AM
+BAG:memayha add 7xBó hoa hồng xanh (old: 6) lydo: Đổi bó hoa hồng xanh at 03/11/2023 2:11 AM
+BAG:memayha add 8xBó hoa hồng xanh (old: 7) lydo: Đổi bó hoa hồng xanh at 03/11/2023 2:11 AM
+BAG:memayha add 9xBó hoa hồng xanh (old: 8) lydo: Đổi bó hoa hồng xanh at 03/11/2023 2:11 AM
+BAG:memayha add 10xBó hoa hồng xanh (old: 9) lydo: Đổi bó hoa hồng xanh at 03/11/2023 2:12 AM
+BAG:memayha add 1xBó hoa hồng vàng lydo: Đổi bó hoa hồng đỏ at 03/11/2023 2:12 AM
+BAG:memayha add 2xBó hoa hồng vàng (old: 1) lydo: Đổi bó hoa hồng đỏ at 03/11/2023 2:12 AM
+BAG:memayha add 3xBó hoa hồng vàng (old: 2) lydo: Đổi bó hoa hồng đỏ at 03/11/2023 2:13 AM
+BAG:memayha add 4xBó hoa hồng vàng (old: 3) lydo: Đổi bó hoa hồng đỏ at 03/11/2023 2:13 AM
+BAG:memayha add 5xBó hoa hồng vàng (old: 4) lydo: Đổi bó hoa hồng đỏ at 03/11/2023 2:13 AM
+BAG:memayha add 6xBó hoa hồng vàng (old: 5) lydo: Đổi bó hoa hồng đỏ at 03/11/2023 2:13 AM
+BAG:memayha add 7xBó hoa hồng vàng (old: 6) lydo: Đổi bó hoa hồng đỏ at 03/11/2023 2:14 AM
+BAG:memayha add 8xBó hoa hồng vàng (old: 7) lydo: Đổi bó hoa hồng đỏ at 03/11/2023 2:14 AM
+BAG:memayha add 9xBó hoa hồng vàng (old: 8) lydo: Đổi bó hoa hồng đỏ at 03/11/2023 2:15 AM
+BAG:memayha add 10xBó hoa hồng vàng (old: 9) lydo: Đổi bó hoa hồng đỏ at 03/11/2023 2:18 AM
+BAG:memayha add 1xGiỏ hoa hồng xanh lydo: Đổi giỏ hoa hồng xanh at 03/11/2023 2:19 AM
+BAG:memayha add 1xGiỏ hoa hồng vàng lydo: Đổi giỏ hoa hồng vàng at 03/11/2023 2:19 AM
+BAG:memayha add 1xHộp quà 8/3 lydo: Đổi hộp quà 8/3 at 03/11/2023 2:20 AM
+BAG:memayha add 1xNgọc Rồng 2 sao lydo: CSKB at 03/11/2023 2:20 AM
+BAG:memayha add 99xNgọc Rồng 4 sao lydo: Lấy từ rương qua người at 03/11/2023 2:20 AM
+BAG:memayha add 37xNgọc Rồng 3 sao lydo: Lấy từ rương qua người at 03/11/2023 2:20 AM
+BAG:memayha add 30xNgọc Rồng 4 sao lydo: Lấy từ rương qua người at 03/11/2023 2:20 AM
+BAG:memayha add 38xNgọc Rồng 3 sao (old: 37) lydo: Nhập ngọc at 03/11/2023 2:20 AM
+BAG:memayha add 39xNgọc Rồng 3 sao (old: 38) lydo: Nhập ngọc at 03/11/2023 2:21 AM
+BAG:memayha add 40xNgọc Rồng 3 sao (old: 39) lydo: Nhập ngọc at 03/11/2023 2:21 AM
+BAG:memayha add 41xNgọc Rồng 3 sao (old: 40) lydo: Nhập ngọc at 03/11/2023 2:21 AM
+BAG:memayha add 42xNgọc Rồng 3 sao (old: 41) lydo: Nhập ngọc at 03/11/2023 2:21 AM
+BAG:memayha add 43xNgọc Rồng 3 sao (old: 42) lydo: Nhập ngọc at 03/11/2023 2:21 AM
+BAG:memayha add 44xNgọc Rồng 3 sao (old: 43) lydo: Nhập ngọc at 03/11/2023 2:21 AM
+BAG:memayha add 45xNgọc Rồng 3 sao (old: 44) lydo: Nhập ngọc at 03/11/2023 2:21 AM
+BAG:memayha add 46xNgọc Rồng 3 sao (old: 45) lydo: Nhập ngọc at 03/11/2023 2:21 AM
+BAG:memayha add 47xNgọc Rồng 3 sao (old: 46) lydo: Nhập ngọc at 03/11/2023 2:21 AM
+BAG:memayha add 48xNgọc Rồng 3 sao (old: 47) lydo: Nhập ngọc at 03/11/2023 2:21 AM
+BAG:memayha add 49xNgọc Rồng 3 sao (old: 48) lydo: Nhập ngọc at 03/11/2023 2:21 AM
+BAG:memayha add 50xNgọc Rồng 3 sao (old: 49) lydo: Nhập ngọc at 03/11/2023 2:21 AM
+BAG:memayha add 51xNgọc Rồng 3 sao (old: 50) lydo: Nhập ngọc at 03/11/2023 2:21 AM
+BAG:memayha add 52xNgọc Rồng 3 sao (old: 51) lydo: Nhập ngọc at 03/11/2023 2:21 AM
+BAG:memayha add 53xNgọc Rồng 3 sao (old: 52) lydo: Nhập ngọc at 03/11/2023 2:21 AM
+BAG:memayha add 54xNgọc Rồng 3 sao (old: 53) lydo: Nhập ngọc at 03/11/2023 2:21 AM
+BAG:memayha add 55xNgọc Rồng 3 sao (old: 54) lydo: Nhập ngọc at 03/11/2023 2:21 AM
+BAG:memayha add 2xNgọc Rồng 2 sao (old: 1) lydo: Nhập ngọc at 03/11/2023 2:21 AM
+BAG:memayha add 3xNgọc Rồng 2 sao (old: 2) lydo: Nhập ngọc at 03/11/2023 2:21 AM
+BAG:memayha add 4xNgọc Rồng 2 sao (old: 3) lydo: Nhập ngọc at 03/11/2023 2:21 AM
+BAG:memayha add 5xNgọc Rồng 2 sao (old: 4) lydo: Nhập ngọc at 03/11/2023 2:22 AM
+BAG:memayha add 6xNgọc Rồng 2 sao (old: 5) lydo: Nhập ngọc at 03/11/2023 2:22 AM
+BAG:memayha add 7xNgọc Rồng 2 sao (old: 6) lydo: Nhập ngọc at 03/11/2023 2:22 AM
+BAG:memayha add 8xNgọc Rồng 2 sao (old: 7) lydo: Nhập ngọc at 03/11/2023 2:22 AM
+BAG:memayha add 1xNgọc Rồng 1 sao lydo: Nhập ngọc at 03/11/2023 2:22 AM
+BAG:memayha add 1xGăng lưỡng long lydo: Lấy từ body đệ vào hành trang at 03/11/2023 2:22 AM
+BAG:memayha add 81xĐậu thần cấp 8 (old: 51) lydo: Mua từ cửa hàng at 03/11/2023 2:27 AM
+BAG:memayha add 12xĐậu thần cấp 8 lydo: Mua từ cửa hàng at 03/11/2023 2:27 AM
+BAG:memayha add 99xĐậu thần cấp 8 (old: 81) lydo: Mua từ cửa hàng at 03/11/2023 2:27 AM
+BAG:memayha add 42xĐậu thần cấp 8 (old: 12) lydo: Mua từ cửa hàng at 03/11/2023 2:27 AM
+BAG:memayha add 72xĐậu thần cấp 8 (old: 42) lydo: Mua từ cửa hàng at 03/11/2023 2:27 AM
+BAG:memayha add 3xĐậu thần cấp 8 lydo: Mua từ cửa hàng at 03/11/2023 2:28 AM
+BAG:memayha add 99xĐậu thần cấp 8 (old: 72) lydo: Mua từ cửa hàng at 03/11/2023 2:28 AM
+BAG:memayha add 33xĐậu thần cấp 8 (old: 3) lydo: Mua từ cửa hàng at 03/11/2023 2:28 AM
+BAG:memayha add 63xĐậu thần cấp 8 (old: 33) lydo: Mua từ cửa hàng at 03/11/2023 2:28 AM
+BAG:memayha add 93xĐậu thần cấp 8 (old: 63) lydo: Mua từ cửa hàng at 03/11/2023 2:28 AM
+BAG:memayha add 100xThỏi vàng lydo: Giftcode at 03/11/2023 8:41 AM
+BAG:memayha add 55xThỏi vàng lydo: Lấy từ rương qua người at 03/11/2023 8:41 AM
+BAG:memayha add 154xThỏi vàng (old: 55) lydo: Lấy từ rương qua người at 03/11/2023 8:41 AM
+BAG:memayha add 64xĐậu thần cấp 8 (old: 34) lydo: Mua từ cửa hàng at 03/11/2023 8:42 AM
+BAG:memayha add 94xĐậu thần cấp 8 (old: 64) lydo: Mua từ cửa hàng at 03/11/2023 8:42 AM
+BAG:memayha add 25xĐậu thần cấp 8 lydo: Mua từ cửa hàng at 03/11/2023 8:42 AM
+BAG:memayha add 99xĐậu thần cấp 8 (old: 94) lydo: Mua từ cửa hàng at 03/11/2023 8:42 AM
+BAG:memayha add 55xĐậu thần cấp 8 (old: 25) lydo: Mua từ cửa hàng at 03/11/2023 8:42 AM
+BAG:memayha add 85xĐậu thần cấp 8 (old: 55) lydo: Mua từ cửa hàng at 03/11/2023 8:42 AM
+BAG:memayha add 16xĐậu thần cấp 8 lydo: Mua từ cửa hàng at 03/11/2023 8:42 AM
+BAG:memayha add 99xĐậu thần cấp 8 (old: 85) lydo: Mua từ cửa hàng at 03/11/2023 8:42 AM
+BAG:memayha add 46xĐậu thần cấp 8 (old: 16) lydo: Mua từ cửa hàng at 03/11/2023 8:42 AM
+BAG:memayha add 76xĐậu thần cấp 8 (old: 46) lydo: Mua từ cửa hàng at 03/11/2023 8:42 AM
+BAG:memayha add 7xĐậu thần cấp 8 lydo: Mua từ cửa hàng at 03/11/2023 8:42 AM
+BAG:memayha add 99xĐậu thần cấp 8 (old: 76) lydo: Mua từ cửa hàng at 03/11/2023 8:42 AM
+BAG:memayha add 37xĐậu thần cấp 8 (old: 7) lydo: Mua từ cửa hàng at 03/11/2023 8:42 AM
+BAG:memayha add 67xĐậu thần cấp 8 (old: 37) lydo: Mua từ cửa hàng at 03/11/2023 8:42 AM
+BAG:memayha add 97xĐậu thần cấp 8 (old: 67) lydo: Mua từ cửa hàng at 03/11/2023 8:42 AM
+BAG:memayha add 28xĐậu thần cấp 8 lydo: Mua từ cửa hàng at 03/11/2023 8:42 AM
+BAG:memayha add 99xĐậu thần cấp 8 (old: 97) lydo: Mua từ cửa hàng at 03/11/2023 8:42 AM
+BAG:memayha add 58xĐậu thần cấp 8 (old: 28) lydo: Mua từ cửa hàng at 03/11/2023 8:42 AM
+BAG:memayha add 88xĐậu thần cấp 8 (old: 58) lydo: Mua từ cửa hàng at 03/11/2023 8:42 AM
+BAG:memayha add 19xĐậu thần cấp 8 lydo: Mua từ cửa hàng at 03/11/2023 8:42 AM
+BAG:memayha add 99xĐậu thần cấp 8 (old: 88) lydo: Mua từ cửa hàng at 03/11/2023 8:42 AM
+BAG:memayha add 49xĐậu thần cấp 8 (old: 19) lydo: Mua từ cửa hàng at 03/11/2023 8:42 AM
+BAG:memayha add 79xĐậu thần cấp 8 (old: 49) lydo: Mua từ cửa hàng at 03/11/2023 8:42 AM
+BAG:memayha add 10xĐậu thần cấp 8 lydo: Mua từ cửa hàng at 03/11/2023 8:42 AM
+BAG:memayha add 99xĐậu thần cấp 8 (old: 79) lydo: Mua từ cửa hàng at 03/11/2023 8:42 AM
+BAG:memayha add 247xHoa hồng xanh (old: 246) lydo: Nhặt từ map at 03/11/2023 8:54 AM
+BAG:memayha add 248xHoa hồng xanh (old: 247) lydo: Nhặt từ map at 03/11/2023 8:56 AM
+BAG:memayha add 250xHoa hồng đỏ (old: 249) lydo: Nhặt từ map at 03/11/2023 8:57 AM
+BAG:memayha add 341xHoa hồng vàng (old: 340) lydo: Nhặt từ map at 03/11/2023 8:58 AM
+BAG:memayha add 251xHoa hồng đỏ (old: 250) lydo: Nhặt từ map at 03/11/2023 8:58 AM
+BAG:memayha add 1xĐá Saphia lydo: Nhặt từ map at 03/11/2023 8:58 AM
+BAG:memayha add 252xHoa hồng đỏ (old: 251) lydo: Nhặt từ map at 03/11/2023 8:58 AM
+BAG:memayha add 249xHoa hồng xanh (old: 248) lydo: Nhặt từ map at 03/11/2023 9:00 AM
+BAG:memayha add 250xHoa hồng xanh (old: 249) lydo: Nhặt từ map at 03/11/2023 9:00 AM
+BAG:memayha add 253xHoa hồng đỏ (old: 252) lydo: Nhặt từ map at 03/11/2023 9:00 AM
+BAG:memayha add 342xHoa hồng vàng (old: 341) lydo: Nhặt từ map at 03/11/2023 9:00 AM
+BAG:memayha add 343xHoa hồng vàng (old: 342) lydo: Nhặt từ map at 03/11/2023 9:00 AM
+BAG:memayha add 251xHoa hồng xanh (old: 250) lydo: Nhặt từ map at 03/11/2023 9:00 AM
+BAG:memayha add 254xHoa hồng đỏ (old: 253) lydo: Nhặt từ map at 03/11/2023 9:01 AM
+BAG:memayha add 255xHoa hồng đỏ (old: 254) lydo: Nhặt từ map at 03/11/2023 9:01 AM
+BAG:memayha add 344xHoa hồng vàng (old: 343) lydo: Nhặt từ map at 03/11/2023 9:01 AM
+BAG:memayha add 252xHoa hồng xanh (old: 251) lydo: Nhặt từ map at 03/11/2023 9:01 AM
+BAG:memayha add 253xHoa hồng xanh (old: 252) lydo: Nhặt từ map at 03/11/2023 9:07 AM
+BAG:memayha add 1xRada cấp 12 lydo: Mua từ cửa hàng at 03/11/2023 9:12 AM
+BAG:memayha add 1xRada cấp 11 lydo: Mua từ cửa hàng at 03/11/2023 9:12 AM
+BAG:memayha add 1xRada cấp 10 lydo: Mua từ cửa hàng at 03/11/2023 9:12 AM
+BAG:memayha add 1xRada cấp 9 lydo: Mua từ cửa hàng at 03/11/2023 9:12 AM
+BAG:memayha add 1xRada cấp 9 lydo: Mua từ cửa hàng at 03/11/2023 9:12 AM
+BAG:memayha add 1xRada cấp 8 lydo: Mua từ cửa hàng at 03/11/2023 9:12 AM
+BAG:memayha add 1xÁo lông đỏ lydo: Mua từ cửa hàng at 03/11/2023 9:16 AM
+BAG:memayha add 1xÁo lông Xayda lydo: Mua từ cửa hàng at 03/11/2023 9:16 AM
+BAG:memayha add 1xÁo giáp bạc lydo: Mua từ cửa hàng at 03/11/2023 9:17 AM
+BAG:memayha add 1xÁo giáp sắt lydo: Mua từ cửa hàng at 03/11/2023 9:17 AM
+BAG:memayha add 1xQuần vải thô lydo: Mua từ cửa hàng at 03/11/2023 9:17 AM
+BAG:memayha add 154xThỏi vàng lydo: Lấy từ rương qua người at 03/11/2023 9:17 AM
+BAG:memayha add 1xSách Trói lv1 lydo: Mua từ cửa hàng at 03/11/2023 9:19 AM
+BAG:memayha add 1xSách Trói lv2 lydo: Mua từ cửa hàng at 03/11/2023 9:20 AM
+BAG:memayha add 1xSách Trói lv3 lydo: Mua từ cửa hàng at 03/11/2023 9:20 AM
+BAG:memayha add 1xSách Trói lv4 lydo: Mua từ cửa hàng at 03/11/2023 9:20 AM
+BAG:memayha add 1xSách Trói lv5 lydo: Mua từ cửa hàng at 03/11/2023 9:20 AM
+BAG:memayha add 1xSách Trói lv6 lydo: Mua từ cửa hàng at 03/11/2023 9:22 AM
+BAG:memayha add 1xSách Trói lv7 lydo: Mua từ cửa hàng at 03/11/2023 9:22 AM
+BAG:memayha add 1xSách Trói lv7 lydo: Mua từ cửa hàng at 03/11/2023 9:22 AM
+BAG:memayha add 151xThỏi vàng lydo: Lấy từ rương qua người at 03/11/2023 9:24 AM
+BAG:memayha add 99xViên Capsule kì bí lydo: Mua từ bill at 03/11/2023 9:27 AM
+BAG:memayha add 1xẨn danh lydo: CSKB at 03/11/2023 9:27 AM
+BAG:memayha add 1xCuồng nộ lydo: CSKB at 03/11/2023 9:27 AM
+BAG:memayha add 1xBổ huyết lydo: CSKB at 03/11/2023 9:27 AM
+BAG:memayha add 2xCuồng nộ (old: 1) lydo: CSKB at 03/11/2023 9:27 AM
+BAG:memayha add 2xẨn danh (old: 1) lydo: CSKB at 03/11/2023 9:27 AM
+BAG:memayha add 1xBổ khí lydo: CSKB at 03/11/2023 9:27 AM
+BAG:memayha add 3xẨn danh (old: 2) lydo: CSKB at 03/11/2023 9:27 AM
+BAG:memayha add 2xBổ khí (old: 1) lydo: CSKB at 03/11/2023 9:27 AM
+BAG:memayha add 3xBổ khí (old: 2) lydo: CSKB at 03/11/2023 9:27 AM
+BAG:memayha add 4xBổ khí (old: 3) lydo: CSKB at 03/11/2023 9:27 AM
+BAG:memayha add 3xCuồng nộ (old: 2) lydo: CSKB at 03/11/2023 9:27 AM
+BAG:memayha add 4xCuồng nộ (old: 3) lydo: CSKB at 03/11/2023 9:27 AM
+BAG:memayha add 5xBổ khí (old: 4) lydo: CSKB at 03/11/2023 9:27 AM
+BAG:memayha add 4xẨn danh (old: 3) lydo: CSKB at 03/11/2023 9:27 AM
+BAG:memayha add 5xẨn danh (old: 4) lydo: CSKB at 03/11/2023 9:27 AM
+BAG:memayha add 6xẨn danh (old: 5) lydo: CSKB at 03/11/2023 9:27 AM
+BAG:memayha add 2xBổ huyết (old: 1) lydo: CSKB at 03/11/2023 9:27 AM
+BAG:memayha add 6xBổ khí (old: 5) lydo: CSKB at 03/11/2023 9:27 AM
+BAG:memayha add 7xẨn danh (old: 6) lydo: CSKB at 03/11/2023 9:27 AM
+BAG:memayha add 8xẨn danh (old: 7) lydo: CSKB at 03/11/2023 9:27 AM
+BAG:memayha add 9xẨn danh (old: 8) lydo: CSKB at 03/11/2023 9:27 AM
+BAG:memayha add 10xẨn danh (old: 9) lydo: CSKB at 03/11/2023 9:27 AM
+BAG:memayha add 11xẨn danh (old: 10) lydo: CSKB at 03/11/2023 9:27 AM
+BAG:memayha add 12xẨn danh (old: 11) lydo: CSKB at 03/11/2023 9:28 AM
+BAG:memayha add 7xBổ khí (old: 6) lydo: CSKB at 03/11/2023 9:28 AM
+BAG:memayha add 13xẨn danh (old: 12) lydo: CSKB at 03/11/2023 9:28 AM
+BAG:memayha add 8xBổ khí (old: 7) lydo: CSKB at 03/11/2023 9:28 AM
+BAG:memayha add 1xNgọc Rồng 1 sao lydo: Lấy từ rương qua người at 03/11/2023 9:28 AM
+BAG:memayha add 6xNgọc Rồng 3 sao lydo: Lấy từ rương qua người at 03/11/2023 9:29 AM
+BAG:memayha add 3xNgọc Rồng 4 sao lydo: Lấy từ rương qua người at 03/11/2023 9:29 AM
+BAG:memayha add 1xNgọc Rồng 2 sao lydo: Lấy từ rương qua người at 03/11/2023 9:29 AM
+BAG:memayha add 3xNgọc Rồng 7 sao lydo: Lấy từ rương qua người at 03/11/2023 9:29 AM
+BAG:memayha add 51xNgọc Rồng 6 sao lydo: Lấy từ rương qua người at 03/11/2023 9:29 AM
+BAG:memayha add 66xNgọc Rồng 5 sao lydo: Lấy từ rương qua người at 03/11/2023 9:29 AM
+BAG:memayha add 1xBông tai Porata lydo: Mua từ cửa hàng at 03/11/2023 9:30 AM
+BAG:memayha add 1xBông tai Porata lydo: Mua từ cửa hàng at 03/11/2023 9:31 AM
+BAG:memayha add 118xThỏi vàng lydo: Lấy từ rương qua người at 03/11/2023 9:31 AM
+BAG:memayha add 1xGăng lưỡng long lydo: Lấy từ body đệ vào hành trang at 03/11/2023 9:34 AM
+BAG:memayha add 1xNgọc Rồng 5 sao lydo: Nhặt từ map at 03/11/2023 9:37 AM
+BAG:memayha add 345xHoa hồng vàng (old: 344) lydo: Nhặt từ map at 03/11/2023 9:37 AM
+BAG:memayha add 256xHoa hồng đỏ (old: 255) lydo: Nhặt từ map at 03/11/2023 9:38 AM
+BAG:memayha add 346xHoa hồng vàng (old: 345) lydo: Nhặt từ map at 03/11/2023 9:38 AM
+BAG:memayha add 257xHoa hồng đỏ (old: 256) lydo: Nhặt từ map at 03/11/2023 9:38 AM
+BAG:memayha add 1xĐá Titan lydo: Nhặt từ map at 03/11/2023 9:38 AM
+BAG:memayha add 254xHoa hồng xanh (old: 253) lydo: Nhặt từ map at 03/11/2023 9:38 AM
+BAG:memayha add 1xĐá Saphia lydo: Nhặt từ map at 03/11/2023 9:38 AM
+BAG:memayha add 258xHoa hồng đỏ (old: 257) lydo: Nhặt từ map at 03/11/2023 9:39 AM
+BAG:memayha add 259xHoa hồng đỏ (old: 258) lydo: Nhặt từ map at 03/11/2023 9:39 AM
+BAG:memayha add 260xHoa hồng đỏ (old: 259) lydo: Nhặt từ map at 03/11/2023 9:39 AM
+BAG:memayha add 261xHoa hồng đỏ (old: 260) lydo: Nhặt từ map at 03/11/2023 9:39 AM
+BAG:memayha add 262xHoa hồng đỏ (old: 261) lydo: Nhặt từ map at 03/11/2023 9:40 AM
+BAG:memayha add 255xHoa hồng xanh (old: 254) lydo: Nhặt từ map at 03/11/2023 9:40 AM
+BAG:memayha add 1xĐá thạch anh tím lydo: Nhặt từ map at 03/11/2023 9:40 AM
+BAG:memayha add 347xHoa hồng vàng (old: 346) lydo: Nhặt từ map at 03/11/2023 9:41 AM
+BAG:memayha add 263xHoa hồng đỏ (old: 262) lydo: Nhặt từ map at 03/11/2023 9:41 AM
+BAG:memayha add 348xHoa hồng vàng (old: 347) lydo: Nhặt từ map at 03/11/2023 9:41 AM
+BAG:memayha add 264xHoa hồng đỏ (old: 263) lydo: Nhặt từ map at 03/11/2023 9:42 AM
+BAG:memayha add 2xĐá Saphia (old: 1) lydo: Nhặt từ map at 03/11/2023 9:43 AM
+BAG:memayha add 256xHoa hồng xanh (old: 255) lydo: Nhặt từ map at 03/11/2023 9:43 AM
+BAG:memayha add 2xĐá Titan (old: 1) lydo: Nhặt từ map at 03/11/2023 9:43 AM
+BAG:memayha add 265xHoa hồng đỏ (old: 264) lydo: Nhặt từ map at 03/11/2023 9:43 AM
+BAG:memayha add 349xHoa hồng vàng (old: 348) lydo: Nhặt từ map at 03/11/2023 9:44 AM
+BAG:memayha add 2xNgọc Rồng 5 sao (old: 1) lydo: Nhặt từ map at 03/11/2023 9:44 AM
+BAG:memayha add 3xĐá Titan (old: 2) lydo: Nhặt từ map at 03/11/2023 9:45 AM
+BAG:memayha add 257xHoa hồng xanh (old: 256) lydo: Nhặt từ map at 03/11/2023 9:45 AM
+BAG:memayha add 1xNgọc Rồng 4 sao lydo: Nhặt từ map at 03/11/2023 9:45 AM
+BAG:memayha add 266xHoa hồng đỏ (old: 265) lydo: Nhặt từ map at 03/11/2023 9:45 AM
+BAG:memayha add 258xHoa hồng xanh (old: 257) lydo: Nhặt từ map at 03/11/2023 9:47 AM
+BAG:memayha add 350xHoa hồng vàng (old: 349) lydo: Nhặt từ map at 03/11/2023 9:47 AM
+BAG:memayha add 351xHoa hồng vàng (old: 350) lydo: Nhặt từ map at 03/11/2023 9:47 AM
+BAG:memayha add 352xHoa hồng vàng (old: 351) lydo: Nhặt từ map at 03/11/2023 9:47 AM
+BAG:memayha add 267xHoa hồng đỏ (old: 266) lydo: Nhặt từ map at 03/11/2023 9:48 AM
+BAG:memayha add 353xHoa hồng vàng (old: 352) lydo: Nhặt từ map at 03/11/2023 9:48 AM
+BAG:memayha add 259xHoa hồng xanh (old: 258) lydo: Nhặt từ map at 03/11/2023 9:48 AM
+BAG:memayha add 1xNgọc Rồng 6 sao lydo: Nhặt từ map at 03/11/2023 9:49 AM
+BAG:memayha add 2xNgọc Rồng 6 sao (old: 1) lydo: Nhặt từ map at 03/11/2023 9:49 AM
+BAG:memayha add 354xHoa hồng vàng (old: 353) lydo: Nhặt từ map at 03/11/2023 9:49 AM
+BAG:memayha add 268xHoa hồng đỏ (old: 267) lydo: Nhặt từ map at 03/11/2023 9:50 AM
+BAG:memayha add 260xHoa hồng xanh (old: 259) lydo: Nhặt từ map at 03/11/2023 9:50 AM
+BAG:memayha add 261xHoa hồng xanh (old: 260) lydo: Nhặt từ map at 03/11/2023 9:51 AM
+BAG:memayha add 269xHoa hồng đỏ (old: 268) lydo: Nhặt từ map at 03/11/2023 9:51 AM
+BAG:memayha add 3xNgọc Rồng 5 sao (old: 2) lydo: Nhặt từ map at 03/11/2023 9:51 AM
+BAG:memayha add 262xHoa hồng xanh (old: 261) lydo: Nhặt từ map at 03/11/2023 9:52 AM
+BAG:memayha add 355xHoa hồng vàng (old: 354) lydo: Nhặt từ map at 03/11/2023 9:52 AM
+BAG:memayha add 356xHoa hồng vàng (old: 355) lydo: Nhặt từ map at 03/11/2023 9:52 AM
+BAG:memayha add 357xHoa hồng vàng (old: 356) lydo: Nhặt từ map at 03/11/2023 9:53 AM
+BAG:memayha add 270xHoa hồng đỏ (old: 269) lydo: Nhặt từ map at 03/11/2023 11:40 AM
+BAG:memayha add 1xÁo vải thô lydo: Lấy từ body đệ vào hành trang at 03/11/2023 12:08 PM
+BAG:memayha add 1xGăng lưỡng long lydo: Lấy từ body đệ vào hành trang at 03/11/2023 12:08 PM
+BAG:memayha add 1xQuần vải thô lydo: Lấy từ body đệ vào hành trang at 03/11/2023 12:08 PM
+BAG:memayha add 1xGiầy vải thô lydo: Lấy từ body đệ vào hành trang at 03/11/2023 12:08 PM
+BAG:memayha add 1xRada cấp 1 lydo: Lấy từ body đệ vào hành trang at 03/11/2023 12:08 PM
+BAG:memayha add 1xCT Genma 01 lydo: Lấy từ body đệ vào hành trang at 03/11/2023 12:08 PM
+BAG:memayha add 1xGiáp tập luyện cấp 3 lydo: Lấy từ body đệ vào hành trang at 03/11/2023 12:08 PM
+BAG:memayha add 1xGăng bạc lydo: Mua từ cửa hàng at 03/11/2023 12:09 PM
+BAG:memayha add 1xGăng vàng lydo: Mua từ cửa hàng at 03/11/2023 12:09 PM
+BAG:memayha add 1xGăng lông Xayda lydo: Mua từ cửa hàng at 03/11/2023 12:09 PM
+BAG:memayha add 1xGăng da Xayda lydo: Mua từ cửa hàng at 03/11/2023 12:09 PM
+BAG:memayha add 1xGăng lông đỏ lydo: Mua từ cửa hàng at 03/11/2023 12:09 PM
+BAG:memayha add 1xGăng siêu Xayda lydo: Mua từ cửa hàng at 03/11/2023 12:10 PM
+BAG:memayha add 1xGăng Kaio lydo: Mua từ cửa hàng at 03/11/2023 12:10 PM
+BAG:memayha add 358xHoa hồng vàng (old: 357) lydo: Nhặt từ map at 03/11/2023 12:11 PM
+BAG:memayha add 263xHoa hồng xanh (old: 262) lydo: Nhặt từ map at 03/11/2023 12:11 PM
+BAG:memayha add 1xNâng cấp kỹ năng 1 đệ tử lydo: Mua từ cửa hàng at 03/11/2023 12:11 PM
+BAG:memayha add 2xNâng cấp kỹ năng 1 đệ tử (old: 1) lydo: Mua từ cửa hàng at 03/11/2023 12:11 PM
+BAG:memayha add 3xNâng cấp kỹ năng 1 đệ tử (old: 2) lydo: Mua từ cửa hàng at 03/11/2023 12:11 PM
+BAG:memayha add 4xNâng cấp kỹ năng 1 đệ tử (old: 3) lydo: Mua từ cửa hàng at 03/11/2023 12:12 PM
+BAG:memayha add 5xNâng cấp kỹ năng 1 đệ tử (old: 4) lydo: Mua từ cửa hàng at 03/11/2023 12:12 PM
+BAG:memayha add 6xNâng cấp kỹ năng 1 đệ tử (old: 5) lydo: Mua từ cửa hàng at 03/11/2023 12:12 PM
+BAG:memayha add 1xGiáp tập luyện cấp 1 lydo: Mua từ cửa hàng at 03/11/2023 12:12 PM
+BAG:memayha add 359xHoa hồng vàng (old: 358) lydo: Nhặt từ map at 03/11/2023 12:12 PM
+BAG:memayha add 360xHoa hồng vàng (old: 359) lydo: Nhặt từ map at 03/11/2023 12:12 PM
+BAG:memayha add 264xHoa hồng xanh (old: 263) lydo: Nhặt từ map at 03/11/2023 12:12 PM
+BAG:memayha add 271xHoa hồng đỏ (old: 270) lydo: Nhặt từ map at 03/11/2023 12:13 PM
+BAG:memayha add 272xHoa hồng đỏ (old: 271) lydo: Nhặt từ map at 03/11/2023 12:13 PM
+BAG:memayha add 273xHoa hồng đỏ (old: 272) lydo: Nhặt từ map at 03/11/2023 12:14 PM
+BAG:memayha add 1xNgọc Rồng 6 sao lydo: Nhặt từ map at 03/11/2023 12:14 PM
+BAG:memayha add 274xHoa hồng đỏ (old: 273) lydo: Nhặt từ map at 03/11/2023 12:15 PM
+BAG:memayha add 275xHoa hồng đỏ (old: 274) lydo: Nhặt từ map at 03/11/2023 12:15 PM
+BAG:memayha add 2xNgọc Rồng 6 sao (old: 1) lydo: Nhặt từ map at 03/11/2023 12:15 PM
+BAG:memayha add 276xHoa hồng đỏ (old: 275) lydo: Nhặt từ map at 03/11/2023 12:15 PM
+BAG:memayha add 361xHoa hồng vàng (old: 360) lydo: Nhặt từ map at 03/11/2023 12:15 PM
+BAG:memayha add 362xHoa hồng vàng (old: 361) lydo: Nhặt từ map at 03/11/2023 12:16 PM
+BAG:memayha add 363xHoa hồng vàng (old: 362) lydo: Nhặt từ map at 03/11/2023 12:16 PM
+BAG:memayha add 1xĐá Titan lydo: Nhặt từ map at 03/11/2023 12:16 PM
+BAG:memayha add 277xHoa hồng đỏ (old: 276) lydo: Nhặt từ map at 03/11/2023 12:16 PM
+BAG:memayha add 3xNgọc Rồng 6 sao (old: 2) lydo: Nhặt từ map at 03/11/2023 12:17 PM
+BAG:memayha add 364xHoa hồng vàng (old: 363) lydo: Nhặt từ map at 03/11/2023 12:17 PM
+BAG:memayha add 365xHoa hồng vàng (old: 364) lydo: Nhặt từ map at 03/11/2023 12:17 PM
+BAG:memayha add 278xHoa hồng đỏ (old: 277) lydo: Nhặt từ map at 03/11/2023 12:18 PM
+BAG:memayha add 366xHoa hồng vàng (old: 365) lydo: Nhặt từ map at 03/11/2023 12:18 PM
+BAG:memayha add 279xHoa hồng đỏ (old: 278) lydo: Nhặt từ map at 03/11/2023 12:18 PM
+BAG:memayha add 280xHoa hồng đỏ (old: 279) lydo: Nhặt từ map at 03/11/2023 12:18 PM
+BAG:memayha add 281xHoa hồng đỏ (old: 280) lydo: Nhặt từ map at 03/11/2023 12:19 PM
+BAG:memayha add 367xHoa hồng vàng (old: 366) lydo: Nhặt từ map at 03/11/2023 12:19 PM
+BAG:memayha add 282xHoa hồng đỏ (old: 281) lydo: Nhặt từ map at 03/11/2023 12:20 PM
+BAG:memayha add 283xHoa hồng đỏ (old: 282) lydo: Nhặt từ map at 03/11/2023 12:20 PM
+BAG:memayha add 265xHoa hồng xanh (old: 264) lydo: Nhặt từ map at 03/11/2023 12:20 PM
+BAG:memayha add 368xHoa hồng vàng (old: 367) lydo: Nhặt từ map at 03/11/2023 12:20 PM
+BAG:memayha add 369xHoa hồng vàng (old: 368) lydo: Nhặt từ map at 03/11/2023 12:20 PM
+BAG:memayha add 1xĐá Saphia lydo: Nhặt từ map at 03/11/2023 12:21 PM
+BAG:memayha add 284xHoa hồng đỏ (old: 283) lydo: Nhặt từ map at 03/11/2023 12:21 PM
+BAG:memayha add 266xHoa hồng xanh (old: 265) lydo: Nhặt từ map at 03/11/2023 12:21 PM
+BAG:memayha add 285xHoa hồng đỏ (old: 284) lydo: Nhặt từ map at 03/11/2023 12:22 PM
+BAG:memayha add 2xĐá Saphia (old: 1) lydo: Nhặt từ map at 03/11/2023 12:22 PM
+BAG:memayha add 267xHoa hồng xanh (old: 266) lydo: Nhặt từ map at 03/11/2023 12:23 PM
+BAG:memayha add 268xHoa hồng xanh (old: 267) lydo: Nhặt từ map at 03/11/2023 12:23 PM
+BAG:memayha add 269xHoa hồng xanh (old: 268) lydo: Nhặt từ map at 03/11/2023 12:23 PM
+BAG:memayha add 270xHoa hồng xanh (old: 269) lydo: Nhặt từ map at 03/11/2023 12:24 PM
+BAG:memayha add 370xHoa hồng vàng (old: 369) lydo: Nhặt từ map at 03/11/2023 12:24 PM
+BAG:memayha add 271xHoa hồng xanh (old: 270) lydo: Nhặt từ map at 03/11/2023 12:24 PM
+BAG:memayha add 272xHoa hồng xanh (old: 271) lydo: Nhặt từ map at 03/11/2023 12:24 PM
+BAG:memayha add 371xHoa hồng vàng (old: 370) lydo: Nhặt từ map at 03/11/2023 12:24 PM
+BAG:memayha add 372xHoa hồng vàng (old: 371) lydo: Nhặt từ map at 03/11/2023 12:24 PM
+BAG:memayha add 373xHoa hồng vàng (old: 372) lydo: Nhặt từ map at 03/11/2023 12:24 PM
+BAG:memayha add 374xHoa hồng vàng (old: 373) lydo: Nhặt từ map at 03/11/2023 12:25 PM
+BAG:memayha add 273xHoa hồng xanh (old: 272) lydo: Nhặt từ map at 03/11/2023 12:25 PM
+BAG:memayha add 286xHoa hồng đỏ (old: 285) lydo: Nhặt từ map at 03/11/2023 12:25 PM
+BAG:memayha add 375xHoa hồng vàng (old: 374) lydo: Nhặt từ map at 03/11/2023 12:25 PM
+BAG:memayha add 376xHoa hồng vàng (old: 375) lydo: Nhặt từ map at 03/11/2023 12:26 PM
+BAG:memayha add 287xHoa hồng đỏ (old: 286) lydo: Nhặt từ map at 03/11/2023 12:26 PM
+BAG:memayha add 274xHoa hồng xanh (old: 273) lydo: Nhặt từ map at 03/11/2023 12:26 PM
+BAG:memayha add 377xHoa hồng vàng (old: 376) lydo: Nhặt từ map at 03/11/2023 12:26 PM
+BAG:memayha add 288xHoa hồng đỏ (old: 287) lydo: Nhặt từ map at 03/11/2023 12:27 PM
+BAG:memayha add 275xHoa hồng xanh (old: 274) lydo: Nhặt từ map at 03/11/2023 12:27 PM
+BAG:memayha add 276xHoa hồng xanh (old: 275) lydo: Nhặt từ map at 03/11/2023 12:27 PM
+BAG:memayha add 378xHoa hồng vàng (old: 377) lydo: Nhặt từ map at 03/11/2023 12:28 PM
+BAG:memayha add 277xHoa hồng xanh (old: 276) lydo: Nhặt từ map at 03/11/2023 12:28 PM
+BAG:memayha add 278xHoa hồng xanh (old: 277) lydo: Nhặt từ map at 03/11/2023 12:28 PM
+BAG:memayha add 379xHoa hồng vàng (old: 378) lydo: Nhặt từ map at 03/11/2023 12:28 PM
+BAG:memayha add 279xHoa hồng xanh (old: 278) lydo: Nhặt từ map at 03/11/2023 12:29 PM
+BAG:memayha add 1xĐá lục bảo lydo: Nhặt từ map at 03/11/2023 12:29 PM
+BAG:memayha add 289xHoa hồng đỏ (old: 288) lydo: Nhặt từ map at 03/11/2023 12:29 PM
+BAG:memayha add 380xHoa hồng vàng (old: 379) lydo: Nhặt từ map at 03/11/2023 12:29 PM
+BAG:memayha add 2xĐá lục bảo (old: 1) lydo: Nhặt từ map at 03/11/2023 12:30 PM
+BAG:memayha add 280xHoa hồng xanh (old: 279) lydo: Nhặt từ map at 03/11/2023 12:30 PM
+BAG:memayha add 290xHoa hồng đỏ (old: 289) lydo: Nhặt từ map at 03/11/2023 12:30 PM
+BAG:memayha add 291xHoa hồng đỏ (old: 290) lydo: Nhặt từ map at 03/11/2023 12:31 PM
+BAG:memayha add 381xHoa hồng vàng (old: 380) lydo: Nhặt từ map at 03/11/2023 12:31 PM
+BAG:memayha add 292xHoa hồng đỏ (old: 291) lydo: Nhặt từ map at 03/11/2023 12:31 PM
+BAG:memayha add 293xHoa hồng đỏ (old: 292) lydo: Nhặt từ map at 03/11/2023 12:31 PM
+BAG:memayha add 281xHoa hồng xanh (old: 280) lydo: Nhặt từ map at 03/11/2023 12:32 PM
+BAG:memayha add 282xHoa hồng xanh (old: 281) lydo: Nhặt từ map at 03/11/2023 12:32 PM
+BAG:memayha add 294xHoa hồng đỏ (old: 293) lydo: Nhặt từ map at 03/11/2023 12:32 PM
+BAG:memayha add 283xHoa hồng xanh (old: 282) lydo: Nhặt từ map at 03/11/2023 12:32 PM
+BAG:memayha add 295xHoa hồng đỏ (old: 294) lydo: Nhặt từ map at 03/11/2023 12:32 PM
+BAG:memayha add 284xHoa hồng xanh (old: 283) lydo: Nhặt từ map at 03/11/2023 12:32 PM
+BAG:memayha add 296xHoa hồng đỏ (old: 295) lydo: Nhặt từ map at 03/11/2023 12:33 PM
+BAG:memayha add 285xHoa hồng xanh (old: 284) lydo: Nhặt từ map at 03/11/2023 12:33 PM
+BAG:memayha add 286xHoa hồng xanh (old: 285) lydo: Nhặt từ map at 03/11/2023 12:33 PM
+BAG:memayha add 287xHoa hồng xanh (old: 286) lydo: Nhặt từ map at 03/11/2023 12:33 PM
+BAG:memayha add 288xHoa hồng xanh (old: 287) lydo: Nhặt từ map at 03/11/2023 12:33 PM
+BAG:memayha add 297xHoa hồng đỏ (old: 296) lydo: Nhặt từ map at 03/11/2023 12:33 PM
+BAG:memayha add 289xHoa hồng xanh (old: 288) lydo: Nhặt từ map at 03/11/2023 12:33 PM
+BAG:memayha add 298xHoa hồng đỏ (old: 297) lydo: Nhặt từ map at 03/11/2023 12:34 PM
+BAG:memayha add 382xHoa hồng vàng (old: 381) lydo: Nhặt từ map at 03/11/2023 12:34 PM
+BAG:memayha add 3xĐá lục bảo (old: 2) lydo: Nhặt từ map at 03/11/2023 12:34 PM
+BAG:memayha add 383xHoa hồng vàng (old: 382) lydo: Nhặt từ map at 03/11/2023 12:34 PM
+BAG:memayha add 290xHoa hồng xanh (old: 289) lydo: Nhặt từ map at 03/11/2023 12:34 PM
+BAG:memayha add 1xHoa hồng xanh lydo: Nhặt từ map at 03/11/2023 12:34 PM
+BAG:memayha add 2xHoa hồng xanh (old: 1) lydo: Nhặt từ map at 03/11/2023 12:35 PM
+BAG:memayha add 1xHoa hồng vàng lydo: Nhặt từ map at 03/11/2023 12:36 PM
+BAG:memayha add 2xHoa hồng vàng (old: 1) lydo: Nhặt từ map at 03/11/2023 12:36 PM
+BAG:memayha add 1xĐá thạch anh tím lydo: Nhặt từ map at 03/11/2023 12:37 PM
+BAG:memayha add 8xVệ tinh trí tuệ lydo: Lấy từ rương qua người at 03/11/2023 12:44 PM
+BAG:memayha add 3xHoa hồng vàng (old: 2) lydo: Nhặt từ map at 03/11/2023 12:45 PM
+BAG:memayha add 1xGiáp tập luyện cấp 3 lydo: Lấy từ body vào hành trang at 03/11/2023 12:48 PM
+BAG:memayha add 1xÁo vải thô lydo: Lấy từ body đệ vào hành trang at 03/11/2023 1:33 PM
+BAG:memayha add 1xQuần vải thô lydo: Lấy từ body đệ vào hành trang at 03/11/2023 1:33 PM
+BAG:memayha add 1xGiầy vải thô lydo: Lấy từ body đệ vào hành trang at 03/11/2023 1:33 PM
+BAG:memayha add 1xRada cấp 1 lydo: Lấy từ body đệ vào hành trang at 03/11/2023 1:33 PM
+BAG:memayha add 1xCT Genma 01 lydo: Lấy từ body đệ vào hành trang at 03/11/2023 1:33 PM
+BAG:memayha add 1xGiáp tập luyện cấp 3 lydo: Lấy từ body đệ vào hành trang at 03/11/2023 1:33 PM
+BAG:memayha add 1xGăng lông đỏ lydo: Lấy từ body đệ vào hành trang at 03/11/2023 4:09 PM
+BAG:memayha add 1xĐổi đệ tử lydo: Mua từ cửa hàng at 03/11/2023 4:09 PM
+BAG:memayha add 2xĐổi đệ tử (old: 1) lydo: Mua từ cửa hàng at 03/11/2023 4:09 PM
+BAG:memayha add 3xĐổi đệ tử (old: 2) lydo: Mua từ cửa hàng at 03/11/2023 4:09 PM
+BAG:memayha add 4xĐổi đệ tử (old: 3) lydo: Mua từ cửa hàng at 03/11/2023 4:09 PM
+BAG:memayha add 5xĐổi đệ tử (old: 4) lydo: Mua từ cửa hàng at 03/11/2023 4:09 PM
+BAG:memayha add 6xĐổi đệ tử (old: 5) lydo: Mua từ cửa hàng at 03/11/2023 4:09 PM
+BAG:memayha add 7xĐổi đệ tử (old: 6) lydo: Mua từ cửa hàng at 03/11/2023 4:09 PM
+BAG:memayha add 8xĐổi đệ tử (old: 7) lydo: Mua từ cửa hàng at 03/11/2023 4:09 PM
+BAG:memayha add 1xNâng cấp kỹ năng 1 đệ tử lydo: Mua từ cửa hàng at 03/11/2023 4:11 PM
+BAG:memayha add 2xNâng cấp kỹ năng 1 đệ tử (old: 1) lydo: Mua từ cửa hàng at 03/11/2023 4:11 PM
+BAG:memayha add 3xNâng cấp kỹ năng 1 đệ tử (old: 2) lydo: Mua từ cửa hàng at 03/11/2023 4:11 PM
+BAG:memayha add 4xNâng cấp kỹ năng 1 đệ tử (old: 3) lydo: Mua từ cửa hàng at 03/11/2023 4:11 PM
+BAG:memayha add 5xNâng cấp kỹ năng 1 đệ tử (old: 4) lydo: Mua từ cửa hàng at 03/11/2023 4:11 PM
+BAG:memayha add 6xNâng cấp kỹ năng 1 đệ tử (old: 5) lydo: Mua từ cửa hàng at 03/11/2023 4:11 PM
+BAG:memayha add 7xNâng cấp kỹ năng 1 đệ tử (old: 6) lydo: Mua từ cửa hàng at 03/11/2023 4:11 PM
+BAG:memayha add 1xRada cấp 1 lydo: Lấy từ body đệ vào hành trang at 03/11/2023 4:16 PM
+BAG:memayha add 1xCT Genma 01 lydo: Lấy từ body đệ vào hành trang at 03/11/2023 4:16 PM
+BAG:memayha add 1xĐổi đệ tử lydo: Mua từ cửa hàng at 03/11/2023 4:17 PM
+BAG:memayha add 2xĐổi đệ tử (old: 1) lydo: Mua từ cửa hàng at 03/11/2023 4:17 PM
+BAG:memayha add 3xĐổi đệ tử (old: 2) lydo: Mua từ cửa hàng at 03/11/2023 4:17 PM
+BAG:memayha add 4xĐổi đệ tử (old: 3) lydo: Mua từ cửa hàng at 03/11/2023 4:17 PM
+BAG:memayha add 5xĐổi đệ tử (old: 4) lydo: Mua từ cửa hàng at 03/11/2023 4:17 PM
+BAG:memayha add 6xĐổi đệ tử (old: 5) lydo: Mua từ cửa hàng at 03/11/2023 4:17 PM
+BAG:memayha add 1xNâng cấp kỹ năng 1 đệ tử lydo: Mua từ cửa hàng at 03/11/2023 4:19 PM
+BAG:memayha add 2xNâng cấp kỹ năng 1 đệ tử (old: 1) lydo: Mua từ cửa hàng at 03/11/2023 4:19 PM
+BAG:memayha add 3xNâng cấp kỹ năng 1 đệ tử (old: 2) lydo: Mua từ cửa hàng at 03/11/2023 4:19 PM
+BAG:memayha add 4xNâng cấp kỹ năng 1 đệ tử (old: 3) lydo: Mua từ cửa hàng at 03/11/2023 4:19 PM
+BAG:memayha add 5xNâng cấp kỹ năng 1 đệ tử (old: 4) lydo: Mua từ cửa hàng at 03/11/2023 4:19 PM
+BAG:memayha add 6xNâng cấp kỹ năng 1 đệ tử (old: 5) lydo: Mua từ cửa hàng at 03/11/2023 4:19 PM
+BAG:memayha add 1xGiáp tập luyện cấp 3 lydo: Lấy từ body vào hành trang at 03/11/2023 5:23 PM
+BAG:memayha add 1xHoa hồng đỏ lydo: Nhặt từ map at 03/11/2023 5:32 PM
+BAG:memayha add 1xNâng cấp kỹ năng 2 đệ tử lydo: Mua từ cửa hàng at 03/11/2023 5:40 PM
+BAG:memayha add 2xNâng cấp kỹ năng 2 đệ tử (old: 1) lydo: Mua từ cửa hàng at 03/11/2023 5:40 PM
+BAG:memayha add 3xNâng cấp kỹ năng 2 đệ tử (old: 2) lydo: Mua từ cửa hàng at 03/11/2023 5:40 PM
+BAG:memayha add 4xNâng cấp kỹ năng 2 đệ tử (old: 3) lydo: Mua từ cửa hàng at 03/11/2023 5:40 PM
+BAG:memayha add 5xNâng cấp kỹ năng 2 đệ tử (old: 4) lydo: Mua từ cửa hàng at 03/11/2023 5:40 PM
+BAG:memayha add 6xNâng cấp kỹ năng 2 đệ tử (old: 5) lydo: Mua từ cửa hàng at 03/11/2023 5:40 PM
+BAG:memayha add 111xThỏi vàng lydo: Lấy từ rương qua người at 03/11/2023 7:33 PM
+BAG:memayha add 1xÁo vải thô lydo: Lấy từ body đệ vào hành trang at 03/11/2023 7:34 PM
+BAG:memayha add 1xQuần vải thô lydo: Lấy từ body đệ vào hành trang at 03/11/2023 7:34 PM
+BAG:memayha add 1xGiầy vải thô lydo: Lấy từ body đệ vào hành trang at 03/11/2023 7:34 PM
+BAG:memayha add 1xRada cấp 1 lydo: Lấy từ body đệ vào hành trang at 03/11/2023 7:34 PM
+BAG:memayha add 1xGăng lưỡng long lydo: Lấy từ body đệ vào hành trang at 03/11/2023 7:46 PM
+BAG:memayha add 10xSao pha lê lydo: Lấy từ rương qua người at 03/11/2023 7:52 PM
+BAG:memayha add 1xGiáp tập luyện cấp 3 lydo: Lấy từ body đệ vào hành trang at 03/11/2023 7:53 PM
+BAG:memayha add 20xĐậu thần cấp 9 lydo: Lấy từ rương qua người at 03/11/2023 7:56 PM
+BAG:memayha add 1xGiáp tập luyện cấp 1 lydo: Mua từ cửa hàng at 03/11/2023 7:57 PM
+BAG:memayha add 1xGiáp tập luyện cấp 1 lydo: Lấy từ body vào hành trang at 03/11/2023 7:57 PM
+BAG:memayha add 5xNgọc Rồng 3 sao lydo: Lấy từ rương qua người at 03/11/2023 7:58 PM
+BAG:memayha add 1xNâng cấp kỹ năng 3 đệ tử lydo: Mua từ cửa hàng at 03/11/2023 8:01 PM
+BAG:memayha add 2xNâng cấp kỹ năng 3 đệ tử (old: 1) lydo: Mua từ cửa hàng at 03/11/2023 8:01 PM
+BAG:memayha add 3xNâng cấp kỹ năng 3 đệ tử (old: 2) lydo: Mua từ cửa hàng at 03/11/2023 8:01 PM
+BAG:memayha add 3xNâng cấp kỹ năng 3 đệ tử (old: 2) lydo: Mua từ cửa hàng at 03/11/2023 8:02 PM
+BAG:memayha add 4xNâng cấp kỹ năng 3 đệ tử (old: 3) lydo: Mua từ cửa hàng at 03/11/2023 8:02 PM
+BAG:memayha add 5xNâng cấp kỹ năng 3 đệ tử (old: 4) lydo: Mua từ cửa hàng at 03/11/2023 8:02 PM
+BAG:memayha add 1xĐậu thần cấp 10 lydo: Clan cho đậu at 03/11/2023 8:11 PM
+BAG:memayha add 2xĐậu thần cấp 10 (old: 1) lydo: Clan cho đậu at 03/11/2023 8:11 PM
+BAG:memayha add 3xĐậu thần cấp 10 (old: 2) lydo: Clan cho đậu at 03/11/2023 8:11 PM
+BAG:memayha add 4xĐậu thần cấp 10 (old: 3) lydo: Clan cho đậu at 03/11/2023 8:11 PM
+BAG:memayha add 5xĐậu thần cấp 10 (old: 4) lydo: Clan cho đậu at 03/11/2023 8:11 PM
+BAG:memayha add 47xĐậu thần cấp 8 (old: 17) lydo: Mua từ cửa hàng at 03/11/2023 8:18 PM
+BAG:memayha add 77xĐậu thần cấp 8 (old: 47) lydo: Mua từ cửa hàng at 03/11/2023 8:18 PM
+BAG:memayha add 8xĐậu thần cấp 8 lydo: Mua từ cửa hàng at 03/11/2023 8:18 PM
+BAG:memayha add 99xĐậu thần cấp 8 (old: 77) lydo: Mua từ cửa hàng at 03/11/2023 8:18 PM
+BAG:memayha add 38xĐậu thần cấp 8 (old: 8) lydo: Mua từ cửa hàng at 03/11/2023 8:18 PM
+BAG:memayha add 68xĐậu thần cấp 8 (old: 38) lydo: Mua từ cửa hàng at 03/11/2023 8:18 PM
+BAG:memayha add 98xĐậu thần cấp 8 (old: 68) lydo: Mua từ cửa hàng at 03/11/2023 8:18 PM
+BAG:memayha add 1xÁo vải thô lydo: Lấy từ body đệ vào hành trang at 03/11/2023 8:19 PM
+BAG:memayha add 1xQuần vải thô lydo: Lấy từ body đệ vào hành trang at 03/11/2023 8:19 PM
+BAG:memayha add 1xGăng lưỡng long lydo: Lấy từ body đệ vào hành trang at 03/11/2023 8:19 PM
+BAG:memayha add 1xGiầy vải thô lydo: Lấy từ body đệ vào hành trang at 03/11/2023 8:19 PM
+BAG:memayha add 1xRada cấp 1 lydo: Lấy từ body đệ vào hành trang at 03/11/2023 8:19 PM
+BAG:memayha add 1xGiáp tập luyện cấp 3 lydo: Lấy từ body đệ vào hành trang at 03/11/2023 8:19 PM
+BAG:memayha add 1xCT Genma 01 lydo: Lấy từ body đệ vào hành trang at 03/11/2023 8:19 PM
+BAG:memayha add 1xĐổi đệ tử lydo: Mua từ cửa hàng at 03/11/2023 8:19 PM
+BAG:memayha add 2xĐổi đệ tử (old: 1) lydo: Mua từ cửa hàng at 03/11/2023 8:19 PM
+BAG:memayha add 3xĐổi đệ tử (old: 2) lydo: Mua từ cửa hàng at 03/11/2023 8:19 PM
+BAG:memayha add 4xĐổi đệ tử (old: 3) lydo: Mua từ cửa hàng at 03/11/2023 8:19 PM
+BAG:memayha add 5xĐổi đệ tử (old: 4) lydo: Mua từ cửa hàng at 03/11/2023 8:19 PM
+BAG:memayha add 6xĐổi đệ tử (old: 5) lydo: Mua từ cửa hàng at 03/11/2023 8:19 PM
+BAG:memayha add 7xĐổi đệ tử (old: 6) lydo: Mua từ cửa hàng at 03/11/2023 8:19 PM
+BAG:memayha add 8xĐổi đệ tử (old: 7) lydo: Mua từ cửa hàng at 03/11/2023 8:19 PM
+BAG:memayha add 9xĐổi đệ tử (old: 8) lydo: Mua từ cửa hàng at 03/11/2023 8:19 PM
+BAG:memayha add 10xĐổi đệ tử (old: 9) lydo: Mua từ cửa hàng at 03/11/2023 8:19 PM
+BAG:memayha add 11xĐổi đệ tử (old: 10) lydo: Mua từ cửa hàng at 03/11/2023 8:19 PM
+BAG:memayha add 1xNâng cấp kỹ năng 1 đệ tử lydo: Mua từ cửa hàng at 03/11/2023 8:21 PM
+BAG:memayha add 2xNâng cấp kỹ năng 1 đệ tử (old: 1) lydo: Mua từ cửa hàng at 03/11/2023 8:21 PM
+BAG:memayha add 3xNâng cấp kỹ năng 1 đệ tử (old: 2) lydo: Mua từ cửa hàng at 03/11/2023 8:21 PM
+BAG:memayha add 4xNâng cấp kỹ năng 1 đệ tử (old: 3) lydo: Mua từ cửa hàng at 03/11/2023 8:21 PM
+BAG:memayha add 5xNâng cấp kỹ năng 1 đệ tử (old: 4) lydo: Mua từ cửa hàng at 03/11/2023 8:21 PM
+BAG:memayha add 6xNâng cấp kỹ năng 1 đệ tử (old: 5) lydo: Mua từ cửa hàng at 03/11/2023 8:21 PM
+BAG:memayha add 1xNâng cấp kỹ năng 2 đệ tử lydo: Mua từ cửa hàng at 03/11/2023 8:21 PM
+BAG:memayha add 2xNâng cấp kỹ năng 2 đệ tử (old: 1) lydo: Mua từ cửa hàng at 03/11/2023 8:21 PM
+BAG:memayha add 3xNâng cấp kỹ năng 2 đệ tử (old: 2) lydo: Mua từ cửa hàng at 03/11/2023 8:21 PM
+BAG:memayha add 4xNâng cấp kỹ năng 2 đệ tử (old: 3) lydo: Mua từ cửa hàng at 03/11/2023 8:21 PM
+BAG:memayha add 5xNâng cấp kỹ năng 2 đệ tử (old: 4) lydo: Mua từ cửa hàng at 03/11/2023 8:21 PM
+BAG:memayha add 6xNâng cấp kỹ năng 2 đệ tử (old: 5) lydo: Mua từ cửa hàng at 03/11/2023 8:21 PM
+BAG:memayha add 70xThỏi vàng lydo: Lấy từ rương qua người at 03/11/2023 8:50 PM
+BAG:memayha add 1xGăng lông đỏ lydo: Mua từ cửa hàng at 03/11/2023 8:50 PM
+BAG:memayha add 1xGăng siêu Xayda lydo: Mua từ cửa hàng at 03/11/2023 8:50 PM
+BAG:memayha add 1xGăng Kaio lydo: Mua từ cửa hàng at 03/11/2023 8:50 PM
+BAG:memayha add 16xĐậu thần cấp 8 lydo: Mua từ cửa hàng at 03/11/2023 8:51 PM
+BAG:memayha add 99xĐậu thần cấp 8 (old: 85) lydo: Mua từ cửa hàng at 03/11/2023 8:51 PM
+BAG:memayha add 46xĐậu thần cấp 8 (old: 16) lydo: Mua từ cửa hàng at 03/11/2023 8:51 PM
+BAG:memayha add 76xĐậu thần cấp 8 (old: 46) lydo: Mua từ cửa hàng at 03/11/2023 8:51 PM
+BAG:memayha add 7xĐậu thần cấp 8 lydo: Mua từ cửa hàng at 03/11/2023 8:51 PM
+BAG:memayha add 99xĐậu thần cấp 8 (old: 76) lydo: Mua từ cửa hàng at 03/11/2023 8:51 PM
+BAG:memayha add 1xGiáp tập luyện cấp 1 lydo: Lấy từ body đệ vào hành trang at 03/11/2023 8:55 PM
+BAG:memayha add 1xGiáp tập luyện cấp 3 lydo: Lấy từ body vào hành trang at 03/11/2023 8:55 PM
+BAG:memayha add 1xHoa hồng xanh lydo: Nhặt từ map at 03/11/2023 9:25 PM
+BAG:memayha add 1xÁo vải thô lydo: Lấy từ body đệ vào hành trang at 03/11/2023 9:31 PM
+BAG:memayha add 1xGăng lông đỏ lydo: Lấy từ body đệ vào hành trang at 03/11/2023 9:31 PM
+BAG:memayha add 1xQuần vải thô lydo: Lấy từ body đệ vào hành trang at 03/11/2023 9:31 PM
+BAG:memayha add 1xRada cấp 1 lydo: Lấy từ body đệ vào hành trang at 03/11/2023 9:31 PM
+BAG:memayha add 1xGiầy vải thô lydo: Lấy từ body đệ vào hành trang at 03/11/2023 9:31 PM
+BAG:memayha add 1xCT Genma 01 lydo: Lấy từ body đệ vào hành trang at 03/11/2023 9:31 PM
+BAG:memayha add 1xGiáp tập luyện cấp 3 lydo: Lấy từ body đệ vào hành trang at 03/11/2023 9:31 PM
+BAG:memayha add 1xĐổi đệ tử lydo: Mua từ cửa hàng at 03/11/2023 9:32 PM
+BAG:memayha add 2xĐổi đệ tử (old: 1) lydo: Mua từ cửa hàng at 03/11/2023 9:32 PM
+BAG:memayha add 3xĐổi đệ tử (old: 2) lydo: Mua từ cửa hàng at 03/11/2023 9:32 PM
+BAG:memayha add 4xĐổi đệ tử (old: 3) lydo: Mua từ cửa hàng at 03/11/2023 9:32 PM
+BAG:memayha add 5xĐổi đệ tử (old: 4) lydo: Mua từ cửa hàng at 03/11/2023 9:32 PM
+BAG:memayha add 6xĐổi đệ tử (old: 5) lydo: Mua từ cửa hàng at 03/11/2023 9:32 PM
+BAG:memayha add 7xĐổi đệ tử (old: 6) lydo: Mua từ cửa hàng at 03/11/2023 9:32 PM
+BAG:memayha add 8xĐổi đệ tử (old: 7) lydo: Mua từ cửa hàng at 03/11/2023 9:32 PM
+BAG:memayha add 9xĐổi đệ tử (old: 8) lydo: Mua từ cửa hàng at 03/11/2023 9:32 PM
+BAG:memayha add 10xĐổi đệ tử (old: 9) lydo: Mua từ cửa hàng at 03/11/2023 9:32 PM
+BAG:memayha add 11xĐổi đệ tử (old: 10) lydo: Mua từ cửa hàng at 03/11/2023 9:32 PM
+BAG:memayha add 12xĐổi đệ tử (old: 11) lydo: Mua từ cửa hàng at 03/11/2023 9:32 PM
+BAG:memayha add 13xĐổi đệ tử (old: 12) lydo: Mua từ cửa hàng at 03/11/2023 9:32 PM
+BAG:memayha add 14xĐổi đệ tử (old: 13) lydo: Mua từ cửa hàng at 03/11/2023 9:32 PM
+BAG:memayha add 15xĐổi đệ tử (old: 14) lydo: Mua từ cửa hàng at 03/11/2023 9:32 PM
+BAG:memayha add 16xĐổi đệ tử (old: 15) lydo: Mua từ cửa hàng at 03/11/2023 9:32 PM
+BAG:memayha add 1xNâng cấp kỹ năng 1 đệ tử lydo: Mua từ cửa hàng at 03/11/2023 9:32 PM
+BAG:memayha add 2xNâng cấp kỹ năng 1 đệ tử (old: 1) lydo: Mua từ cửa hàng at 03/11/2023 9:32 PM
+BAG:memayha add 3xNâng cấp kỹ năng 1 đệ tử (old: 2) lydo: Mua từ cửa hàng at 03/11/2023 9:32 PM
+BAG:memayha add 4xNâng cấp kỹ năng 1 đệ tử (old: 3) lydo: Mua từ cửa hàng at 03/11/2023 9:32 PM
+BAG:memayha add 5xNâng cấp kỹ năng 1 đệ tử (old: 4) lydo: Mua từ cửa hàng at 03/11/2023 9:32 PM
+BAG:memayha add 6xNâng cấp kỹ năng 1 đệ tử (old: 5) lydo: Mua từ cửa hàng at 03/11/2023 9:32 PM
+BAG:memayha add 1xGiáp tập luyện cấp 1 lydo: Lấy từ body vào hành trang at 03/11/2023 9:34 PM

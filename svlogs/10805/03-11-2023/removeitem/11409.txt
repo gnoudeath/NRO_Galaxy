@@ -1,0 +1,479 @@
+BAG:lh100hp remove Rada cấp 1 lydo: Mặc vào người at 03/11/2023 7:48 AM
+BAG:lh100hp remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 03/11/2023 7:52 AM
+BAG:lh100hp remove 1xQuần sợi len lydo: Bán cho shop at 03/11/2023 7:55 AM
+BAG:lh100hp remove 1xÁo sợi len lydo: Bán cho shop at 03/11/2023 7:55 AM
+BAG:lh100hp remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 03/11/2023 7:57 AM
+BAG:lh100hp remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 03/11/2023 8:01 AM
+BAG:lh100hp remove Đậu thần cấp 1 lydo: Tự Xóa vật phẩm at 03/11/2023 8:08 AM
+BAG:lh100hp remove Ngọc Rồng 3 sao lydo: Cất vào rương at 03/11/2023 8:10 AM
+BAG:lh100hp remove Thỏi vàng lydo: Cất vào rương at 03/11/2023 8:15 AM
+BAG:lh100hp remove Găng thun Pico lydo: Mặc vào người at 03/11/2023 8:15 AM
+BAG:lh100hp remove 1xSao pha lê lydo: Ép ngọc rồng at 03/11/2023 8:20 AM
+BAG:lh100hp remove 1xSao pha lê lydo: Ép ngọc rồng at 03/11/2023 8:20 AM
+BAG:lh100hp remove 1xSao pha lê lydo: Ép ngọc rồng at 03/11/2023 8:20 AM
+BAG:lh100hp remove 99xThỏi vàng lydo: Tách thỏi vàng at 03/11/2023 8:21 AM
+BAG:lh100hp remove 1xThỏi vàng lydo: Bán cho shop at 03/11/2023 8:21 AM
+BAG:lh100hp remove 1xThỏi vàng lydo: Bán cho shop at 03/11/2023 8:21 AM
+BAG:lh100hp remove 1xThỏi vàng lydo: Bán cho shop at 03/11/2023 8:21 AM
+BAG:lh100hp remove Cải trang mồn lèo lydo: Mặc vào người at 03/11/2023 8:23 AM
+BAG:lh100hp remove 1xThỏi vàng lydo: Bán cho shop at 03/11/2023 8:24 AM
+BAG:lh100hp remove 1xThỏi vàng lydo: Bán cho shop at 03/11/2023 8:24 AM
+BAG:lh100hp remove 1xThỏi vàng lydo: Bán cho shop at 03/11/2023 8:24 AM
+BAG:lh100hp remove 2xĐá lục bảo lydo: Bán cho shop at 03/11/2023 8:24 AM
+BAG:lh100hp remove 3xĐá Titan lydo: Bán cho shop at 03/11/2023 8:24 AM
+BAG:lh100hp remove 2xĐá Saphia lydo: Bán cho shop at 03/11/2023 8:24 AM
+BAG:lh100hp remove 1xÁo sợi len lydo: Bán cho shop at 03/11/2023 8:25 AM
+BAG:lh100hp remove 1xQuần sợi len lydo: Bán cho shop at 03/11/2023 8:25 AM
+BAG:lh100hp remove 13xHoa hồng đỏ lydo: Bán cho shop at 03/11/2023 8:25 AM
+BAG:lh100hp remove 16xHoa hồng vàng lydo: Bán cho shop at 03/11/2023 8:25 AM
+BAG:lh100hp remove 3xĐá Ruby lydo: Bán cho shop at 03/11/2023 8:25 AM
+BAG:lh100hp remove 13xHoa hồng xanh lydo: Bán cho shop at 03/11/2023 8:25 AM
+BAG:lh100hp remove 1xThỏi vàng lydo: Bán cho shop at 03/11/2023 8:26 AM
+BAG:lh100hp remove 1xThỏi vàng lydo: Bán cho shop at 03/11/2023 8:26 AM
+BAG:lh100hp remove 1xThỏi vàng lydo: Bán cho shop at 03/11/2023 8:26 AM
+BAG:lh100hp remove 1xThỏi vàng lydo: Bán cho shop at 03/11/2023 8:29 AM
+BAG:lh100hp remove 1xThỏi vàng lydo: Bán cho shop at 03/11/2023 8:29 AM
+BAG:lh100hp remove 1xThỏi vàng lydo: Bán cho shop at 03/11/2023 8:29 AM
+BAG:lh100hp remove 1xThỏi vàng lydo: Bán cho shop at 03/11/2023 8:31 AM
+BAG:lh100hp remove 1xThỏi vàng lydo: Bán cho shop at 03/11/2023 8:31 AM
+BAG:lh100hp remove 1xThỏi vàng lydo: Bán cho shop at 03/11/2023 8:31 AM
+BAG:lh100hp remove 1xThỏi vàng lydo: Bán cho shop at 03/11/2023 8:33 AM
+BAG:lh100hp remove 1xThỏi vàng lydo: Bán cho shop at 03/11/2023 8:33 AM
+BAG:lh100hp remove 1xThỏi vàng lydo: Bán cho shop at 03/11/2023 8:33 AM
+BAG:lh100hp remove 1xThỏi vàng lydo: Bán cho shop at 03/11/2023 8:34 AM
+BAG:lh100hp remove 1xThỏi vàng lydo: Bán cho shop at 03/11/2023 8:34 AM
+BAG:lh100hp remove 1xThỏi vàng lydo: Bán cho shop at 03/11/2023 8:34 AM
+BAG:lh100hp remove 1xThỏi vàng lydo: Bán cho shop at 03/11/2023 8:37 AM
+BAG:lh100hp remove 1xThỏi vàng lydo: Bán cho shop at 03/11/2023 8:37 AM
+BAG:lh100hp remove 1xThỏi vàng lydo: Bán cho shop at 03/11/2023 8:37 AM
+BAG:lh100hp remove 1xThỏi vàng lydo: Bán cho shop at 03/11/2023 8:39 AM
+BAG:lh100hp remove 1xThỏi vàng lydo: Bán cho shop at 03/11/2023 8:39 AM
+BAG:lh100hp remove 1xThỏi vàng lydo: Bán cho shop at 03/11/2023 8:39 AM
+BAG:lh100hp remove 1xThỏi vàng lydo: Bán cho shop at 03/11/2023 8:40 AM
+BAG:lh100hp remove 1xThỏi vàng lydo: Bán cho shop at 03/11/2023 8:40 AM
+BAG:lh100hp remove 1xThỏi vàng lydo: Bán cho shop at 03/11/2023 8:40 AM
+BAG:lh100hp remove Cải trang Hatchiyack lydo: Cất vào rương at 03/11/2023 8:42 AM
+BAG:lh100hp remove CT Genma 01 lydo: Cất vào rương at 03/11/2023 8:42 AM
+BAG:lh100hp remove Phóng lợn lydo: Cất vào rương at 03/11/2023 8:42 AM
+BAG:lh100hp remove 1xSao pha lê lydo: Bán cho shop at 03/11/2023 8:42 AM
+BAG:lh100hp remove 1xSao pha lê lydo: Bán cho shop at 03/11/2023 8:42 AM
+BAG:lh100hp remove Cải trang Hatchiyack lydo: Tự Xóa vật phẩm at 03/11/2023 8:43 AM
+BAG:lh100hp remove Cải trang Hatchiyack lydo: Tự Xóa vật phẩm at 03/11/2023 8:43 AM
+BAG:lh100hp remove Cải trang mồn lèo lydo: Tự Xóa vật phẩm at 03/11/2023 8:43 AM
+BAG:lh100hp remove Cải trang mồn lèo lydo: Tự Xóa vật phẩm at 03/11/2023 8:43 AM
+BAG:lh100hp remove 1xSao pha lê lydo: Ép ngọc rồng at 03/11/2023 8:44 AM
+BAG:lh100hp remove Ngọc Rồng 4 sao lydo: Cất vào rương at 03/11/2023 8:45 AM
+BAG:lh100hp remove Thỏi vàng lydo: Cất vào rương at 03/11/2023 8:45 AM
+BAG:lh100hp remove 1xThỏi vàng lydo: Bán cho shop at 03/11/2023 8:46 AM
+BAG:lh100hp remove 1xThỏi vàng lydo: Bán cho shop at 03/11/2023 8:46 AM
+BAG:lh100hp remove 1xThỏi vàng lydo: Bán cho shop at 03/11/2023 8:46 AM
+BAG:lh100hp remove 1xSao pha lê lydo: Ép ngọc rồng at 03/11/2023 8:48 AM
+BAG:lh100hp remove 1xSao pha lê lydo: Ép ngọc rồng at 03/11/2023 8:49 AM
+BAG:lh100hp remove 1xSao pha lê lydo: Ép ngọc rồng at 03/11/2023 8:50 AM
+BAG:lh100hp remove 1xSao pha lê lydo: Ép ngọc rồng at 03/11/2023 8:50 AM
+BAG:lh100hp remove 1xSao pha lê lydo: Ép ngọc rồng at 03/11/2023 8:50 AM
+BAG:lh100hp remove 1xSao pha lê lydo: Ép ngọc rồng at 03/11/2023 8:50 AM
+BAG:lh100hp remove 1xSao pha lê lydo: Ép ngọc rồng at 03/11/2023 8:50 AM
+BAG:lh100hp remove 1xSao pha lê lydo: Ép ngọc rồng at 03/11/2023 8:50 AM
+BAG:lh100hp remove 1xSao pha lê lydo: Ép ngọc rồng at 03/11/2023 8:50 AM
+BAG:lh100hp remove 1xSao pha lê lydo: Ép ngọc rồng at 03/11/2023 8:50 AM
+BAG:lh100hp remove 1xSao pha lê lydo: Ép ngọc rồng at 03/11/2023 8:50 AM
+BAG:lh100hp remove Quần sợi len lydo: Mặc vào người at 03/11/2023 8:51 AM
+BAG:lh100hp remove Áo sợi len lydo: Mặc vào người at 03/11/2023 8:51 AM
+BAG:lh100hp remove 1xThỏi vàng lydo: Bán cho shop at 03/11/2023 8:51 AM
+BAG:lh100hp remove 1xThỏi vàng lydo: Bán cho shop at 03/11/2023 8:51 AM
+BAG:lh100hp remove 1xSao pha lê lydo: Ép ngọc rồng at 03/11/2023 8:51 AM
+BAG:lh100hp remove Rada cấp 1 lydo: Mặc vào người at 03/11/2023 8:52 AM
+BAG:lh100hp remove Giầy sợi len lydo: Tự Xóa vật phẩm at 03/11/2023 8:55 AM
+BAG:lh100hp remove 1xMảnh Khủng long lydo: Dùng thẻ sưu tầm at 03/11/2023 8:57 AM
+BAG:lh100hp remove Hoa hồng đỏ lydo: Tự Xóa vật phẩm at 03/11/2023 8:58 AM
+BAG:lh100hp remove Đá Saphia lydo: Tự Xóa vật phẩm at 03/11/2023 8:58 AM
+BAG:lh100hp remove Đá Ruby lydo: Tự Xóa vật phẩm at 03/11/2023 8:58 AM
+BAG:lh100hp remove Quần sợi len lydo: Tự Xóa vật phẩm at 03/11/2023 8:58 AM
+BAG:lh100hp remove Áo sợi len lydo: Tự Xóa vật phẩm at 03/11/2023 8:58 AM
+BAG:lh100hp remove Quần sợi len lydo: Tự Xóa vật phẩm at 03/11/2023 8:58 AM
+BAG:lh100hp remove Quần sợi len lydo: Tự Xóa vật phẩm at 03/11/2023 8:58 AM
+BAG:lh100hp remove Găng sợi len lydo: Tự Xóa vật phẩm at 03/11/2023 8:58 AM
+BAG:lh100hp remove Rada cấp 1 lydo: Tự Xóa vật phẩm at 03/11/2023 8:58 AM
+BAG:lh100hp remove Rada cấp 1 lydo: Tự Xóa vật phẩm at 03/11/2023 8:59 AM
+BAG:lh100hp remove Rada cấp 1 lydo: Tự Xóa vật phẩm at 03/11/2023 8:59 AM
+BAG:lh100hp remove Quần sợi len lydo: Tự Xóa vật phẩm at 03/11/2023 8:59 AM
+BAG:lh100hp remove 1xMảnh Khủng long lydo: Dùng thẻ sưu tầm at 03/11/2023 8:59 AM
+BAG:lh100hp remove Áo sợi len lydo: Tự Xóa vật phẩm at 03/11/2023 9:00 AM
+BAG:lh100hp remove Giầy sợi len lydo: Tự Xóa vật phẩm at 03/11/2023 9:00 AM
+BAG:lh100hp remove Hoa hồng xanh lydo: Tự Xóa vật phẩm at 03/11/2023 9:00 AM
+BAG:lh100hp remove Hoa hồng vàng lydo: Tự Xóa vật phẩm at 03/11/2023 9:00 AM
+BAG:lh100hp remove Đá lục bảo lydo: Tự Xóa vật phẩm at 03/11/2023 9:00 AM
+BAG:lh100hp remove Quần sợi len lydo: Tự Xóa vật phẩm at 03/11/2023 9:01 AM
+BAG:lh100hp remove Giầy sợi len lydo: Tự Xóa vật phẩm at 03/11/2023 9:01 AM
+BAG:lh100hp remove Rada cấp 1 lydo: Cất vào rương at 03/11/2023 9:01 AM
+BAG:lh100hp remove Giầy sợi len lydo: Cất vào rương at 03/11/2023 9:01 AM
+BAG:lh100hp remove Quần sợi len lydo: Cất vào rương at 03/11/2023 9:01 AM
+BAG:lh100hp remove Thỏi vàng lydo: Cất vào rương at 03/11/2023 9:01 AM
+BAG:lh100hp remove Sao pha lê lydo: Cất vào rương at 03/11/2023 9:01 AM
+BAG:lh100hp remove Đá Saphia lydo: Cất vào rương at 03/11/2023 9:01 AM
+BAG:lh100hp remove Rada cấp 1 lydo: Tự Xóa vật phẩm at 03/11/2023 9:07 AM
+BAG:lh100hp remove Rada cấp 1 lydo: Tự Xóa vật phẩm at 03/11/2023 9:12 AM
+BAG:lh100hp remove Găng sợi len lydo: Cất vào rương at 03/11/2023 9:13 AM
+BAG:lh100hp remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/11/2023 9:13 AM
+BAG:lh100hp remove Áo sợi len lydo: Tự Xóa vật phẩm at 03/11/2023 9:16 AM
+BAG:lh100hp remove Giầy sợi len lydo: Tự Xóa vật phẩm at 03/11/2023 9:16 AM
+BAG:lh100hp remove Quần sợi len lydo: Tự Xóa vật phẩm at 03/11/2023 9:16 AM
+BAG:lh100hp remove Giầy sợi len lydo: Tự Xóa vật phẩm at 03/11/2023 9:16 AM
+BAG:lh100hp remove Quần sợi len lydo: Tự Xóa vật phẩm at 03/11/2023 9:16 AM
+BAG:lh100hp remove Găng sợi len lydo: Tự Xóa vật phẩm at 03/11/2023 9:16 AM
+BAG:lh100hp remove Áo sợi len lydo: Tự Xóa vật phẩm at 03/11/2023 9:16 AM
+BAG:lh100hp remove Hoa hồng đỏ lydo: Tự Xóa vật phẩm at 03/11/2023 9:16 AM
+BAG:lh100hp remove Hoa hồng vàng lydo: Tự Xóa vật phẩm at 03/11/2023 9:16 AM
+BAG:lh100hp remove Hoa hồng xanh lydo: Tự Xóa vật phẩm at 03/11/2023 9:16 AM
+BAG:lh100hp remove 1xNâng cấp kỹ năng 1 đệ tử lydo: Dùng sách kĩ năng đệ tử at 03/11/2023 9:21 AM
+BAG:lh100hp remove 1xNâng cấp kỹ năng 1 đệ tử lydo: Dùng sách kĩ năng đệ tử at 03/11/2023 9:21 AM
+BAG:lh100hp remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/11/2023 9:26 AM
+BAG:lh100hp remove 1xGăng thun Pico lydo: Bán cho shop at 03/11/2023 9:30 AM
+BAG:lh100hp remove 1xGăng len cứng lydo: Bán cho shop at 03/11/2023 9:54 AM
+BAG:lh100hp remove Sách đấm Demon lv2 lydo: Sách kĩ năng at 03/11/2023 9:55 AM
+BAG:lh100hp remove Sách đấm Demon lv3 lydo: Sách kĩ năng at 03/11/2023 9:55 AM
+BAG:lh100hp remove Sách đấm Demon lv4 lydo: Sách kĩ năng at 03/11/2023 9:56 AM
+BAG:lh100hp remove Sách đấm Demon lv5 lydo: Sách kĩ năng at 03/11/2023 9:56 AM
+BAG:lh100hp remove Sách đấm Demon lv6 lydo: Sách kĩ năng at 03/11/2023 9:56 AM
+BAG:lh100hp remove Sách đấm Demon lv7 lydo: Sách kĩ năng at 03/11/2023 9:56 AM
+BAG:lh100hp remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/11/2023 10:01 AM
+BAG:lh100hp remove Đẻ trứng lv1 lydo: Sách kĩ năng at 03/11/2023 10:04 AM
+BAG:lh100hp remove Đẻ trứng lv2 lydo: Sách kĩ năng at 03/11/2023 10:04 AM
+BAG:lh100hp remove Đẻ trứng lv3 lydo: Sách kĩ năng at 03/11/2023 10:04 AM
+BAG:lh100hp remove Đẻ trứng lv4 lydo: Sách kĩ năng at 03/11/2023 10:04 AM
+BAG:lh100hp remove Đẻ trứng lv5 lydo: Sách kĩ năng at 03/11/2023 10:04 AM
+BAG:lh100hp remove Đẻ trứng lv6 lydo: Sách kĩ năng at 03/11/2023 10:05 AM
+BAG:lh100hp remove Đẻ trứng lv7 lydo: Sách kĩ năng at 03/11/2023 10:05 AM
+BAG:lh100hp remove 1xĐẻ trứng lv1 lydo: Bán cho shop at 03/11/2023 10:07 AM
+BAG:lh100hp remove 1xĐẻ trứng lv2 lydo: Bán cho shop at 03/11/2023 10:07 AM
+BAG:lh100hp remove 1xĐẻ trứng lv3 lydo: Bán cho shop at 03/11/2023 10:07 AM
+BAG:lh100hp remove 1xĐẻ trứng lv4 lydo: Bán cho shop at 03/11/2023 10:08 AM
+BAG:lh100hp remove 1xĐẻ trứng lv5 lydo: Bán cho shop at 03/11/2023 10:08 AM
+BAG:lh100hp remove 1xPhi Long VIP lydo: Bán cho shop at 03/11/2023 10:09 AM
+BAG:lh100hp remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/11/2023 10:13 AM
+BAG:lh100hp remove 1xGăng thun cứng lydo: Bán cho shop at 03/11/2023 10:20 AM
+BAG:lh100hp remove 1xGăng vải Pico lydo: Bán cho shop at 03/11/2023 10:20 AM
+BAG:lh100hp remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/11/2023 10:23 AM
+BAG:lh100hp remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/11/2023 10:30 AM
+BAG:lh100hp remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/11/2023 10:38 AM
+BAG:lh100hp remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/11/2023 10:47 AM
+BAG:lh100hp remove CT Genma 01 lydo: Mặc cho đệ tử at 03/11/2023 10:54 AM
+BAG:lh100hp remove Quần sợi len lydo: Mặc vào người at 03/11/2023 10:54 AM
+BAG:lh100hp remove Giầy sợi len lydo: Mặc vào người at 03/11/2023 10:54 AM
+BAG:lh100hp remove Rada cấp 1 lydo: Mặc vào người at 03/11/2023 10:55 AM
+BAG:lh100hp remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/11/2023 10:55 AM
+BAG:lh100hp remove Đá Titan lydo: Tự Xóa vật phẩm at 03/11/2023 11:03 AM
+BAG:lh100hp remove Đá Ruby lydo: Tự Xóa vật phẩm at 03/11/2023 11:03 AM
+BAG:lh100hp remove Đá Saphia lydo: Tự Xóa vật phẩm at 03/11/2023 11:03 AM
+BAG:lh100hp remove Đá lục bảo lydo: Tự Xóa vật phẩm at 03/11/2023 11:03 AM
+BAG:lh100hp remove Rada cấp 1 lydo: Mặc cho đệ tử at 03/11/2023 11:04 AM
+BAG:lh100hp remove CT Genma 01 lydo: Mặc cho đệ tử at 03/11/2023 11:06 AM
+BAG:lh100hp remove Cải trang Hatchiyack lydo: Mặc vào người at 03/11/2023 11:06 AM
+BAG:lh100hp remove Giầy sợi len lydo: Mặc vào người at 03/11/2023 11:12 AM
+BAG:lh100hp remove Quần sợi len lydo: Mặc vào người at 03/11/2023 11:12 AM
+BAG:lh100hp remove 1xĐổi đệ tử lydo: Dùng đổi đệ tử at 03/11/2023 11:13 AM
+BAG:lh100hp remove 1xĐổi đệ tử lydo: Dùng đổi đệ tử at 03/11/2023 11:13 AM
+BAG:lh100hp remove 1xĐổi đệ tử lydo: Dùng đổi đệ tử at 03/11/2023 11:13 AM
+BAG:lh100hp remove Rada cấp 1 lydo: Mặc cho đệ tử at 03/11/2023 11:13 AM
+BAG:lh100hp remove Áo sợi len lydo: Mặc cho đệ tử at 03/11/2023 11:13 AM
+BAG:lh100hp remove Quần sợi len lydo: Mặc cho đệ tử at 03/11/2023 11:13 AM
+BAG:lh100hp remove Giầy sợi len lydo: Mặc cho đệ tử at 03/11/2023 11:13 AM
+BAG:lh100hp remove CT Genma 01 lydo: Mặc cho đệ tử at 03/11/2023 11:13 AM
+BAG:lh100hp remove Găng len cứng lydo: Mặc cho đệ tử at 03/11/2023 11:27 AM
+BAG:lh100hp remove Rada cấp 1 lydo: Mặc vào người at 03/11/2023 11:33 AM
+BAG:lh100hp remove Giầy sợi len lydo: Mặc vào người at 03/11/2023 11:33 AM
+BAG:lh100hp remove Găng sợi len lydo: Mặc vào người at 03/11/2023 11:33 AM
+BAG:lh100hp remove Quần sợi len lydo: Mặc vào người at 03/11/2023 11:33 AM
+BAG:lh100hp remove Áo sợi len lydo: Mặc vào người at 03/11/2023 11:33 AM
+BAG:lh100hp remove 1xThỏi vàng lydo: Bán cho shop at 03/11/2023 11:34 AM
+BAG:lh100hp remove 1xThỏi vàng lydo: Bán cho shop at 03/11/2023 11:34 AM
+BAG:lh100hp remove 1xThỏi vàng lydo: Bán cho shop at 03/11/2023 11:34 AM
+BAG:lh100hp remove 2xĐá Titan lydo: Bán cho shop at 03/11/2023 11:35 AM
+BAG:lh100hp remove 1xNgọc Rồng 6 sao lydo: Bán cho shop at 03/11/2023 11:35 AM
+BAG:lh100hp remove 2xNgọc Rồng 5 sao lydo: Bán cho shop at 03/11/2023 11:35 AM
+BAG:lh100hp remove Ngọc Rồng 4 sao lydo: Cất vào rương at 03/11/2023 11:36 AM
+BAG:lh100hp remove Thỏi vàng lydo: Cất vào rương at 03/11/2023 11:36 AM
+BAG:lh100hp remove Đá thạch anh tím lydo: Cất vào rương at 03/11/2023 11:36 AM
+BAG:lh100hp remove 51xHoa hồng xanh lydo: Bán cho shop at 03/11/2023 11:38 AM
+BAG:lh100hp remove 69xHoa hồng vàng lydo: Bán cho shop at 03/11/2023 11:38 AM
+BAG:lh100hp remove 57xHoa hồng đỏ lydo: Bán cho shop at 03/11/2023 11:38 AM
+BAG:lh100hp remove 1xThỏi vàng lydo: Bán cho shop at 03/11/2023 11:38 AM
+BAG:lh100hp remove 1xThỏi vàng lydo: Bán cho shop at 03/11/2023 11:38 AM
+BAG:lh100hp remove 1xThỏi vàng lydo: Bán cho shop at 03/11/2023 11:38 AM
+BAG:lh100hp remove 1xThỏi vàng lydo: Bán cho shop at 03/11/2023 11:40 AM
+BAG:lh100hp remove 1xThỏi vàng lydo: Bán cho shop at 03/11/2023 11:40 AM
+BAG:lh100hp remove 1xThỏi vàng lydo: Bán cho shop at 03/11/2023 11:40 AM
+BAG:lh100hp remove Đá lục bảo lydo: Tự Xóa vật phẩm at 03/11/2023 11:41 AM
+BAG:lh100hp remove Ngọc Rồng 4 sao lydo: Tự Xóa vật phẩm at 03/11/2023 11:41 AM
+BAG:lh100hp remove Rada cấp 1 lydo: Mặc vào người at 03/11/2023 11:41 AM
+BAG:lh100hp remove Hoa hồng đỏ lydo: Tự Xóa vật phẩm at 03/11/2023 11:43 AM
+BAG:lh100hp remove 1xThỏi vàng lydo: Bán cho shop at 03/11/2023 11:44 AM
+BAG:lh100hp remove 1xThỏi vàng lydo: Bán cho shop at 03/11/2023 11:44 AM
+BAG:lh100hp remove 1xThỏi vàng lydo: Bán cho shop at 03/11/2023 11:44 AM
+BAG:lh100hp remove 1xSao pha lê lydo: Ép ngọc rồng at 03/11/2023 11:44 AM
+BAG:lh100hp remove 1xSao pha lê lydo: Ép ngọc rồng at 03/11/2023 11:44 AM
+BAG:lh100hp remove 1xSao pha lê lydo: Ép ngọc rồng at 03/11/2023 11:45 AM
+BAG:lh100hp remove 1xSao pha lê lydo: Ép ngọc rồng at 03/11/2023 11:45 AM
+BAG:lh100hp remove Rada cấp 1 lydo: Tự Xóa vật phẩm at 03/11/2023 11:45 AM
+BAG:lh100hp remove Áo sợi len lydo: Mặc vào người at 03/11/2023 11:46 AM
+BAG:lh100hp remove Găng sợi len lydo: Mặc vào người at 03/11/2023 11:46 AM
+BAG:lh100hp remove Giầy sợi len lydo: Mặc vào người at 03/11/2023 11:46 AM
+BAG:lh100hp remove Quần sợi len lydo: Mặc vào người at 03/11/2023 11:46 AM
+BAG:lh100hp remove 1xSao pha lê lydo: Ép ngọc rồng at 03/11/2023 11:47 AM
+BAG:lh100hp remove 1xSao pha lê lydo: Ép ngọc rồng at 03/11/2023 11:47 AM
+BAG:lh100hp remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/11/2023 11:47 AM
+BAG:lh100hp remove Hoa hồng vàng lydo: Tự Xóa vật phẩm at 03/11/2023 11:49 AM
+BAG:lh100hp remove 1xNâng cấp kỹ năng 1 đệ tử lydo: Dùng sách kĩ năng đệ tử at 03/11/2023 11:52 AM
+BAG:lh100hp remove 1xNâng cấp kỹ năng 1 đệ tử lydo: Dùng sách kĩ năng đệ tử at 03/11/2023 11:52 AM
+BAG:lh100hp remove 1xNâng cấp kỹ năng 1 đệ tử lydo: Dùng sách kĩ năng đệ tử at 03/11/2023 11:52 AM
+BAG:lh100hp remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/11/2023 12:01 PM
+BAG:lh100hp remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/11/2023 12:09 PM
+BAG:lh100hp remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/11/2023 12:18 PM
+BAG:lh100hp remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/11/2023 12:27 PM
+BAG:lh100hp remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/11/2023 12:37 PM
+BAG:lh100hp remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/11/2023 12:48 PM
+BAG:lh100hp remove CT Genma 01 lydo: Cất vào rương at 03/11/2023 12:51 PM
+BAG:lh100hp remove Đá thạch anh tím lydo: Cất vào rương at 03/11/2023 12:51 PM
+BAG:lh100hp remove Đá Titan lydo: Tự Xóa vật phẩm at 03/11/2023 12:51 PM
+BAG:lh100hp remove Đá lục bảo lydo: Tự Xóa vật phẩm at 03/11/2023 12:51 PM
+BAG:lh100hp remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 03/11/2023 12:51 PM
+BAG:lh100hp remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 03/11/2023 12:52 PM
+BAG:lh100hp remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 03/11/2023 12:52 PM
+BAG:lh100hp remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 03/11/2023 12:52 PM
+BAG:lh100hp remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 03/11/2023 12:53 PM
+BAG:lh100hp remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 03/11/2023 12:53 PM
+BAG:lh100hp remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 03/11/2023 12:53 PM
+BAG:lh100hp remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 03/11/2023 12:53 PM
+BAG:lh100hp remove Áo sợi len lydo: Mặc vào người at 03/11/2023 12:53 PM
+BAG:lh100hp remove Quần sợi len lydo: Mặc vào người at 03/11/2023 12:53 PM
+BAG:lh100hp remove 1xThỏi vàng lydo: Bán cho shop at 03/11/2023 12:54 PM
+BAG:lh100hp remove 1xThỏi vàng lydo: Bán cho shop at 03/11/2023 12:54 PM
+BAG:lh100hp remove 1xThỏi vàng lydo: Bán cho shop at 03/11/2023 12:54 PM
+BAG:lh100hp remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 03/11/2023 12:55 PM
+BAG:lh100hp remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 03/11/2023 12:55 PM
+BAG:lh100hp remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 03/11/2023 12:55 PM
+BAG:lh100hp remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 03/11/2023 12:55 PM
+BAG:lh100hp remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 03/11/2023 12:55 PM
+BAG:lh100hp remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 03/11/2023 12:55 PM
+BAG:lh100hp remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 03/11/2023 12:55 PM
+BAG:lh100hp remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 03/11/2023 12:55 PM
+BAG:lh100hp remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 03/11/2023 12:56 PM
+BAG:lh100hp remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 03/11/2023 12:56 PM
+BAG:lh100hp remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 03/11/2023 12:56 PM
+BAG:lh100hp remove Rada cấp 1 lydo: Mặc vào người at 03/11/2023 12:56 PM
+BAG:lh100hp remove Găng sợi len lydo: Mặc vào người at 03/11/2023 12:56 PM
+BAG:lh100hp remove Giầy sợi len lydo: Mặc vào người at 03/11/2023 12:56 PM
+BAG:lh100hp remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 03/11/2023 12:56 PM
+BAG:lh100hp remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 03/11/2023 12:56 PM
+BAG:lh100hp remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 03/11/2023 12:56 PM
+BAG:lh100hp remove Rada cấp 1 lydo: Mặc vào người at 03/11/2023 12:57 PM
+BAG:lh100hp remove Rada cấp 1 lydo: Mặc vào người at 03/11/2023 12:57 PM
+BAG:lh100hp remove Ngọc Rồng 3 sao lydo: Cất vào rương at 03/11/2023 12:57 PM
+BAG:lh100hp remove Hoa hồng vàng lydo: Tự Xóa vật phẩm at 03/11/2023 12:58 PM
+BAG:lh100hp remove Hoa hồng đỏ lydo: Tự Xóa vật phẩm at 03/11/2023 12:58 PM
+BAG:lh100hp remove 1xThỏi vàng lydo: Bán cho shop at 03/11/2023 12:58 PM
+BAG:lh100hp remove Hoa hồng xanh lydo: Tự Xóa vật phẩm at 03/11/2023 12:59 PM
+BAG:lh100hp remove Găng len cứng lydo: Tự Xóa vật phẩm at 03/11/2023 12:59 PM
+BAG:lh100hp remove Xiên cá lydo: Tự Xóa vật phẩm at 03/11/2023 12:59 PM
+BAG:lh100hp remove Hoa hồng vàng lydo: Tự Xóa vật phẩm at 03/11/2023 12:59 PM
+BAG:lh100hp remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/11/2023 12:59 PM
+BAG:lh100hp remove Hoa hồng vàng lydo: Tự Xóa vật phẩm at 03/11/2023 1:01 PM
+BAG:lh100hp remove Hoa hồng đỏ lydo: Tự Xóa vật phẩm at 03/11/2023 1:01 PM
+BAG:lh100hp remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/11/2023 1:01 PM
+BAG:lh100hp remove Rada cấp 1 lydo: Tự Xóa vật phẩm at 03/11/2023 1:01 PM
+BAG:lh100hp remove Rada cấp 1 lydo: Tự Xóa vật phẩm at 03/11/2023 1:01 PM
+BAG:lh100hp remove Quần sợi len lydo: Tự Xóa vật phẩm at 03/11/2023 1:02 PM
+BAG:lh100hp remove Quần sợi len lydo: Tự Xóa vật phẩm at 03/11/2023 1:02 PM
+BAG:lh100hp remove Áo sợi len lydo: Tự Xóa vật phẩm at 03/11/2023 1:02 PM
+BAG:lh100hp remove Quần sợi len lydo: Tự Xóa vật phẩm at 03/11/2023 1:02 PM
+BAG:lh100hp remove Áo sợi len lydo: Tự Xóa vật phẩm at 03/11/2023 1:02 PM
+BAG:lh100hp remove 1xSao pha lê lydo: Ép ngọc rồng at 03/11/2023 1:03 PM
+BAG:lh100hp remove 1xSao pha lê lydo: Ép ngọc rồng at 03/11/2023 1:03 PM
+BAG:lh100hp remove 1xSao pha lê lydo: Ép ngọc rồng at 03/11/2023 1:04 PM
+BAG:lh100hp remove 1xSao pha lê lydo: Ép ngọc rồng at 03/11/2023 1:04 PM
+BAG:lh100hp remove Sao pha lê lydo: Tự Xóa vật phẩm at 03/11/2023 1:04 PM
+BAG:lh100hp remove Đá lục bảo lydo: Tự Xóa vật phẩm at 03/11/2023 1:04 PM
+BAG:lh100hp remove Áo sợi len lydo: Mặc cho đệ tử at 03/11/2023 1:05 PM
+BAG:lh100hp remove Quần sợi len lydo: Mặc cho đệ tử at 03/11/2023 1:05 PM
+BAG:lh100hp remove Găng sợi len lydo: Mặc cho đệ tử at 03/11/2023 1:05 PM
+BAG:lh100hp remove Giầy sợi len lydo: Mặc cho đệ tử at 03/11/2023 1:05 PM
+BAG:lh100hp remove Giầy sợi len lydo: Tự Xóa vật phẩm at 03/11/2023 1:14 PM
+BAG:lh100hp remove Đá Ruby lydo: Tự Xóa vật phẩm at 03/11/2023 1:14 PM
+BAG:lh100hp remove Đá Titan lydo: Tự Xóa vật phẩm at 03/11/2023 1:14 PM
+BAG:lh100hp remove Hoa hồng vàng lydo: Tự Xóa vật phẩm at 03/11/2023 1:15 PM
+BAG:lh100hp remove Hoa hồng đỏ lydo: Tự Xóa vật phẩm at 03/11/2023 1:15 PM
+BAG:lh100hp remove Hoa hồng xanh lydo: Tự Xóa vật phẩm at 03/11/2023 1:15 PM
+BAG:lh100hp remove Rada cấp 1 lydo: Tự Xóa vật phẩm at 03/11/2023 1:15 PM
+BAG:lh100hp remove Rada cấp 1 lydo: Tự Xóa vật phẩm at 03/11/2023 1:15 PM
+BAG:lh100hp remove Quần sợi len lydo: Mặc cho đệ tử at 03/11/2023 1:15 PM
+BAG:lh100hp remove Áo sợi len lydo: Mặc cho đệ tử at 03/11/2023 1:15 PM
+BAG:lh100hp remove Găng thun cứng lydo: Mặc cho đệ tử at 03/11/2023 1:15 PM
+BAG:lh100hp remove Giầy sợi len lydo: Mặc vào người at 03/11/2023 1:15 PM
+BAG:lh100hp remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/11/2023 1:35 PM
+BAG:lh100hp remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/11/2023 1:48 PM
+BAG:lh100hp remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/11/2023 1:59 PM
+BAG:lh100hp remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/11/2023 2:13 PM
+BAG:lh100hp remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/11/2023 2:29 PM
+BAG:lh100hp remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/11/2023 2:45 PM
+BAG:lh100hp remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/11/2023 3:07 PM
+BAG:lh100hp remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/11/2023 3:23 PM
+BAG:lh100hp remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/11/2023 3:40 PM
+BAG:lh100hp remove Đậu thần cấp 10 lydo: Cất vào rương at 03/11/2023 3:53 PM
+BAG:lh100hp remove Đá thạch anh tím lydo: Cất vào rương at 03/11/2023 3:54 PM
+BAG:lh100hp remove 3xNgọc Rồng 6 sao lydo: Bán cho shop at 03/11/2023 3:54 PM
+BAG:lh100hp remove 2xNgọc Rồng 5 sao lydo: Bán cho shop at 03/11/2023 3:54 PM
+BAG:lh100hp remove 1xGăng vải Pico lydo: Bán cho shop at 03/11/2023 3:54 PM
+BAG:lh100hp remove 1xGăng thun cứng lydo: Bán cho shop at 03/11/2023 3:54 PM
+BAG:lh100hp remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/11/2023 4:00 PM
+BAG:lh100hp remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/11/2023 4:17 PM
+BAG:lh100hp remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/11/2023 4:34 PM
+BAG:lh100hp remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/11/2023 4:50 PM
+BAG:lh100hp remove Găng da Pico lydo: Tự Xóa vật phẩm at 03/11/2023 5:01 PM
+BAG:lh100hp remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/11/2023 5:07 PM
+BAG:lh100hp remove Áo sợi len lydo: Tự Xóa vật phẩm at 03/11/2023 5:14 PM
+BAG:lh100hp remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/11/2023 5:25 PM
+BAG:lh100hp remove 1xNâng cấp kỹ năng 1 đệ tử lydo: Dùng sách kĩ năng đệ tử at 03/11/2023 5:37 PM
+BAG:lh100hp remove 1xQuần sợi len lydo: Bán cho shop at 03/11/2023 5:38 PM
+BAG:lh100hp remove 16xĐá Titan lydo: Bán cho shop at 03/11/2023 5:38 PM
+BAG:lh100hp remove 13xĐá Ruby lydo: Bán cho shop at 03/11/2023 5:38 PM
+BAG:lh100hp remove 23xĐá lục bảo lydo: Bán cho shop at 03/11/2023 5:38 PM
+BAG:lh100hp remove 19xĐá Saphia lydo: Bán cho shop at 03/11/2023 5:38 PM
+BAG:lh100hp remove Sách Liên hoàn lv1 lydo: Sách kĩ năng at 03/11/2023 5:38 PM
+BAG:lh100hp remove Sách Liên hoàn lv2 lydo: Sách kĩ năng at 03/11/2023 5:38 PM
+BAG:lh100hp remove Sách Liên hoàn lv3 lydo: Sách kĩ năng at 03/11/2023 5:38 PM
+BAG:lh100hp remove Sách Liên hoàn lv4 lydo: Sách kĩ năng at 03/11/2023 5:38 PM
+BAG:lh100hp remove Sách Liên hoàn lv5 lydo: Sách kĩ năng at 03/11/2023 5:38 PM
+BAG:lh100hp remove Sách Liên hoàn lv6 lydo: Sách kĩ năng at 03/11/2023 5:38 PM
+BAG:lh100hp remove Sách Liên hoàn lv7 lydo: Sách kĩ năng at 03/11/2023 5:39 PM
+BAG:lh100hp remove 1xSách Liên hoàn lv7 lydo: Bán cho shop at 03/11/2023 5:39 PM
+BAG:lh100hp remove Khiên năng lượng lv1 lydo: Sách kĩ năng at 03/11/2023 5:39 PM
+BAG:lh100hp remove Khiên năng lượng lv2 lydo: Sách kĩ năng at 03/11/2023 5:39 PM
+BAG:lh100hp remove Khiên năng lượng lv3 lydo: Sách kĩ năng at 03/11/2023 5:39 PM
+BAG:lh100hp remove Khiên năng lượng lv4 lydo: Sách kĩ năng at 03/11/2023 5:39 PM
+BAG:lh100hp remove Khiên năng lượng lv5 lydo: Sách kĩ năng at 03/11/2023 5:39 PM
+BAG:lh100hp remove Khiên năng lượng lv6 lydo: Sách kĩ năng at 03/11/2023 5:39 PM
+BAG:lh100hp remove Khiên năng lượng lv7 lydo: Sách kĩ năng at 03/11/2023 5:39 PM
+BAG:lh100hp remove Makankosappo lv1 lydo: Sách kĩ năng at 03/11/2023 5:39 PM
+BAG:lh100hp remove Makankosappo lv2 lydo: Sách kĩ năng at 03/11/2023 5:39 PM
+BAG:lh100hp remove Makankosappo lv3 lydo: Sách kĩ năng at 03/11/2023 5:39 PM
+BAG:lh100hp remove Makankosappo lv4 lydo: Sách kĩ năng at 03/11/2023 5:39 PM
+BAG:lh100hp remove Makankosappo lv5 lydo: Sách kĩ năng at 03/11/2023 5:39 PM
+BAG:lh100hp remove Makankosappo lv6 lydo: Sách kĩ năng at 03/11/2023 5:39 PM
+BAG:lh100hp remove Makankosappo lv7 lydo: Sách kĩ năng at 03/11/2023 5:39 PM
+BAG:lh100hp remove Sách Biến Sôcôla lv1 lydo: Sách kĩ năng at 03/11/2023 5:40 PM
+BAG:lh100hp remove Sách Biến Sôcôla lv2 lydo: Sách kĩ năng at 03/11/2023 5:40 PM
+BAG:lh100hp remove Sách Biến Sôcôla lv3 lydo: Sách kĩ năng at 03/11/2023 5:40 PM
+BAG:lh100hp remove Sách Biến Sôcôla lv4 lydo: Sách kĩ năng at 03/11/2023 5:40 PM
+BAG:lh100hp remove Sách Biến Sôcôla lv5 lydo: Sách kĩ năng at 03/11/2023 5:40 PM
+BAG:lh100hp remove Sách Biến Sôcôla lv6 lydo: Sách kĩ năng at 03/11/2023 5:40 PM
+BAG:lh100hp remove Sách Biến Sôcôla lv7 lydo: Sách kĩ năng at 03/11/2023 5:40 PM
+BAG:lh100hp remove Sách Masenko lv1 lydo: Sách kĩ năng at 03/11/2023 5:40 PM
+BAG:lh100hp remove 1xCột nhà lydo: Bán cho shop at 03/11/2023 5:40 PM
+BAG:lh100hp remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/11/2023 5:47 PM
+BAG:lh100hp remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/11/2023 5:48 PM
+BAG:lh100hp remove 1xNâng cấp kỹ năng 1 đệ tử lydo: Dùng sách kĩ năng đệ tử at 03/11/2023 6:03 PM
+BAG:lh100hp remove 1xNâng cấp kỹ năng 1 đệ tử lydo: Dùng sách kĩ năng đệ tử at 03/11/2023 6:03 PM
+BAG:lh100hp remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/11/2023 6:03 PM
+BAG:lh100hp remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/11/2023 6:24 PM
+BAG:lh100hp remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/11/2023 6:41 PM
+BAG:lh100hp remove Đá Ruby lydo: Tự Xóa vật phẩm at 03/11/2023 6:46 PM
+BAG:lh100hp remove Ngọc Rồng 6 sao lydo: Tự Xóa vật phẩm at 03/11/2023 6:46 PM
+BAG:lh100hp remove Ngọc Rồng 5 sao lydo: Tự Xóa vật phẩm at 03/11/2023 6:46 PM
+BAG:lh100hp remove Đá lục bảo lydo: Tự Xóa vật phẩm at 03/11/2023 6:46 PM
+BAG:lh100hp remove Đá Saphia lydo: Tự Xóa vật phẩm at 03/11/2023 6:46 PM
+BAG:lh100hp remove Đá Titan lydo: Tự Xóa vật phẩm at 03/11/2023 6:46 PM
+BAG:lh100hp remove Rada cấp 1 lydo: Mặc vào người at 03/11/2023 6:47 PM
+BAG:lh100hp remove Giầy sợi len lydo: Mặc vào người at 03/11/2023 6:47 PM
+BAG:lh100hp remove Găng sắt Tron lydo: Mặc vào người at 03/11/2023 6:47 PM
+BAG:lh100hp remove Quần sợi len lydo: Mặc vào người at 03/11/2023 6:47 PM
+BAG:lh100hp remove Áo sợi len lydo: Mặc vào người at 03/11/2023 6:47 PM
+BAG:lh100hp remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/11/2023 6:47 PM
+BAG:lh100hp remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/11/2023 6:57 PM
+BAG:lh100hp remove Ngọc Rồng 6 sao lydo: Tự Xóa vật phẩm at 03/11/2023 7:00 PM
+BAG:lh100hp remove Giáp tập luyện cấp 3 lydo: Mặc vào người at 03/11/2023 7:00 PM
+BAG:lh100hp remove Giáp tập luyện cấp 3 lydo: Mặc vào người at 03/11/2023 7:01 PM
+BAG:lh100hp remove Áo sợi len lydo: Mặc cho đệ tử at 03/11/2023 7:04 PM
+BAG:lh100hp remove Cải trang Hatchiyack lydo: Mặc cho đệ tử at 03/11/2023 7:04 PM
+BAG:lh100hp remove Cải trang lydo: Tự Xóa vật phẩm at 03/11/2023 7:04 PM
+BAG:lh100hp remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/11/2023 7:05 PM
+BAG:lh100hp remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/11/2023 7:14 PM
+BAG:lh100hp remove 28xĐá lục bảo lydo: Bán cho shop at 03/11/2023 7:25 PM
+BAG:lh100hp remove 16xĐá Saphia lydo: Bán cho shop at 03/11/2023 7:25 PM
+BAG:lh100hp remove Giáp tập luyện cấp 3 lydo: Mặc vào người at 03/11/2023 7:40 PM
+BAG:lh100hp remove Hoa hồng xanh lydo: Tự Xóa vật phẩm at 03/11/2023 7:40 PM
+BAG:lh100hp remove Hoa hồng đỏ lydo: Tự Xóa vật phẩm at 03/11/2023 7:40 PM
+BAG:lh100hp remove Ngọc Rồng 6 sao lydo: Tự Xóa vật phẩm at 03/11/2023 7:40 PM
+BAG:lh100hp remove Ngọc Rồng 5 sao lydo: Tự Xóa vật phẩm at 03/11/2023 7:40 PM
+BAG:lh100hp remove Đá Titan lydo: Tự Xóa vật phẩm at 03/11/2023 7:40 PM
+BAG:lh100hp remove Đá Saphia lydo: Tự Xóa vật phẩm at 03/11/2023 7:40 PM
+BAG:lh100hp remove Hoa hồng vàng lydo: Tự Xóa vật phẩm at 03/11/2023 7:40 PM
+BAG:lh100hp remove Rada cấp 1 lydo: Mặc vào người at 03/11/2023 7:40 PM
+BAG:lh100hp remove Rada cấp 1 lydo: Mặc vào người at 03/11/2023 7:41 PM
+BAG:lh100hp remove Quần sợi len lydo: Mặc vào người at 03/11/2023 7:41 PM
+BAG:lh100hp remove Áo sợi len lydo: Mặc vào người at 03/11/2023 7:41 PM
+BAG:lh100hp remove Cải trang Hatchiyack lydo: Mặc vào người at 03/11/2023 7:41 PM
+BAG:lh100hp remove Giầy sợi len lydo: Mặc vào người at 03/11/2023 7:41 PM
+BAG:lh100hp remove Găng sợi len lydo: Mặc vào người at 03/11/2023 7:41 PM
+BAG:lh100hp remove Mèo mun lydo: Tự Xóa vật phẩm at 03/11/2023 7:43 PM
+BAG:lh100hp remove Sao pha lê lydo: Tự Xóa vật phẩm at 03/11/2023 7:46 PM
+BAG:lh100hp remove Giáp tập luyện cấp 3 lydo: Mặc vào người at 03/11/2023 7:46 PM
+BAG:lh100hp remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/11/2023 7:52 PM
+BAG:lh100hp remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/11/2023 7:59 PM
+BAG:lh100hp remove 16xHoa hồng đỏ lydo: Bán cho shop at 03/11/2023 8:00 PM
+BAG:lh100hp remove 1xNâng cấp kỹ năng 2 đệ tử lydo: Dùng sách kĩ năng đệ tử at 03/11/2023 8:00 PM
+BAG:lh100hp remove 1xNâng cấp kỹ năng 2 đệ tử lydo: Dùng sách kĩ năng đệ tử at 03/11/2023 8:01 PM
+BAG:lh100hp remove 1xNâng cấp kỹ năng 2 đệ tử lydo: Dùng sách kĩ năng đệ tử at 03/11/2023 8:01 PM
+BAG:lh100hp remove 1xNâng cấp kỹ năng 2 đệ tử lydo: Dùng sách kĩ năng đệ tử at 03/11/2023 8:01 PM
+BAG:lh100hp remove 1xNâng cấp kỹ năng 2 đệ tử lydo: Dùng sách kĩ năng đệ tử at 03/11/2023 8:01 PM
+BAG:lh100hp remove 1xNâng cấp kỹ năng 2 đệ tử lydo: Dùng sách kĩ năng đệ tử at 03/11/2023 8:01 PM
+BAG:lh100hp remove Hoa hồng đỏ lydo: Tự Xóa vật phẩm at 03/11/2023 8:03 PM
+BAG:lh100hp remove CT Genma 01 lydo: Mặc vào người at 03/11/2023 8:04 PM
+BAG:lh100hp remove Giầy sợi len lydo: Mặc vào người at 03/11/2023 8:04 PM
+BAG:lh100hp remove Áo sợi len lydo: Mặc vào người at 03/11/2023 8:04 PM
+BAG:lh100hp remove Quần sợi len lydo: Mặc vào người at 03/11/2023 8:04 PM
+BAG:lh100hp remove Đá thạch anh tím lydo: Cất vào rương at 03/11/2023 8:05 PM
+BAG:lh100hp remove Ngọc Rồng 4 sao lydo: Cất vào rương at 03/11/2023 8:05 PM
+BAG:lh100hp remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/11/2023 8:05 PM
+BAG:lh100hp remove Hoa hồng vàng lydo: Tự Xóa vật phẩm at 03/11/2023 8:07 PM
+BAG:lh100hp remove Hoa hồng đỏ lydo: Tự Xóa vật phẩm at 03/11/2023 8:07 PM
+BAG:lh100hp remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/11/2023 8:14 PM
+BAG:lh100hp remove 12xĐá lục bảo lydo: Bán cho shop at 03/11/2023 8:22 PM
+BAG:lh100hp remove 15xĐá Titan lydo: Bán cho shop at 03/11/2023 8:22 PM
+BAG:lh100hp remove 18xĐá Saphia lydo: Bán cho shop at 03/11/2023 8:22 PM
+BAG:lh100hp remove Ngọc Rồng 4 sao lydo: Cất vào rương at 03/11/2023 8:23 PM
+BAG:lh100hp remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 03/11/2023 8:23 PM
+BAG:lh100hp remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 03/11/2023 8:23 PM
+BAG:lh100hp remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 03/11/2023 8:24 PM
+BAG:lh100hp remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 03/11/2023 8:24 PM
+BAG:lh100hp remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 03/11/2023 8:24 PM
+BAG:lh100hp remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 03/11/2023 8:24 PM
+BAG:lh100hp remove Ngọc Rồng 3 sao lydo: Cất vào rương at 03/11/2023 8:24 PM
+BAG:lh100hp remove 14xĐá thạch anh tím lydo: Dùng đá nâng cấp at 03/11/2023 8:25 PM
+BAG:lh100hp remove 16xĐá thạch anh tím lydo: Dùng đá nâng cấp at 03/11/2023 8:25 PM
+BAG:lh100hp remove 16xĐá thạch anh tím lydo: Dùng đá nâng cấp at 03/11/2023 8:25 PM
+BAG:lh100hp remove 18xĐá thạch anh tím lydo: Dùng đá nâng cấp at 03/11/2023 8:25 PM
+BAG:lh100hp remove 20xĐá thạch anh tím lydo: Dùng đá nâng cấp at 03/11/2023 8:25 PM
+BAG:lh100hp remove Đá Ruby lydo: Cất vào rương at 03/11/2023 8:25 PM
+BAG:lh100hp remove Đá thạch anh tím lydo: Cất vào rương at 03/11/2023 8:25 PM
+BAG:lh100hp remove Găng vàng Zealot lydo: Mặc vào người at 03/11/2023 8:25 PM
+BAG:lh100hp remove Đá Saphia lydo: Tự Xóa vật phẩm at 03/11/2023 8:27 PM
+BAG:lh100hp remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/11/2023 8:34 PM
+BAG:lh100hp remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/11/2023 8:43 PM
+BAG:lh100hp remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/11/2023 8:52 PM
+BAG:lh100hp remove Hoa hồng xanh lydo: Tự Xóa vật phẩm at 03/11/2023 8:54 PM
+BAG:lh100hp remove Hoa hồng vàng lydo: Tự Xóa vật phẩm at 03/11/2023 8:54 PM
+BAG:lh100hp remove Hoa hồng đỏ lydo: Tự Xóa vật phẩm at 03/11/2023 8:54 PM
+BAG:lh100hp remove Ngọc Rồng 5 sao lydo: Tự Xóa vật phẩm at 03/11/2023 8:55 PM
+BAG:lh100hp remove Ngọc Rồng 6 sao lydo: Tự Xóa vật phẩm at 03/11/2023 8:55 PM
+BAG:lh100hp remove Đá Ruby lydo: Tự Xóa vật phẩm at 03/11/2023 8:55 PM
+BAG:lh100hp remove Đá lục bảo lydo: Tự Xóa vật phẩm at 03/11/2023 8:55 PM
+BAG:lh100hp remove Giáp tập luyện cấp 3 lydo: Mặc vào người at 03/11/2023 8:55 PM
+BAG:lh100hp remove Cải trang Hatchiyack lydo: Mặc vào người at 03/11/2023 8:55 PM
+BAG:lh100hp remove Rada cấp 1 lydo: Mặc vào người at 03/11/2023 8:55 PM
+BAG:lh100hp remove Giầy sợi len lydo: Mặc vào người at 03/11/2023 8:55 PM
+BAG:lh100hp remove Áo sợi len lydo: Mặc cho đệ tử at 03/11/2023 8:55 PM
+BAG:lh100hp remove Quần sợi len lydo: Mặc cho đệ tử at 03/11/2023 8:55 PM
+BAG:lh100hp remove Găng sắt Tron lydo: Tự Xóa vật phẩm at 03/11/2023 9:03 PM
+BAG:lh100hp remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/11/2023 9:13 PM
+BAG:lh100hp remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/11/2023 9:30 PM

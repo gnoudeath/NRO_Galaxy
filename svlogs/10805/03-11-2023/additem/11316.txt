@@ -1,0 +1,179 @@
+BAG:songomin add 1xÁo vải 3 lỗ lydo: Lấy từ body vào hành trang at 03/11/2023 12:57 AM
+BAG:songomin add 1xQuần vải đen lydo: Lấy từ body vào hành trang at 03/11/2023 12:57 AM
+BAG:songomin add 1xGăng vải đen lydo: Lấy từ body vào hành trang at 03/11/2023 12:57 AM
+BAG:songomin add 1xGiầy nhựa lydo: Lấy từ body vào hành trang at 03/11/2023 12:57 AM
+BAG:songomin add 1xRada cấp 1 lydo: Lấy từ body vào hành trang at 03/11/2023 12:57 AM
+BAG:songomin add 107xThỏi vàng (old: 7) lydo: Giftcode at 03/11/2023 6:32 AM
+BAG:songomin add 1xÁo vải 3 lỗ lydo: Lấy từ body vào hành trang at 03/11/2023 6:38 AM
+BAG:songomin add 1xQuần vải đen lydo: Lấy từ body vào hành trang at 03/11/2023 6:38 AM
+BAG:songomin add 1xGăng vải đen lydo: Lấy từ body vào hành trang at 03/11/2023 6:38 AM
+BAG:songomin add 1xGiầy nhựa lydo: Lấy từ body vào hành trang at 03/11/2023 6:38 AM
+BAG:songomin add 1xRada cấp 1 lydo: Lấy từ body vào hành trang at 03/11/2023 6:38 AM
+BAG:songomin add 1xCải Trang Thần Zeno Trái Đất lydo: Lấy từ body vào hành trang at 03/11/2023 6:38 AM
+BAG:songomin add 86xHoa hồng đỏ (old: 85) lydo: Nhặt từ map at 03/11/2023 7:03 AM
+BAG:songomin add 1xNâng cấp kỹ năng 2 đệ tử lydo: Mua từ cửa hàng at 03/11/2023 8:59 AM
+BAG:songomin add 2xNâng cấp kỹ năng 2 đệ tử (old: 1) lydo: Mua từ cửa hàng at 03/11/2023 8:59 AM
+BAG:songomin add 3xNâng cấp kỹ năng 2 đệ tử (old: 2) lydo: Mua từ cửa hàng at 03/11/2023 8:59 AM
+BAG:songomin add 4xNâng cấp kỹ năng 2 đệ tử (old: 3) lydo: Mua từ cửa hàng at 03/11/2023 8:59 AM
+BAG:songomin add 5xNâng cấp kỹ năng 2 đệ tử (old: 4) lydo: Mua từ cửa hàng at 03/11/2023 8:59 AM
+BAG:songomin add 6xNâng cấp kỹ năng 2 đệ tử (old: 5) lydo: Mua từ cửa hàng at 03/11/2023 8:59 AM
+BAG:songomin add 114xHoa hồng vàng (old: 113) lydo: Nhặt từ map at 03/11/2023 9:12 AM
+BAG:songomin add 1xHoa hồng xanh lydo: Nhặt từ map at 03/11/2023 9:12 AM
+BAG:songomin add 87xHoa hồng đỏ (old: 86) lydo: Nhặt từ map at 03/11/2023 9:12 AM
+BAG:songomin add 2xHoa hồng xanh (old: 1) lydo: Nhặt từ map at 03/11/2023 9:12 AM
+BAG:songomin add 115xHoa hồng vàng (old: 114) lydo: Nhặt từ map at 03/11/2023 9:13 AM
+BAG:songomin add 88xHoa hồng đỏ (old: 87) lydo: Nhặt từ map at 03/11/2023 9:13 AM
+BAG:songomin add 116xHoa hồng vàng (old: 115) lydo: Nhặt từ map at 03/11/2023 9:13 AM
+BAG:songomin add 89xHoa hồng đỏ (old: 88) lydo: Nhặt từ map at 03/11/2023 9:14 AM
+BAG:songomin add 3xHoa hồng xanh (old: 2) lydo: Nhặt từ map at 03/11/2023 9:14 AM
+BAG:songomin add 117xHoa hồng vàng (old: 116) lydo: Nhặt từ map at 03/11/2023 9:14 AM
+BAG:songomin add 90xHoa hồng đỏ (old: 89) lydo: Nhặt từ map at 03/11/2023 9:14 AM
+BAG:songomin add 1xKaioken lv1 lydo: Mua từ cửa hàng at 03/11/2023 9:15 AM
+BAG:songomin add 1xKaioken lv2 lydo: Mua từ cửa hàng at 03/11/2023 9:15 AM
+BAG:songomin add 1xKaioken lv3 lydo: Mua từ cửa hàng at 03/11/2023 9:15 AM
+BAG:songomin add 1xKaioken lv4 lydo: Mua từ cửa hàng at 03/11/2023 9:15 AM
+BAG:songomin add 1xKaioken lv5 lydo: Mua từ cửa hàng at 03/11/2023 9:15 AM
+BAG:songomin add 1xKaioken lv6 lydo: Mua từ cửa hàng at 03/11/2023 9:15 AM
+BAG:songomin add 1xKaioken lv7 lydo: Mua từ cửa hàng at 03/11/2023 9:16 AM
+BAG:songomin add 1xSách Dịch Chuyển lv1 lydo: Mua từ cửa hàng at 03/11/2023 9:16 AM
+BAG:songomin add 1xSách Dịch Chuyển lv2 lydo: Mua từ cửa hàng at 03/11/2023 9:16 AM
+BAG:songomin add 1xSách Dịch Chuyển lv3 lydo: Mua từ cửa hàng at 03/11/2023 9:16 AM
+BAG:songomin add 1xSách Dịch Chuyển lv4 lydo: Mua từ cửa hàng at 03/11/2023 9:16 AM
+BAG:songomin add 1xSách Dịch Chuyển lv5 lydo: Mua từ cửa hàng at 03/11/2023 9:16 AM
+BAG:songomin add 1xSách Dịch Chuyển lv6 lydo: Mua từ cửa hàng at 03/11/2023 9:16 AM
+BAG:songomin add 1xSách Dịch Chuyển lv7 lydo: Mua từ cửa hàng at 03/11/2023 9:16 AM
+BAG:songomin add 4xHoa hồng xanh (old: 3) lydo: Nhặt từ map at 03/11/2023 9:17 AM
+BAG:songomin add 1xÁo vải 3 lỗ lydo: Lấy từ body vào hành trang at 03/11/2023 9:23 AM
+BAG:songomin add 1xQuần vải đen lydo: Lấy từ body vào hành trang at 03/11/2023 9:23 AM
+BAG:songomin add 1xÁo vải 3 lỗ lydo: Lấy từ body đệ vào hành trang at 03/11/2023 9:23 AM
+BAG:songomin add 1xQuần vải đen lydo: Lấy từ body đệ vào hành trang at 03/11/2023 9:23 AM
+BAG:songomin add 1xGăng vải đen lydo: Lấy từ body đệ vào hành trang at 03/11/2023 9:23 AM
+BAG:songomin add 1xGiầy nhựa lydo: Lấy từ body đệ vào hành trang at 03/11/2023 9:24 AM
+BAG:songomin add 1xRada cấp 1 lydo: Lấy từ body đệ vào hành trang at 03/11/2023 9:24 AM
+BAG:songomin add 5xHoa hồng xanh (old: 4) lydo: Nhặt từ map at 03/11/2023 9:55 AM
+BAG:songomin add 6xHoa hồng xanh (old: 5) lydo: Nhặt từ map at 03/11/2023 9:57 AM
+BAG:songomin add 7xHoa hồng xanh (old: 6) lydo: Nhặt từ map at 03/11/2023 10:00 AM
+BAG:songomin add 118xHoa hồng vàng (old: 117) lydo: Nhặt từ map at 03/11/2023 10:02 AM
+BAG:songomin add 91xHoa hồng đỏ (old: 90) lydo: Nhặt từ map at 03/11/2023 10:03 AM
+BAG:songomin add 1xNgọc Rồng 4 sao lydo: Nhặt từ map at 03/11/2023 10:11 AM
+BAG:songomin add 1xĐá Saphia lydo: Nhặt từ map at 03/11/2023 10:14 AM
+BAG:songomin add 119xHoa hồng vàng (old: 118) lydo: Nhặt từ map at 03/11/2023 10:16 AM
+BAG:songomin add 92xHoa hồng đỏ (old: 91) lydo: Nhặt từ map at 03/11/2023 10:18 AM
+BAG:songomin add 120xHoa hồng vàng (old: 119) lydo: Nhặt từ map at 03/11/2023 10:21 AM
+BAG:songomin add 121xHoa hồng vàng (old: 120) lydo: Nhặt từ map at 03/11/2023 10:22 AM
+BAG:songomin add 8xHoa hồng xanh (old: 7) lydo: Nhặt từ map at 03/11/2023 10:23 AM
+BAG:songomin add 122xHoa hồng vàng (old: 121) lydo: Nhặt từ map at 03/11/2023 10:24 AM
+BAG:songomin add 2xNgọc Rồng 4 sao (old: 1) lydo: Nhặt từ map at 03/11/2023 10:25 AM
+BAG:songomin add 123xHoa hồng vàng (old: 122) lydo: Nhặt từ map at 03/11/2023 10:25 AM
+BAG:songomin add 93xHoa hồng đỏ (old: 92) lydo: Nhặt từ map at 03/11/2023 10:32 AM
+BAG:songomin add 124xHoa hồng vàng (old: 123) lydo: Nhặt từ map at 03/11/2023 10:34 AM
+BAG:songomin add 9xHoa hồng xanh (old: 8) lydo: Nhặt từ map at 03/11/2023 10:38 AM
+BAG:songomin add 1xĐá lục bảo lydo: Nhặt từ map at 03/11/2023 10:40 AM
+BAG:songomin add 94xHoa hồng đỏ (old: 93) lydo: Nhặt từ map at 03/11/2023 10:41 AM
+BAG:songomin add 10xHoa hồng xanh (old: 9) lydo: Nhặt từ map at 03/11/2023 10:43 AM
+BAG:songomin add 1xĐá Titan lydo: Nhặt từ map at 03/11/2023 10:48 AM
+BAG:songomin add 11xHoa hồng xanh (old: 10) lydo: Nhặt từ map at 03/11/2023 10:49 AM
+BAG:songomin add 12xHoa hồng xanh (old: 11) lydo: Nhặt từ map at 03/11/2023 10:52 AM
+BAG:songomin add 125xHoa hồng vàng (old: 124) lydo: Nhặt từ map at 03/11/2023 10:52 AM
+BAG:songomin add 95xHoa hồng đỏ (old: 94) lydo: Nhặt từ map at 03/11/2023 10:53 AM
+BAG:songomin add 1xĐá Titan lydo: Nhặt từ map at 03/11/2023 10:53 AM
+BAG:songomin add 96xHoa hồng đỏ (old: 95) lydo: Nhặt từ map at 03/11/2023 10:56 AM
+BAG:songomin add 97xHoa hồng đỏ (old: 96) lydo: Nhặt từ map at 03/11/2023 10:59 AM
+BAG:songomin add 13xHoa hồng xanh (old: 12) lydo: Nhặt từ map at 03/11/2023 11:00 AM
+BAG:songomin add 14xHoa hồng xanh (old: 13) lydo: Nhặt từ map at 03/11/2023 11:00 AM
+BAG:songomin add 98xHoa hồng đỏ (old: 97) lydo: Nhặt từ map at 03/11/2023 11:02 AM
+BAG:songomin add 2xĐá Titan (old: 1) lydo: Nhặt từ map at 03/11/2023 11:03 AM
+BAG:songomin add 126xHoa hồng vàng (old: 125) lydo: Nhặt từ map at 03/11/2023 11:03 AM
+BAG:songomin add 1xĐá thạch anh tím lydo: Nhặt từ map at 03/11/2023 11:04 AM
+BAG:songomin add 127xHoa hồng vàng (old: 126) lydo: Nhặt từ map at 03/11/2023 11:05 AM
+BAG:songomin add 128xHoa hồng vàng (old: 127) lydo: Nhặt từ map at 03/11/2023 11:09 AM
+BAG:songomin add 129xHoa hồng vàng (old: 128) lydo: Nhặt từ map at 03/11/2023 11:10 AM
+BAG:songomin add 130xHoa hồng vàng (old: 129) lydo: Nhặt từ map at 03/11/2023 11:11 AM
+BAG:songomin add 99xHoa hồng đỏ (old: 98) lydo: Nhặt từ map at 03/11/2023 11:35 AM
+BAG:songomin add 15xHoa hồng xanh (old: 14) lydo: Nhặt từ map at 03/11/2023 11:36 AM
+BAG:songomin add 16xHoa hồng xanh (old: 15) lydo: Nhặt từ map at 03/11/2023 11:37 AM
+BAG:songomin add 3xNgọc Rồng 4 sao (old: 2) lydo: Nhặt từ map at 03/11/2023 11:38 AM
+BAG:songomin add 100xHoa hồng đỏ (old: 99) lydo: Nhặt từ map at 03/11/2023 11:38 AM
+BAG:songomin add 4xNgọc Rồng 4 sao (old: 3) lydo: Nhặt từ map at 03/11/2023 11:39 AM
+BAG:songomin add 17xHoa hồng xanh (old: 16) lydo: Nhặt từ map at 03/11/2023 11:39 AM
+BAG:songomin add 101xHoa hồng đỏ (old: 100) lydo: Nhặt từ map at 03/11/2023 11:43 AM
+BAG:songomin add 102xHoa hồng đỏ (old: 101) lydo: Nhặt từ map at 03/11/2023 11:43 AM
+BAG:songomin add 2xĐá thạch anh tím (old: 1) lydo: Nhặt từ map at 03/11/2023 11:49 AM
+BAG:songomin add 18xHoa hồng xanh (old: 17) lydo: Nhặt từ map at 03/11/2023 11:51 AM
+BAG:songomin add 3xĐá thạch anh tím (old: 2) lydo: Nhặt từ map at 03/11/2023 11:52 AM
+BAG:songomin add 19xHoa hồng xanh (old: 18) lydo: Nhặt từ map at 03/11/2023 11:53 AM
+BAG:songomin add 1xĐá Ruby lydo: Nhặt từ map at 03/11/2023 11:54 AM
+BAG:songomin add 103xHoa hồng đỏ (old: 102) lydo: Nhặt từ map at 03/11/2023 11:56 AM
+BAG:songomin add 20xHoa hồng xanh (old: 19) lydo: Nhặt từ map at 03/11/2023 11:57 AM
+BAG:songomin add 131xHoa hồng vàng (old: 130) lydo: Nhặt từ map at 03/11/2023 11:57 AM
+BAG:songomin add 132xHoa hồng vàng (old: 131) lydo: Nhặt từ map at 03/11/2023 11:58 AM
+BAG:songomin add 104xHoa hồng đỏ (old: 103) lydo: Nhặt từ map at 03/11/2023 11:59 AM
+BAG:songomin add 2xĐá Saphia (old: 1) lydo: Nhặt từ map at 03/11/2023 12:00 PM
+BAG:songomin add 2xĐá Ruby (old: 1) lydo: Nhặt từ map at 03/11/2023 12:03 PM
+BAG:songomin add 105xHoa hồng đỏ (old: 104) lydo: Nhặt từ map at 03/11/2023 12:03 PM
+BAG:songomin add 2xĐá lục bảo (old: 1) lydo: Nhặt từ map at 03/11/2023 12:04 PM
+BAG:songomin add 133xHoa hồng vàng (old: 132) lydo: Nhặt từ map at 03/11/2023 12:04 PM
+BAG:songomin add 134xHoa hồng vàng (old: 133) lydo: Nhặt từ map at 03/11/2023 12:06 PM
+BAG:songomin add 4xĐá thạch anh tím (old: 3) lydo: Nhặt từ map at 03/11/2023 12:07 PM
+BAG:songomin add 21xHoa hồng xanh (old: 20) lydo: Nhặt từ map at 03/11/2023 12:10 PM
+BAG:songomin add 106xHoa hồng đỏ (old: 105) lydo: Nhặt từ map at 03/11/2023 12:10 PM
+BAG:songomin add 22xHoa hồng xanh (old: 21) lydo: Nhặt từ map at 03/11/2023 12:12 PM
+BAG:songomin add 23xHoa hồng xanh (old: 22) lydo: Nhặt từ map at 03/11/2023 12:13 PM
+BAG:songomin add 24xHoa hồng xanh (old: 23) lydo: Nhặt từ map at 03/11/2023 12:14 PM
+BAG:songomin add 25xHoa hồng xanh (old: 24) lydo: Nhặt từ map at 03/11/2023 12:15 PM
+BAG:songomin add 135xHoa hồng vàng (old: 134) lydo: Nhặt từ map at 03/11/2023 12:16 PM
+BAG:songomin add 136xHoa hồng vàng (old: 135) lydo: Nhặt từ map at 03/11/2023 12:16 PM
+BAG:songomin add 137xHoa hồng vàng (old: 136) lydo: Nhặt từ map at 03/11/2023 12:17 PM
+BAG:songomin add 26xHoa hồng xanh (old: 25) lydo: Nhặt từ map at 03/11/2023 12:18 PM
+BAG:songomin add 5xĐá thạch anh tím (old: 4) lydo: Nhặt từ map at 03/11/2023 12:19 PM
+BAG:songomin add 138xHoa hồng vàng (old: 137) lydo: Nhặt từ map at 03/11/2023 12:20 PM
+BAG:songomin add 3xĐá Ruby (old: 2) lydo: Nhặt từ map at 03/11/2023 12:20 PM
+BAG:songomin add 1xGiáp tập luyện cấp 1 lydo: Mua từ cửa hàng at 03/11/2023 4:22 PM
+BAG:songomin add 1xQuần vải đen lydo: Lấy từ body đệ vào hành trang at 03/11/2023 4:25 PM
+BAG:songomin add 1xGiầy nhựa lydo: Lấy từ body đệ vào hành trang at 03/11/2023 4:25 PM
+BAG:songomin add 1xRada cấp 1 lydo: Lấy từ body đệ vào hành trang at 03/11/2023 4:25 PM
+BAG:songomin add 1xÁo vải 3 lỗ lydo: Lấy từ body đệ vào hành trang at 03/11/2023 4:34 PM
+BAG:songomin add 1xQuần vải đen lydo: Lấy từ body đệ vào hành trang at 03/11/2023 4:34 PM
+BAG:songomin add 1xGăng vải đen lydo: Lấy từ body đệ vào hành trang at 03/11/2023 4:34 PM
+BAG:songomin add 1xGiầy nhựa lydo: Lấy từ body đệ vào hành trang at 03/11/2023 4:34 PM
+BAG:songomin add 1xRada cấp 1 lydo: Lấy từ body đệ vào hành trang at 03/11/2023 4:34 PM
+BAG:songomin add 1xCải trang Chill cấp 2 lydo: Lấy từ body đệ vào hành trang at 03/11/2023 4:35 PM
+BAG:songomin add 1xGiáp tập luyện cấp 1 lydo: Lấy từ body đệ vào hành trang at 03/11/2023 4:35 PM
+BAG:songomin add 139xHoa hồng vàng (old: 138) lydo: Nhặt từ map at 03/11/2023 4:49 PM
+BAG:songomin add 1xHoa hồng xanh lydo: Nhặt từ map at 03/11/2023 4:59 PM
+BAG:songomin add 1xÁo vải 3 lỗ lydo: Nhặt từ map at 03/11/2023 5:00 PM
+BAG:songomin add 140xHoa hồng vàng (old: 139) lydo: Nhặt từ map at 03/11/2023 5:05 PM
+BAG:songomin add 1xNgọc Rồng 6 sao lydo: Nhặt từ map at 03/11/2023 5:06 PM
+BAG:songomin add 141xHoa hồng vàng (old: 140) lydo: Nhặt từ map at 03/11/2023 5:06 PM
+BAG:songomin add 142xHoa hồng vàng (old: 141) lydo: Nhặt từ map at 03/11/2023 5:06 PM
+BAG:songomin add 143xHoa hồng vàng (old: 142) lydo: Nhặt từ map at 03/11/2023 5:06 PM
+BAG:songomin add 144xHoa hồng vàng (old: 143) lydo: Nhặt từ map at 03/11/2023 5:06 PM
+BAG:songomin add 2xHoa hồng xanh (old: 1) lydo: Nhặt từ map at 03/11/2023 5:06 PM
+BAG:songomin add 1xĐá Titan lydo: Nhặt từ map at 03/11/2023 5:06 PM
+BAG:songomin add 145xHoa hồng vàng (old: 144) lydo: Nhặt từ map at 03/11/2023 5:06 PM
+BAG:songomin add 146xHoa hồng vàng (old: 145) lydo: Nhặt từ map at 03/11/2023 5:07 PM
+BAG:songomin add 107xHoa hồng đỏ (old: 106) lydo: Nhặt từ map at 03/11/2023 5:07 PM
+BAG:songomin add 3xHoa hồng xanh (old: 2) lydo: Nhặt từ map at 03/11/2023 5:07 PM
+BAG:songomin add 108xHoa hồng đỏ (old: 107) lydo: Nhặt từ map at 03/11/2023 5:07 PM
+BAG:songomin add 147xHoa hồng vàng (old: 146) lydo: Nhặt từ map at 03/11/2023 5:07 PM
+BAG:songomin add 1xNgọc Rồng 4 sao lydo: Nhặt từ map at 03/11/2023 5:08 PM
+BAG:songomin add 109xHoa hồng đỏ (old: 108) lydo: Nhặt từ map at 03/11/2023 5:08 PM
+BAG:songomin add 2xNgọc Rồng 6 sao (old: 1) lydo: Nhặt từ map at 03/11/2023 5:08 PM
+BAG:songomin add 1xNgọc Rồng 5 sao lydo: Nhặt từ map at 03/11/2023 5:08 PM
+BAG:songomin add 110xHoa hồng đỏ (old: 109) lydo: Nhặt từ map at 03/11/2023 5:08 PM
+BAG:songomin add 148xHoa hồng vàng (old: 147) lydo: Nhặt từ map at 03/11/2023 5:08 PM
+BAG:songomin add 1xĐá thạch anh tím lydo: Nhặt từ map at 03/11/2023 5:08 PM
+BAG:songomin add 4xHoa hồng xanh (old: 3) lydo: Nhặt từ map at 03/11/2023 5:09 PM
+BAG:songomin add 149xHoa hồng vàng (old: 148) lydo: Nhặt từ map at 03/11/2023 5:09 PM
+BAG:songomin add 1xĐá Saphia lydo: Nhặt từ map at 03/11/2023 5:09 PM
+BAG:songomin add 1xÁo vải 3 lỗ lydo: Lấy từ body đệ vào hành trang at 03/11/2023 7:34 PM
+BAG:songomin add 1xQuần vải đen lydo: Lấy từ body đệ vào hành trang at 03/11/2023 7:34 PM
+BAG:songomin add 1xGăng vải đen lydo: Lấy từ body đệ vào hành trang at 03/11/2023 7:34 PM
+BAG:songomin add 1xGiầy nhựa lydo: Lấy từ body đệ vào hành trang at 03/11/2023 7:34 PM
+BAG:songomin add 1xRada cấp 1 lydo: Lấy từ body đệ vào hành trang at 03/11/2023 7:34 PM
+BAG:songomin add 1xCải trang Chill cấp 2 lydo: Lấy từ body đệ vào hành trang at 03/11/2023 7:34 PM
+BAG:songomin add 1xGiáp tập luyện cấp 1 lydo: Lấy từ body đệ vào hành trang at 03/11/2023 7:34 PM
+BAG:songomin add 1xCải Trang Glaxy lydo: Mở thành viên at 03/11/2023 9:15 PM
+BAG:songomin add 1xĐá lục bảo lydo: Nhặt từ map at 03/11/2023 9:16 PM
+BAG:songomin add 1xQuần vải đen lydo: Nhặt từ map at 03/11/2023 9:18 PM
+BAG:songomin add 30xNgọc Rồng 3 sao lydo: Lấy từ rương qua người at 03/11/2023 9:32 PM

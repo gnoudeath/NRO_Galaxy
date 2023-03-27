@@ -1,0 +1,11 @@
+BAG:supernamec add 4xHoa hồng vàng (old: 3) lydo: Nhặt từ map at 03/13/2023 12:03 AM
+BAG:supernamec add 5xHoa hồng xanh (old: 4) lydo: Nhặt từ map at 03/13/2023 12:03 AM
+BAG:supernamec add 1xNâng cấp kỹ năng 2 đệ tử lydo: Mua từ cửa hàng at 03/13/2023 12:03 AM
+BAG:supernamec add 2xNâng cấp kỹ năng 2 đệ tử (old: 1) lydo: Mua từ cửa hàng at 03/13/2023 12:03 AM
+BAG:supernamec add 3xNâng cấp kỹ năng 2 đệ tử (old: 2) lydo: Mua từ cửa hàng at 03/13/2023 12:03 AM
+BAG:supernamec add 4xNâng cấp kỹ năng 2 đệ tử (old: 3) lydo: Mua từ cửa hàng at 03/13/2023 12:03 AM
+BAG:supernamec add 5xNâng cấp kỹ năng 2 đệ tử (old: 4) lydo: Mua từ cửa hàng at 03/13/2023 12:04 AM
+BAG:supernamec add 6xNâng cấp kỹ năng 2 đệ tử (old: 5) lydo: Mua từ cửa hàng at 03/13/2023 12:04 AM
+BAG:supernamec add 7xNâng cấp kỹ năng 2 đệ tử (old: 6) lydo: Mua từ cửa hàng at 03/13/2023 12:04 AM
+BAG:supernamec add 8xNâng cấp kỹ năng 2 đệ tử (old: 7) lydo: Mua từ cửa hàng at 03/13/2023 12:04 AM
+BAG:supernamec add 1xCT Genma 01 lydo: Lấy từ body vào hành trang at 03/13/2023 12:04 AM

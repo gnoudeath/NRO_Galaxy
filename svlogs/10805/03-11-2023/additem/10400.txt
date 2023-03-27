@@ -1,0 +1,686 @@
+BAG:calick add 1xGiáp tập luyện cấp 3 lydo: Lấy từ body vào hành trang at 03/11/2023 9:53 AM
+BAG:calick add 3090xHoa hồng vàng (old: 3089) lydo: Nhặt từ map at 03/11/2023 9:55 AM
+BAG:calick add 3091xHoa hồng vàng (old: 3090) lydo: Nhặt từ map at 03/11/2023 9:56 AM
+BAG:calick add 3092xHoa hồng vàng (old: 3091) lydo: Nhặt từ map at 03/11/2023 9:57 AM
+BAG:calick add 2399xHoa hồng xanh (old: 2398) lydo: Nhặt từ map at 03/11/2023 9:57 AM
+BAG:calick add 3093xHoa hồng vàng (old: 3092) lydo: Nhặt từ map at 03/11/2023 9:57 AM
+BAG:calick add 2400xHoa hồng xanh (old: 2399) lydo: Nhặt từ map at 03/11/2023 9:57 AM
+BAG:calick add 3094xHoa hồng vàng (old: 3093) lydo: Nhặt từ map at 03/11/2023 9:57 AM
+BAG:calick add 3095xHoa hồng vàng (old: 3094) lydo: Nhặt từ map at 03/11/2023 9:57 AM
+BAG:calick add 6xĐá Ruby (old: 5) lydo: Nhặt từ map at 03/11/2023 9:57 AM
+BAG:calick add 3096xHoa hồng vàng (old: 3095) lydo: Nhặt từ map at 03/11/2023 9:58 AM
+BAG:calick add 12xĐá lục bảo (old: 11) lydo: Nhặt từ map at 03/11/2023 9:58 AM
+BAG:calick add 3097xHoa hồng vàng (old: 3096) lydo: Nhặt từ map at 03/11/2023 9:58 AM
+BAG:calick add 2401xHoa hồng xanh (old: 2400) lydo: Nhặt từ map at 03/11/2023 9:58 AM
+BAG:calick add 9xĐá Titan (old: 8) lydo: Nhặt từ map at 03/11/2023 9:58 AM
+BAG:calick add 2424xHoa hồng đỏ (old: 2423) lydo: Nhặt từ map at 03/11/2023 9:58 AM
+BAG:calick add 3098xHoa hồng vàng (old: 3097) lydo: Nhặt từ map at 03/11/2023 9:58 AM
+BAG:calick add 2402xHoa hồng xanh (old: 2401) lydo: Nhặt từ map at 03/11/2023 9:59 AM
+BAG:calick add 10xNgọc Rồng 4 sao (old: 9) lydo: Nhặt từ map at 03/11/2023 9:59 AM
+BAG:calick add 10xĐá Titan (old: 9) lydo: Nhặt từ map at 03/11/2023 9:59 AM
+BAG:calick add 2403xHoa hồng xanh (old: 2402) lydo: Nhặt từ map at 03/11/2023 9:59 AM
+BAG:calick add 2425xHoa hồng đỏ (old: 2424) lydo: Nhặt từ map at 03/11/2023 10:01 AM
+BAG:calick add 1xGiáp tập luyện cấp 3 lydo: Lấy từ body vào hành trang at 03/11/2023 10:01 AM
+BAG:calick add 1xGiáp tập luyện cấp 3 lydo: Lấy từ body vào hành trang at 03/11/2023 10:04 AM
+BAG:calick add 1xGiáp tập luyện cấp 3 lydo: Lấy từ body vào hành trang at 03/11/2023 10:06 AM
+BAG:calick add 1xGiáp tập luyện cấp 3 lydo: Lấy từ body vào hành trang at 03/11/2023 10:09 AM
+BAG:calick add 89xThỏi vàng (old: 88) lydo: Nhặt từ map at 03/11/2023 10:10 AM
+BAG:calick add 8xNgọc Rồng 3 sao (old: 7) lydo: Nhặt từ map at 03/11/2023 10:10 AM
+BAG:calick add 1xMáy dò Capsule kì bí lydo: Mua từ cửa hàng at 03/11/2023 10:15 AM
+BAG:calick add 2xMáy dò Capsule kì bí (old: 1) lydo: Mua từ cửa hàng at 03/11/2023 10:15 AM
+BAG:calick add 1xViên Capsule kì bí lydo: Nhặt từ map at 03/11/2023 10:15 AM
+BAG:calick add 2426xHoa hồng đỏ (old: 2425) lydo: Nhặt từ map at 03/11/2023 10:15 AM
+BAG:calick add 3099xHoa hồng vàng (old: 3098) lydo: Nhặt từ map at 03/11/2023 10:15 AM
+BAG:calick add 2427xHoa hồng đỏ (old: 2426) lydo: Nhặt từ map at 03/11/2023 10:15 AM
+BAG:calick add 3100xHoa hồng vàng (old: 3099) lydo: Nhặt từ map at 03/11/2023 10:15 AM
+BAG:calick add 3101xHoa hồng vàng (old: 3100) lydo: Nhặt từ map at 03/11/2023 10:15 AM
+BAG:calick add 3102xHoa hồng vàng (old: 3101) lydo: Nhặt từ map at 03/11/2023 10:15 AM
+BAG:calick add 2xViên Capsule kì bí (old: 1) lydo: Nhặt từ map at 03/11/2023 10:15 AM
+BAG:calick add 2428xHoa hồng đỏ (old: 2427) lydo: Nhặt từ map at 03/11/2023 10:15 AM
+BAG:calick add 3xViên Capsule kì bí (old: 2) lydo: Nhặt từ map at 03/11/2023 10:16 AM
+BAG:calick add 4xViên Capsule kì bí (old: 3) lydo: Nhặt từ map at 03/11/2023 10:16 AM
+BAG:calick add 5xViên Capsule kì bí (old: 4) lydo: Nhặt từ map at 03/11/2023 10:16 AM
+BAG:calick add 2404xHoa hồng xanh (old: 2403) lydo: Nhặt từ map at 03/11/2023 10:16 AM
+BAG:calick add 7xĐá Ruby (old: 6) lydo: Nhặt từ map at 03/11/2023 10:16 AM
+BAG:calick add 2429xHoa hồng đỏ (old: 2428) lydo: Nhặt từ map at 03/11/2023 10:16 AM
+BAG:calick add 2430xHoa hồng đỏ (old: 2429) lydo: Nhặt từ map at 03/11/2023 10:16 AM
+BAG:calick add 2431xHoa hồng đỏ (old: 2430) lydo: Nhặt từ map at 03/11/2023 10:16 AM
+BAG:calick add 6xViên Capsule kì bí (old: 5) lydo: Nhặt từ map at 03/11/2023 10:16 AM
+BAG:calick add 2432xHoa hồng đỏ (old: 2431) lydo: Nhặt từ map at 03/11/2023 10:16 AM
+BAG:calick add 3103xHoa hồng vàng (old: 3102) lydo: Nhặt từ map at 03/11/2023 10:16 AM
+BAG:calick add 3104xHoa hồng vàng (old: 3103) lydo: Nhặt từ map at 03/11/2023 10:16 AM
+BAG:calick add 36xNgọc Rồng 5 sao (old: 35) lydo: Nhặt từ map at 03/11/2023 10:16 AM
+BAG:calick add 3105xHoa hồng vàng (old: 3104) lydo: Nhặt từ map at 03/11/2023 10:16 AM
+BAG:calick add 3106xHoa hồng vàng (old: 3105) lydo: Nhặt từ map at 03/11/2023 10:16 AM
+BAG:calick add 2433xHoa hồng đỏ (old: 2432) lydo: Nhặt từ map at 03/11/2023 10:16 AM
+BAG:calick add 85xĐá thạch anh tím (old: 84) lydo: Nhặt từ map at 03/11/2023 10:16 AM
+BAG:calick add 3107xHoa hồng vàng (old: 3106) lydo: Nhặt từ map at 03/11/2023 10:16 AM
+BAG:calick add 2405xHoa hồng xanh (old: 2404) lydo: Nhặt từ map at 03/11/2023 10:16 AM
+BAG:calick add 7xViên Capsule kì bí (old: 6) lydo: Nhặt từ map at 03/11/2023 10:16 AM
+BAG:calick add 8xViên Capsule kì bí (old: 7) lydo: Nhặt từ map at 03/11/2023 10:24 AM
+BAG:calick add 2434xHoa hồng đỏ (old: 2433) lydo: Nhặt từ map at 03/11/2023 10:24 AM
+BAG:calick add 3108xHoa hồng vàng (old: 3107) lydo: Nhặt từ map at 03/11/2023 10:24 AM
+BAG:calick add 9xViên Capsule kì bí (old: 8) lydo: Nhặt từ map at 03/11/2023 10:24 AM
+BAG:calick add 10xViên Capsule kì bí (old: 9) lydo: Nhặt từ map at 03/11/2023 10:24 AM
+BAG:calick add 11xViên Capsule kì bí (old: 10) lydo: Nhặt từ map at 03/11/2023 10:24 AM
+BAG:calick add 11xNgọc Rồng 4 sao (old: 10) lydo: Nhặt từ map at 03/11/2023 10:24 AM
+BAG:calick add 8xĐá Ruby (old: 7) lydo: Nhặt từ map at 03/11/2023 10:24 AM
+BAG:calick add 2435xHoa hồng đỏ (old: 2434) lydo: Nhặt từ map at 03/11/2023 10:24 AM
+BAG:calick add 12xViên Capsule kì bí (old: 11) lydo: Nhặt từ map at 03/11/2023 10:24 AM
+BAG:calick add 13xViên Capsule kì bí (old: 12) lydo: Nhặt từ map at 03/11/2023 10:24 AM
+BAG:calick add 14xViên Capsule kì bí (old: 13) lydo: Nhặt từ map at 03/11/2023 10:24 AM
+BAG:calick add 15xViên Capsule kì bí (old: 14) lydo: Nhặt từ map at 03/11/2023 10:25 AM
+BAG:calick add 3109xHoa hồng vàng (old: 3108) lydo: Nhặt từ map at 03/11/2023 10:25 AM
+BAG:calick add 16xViên Capsule kì bí (old: 15) lydo: Nhặt từ map at 03/11/2023 10:25 AM
+BAG:calick add 17xViên Capsule kì bí (old: 16) lydo: Nhặt từ map at 03/11/2023 10:25 AM
+BAG:calick add 3110xHoa hồng vàng (old: 3109) lydo: Nhặt từ map at 03/11/2023 10:25 AM
+BAG:calick add 3111xHoa hồng vàng (old: 3110) lydo: Nhặt từ map at 03/11/2023 10:25 AM
+BAG:calick add 18xViên Capsule kì bí (old: 17) lydo: Nhặt từ map at 03/11/2023 10:25 AM
+BAG:calick add 19xViên Capsule kì bí (old: 18) lydo: Nhặt từ map at 03/11/2023 10:25 AM
+BAG:calick add 3112xHoa hồng vàng (old: 3111) lydo: Nhặt từ map at 03/11/2023 10:25 AM
+BAG:calick add 12xNgọc Rồng 4 sao (old: 11) lydo: Nhặt từ map at 03/11/2023 10:25 AM
+BAG:calick add 2436xHoa hồng đỏ (old: 2435) lydo: Nhặt từ map at 03/11/2023 10:25 AM
+BAG:calick add 20xViên Capsule kì bí (old: 19) lydo: Nhặt từ map at 03/11/2023 10:25 AM
+BAG:calick add 2437xHoa hồng đỏ (old: 2436) lydo: Nhặt từ map at 03/11/2023 10:25 AM
+BAG:calick add 2406xHoa hồng xanh (old: 2405) lydo: Nhặt từ map at 03/11/2023 10:25 AM
+BAG:calick add 21xViên Capsule kì bí (old: 20) lydo: Nhặt từ map at 03/11/2023 10:25 AM
+BAG:calick add 3113xHoa hồng vàng (old: 3112) lydo: Nhặt từ map at 03/11/2023 10:25 AM
+BAG:calick add 22xViên Capsule kì bí (old: 21) lydo: Nhặt từ map at 03/11/2023 10:26 AM
+BAG:calick add 2407xHoa hồng xanh (old: 2406) lydo: Nhặt từ map at 03/11/2023 10:26 AM
+BAG:calick add 3114xHoa hồng vàng (old: 3113) lydo: Nhặt từ map at 03/11/2023 10:26 AM
+BAG:calick add 23xViên Capsule kì bí (old: 22) lydo: Nhặt từ map at 03/11/2023 10:26 AM
+BAG:calick add 2438xHoa hồng đỏ (old: 2437) lydo: Nhặt từ map at 03/11/2023 10:26 AM
+BAG:calick add 24xViên Capsule kì bí (old: 23) lydo: Nhặt từ map at 03/11/2023 10:26 AM
+BAG:calick add 3115xHoa hồng vàng (old: 3114) lydo: Nhặt từ map at 03/11/2023 10:26 AM
+BAG:calick add 25xViên Capsule kì bí (old: 24) lydo: Nhặt từ map at 03/11/2023 10:26 AM
+BAG:calick add 2439xHoa hồng đỏ (old: 2438) lydo: Nhặt từ map at 03/11/2023 10:26 AM
+BAG:calick add 2408xHoa hồng xanh (old: 2407) lydo: Nhặt từ map at 03/11/2023 10:26 AM
+BAG:calick add 2409xHoa hồng xanh (old: 2408) lydo: Nhặt từ map at 03/11/2023 10:26 AM
+BAG:calick add 26xViên Capsule kì bí (old: 25) lydo: Nhặt từ map at 03/11/2023 10:26 AM
+BAG:calick add 27xViên Capsule kì bí (old: 26) lydo: Nhặt từ map at 03/11/2023 10:26 AM
+BAG:calick add 28xViên Capsule kì bí (old: 27) lydo: Nhặt từ map at 03/11/2023 10:26 AM
+BAG:calick add 2410xHoa hồng xanh (old: 2409) lydo: Nhặt từ map at 03/11/2023 10:27 AM
+BAG:calick add 2440xHoa hồng đỏ (old: 2439) lydo: Nhặt từ map at 03/11/2023 10:27 AM
+BAG:calick add 2441xHoa hồng đỏ (old: 2440) lydo: Nhặt từ map at 03/11/2023 10:27 AM
+BAG:calick add 13xĐá lục bảo (old: 12) lydo: Nhặt từ map at 03/11/2023 10:27 AM
+BAG:calick add 3116xHoa hồng vàng (old: 3115) lydo: Nhặt từ map at 03/11/2023 10:27 AM
+BAG:calick add 2411xHoa hồng xanh (old: 2410) lydo: Nhặt từ map at 03/11/2023 10:27 AM
+BAG:calick add 2412xHoa hồng xanh (old: 2411) lydo: Nhặt từ map at 03/11/2023 10:27 AM
+BAG:calick add 29xViên Capsule kì bí (old: 28) lydo: Nhặt từ map at 03/11/2023 10:27 AM
+BAG:calick add 11xĐá Titan (old: 10) lydo: Nhặt từ map at 03/11/2023 10:27 AM
+BAG:calick add 30xViên Capsule kì bí (old: 29) lydo: Nhặt từ map at 03/11/2023 10:28 AM
+BAG:calick add 2442xHoa hồng đỏ (old: 2441) lydo: Nhặt từ map at 03/11/2023 10:28 AM
+BAG:calick add 2413xHoa hồng xanh (old: 2412) lydo: Nhặt từ map at 03/11/2023 10:28 AM
+BAG:calick add 31xViên Capsule kì bí (old: 30) lydo: Nhặt từ map at 03/11/2023 10:28 AM
+BAG:calick add 2443xHoa hồng đỏ (old: 2442) lydo: Nhặt từ map at 03/11/2023 10:28 AM
+BAG:calick add 32xViên Capsule kì bí (old: 31) lydo: Nhặt từ map at 03/11/2023 10:28 AM
+BAG:calick add 2414xHoa hồng xanh (old: 2413) lydo: Nhặt từ map at 03/11/2023 10:28 AM
+BAG:calick add 3117xHoa hồng vàng (old: 3116) lydo: Nhặt từ map at 03/11/2023 10:28 AM
+BAG:calick add 33xViên Capsule kì bí (old: 32) lydo: Nhặt từ map at 03/11/2023 10:28 AM
+BAG:calick add 2415xHoa hồng xanh (old: 2414) lydo: Nhặt từ map at 03/11/2023 10:28 AM
+BAG:calick add 34xViên Capsule kì bí (old: 33) lydo: Nhặt từ map at 03/11/2023 10:28 AM
+BAG:calick add 35xViên Capsule kì bí (old: 34) lydo: Nhặt từ map at 03/11/2023 10:29 AM
+BAG:calick add 2444xHoa hồng đỏ (old: 2443) lydo: Nhặt từ map at 03/11/2023 10:29 AM
+BAG:calick add 36xViên Capsule kì bí (old: 35) lydo: Nhặt từ map at 03/11/2023 10:29 AM
+BAG:calick add 2445xHoa hồng đỏ (old: 2444) lydo: Nhặt từ map at 03/11/2023 10:29 AM
+BAG:calick add 3118xHoa hồng vàng (old: 3117) lydo: Nhặt từ map at 03/11/2023 10:29 AM
+BAG:calick add 37xViên Capsule kì bí (old: 36) lydo: Nhặt từ map at 03/11/2023 10:29 AM
+BAG:calick add 38xViên Capsule kì bí (old: 37) lydo: Nhặt từ map at 03/11/2023 10:29 AM
+BAG:calick add 86xĐá thạch anh tím (old: 85) lydo: Nhặt từ map at 03/11/2023 10:29 AM
+BAG:calick add 2416xHoa hồng xanh (old: 2415) lydo: Nhặt từ map at 03/11/2023 10:29 AM
+BAG:calick add 39xViên Capsule kì bí (old: 38) lydo: Nhặt từ map at 03/11/2023 10:29 AM
+BAG:calick add 2417xHoa hồng xanh (old: 2416) lydo: Nhặt từ map at 03/11/2023 10:29 AM
+BAG:calick add 2446xHoa hồng đỏ (old: 2445) lydo: Nhặt từ map at 03/11/2023 10:29 AM
+BAG:calick add 40xViên Capsule kì bí (old: 39) lydo: Nhặt từ map at 03/11/2023 10:30 AM
+BAG:calick add 41xViên Capsule kì bí (old: 40) lydo: Nhặt từ map at 03/11/2023 10:30 AM
+BAG:calick add 42xViên Capsule kì bí (old: 41) lydo: Nhặt từ map at 03/11/2023 10:30 AM
+BAG:calick add 43xViên Capsule kì bí (old: 42) lydo: Nhặt từ map at 03/11/2023 10:30 AM
+BAG:calick add 3119xHoa hồng vàng (old: 3118) lydo: Nhặt từ map at 03/11/2023 10:30 AM
+BAG:calick add 2418xHoa hồng xanh (old: 2417) lydo: Nhặt từ map at 03/11/2023 10:30 AM
+BAG:calick add 2447xHoa hồng đỏ (old: 2446) lydo: Nhặt từ map at 03/11/2023 10:30 AM
+BAG:calick add 2419xHoa hồng xanh (old: 2418) lydo: Nhặt từ map at 03/11/2023 10:30 AM
+BAG:calick add 3120xHoa hồng vàng (old: 3119) lydo: Nhặt từ map at 03/11/2023 10:30 AM
+BAG:calick add 13xNgọc Rồng 4 sao (old: 12) lydo: Nhặt từ map at 03/11/2023 10:30 AM
+BAG:calick add 44xViên Capsule kì bí (old: 43) lydo: Nhặt từ map at 03/11/2023 10:30 AM
+BAG:calick add 45xViên Capsule kì bí (old: 44) lydo: Nhặt từ map at 03/11/2023 10:30 AM
+BAG:calick add 14xNgọc Rồng 4 sao (old: 13) lydo: Nhặt từ map at 03/11/2023 10:30 AM
+BAG:calick add 46xViên Capsule kì bí (old: 45) lydo: Nhặt từ map at 03/11/2023 10:30 AM
+BAG:calick add 14xĐá lục bảo (old: 13) lydo: Nhặt từ map at 03/11/2023 10:30 AM
+BAG:calick add 2448xHoa hồng đỏ (old: 2447) lydo: Nhặt từ map at 03/11/2023 10:31 AM
+BAG:calick add 2449xHoa hồng đỏ (old: 2448) lydo: Nhặt từ map at 03/11/2023 10:31 AM
+BAG:calick add 2450xHoa hồng đỏ (old: 2449) lydo: Nhặt từ map at 03/11/2023 10:31 AM
+BAG:calick add 87xĐá thạch anh tím (old: 86) lydo: Nhặt từ map at 03/11/2023 10:31 AM
+BAG:calick add 15xNgọc Rồng 4 sao (old: 14) lydo: Nhặt từ map at 03/11/2023 10:31 AM
+BAG:calick add 47xViên Capsule kì bí (old: 46) lydo: Nhặt từ map at 03/11/2023 10:31 AM
+BAG:calick add 2451xHoa hồng đỏ (old: 2450) lydo: Nhặt từ map at 03/11/2023 10:31 AM
+BAG:calick add 2420xHoa hồng xanh (old: 2419) lydo: Nhặt từ map at 03/11/2023 10:31 AM
+BAG:calick add 48xViên Capsule kì bí (old: 47) lydo: Nhặt từ map at 03/11/2023 10:31 AM
+BAG:calick add 8xĐá Saphia (old: 7) lydo: Nhặt từ map at 03/11/2023 10:31 AM
+BAG:calick add 2452xHoa hồng đỏ (old: 2451) lydo: Nhặt từ map at 03/11/2023 10:32 AM
+BAG:calick add 49xViên Capsule kì bí (old: 48) lydo: Nhặt từ map at 03/11/2023 10:32 AM
+BAG:calick add 3121xHoa hồng vàng (old: 3120) lydo: Nhặt từ map at 03/11/2023 10:32 AM
+BAG:calick add 50xViên Capsule kì bí (old: 49) lydo: Nhặt từ map at 03/11/2023 10:32 AM
+BAG:calick add 51xViên Capsule kì bí (old: 50) lydo: Nhặt từ map at 03/11/2023 10:32 AM
+BAG:calick add 52xViên Capsule kì bí (old: 51) lydo: Nhặt từ map at 03/11/2023 10:32 AM
+BAG:calick add 53xViên Capsule kì bí (old: 52) lydo: Nhặt từ map at 03/11/2023 10:32 AM
+BAG:calick add 2453xHoa hồng đỏ (old: 2452) lydo: Nhặt từ map at 03/11/2023 10:32 AM
+BAG:calick add 54xViên Capsule kì bí (old: 53) lydo: Nhặt từ map at 03/11/2023 10:32 AM
+BAG:calick add 55xViên Capsule kì bí (old: 54) lydo: Nhặt từ map at 03/11/2023 10:32 AM
+BAG:calick add 2454xHoa hồng đỏ (old: 2453) lydo: Nhặt từ map at 03/11/2023 10:33 AM
+BAG:calick add 2421xHoa hồng xanh (old: 2420) lydo: Nhặt từ map at 03/11/2023 10:33 AM
+BAG:calick add 3122xHoa hồng vàng (old: 3121) lydo: Nhặt từ map at 03/11/2023 10:33 AM
+BAG:calick add 9xĐá Ruby (old: 8) lydo: Nhặt từ map at 03/11/2023 10:33 AM
+BAG:calick add 56xViên Capsule kì bí (old: 55) lydo: Nhặt từ map at 03/11/2023 10:33 AM
+BAG:calick add 12xĐá Titan (old: 11) lydo: Nhặt từ map at 03/11/2023 10:33 AM
+BAG:calick add 57xViên Capsule kì bí (old: 56) lydo: Nhặt từ map at 03/11/2023 10:33 AM
+BAG:calick add 2455xHoa hồng đỏ (old: 2454) lydo: Nhặt từ map at 03/11/2023 10:33 AM
+BAG:calick add 58xViên Capsule kì bí (old: 57) lydo: Nhặt từ map at 03/11/2023 10:33 AM
+BAG:calick add 59xViên Capsule kì bí (old: 58) lydo: Nhặt từ map at 03/11/2023 10:33 AM
+BAG:calick add 2456xHoa hồng đỏ (old: 2455) lydo: Nhặt từ map at 03/11/2023 10:33 AM
+BAG:calick add 60xViên Capsule kì bí (old: 59) lydo: Nhặt từ map at 03/11/2023 10:33 AM
+BAG:calick add 3123xHoa hồng vàng (old: 3122) lydo: Nhặt từ map at 03/11/2023 10:33 AM
+BAG:calick add 3124xHoa hồng vàng (old: 3123) lydo: Nhặt từ map at 03/11/2023 10:34 AM
+BAG:calick add 61xViên Capsule kì bí (old: 60) lydo: Nhặt từ map at 03/11/2023 10:34 AM
+BAG:calick add 62xViên Capsule kì bí (old: 61) lydo: Nhặt từ map at 03/11/2023 10:34 AM
+BAG:calick add 3125xHoa hồng vàng (old: 3124) lydo: Nhặt từ map at 03/11/2023 10:34 AM
+BAG:calick add 63xViên Capsule kì bí (old: 62) lydo: Nhặt từ map at 03/11/2023 10:34 AM
+BAG:calick add 64xViên Capsule kì bí (old: 63) lydo: Nhặt từ map at 03/11/2023 10:34 AM
+BAG:calick add 65xViên Capsule kì bí (old: 64) lydo: Nhặt từ map at 03/11/2023 10:34 AM
+BAG:calick add 2457xHoa hồng đỏ (old: 2456) lydo: Nhặt từ map at 03/11/2023 10:34 AM
+BAG:calick add 66xViên Capsule kì bí (old: 65) lydo: Nhặt từ map at 03/11/2023 10:34 AM
+BAG:calick add 3126xHoa hồng vàng (old: 3125) lydo: Nhặt từ map at 03/11/2023 10:34 AM
+BAG:calick add 2458xHoa hồng đỏ (old: 2457) lydo: Nhặt từ map at 03/11/2023 10:34 AM
+BAG:calick add 3127xHoa hồng vàng (old: 3126) lydo: Nhặt từ map at 03/11/2023 10:34 AM
+BAG:calick add 37xNgọc Rồng 5 sao (old: 36) lydo: Nhặt từ map at 03/11/2023 10:35 AM
+BAG:calick add 2422xHoa hồng xanh (old: 2421) lydo: Nhặt từ map at 03/11/2023 10:35 AM
+BAG:calick add 2459xHoa hồng đỏ (old: 2458) lydo: Nhặt từ map at 03/11/2023 10:35 AM
+BAG:calick add 67xViên Capsule kì bí (old: 66) lydo: Nhặt từ map at 03/11/2023 10:35 AM
+BAG:calick add 13xĐá Titan (old: 12) lydo: Nhặt từ map at 03/11/2023 10:35 AM
+BAG:calick add 68xViên Capsule kì bí (old: 67) lydo: Nhặt từ map at 03/11/2023 10:35 AM
+BAG:calick add 69xViên Capsule kì bí (old: 68) lydo: Nhặt từ map at 03/11/2023 10:35 AM
+BAG:calick add 2423xHoa hồng xanh (old: 2422) lydo: Nhặt từ map at 03/11/2023 10:35 AM
+BAG:calick add 3128xHoa hồng vàng (old: 3127) lydo: Nhặt từ map at 03/11/2023 10:35 AM
+BAG:calick add 70xViên Capsule kì bí (old: 69) lydo: Nhặt từ map at 03/11/2023 10:35 AM
+BAG:calick add 71xViên Capsule kì bí (old: 70) lydo: Nhặt từ map at 03/11/2023 10:35 AM
+BAG:calick add 2424xHoa hồng xanh (old: 2423) lydo: Nhặt từ map at 03/11/2023 10:35 AM
+BAG:calick add 72xViên Capsule kì bí (old: 71) lydo: Nhặt từ map at 03/11/2023 10:35 AM
+BAG:calick add 2460xHoa hồng đỏ (old: 2459) lydo: Nhặt từ map at 03/11/2023 10:35 AM
+BAG:calick add 3129xHoa hồng vàng (old: 3128) lydo: Nhặt từ map at 03/11/2023 10:36 AM
+BAG:calick add 3130xHoa hồng vàng (old: 3129) lydo: Nhặt từ map at 03/11/2023 10:36 AM
+BAG:calick add 2461xHoa hồng đỏ (old: 2460) lydo: Nhặt từ map at 03/11/2023 10:36 AM
+BAG:calick add 73xViên Capsule kì bí (old: 72) lydo: Nhặt từ map at 03/11/2023 10:36 AM
+BAG:calick add 2462xHoa hồng đỏ (old: 2461) lydo: Nhặt từ map at 03/11/2023 10:36 AM
+BAG:calick add 2425xHoa hồng xanh (old: 2424) lydo: Nhặt từ map at 03/11/2023 10:36 AM
+BAG:calick add 74xViên Capsule kì bí (old: 73) lydo: Nhặt từ map at 03/11/2023 10:36 AM
+BAG:calick add 3131xHoa hồng vàng (old: 3130) lydo: Nhặt từ map at 03/11/2023 10:36 AM
+BAG:calick add 2463xHoa hồng đỏ (old: 2462) lydo: Nhặt từ map at 03/11/2023 10:36 AM
+BAG:calick add 75xViên Capsule kì bí (old: 74) lydo: Nhặt từ map at 03/11/2023 10:36 AM
+BAG:calick add 2426xHoa hồng xanh (old: 2425) lydo: Nhặt từ map at 03/11/2023 10:37 AM
+BAG:calick add 3132xHoa hồng vàng (old: 3131) lydo: Nhặt từ map at 03/11/2023 10:37 AM
+BAG:calick add 3133xHoa hồng vàng (old: 3132) lydo: Nhặt từ map at 03/11/2023 10:37 AM
+BAG:calick add 3134xHoa hồng vàng (old: 3133) lydo: Nhặt từ map at 03/11/2023 10:37 AM
+BAG:calick add 76xViên Capsule kì bí (old: 75) lydo: Nhặt từ map at 03/11/2023 10:37 AM
+BAG:calick add 77xViên Capsule kì bí (old: 76) lydo: Nhặt từ map at 03/11/2023 10:37 AM
+BAG:calick add 78xViên Capsule kì bí (old: 77) lydo: Nhặt từ map at 03/11/2023 10:37 AM
+BAG:calick add 3135xHoa hồng vàng (old: 3134) lydo: Nhặt từ map at 03/11/2023 10:37 AM
+BAG:calick add 9xĐá Saphia (old: 8) lydo: Nhặt từ map at 03/11/2023 10:37 AM
+BAG:calick add 79xViên Capsule kì bí (old: 78) lydo: Nhặt từ map at 03/11/2023 10:38 AM
+BAG:calick add 80xViên Capsule kì bí (old: 79) lydo: Nhặt từ map at 03/11/2023 10:38 AM
+BAG:calick add 81xViên Capsule kì bí (old: 80) lydo: Nhặt từ map at 03/11/2023 10:38 AM
+BAG:calick add 2464xHoa hồng đỏ (old: 2463) lydo: Nhặt từ map at 03/11/2023 10:38 AM
+BAG:calick add 3136xHoa hồng vàng (old: 3135) lydo: Nhặt từ map at 03/11/2023 10:38 AM
+BAG:calick add 2465xHoa hồng đỏ (old: 2464) lydo: Nhặt từ map at 03/11/2023 10:38 AM
+BAG:calick add 82xViên Capsule kì bí (old: 81) lydo: Nhặt từ map at 03/11/2023 10:38 AM
+BAG:calick add 83xViên Capsule kì bí (old: 82) lydo: Nhặt từ map at 03/11/2023 10:38 AM
+BAG:calick add 2466xHoa hồng đỏ (old: 2465) lydo: Nhặt từ map at 03/11/2023 10:39 AM
+BAG:calick add 84xViên Capsule kì bí (old: 83) lydo: Nhặt từ map at 03/11/2023 10:39 AM
+BAG:calick add 2427xHoa hồng xanh (old: 2426) lydo: Nhặt từ map at 03/11/2023 10:39 AM
+BAG:calick add 3137xHoa hồng vàng (old: 3136) lydo: Nhặt từ map at 03/11/2023 10:39 AM
+BAG:calick add 85xViên Capsule kì bí (old: 84) lydo: Nhặt từ map at 03/11/2023 10:39 AM
+BAG:calick add 3138xHoa hồng vàng (old: 3137) lydo: Nhặt từ map at 03/11/2023 10:39 AM
+BAG:calick add 2467xHoa hồng đỏ (old: 2466) lydo: Nhặt từ map at 03/11/2023 10:39 AM
+BAG:calick add 3139xHoa hồng vàng (old: 3138) lydo: Nhặt từ map at 03/11/2023 10:39 AM
+BAG:calick add 86xViên Capsule kì bí (old: 85) lydo: Nhặt từ map at 03/11/2023 10:39 AM
+BAG:calick add 2468xHoa hồng đỏ (old: 2467) lydo: Nhặt từ map at 03/11/2023 10:39 AM
+BAG:calick add 87xViên Capsule kì bí (old: 86) lydo: Nhặt từ map at 03/11/2023 10:40 AM
+BAG:calick add 88xViên Capsule kì bí (old: 87) lydo: Nhặt từ map at 03/11/2023 10:40 AM
+BAG:calick add 2469xHoa hồng đỏ (old: 2468) lydo: Nhặt từ map at 03/11/2023 10:40 AM
+BAG:calick add 2428xHoa hồng xanh (old: 2427) lydo: Nhặt từ map at 03/11/2023 10:40 AM
+BAG:calick add 2429xHoa hồng xanh (old: 2428) lydo: Nhặt từ map at 03/11/2023 10:40 AM
+BAG:calick add 10xĐá Saphia (old: 9) lydo: Nhặt từ map at 03/11/2023 10:40 AM
+BAG:calick add 89xViên Capsule kì bí (old: 88) lydo: Nhặt từ map at 03/11/2023 10:40 AM
+BAG:calick add 15xĐá lục bảo (old: 14) lydo: Nhặt từ map at 03/11/2023 10:40 AM
+BAG:calick add 90xViên Capsule kì bí (old: 89) lydo: Nhặt từ map at 03/11/2023 10:40 AM
+BAG:calick add 91xViên Capsule kì bí (old: 90) lydo: Nhặt từ map at 03/11/2023 10:40 AM
+BAG:calick add 2430xHoa hồng xanh (old: 2429) lydo: Nhặt từ map at 03/11/2023 10:40 AM
+BAG:calick add 92xViên Capsule kì bí (old: 91) lydo: Nhặt từ map at 03/11/2023 10:40 AM
+BAG:calick add 38xNgọc Rồng 6 sao (old: 37) lydo: Nhặt từ map at 03/11/2023 10:40 AM
+BAG:calick add 93xViên Capsule kì bí (old: 92) lydo: Nhặt từ map at 03/11/2023 10:40 AM
+BAG:calick add 3140xHoa hồng vàng (old: 3139) lydo: Nhặt từ map at 03/11/2023 10:41 AM
+BAG:calick add 3141xHoa hồng vàng (old: 3140) lydo: Nhặt từ map at 03/11/2023 10:41 AM
+BAG:calick add 94xViên Capsule kì bí (old: 93) lydo: Nhặt từ map at 03/11/2023 10:41 AM
+BAG:calick add 11xĐá Saphia (old: 10) lydo: Nhặt từ map at 03/11/2023 10:41 AM
+BAG:calick add 95xViên Capsule kì bí (old: 94) lydo: Nhặt từ map at 03/11/2023 10:41 AM
+BAG:calick add 3142xHoa hồng vàng (old: 3141) lydo: Nhặt từ map at 03/11/2023 10:41 AM
+BAG:calick add 96xViên Capsule kì bí (old: 95) lydo: Nhặt từ map at 03/11/2023 10:41 AM
+BAG:calick add 97xViên Capsule kì bí (old: 96) lydo: Nhặt từ map at 03/11/2023 10:41 AM
+BAG:calick add 2431xHoa hồng xanh (old: 2430) lydo: Nhặt từ map at 03/11/2023 10:41 AM
+BAG:calick add 98xViên Capsule kì bí (old: 97) lydo: Nhặt từ map at 03/11/2023 10:41 AM
+BAG:calick add 99xViên Capsule kì bí (old: 98) lydo: Nhặt từ map at 03/11/2023 10:41 AM
+BAG:calick add 1xViên Capsule kì bí lydo: Nhặt từ map at 03/11/2023 10:42 AM
+BAG:calick add 2470xHoa hồng đỏ (old: 2469) lydo: Nhặt từ map at 03/11/2023 10:42 AM
+BAG:calick add 2xViên Capsule kì bí (old: 1) lydo: Nhặt từ map at 03/11/2023 10:42 AM
+BAG:calick add 2471xHoa hồng đỏ (old: 2470) lydo: Nhặt từ map at 03/11/2023 10:42 AM
+BAG:calick add 3xViên Capsule kì bí (old: 2) lydo: Nhặt từ map at 03/11/2023 10:42 AM
+BAG:calick add 4xViên Capsule kì bí (old: 3) lydo: Nhặt từ map at 03/11/2023 10:42 AM
+BAG:calick add 2472xHoa hồng đỏ (old: 2471) lydo: Nhặt từ map at 03/11/2023 10:42 AM
+BAG:calick add 3143xHoa hồng vàng (old: 3142) lydo: Nhặt từ map at 03/11/2023 10:42 AM
+BAG:calick add 5xViên Capsule kì bí (old: 4) lydo: Nhặt từ map at 03/11/2023 10:42 AM
+BAG:calick add 6xViên Capsule kì bí (old: 5) lydo: Nhặt từ map at 03/11/2023 10:42 AM
+BAG:calick add 16xNgọc Rồng 4 sao (old: 15) lydo: Nhặt từ map at 03/11/2023 10:42 AM
+BAG:calick add 2432xHoa hồng xanh (old: 2431) lydo: Nhặt từ map at 03/11/2023 10:42 AM
+BAG:calick add 3144xHoa hồng vàng (old: 3143) lydo: Nhặt từ map at 03/11/2023 10:42 AM
+BAG:calick add 2473xHoa hồng đỏ (old: 2472) lydo: Nhặt từ map at 03/11/2023 10:43 AM
+BAG:calick add 7xViên Capsule kì bí (old: 6) lydo: Nhặt từ map at 03/11/2023 10:43 AM
+BAG:calick add 3145xHoa hồng vàng (old: 3144) lydo: Nhặt từ map at 03/11/2023 10:43 AM
+BAG:calick add 2433xHoa hồng xanh (old: 2432) lydo: Nhặt từ map at 03/11/2023 10:43 AM
+BAG:calick add 2434xHoa hồng xanh (old: 2433) lydo: Nhặt từ map at 03/11/2023 10:43 AM
+BAG:calick add 2474xHoa hồng đỏ (old: 2473) lydo: Nhặt từ map at 03/11/2023 10:43 AM
+BAG:calick add 3146xHoa hồng vàng (old: 3145) lydo: Nhặt từ map at 03/11/2023 10:43 AM
+BAG:calick add 2435xHoa hồng xanh (old: 2434) lydo: Nhặt từ map at 03/11/2023 10:43 AM
+BAG:calick add 8xViên Capsule kì bí (old: 7) lydo: Nhặt từ map at 03/11/2023 10:43 AM
+BAG:calick add 9xViên Capsule kì bí (old: 8) lydo: Nhặt từ map at 03/11/2023 10:43 AM
+BAG:calick add 2436xHoa hồng xanh (old: 2435) lydo: Nhặt từ map at 03/11/2023 10:43 AM
+BAG:calick add 2475xHoa hồng đỏ (old: 2474) lydo: Nhặt từ map at 03/11/2023 10:43 AM
+BAG:calick add 10xViên Capsule kì bí (old: 9) lydo: Nhặt từ map at 03/11/2023 10:43 AM
+BAG:calick add 11xViên Capsule kì bí (old: 10) lydo: Nhặt từ map at 03/11/2023 10:43 AM
+BAG:calick add 2476xHoa hồng đỏ (old: 2475) lydo: Nhặt từ map at 03/11/2023 10:44 AM
+BAG:calick add 2437xHoa hồng xanh (old: 2436) lydo: Nhặt từ map at 03/11/2023 10:44 AM
+BAG:calick add 2438xHoa hồng xanh (old: 2437) lydo: Nhặt từ map at 03/11/2023 10:44 AM
+BAG:calick add 2477xHoa hồng đỏ (old: 2476) lydo: Nhặt từ map at 03/11/2023 10:44 AM
+BAG:calick add 2439xHoa hồng xanh (old: 2438) lydo: Nhặt từ map at 03/11/2023 10:44 AM
+BAG:calick add 3147xHoa hồng vàng (old: 3146) lydo: Nhặt từ map at 03/11/2023 10:44 AM
+BAG:calick add 12xViên Capsule kì bí (old: 11) lydo: Nhặt từ map at 03/11/2023 10:44 AM
+BAG:calick add 2440xHoa hồng xanh (old: 2439) lydo: Nhặt từ map at 03/11/2023 10:44 AM
+BAG:calick add 10xĐá Ruby (old: 9) lydo: Nhặt từ map at 03/11/2023 10:44 AM
+BAG:calick add 13xViên Capsule kì bí (old: 12) lydo: Nhặt từ map at 03/11/2023 10:44 AM
+BAG:calick add 2478xHoa hồng đỏ (old: 2477) lydo: Nhặt từ map at 03/11/2023 10:44 AM
+BAG:calick add 14xViên Capsule kì bí (old: 13) lydo: Nhặt từ map at 03/11/2023 10:44 AM
+BAG:calick add 15xViên Capsule kì bí (old: 14) lydo: Nhặt từ map at 03/11/2023 10:44 AM
+BAG:calick add 2441xHoa hồng xanh (old: 2440) lydo: Nhặt từ map at 03/11/2023 10:44 AM
+BAG:calick add 16xViên Capsule kì bí (old: 15) lydo: Nhặt từ map at 03/11/2023 10:45 AM
+BAG:calick add 17xViên Capsule kì bí (old: 16) lydo: Nhặt từ map at 03/11/2023 10:45 AM
+BAG:calick add 18xViên Capsule kì bí (old: 17) lydo: Nhặt từ map at 03/11/2023 10:45 AM
+BAG:calick add 2442xHoa hồng xanh (old: 2441) lydo: Nhặt từ map at 03/11/2023 10:45 AM
+BAG:calick add 3148xHoa hồng vàng (old: 3147) lydo: Nhặt từ map at 03/11/2023 10:45 AM
+BAG:calick add 2443xHoa hồng xanh (old: 2442) lydo: Nhặt từ map at 03/11/2023 10:45 AM
+BAG:calick add 19xViên Capsule kì bí (old: 18) lydo: Nhặt từ map at 03/11/2023 10:45 AM
+BAG:calick add 2444xHoa hồng xanh (old: 2443) lydo: Nhặt từ map at 03/11/2023 10:45 AM
+BAG:calick add 20xViên Capsule kì bí (old: 19) lydo: Nhặt từ map at 03/11/2023 10:45 AM
+BAG:calick add 3149xHoa hồng vàng (old: 3148) lydo: Nhặt từ map at 03/11/2023 10:45 AM
+BAG:calick add 2479xHoa hồng đỏ (old: 2478) lydo: Nhặt từ map at 03/11/2023 10:45 AM
+BAG:calick add 3150xHoa hồng vàng (old: 3149) lydo: Nhặt từ map at 03/11/2023 10:45 AM
+BAG:calick add 17xNgọc Rồng 4 sao (old: 16) lydo: Nhặt từ map at 03/11/2023 10:46 AM
+BAG:calick add 21xViên Capsule kì bí (old: 20) lydo: Nhặt từ map at 03/11/2023 10:46 AM
+BAG:calick add 2480xHoa hồng đỏ (old: 2479) lydo: Nhặt từ map at 03/11/2023 10:46 AM
+BAG:calick add 22xViên Capsule kì bí (old: 21) lydo: Nhặt từ map at 03/11/2023 10:46 AM
+BAG:calick add 23xViên Capsule kì bí (old: 22) lydo: Nhặt từ map at 03/11/2023 10:46 AM
+BAG:calick add 24xViên Capsule kì bí (old: 23) lydo: Nhặt từ map at 03/11/2023 10:46 AM
+BAG:calick add 25xViên Capsule kì bí (old: 24) lydo: Nhặt từ map at 03/11/2023 10:46 AM
+BAG:calick add 2445xHoa hồng xanh (old: 2444) lydo: Nhặt từ map at 03/11/2023 10:46 AM
+BAG:calick add 3151xHoa hồng vàng (old: 3150) lydo: Nhặt từ map at 03/11/2023 10:46 AM
+BAG:calick add 2446xHoa hồng xanh (old: 2445) lydo: Nhặt từ map at 03/11/2023 10:47 AM
+BAG:calick add 26xViên Capsule kì bí (old: 25) lydo: Nhặt từ map at 03/11/2023 10:47 AM
+BAG:calick add 2447xHoa hồng xanh (old: 2446) lydo: Nhặt từ map at 03/11/2023 10:47 AM
+BAG:calick add 2481xHoa hồng đỏ (old: 2480) lydo: Nhặt từ map at 03/11/2023 10:47 AM
+BAG:calick add 2448xHoa hồng xanh (old: 2447) lydo: Nhặt từ map at 03/11/2023 10:47 AM
+BAG:calick add 2449xHoa hồng xanh (old: 2448) lydo: Nhặt từ map at 03/11/2023 10:47 AM
+BAG:calick add 3152xHoa hồng vàng (old: 3151) lydo: Nhặt từ map at 03/11/2023 10:47 AM
+BAG:calick add 2450xHoa hồng xanh (old: 2449) lydo: Nhặt từ map at 03/11/2023 10:47 AM
+BAG:calick add 27xViên Capsule kì bí (old: 26) lydo: Nhặt từ map at 03/11/2023 10:47 AM
+BAG:calick add 3153xHoa hồng vàng (old: 3152) lydo: Nhặt từ map at 03/11/2023 10:47 AM
+BAG:calick add 28xViên Capsule kì bí (old: 27) lydo: Nhặt từ map at 03/11/2023 10:47 AM
+BAG:calick add 3154xHoa hồng vàng (old: 3153) lydo: Nhặt từ map at 03/11/2023 10:47 AM
+BAG:calick add 3155xHoa hồng vàng (old: 3154) lydo: Nhặt từ map at 03/11/2023 10:47 AM
+BAG:calick add 3156xHoa hồng vàng (old: 3155) lydo: Nhặt từ map at 03/11/2023 10:47 AM
+BAG:calick add 18xNgọc Rồng 4 sao (old: 17) lydo: Nhặt từ map at 03/11/2023 10:47 AM
+BAG:calick add 2451xHoa hồng xanh (old: 2450) lydo: Nhặt từ map at 03/11/2023 10:47 AM
+BAG:calick add 29xViên Capsule kì bí (old: 28) lydo: Nhặt từ map at 03/11/2023 10:48 AM
+BAG:calick add 3157xHoa hồng vàng (old: 3156) lydo: Nhặt từ map at 03/11/2023 10:48 AM
+BAG:calick add 30xViên Capsule kì bí (old: 29) lydo: Nhặt từ map at 03/11/2023 10:48 AM
+BAG:calick add 2482xHoa hồng đỏ (old: 2481) lydo: Nhặt từ map at 03/11/2023 10:48 AM
+BAG:calick add 31xViên Capsule kì bí (old: 30) lydo: Nhặt từ map at 03/11/2023 10:48 AM
+BAG:calick add 32xViên Capsule kì bí (old: 31) lydo: Nhặt từ map at 03/11/2023 10:48 AM
+BAG:calick add 3158xHoa hồng vàng (old: 3157) lydo: Nhặt từ map at 03/11/2023 10:48 AM
+BAG:calick add 3159xHoa hồng vàng (old: 3158) lydo: Nhặt từ map at 03/11/2023 10:48 AM
+BAG:calick add 33xViên Capsule kì bí (old: 32) lydo: Nhặt từ map at 03/11/2023 10:48 AM
+BAG:calick add 3160xHoa hồng vàng (old: 3159) lydo: Nhặt từ map at 03/11/2023 10:48 AM
+BAG:calick add 34xViên Capsule kì bí (old: 33) lydo: Nhặt từ map at 03/11/2023 10:48 AM
+BAG:calick add 3161xHoa hồng vàng (old: 3160) lydo: Nhặt từ map at 03/11/2023 10:49 AM
+BAG:calick add 2452xHoa hồng xanh (old: 2451) lydo: Nhặt từ map at 03/11/2023 10:49 AM
+BAG:calick add 35xViên Capsule kì bí (old: 34) lydo: Nhặt từ map at 03/11/2023 10:49 AM
+BAG:calick add 2483xHoa hồng đỏ (old: 2482) lydo: Nhặt từ map at 03/11/2023 10:49 AM
+BAG:calick add 19xNgọc Rồng 4 sao (old: 18) lydo: Nhặt từ map at 03/11/2023 10:49 AM
+BAG:calick add 14xĐá Titan (old: 13) lydo: Nhặt từ map at 03/11/2023 10:49 AM
+BAG:calick add 36xViên Capsule kì bí (old: 35) lydo: Nhặt từ map at 03/11/2023 10:49 AM
+BAG:calick add 37xViên Capsule kì bí (old: 36) lydo: Nhặt từ map at 03/11/2023 10:49 AM
+BAG:calick add 3162xHoa hồng vàng (old: 3161) lydo: Nhặt từ map at 03/11/2023 10:49 AM
+BAG:calick add 15xĐá Titan (old: 14) lydo: Nhặt từ map at 03/11/2023 10:49 AM
+BAG:calick add 2484xHoa hồng đỏ (old: 2483) lydo: Nhặt từ map at 03/11/2023 10:49 AM
+BAG:calick add 3163xHoa hồng vàng (old: 3162) lydo: Nhặt từ map at 03/11/2023 10:49 AM
+BAG:calick add 2453xHoa hồng xanh (old: 2452) lydo: Nhặt từ map at 03/11/2023 10:50 AM
+BAG:calick add 38xViên Capsule kì bí (old: 37) lydo: Nhặt từ map at 03/11/2023 10:50 AM
+BAG:calick add 2485xHoa hồng đỏ (old: 2484) lydo: Nhặt từ map at 03/11/2023 10:50 AM
+BAG:calick add 39xViên Capsule kì bí (old: 38) lydo: Nhặt từ map at 03/11/2023 10:50 AM
+BAG:calick add 40xViên Capsule kì bí (old: 39) lydo: Nhặt từ map at 03/11/2023 10:50 AM
+BAG:calick add 20xNgọc Rồng 4 sao (old: 19) lydo: Nhặt từ map at 03/11/2023 10:50 AM
+BAG:calick add 3164xHoa hồng vàng (old: 3163) lydo: Nhặt từ map at 03/11/2023 10:50 AM
+BAG:calick add 41xViên Capsule kì bí (old: 40) lydo: Nhặt từ map at 03/11/2023 10:50 AM
+BAG:calick add 3165xHoa hồng vàng (old: 3164) lydo: Nhặt từ map at 03/11/2023 10:51 AM
+BAG:calick add 42xViên Capsule kì bí (old: 41) lydo: Nhặt từ map at 03/11/2023 10:51 AM
+BAG:calick add 43xViên Capsule kì bí (old: 42) lydo: Nhặt từ map at 03/11/2023 10:51 AM
+BAG:calick add 3166xHoa hồng vàng (old: 3165) lydo: Nhặt từ map at 03/11/2023 10:51 AM
+BAG:calick add 2454xHoa hồng xanh (old: 2453) lydo: Nhặt từ map at 03/11/2023 10:51 AM
+BAG:calick add 44xViên Capsule kì bí (old: 43) lydo: Nhặt từ map at 03/11/2023 10:51 AM
+BAG:calick add 3167xHoa hồng vàng (old: 3166) lydo: Nhặt từ map at 03/11/2023 10:51 AM
+BAG:calick add 45xViên Capsule kì bí (old: 44) lydo: Nhặt từ map at 03/11/2023 10:52 AM
+BAG:calick add 46xViên Capsule kì bí (old: 45) lydo: Nhặt từ map at 03/11/2023 10:52 AM
+BAG:calick add 47xViên Capsule kì bí (old: 46) lydo: Nhặt từ map at 03/11/2023 10:52 AM
+BAG:calick add 3168xHoa hồng vàng (old: 3167) lydo: Nhặt từ map at 03/11/2023 10:52 AM
+BAG:calick add 48xViên Capsule kì bí (old: 47) lydo: Nhặt từ map at 03/11/2023 10:52 AM
+BAG:calick add 3169xHoa hồng vàng (old: 3168) lydo: Nhặt từ map at 03/11/2023 10:52 AM
+BAG:calick add 88xĐá thạch anh tím (old: 87) lydo: Nhặt từ map at 03/11/2023 10:52 AM
+BAG:calick add 2455xHoa hồng xanh (old: 2454) lydo: Nhặt từ map at 03/11/2023 10:52 AM
+BAG:calick add 49xViên Capsule kì bí (old: 48) lydo: Nhặt từ map at 03/11/2023 10:52 AM
+BAG:calick add 50xViên Capsule kì bí (old: 49) lydo: Nhặt từ map at 03/11/2023 10:52 AM
+BAG:calick add 51xViên Capsule kì bí (old: 50) lydo: Nhặt từ map at 03/11/2023 10:52 AM
+BAG:calick add 2456xHoa hồng xanh (old: 2455) lydo: Nhặt từ map at 03/11/2023 10:52 AM
+BAG:calick add 3170xHoa hồng vàng (old: 3169) lydo: Nhặt từ map at 03/11/2023 10:52 AM
+BAG:calick add 2486xHoa hồng đỏ (old: 2485) lydo: Nhặt từ map at 03/11/2023 10:53 AM
+BAG:calick add 16xĐá lục bảo (old: 15) lydo: Nhặt từ map at 03/11/2023 10:53 AM
+BAG:calick add 52xViên Capsule kì bí (old: 51) lydo: Nhặt từ map at 03/11/2023 10:53 AM
+BAG:calick add 53xViên Capsule kì bí (old: 52) lydo: Nhặt từ map at 03/11/2023 10:53 AM
+BAG:calick add 3171xHoa hồng vàng (old: 3170) lydo: Nhặt từ map at 03/11/2023 10:53 AM
+BAG:calick add 16xĐá Titan (old: 15) lydo: Nhặt từ map at 03/11/2023 10:53 AM
+BAG:calick add 54xViên Capsule kì bí (old: 53) lydo: Nhặt từ map at 03/11/2023 10:53 AM
+BAG:calick add 89xĐá thạch anh tím (old: 88) lydo: Nhặt từ map at 03/11/2023 10:53 AM
+BAG:calick add 55xViên Capsule kì bí (old: 54) lydo: Nhặt từ map at 03/11/2023 10:53 AM
+BAG:calick add 3172xHoa hồng vàng (old: 3171) lydo: Nhặt từ map at 03/11/2023 10:53 AM
+BAG:calick add 38xNgọc Rồng 5 sao (old: 37) lydo: Nhặt từ map at 03/11/2023 10:53 AM
+BAG:calick add 3173xHoa hồng vàng (old: 3172) lydo: Nhặt từ map at 03/11/2023 10:53 AM
+BAG:calick add 56xViên Capsule kì bí (old: 55) lydo: Nhặt từ map at 03/11/2023 10:54 AM
+BAG:calick add 2457xHoa hồng xanh (old: 2456) lydo: Nhặt từ map at 03/11/2023 10:54 AM
+BAG:calick add 2458xHoa hồng xanh (old: 2457) lydo: Nhặt từ map at 03/11/2023 10:54 AM
+BAG:calick add 2459xHoa hồng xanh (old: 2458) lydo: Nhặt từ map at 03/11/2023 10:54 AM
+BAG:calick add 57xViên Capsule kì bí (old: 56) lydo: Nhặt từ map at 03/11/2023 10:54 AM
+BAG:calick add 3174xHoa hồng vàng (old: 3173) lydo: Nhặt từ map at 03/11/2023 10:54 AM
+BAG:calick add 58xViên Capsule kì bí (old: 57) lydo: Nhặt từ map at 03/11/2023 10:54 AM
+BAG:calick add 59xViên Capsule kì bí (old: 58) lydo: Nhặt từ map at 03/11/2023 10:54 AM
+BAG:calick add 2460xHoa hồng xanh (old: 2459) lydo: Nhặt từ map at 03/11/2023 10:54 AM
+BAG:calick add 2461xHoa hồng xanh (old: 2460) lydo: Nhặt từ map at 03/11/2023 10:55 AM
+BAG:calick add 60xViên Capsule kì bí (old: 59) lydo: Nhặt từ map at 03/11/2023 10:55 AM
+BAG:calick add 61xViên Capsule kì bí (old: 60) lydo: Nhặt từ map at 03/11/2023 10:55 AM
+BAG:calick add 39xNgọc Rồng 6 sao (old: 38) lydo: Nhặt từ map at 03/11/2023 10:55 AM
+BAG:calick add 62xViên Capsule kì bí (old: 61) lydo: Nhặt từ map at 03/11/2023 10:55 AM
+BAG:calick add 63xViên Capsule kì bí (old: 62) lydo: Nhặt từ map at 03/11/2023 10:55 AM
+BAG:calick add 17xĐá Titan (old: 16) lydo: Nhặt từ map at 03/11/2023 10:55 AM
+BAG:calick add 2487xHoa hồng đỏ (old: 2486) lydo: Nhặt từ map at 03/11/2023 10:55 AM
+BAG:calick add 2462xHoa hồng xanh (old: 2461) lydo: Nhặt từ map at 03/11/2023 10:55 AM
+BAG:calick add 3175xHoa hồng vàng (old: 3174) lydo: Nhặt từ map at 03/11/2023 10:55 AM
+BAG:calick add 2463xHoa hồng xanh (old: 2462) lydo: Nhặt từ map at 03/11/2023 10:55 AM
+BAG:calick add 64xViên Capsule kì bí (old: 63) lydo: Nhặt từ map at 03/11/2023 10:56 AM
+BAG:calick add 2488xHoa hồng đỏ (old: 2487) lydo: Nhặt từ map at 03/11/2023 10:56 AM
+BAG:calick add 65xViên Capsule kì bí (old: 64) lydo: Nhặt từ map at 03/11/2023 10:56 AM
+BAG:calick add 2489xHoa hồng đỏ (old: 2488) lydo: Nhặt từ map at 03/11/2023 10:56 AM
+BAG:calick add 66xViên Capsule kì bí (old: 65) lydo: Nhặt từ map at 03/11/2023 10:56 AM
+BAG:calick add 2464xHoa hồng xanh (old: 2463) lydo: Nhặt từ map at 03/11/2023 10:56 AM
+BAG:calick add 67xViên Capsule kì bí (old: 66) lydo: Nhặt từ map at 03/11/2023 10:56 AM
+BAG:calick add 68xViên Capsule kì bí (old: 67) lydo: Nhặt từ map at 03/11/2023 10:56 AM
+BAG:calick add 2490xHoa hồng đỏ (old: 2489) lydo: Nhặt từ map at 03/11/2023 10:56 AM
+BAG:calick add 2465xHoa hồng xanh (old: 2464) lydo: Nhặt từ map at 03/11/2023 10:56 AM
+BAG:calick add 3176xHoa hồng vàng (old: 3175) lydo: Nhặt từ map at 03/11/2023 10:57 AM
+BAG:calick add 3177xHoa hồng vàng (old: 3176) lydo: Nhặt từ map at 03/11/2023 10:57 AM
+BAG:calick add 69xViên Capsule kì bí (old: 68) lydo: Nhặt từ map at 03/11/2023 10:57 AM
+BAG:calick add 70xViên Capsule kì bí (old: 69) lydo: Nhặt từ map at 03/11/2023 10:57 AM
+BAG:calick add 71xViên Capsule kì bí (old: 70) lydo: Nhặt từ map at 03/11/2023 10:57 AM
+BAG:calick add 2491xHoa hồng đỏ (old: 2490) lydo: Nhặt từ map at 03/11/2023 10:57 AM
+BAG:calick add 2466xHoa hồng xanh (old: 2465) lydo: Nhặt từ map at 03/11/2023 10:57 AM
+BAG:calick add 17xĐá lục bảo (old: 16) lydo: Nhặt từ map at 03/11/2023 10:57 AM
+BAG:calick add 72xViên Capsule kì bí (old: 71) lydo: Nhặt từ map at 03/11/2023 10:57 AM
+BAG:calick add 73xViên Capsule kì bí (old: 72) lydo: Nhặt từ map at 03/11/2023 10:58 AM
+BAG:calick add 74xViên Capsule kì bí (old: 73) lydo: Nhặt từ map at 03/11/2023 10:58 AM
+BAG:calick add 3178xHoa hồng vàng (old: 3177) lydo: Nhặt từ map at 03/11/2023 10:58 AM
+BAG:calick add 2492xHoa hồng đỏ (old: 2491) lydo: Nhặt từ map at 03/11/2023 10:58 AM
+BAG:calick add 75xViên Capsule kì bí (old: 74) lydo: Nhặt từ map at 03/11/2023 10:58 AM
+BAG:calick add 2493xHoa hồng đỏ (old: 2492) lydo: Nhặt từ map at 03/11/2023 10:58 AM
+BAG:calick add 2467xHoa hồng xanh (old: 2466) lydo: Nhặt từ map at 03/11/2023 10:58 AM
+BAG:calick add 76xViên Capsule kì bí (old: 75) lydo: Nhặt từ map at 03/11/2023 10:59 AM
+BAG:calick add 12xĐá Saphia (old: 11) lydo: Nhặt từ map at 03/11/2023 10:59 AM
+BAG:calick add 77xViên Capsule kì bí (old: 76) lydo: Nhặt từ map at 03/11/2023 10:59 AM
+BAG:calick add 2468xHoa hồng xanh (old: 2467) lydo: Nhặt từ map at 03/11/2023 10:59 AM
+BAG:calick add 78xViên Capsule kì bí (old: 77) lydo: Nhặt từ map at 03/11/2023 10:59 AM
+BAG:calick add 2494xHoa hồng đỏ (old: 2493) lydo: Nhặt từ map at 03/11/2023 10:59 AM
+BAG:calick add 79xViên Capsule kì bí (old: 78) lydo: Nhặt từ map at 03/11/2023 10:59 AM
+BAG:calick add 2495xHoa hồng đỏ (old: 2494) lydo: Nhặt từ map at 03/11/2023 10:59 AM
+BAG:calick add 3179xHoa hồng vàng (old: 3178) lydo: Nhặt từ map at 03/11/2023 10:59 AM
+BAG:calick add 18xĐá Titan (old: 17) lydo: Nhặt từ map at 03/11/2023 10:59 AM
+BAG:calick add 2496xHoa hồng đỏ (old: 2495) lydo: Nhặt từ map at 03/11/2023 11:00 AM
+BAG:calick add 2497xHoa hồng đỏ (old: 2496) lydo: Nhặt từ map at 03/11/2023 11:00 AM
+BAG:calick add 80xViên Capsule kì bí (old: 79) lydo: Nhặt từ map at 03/11/2023 11:00 AM
+BAG:calick add 11xĐá Ruby (old: 10) lydo: Nhặt từ map at 03/11/2023 11:00 AM
+BAG:calick add 2469xHoa hồng xanh (old: 2468) lydo: Nhặt từ map at 03/11/2023 11:00 AM
+BAG:calick add 3180xHoa hồng vàng (old: 3179) lydo: Nhặt từ map at 03/11/2023 11:00 AM
+BAG:calick add 81xViên Capsule kì bí (old: 80) lydo: Nhặt từ map at 03/11/2023 11:00 AM
+BAG:calick add 2498xHoa hồng đỏ (old: 2497) lydo: Nhặt từ map at 03/11/2023 11:00 AM
+BAG:calick add 2470xHoa hồng xanh (old: 2469) lydo: Nhặt từ map at 03/11/2023 11:00 AM
+BAG:calick add 2471xHoa hồng xanh (old: 2470) lydo: Nhặt từ map at 03/11/2023 11:01 AM
+BAG:calick add 2472xHoa hồng xanh (old: 2471) lydo: Nhặt từ map at 03/11/2023 11:01 AM
+BAG:calick add 82xViên Capsule kì bí (old: 81) lydo: Nhặt từ map at 03/11/2023 11:01 AM
+BAG:calick add 2499xHoa hồng đỏ (old: 2498) lydo: Nhặt từ map at 03/11/2023 11:01 AM
+BAG:calick add 39xNgọc Rồng 5 sao (old: 38) lydo: Nhặt từ map at 03/11/2023 11:01 AM
+BAG:calick add 2473xHoa hồng xanh (old: 2472) lydo: Nhặt từ map at 03/11/2023 11:01 AM
+BAG:calick add 2500xHoa hồng đỏ (old: 2499) lydo: Nhặt từ map at 03/11/2023 11:01 AM
+BAG:calick add 2501xHoa hồng đỏ (old: 2500) lydo: Nhặt từ map at 03/11/2023 11:01 AM
+BAG:calick add 2474xHoa hồng xanh (old: 2473) lydo: Nhặt từ map at 03/11/2023 11:01 AM
+BAG:calick add 83xViên Capsule kì bí (old: 82) lydo: Nhặt từ map at 03/11/2023 11:01 AM
+BAG:calick add 84xViên Capsule kì bí (old: 83) lydo: Nhặt từ map at 03/11/2023 11:01 AM
+BAG:calick add 85xViên Capsule kì bí (old: 84) lydo: Nhặt từ map at 03/11/2023 11:02 AM
+BAG:calick add 3181xHoa hồng vàng (old: 3180) lydo: Nhặt từ map at 03/11/2023 11:02 AM
+BAG:calick add 3182xHoa hồng vàng (old: 3181) lydo: Nhặt từ map at 03/11/2023 11:02 AM
+BAG:calick add 86xViên Capsule kì bí (old: 85) lydo: Nhặt từ map at 03/11/2023 11:02 AM
+BAG:calick add 3183xHoa hồng vàng (old: 3182) lydo: Nhặt từ map at 03/11/2023 11:02 AM
+BAG:calick add 2475xHoa hồng xanh (old: 2474) lydo: Nhặt từ map at 03/11/2023 11:02 AM
+BAG:calick add 87xViên Capsule kì bí (old: 86) lydo: Nhặt từ map at 03/11/2023 11:02 AM
+BAG:calick add 2476xHoa hồng xanh (old: 2475) lydo: Nhặt từ map at 03/11/2023 11:02 AM
+BAG:calick add 3184xHoa hồng vàng (old: 3183) lydo: Nhặt từ map at 03/11/2023 11:02 AM
+BAG:calick add 88xViên Capsule kì bí (old: 87) lydo: Nhặt từ map at 03/11/2023 11:02 AM
+BAG:calick add 89xViên Capsule kì bí (old: 88) lydo: Nhặt từ map at 03/11/2023 11:02 AM
+BAG:calick add 3185xHoa hồng vàng (old: 3184) lydo: Nhặt từ map at 03/11/2023 11:02 AM
+BAG:calick add 2477xHoa hồng xanh (old: 2476) lydo: Nhặt từ map at 03/11/2023 11:02 AM
+BAG:calick add 3186xHoa hồng vàng (old: 3185) lydo: Nhặt từ map at 03/11/2023 11:02 AM
+BAG:calick add 90xViên Capsule kì bí (old: 89) lydo: Nhặt từ map at 03/11/2023 11:03 AM
+BAG:calick add 3187xHoa hồng vàng (old: 3186) lydo: Nhặt từ map at 03/11/2023 11:03 AM
+BAG:calick add 91xViên Capsule kì bí (old: 90) lydo: Nhặt từ map at 03/11/2023 11:03 AM
+BAG:calick add 3188xHoa hồng vàng (old: 3187) lydo: Nhặt từ map at 03/11/2023 11:03 AM
+BAG:calick add 92xViên Capsule kì bí (old: 91) lydo: Nhặt từ map at 03/11/2023 11:03 AM
+BAG:calick add 2502xHoa hồng đỏ (old: 2501) lydo: Nhặt từ map at 03/11/2023 11:03 AM
+BAG:calick add 2478xHoa hồng xanh (old: 2477) lydo: Nhặt từ map at 03/11/2023 11:03 AM
+BAG:calick add 3189xHoa hồng vàng (old: 3188) lydo: Nhặt từ map at 03/11/2023 11:03 AM
+BAG:calick add 2479xHoa hồng xanh (old: 2478) lydo: Nhặt từ map at 03/11/2023 11:03 AM
+BAG:calick add 2480xHoa hồng xanh (old: 2479) lydo: Nhặt từ map at 03/11/2023 11:03 AM
+BAG:calick add 13xĐá Saphia (old: 12) lydo: Nhặt từ map at 03/11/2023 11:03 AM
+BAG:calick add 93xViên Capsule kì bí (old: 92) lydo: Nhặt từ map at 03/11/2023 11:03 AM
+BAG:calick add 3190xHoa hồng vàng (old: 3189) lydo: Nhặt từ map at 03/11/2023 11:03 AM
+BAG:calick add 94xViên Capsule kì bí (old: 93) lydo: Nhặt từ map at 03/11/2023 11:04 AM
+BAG:calick add 2503xHoa hồng đỏ (old: 2502) lydo: Nhặt từ map at 03/11/2023 11:04 AM
+BAG:calick add 95xViên Capsule kì bí (old: 94) lydo: Nhặt từ map at 03/11/2023 11:04 AM
+BAG:calick add 21xNgọc Rồng 4 sao (old: 20) lydo: Nhặt từ map at 03/11/2023 11:04 AM
+BAG:calick add 40xNgọc Rồng 5 sao (old: 39) lydo: Nhặt từ map at 03/11/2023 11:04 AM
+BAG:calick add 96xViên Capsule kì bí (old: 95) lydo: Nhặt từ map at 03/11/2023 11:04 AM
+BAG:calick add 97xViên Capsule kì bí (old: 96) lydo: Nhặt từ map at 03/11/2023 11:04 AM
+BAG:calick add 2504xHoa hồng đỏ (old: 2503) lydo: Nhặt từ map at 03/11/2023 11:04 AM
+BAG:calick add 2481xHoa hồng xanh (old: 2480) lydo: Nhặt từ map at 03/11/2023 11:04 AM
+BAG:calick add 98xViên Capsule kì bí (old: 97) lydo: Nhặt từ map at 03/11/2023 11:04 AM
+BAG:calick add 2505xHoa hồng đỏ (old: 2504) lydo: Nhặt từ map at 03/11/2023 11:05 AM
+BAG:calick add 99xViên Capsule kì bí (old: 98) lydo: Nhặt từ map at 03/11/2023 11:05 AM
+BAG:calick add 1xViên Capsule kì bí lydo: Nhặt từ map at 03/11/2023 11:05 AM
+BAG:calick add 2506xHoa hồng đỏ (old: 2505) lydo: Nhặt từ map at 03/11/2023 11:05 AM
+BAG:calick add 2507xHoa hồng đỏ (old: 2506) lydo: Nhặt từ map at 03/11/2023 11:05 AM
+BAG:calick add 2508xHoa hồng đỏ (old: 2507) lydo: Nhặt từ map at 03/11/2023 11:05 AM
+BAG:calick add 2509xHoa hồng đỏ (old: 2508) lydo: Nhặt từ map at 03/11/2023 11:05 AM
+BAG:calick add 90xĐá thạch anh tím (old: 89) lydo: Nhặt từ map at 03/11/2023 11:05 AM
+BAG:calick add 2xViên Capsule kì bí (old: 1) lydo: Nhặt từ map at 03/11/2023 11:05 AM
+BAG:calick add 2510xHoa hồng đỏ (old: 2509) lydo: Nhặt từ map at 03/11/2023 11:05 AM
+BAG:calick add 2482xHoa hồng xanh (old: 2481) lydo: Nhặt từ map at 03/11/2023 11:05 AM
+BAG:calick add 3xViên Capsule kì bí (old: 2) lydo: Nhặt từ map at 03/11/2023 11:05 AM
+BAG:calick add 2483xHoa hồng xanh (old: 2482) lydo: Nhặt từ map at 03/11/2023 11:05 AM
+BAG:calick add 2484xHoa hồng xanh (old: 2483) lydo: Nhặt từ map at 03/11/2023 11:05 AM
+BAG:calick add 41xNgọc Rồng 5 sao (old: 40) lydo: Nhặt từ map at 03/11/2023 11:05 AM
+BAG:calick add 2485xHoa hồng xanh (old: 2484) lydo: Nhặt từ map at 03/11/2023 11:05 AM
+BAG:calick add 4xViên Capsule kì bí (old: 3) lydo: Nhặt từ map at 03/11/2023 11:06 AM
+BAG:calick add 14xĐá Saphia (old: 13) lydo: Nhặt từ map at 03/11/2023 11:06 AM
+BAG:calick add 15xĐá Saphia (old: 14) lydo: Nhặt từ map at 03/11/2023 11:06 AM
+BAG:calick add 3191xHoa hồng vàng (old: 3190) lydo: Nhặt từ map at 03/11/2023 11:06 AM
+BAG:calick add 5xViên Capsule kì bí (old: 4) lydo: Nhặt từ map at 03/11/2023 11:06 AM
+BAG:calick add 6xViên Capsule kì bí (old: 5) lydo: Nhặt từ map at 03/11/2023 11:06 AM
+BAG:calick add 22xNgọc Rồng 4 sao (old: 21) lydo: Nhặt từ map at 03/11/2023 11:06 AM
+BAG:calick add 2486xHoa hồng xanh (old: 2485) lydo: Nhặt từ map at 03/11/2023 11:06 AM
+BAG:calick add 3192xHoa hồng vàng (old: 3191) lydo: Nhặt từ map at 03/11/2023 11:06 AM
+BAG:calick add 7xViên Capsule kì bí (old: 6) lydo: Nhặt từ map at 03/11/2023 11:06 AM
+BAG:calick add 8xViên Capsule kì bí (old: 7) lydo: Nhặt từ map at 03/11/2023 11:06 AM
+BAG:calick add 9xViên Capsule kì bí (old: 8) lydo: Nhặt từ map at 03/11/2023 11:07 AM
+BAG:calick add 2511xHoa hồng đỏ (old: 2510) lydo: Nhặt từ map at 03/11/2023 11:07 AM
+BAG:calick add 10xViên Capsule kì bí (old: 9) lydo: Nhặt từ map at 03/11/2023 11:07 AM
+BAG:calick add 11xViên Capsule kì bí (old: 10) lydo: Nhặt từ map at 03/11/2023 11:07 AM
+BAG:calick add 2487xHoa hồng xanh (old: 2486) lydo: Nhặt từ map at 03/11/2023 11:07 AM
+BAG:calick add 2512xHoa hồng đỏ (old: 2511) lydo: Nhặt từ map at 03/11/2023 11:07 AM
+BAG:calick add 12xViên Capsule kì bí (old: 11) lydo: Nhặt từ map at 03/11/2023 11:07 AM
+BAG:calick add 2513xHoa hồng đỏ (old: 2512) lydo: Nhặt từ map at 03/11/2023 11:07 AM
+BAG:calick add 3193xHoa hồng vàng (old: 3192) lydo: Nhặt từ map at 03/11/2023 11:07 AM
+BAG:calick add 2514xHoa hồng đỏ (old: 2513) lydo: Nhặt từ map at 03/11/2023 11:07 AM
+BAG:calick add 2515xHoa hồng đỏ (old: 2514) lydo: Nhặt từ map at 03/11/2023 11:07 AM
+BAG:calick add 13xViên Capsule kì bí (old: 12) lydo: Nhặt từ map at 03/11/2023 11:07 AM
+BAG:calick add 3194xHoa hồng vàng (old: 3193) lydo: Nhặt từ map at 03/11/2023 11:07 AM
+BAG:calick add 14xViên Capsule kì bí (old: 13) lydo: Nhặt từ map at 03/11/2023 11:07 AM
+BAG:calick add 15xViên Capsule kì bí (old: 14) lydo: Nhặt từ map at 03/11/2023 11:08 AM
+BAG:calick add 2488xHoa hồng xanh (old: 2487) lydo: Nhặt từ map at 03/11/2023 11:08 AM
+BAG:calick add 16xViên Capsule kì bí (old: 15) lydo: Nhặt từ map at 03/11/2023 11:08 AM
+BAG:calick add 2489xHoa hồng xanh (old: 2488) lydo: Nhặt từ map at 03/11/2023 11:08 AM
+BAG:calick add 12xĐá Ruby (old: 11) lydo: Nhặt từ map at 03/11/2023 11:08 AM
+BAG:calick add 3195xHoa hồng vàng (old: 3194) lydo: Nhặt từ map at 03/11/2023 11:08 AM
+BAG:calick add 2490xHoa hồng xanh (old: 2489) lydo: Nhặt từ map at 03/11/2023 11:08 AM
+BAG:calick add 2491xHoa hồng xanh (old: 2490) lydo: Nhặt từ map at 03/11/2023 11:08 AM
+BAG:calick add 2516xHoa hồng đỏ (old: 2515) lydo: Nhặt từ map at 03/11/2023 11:08 AM
+BAG:calick add 17xViên Capsule kì bí (old: 16) lydo: Nhặt từ map at 03/11/2023 11:08 AM
+BAG:calick add 2492xHoa hồng xanh (old: 2491) lydo: Nhặt từ map at 03/11/2023 11:08 AM
+BAG:calick add 3196xHoa hồng vàng (old: 3195) lydo: Nhặt từ map at 03/11/2023 11:08 AM
+BAG:calick add 3197xHoa hồng vàng (old: 3196) lydo: Nhặt từ map at 03/11/2023 11:08 AM
+BAG:calick add 18xViên Capsule kì bí (old: 17) lydo: Nhặt từ map at 03/11/2023 11:08 AM
+BAG:calick add 3198xHoa hồng vàng (old: 3197) lydo: Nhặt từ map at 03/11/2023 11:09 AM
+BAG:calick add 3199xHoa hồng vàng (old: 3198) lydo: Nhặt từ map at 03/11/2023 11:09 AM
+BAG:calick add 19xViên Capsule kì bí (old: 18) lydo: Nhặt từ map at 03/11/2023 11:09 AM
+BAG:calick add 23xNgọc Rồng 4 sao (old: 22) lydo: Nhặt từ map at 03/11/2023 11:09 AM
+BAG:calick add 20xViên Capsule kì bí (old: 19) lydo: Nhặt từ map at 03/11/2023 11:09 AM
+BAG:calick add 2517xHoa hồng đỏ (old: 2516) lydo: Nhặt từ map at 03/11/2023 11:09 AM
+BAG:calick add 2518xHoa hồng đỏ (old: 2517) lydo: Nhặt từ map at 03/11/2023 11:09 AM
+BAG:calick add 3200xHoa hồng vàng (old: 3199) lydo: Nhặt từ map at 03/11/2023 11:10 AM
+BAG:calick add 2493xHoa hồng xanh (old: 2492) lydo: Nhặt từ map at 03/11/2023 11:10 AM
+BAG:calick add 2494xHoa hồng xanh (old: 2493) lydo: Nhặt từ map at 03/11/2023 11:10 AM
+BAG:calick add 2495xHoa hồng xanh (old: 2494) lydo: Nhặt từ map at 03/11/2023 11:10 AM
+BAG:calick add 3201xHoa hồng vàng (old: 3200) lydo: Nhặt từ map at 03/11/2023 11:10 AM
+BAG:calick add 3202xHoa hồng vàng (old: 3201) lydo: Nhặt từ map at 03/11/2023 11:10 AM
+BAG:calick add 21xViên Capsule kì bí (old: 20) lydo: Nhặt từ map at 03/11/2023 11:10 AM
+BAG:calick add 22xViên Capsule kì bí (old: 21) lydo: Nhặt từ map at 03/11/2023 11:10 AM
+BAG:calick add 23xViên Capsule kì bí (old: 22) lydo: Nhặt từ map at 03/11/2023 11:10 AM
+BAG:calick add 2496xHoa hồng xanh (old: 2495) lydo: Nhặt từ map at 03/11/2023 11:10 AM
+BAG:calick add 2519xHoa hồng đỏ (old: 2518) lydo: Nhặt từ map at 03/11/2023 11:10 AM
+BAG:calick add 24xViên Capsule kì bí (old: 23) lydo: Nhặt từ map at 03/11/2023 11:11 AM
+BAG:calick add 3203xHoa hồng vàng (old: 3202) lydo: Nhặt từ map at 03/11/2023 11:11 AM
+BAG:calick add 2520xHoa hồng đỏ (old: 2519) lydo: Nhặt từ map at 03/11/2023 11:11 AM
+BAG:calick add 25xViên Capsule kì bí (old: 24) lydo: Nhặt từ map at 03/11/2023 11:11 AM
+BAG:calick add 2497xHoa hồng xanh (old: 2496) lydo: Nhặt từ map at 03/11/2023 11:11 AM
+BAG:calick add 2521xHoa hồng đỏ (old: 2520) lydo: Nhặt từ map at 03/11/2023 11:12 AM
+BAG:calick add 2498xHoa hồng xanh (old: 2497) lydo: Nhặt từ map at 03/11/2023 11:12 AM
+BAG:calick add 2499xHoa hồng xanh (old: 2498) lydo: Nhặt từ map at 03/11/2023 11:12 AM
+BAG:calick add 26xViên Capsule kì bí (old: 25) lydo: Nhặt từ map at 03/11/2023 11:12 AM
+BAG:calick add 2522xHoa hồng đỏ (old: 2521) lydo: Nhặt từ map at 03/11/2023 11:12 AM
+BAG:calick add 3204xHoa hồng vàng (old: 3203) lydo: Nhặt từ map at 03/11/2023 11:12 AM
+BAG:calick add 18xĐá lục bảo (old: 17) lydo: Nhặt từ map at 03/11/2023 11:12 AM
+BAG:calick add 3205xHoa hồng vàng (old: 3204) lydo: Nhặt từ map at 03/11/2023 11:12 AM
+BAG:calick add 27xViên Capsule kì bí (old: 26) lydo: Nhặt từ map at 03/11/2023 11:12 AM
+BAG:calick add 28xViên Capsule kì bí (old: 27) lydo: Nhặt từ map at 03/11/2023 11:12 AM
+BAG:calick add 29xViên Capsule kì bí (old: 28) lydo: Nhặt từ map at 03/11/2023 11:12 AM
+BAG:calick add 2523xHoa hồng đỏ (old: 2522) lydo: Nhặt từ map at 03/11/2023 11:13 AM
+BAG:calick add 3206xHoa hồng vàng (old: 3205) lydo: Nhặt từ map at 03/11/2023 11:13 AM
+BAG:calick add 30xViên Capsule kì bí (old: 29) lydo: Nhặt từ map at 03/11/2023 11:13 AM
+BAG:calick add 2500xHoa hồng xanh (old: 2499) lydo: Nhặt từ map at 03/11/2023 11:13 AM
+BAG:calick add 31xViên Capsule kì bí (old: 30) lydo: Nhặt từ map at 03/11/2023 11:13 AM
+BAG:calick add 3207xHoa hồng vàng (old: 3206) lydo: Nhặt từ map at 03/11/2023 11:13 AM
+BAG:calick add 3208xHoa hồng vàng (old: 3207) lydo: Nhặt từ map at 03/11/2023 11:13 AM
+BAG:calick add 1xMáy dò Capsule kì bí lydo: Mua từ cửa hàng at 03/11/2023 11:14 AM
+BAG:calick add 2xMáy dò Capsule kì bí (old: 1) lydo: Mua từ cửa hàng at 03/11/2023 11:14 AM
+BAG:calick add 3xMáy dò Capsule kì bí (old: 2) lydo: Mua từ cửa hàng at 03/11/2023 11:14 AM
+BAG:calick add 1xẨn danh lydo: CSKB at 03/11/2023 12:51 PM
+BAG:calick add 4xCuồng nộ (old: 3) lydo: CSKB at 03/11/2023 12:52 PM
+BAG:calick add 2xẨn danh (old: 1) lydo: CSKB at 03/11/2023 12:52 PM
+BAG:calick add 1xBổ huyết lydo: CSKB at 03/11/2023 12:52 PM
+BAG:calick add 5xCuồng nộ (old: 4) lydo: CSKB at 03/11/2023 12:52 PM
+BAG:calick add 3xẨn danh (old: 2) lydo: CSKB at 03/11/2023 12:52 PM
+BAG:calick add 4xẨn danh (old: 3) lydo: CSKB at 03/11/2023 12:52 PM
+BAG:calick add 5xẨn danh (old: 4) lydo: CSKB at 03/11/2023 12:53 PM
+BAG:calick add 1xBổ khí lydo: CSKB at 03/11/2023 12:53 PM
+BAG:calick add 6xẨn danh (old: 5) lydo: CSKB at 03/11/2023 12:53 PM
+BAG:calick add 6xCuồng nộ (old: 5) lydo: CSKB at 03/11/2023 12:53 PM
+BAG:calick add 7xCuồng nộ (old: 6) lydo: CSKB at 03/11/2023 12:53 PM
+BAG:calick add 7xẨn danh (old: 6) lydo: CSKB at 03/11/2023 12:53 PM
+BAG:calick add 8xẨn danh (old: 7) lydo: CSKB at 03/11/2023 12:53 PM
+BAG:calick add 9xẨn danh (old: 8) lydo: CSKB at 03/11/2023 12:53 PM
+BAG:calick add 10xẨn danh (old: 9) lydo: CSKB at 03/11/2023 12:53 PM
+BAG:calick add 11xẨn danh (old: 10) lydo: CSKB at 03/11/2023 12:53 PM
+BAG:calick add 2xBổ khí (old: 1) lydo: CSKB at 03/11/2023 12:53 PM
+BAG:calick add 12xẨn danh (old: 11) lydo: CSKB at 03/11/2023 12:54 PM
+BAG:calick add 13xẨn danh (old: 12) lydo: CSKB at 03/11/2023 12:54 PM
+BAG:calick add 14xẨn danh (old: 13) lydo: CSKB at 03/11/2023 12:54 PM
+BAG:calick add 15xẨn danh (old: 14) lydo: CSKB at 03/11/2023 12:54 PM
+BAG:calick add 16xẨn danh (old: 15) lydo: CSKB at 03/11/2023 12:54 PM
+BAG:calick add 8xCuồng nộ (old: 7) lydo: CSKB at 03/11/2023 12:54 PM
+BAG:calick add 17xẨn danh (old: 16) lydo: CSKB at 03/11/2023 12:54 PM
+BAG:calick add 18xẨn danh (old: 17) lydo: CSKB at 03/11/2023 12:54 PM
+BAG:calick add 19xẨn danh (old: 18) lydo: CSKB at 03/11/2023 12:54 PM
+BAG:calick add 9xCuồng nộ (old: 8) lydo: CSKB at 03/11/2023 12:54 PM
+BAG:calick add 20xẨn danh (old: 19) lydo: CSKB at 03/11/2023 12:54 PM
+BAG:calick add 3xBổ khí (old: 2) lydo: CSKB at 03/11/2023 12:54 PM
+BAG:calick add 21xẨn danh (old: 20) lydo: CSKB at 03/11/2023 12:54 PM
+BAG:calick add 22xẨn danh (old: 21) lydo: CSKB at 03/11/2023 12:55 PM
+BAG:calick add 23xẨn danh (old: 22) lydo: CSKB at 03/11/2023 12:55 PM
+BAG:calick add 2xBổ huyết (old: 1) lydo: CSKB at 03/11/2023 12:55 PM
+BAG:calick add 24xẨn danh (old: 23) lydo: CSKB at 03/11/2023 12:55 PM
+BAG:calick add 4xBổ khí (old: 3) lydo: CSKB at 03/11/2023 12:55 PM
+BAG:calick add 10xCuồng nộ (old: 9) lydo: CSKB at 03/11/2023 12:56 PM
+BAG:calick add 5xBổ khí (old: 4) lydo: CSKB at 03/11/2023 12:56 PM
+BAG:calick add 25xẨn danh (old: 24) lydo: CSKB at 03/11/2023 12:56 PM
+BAG:calick add 11xCuồng nộ (old: 10) lydo: CSKB at 03/11/2023 12:56 PM
+BAG:calick add 3xBổ huyết (old: 2) lydo: CSKB at 03/11/2023 12:56 PM
+BAG:calick add 12xCuồng nộ (old: 11) lydo: CSKB at 03/11/2023 12:56 PM
+BAG:calick add 26xẨn danh (old: 25) lydo: CSKB at 03/11/2023 12:56 PM
+BAG:calick add 4xBổ huyết (old: 3) lydo: CSKB at 03/11/2023 12:56 PM
+BAG:calick add 13xCuồng nộ (old: 12) lydo: CSKB at 03/11/2023 12:56 PM
+BAG:calick add 19xĐá Titan (old: 18) lydo: Nhặt từ map at 03/11/2023 12:58 PM
+BAG:calick add 2501xHoa hồng xanh (old: 2500) lydo: Nhặt từ map at 03/11/2023 12:58 PM
+BAG:calick add 42xNgọc Rồng 5 sao (old: 41) lydo: Nhặt từ map at 03/11/2023 12:58 PM
+BAG:calick add 2524xHoa hồng đỏ (old: 2523) lydo: Nhặt từ map at 03/11/2023 12:58 PM
+BAG:calick add 3209xHoa hồng vàng (old: 3208) lydo: Nhặt từ map at 03/11/2023 1:00 PM
+BAG:calick add 1xGiáp tập luyện cấp 3 lydo: Lấy từ body vào hành trang at 03/11/2023 1:01 PM
+BAG:calick add 1xGiáp tập luyện cấp 3 lydo: Lấy từ body vào hành trang at 03/11/2023 1:03 PM
+BAG:calick add 1xGiáp tập luyện cấp 3 lydo: Lấy từ body vào hành trang at 03/11/2023 1:05 PM
+BAG:calick add 2525xHoa hồng đỏ (old: 2524) lydo: Nhặt từ map at 03/11/2023 1:05 PM
+BAG:calick add 13xĐá Ruby (old: 12) lydo: Nhặt từ map at 03/11/2023 1:08 PM
+BAG:calick add 2526xHoa hồng đỏ (old: 2525) lydo: Nhặt từ map at 03/11/2023 1:08 PM
+BAG:calick add 14xĐá Ruby (old: 13) lydo: Nhặt từ map at 03/11/2023 1:08 PM
+BAG:calick add 3210xHoa hồng vàng (old: 3209) lydo: Nhặt từ map at 03/11/2023 1:09 PM
+BAG:calick add 15xĐá Ruby (old: 14) lydo: Nhặt từ map at 03/11/2023 1:10 PM
+BAG:calick add 2527xHoa hồng đỏ (old: 2526) lydo: Nhặt từ map at 03/11/2023 1:11 PM
+BAG:calick add 1xGiáp tập luyện cấp 3 lydo: Lấy từ body vào hành trang at 03/11/2023 1:12 PM
+BAG:calick add 3211xHoa hồng vàng (old: 3210) lydo: Nhặt từ map at 03/11/2023 1:17 PM
+BAG:calick add 2502xHoa hồng xanh (old: 2501) lydo: Nhặt từ map at 03/11/2023 1:17 PM
+BAG:calick add 2503xHoa hồng xanh (old: 2502) lydo: Nhặt từ map at 03/11/2023 1:18 PM

@@ -1,0 +1,138 @@
+BAG:boydz add 1xĐổi đệ tử lydo: Mua từ cửa hàng at 03/12/2023 3:37 PM
+BAG:boydz add 2xĐổi đệ tử (old: 1) lydo: Mua từ cửa hàng at 03/12/2023 3:37 PM
+BAG:boydz add 3xĐổi đệ tử (old: 2) lydo: Mua từ cửa hàng at 03/12/2023 3:37 PM
+BAG:boydz add 1xRada cấp 1 lydo: Lấy từ body đệ vào hành trang at 03/12/2023 3:37 PM
+BAG:boydz add 1xGiầy nhựa lydo: Lấy từ body vào hành trang at 03/12/2023 3:37 PM
+BAG:boydz add 1xHoa hồng xanh lydo: Nhặt từ map at 03/12/2023 3:41 PM
+BAG:boydz add 1xHoa hồng vàng lydo: Nhặt từ map at 03/12/2023 3:41 PM
+BAG:boydz add 1xHoa hồng đỏ lydo: Nhặt từ map at 03/12/2023 3:44 PM
+BAG:boydz add 2xHoa hồng đỏ (old: 1) lydo: Nhặt từ map at 03/12/2023 3:44 PM
+BAG:boydz add 2xHoa hồng vàng (old: 1) lydo: Nhặt từ map at 03/12/2023 3:45 PM
+BAG:boydz add 2xHoa hồng xanh (old: 1) lydo: Nhặt từ map at 03/12/2023 3:46 PM
+BAG:boydz add 3xHoa hồng đỏ (old: 2) lydo: Nhặt từ map at 03/12/2023 3:47 PM
+BAG:boydz add 4xHoa hồng đỏ (old: 3) lydo: Nhặt từ map at 03/12/2023 3:49 PM
+BAG:boydz add 5xHoa hồng đỏ (old: 4) lydo: Nhặt từ map at 03/12/2023 3:50 PM
+BAG:boydz add 4xĐá Saphia (old: 3) lydo: Nhặt từ map at 03/12/2023 3:51 PM
+BAG:boydz add 6xHoa hồng đỏ (old: 5) lydo: Nhặt từ map at 03/12/2023 3:53 PM
+BAG:boydz add 3xHoa hồng xanh (old: 2) lydo: Nhặt từ map at 03/12/2023 3:53 PM
+BAG:boydz add 7xHoa hồng đỏ (old: 6) lydo: Nhặt từ map at 03/12/2023 3:54 PM
+BAG:boydz add 6xĐá Titan (old: 5) lydo: Nhặt từ map at 03/12/2023 3:55 PM
+BAG:boydz add 3xHoa hồng vàng (old: 2) lydo: Nhặt từ map at 03/12/2023 3:55 PM
+BAG:boydz add 5xĐá lục bảo (old: 4) lydo: Nhặt từ map at 03/12/2023 3:57 PM
+BAG:boydz add 4xHoa hồng vàng (old: 3) lydo: Nhặt từ map at 03/12/2023 3:58 PM
+BAG:boydz add 5xĐậu thần cấp 1 lydo: Thu hoạch đậu at 03/12/2023 4:00 PM
+BAG:boydz add 9xĐậu thần cấp 1 (old: 4) lydo: Thu hoạch đậu at 03/12/2023 4:00 PM
+BAG:boydz add 5xHoa hồng vàng (old: 4) lydo: Nhặt từ map at 03/12/2023 4:01 PM
+BAG:boydz add 6xHoa hồng vàng (old: 5) lydo: Nhặt từ map at 03/12/2023 4:01 PM
+BAG:boydz add 6xĐá lục bảo (old: 5) lydo: Nhặt từ map at 03/12/2023 4:02 PM
+BAG:boydz add 8xHoa hồng đỏ (old: 7) lydo: Nhặt từ map at 03/12/2023 4:05 PM
+BAG:boydz add 4xHoa hồng xanh (old: 3) lydo: Nhặt từ map at 03/12/2023 4:06 PM
+BAG:boydz add 1xBông tai Porata lydo: Mua từ cửa hàng at 03/12/2023 4:07 PM
+BAG:boydz add 5xHoa hồng xanh (old: 4) lydo: Nhặt từ map at 03/12/2023 4:09 PM
+BAG:boydz add 1xHoa hồng xanh lydo: Nhặt từ map at 03/12/2023 4:09 PM
+BAG:boydz add 1xÁo vải 3 lỗ lydo: Lấy từ rương qua người at 03/12/2023 4:11 PM
+BAG:boydz add 1xQuần vải đen lydo: Lấy từ rương qua người at 03/12/2023 4:11 PM
+BAG:boydz add 1xGăng vải đen lydo: Lấy từ rương qua người at 03/12/2023 4:11 PM
+BAG:boydz add 1xRada cấp 1 lydo: Lấy từ rương qua người at 03/12/2023 4:11 PM
+BAG:boydz add 1xGiầy nhựa lydo: Lấy từ rương qua người at 03/12/2023 4:11 PM
+BAG:boydz add 7xĐậu thần cấp 1 (old: 2) lydo: Thu hoạch đậu at 03/12/2023 4:12 PM
+BAG:boydz add 1xHoa hồng xanh lydo: Nhặt từ map at 03/12/2023 4:31 PM
+BAG:boydz add 1xHoa hồng vàng lydo: Nhặt từ map at 03/12/2023 4:31 PM
+BAG:boydz add 1xCột nhà lydo: Mua từ cửa hàng at 03/12/2023 4:35 PM
+BAG:boydz add 1xNâng cấp kỹ năng 1 đệ tử lydo: Mua từ cửa hàng at 03/12/2023 4:39 PM
+BAG:boydz add 2xNâng cấp kỹ năng 1 đệ tử (old: 1) lydo: Mua từ cửa hàng at 03/12/2023 4:39 PM
+BAG:boydz add 1xNâng cấp kỹ năng 1 đệ tử lydo: Mua từ cửa hàng at 03/12/2023 4:40 PM
+BAG:boydz add 1xNâng cấp kỹ năng 2 đệ tử lydo: Mua từ cửa hàng at 03/12/2023 4:40 PM
+BAG:boydz add 2xNâng cấp kỹ năng 2 đệ tử (old: 1) lydo: Mua từ cửa hàng at 03/12/2023 4:40 PM
+BAG:boydz add 3xNâng cấp kỹ năng 2 đệ tử (old: 2) lydo: Mua từ cửa hàng at 03/12/2023 4:40 PM
+BAG:boydz add 4xNâng cấp kỹ năng 2 đệ tử (old: 3) lydo: Mua từ cửa hàng at 03/12/2023 4:40 PM
+BAG:boydz add 5xNâng cấp kỹ năng 2 đệ tử (old: 4) lydo: Mua từ cửa hàng at 03/12/2023 4:40 PM
+BAG:boydz add 6xNâng cấp kỹ năng 2 đệ tử (old: 5) lydo: Mua từ cửa hàng at 03/12/2023 4:40 PM
+BAG:boydz add 1xNezuko lydo: Mua từ bill at 03/12/2023 4:41 PM
+BAG:boydz add 1xGăng vải Kame lydo: Mua từ cửa hàng at 03/12/2023 4:49 PM
+BAG:boydz add 9xĐậu thần cấp 1 (old: 4) lydo: Thu hoạch đậu at 03/12/2023 4:49 PM
+BAG:boydz add 1xHoa hồng đỏ lydo: Nhặt từ map at 03/12/2023 5:01 PM
+BAG:boydz add 1xHoa hồng vàng lydo: Nhặt từ map at 03/12/2023 5:01 PM
+BAG:boydz add 1xĐá Ruby lydo: Nhặt từ map at 03/12/2023 5:01 PM
+BAG:boydz add 1xĐá Titan lydo: Nhặt từ map at 03/12/2023 5:01 PM
+BAG:boydz add 2xĐá Titan (old: 1) lydo: Nhặt từ map at 03/12/2023 5:01 PM
+BAG:boydz add 2xHoa hồng vàng (old: 1) lydo: Nhặt từ map at 03/12/2023 5:01 PM
+BAG:boydz add 1xĐá thạch anh tím lydo: Nhặt từ map at 03/12/2023 5:01 PM
+BAG:boydz add 1xHoa hồng xanh lydo: Nhặt từ map at 03/12/2023 5:01 PM
+BAG:boydz add 3xHoa hồng vàng (old: 2) lydo: Nhặt từ map at 03/12/2023 5:01 PM
+BAG:boydz add 4xHoa hồng vàng (old: 3) lydo: Nhặt từ map at 03/12/2023 5:01 PM
+BAG:boydz add 2xHoa hồng đỏ (old: 1) lydo: Nhặt từ map at 03/12/2023 5:01 PM
+BAG:boydz add 5xHoa hồng vàng (old: 4) lydo: Nhặt từ map at 03/12/2023 5:02 PM
+BAG:boydz add 6xHoa hồng vàng (old: 5) lydo: Nhặt từ map at 03/12/2023 5:02 PM
+BAG:boydz add 7xHoa hồng vàng (old: 6) lydo: Nhặt từ map at 03/12/2023 5:02 PM
+BAG:boydz add 3xHoa hồng đỏ (old: 2) lydo: Nhặt từ map at 03/12/2023 5:02 PM
+BAG:boydz add 2xĐá thạch anh tím (old: 1) lydo: Nhặt từ map at 03/12/2023 5:03 PM
+BAG:boydz add 2xHoa hồng xanh (old: 1) lydo: Nhặt từ map at 03/12/2023 5:03 PM
+BAG:boydz add 8xHoa hồng vàng (old: 7) lydo: Nhặt từ map at 03/12/2023 5:03 PM
+BAG:boydz add 1xĐá lục bảo lydo: Nhặt từ map at 03/12/2023 5:05 PM
+BAG:boydz add 9xHoa hồng vàng (old: 8) lydo: Nhặt từ map at 03/12/2023 5:05 PM
+BAG:boydz add 10xHoa hồng vàng (old: 9) lydo: Nhặt từ map at 03/12/2023 5:05 PM
+BAG:boydz add 3xHoa hồng xanh (old: 2) lydo: Nhặt từ map at 03/12/2023 5:05 PM
+BAG:boydz add 4xHoa hồng xanh (old: 3) lydo: Nhặt từ map at 03/12/2023 5:05 PM
+BAG:boydz add 5xHoa hồng xanh (old: 4) lydo: Nhặt từ map at 03/12/2023 5:05 PM
+BAG:boydz add 11xHoa hồng vàng (old: 10) lydo: Nhặt từ map at 03/12/2023 5:05 PM
+BAG:boydz add 12xHoa hồng vàng (old: 11) lydo: Nhặt từ map at 03/12/2023 5:05 PM
+BAG:boydz add 4xHoa hồng đỏ (old: 3) lydo: Nhặt từ map at 03/12/2023 5:05 PM
+BAG:boydz add 5xHoa hồng đỏ (old: 4) lydo: Nhặt từ map at 03/12/2023 5:06 PM
+BAG:boydz add 6xHoa hồng đỏ (old: 5) lydo: Nhặt từ map at 03/12/2023 5:06 PM
+BAG:boydz add 7xHoa hồng đỏ (old: 6) lydo: Nhặt từ map at 03/12/2023 5:06 PM
+BAG:boydz add 1xĐá Saphia lydo: Nhặt từ map at 03/12/2023 5:06 PM
+BAG:boydz add 8xHoa hồng đỏ (old: 7) lydo: Nhặt từ map at 03/12/2023 5:06 PM
+BAG:boydz add 1xĐậu thần cấp 9 lydo: Clan cho đậu at 03/12/2023 5:06 PM
+BAG:boydz add 2xĐậu thần cấp 9 (old: 1) lydo: Clan cho đậu at 03/12/2023 5:06 PM
+BAG:boydz add 3xĐậu thần cấp 9 (old: 2) lydo: Clan cho đậu at 03/12/2023 5:06 PM
+BAG:boydz add 4xĐậu thần cấp 9 (old: 3) lydo: Clan cho đậu at 03/12/2023 5:06 PM
+BAG:boydz add 6xHoa hồng xanh (old: 5) lydo: Nhặt từ map at 03/12/2023 5:06 PM
+BAG:boydz add 2xĐá Ruby (old: 1) lydo: Nhặt từ map at 03/12/2023 5:06 PM
+BAG:boydz add 13xHoa hồng vàng (old: 12) lydo: Nhặt từ map at 03/12/2023 5:06 PM
+BAG:boydz add 5xĐậu thần cấp 9 (old: 4) lydo: Clan cho đậu at 03/12/2023 5:06 PM
+BAG:boydz add 7xHoa hồng xanh (old: 6) lydo: Nhặt từ map at 03/12/2023 5:07 PM
+BAG:boydz add 9xHoa hồng đỏ (old: 8) lydo: Nhặt từ map at 03/12/2023 5:07 PM
+BAG:boydz add 8xHoa hồng xanh (old: 7) lydo: Nhặt từ map at 03/12/2023 5:07 PM
+BAG:boydz add 14xHoa hồng vàng (old: 13) lydo: Nhặt từ map at 03/12/2023 5:07 PM
+BAG:boydz add 10xHoa hồng đỏ (old: 9) lydo: Nhặt từ map at 03/12/2023 5:07 PM
+BAG:boydz add 2xĐá lục bảo (old: 1) lydo: Nhặt từ map at 03/12/2023 5:07 PM
+BAG:boydz add 1xHoa hồng đỏ lydo: Nhặt từ map at 03/12/2023 5:09 PM
+BAG:boydz add 1xHoa hồng xanh lydo: Nhặt từ map at 03/12/2023 5:09 PM
+BAG:boydz add 2xHoa hồng đỏ (old: 1) lydo: Nhặt từ map at 03/12/2023 5:09 PM
+BAG:boydz add 3xHoa hồng đỏ (old: 2) lydo: Nhặt từ map at 03/12/2023 5:09 PM
+BAG:boydz add 4xHoa hồng đỏ (old: 3) lydo: Nhặt từ map at 03/12/2023 5:09 PM
+BAG:boydz add 1xHoa hồng vàng lydo: Nhặt từ map at 03/12/2023 5:09 PM
+BAG:boydz add 2xHoa hồng vàng (old: 1) lydo: Nhặt từ map at 03/12/2023 5:09 PM
+BAG:boydz add 5xHoa hồng đỏ (old: 4) lydo: Nhặt từ map at 03/12/2023 5:09 PM
+BAG:boydz add 2xHoa hồng xanh (old: 1) lydo: Nhặt từ map at 03/12/2023 5:09 PM
+BAG:boydz add 3xĐá thạch anh tím (old: 2) lydo: Nhặt từ map at 03/12/2023 5:09 PM
+BAG:boydz add 4xĐá thạch anh tím (old: 3) lydo: Nhặt từ map at 03/12/2023 5:09 PM
+BAG:boydz add 3xHoa hồng vàng (old: 2) lydo: Nhặt từ map at 03/12/2023 5:09 PM
+BAG:boydz add 6xHoa hồng đỏ (old: 5) lydo: Nhặt từ map at 03/12/2023 5:10 PM
+BAG:boydz add 3xĐá Ruby (old: 2) lydo: Nhặt từ map at 03/12/2023 5:10 PM
+BAG:boydz add 10xĐậu thần cấp 9 (old: 2) lydo: Thu hoạch đậu at 03/12/2023 7:06 PM
+BAG:boydz add 30xĐậu thần cấp 9 (old: 10) lydo: Lấy từ rương qua người at 03/12/2023 7:06 PM
+BAG:boydz add 50xĐậu thần cấp 9 (old: 30) lydo: Lấy từ rương qua người at 03/12/2023 7:06 PM
+BAG:boydz add 70xĐậu thần cấp 9 (old: 50) lydo: Lấy từ rương qua người at 03/12/2023 7:06 PM
+BAG:boydz add 90xĐậu thần cấp 9 (old: 70) lydo: Lấy từ rương qua người at 03/12/2023 7:06 PM
+BAG:boydz add 1xGăng thun Kame lydo: Mua từ cửa hàng at 03/12/2023 7:07 PM
+BAG:boydz add 1xÁo vải 3 lỗ lydo: Lấy từ body vào hành trang at 03/12/2023 7:10 PM
+BAG:boydz add 1xQuần vải đen lydo: Lấy từ body vào hành trang at 03/12/2023 7:10 PM
+BAG:boydz add 1xGiầy nhựa lydo: Lấy từ body vào hành trang at 03/12/2023 7:10 PM
+BAG:boydz add 1xRada cấp 1 lydo: Lấy từ body vào hành trang at 03/12/2023 7:10 PM
+BAG:boydz add 1xTanjiro lydo: Mua từ bill at 03/12/2023 7:11 PM
+BAG:boydz add 99xNgọc Rồng 3 sao lydo: Lấy từ rương qua người at 03/12/2023 7:19 PM
+BAG:boydz add 1xGăng võ Kame lydo: Mua từ cửa hàng at 03/12/2023 8:02 PM
+BAG:boydz add 1xQuỷ Chim lydo: Mua từ cửa hàng at 03/12/2023 8:02 PM
+BAG:boydz add 1xGăng võ goku lydo: Mua từ cửa hàng at 03/12/2023 8:14 PM
+BAG:boydz add 1xĐá Ruby lydo: Nhặt từ map at 03/12/2023 8:17 PM
+BAG:boydz add 1xHoa hồng đỏ lydo: Nhặt từ map at 03/12/2023 8:17 PM
+BAG:boydz add 1xHoa hồng vàng lydo: Nhặt từ map at 03/12/2023 8:17 PM
+BAG:boydz add 2xHoa hồng đỏ (old: 1) lydo: Nhặt từ map at 03/12/2023 8:17 PM
+BAG:boydz add 1xGăng bạc Goku lydo: Mua từ cửa hàng at 03/12/2023 9:04 PM
+BAG:boydz add 1xHoa hồng xanh lydo: Nhặt từ map at 03/12/2023 10:23 PM
+BAG:boydz add 2xHoa hồng xanh (old: 1) lydo: Nhặt từ map at 03/12/2023 10:33 PM
+BAG:boydz add 79xĐậu thần cấp 9 (old: 59) lydo: Lấy từ rương qua người at 03/12/2023 10:57 PM
+BAG:boydz add 1xGăng vàng Goku lydo: Mua từ cửa hàng at 03/12/2023 10:57 PM
+BAG:boydz add 1xGiáp tập luyện cấp 3 lydo: Mua từ cửa hàng at 03/12/2023 10:58 PM

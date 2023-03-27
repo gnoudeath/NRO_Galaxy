@@ -1,0 +1,526 @@
+BAG:vegeta add 100xThỏi vàng lydo: Giftcode at 03/11/2023 6:07 PM
+BAG:vegeta add 1xCT Genma 02 lydo: Lấy từ rương qua người at 03/11/2023 7:58 PM
+BAG:vegeta add 1xRada cấp 1 lydo: Lấy từ rương qua người at 03/11/2023 7:58 PM
+BAG:vegeta add 1xÁo vải thô lydo: Lấy từ rương qua người at 03/11/2023 7:58 PM
+BAG:vegeta add 1xGăng vải thô lydo: Lấy từ rương qua người at 03/11/2023 7:59 PM
+BAG:vegeta add 1xQuần vải thô lydo: Lấy từ rương qua người at 03/11/2023 7:59 PM
+BAG:vegeta add 1xGiầy vải thô lydo: Lấy từ rương qua người at 03/11/2023 7:59 PM
+BAG:vegeta add 1xRada cấp 1 lydo: Lấy từ rương qua người at 03/11/2023 7:59 PM
+BAG:vegeta add 1xQuần vải thô lydo: Lấy từ rương qua người at 03/11/2023 7:59 PM
+BAG:vegeta add 1xGăng vải thô lydo: Lấy từ rương qua người at 03/11/2023 7:59 PM
+BAG:vegeta add 1xÁo vải thô lydo: Lấy từ rương qua người at 03/11/2023 7:59 PM
+BAG:vegeta add 1xGiầy vải thô lydo: Lấy từ rương qua người at 03/11/2023 7:59 PM
+BAG:vegeta add 40xNgọc Rồng 7 sao (old: 39) lydo: Lấy từ lucky box at 03/11/2023 8:04 PM
+BAG:vegeta add 1xSao pha lê lydo: Lấy từ lucky box at 03/11/2023 8:04 PM
+BAG:vegeta add 1xSao pha lê lydo: Lấy từ lucky box at 03/11/2023 8:04 PM
+BAG:vegeta add 1xSao pha lê lydo: Lấy từ lucky box at 03/11/2023 8:04 PM
+BAG:vegeta add 1xSao pha lê lydo: Lấy từ lucky box at 03/11/2023 8:04 PM
+BAG:vegeta add 41xNgọc Rồng 7 sao (old: 40) lydo: Lấy từ lucky box at 03/11/2023 8:04 PM
+BAG:vegeta add 1xVệ tinh sinh lực lydo: Lấy từ lucky box at 03/11/2023 8:04 PM
+BAG:vegeta add 2xSao pha lê (old: 1) lydo: Lấy từ lucky box at 03/11/2023 8:04 PM
+BAG:vegeta add 5xNgọc Rồng 4 sao (old: 4) lydo: Lấy từ lucky box at 03/11/2023 8:04 PM
+BAG:vegeta add 1xVệ tinh trí tuệ lydo: Lấy từ lucky box at 03/11/2023 8:04 PM
+BAG:vegeta add 1xCải trang Hatchiyack lydo: Lấy từ lucky box at 03/11/2023 8:04 PM
+BAG:vegeta add 1xSao pha lê lydo: Lấy từ lucky box at 03/11/2023 8:04 PM
+BAG:vegeta add 1xCải trang Hatchiyack lydo: Lấy từ lucky box at 03/11/2023 8:04 PM
+BAG:vegeta add 1xVệ tinh phòng thủ lydo: Lấy từ lucky box at 03/11/2023 8:04 PM
+BAG:vegeta add 2xVệ tinh phòng thủ (old: 1) lydo: Lấy từ lucky box at 03/11/2023 8:04 PM
+BAG:vegeta add 2xSao pha lê (old: 1) lydo: Lấy từ lucky box at 03/11/2023 8:04 PM
+BAG:vegeta add 2xSao pha lê (old: 1) lydo: Lấy từ lucky box at 03/11/2023 8:04 PM
+BAG:vegeta add 3xSao pha lê (old: 2) lydo: Lấy từ lucky box at 03/11/2023 8:04 PM
+BAG:vegeta add 64xNgọc Rồng 6 sao (old: 63) lydo: Lấy từ lucky box at 03/11/2023 8:04 PM
+BAG:vegeta add 53xNgọc Rồng 5 sao (old: 52) lydo: Lấy từ lucky box at 03/11/2023 8:04 PM
+BAG:vegeta add 2xSao pha lê (old: 1) lydo: Lấy từ lucky box at 03/11/2023 8:04 PM
+BAG:vegeta add 3xSao pha lê (old: 2) lydo: Lấy từ lucky box at 03/11/2023 8:04 PM
+BAG:vegeta add 65xNgọc Rồng 6 sao (old: 64) lydo: Lấy từ lucky box at 03/11/2023 8:04 PM
+BAG:vegeta add 2xVệ tinh trí tuệ (old: 1) lydo: Lấy từ lucky box at 03/11/2023 8:04 PM
+BAG:vegeta add 66xNgọc Rồng 6 sao (old: 65) lydo: Lấy từ lucky box at 03/11/2023 8:04 PM
+BAG:vegeta add 3xVệ tinh phòng thủ (old: 2) lydo: Lấy từ lucky box at 03/11/2023 8:04 PM
+BAG:vegeta add 3xSao pha lê (old: 2) lydo: Lấy từ lucky box at 03/11/2023 8:04 PM
+BAG:vegeta add 4xSao pha lê (old: 3) lydo: Lấy từ lucky box at 03/11/2023 8:04 PM
+BAG:vegeta add 67xNgọc Rồng 6 sao (old: 66) lydo: Lấy từ lucky box at 03/11/2023 8:04 PM
+BAG:vegeta add 4xSao pha lê (old: 3) lydo: Lấy từ lucky box at 03/11/2023 8:04 PM
+BAG:vegeta add 68xNgọc Rồng 6 sao (old: 67) lydo: Lấy từ lucky box at 03/11/2023 8:04 PM
+BAG:vegeta add 54xNgọc Rồng 5 sao (old: 53) lydo: Lấy từ lucky box at 03/11/2023 8:04 PM
+BAG:vegeta add 3xVệ tinh trí tuệ (old: 2) lydo: Lấy từ lucky box at 03/11/2023 8:04 PM
+BAG:vegeta add 1xSao pha lê lydo: Lấy từ lucky box at 03/11/2023 8:04 PM
+BAG:vegeta add 2xSao pha lê (old: 1) lydo: Lấy từ lucky box at 03/11/2023 8:04 PM
+BAG:vegeta add 2xVệ tinh sinh lực (old: 1) lydo: Lấy từ lucky box at 03/11/2023 8:04 PM
+BAG:vegeta add 5xSao pha lê (old: 4) lydo: Lấy từ lucky box at 03/11/2023 8:04 PM
+BAG:vegeta add 2xSao pha lê (old: 1) lydo: Lấy từ lucky box at 03/11/2023 8:04 PM
+BAG:vegeta add 4xSao pha lê (old: 3) lydo: Lấy từ lucky box at 03/11/2023 8:04 PM
+BAG:vegeta add 6xNgọc Rồng 4 sao (old: 5) lydo: Lấy từ lucky box at 03/11/2023 8:04 PM
+BAG:vegeta add 5xSao pha lê (old: 4) lydo: Lấy từ lucky box at 03/11/2023 8:04 PM
+BAG:vegeta add 55xNgọc Rồng 5 sao (old: 54) lydo: Lấy từ lucky box at 03/11/2023 8:04 PM
+BAG:vegeta add 42xNgọc Rồng 7 sao (old: 41) lydo: Lấy từ lucky box at 03/11/2023 8:04 PM
+BAG:vegeta add 6xSao pha lê (old: 5) lydo: Lấy từ lucky box at 03/11/2023 8:04 PM
+BAG:vegeta add 4xVệ tinh phòng thủ (old: 3) lydo: Lấy từ lucky box at 03/11/2023 8:04 PM
+BAG:vegeta add 3xSao pha lê (old: 2) lydo: Lấy từ lucky box at 03/11/2023 8:04 PM
+BAG:vegeta add 6xSao pha lê (old: 5) lydo: Lấy từ lucky box at 03/11/2023 8:04 PM
+BAG:vegeta add 1xSao pha lê lydo: Lấy từ lucky box at 03/11/2023 8:04 PM
+BAG:vegeta add 1xSao pha lê lydo: Lấy từ lucky box at 03/11/2023 8:07 PM
+BAG:vegeta add 1xVệ tinh trí tuệ lydo: Lấy từ lucky box at 03/11/2023 8:07 PM
+BAG:vegeta add 1xVệ tinh phòng thủ lydo: Lấy từ lucky box at 03/11/2023 8:07 PM
+BAG:vegeta add 1xSao pha lê lydo: Lấy từ lucky box at 03/11/2023 8:07 PM
+BAG:vegeta add 2xVệ tinh phòng thủ (old: 1) lydo: Lấy từ lucky box at 03/11/2023 8:07 PM
+BAG:vegeta add 1xSao pha lê lydo: Lấy từ lucky box at 03/11/2023 8:07 PM
+BAG:vegeta add 56xNgọc Rồng 5 sao (old: 55) lydo: Lấy từ lucky box at 03/11/2023 8:07 PM
+BAG:vegeta add 1xSao pha lê lydo: Lấy từ lucky box at 03/11/2023 8:07 PM
+BAG:vegeta add 69xNgọc Rồng 6 sao (old: 68) lydo: Lấy từ lucky box at 03/11/2023 8:07 PM
+BAG:vegeta add 2xSao pha lê (old: 1) lydo: Lấy từ lucky box at 03/11/2023 8:07 PM
+BAG:vegeta add 43xNgọc Rồng 7 sao (old: 42) lydo: Lấy từ lucky box at 03/11/2023 8:07 PM
+BAG:vegeta add 2xSao pha lê (old: 1) lydo: Lấy từ lucky box at 03/11/2023 8:07 PM
+BAG:vegeta add 1xCải trang Hatchiyack lydo: Lấy từ lucky box at 03/11/2023 8:07 PM
+BAG:vegeta add 3xVệ tinh phòng thủ (old: 2) lydo: Lấy từ lucky box at 03/11/2023 8:07 PM
+BAG:vegeta add 57xNgọc Rồng 5 sao (old: 56) lydo: Lấy từ lucky box at 03/11/2023 8:07 PM
+BAG:vegeta add 70xNgọc Rồng 6 sao (old: 69) lydo: Lấy từ lucky box at 03/11/2023 8:07 PM
+BAG:vegeta add 7xNgọc Rồng 4 sao (old: 6) lydo: Lấy từ lucky box at 03/11/2023 8:07 PM
+BAG:vegeta add 1xSao pha lê lydo: Lấy từ lucky box at 03/11/2023 8:07 PM
+BAG:vegeta add 1xCải trang Hatchiyack lydo: Lấy từ lucky box at 03/11/2023 8:07 PM
+BAG:vegeta add 2xSao pha lê (old: 1) lydo: Lấy từ lucky box at 03/11/2023 8:07 PM
+BAG:vegeta add 71xNgọc Rồng 6 sao (old: 70) lydo: Lấy từ lucky box at 03/11/2023 8:07 PM
+BAG:vegeta add 8xNgọc Rồng 4 sao (old: 7) lydo: Lấy từ lucky box at 03/11/2023 8:07 PM
+BAG:vegeta add 44xNgọc Rồng 7 sao (old: 43) lydo: Lấy từ lucky box at 03/11/2023 8:07 PM
+BAG:vegeta add 45xNgọc Rồng 7 sao (old: 44) lydo: Lấy từ lucky box at 03/11/2023 8:07 PM
+BAG:vegeta add 72xNgọc Rồng 6 sao (old: 71) lydo: Lấy từ lucky box at 03/11/2023 8:07 PM
+BAG:vegeta add 1xVệ tinh trí lực lydo: Lấy từ lucky box at 03/11/2023 8:07 PM
+BAG:vegeta add 2xVệ tinh trí lực (old: 1) lydo: Lấy từ lucky box at 03/11/2023 8:07 PM
+BAG:vegeta add 4xVệ tinh phòng thủ (old: 3) lydo: Lấy từ lucky box at 03/11/2023 8:07 PM
+BAG:vegeta add 2xSao pha lê (old: 1) lydo: Lấy từ lucky box at 03/11/2023 8:07 PM
+BAG:vegeta add 1xVệ tinh sinh lực lydo: Lấy từ lucky box at 03/11/2023 8:07 PM
+BAG:vegeta add 73xNgọc Rồng 6 sao (old: 72) lydo: Lấy từ lucky box at 03/11/2023 8:07 PM
+BAG:vegeta add 1xSao pha lê lydo: Lấy từ lucky box at 03/11/2023 8:07 PM
+BAG:vegeta add 1xHoa hồng đỏ lydo: Nhặt từ map at 03/11/2023 8:08 PM
+BAG:vegeta add 1xĐá thạch anh tím lydo: Nhặt từ map at 03/11/2023 8:08 PM
+BAG:vegeta add 1xSao pha lê lydo: Lấy từ lucky box at 03/11/2023 8:10 PM
+BAG:vegeta add 74xNgọc Rồng 6 sao (old: 73) lydo: Lấy từ lucky box at 03/11/2023 8:10 PM
+BAG:vegeta add 1xSao pha lê lydo: Lấy từ lucky box at 03/11/2023 8:10 PM
+BAG:vegeta add 1xSao pha lê lydo: Lấy từ lucky box at 03/11/2023 8:10 PM
+BAG:vegeta add 75xNgọc Rồng 6 sao (old: 74) lydo: Lấy từ lucky box at 03/11/2023 8:10 PM
+BAG:vegeta add 9xNgọc Rồng 4 sao (old: 8) lydo: Lấy từ lucky box at 03/11/2023 8:10 PM
+BAG:vegeta add 76xNgọc Rồng 6 sao (old: 75) lydo: Lấy từ lucky box at 03/11/2023 8:10 PM
+BAG:vegeta add 1xSao pha lê lydo: Lấy từ lucky box at 03/11/2023 8:10 PM
+BAG:vegeta add 10xNgọc Rồng 4 sao (old: 9) lydo: Lấy từ lucky box at 03/11/2023 8:10 PM
+BAG:vegeta add 1xSao pha lê lydo: Lấy từ lucky box at 03/11/2023 8:10 PM
+BAG:vegeta add 2xSao pha lê (old: 1) lydo: Lấy từ lucky box at 03/11/2023 8:10 PM
+BAG:vegeta add 1xSao pha lê lydo: Lấy từ lucky box at 03/11/2023 8:10 PM
+BAG:vegeta add 46xNgọc Rồng 7 sao (old: 45) lydo: Lấy từ lucky box at 03/11/2023 8:10 PM
+BAG:vegeta add 1xVệ tinh trí lực lydo: Lấy từ lucky box at 03/11/2023 8:10 PM
+BAG:vegeta add 58xNgọc Rồng 5 sao (old: 57) lydo: Lấy từ lucky box at 03/11/2023 8:10 PM
+BAG:vegeta add 3xSao pha lê (old: 2) lydo: Lấy từ lucky box at 03/11/2023 8:10 PM
+BAG:vegeta add 2xSao pha lê (old: 1) lydo: Lấy từ lucky box at 03/11/2023 8:10 PM
+BAG:vegeta add 2xSao pha lê (old: 1) lydo: Lấy từ lucky box at 03/11/2023 8:10 PM
+BAG:vegeta add 3xSao pha lê (old: 2) lydo: Lấy từ lucky box at 03/11/2023 8:10 PM
+BAG:vegeta add 77xNgọc Rồng 6 sao (old: 76) lydo: Lấy từ lucky box at 03/11/2023 8:10 PM
+BAG:vegeta add 11xNgọc Rồng 4 sao (old: 10) lydo: Lấy từ lucky box at 03/11/2023 8:10 PM
+BAG:vegeta add 1xVệ tinh trí tuệ lydo: Lấy từ lucky box at 03/11/2023 8:10 PM
+BAG:vegeta add 2xSao pha lê (old: 1) lydo: Lấy từ lucky box at 03/11/2023 8:10 PM
+BAG:vegeta add 3xSao pha lê (old: 2) lydo: Lấy từ lucky box at 03/11/2023 8:10 PM
+BAG:vegeta add 78xNgọc Rồng 6 sao (old: 77) lydo: Lấy từ lucky box at 03/11/2023 8:10 PM
+BAG:vegeta add 12xNgọc Rồng 4 sao (old: 11) lydo: Lấy từ lucky box at 03/11/2023 8:10 PM
+BAG:vegeta add 1xVệ tinh phòng thủ lydo: Lấy từ lucky box at 03/11/2023 8:10 PM
+BAG:vegeta add 2xVệ tinh phòng thủ (old: 1) lydo: Lấy từ lucky box at 03/11/2023 8:10 PM
+BAG:vegeta add 4xSao pha lê (old: 3) lydo: Lấy từ lucky box at 03/11/2023 8:10 PM
+BAG:vegeta add 59xNgọc Rồng 5 sao (old: 58) lydo: Lấy từ lucky box at 03/11/2023 8:10 PM
+BAG:vegeta add 2xVệ tinh trí lực (old: 1) lydo: Lấy từ lucky box at 03/11/2023 8:10 PM
+BAG:vegeta add 47xNgọc Rồng 7 sao (old: 46) lydo: Lấy từ lucky box at 03/11/2023 8:10 PM
+BAG:vegeta add 60xNgọc Rồng 5 sao (old: 59) lydo: Lấy từ lucky box at 03/11/2023 8:10 PM
+BAG:vegeta add 1xVệ tinh sinh lực lydo: Lấy từ lucky box at 03/11/2023 8:10 PM
+BAG:vegeta add 2xVệ tinh trí tuệ (old: 1) lydo: Lấy từ lucky box at 03/11/2023 8:10 PM
+BAG:vegeta add 2xVệ tinh sinh lực (old: 1) lydo: Lấy từ lucky box at 03/11/2023 8:10 PM
+BAG:vegeta add 3xVệ tinh sinh lực (old: 2) lydo: Lấy từ lucky box at 03/11/2023 8:10 PM
+BAG:vegeta add 3xVệ tinh phòng thủ (old: 2) lydo: Lấy từ lucky box at 03/11/2023 8:10 PM
+BAG:vegeta add 61xNgọc Rồng 5 sao (old: 60) lydo: Lấy từ lucky box at 03/11/2023 8:10 PM
+BAG:vegeta add 79xNgọc Rồng 6 sao (old: 78) lydo: Lấy từ lucky box at 03/11/2023 8:10 PM
+BAG:vegeta add 4xVệ tinh phòng thủ (old: 3) lydo: Lấy từ lucky box at 03/11/2023 8:10 PM
+BAG:vegeta add 5xSao pha lê (old: 4) lydo: Lấy từ lucky box at 03/11/2023 8:10 PM
+BAG:vegeta add 48xNgọc Rồng 7 sao (old: 47) lydo: Lấy từ lucky box at 03/11/2023 8:10 PM
+BAG:vegeta add 3xVệ tinh trí lực (old: 2) lydo: Lấy từ lucky box at 03/11/2023 8:10 PM
+BAG:vegeta add 3xSao pha lê (old: 2) lydo: Lấy từ lucky box at 03/11/2023 8:10 PM
+BAG:vegeta add 5xVệ tinh phòng thủ (old: 4) lydo: Lấy từ lucky box at 03/11/2023 8:10 PM
+BAG:vegeta add 4xVệ tinh sinh lực (old: 3) lydo: Lấy từ lucky box at 03/11/2023 8:13 PM
+BAG:vegeta add 5xVệ tinh sinh lực (old: 4) lydo: Lấy từ lucky box at 03/11/2023 8:13 PM
+BAG:vegeta add 62xNgọc Rồng 5 sao (old: 61) lydo: Lấy từ lucky box at 03/11/2023 8:13 PM
+BAG:vegeta add 3xVệ tinh trí tuệ (old: 2) lydo: Lấy từ lucky box at 03/11/2023 8:13 PM
+BAG:vegeta add 63xNgọc Rồng 5 sao (old: 62) lydo: Lấy từ lucky box at 03/11/2023 8:13 PM
+BAG:vegeta add 13xNgọc Rồng 4 sao (old: 12) lydo: Lấy từ lucky box at 03/11/2023 8:13 PM
+BAG:vegeta add 80xNgọc Rồng 6 sao (old: 79) lydo: Lấy từ lucky box at 03/11/2023 8:13 PM
+BAG:vegeta add 81xNgọc Rồng 6 sao (old: 80) lydo: Lấy từ lucky box at 03/11/2023 8:13 PM
+BAG:vegeta add 2xSao pha lê (old: 1) lydo: Lấy từ lucky box at 03/11/2023 8:13 PM
+BAG:vegeta add 6xSao pha lê (old: 5) lydo: Lấy từ lucky box at 03/11/2023 8:13 PM
+BAG:vegeta add 6xVệ tinh phòng thủ (old: 5) lydo: Lấy từ lucky box at 03/11/2023 8:13 PM
+BAG:vegeta add 14xNgọc Rồng 4 sao (old: 13) lydo: Lấy từ lucky box at 03/11/2023 8:13 PM
+BAG:vegeta add 15xNgọc Rồng 4 sao (old: 14) lydo: Lấy từ lucky box at 03/11/2023 8:13 PM
+BAG:vegeta add 7xSao pha lê (old: 6) lydo: Lấy từ lucky box at 03/11/2023 8:13 PM
+BAG:vegeta add 82xNgọc Rồng 6 sao (old: 81) lydo: Lấy từ lucky box at 03/11/2023 8:13 PM
+BAG:vegeta add 64xNgọc Rồng 5 sao (old: 63) lydo: Lấy từ lucky box at 03/11/2023 8:13 PM
+BAG:vegeta add 1xSao pha lê lydo: Lấy từ lucky box at 03/11/2023 8:13 PM
+BAG:vegeta add 65xNgọc Rồng 5 sao (old: 64) lydo: Lấy từ lucky box at 03/11/2023 8:13 PM
+BAG:vegeta add 8xSao pha lê (old: 7) lydo: Lấy từ lucky box at 03/11/2023 8:13 PM
+BAG:vegeta add 4xVệ tinh trí lực (old: 3) lydo: Lấy từ lucky box at 03/11/2023 8:13 PM
+BAG:vegeta add 9xSao pha lê (old: 8) lydo: Lấy từ lucky box at 03/11/2023 8:13 PM
+BAG:vegeta add 4xSao pha lê (old: 3) lydo: Lấy từ lucky box at 03/11/2023 8:13 PM
+BAG:vegeta add 10xSao pha lê (old: 9) lydo: Lấy từ lucky box at 03/11/2023 8:13 PM
+BAG:vegeta add 66xNgọc Rồng 5 sao (old: 65) lydo: Lấy từ lucky box at 03/11/2023 8:13 PM
+BAG:vegeta add 4xVệ tinh trí tuệ (old: 3) lydo: Lấy từ lucky box at 03/11/2023 8:13 PM
+BAG:vegeta add 2xSao pha lê (old: 1) lydo: Lấy từ lucky box at 03/11/2023 8:13 PM
+BAG:vegeta add 5xVệ tinh trí lực (old: 4) lydo: Lấy từ lucky box at 03/11/2023 8:13 PM
+BAG:vegeta add 11xSao pha lê (old: 10) lydo: Lấy từ lucky box at 03/11/2023 8:13 PM
+BAG:vegeta add 4xSao pha lê (old: 3) lydo: Lấy từ lucky box at 03/11/2023 8:13 PM
+BAG:vegeta add 6xVệ tinh trí lực (old: 5) lydo: Lấy từ lucky box at 03/11/2023 8:13 PM
+BAG:vegeta add 5xVệ tinh trí tuệ (old: 4) lydo: Lấy từ lucky box at 03/11/2023 8:13 PM
+BAG:vegeta add 3xSao pha lê (old: 2) lydo: Lấy từ lucky box at 03/11/2023 8:13 PM
+BAG:vegeta add 6xVệ tinh sinh lực (old: 5) lydo: Lấy từ lucky box at 03/11/2023 8:13 PM
+BAG:vegeta add 16xNgọc Rồng 4 sao (old: 15) lydo: Lấy từ lucky box at 03/11/2023 8:13 PM
+BAG:vegeta add 3xSao pha lê (old: 2) lydo: Lấy từ lucky box at 03/11/2023 8:13 PM
+BAG:vegeta add 17xNgọc Rồng 4 sao (old: 16) lydo: Lấy từ lucky box at 03/11/2023 8:13 PM
+BAG:vegeta add 1xDiều rồng lydo: Lấy từ lucky box at 03/11/2023 8:13 PM
+BAG:vegeta add 49xNgọc Rồng 7 sao (old: 48) lydo: Lấy từ lucky box at 03/11/2023 8:15 PM
+BAG:vegeta add 5xSao pha lê (old: 4) lydo: Lấy từ lucky box at 03/11/2023 8:15 PM
+BAG:vegeta add 7xVệ tinh sinh lực (old: 6) lydo: Lấy từ lucky box at 03/11/2023 8:15 PM
+BAG:vegeta add 18xNgọc Rồng 4 sao (old: 17) lydo: Lấy từ lucky box at 03/11/2023 8:15 PM
+BAG:vegeta add 50xNgọc Rồng 7 sao (old: 49) lydo: Lấy từ lucky box at 03/11/2023 8:15 PM
+BAG:vegeta add 6xVệ tinh trí tuệ (old: 5) lydo: Lấy từ lucky box at 03/11/2023 8:15 PM
+BAG:vegeta add 67xNgọc Rồng 5 sao (old: 66) lydo: Lấy từ lucky box at 03/11/2023 8:15 PM
+BAG:vegeta add 7xVệ tinh trí lực (old: 6) lydo: Lấy từ lucky box at 03/11/2023 8:15 PM
+BAG:vegeta add 8xVệ tinh trí lực (old: 7) lydo: Lấy từ lucky box at 03/11/2023 8:15 PM
+BAG:vegeta add 51xNgọc Rồng 7 sao (old: 50) lydo: Lấy từ lucky box at 03/11/2023 8:15 PM
+BAG:vegeta add 19xNgọc Rồng 4 sao (old: 18) lydo: Lấy từ lucky box at 03/11/2023 8:15 PM
+BAG:vegeta add 1xSao pha lê lydo: Lấy từ lucky box at 03/11/2023 8:15 PM
+BAG:vegeta add 12xSao pha lê (old: 11) lydo: Lấy từ lucky box at 03/11/2023 8:15 PM
+BAG:vegeta add 9xVệ tinh trí lực (old: 8) lydo: Lấy từ lucky box at 03/11/2023 8:15 PM
+BAG:vegeta add 6xSao pha lê (old: 5) lydo: Lấy từ lucky box at 03/11/2023 8:15 PM
+BAG:vegeta add 7xVệ tinh trí tuệ (old: 6) lydo: Lấy từ lucky box at 03/11/2023 8:15 PM
+BAG:vegeta add 7xVệ tinh phòng thủ (old: 6) lydo: Lấy từ lucky box at 03/11/2023 8:15 PM
+BAG:vegeta add 4xSao pha lê (old: 3) lydo: Lấy từ lucky box at 03/11/2023 8:15 PM
+BAG:vegeta add 10xVệ tinh trí lực (old: 9) lydo: Lấy từ lucky box at 03/11/2023 8:15 PM
+BAG:vegeta add 83xNgọc Rồng 6 sao (old: 82) lydo: Lấy từ lucky box at 03/11/2023 8:15 PM
+BAG:vegeta add 2xSao pha lê (old: 1) lydo: Lấy từ lucky box at 03/11/2023 8:15 PM
+BAG:vegeta add 2xSao pha lê (old: 1) lydo: Lấy từ lucky box at 03/11/2023 8:15 PM
+BAG:vegeta add 7xSao pha lê (old: 6) lydo: Lấy từ lucky box at 03/11/2023 8:15 PM
+BAG:vegeta add 20xNgọc Rồng 4 sao (old: 19) lydo: Lấy từ lucky box at 03/11/2023 8:15 PM
+BAG:vegeta add 84xNgọc Rồng 6 sao (old: 83) lydo: Lấy từ lucky box at 03/11/2023 8:15 PM
+BAG:vegeta add 1xPhóng lợn lydo: Lấy từ lucky box at 03/11/2023 8:15 PM
+BAG:vegeta add 3xSao pha lê (old: 2) lydo: Lấy từ lucky box at 03/11/2023 8:15 PM
+BAG:vegeta add 13xSao pha lê (old: 12) lydo: Lấy từ lucky box at 03/11/2023 8:15 PM
+BAG:vegeta add 8xSao pha lê (old: 7) lydo: Lấy từ lucky box at 03/11/2023 8:15 PM
+BAG:vegeta add 52xNgọc Rồng 7 sao (old: 51) lydo: Lấy từ lucky box at 03/11/2023 8:15 PM
+BAG:vegeta add 5xSao pha lê (old: 4) lydo: Lấy từ lucky box at 03/11/2023 8:15 PM
+BAG:vegeta add 68xNgọc Rồng 5 sao (old: 67) lydo: Lấy từ lucky box at 03/11/2023 8:15 PM
+BAG:vegeta add 21xNgọc Rồng 4 sao (old: 20) lydo: Lấy từ lucky box at 03/11/2023 8:15 PM
+BAG:vegeta add 8xVệ tinh phòng thủ (old: 7) lydo: Lấy từ lucky box at 03/11/2023 8:15 PM
+BAG:vegeta add 69xNgọc Rồng 5 sao (old: 68) lydo: Lấy từ lucky box at 03/11/2023 8:15 PM
+BAG:vegeta add 8xVệ tinh trí tuệ (old: 7) lydo: Lấy từ lucky box at 03/11/2023 8:15 PM
+BAG:vegeta add 9xSao pha lê (old: 8) lydo: Lấy từ lucky box at 03/11/2023 8:15 PM
+BAG:vegeta add 8xVệ tinh sinh lực (old: 7) lydo: Lấy từ lucky box at 03/11/2023 8:15 PM
+BAG:vegeta add 85xNgọc Rồng 6 sao (old: 84) lydo: Lấy từ lucky box at 03/11/2023 8:15 PM
+BAG:vegeta add 53xNgọc Rồng 7 sao (old: 52) lydo: Lấy từ lucky box at 03/11/2023 8:15 PM
+BAG:vegeta add 3xSao pha lê (old: 2) lydo: Lấy từ lucky box at 03/11/2023 8:15 PM
+BAG:vegeta add 86xNgọc Rồng 6 sao (old: 85) lydo: Lấy từ lucky box at 03/11/2023 8:15 PM
+BAG:vegeta add 87xNgọc Rồng 6 sao (old: 86) lydo: Lấy từ lucky box at 03/11/2023 8:15 PM
+BAG:vegeta add 54xNgọc Rồng 7 sao (old: 53) lydo: Lấy từ lucky box at 03/11/2023 8:17 PM
+BAG:vegeta add 5xSao pha lê (old: 4) lydo: Lấy từ lucky box at 03/11/2023 8:17 PM
+BAG:vegeta add 22xNgọc Rồng 4 sao (old: 21) lydo: Lấy từ lucky box at 03/11/2023 8:17 PM
+BAG:vegeta add 9xVệ tinh phòng thủ (old: 8) lydo: Lấy từ lucky box at 03/11/2023 8:17 PM
+BAG:vegeta add 4xSao pha lê (old: 3) lydo: Lấy từ lucky box at 03/11/2023 8:17 PM
+BAG:vegeta add 6xSao pha lê (old: 5) lydo: Lấy từ lucky box at 03/11/2023 8:17 PM
+BAG:vegeta add 10xSao pha lê (old: 9) lydo: Lấy từ lucky box at 03/11/2023 8:17 PM
+BAG:vegeta add 7xSao pha lê (old: 6) lydo: Lấy từ lucky box at 03/11/2023 8:17 PM
+BAG:vegeta add 11xVệ tinh trí lực (old: 10) lydo: Lấy từ lucky box at 03/11/2023 8:17 PM
+BAG:vegeta add 11xSao pha lê (old: 10) lydo: Lấy từ lucky box at 03/11/2023 8:17 PM
+BAG:vegeta add 8xSao pha lê (old: 7) lydo: Lấy từ lucky box at 03/11/2023 8:17 PM
+BAG:vegeta add 12xVệ tinh trí lực (old: 11) lydo: Lấy từ lucky box at 03/11/2023 8:17 PM
+BAG:vegeta add 9xVệ tinh sinh lực (old: 8) lydo: Lấy từ lucky box at 03/11/2023 8:17 PM
+BAG:vegeta add 23xNgọc Rồng 4 sao (old: 22) lydo: Lấy từ lucky box at 03/11/2023 8:17 PM
+BAG:vegeta add 55xNgọc Rồng 7 sao (old: 54) lydo: Lấy từ lucky box at 03/11/2023 8:17 PM
+BAG:vegeta add 4xSao pha lê (old: 3) lydo: Lấy từ lucky box at 03/11/2023 8:17 PM
+BAG:vegeta add 9xSao pha lê (old: 8) lydo: Lấy từ lucky box at 03/11/2023 8:17 PM
+BAG:vegeta add 24xNgọc Rồng 4 sao (old: 23) lydo: Lấy từ lucky box at 03/11/2023 8:17 PM
+BAG:vegeta add 10xVệ tinh sinh lực (old: 9) lydo: Lấy từ lucky box at 03/11/2023 8:17 PM
+BAG:vegeta add 5xSao pha lê (old: 4) lydo: Lấy từ lucky box at 03/11/2023 8:17 PM
+BAG:vegeta add 25xNgọc Rồng 4 sao (old: 24) lydo: Lấy từ lucky box at 03/11/2023 8:17 PM
+BAG:vegeta add 5xSao pha lê (old: 4) lydo: Lấy từ lucky box at 03/11/2023 8:17 PM
+BAG:vegeta add 26xNgọc Rồng 4 sao (old: 25) lydo: Lấy từ lucky box at 03/11/2023 8:17 PM
+BAG:vegeta add 27xNgọc Rồng 4 sao (old: 26) lydo: Lấy từ lucky box at 03/11/2023 8:17 PM
+BAG:vegeta add 14xSao pha lê (old: 13) lydo: Lấy từ lucky box at 03/11/2023 8:17 PM
+BAG:vegeta add 9xVệ tinh trí tuệ (old: 8) lydo: Lấy từ lucky box at 03/11/2023 8:17 PM
+BAG:vegeta add 10xSao pha lê (old: 9) lydo: Lấy từ lucky box at 03/11/2023 8:17 PM
+BAG:vegeta add 88xNgọc Rồng 6 sao (old: 87) lydo: Lấy từ lucky box at 03/11/2023 8:17 PM
+BAG:vegeta add 28xNgọc Rồng 4 sao (old: 27) lydo: Lấy từ lucky box at 03/11/2023 8:17 PM
+BAG:vegeta add 11xVệ tinh sinh lực (old: 10) lydo: Lấy từ lucky box at 03/11/2023 8:17 PM
+BAG:vegeta add 10xVệ tinh trí tuệ (old: 9) lydo: Lấy từ lucky box at 03/11/2023 8:17 PM
+BAG:vegeta add 12xVệ tinh sinh lực (old: 11) lydo: Lấy từ lucky box at 03/11/2023 8:17 PM
+BAG:vegeta add 12xSao pha lê (old: 11) lydo: Lấy từ lucky box at 03/11/2023 8:17 PM
+BAG:vegeta add 15xSao pha lê (old: 14) lydo: Lấy từ lucky box at 03/11/2023 8:17 PM
+BAG:vegeta add 11xSao pha lê (old: 10) lydo: Lấy từ lucky box at 03/11/2023 8:17 PM
+BAG:vegeta add 29xNgọc Rồng 4 sao (old: 28) lydo: Lấy từ lucky box at 03/11/2023 8:17 PM
+BAG:vegeta add 30xNgọc Rồng 4 sao (old: 29) lydo: Lấy từ lucky box at 03/11/2023 8:17 PM
+BAG:vegeta add 4xSao pha lê (old: 3) lydo: Lấy từ lucky box at 03/11/2023 8:17 PM
+BAG:vegeta add 10xVệ tinh phòng thủ (old: 9) lydo: Lấy từ lucky box at 03/11/2023 8:17 PM
+BAG:vegeta add 13xVệ tinh sinh lực (old: 12) lydo: Lấy từ lucky box at 03/11/2023 8:17 PM
+BAG:vegeta add 6xSao pha lê (old: 5) lydo: Lấy từ lucky box at 03/11/2023 8:17 PM
+BAG:vegeta add 6xSao pha lê (old: 5) lydo: Lấy từ lucky box at 03/11/2023 8:17 PM
+BAG:vegeta add 56xNgọc Rồng 7 sao (old: 55) lydo: Lấy từ lucky box at 03/11/2023 8:19 PM
+BAG:vegeta add 57xNgọc Rồng 7 sao (old: 56) lydo: Lấy từ lucky box at 03/11/2023 8:19 PM
+BAG:vegeta add 7xSao pha lê (old: 6) lydo: Lấy từ lucky box at 03/11/2023 8:19 PM
+BAG:vegeta add 14xVệ tinh sinh lực (old: 13) lydo: Lấy từ lucky box at 03/11/2023 8:19 PM
+BAG:vegeta add 11xVệ tinh phòng thủ (old: 10) lydo: Lấy từ lucky box at 03/11/2023 8:19 PM
+BAG:vegeta add 13xVệ tinh trí lực (old: 12) lydo: Lấy từ lucky box at 03/11/2023 8:19 PM
+BAG:vegeta add 11xVệ tinh trí tuệ (old: 10) lydo: Lấy từ lucky box at 03/11/2023 8:19 PM
+BAG:vegeta add 14xVệ tinh trí lực (old: 13) lydo: Lấy từ lucky box at 03/11/2023 8:19 PM
+BAG:vegeta add 31xNgọc Rồng 4 sao (old: 30) lydo: Lấy từ lucky box at 03/11/2023 8:19 PM
+BAG:vegeta add 70xNgọc Rồng 5 sao (old: 69) lydo: Lấy từ lucky box at 03/11/2023 8:19 PM
+BAG:vegeta add 8xSao pha lê (old: 7) lydo: Lấy từ lucky box at 03/11/2023 8:19 PM
+BAG:vegeta add 6xSao pha lê (old: 5) lydo: Lấy từ lucky box at 03/11/2023 8:19 PM
+BAG:vegeta add 1xCải trang mồn lèo lydo: Lấy từ lucky box at 03/11/2023 8:19 PM
+BAG:vegeta add 15xVệ tinh trí lực (old: 14) lydo: Lấy từ lucky box at 03/11/2023 8:19 PM
+BAG:vegeta add 12xSao pha lê (old: 11) lydo: Lấy từ lucky box at 03/11/2023 8:19 PM
+BAG:vegeta add 7xSao pha lê (old: 6) lydo: Lấy từ lucky box at 03/11/2023 8:19 PM
+BAG:vegeta add 16xSao pha lê (old: 15) lydo: Lấy từ lucky box at 03/11/2023 8:19 PM
+BAG:vegeta add 16xVệ tinh trí lực (old: 15) lydo: Lấy từ lucky box at 03/11/2023 8:19 PM
+BAG:vegeta add 17xVệ tinh trí lực (old: 16) lydo: Lấy từ lucky box at 03/11/2023 8:19 PM
+BAG:vegeta add 5xSao pha lê (old: 4) lydo: Lấy từ lucky box at 03/11/2023 8:19 PM
+BAG:vegeta add 7xSao pha lê (old: 6) lydo: Lấy từ lucky box at 03/11/2023 8:19 PM
+BAG:vegeta add 8xSao pha lê (old: 7) lydo: Lấy từ lucky box at 03/11/2023 8:19 PM
+BAG:vegeta add 9xSao pha lê (old: 8) lydo: Lấy từ lucky box at 03/11/2023 8:19 PM
+BAG:vegeta add 17xSao pha lê (old: 16) lydo: Lấy từ lucky box at 03/11/2023 8:19 PM
+BAG:vegeta add 8xSao pha lê (old: 7) lydo: Lấy từ lucky box at 03/11/2023 8:19 PM
+BAG:vegeta add 18xVệ tinh trí lực (old: 17) lydo: Lấy từ lucky box at 03/11/2023 8:19 PM
+BAG:vegeta add 71xNgọc Rồng 5 sao (old: 70) lydo: Lấy từ lucky box at 03/11/2023 8:19 PM
+BAG:vegeta add 15xVệ tinh sinh lực (old: 14) lydo: Lấy từ lucky box at 03/11/2023 8:19 PM
+BAG:vegeta add 89xNgọc Rồng 6 sao (old: 88) lydo: Lấy từ lucky box at 03/11/2023 8:19 PM
+BAG:vegeta add 32xNgọc Rồng 4 sao (old: 31) lydo: Lấy từ lucky box at 03/11/2023 8:19 PM
+BAG:vegeta add 90xNgọc Rồng 6 sao (old: 89) lydo: Lấy từ lucky box at 03/11/2023 8:19 PM
+BAG:vegeta add 18xSao pha lê (old: 17) lydo: Lấy từ lucky box at 03/11/2023 8:19 PM
+BAG:vegeta add 58xNgọc Rồng 7 sao (old: 57) lydo: Lấy từ lucky box at 03/11/2023 8:19 PM
+BAG:vegeta add 72xNgọc Rồng 5 sao (old: 71) lydo: Lấy từ lucky box at 03/11/2023 8:19 PM
+BAG:vegeta add 6xSao pha lê (old: 5) lydo: Lấy từ lucky box at 03/11/2023 8:19 PM
+BAG:vegeta add 7xSao pha lê (old: 6) lydo: Lấy từ lucky box at 03/11/2023 8:19 PM
+BAG:vegeta add 12xVệ tinh phòng thủ (old: 11) lydo: Lấy từ lucky box at 03/11/2023 8:19 PM
+BAG:vegeta add 1xCải trang Hatchiyack lydo: Lấy từ lucky box at 03/11/2023 8:19 PM
+BAG:vegeta add 19xVệ tinh trí lực (old: 18) lydo: Lấy từ lucky box at 03/11/2023 8:21 PM
+BAG:vegeta add 12xVệ tinh trí tuệ (old: 11) lydo: Lấy từ lucky box at 03/11/2023 8:21 PM
+BAG:vegeta add 13xVệ tinh phòng thủ (old: 12) lydo: Lấy từ lucky box at 03/11/2023 8:21 PM
+BAG:vegeta add 73xNgọc Rồng 5 sao (old: 72) lydo: Lấy từ lucky box at 03/11/2023 8:21 PM
+BAG:vegeta add 10xSao pha lê (old: 9) lydo: Lấy từ lucky box at 03/11/2023 8:21 PM
+BAG:vegeta add 59xNgọc Rồng 7 sao (old: 58) lydo: Lấy từ lucky box at 03/11/2023 8:21 PM
+BAG:vegeta add 14xVệ tinh phòng thủ (old: 13) lydo: Lấy từ lucky box at 03/11/2023 8:21 PM
+BAG:vegeta add 16xVệ tinh sinh lực (old: 15) lydo: Lấy từ lucky box at 03/11/2023 8:21 PM
+BAG:vegeta add 60xNgọc Rồng 7 sao (old: 59) lydo: Lấy từ lucky box at 03/11/2023 8:21 PM
+BAG:vegeta add 19xSao pha lê (old: 18) lydo: Lấy từ lucky box at 03/11/2023 8:21 PM
+BAG:vegeta add 13xVệ tinh trí tuệ (old: 12) lydo: Lấy từ lucky box at 03/11/2023 8:21 PM
+BAG:vegeta add 13xSao pha lê (old: 12) lydo: Lấy từ lucky box at 03/11/2023 8:21 PM
+BAG:vegeta add 14xVệ tinh trí tuệ (old: 13) lydo: Lấy từ lucky box at 03/11/2023 8:21 PM
+BAG:vegeta add 9xSao pha lê (old: 8) lydo: Lấy từ lucky box at 03/11/2023 8:21 PM
+BAG:vegeta add 74xNgọc Rồng 5 sao (old: 73) lydo: Lấy từ lucky box at 03/11/2023 8:21 PM
+BAG:vegeta add 8xSao pha lê (old: 7) lydo: Lấy từ lucky box at 03/11/2023 8:21 PM
+BAG:vegeta add 14xSao pha lê (old: 13) lydo: Lấy từ lucky box at 03/11/2023 8:21 PM
+BAG:vegeta add 33xNgọc Rồng 4 sao (old: 32) lydo: Lấy từ lucky box at 03/11/2023 8:21 PM
+BAG:vegeta add 9xSao pha lê (old: 8) lydo: Lấy từ lucky box at 03/11/2023 8:21 PM
+BAG:vegeta add 34xNgọc Rồng 4 sao (old: 33) lydo: Lấy từ lucky box at 03/11/2023 8:21 PM
+BAG:vegeta add 11xSao pha lê (old: 10) lydo: Lấy từ lucky box at 03/11/2023 8:21 PM
+BAG:vegeta add 61xNgọc Rồng 7 sao (old: 60) lydo: Lấy từ lucky box at 03/11/2023 8:21 PM
+BAG:vegeta add 91xNgọc Rồng 6 sao (old: 90) lydo: Lấy từ lucky box at 03/11/2023 8:21 PM
+BAG:vegeta add 17xVệ tinh sinh lực (old: 16) lydo: Lấy từ lucky box at 03/11/2023 8:21 PM
+BAG:vegeta add 20xVệ tinh trí lực (old: 19) lydo: Lấy từ lucky box at 03/11/2023 8:21 PM
+BAG:vegeta add 21xVệ tinh trí lực (old: 20) lydo: Lấy từ lucky box at 03/11/2023 8:21 PM
+BAG:vegeta add 9xSao pha lê (old: 8) lydo: Lấy từ lucky box at 03/11/2023 8:21 PM
+BAG:vegeta add 13xSao pha lê (old: 12) lydo: Lấy từ lucky box at 03/11/2023 8:21 PM
+BAG:vegeta add 15xVệ tinh phòng thủ (old: 14) lydo: Lấy từ lucky box at 03/11/2023 8:21 PM
+BAG:vegeta add 15xVệ tinh trí tuệ (old: 14) lydo: Lấy từ lucky box at 03/11/2023 8:21 PM
+BAG:vegeta add 14xSao pha lê (old: 13) lydo: Lấy từ lucky box at 03/11/2023 8:21 PM
+BAG:vegeta add 20xSao pha lê (old: 19) lydo: Lấy từ lucky box at 03/11/2023 8:21 PM
+BAG:vegeta add 10xSao pha lê (old: 9) lydo: Lấy từ lucky box at 03/11/2023 8:21 PM
+BAG:vegeta add 12xSao pha lê (old: 11) lydo: Lấy từ lucky box at 03/11/2023 8:21 PM
+BAG:vegeta add 92xNgọc Rồng 6 sao (old: 91) lydo: Lấy từ lucky box at 03/11/2023 8:21 PM
+BAG:vegeta add 18xVệ tinh sinh lực (old: 17) lydo: Lấy từ lucky box at 03/11/2023 8:21 PM
+BAG:vegeta add 15xSao pha lê (old: 14) lydo: Lấy từ lucky box at 03/11/2023 8:21 PM
+BAG:vegeta add 19xVệ tinh sinh lực (old: 18) lydo: Lấy từ lucky box at 03/11/2023 8:21 PM
+BAG:vegeta add 93xNgọc Rồng 6 sao (old: 92) lydo: Lấy từ lucky box at 03/11/2023 8:21 PM
+BAG:vegeta add 94xNgọc Rồng 6 sao (old: 93) lydo: Lấy từ lucky box at 03/11/2023 8:21 PM
+BAG:vegeta add 13xSao pha lê (old: 12) lydo: Lấy từ lucky box at 03/11/2023 8:21 PM
+BAG:vegeta add 95xNgọc Rồng 6 sao (old: 94) lydo: Lấy từ lucky box at 03/11/2023 8:21 PM
+BAG:vegeta add 35xNgọc Rồng 4 sao (old: 34) lydo: Lấy từ lucky box at 03/11/2023 8:21 PM
+BAG:vegeta add 14xSao pha lê (old: 13) lydo: Lấy từ lucky box at 03/11/2023 8:21 PM
+BAG:vegeta add 96xNgọc Rồng 6 sao (old: 95) lydo: Lấy từ lucky box at 03/11/2023 8:21 PM
+BAG:vegeta add 11xSao pha lê (old: 10) lydo: Lấy từ lucky box at 03/11/2023 8:21 PM
+BAG:vegeta add 97xNgọc Rồng 6 sao (old: 96) lydo: Lấy từ lucky box at 03/11/2023 8:21 PM
+BAG:vegeta add 20xVệ tinh sinh lực (old: 19) lydo: Lấy từ lucky box at 03/11/2023 8:21 PM
+BAG:vegeta add 12xSao pha lê (old: 11) lydo: Lấy từ lucky box at 03/11/2023 8:21 PM
+BAG:vegeta add 21xVệ tinh sinh lực (old: 20) lydo: Lấy từ lucky box at 03/11/2023 8:21 PM
+BAG:vegeta add 15xSao pha lê (old: 14) lydo: Lấy từ lucky box at 03/11/2023 8:21 PM
+BAG:vegeta add 98xNgọc Rồng 6 sao (old: 97) lydo: Lấy từ lucky box at 03/11/2023 8:21 PM
+BAG:vegeta add 36xNgọc Rồng 4 sao (old: 35) lydo: Lấy từ lucky box at 03/11/2023 8:22 PM
+BAG:vegeta add 22xVệ tinh sinh lực (old: 21) lydo: Lấy từ lucky box at 03/11/2023 8:22 PM
+BAG:vegeta add 1xMèo mun lydo: Lấy từ lucky box at 03/11/2023 8:22 PM
+BAG:vegeta add 16xSao pha lê (old: 15) lydo: Lấy từ lucky box at 03/11/2023 8:24 PM
+BAG:vegeta add 23xVệ tinh sinh lực (old: 22) lydo: Lấy từ lucky box at 03/11/2023 8:24 PM
+BAG:vegeta add 62xNgọc Rồng 7 sao (old: 61) lydo: Lấy từ lucky box at 03/11/2023 8:24 PM
+BAG:vegeta add 24xVệ tinh sinh lực (old: 23) lydo: Lấy từ lucky box at 03/11/2023 8:24 PM
+BAG:vegeta add 17xSao pha lê (old: 16) lydo: Lấy từ lucky box at 03/11/2023 8:24 PM
+BAG:vegeta add 16xSao pha lê (old: 15) lydo: Lấy từ lucky box at 03/11/2023 8:24 PM
+BAG:vegeta add 16xVệ tinh phòng thủ (old: 15) lydo: Lấy từ lucky box at 03/11/2023 8:24 PM
+BAG:vegeta add 21xSao pha lê (old: 20) lydo: Lấy từ lucky box at 03/11/2023 8:24 PM
+BAG:vegeta add 25xVệ tinh sinh lực (old: 24) lydo: Lấy từ lucky box at 03/11/2023 8:24 PM
+BAG:vegeta add 10xSao pha lê (old: 9) lydo: Lấy từ lucky box at 03/11/2023 8:24 PM
+BAG:vegeta add 37xNgọc Rồng 4 sao (old: 36) lydo: Lấy từ lucky box at 03/11/2023 8:24 PM
+BAG:vegeta add 10xSao pha lê (old: 9) lydo: Lấy từ lucky box at 03/11/2023 8:24 PM
+BAG:vegeta add 63xNgọc Rồng 7 sao (old: 62) lydo: Lấy từ lucky box at 03/11/2023 8:24 PM
+BAG:vegeta add 99xNgọc Rồng 6 sao (old: 98) lydo: Lấy từ lucky box at 03/11/2023 8:24 PM
+BAG:vegeta add 17xVệ tinh phòng thủ (old: 16) lydo: Lấy từ lucky box at 03/11/2023 8:24 PM
+BAG:vegeta add 11xSao pha lê (old: 10) lydo: Lấy từ lucky box at 03/11/2023 8:24 PM
+BAG:vegeta add 22xVệ tinh trí lực (old: 21) lydo: Lấy từ lucky box at 03/11/2023 8:24 PM
+BAG:vegeta add 1xCải trang mồn lèo lydo: Lấy từ lucky box at 03/11/2023 8:24 PM
+BAG:vegeta add 1xSao pha lê lydo: Lấy từ lucky box at 03/11/2023 8:26 PM
+BAG:vegeta add 1xNgọc Rồng 6 sao lydo: Lấy từ lucky box at 03/11/2023 8:26 PM
+BAG:vegeta add 64xNgọc Rồng 7 sao (old: 63) lydo: Lấy từ lucky box at 03/11/2023 8:26 PM
+BAG:vegeta add 1xSao pha lê lydo: Lấy từ lucky box at 03/11/2023 8:26 PM
+BAG:vegeta add 1xSao pha lê lydo: Lấy từ lucky box at 03/11/2023 8:26 PM
+BAG:vegeta add 1xSao pha lê lydo: Lấy từ lucky box at 03/11/2023 8:26 PM
+BAG:vegeta add 1xSao pha lê lydo: Lấy từ lucky box at 03/11/2023 8:26 PM
+BAG:vegeta add 75xNgọc Rồng 5 sao (old: 74) lydo: Lấy từ lucky box at 03/11/2023 8:26 PM
+BAG:vegeta add 2xNgọc Rồng 6 sao (old: 1) lydo: Lấy từ lucky box at 03/11/2023 8:26 PM
+BAG:vegeta add 1xSao pha lê lydo: Lấy từ lucky box at 03/11/2023 8:26 PM
+BAG:vegeta add 2xSao pha lê (old: 1) lydo: Lấy từ lucky box at 03/11/2023 8:26 PM
+BAG:vegeta add 1xVệ tinh phòng thủ lydo: Lấy từ lucky box at 03/11/2023 8:26 PM
+BAG:vegeta add 2xSao pha lê (old: 1) lydo: Lấy từ lucky box at 03/11/2023 8:26 PM
+BAG:vegeta add 2xSao pha lê (old: 1) lydo: Lấy từ lucky box at 03/11/2023 8:26 PM
+BAG:vegeta add 2xSao pha lê (old: 1) lydo: Lấy từ lucky box at 03/11/2023 8:26 PM
+BAG:vegeta add 1xVệ tinh trí lực lydo: Lấy từ lucky box at 03/11/2023 8:26 PM
+BAG:vegeta add 3xSao pha lê (old: 2) lydo: Lấy từ lucky box at 03/11/2023 8:26 PM
+BAG:vegeta add 65xNgọc Rồng 7 sao (old: 64) lydo: Lấy từ lucky box at 03/11/2023 8:26 PM
+BAG:vegeta add 2xVệ tinh phòng thủ (old: 1) lydo: Lấy từ lucky box at 03/11/2023 8:26 PM
+BAG:vegeta add 1xVệ tinh sinh lực lydo: Lấy từ lucky box at 03/11/2023 8:26 PM
+BAG:vegeta add 2xSao pha lê (old: 1) lydo: Lấy từ lucky box at 03/11/2023 8:26 PM
+BAG:vegeta add 3xNgọc Rồng 6 sao (old: 2) lydo: Lấy từ lucky box at 03/11/2023 8:26 PM
+BAG:vegeta add 38xNgọc Rồng 4 sao (old: 37) lydo: Lấy từ lucky box at 03/11/2023 8:26 PM
+BAG:vegeta add 1xVệ tinh trí tuệ lydo: Lấy từ lucky box at 03/11/2023 8:26 PM
+BAG:vegeta add 3xSao pha lê (old: 2) lydo: Lấy từ lucky box at 03/11/2023 8:26 PM
+BAG:vegeta add 2xVệ tinh trí lực (old: 1) lydo: Lấy từ lucky box at 03/11/2023 8:26 PM
+BAG:vegeta add 2xVệ tinh trí tuệ (old: 1) lydo: Lấy từ lucky box at 03/11/2023 8:26 PM
+BAG:vegeta add 3xVệ tinh trí tuệ (old: 2) lydo: Lấy từ lucky box at 03/11/2023 8:26 PM
+BAG:vegeta add 3xVệ tinh trí lực (old: 2) lydo: Lấy từ lucky box at 03/11/2023 8:26 PM
+BAG:vegeta add 1xSao pha lê lydo: Lấy từ lucky box at 03/11/2023 8:26 PM
+BAG:vegeta add 39xNgọc Rồng 4 sao (old: 38) lydo: Lấy từ lucky box at 03/11/2023 8:28 PM
+BAG:vegeta add 4xNgọc Rồng 6 sao (old: 3) lydo: Lấy từ lucky box at 03/11/2023 8:28 PM
+BAG:vegeta add 2xVệ tinh sinh lực (old: 1) lydo: Lấy từ lucky box at 03/11/2023 8:28 PM
+BAG:vegeta add 1xCải trang mồn lèo lydo: Lấy từ lucky box at 03/11/2023 8:28 PM
+BAG:vegeta add 3xSao pha lê (old: 2) lydo: Lấy từ lucky box at 03/11/2023 8:28 PM
+BAG:vegeta add 4xVệ tinh trí tuệ (old: 3) lydo: Lấy từ lucky box at 03/11/2023 8:28 PM
+BAG:vegeta add 66xNgọc Rồng 7 sao (old: 65) lydo: Lấy từ lucky box at 03/11/2023 8:28 PM
+BAG:vegeta add 5xVệ tinh trí tuệ (old: 4) lydo: Lấy từ lucky box at 03/11/2023 8:28 PM
+BAG:vegeta add 2xSao pha lê (old: 1) lydo: Lấy từ lucky box at 03/11/2023 8:28 PM
+BAG:vegeta add 3xVệ tinh sinh lực (old: 2) lydo: Lấy từ lucky box at 03/11/2023 8:28 PM
+BAG:vegeta add 4xVệ tinh sinh lực (old: 3) lydo: Lấy từ lucky box at 03/11/2023 8:28 PM
+BAG:vegeta add 1xCải trang mồn lèo lydo: Lấy từ lucky box at 03/11/2023 8:28 PM
+BAG:vegeta add 4xSao pha lê (old: 3) lydo: Lấy từ lucky box at 03/11/2023 8:28 PM
+BAG:vegeta add 5xVệ tinh sinh lực (old: 4) lydo: Lấy từ lucky box at 03/11/2023 8:28 PM
+BAG:vegeta add 3xVệ tinh phòng thủ (old: 2) lydo: Lấy từ lucky box at 03/11/2023 8:28 PM
+BAG:vegeta add 4xSao pha lê (old: 3) lydo: Lấy từ lucky box at 03/11/2023 8:28 PM
+BAG:vegeta add 6xVệ tinh sinh lực (old: 5) lydo: Lấy từ lucky box at 03/11/2023 8:28 PM
+BAG:vegeta add 5xSao pha lê (old: 4) lydo: Lấy từ lucky box at 03/11/2023 8:28 PM
+BAG:vegeta add 6xSao pha lê (old: 5) lydo: Lấy từ lucky box at 03/11/2023 8:28 PM
+BAG:vegeta add 4xVệ tinh phòng thủ (old: 3) lydo: Lấy từ lucky box at 03/11/2023 8:28 PM
+BAG:vegeta add 76xNgọc Rồng 5 sao (old: 75) lydo: Lấy từ lucky box at 03/11/2023 8:28 PM
+BAG:vegeta add 4xVệ tinh trí lực (old: 3) lydo: Lấy từ lucky box at 03/11/2023 8:28 PM
+BAG:vegeta add 7xVệ tinh sinh lực (old: 6) lydo: Lấy từ lucky box at 03/11/2023 8:28 PM
+BAG:vegeta add 5xVệ tinh phòng thủ (old: 4) lydo: Lấy từ lucky box at 03/11/2023 8:28 PM
+BAG:vegeta add 2xSao pha lê (old: 1) lydo: Lấy từ lucky box at 03/11/2023 8:28 PM
+BAG:vegeta add 1xCải trang Hatchiyack lydo: Lấy từ lucky box at 03/11/2023 8:28 PM
+BAG:vegeta add 7xSao pha lê (old: 6) lydo: Lấy từ lucky box at 03/11/2023 8:29 PM
+BAG:vegeta add 3xSao pha lê (old: 2) lydo: Lấy từ lucky box at 03/11/2023 8:29 PM
+BAG:vegeta add 4xSao pha lê (old: 3) lydo: Lấy từ lucky box at 03/11/2023 8:29 PM
+BAG:vegeta add 40xNgọc Rồng 4 sao (old: 39) lydo: Lấy từ lucky box at 03/11/2023 8:29 PM
+BAG:vegeta add 41xNgọc Rồng 4 sao (old: 40) lydo: Lấy từ lucky box at 03/11/2023 8:29 PM
+BAG:vegeta add 3xSao pha lê (old: 2) lydo: Lấy từ lucky box at 03/11/2023 8:29 PM
+BAG:vegeta add 5xSao pha lê (old: 4) lydo: Lấy từ lucky box at 03/11/2023 8:29 PM
+BAG:vegeta add 8xSao pha lê (old: 7) lydo: Lấy từ lucky box at 03/11/2023 8:29 PM
+BAG:vegeta add 6xVệ tinh trí tuệ (old: 5) lydo: Lấy từ lucky box at 03/11/2023 8:29 PM
+BAG:vegeta add 1xSao pha lê lydo: Lấy từ lucky box at 03/11/2023 8:29 PM
+BAG:vegeta add 3xSao pha lê (old: 2) lydo: Lấy từ lucky box at 03/11/2023 8:29 PM
+BAG:vegeta add 42xNgọc Rồng 4 sao (old: 41) lydo: Lấy từ lucky box at 03/11/2023 8:29 PM
+BAG:vegeta add 5xNgọc Rồng 6 sao (old: 4) lydo: Lấy từ lucky box at 03/11/2023 8:29 PM
+BAG:vegeta add 2xSao pha lê (old: 1) lydo: Lấy từ lucky box at 03/11/2023 8:29 PM
+BAG:vegeta add 6xNgọc Rồng 6 sao (old: 5) lydo: Lấy từ lucky box at 03/11/2023 8:29 PM
+BAG:vegeta add 5xVệ tinh trí lực (old: 4) lydo: Lấy từ lucky box at 03/11/2023 8:29 PM
+BAG:vegeta add 4xSao pha lê (old: 3) lydo: Lấy từ lucky box at 03/11/2023 8:29 PM
+BAG:vegeta add 9xSao pha lê (old: 8) lydo: Lấy từ lucky box at 03/11/2023 8:29 PM
+BAG:vegeta add 8xVệ tinh sinh lực (old: 7) lydo: Lấy từ lucky box at 03/11/2023 8:29 PM
+BAG:vegeta add 5xSao pha lê (old: 4) lydo: Lấy từ lucky box at 03/11/2023 8:29 PM
+BAG:vegeta add 6xVệ tinh trí lực (old: 5) lydo: Lấy từ lucky box at 03/11/2023 8:29 PM
+BAG:vegeta add 6xSao pha lê (old: 5) lydo: Lấy từ lucky box at 03/11/2023 8:29 PM
+BAG:vegeta add 6xVệ tinh phòng thủ (old: 5) lydo: Lấy từ lucky box at 03/11/2023 8:29 PM
+BAG:vegeta add 5xSao pha lê (old: 4) lydo: Lấy từ lucky box at 03/11/2023 8:29 PM
+BAG:vegeta add 6xSao pha lê (old: 5) lydo: Lấy từ lucky box at 03/11/2023 8:29 PM
+BAG:vegeta add 4xSao pha lê (old: 3) lydo: Lấy từ lucky box at 03/11/2023 8:29 PM
+BAG:vegeta add 1xCải trang Hatchiyack lydo: Lấy từ lucky box at 03/11/2023 8:29 PM
+BAG:vegeta add 43xNgọc Rồng 4 sao (old: 42) lydo: Lấy từ lucky box at 03/11/2023 8:30 PM
+BAG:vegeta add 7xVệ tinh trí tuệ (old: 6) lydo: Lấy từ lucky box at 03/11/2023 8:30 PM
+BAG:vegeta add 67xNgọc Rồng 7 sao (old: 66) lydo: Lấy từ lucky box at 03/11/2023 8:30 PM
+BAG:vegeta add 7xSao pha lê (old: 6) lydo: Lấy từ lucky box at 03/11/2023 8:30 PM
+BAG:vegeta add 8xVệ tinh trí tuệ (old: 7) lydo: Lấy từ lucky box at 03/11/2023 8:30 PM
+BAG:vegeta add 9xVệ tinh trí tuệ (old: 8) lydo: Lấy từ lucky box at 03/11/2023 8:30 PM
+BAG:vegeta add 44xNgọc Rồng 4 sao (old: 43) lydo: Lấy từ lucky box at 03/11/2023 8:30 PM
+BAG:vegeta add 7xVệ tinh trí lực (old: 6) lydo: Lấy từ lucky box at 03/11/2023 8:30 PM
+BAG:vegeta add 8xSao pha lê (old: 7) lydo: Lấy từ lucky box at 03/11/2023 8:30 PM
+BAG:vegeta add 7xSao pha lê (old: 6) lydo: Lấy từ lucky box at 03/11/2023 8:30 PM
+BAG:vegeta add 9xVệ tinh sinh lực (old: 8) lydo: Lấy từ lucky box at 03/11/2023 8:30 PM
+BAG:vegeta add 45xNgọc Rồng 4 sao (old: 44) lydo: Lấy từ lucky box at 03/11/2023 8:30 PM
+BAG:vegeta add 10xSao pha lê (old: 9) lydo: Lấy từ lucky box at 03/11/2023 8:30 PM
+BAG:vegeta add 10xVệ tinh sinh lực (old: 9) lydo: Lấy từ lucky box at 03/11/2023 8:30 PM
+BAG:vegeta add 46xNgọc Rồng 4 sao (old: 45) lydo: Lấy từ lucky box at 03/11/2023 8:30 PM
+BAG:vegeta add 5xSao pha lê (old: 4) lydo: Lấy từ lucky box at 03/11/2023 8:30 PM
+BAG:vegeta add 6xSao pha lê (old: 5) lydo: Lấy từ lucky box at 03/11/2023 8:30 PM
+BAG:vegeta add 11xSao pha lê (old: 10) lydo: Lấy từ lucky box at 03/11/2023 8:30 PM
+BAG:vegeta add 68xNgọc Rồng 7 sao (old: 67) lydo: Lấy từ lucky box at 03/11/2023 8:30 PM
+BAG:vegeta add 8xVệ tinh trí lực (old: 7) lydo: Lấy từ lucky box at 03/11/2023 8:30 PM
+BAG:vegeta add 1xSao pha lê lydo: Lấy từ lucky box at 03/11/2023 8:30 PM
+BAG:vegeta add 7xSao pha lê (old: 6) lydo: Lấy từ lucky box at 03/11/2023 8:30 PM
+BAG:vegeta add 6xSao pha lê (old: 5) lydo: Lấy từ lucky box at 03/11/2023 8:30 PM
+BAG:vegeta add 47xNgọc Rồng 4 sao (old: 46) lydo: Lấy từ lucky box at 03/11/2023 8:30 PM
+BAG:vegeta add 7xSao pha lê (old: 6) lydo: Lấy từ lucky box at 03/11/2023 8:30 PM
+BAG:vegeta add 69xNgọc Rồng 7 sao (old: 68) lydo: Lấy từ lucky box at 03/11/2023 8:30 PM
+BAG:vegeta add 1xCải trang mồn lèo lydo: Lấy từ lucky box at 03/11/2023 8:30 PM
+BAG:vegeta add 9xVệ tinh trí lực (old: 8) lydo: Lấy từ lucky box at 03/11/2023 8:32 PM
+BAG:vegeta add 77xNgọc Rồng 5 sao (old: 76) lydo: Lấy từ lucky box at 03/11/2023 8:32 PM
+BAG:vegeta add 7xNgọc Rồng 6 sao (old: 6) lydo: Lấy từ lucky box at 03/11/2023 8:32 PM
+BAG:vegeta add 78xNgọc Rồng 5 sao (old: 77) lydo: Lấy từ lucky box at 03/11/2023 8:32 PM
+BAG:vegeta add 1xSao pha lê lydo: Lấy từ lucky box at 03/11/2023 8:32 PM
+BAG:vegeta add 48xNgọc Rồng 4 sao (old: 47) lydo: Lấy từ lucky box at 03/11/2023 8:32 PM
+BAG:vegeta add 7xVệ tinh phòng thủ (old: 6) lydo: Lấy từ lucky box at 03/11/2023 8:32 PM
+BAG:vegeta add 79xNgọc Rồng 5 sao (old: 78) lydo: Lấy từ lucky box at 03/11/2023 8:32 PM
+BAG:vegeta add 8xSao pha lê (old: 7) lydo: Lấy từ lucky box at 03/11/2023 8:32 PM
+BAG:vegeta add 49xNgọc Rồng 4 sao (old: 48) lydo: Lấy từ lucky box at 03/11/2023 8:32 PM
+BAG:vegeta add 12xSao pha lê (old: 11) lydo: Lấy từ lucky box at 03/11/2023 8:32 PM
+BAG:vegeta add 80xNgọc Rồng 5 sao (old: 79) lydo: Lấy từ lucky box at 03/11/2023 8:32 PM
+BAG:vegeta add 50xNgọc Rồng 4 sao (old: 49) lydo: Lấy từ lucky box at 03/11/2023 8:32 PM
+BAG:vegeta add 8xVệ tinh phòng thủ (old: 7) lydo: Lấy từ lucky box at 03/11/2023 8:32 PM
+BAG:vegeta add 70xNgọc Rồng 7 sao (old: 69) lydo: Lấy từ lucky box at 03/11/2023 8:32 PM
+BAG:vegeta add 8xSao pha lê (old: 7) lydo: Lấy từ lucky box at 03/11/2023 8:32 PM
+BAG:vegeta add 9xSao pha lê (old: 8) lydo: Lấy từ lucky box at 03/11/2023 8:32 PM
+BAG:vegeta add 9xVệ tinh phòng thủ (old: 8) lydo: Lấy từ lucky box at 03/11/2023 8:32 PM
+BAG:vegeta add 1xVệ tinh sinh lực lydo: Lấy từ lucky box at 03/11/2023 8:32 PM
+BAG:vegeta add 51xNgọc Rồng 4 sao (old: 50) lydo: Lấy từ lucky box at 03/11/2023 8:32 PM
+BAG:vegeta add 2xSao pha lê (old: 1) lydo: Lấy từ lucky box at 03/11/2023 8:32 PM
+BAG:vegeta add 1xSao pha lê lydo: Lấy từ lucky box at 03/11/2023 8:32 PM
+BAG:vegeta add 71xNgọc Rồng 7 sao (old: 70) lydo: Lấy từ lucky box at 03/11/2023 8:32 PM
+BAG:vegeta add 10xVệ tinh trí lực (old: 9) lydo: Lấy từ lucky box at 03/11/2023 8:32 PM
+BAG:vegeta add 8xNgọc Rồng 6 sao (old: 7) lydo: Lấy từ lucky box at 03/11/2023 8:32 PM
+BAG:vegeta add 52xNgọc Rồng 4 sao (old: 51) lydo: Lấy từ lucky box at 03/11/2023 8:32 PM
+BAG:vegeta add 72xNgọc Rồng 7 sao (old: 71) lydo: Lấy từ lucky box at 03/11/2023 8:32 PM
+BAG:vegeta add 10xVệ tinh phòng thủ (old: 9) lydo: Lấy từ lucky box at 03/11/2023 8:32 PM
+BAG:vegeta add 1xVệ tinh trí tuệ lydo: Lấy từ lucky box at 03/11/2023 8:32 PM
+BAG:vegeta add 3xSao pha lê (old: 2) lydo: Lấy từ lucky box at 03/11/2023 8:32 PM
+BAG:vegeta add 9xSao pha lê (old: 8) lydo: Lấy từ lucky box at 03/11/2023 8:32 PM
+BAG:vegeta add 10xSao pha lê (old: 9) lydo: Lấy từ lucky box at 03/11/2023 8:32 PM
+BAG:vegeta add 2xSao pha lê (old: 1) lydo: Lấy từ lucky box at 03/11/2023 8:32 PM
+BAG:vegeta add 2xVệ tinh sinh lực (old: 1) lydo: Lấy từ lucky box at 03/11/2023 8:32 PM
+BAG:vegeta add 2xVệ tinh trí tuệ (old: 1) lydo: Lấy từ lucky box at 03/11/2023 8:32 PM
+BAG:vegeta add 1xGiáp tập luyện cấp 1 lydo: Mua từ cửa hàng at 03/11/2023 8:32 PM
+BAG:vegeta add 1xGiáp tập luyện cấp 3 lydo: Lấy từ body vào hành trang at 03/11/2023 8:35 PM
+BAG:vegeta add 1xÁo vải thô lydo: Lấy từ body vào hành trang at 03/11/2023 8:39 PM
+BAG:vegeta add 1xQuần vải thô lydo: Lấy từ body vào hành trang at 03/11/2023 8:39 PM
+BAG:vegeta add 1xGăng vải thô lydo: Lấy từ body vào hành trang at 03/11/2023 8:39 PM
+BAG:vegeta add 1xGiầy vải thô lydo: Lấy từ body vào hành trang at 03/11/2023 8:39 PM
+BAG:vegeta add 1xRada cấp 1 lydo: Lấy từ body vào hành trang at 03/11/2023 8:39 PM
+BAG:vegeta add 1xHoa hồng vàng lydo: Nhặt từ map at 03/11/2023 9:07 PM

@@ -1,0 +1,27 @@
+BAG:pirlogohan add 30xĐậu thần cấp 1 (old: 10) lydo: Lấy từ rương qua người at 03/12/2023 8:51 AM
+BAG:pirlogohan add 1xQuần sợi len lydo: Nhặt từ map at 03/12/2023 8:53 AM
+BAG:pirlogohan add 1xÁo sợi len lydo: Nhặt từ map at 03/12/2023 8:54 AM
+BAG:pirlogohan add 1xMảnh Lợn lòi lydo: Nhặt từ map at 03/12/2023 8:56 AM
+BAG:pirlogohan add 1xĐá Saphia lydo: Nhặt từ map at 03/12/2023 8:57 AM
+BAG:pirlogohan add 1xGăng sợi len lydo: Nhặt từ map at 03/12/2023 8:57 AM
+BAG:pirlogohan add 1xÁo sợi len lydo: Nhặt từ map at 03/12/2023 8:58 AM
+BAG:pirlogohan add 2xHoa hồng vàng (old: 1) lydo: Nhặt từ map at 03/12/2023 8:58 AM
+BAG:pirlogohan add 1xĐổi đệ tử lydo: Mua từ cửa hàng at 03/12/2023 9:01 AM
+BAG:pirlogohan add 1xRada cấp 1 lydo: Lấy từ body đệ vào hành trang at 03/12/2023 9:02 AM
+BAG:pirlogohan add 1xNezuko lydo: Lấy từ body đệ vào hành trang at 03/12/2023 9:02 AM
+BAG:pirlogohan add 1xQuần sợi len lydo: Nhặt từ map at 03/12/2023 9:12 AM
+BAG:pirlogohan add 1xGiầy sợi len lydo: Nhặt từ map at 03/12/2023 9:13 AM
+BAG:pirlogohan add 1xQuần sợi len lydo: Nhặt từ map at 03/12/2023 9:14 AM
+BAG:pirlogohan add 1xQuần sợi len lydo: Nhặt từ map at 03/12/2023 9:15 AM
+BAG:pirlogohan add 1xÁo sợi len lydo: Nhặt từ map at 03/12/2023 9:15 AM
+BAG:pirlogohan add 1xGiầy sợi len lydo: Nhặt từ map at 03/12/2023 9:15 AM
+BAG:pirlogohan add 1xQuần sợi len lydo: Nhặt từ map at 03/12/2023 9:16 AM
+BAG:pirlogohan add 1xGăng sợi len lydo: Nhặt từ map at 03/12/2023 9:16 AM
+BAG:pirlogohan add 1xHoa hồng đỏ lydo: Nhặt từ map at 03/12/2023 9:17 AM
+BAG:pirlogohan add 1xÁo sợi len lydo: Nhặt từ map at 03/12/2023 9:17 AM
+BAG:pirlogohan add 1xRada cấp 1 lydo: Nhặt từ map at 03/12/2023 9:17 AM
+BAG:pirlogohan add 1xQuần sợi len lydo: Nhặt từ map at 03/12/2023 9:45 AM
+BAG:pirlogohan add 15xĐậu thần cấp 1 (old: 10) lydo: Lấy từ rương qua người at 03/12/2023 12:40 PM
+BAG:pirlogohan add 35xĐậu thần cấp 1 (old: 15) lydo: Lấy từ rương qua người at 03/12/2023 12:41 PM
+BAG:pirlogohan add 55xĐậu thần cấp 1 (old: 35) lydo: Lấy từ rương qua người at 03/12/2023 12:41 PM
+BAG:pirlogohan add 75xĐậu thần cấp 1 (old: 55) lydo: Lấy từ rương qua người at 03/12/2023 12:41 PM

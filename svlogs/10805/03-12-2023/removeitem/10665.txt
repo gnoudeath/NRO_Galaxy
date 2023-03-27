@@ -1,0 +1,225 @@
+BAG:things remove 1xThỏi vàng lydo: Bán cho shop at 03/12/2023 5:53 AM
+BAG:things remove 1xThỏi vàng lydo: Bán cho shop at 03/12/2023 5:53 AM
+BAG:things remove 1xThỏi vàng lydo: Bán cho shop at 03/12/2023 5:53 AM
+BAG:things remove 214xHoa hồng xanh lydo: Bán cho shop at 03/12/2023 5:53 AM
+BAG:things remove 229xHoa hồng đỏ lydo: Bán cho shop at 03/12/2023 5:53 AM
+BAG:things remove 340xHoa hồng vàng lydo: Bán cho shop at 03/12/2023 5:53 AM
+BAG:things remove Quần vải thô lydo: Mặc cho đệ tử at 03/12/2023 5:53 AM
+BAG:things remove Găng vải thô lydo: Mặc cho đệ tử at 03/12/2023 5:54 AM
+BAG:things remove Cải trang Hatchiyack lydo: Mặc cho đệ tử at 03/12/2023 5:54 AM
+BAG:things remove Áo vải thô lydo: Mặc cho đệ tử at 03/12/2023 5:54 AM
+BAG:things remove Giầy vải thô lydo: Mặc cho đệ tử at 03/12/2023 5:54 AM
+BAG:things remove Rada cấp 1 lydo: Mặc cho đệ tử at 03/12/2023 5:54 AM
+BAG:things remove Giáp tập luyện cấp 2 lydo: Mặc cho đệ tử at 03/12/2023 5:54 AM
+BAG:things remove 1xNâng cấp kỹ năng 1 đệ tử lydo: Dùng sách kĩ năng đệ tử at 03/12/2023 5:56 AM
+BAG:things remove 1xNâng cấp kỹ năng 1 đệ tử lydo: Dùng sách kĩ năng đệ tử at 03/12/2023 5:56 AM
+BAG:things remove 1xNâng cấp kỹ năng 1 đệ tử lydo: Dùng sách kĩ năng đệ tử at 03/12/2023 5:56 AM
+BAG:things remove 1xNâng cấp kỹ năng 1 đệ tử lydo: Dùng sách kĩ năng đệ tử at 03/12/2023 5:56 AM
+BAG:things remove 1xNâng cấp kỹ năng 1 đệ tử lydo: Dùng sách kĩ năng đệ tử at 03/12/2023 5:56 AM
+BAG:things remove 1xNâng cấp kỹ năng 1 đệ tử lydo: Dùng sách kĩ năng đệ tử at 03/12/2023 5:56 AM
+BAG:things remove Giáp tập luyện cấp 3 lydo: Mặc vào người at 03/12/2023 5:57 AM
+BAG:things remove 1xĐậu thần cấp 6 lydo: Ăn đậu at 03/12/2023 6:37 AM
+BAG:things remove 15xHoa hồng vàng lydo: Bán cho shop at 03/12/2023 6:44 AM
+BAG:things remove 10xHoa hồng xanh lydo: Bán cho shop at 03/12/2023 6:44 AM
+BAG:things remove 3xĐá Saphia lydo: Bán cho shop at 03/12/2023 6:44 AM
+BAG:things remove 1xĐá Ruby lydo: Bán cho shop at 03/12/2023 6:44 AM
+BAG:things remove 11xHoa hồng đỏ lydo: Bán cho shop at 03/12/2023 6:44 AM
+BAG:things remove 1xĐậu thần cấp 6 lydo: Ăn đậu at 03/12/2023 6:48 AM
+BAG:things remove 1xĐậu thần cấp 6 lydo: Ăn đậu at 03/12/2023 6:58 AM
+BAG:things remove 1xĐậu thần cấp 6 lydo: Ăn đậu at 03/12/2023 7:08 AM
+BAG:things remove 1xĐậu thần cấp 6 lydo: Ăn đậu at 03/12/2023 7:18 AM
+BAG:things remove 1xĐậu thần cấp 6 lydo: Ăn đậu at 03/12/2023 7:28 AM
+BAG:things remove 1xĐậu thần cấp 6 lydo: Ăn đậu at 03/12/2023 7:39 AM
+BAG:things remove Cải Trang Thần Zeno Xayda lydo: Mặc vào người at 03/12/2023 7:41 AM
+BAG:things remove Hoa hồng xanh lydo: Tự Xóa vật phẩm at 03/12/2023 7:51 AM
+BAG:things remove Hoa hồng vàng lydo: Tự Xóa vật phẩm at 03/12/2023 7:51 AM
+BAG:things remove Hoa hồng đỏ lydo: Tự Xóa vật phẩm at 03/12/2023 7:51 AM
+BAG:things remove Bông tai Porata lydo: Cất vào rương at 03/12/2023 7:52 AM
+BAG:things remove 1xCuồng nộ lydo: Dùng buff at 03/12/2023 7:53 AM
+BAG:things remove Giáp tập luyện cấp 3 lydo: Mặc vào người at 03/12/2023 8:01 AM
+BAG:things remove 6xĐá Titan lydo: Bán cho shop at 03/12/2023 8:01 AM
+BAG:things remove 10xĐá lục bảo lydo: Bán cho shop at 03/12/2023 8:01 AM
+BAG:things remove Găng Thần Xayda lydo: Cất vào rương at 03/12/2023 8:01 AM
+BAG:things remove Áo vải thô lydo: Cất vào rương at 03/12/2023 8:01 AM
+BAG:things remove 1xThỏi vàng lydo: Bán cho shop at 03/12/2023 8:02 AM
+BAG:things remove 1xThỏi vàng lydo: Bán cho shop at 03/12/2023 8:02 AM
+BAG:things remove 1xThỏi vàng lydo: Bán cho shop at 03/12/2023 8:02 AM
+BAG:things remove Áo vải thô lydo: Mặc cho đệ tử at 03/12/2023 8:03 AM
+BAG:things remove Găng lông đỏ lydo: Mặc cho đệ tử at 03/12/2023 8:03 AM
+BAG:things remove Giáp tập luyện cấp 3 lydo: Mặc cho đệ tử at 03/12/2023 8:03 AM
+BAG:things remove Quần vải thô lydo: Mặc cho đệ tử at 03/12/2023 8:03 AM
+BAG:things remove Giầy vải thô lydo: Mặc cho đệ tử at 03/12/2023 8:03 AM
+BAG:things remove Rada cấp 1 lydo: Mặc cho đệ tử at 03/12/2023 8:03 AM
+BAG:things remove CT Genma 01 lydo: Mặc cho đệ tử at 03/12/2023 8:03 AM
+BAG:things remove 1xHoa hồng xanh lydo: Bán cho shop at 03/12/2023 8:05 AM
+BAG:things remove Áo vải thô lydo: Mặc cho đệ tử at 03/12/2023 8:06 AM
+BAG:things remove Quần vải thô lydo: Mặc cho đệ tử at 03/12/2023 8:06 AM
+BAG:things remove Giầy vải thô lydo: Mặc cho đệ tử at 03/12/2023 8:06 AM
+BAG:things remove Rada cấp 1 lydo: Mặc cho đệ tử at 03/12/2023 8:06 AM
+BAG:things remove CT Genma 01 lydo: Mặc cho đệ tử at 03/12/2023 8:06 AM
+BAG:things remove Giáp tập luyện cấp 2 lydo: Mặc cho đệ tử at 03/12/2023 8:06 AM
+BAG:things remove Găng vải thô lydo: Mặc cho đệ tử at 03/12/2023 8:06 AM
+BAG:things remove 1xNâng cấp kỹ năng 1 đệ tử lydo: Dùng sách kĩ năng đệ tử at 03/12/2023 8:07 AM
+BAG:things remove 1xNâng cấp kỹ năng 1 đệ tử lydo: Dùng sách kĩ năng đệ tử at 03/12/2023 8:07 AM
+BAG:things remove 1xNâng cấp kỹ năng 1 đệ tử lydo: Dùng sách kĩ năng đệ tử at 03/12/2023 8:07 AM
+BAG:things remove 1xNâng cấp kỹ năng 1 đệ tử lydo: Dùng sách kĩ năng đệ tử at 03/12/2023 8:07 AM
+BAG:things remove 1xNâng cấp kỹ năng 1 đệ tử lydo: Dùng sách kĩ năng đệ tử at 03/12/2023 8:07 AM
+BAG:things remove 1xNâng cấp kỹ năng 1 đệ tử lydo: Dùng sách kĩ năng đệ tử at 03/12/2023 8:07 AM
+BAG:things remove Nâng cấp kỹ năng 1 đệ tử lydo: Tự Xóa vật phẩm at 03/12/2023 8:07 AM
+BAG:things remove 1xĐậu thần cấp 6 lydo: Ăn đậu at 03/12/2023 8:48 AM
+BAG:things remove 1xĐậu thần cấp 6 lydo: Ăn đậu at 03/12/2023 8:59 AM
+BAG:things remove 1xĐậu thần cấp 6 lydo: Ăn đậu at 03/12/2023 9:11 AM
+BAG:things remove Hoa hồng xanh lydo: Tự Xóa vật phẩm at 03/12/2023 9:22 AM
+BAG:things remove Hoa hồng vàng lydo: Tự Xóa vật phẩm at 03/12/2023 9:22 AM
+BAG:things remove Hoa hồng đỏ lydo: Tự Xóa vật phẩm at 03/12/2023 9:22 AM
+BAG:things remove 1xĐậu thần cấp 6 lydo: Ăn đậu at 03/12/2023 9:35 AM
+BAG:things remove Đá Saphia lydo: Tự Xóa vật phẩm at 03/12/2023 10:16 AM
+BAG:things remove Hoa hồng xanh lydo: Tự Xóa vật phẩm at 03/12/2023 10:16 AM
+BAG:things remove 1xCuồng nộ lydo: Dùng buff at 03/12/2023 10:20 AM
+BAG:things remove 24xNgọc Rồng 6 sao lydo: Bán cho shop at 03/12/2023 10:25 AM
+BAG:things remove 1xThỏi vàng lydo: Bán cho shop at 03/12/2023 10:25 AM
+BAG:things remove 1xĐá Ruby lydo: Bán cho shop at 03/12/2023 10:25 AM
+BAG:things remove 5xĐá lục bảo lydo: Bán cho shop at 03/12/2023 10:25 AM
+BAG:things remove 3xĐá Titan lydo: Bán cho shop at 03/12/2023 10:25 AM
+BAG:things remove 1xHoa hồng đỏ lydo: Bán cho shop at 03/12/2023 10:25 AM
+BAG:things remove 2xHoa hồng vàng lydo: Bán cho shop at 03/12/2023 10:25 AM
+BAG:things remove Áo vải thô lydo: Mặc cho đệ tử at 03/12/2023 10:26 AM
+BAG:things remove Quần vải thô lydo: Mặc cho đệ tử at 03/12/2023 10:26 AM
+BAG:things remove Giáp tập luyện cấp 2 lydo: Mặc cho đệ tử at 03/12/2023 10:26 AM
+BAG:things remove Rada cấp 1 lydo: Mặc cho đệ tử at 03/12/2023 10:27 AM
+BAG:things remove Giầy vải thô lydo: Mặc cho đệ tử at 03/12/2023 10:27 AM
+BAG:things remove CT Genma 01 lydo: Mặc cho đệ tử at 03/12/2023 10:27 AM
+BAG:things remove Găng vải thô lydo: Mặc cho đệ tử at 03/12/2023 10:27 AM
+BAG:things remove 1xNâng cấp kỹ năng 1 đệ tử lydo: Dùng sách kĩ năng đệ tử at 03/12/2023 10:28 AM
+BAG:things remove 1xNâng cấp kỹ năng 1 đệ tử lydo: Dùng sách kĩ năng đệ tử at 03/12/2023 10:28 AM
+BAG:things remove 1xNâng cấp kỹ năng 1 đệ tử lydo: Dùng sách kĩ năng đệ tử at 03/12/2023 10:28 AM
+BAG:things remove 1xNâng cấp kỹ năng 1 đệ tử lydo: Dùng sách kĩ năng đệ tử at 03/12/2023 10:28 AM
+BAG:things remove 1xNâng cấp kỹ năng 1 đệ tử lydo: Dùng sách kĩ năng đệ tử at 03/12/2023 10:28 AM
+BAG:things remove 1xNâng cấp kỹ năng 1 đệ tử lydo: Dùng sách kĩ năng đệ tử at 03/12/2023 10:28 AM
+BAG:things remove Giáp tập luyện cấp 3 lydo: Mặc vào người at 03/12/2023 11:02 AM
+BAG:things remove 1xĐậu thần cấp 6 lydo: Ăn đậu at 03/12/2023 11:11 AM
+BAG:things remove 1xĐậu thần cấp 6 lydo: Ăn đậu at 03/12/2023 11:21 AM
+BAG:things remove 1xĐậu thần cấp 6 lydo: Ăn đậu at 03/12/2023 11:31 AM
+BAG:things remove 1xNâng cấp kỹ năng 2 đệ tử lydo: Dùng sách kĩ năng đệ tử at 03/12/2023 11:34 AM
+BAG:things remove 1xNâng cấp kỹ năng 2 đệ tử lydo: Dùng sách kĩ năng đệ tử at 03/12/2023 11:34 AM
+BAG:things remove 1xNâng cấp kỹ năng 2 đệ tử lydo: Dùng sách kĩ năng đệ tử at 03/12/2023 11:34 AM
+BAG:things remove 1xNâng cấp kỹ năng 2 đệ tử lydo: Dùng sách kĩ năng đệ tử at 03/12/2023 11:34 AM
+BAG:things remove 1xNâng cấp kỹ năng 2 đệ tử lydo: Dùng sách kĩ năng đệ tử at 03/12/2023 11:34 AM
+BAG:things remove 1xNâng cấp kỹ năng 2 đệ tử lydo: Dùng sách kĩ năng đệ tử at 03/12/2023 11:34 AM
+BAG:things remove Cuồng nộ lydo: Cất vào rương at 03/12/2023 11:35 AM
+BAG:things remove 13xHoa hồng xanh lydo: Bán cho shop at 03/12/2023 11:35 AM
+BAG:things remove 1xĐá Ruby lydo: Bán cho shop at 03/12/2023 11:35 AM
+BAG:things remove 1xGăng lông đỏ lydo: Bán cho shop at 03/12/2023 11:36 AM
+BAG:things remove 1xĐậu thần cấp 6 lydo: Ăn đậu at 03/12/2023 11:44 AM
+BAG:things remove 1xĐậu thần cấp 6 lydo: Ăn đậu at 03/12/2023 11:55 AM
+BAG:things remove 1xĐậu thần cấp 6 lydo: Ăn đậu at 03/12/2023 12:05 PM
+BAG:things remove 1xĐậu thần cấp 6 lydo: Ăn đậu at 03/12/2023 12:15 PM
+BAG:things remove 1xĐậu thần cấp 6 lydo: Ăn đậu at 03/12/2023 12:25 PM
+BAG:things remove 1xĐậu thần cấp 6 lydo: Ăn đậu at 03/12/2023 12:35 PM
+BAG:things remove 1xĐậu thần cấp 6 lydo: Ăn đậu at 03/12/2023 12:45 PM
+BAG:things remove 1xĐậu thần cấp 6 lydo: Ăn đậu at 03/12/2023 12:55 PM
+BAG:things remove 1xĐậu thần cấp 6 lydo: Ăn đậu at 03/12/2023 1:05 PM
+BAG:things remove 1xĐậu thần cấp 6 lydo: Ăn đậu at 03/12/2023 1:15 PM
+BAG:things remove 1xĐậu thần cấp 6 lydo: Ăn đậu at 03/12/2023 1:26 PM
+BAG:things remove 1xĐậu thần cấp 6 lydo: Ăn đậu at 03/12/2023 1:36 PM
+BAG:things remove 1xĐậu thần cấp 6 lydo: Ăn đậu at 03/12/2023 1:46 PM
+BAG:things remove 1xĐậu thần cấp 6 lydo: Ăn đậu at 03/12/2023 1:56 PM
+BAG:things remove 1xĐậu thần cấp 6 lydo: Ăn đậu at 03/12/2023 2:06 PM
+BAG:things remove 1xĐậu thần cấp 6 lydo: Ăn đậu at 03/12/2023 2:16 PM
+BAG:things remove 1xĐậu thần cấp 6 lydo: Ăn đậu at 03/12/2023 2:26 PM
+BAG:things remove 1xĐậu thần cấp 6 lydo: Ăn đậu at 03/12/2023 2:36 PM
+BAG:things remove 1xĐậu thần cấp 6 lydo: Ăn đậu at 03/12/2023 2:46 PM
+BAG:things remove 1xĐậu thần cấp 6 lydo: Ăn đậu at 03/12/2023 2:57 PM
+BAG:things remove 1xĐậu thần cấp 6 lydo: Ăn đậu at 03/12/2023 3:07 PM
+BAG:things remove 1xĐậu thần cấp 6 lydo: Ăn đậu at 03/12/2023 3:17 PM
+BAG:things remove 1xĐậu thần cấp 6 lydo: Ăn đậu at 03/12/2023 3:27 PM
+BAG:things remove 1xĐậu thần cấp 6 lydo: Ăn đậu at 03/12/2023 3:37 PM
+BAG:things remove 1xĐậu thần cấp 6 lydo: Ăn đậu at 03/12/2023 3:47 PM
+BAG:things remove 1xĐậu thần cấp 6 lydo: Ăn đậu at 03/12/2023 3:57 PM
+BAG:things remove 1xĐậu thần cấp 6 lydo: Ăn đậu at 03/12/2023 4:08 PM
+BAG:things remove 1xĐậu thần cấp 6 lydo: Ăn đậu at 03/12/2023 4:18 PM
+BAG:things remove 1xĐậu thần cấp 6 lydo: Ăn đậu at 03/12/2023 4:28 PM
+BAG:things remove 1xĐậu thần cấp 6 lydo: Ăn đậu at 03/12/2023 4:38 PM
+BAG:things remove 1xĐậu thần cấp 6 lydo: Ăn đậu at 03/12/2023 4:48 PM
+BAG:things remove 1xĐậu thần cấp 6 lydo: Ăn đậu at 03/12/2023 4:58 PM
+BAG:things remove 1xĐậu thần cấp 6 lydo: Ăn đậu at 03/12/2023 5:08 PM
+BAG:things remove 1xĐậu thần cấp 6 lydo: Ăn đậu at 03/12/2023 5:18 PM
+BAG:things remove 1xĐậu thần cấp 6 lydo: Ăn đậu at 03/12/2023 5:29 PM
+BAG:things remove 1xĐậu thần cấp 6 lydo: Ăn đậu at 03/12/2023 5:39 PM
+BAG:things remove 1xĐậu thần cấp 6 lydo: Ăn đậu at 03/12/2023 5:49 PM
+BAG:things remove 1xĐậu thần cấp 6 lydo: Ăn đậu at 03/12/2023 5:59 PM
+BAG:things remove 1xĐậu thần cấp 6 lydo: Ăn đậu at 03/12/2023 6:09 PM
+BAG:things remove 1xĐậu thần cấp 6 lydo: Ăn đậu at 03/12/2023 6:19 PM
+BAG:things remove 1xĐậu thần cấp 6 lydo: Ăn đậu at 03/12/2023 6:29 PM
+BAG:things remove 1xĐậu thần cấp 6 lydo: Ăn đậu at 03/12/2023 6:40 PM
+BAG:things remove 1xĐậu thần cấp 6 lydo: Ăn đậu at 03/12/2023 6:50 PM
+BAG:things remove 1xĐậu thần cấp 6 lydo: Ăn đậu at 03/12/2023 7:01 PM
+BAG:things remove 1xĐậu thần cấp 6 lydo: Ăn đậu at 03/12/2023 7:11 PM
+BAG:things remove 1xGăng da Xayda lydo: Bán cho shop at 03/12/2023 7:20 PM
+BAG:things remove 11xHoa hồng đỏ lydo: Bán cho shop at 03/12/2023 7:21 PM
+BAG:things remove 1xĐậu thần cấp 6 lydo: Ăn đậu at 03/12/2023 7:21 PM
+BAG:things remove 27xHoa hồng vàng lydo: Bán cho shop at 03/12/2023 7:21 PM
+BAG:things remove 4xĐá lục bảo lydo: Bán cho shop at 03/12/2023 7:21 PM
+BAG:things remove 1xĐậu thần cấp 6 lydo: Ăn đậu at 03/12/2023 7:31 PM
+BAG:things remove 1xĐậu thần cấp 6 lydo: Ăn đậu at 03/12/2023 7:41 PM
+BAG:things remove 1xĐậu thần cấp 6 lydo: Ăn đậu at 03/12/2023 7:51 PM
+BAG:things remove 1xĐậu thần cấp 6 lydo: Ăn đậu at 03/12/2023 8:01 PM
+BAG:things remove 1xĐậu thần cấp 6 lydo: Ăn đậu at 03/12/2023 8:12 PM
+BAG:things remove 1xĐậu thần cấp 6 lydo: Ăn đậu at 03/12/2023 8:22 PM
+BAG:things remove Đá Ruby lydo: Cất vào rương at 03/12/2023 8:28 PM
+BAG:things remove Đá lục bảo lydo: Cất vào rương at 03/12/2023 8:28 PM
+BAG:things remove Đá Saphia lydo: Cất vào rương at 03/12/2023 8:28 PM
+BAG:things remove Ngọc Rồng 6 sao lydo: Cất vào rương at 03/12/2023 8:29 PM
+BAG:things remove Ngọc Rồng 4 sao lydo: Cất vào rương at 03/12/2023 8:29 PM
+BAG:things remove Ngọc Rồng 5 sao lydo: Cất vào rương at 03/12/2023 8:29 PM
+BAG:things remove 1xĐá bảo vệ lydo: Dùng đá bảo vệ at 03/12/2023 8:30 PM
+BAG:things remove 19xĐá thạch anh tím lydo: Dùng đá nâng cấp at 03/12/2023 8:30 PM
+BAG:things remove 1xĐá bảo vệ lydo: Dùng đá bảo vệ at 03/12/2023 8:30 PM
+BAG:things remove 19xĐá thạch anh tím lydo: Dùng đá nâng cấp at 03/12/2023 8:30 PM
+BAG:things remove 1xĐá bảo vệ lydo: Dùng đá bảo vệ at 03/12/2023 8:30 PM
+BAG:things remove 19xĐá thạch anh tím lydo: Dùng đá nâng cấp at 03/12/2023 8:30 PM
+BAG:things remove 1xĐá bảo vệ lydo: Dùng đá bảo vệ at 03/12/2023 8:30 PM
+BAG:things remove 19xĐá thạch anh tím lydo: Dùng đá nâng cấp at 03/12/2023 8:30 PM
+BAG:things remove 1xĐá bảo vệ lydo: Dùng đá bảo vệ at 03/12/2023 8:30 PM
+BAG:things remove 19xĐá thạch anh tím lydo: Dùng đá nâng cấp at 03/12/2023 8:30 PM
+BAG:things remove Găng Kaio lydo: Mặc cho đệ tử at 03/12/2023 8:30 PM
+BAG:things remove Găng siêu Xayda lydo: Mặc cho đệ tử at 03/12/2023 8:30 PM
+BAG:things remove 1xGăng Kaio lydo: Bán cho shop at 03/12/2023 8:31 PM
+BAG:things remove 1xGăng siêu Xayda lydo: Bán cho shop at 03/12/2023 8:31 PM
+BAG:things remove 14xHoa hồng vàng lydo: Bán cho shop at 03/12/2023 8:31 PM
+BAG:things remove 10xHoa hồng xanh lydo: Bán cho shop at 03/12/2023 8:31 PM
+BAG:things remove 7xHoa hồng đỏ lydo: Bán cho shop at 03/12/2023 8:31 PM
+BAG:things remove Găng Thần Xayda lydo: Mặc cho đệ tử at 03/12/2023 8:31 PM
+BAG:things remove Áo vải thô lydo: Mặc vào người at 03/12/2023 8:31 PM
+BAG:things remove 1xĐậu thần cấp 6 lydo: Ăn đậu at 03/12/2023 8:36 PM
+BAG:things remove 1xĐậu thần cấp 6 lydo: Ăn đậu at 03/12/2023 8:46 PM
+BAG:things remove 1xĐậu thần cấp 6 lydo: Ăn đậu at 03/12/2023 8:57 PM
+BAG:things remove 1xĐậu thần cấp 6 lydo: Ăn đậu at 03/12/2023 9:07 PM
+BAG:things remove 1xĐậu thần cấp 6 lydo: Ăn đậu at 03/12/2023 9:17 PM
+BAG:things remove 1xĐá Ruby lydo: Bán cho shop at 03/12/2023 9:17 PM
+BAG:things remove 1xNâng cấp kỹ năng 3 đệ tử lydo: Dùng sách kĩ năng đệ tử at 03/12/2023 9:17 PM
+BAG:things remove 1xNâng cấp kỹ năng 3 đệ tử lydo: Dùng sách kĩ năng đệ tử at 03/12/2023 9:17 PM
+BAG:things remove 1xNâng cấp kỹ năng 3 đệ tử lydo: Dùng sách kĩ năng đệ tử at 03/12/2023 9:17 PM
+BAG:things remove 1xNâng cấp kỹ năng 3 đệ tử lydo: Dùng sách kĩ năng đệ tử at 03/12/2023 9:18 PM
+BAG:things remove 1xNâng cấp kỹ năng 3 đệ tử lydo: Dùng sách kĩ năng đệ tử at 03/12/2023 9:18 PM
+BAG:things remove 1xNâng cấp kỹ năng 3 đệ tử lydo: Dùng sách kĩ năng đệ tử at 03/12/2023 9:18 PM
+BAG:things remove 1xNâng cấp kỹ năng 4 đệ tử lydo: Dùng sách kĩ năng đệ tử at 03/12/2023 9:18 PM
+BAG:things remove 1xNâng cấp kỹ năng 4 đệ tử lydo: Dùng sách kĩ năng đệ tử at 03/12/2023 9:18 PM
+BAG:things remove 1xNâng cấp kỹ năng 4 đệ tử lydo: Dùng sách kĩ năng đệ tử at 03/12/2023 9:18 PM
+BAG:things remove 1xNâng cấp kỹ năng 4 đệ tử lydo: Dùng sách kĩ năng đệ tử at 03/12/2023 9:18 PM
+BAG:things remove 1xNâng cấp kỹ năng 4 đệ tử lydo: Dùng sách kĩ năng đệ tử at 03/12/2023 9:18 PM
+BAG:things remove 1xNâng cấp kỹ năng 4 đệ tử lydo: Dùng sách kĩ năng đệ tử at 03/12/2023 9:18 PM
+BAG:things remove 1xĐậu thần cấp 6 lydo: Ăn đậu at 03/12/2023 9:50 PM
+BAG:things remove 1xĐậu thần cấp 6 lydo: Ăn đậu at 03/12/2023 10:01 PM
+BAG:things remove 1xĐậu thần cấp 6 lydo: Ăn đậu at 03/12/2023 10:13 PM
+BAG:things remove 1xĐậu thần cấp 6 lydo: Ăn đậu at 03/12/2023 10:23 PM
+BAG:things remove 1xĐậu thần cấp 6 lydo: Ăn đậu at 03/12/2023 10:33 PM
+BAG:things remove 1xĐậu thần cấp 6 lydo: Ăn đậu at 03/12/2023 10:44 PM
+BAG:things remove 1xĐậu thần cấp 6 lydo: Ăn đậu at 03/12/2023 10:54 PM
+BAG:things remove 1xĐậu thần cấp 6 lydo: Ăn đậu at 03/12/2023 11:04 PM
+BAG:things remove 1xĐậu thần cấp 6 lydo: Ăn đậu at 03/12/2023 11:14 PM
+BAG:things remove 1xĐậu thần cấp 6 lydo: Ăn đậu at 03/12/2023 11:24 PM
+BAG:things remove 1xĐậu thần cấp 6 lydo: Ăn đậu at 03/12/2023 11:35 PM
+BAG:things remove 1xĐậu thần cấp 6 lydo: Ăn đậu at 03/12/2023 11:45 PM
+BAG:things remove Hoa hồng vàng lydo: Tự Xóa vật phẩm at 03/12/2023 11:50 PM
+BAG:things remove 1xĐậu thần cấp 6 lydo: Ăn đậu at 03/12/2023 11:55 PM

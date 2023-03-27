@@ -1,0 +1,41 @@
+BAG:caopolo add 265xHoa hồng đỏ (old: 264) lydo: Nhặt từ map at 03/11/2023 12:47 PM
+BAG:caopolo add 328xHoa hồng vàng (old: 327) lydo: Nhặt từ map at 03/11/2023 12:47 PM
+BAG:caopolo add 48xĐá Saphia (old: 47) lydo: Nhặt từ map at 03/11/2023 12:47 PM
+BAG:caopolo add 249xHoa hồng xanh (old: 248) lydo: Nhặt từ map at 03/11/2023 2:13 PM
+BAG:caopolo add 1xÁo sợi len lydo: Lấy từ body đệ vào hành trang at 03/11/2023 2:14 PM
+BAG:caopolo add 1xQuần sợi len lydo: Lấy từ body đệ vào hành trang at 03/11/2023 2:14 PM
+BAG:caopolo add 1xGăng bạc Zealot lydo: Lấy từ body đệ vào hành trang at 03/11/2023 2:14 PM
+BAG:caopolo add 1xGiầy sợi len lydo: Lấy từ body đệ vào hành trang at 03/11/2023 2:14 PM
+BAG:caopolo add 1xRada cấp 1 lydo: Lấy từ body đệ vào hành trang at 03/11/2023 2:14 PM
+BAG:caopolo add 1xCải trang Chill cấp 2 lydo: Lấy từ body đệ vào hành trang at 03/11/2023 2:14 PM
+BAG:caopolo add 2xĐổi đệ tử (old: 1) lydo: Mua từ cửa hàng at 03/11/2023 2:16 PM
+BAG:caopolo add 3xĐổi đệ tử (old: 2) lydo: Mua từ cửa hàng at 03/11/2023 2:16 PM
+BAG:caopolo add 4xĐổi đệ tử (old: 3) lydo: Mua từ cửa hàng at 03/11/2023 2:16 PM
+BAG:caopolo add 5xĐổi đệ tử (old: 4) lydo: Mua từ cửa hàng at 03/11/2023 2:16 PM
+BAG:caopolo add 6xĐổi đệ tử (old: 5) lydo: Mua từ cửa hàng at 03/11/2023 2:16 PM
+BAG:caopolo add 7xĐổi đệ tử (old: 6) lydo: Mua từ cửa hàng at 03/11/2023 2:16 PM
+BAG:caopolo add 1xĐổi đệ tử lydo: Mua từ cửa hàng at 03/11/2023 2:17 PM
+BAG:caopolo add 1xĐổi đệ tử lydo: Mua từ cửa hàng at 03/11/2023 2:27 PM
+BAG:caopolo add 2xĐổi đệ tử (old: 1) lydo: Mua từ cửa hàng at 03/11/2023 2:27 PM
+BAG:caopolo add 3xĐổi đệ tử (old: 2) lydo: Mua từ cửa hàng at 03/11/2023 2:27 PM
+BAG:caopolo add 4xĐổi đệ tử (old: 3) lydo: Mua từ cửa hàng at 03/11/2023 2:27 PM
+BAG:caopolo add 5xĐổi đệ tử (old: 4) lydo: Mua từ cửa hàng at 03/11/2023 2:27 PM
+BAG:caopolo add 6xĐổi đệ tử (old: 5) lydo: Mua từ cửa hàng at 03/11/2023 2:27 PM
+BAG:caopolo add 7xĐổi đệ tử (old: 6) lydo: Mua từ cửa hàng at 03/11/2023 2:27 PM
+BAG:caopolo add 8xĐổi đệ tử (old: 7) lydo: Mua từ cửa hàng at 03/11/2023 2:27 PM
+BAG:caopolo add 9xĐổi đệ tử (old: 8) lydo: Mua từ cửa hàng at 03/11/2023 2:27 PM
+BAG:caopolo add 10xĐổi đệ tử (old: 9) lydo: Mua từ cửa hàng at 03/11/2023 2:27 PM
+BAG:caopolo add 11xĐổi đệ tử (old: 10) lydo: Mua từ cửa hàng at 03/11/2023 2:27 PM
+BAG:caopolo add 12xĐổi đệ tử (old: 11) lydo: Mua từ cửa hàng at 03/11/2023 2:27 PM
+BAG:caopolo add 13xĐổi đệ tử (old: 12) lydo: Mua từ cửa hàng at 03/11/2023 2:27 PM
+BAG:caopolo add 14xĐổi đệ tử (old: 13) lydo: Mua từ cửa hàng at 03/11/2023 2:27 PM
+BAG:caopolo add 15xĐổi đệ tử (old: 14) lydo: Mua từ cửa hàng at 03/11/2023 2:27 PM
+BAG:caopolo add 16xĐổi đệ tử (old: 15) lydo: Mua từ cửa hàng at 03/11/2023 2:27 PM
+BAG:caopolo add 17xĐổi đệ tử (old: 16) lydo: Mua từ cửa hàng at 03/11/2023 2:27 PM
+BAG:caopolo add 18xĐổi đệ tử (old: 17) lydo: Mua từ cửa hàng at 03/11/2023 2:27 PM
+BAG:caopolo add 1xNâng cấp kỹ năng 1 đệ tử lydo: Mua từ cửa hàng at 03/11/2023 2:28 PM
+BAG:caopolo add 2xNâng cấp kỹ năng 1 đệ tử (old: 1) lydo: Mua từ cửa hàng at 03/11/2023 2:28 PM
+BAG:caopolo add 3xNâng cấp kỹ năng 1 đệ tử (old: 2) lydo: Mua từ cửa hàng at 03/11/2023 2:28 PM
+BAG:caopolo add 4xNâng cấp kỹ năng 1 đệ tử (old: 3) lydo: Mua từ cửa hàng at 03/11/2023 2:28 PM
+BAG:caopolo add 5xNâng cấp kỹ năng 1 đệ tử (old: 4) lydo: Mua từ cửa hàng at 03/11/2023 2:28 PM
+BAG:caopolo add 6xNâng cấp kỹ năng 1 đệ tử (old: 5) lydo: Mua từ cửa hàng at 03/11/2023 2:28 PM

@@ -1,0 +1,32 @@
+BAG:lisavn add 1xÁo vải 3 lỗ lydo: Lấy từ body vào hành trang at 03/11/2023 7:48 AM
+BAG:lisavn add 39xHoa hồng vàng (old: 38) lydo: Nhặt từ map at 03/11/2023 7:52 AM
+BAG:lisavn add 35xHoa hồng đỏ (old: 34) lydo: Nhặt từ map at 03/11/2023 7:52 AM
+BAG:lisavn add 40xHoa hồng vàng (old: 39) lydo: Nhặt từ map at 03/11/2023 7:52 AM
+BAG:lisavn add 41xHoa hồng vàng (old: 40) lydo: Nhặt từ map at 03/11/2023 7:52 AM
+BAG:lisavn add 27xHoa hồng xanh (old: 26) lydo: Nhặt từ map at 03/11/2023 7:52 AM
+BAG:lisavn add 4xĐá Saphia (old: 3) lydo: Nhặt từ map at 03/11/2023 7:52 AM
+BAG:lisavn add 42xHoa hồng vàng (old: 41) lydo: Nhặt từ map at 03/11/2023 7:52 AM
+BAG:lisavn add 43xHoa hồng vàng (old: 42) lydo: Nhặt từ map at 03/11/2023 7:52 AM
+BAG:lisavn add 36xHoa hồng đỏ (old: 35) lydo: Nhặt từ map at 03/11/2023 7:52 AM
+BAG:lisavn add 28xHoa hồng xanh (old: 27) lydo: Nhặt từ map at 03/11/2023 7:52 AM
+BAG:lisavn add 29xHoa hồng xanh (old: 28) lydo: Nhặt từ map at 03/11/2023 7:52 AM
+BAG:lisavn add 30xHoa hồng xanh (old: 29) lydo: Nhặt từ map at 03/11/2023 7:53 AM
+BAG:lisavn add 44xHoa hồng vàng (old: 43) lydo: Nhặt từ map at 03/11/2023 7:53 AM
+BAG:lisavn add 5xĐá Saphia (old: 4) lydo: Nhặt từ map at 03/11/2023 7:53 AM
+BAG:lisavn add 31xHoa hồng xanh (old: 30) lydo: Nhặt từ map at 03/11/2023 7:53 AM
+BAG:lisavn add 6xĐá Saphia (old: 5) lydo: Nhặt từ map at 03/11/2023 7:53 AM
+BAG:lisavn add 45xHoa hồng vàng (old: 44) lydo: Nhặt từ map at 03/11/2023 7:53 AM
+BAG:lisavn add 46xHoa hồng vàng (old: 45) lydo: Nhặt từ map at 03/11/2023 7:53 AM
+BAG:lisavn add 8xĐá Ruby (old: 7) lydo: Nhặt từ map at 03/11/2023 7:53 AM
+BAG:lisavn add 37xHoa hồng đỏ (old: 36) lydo: Nhặt từ map at 03/11/2023 7:53 AM
+BAG:lisavn add 32xHoa hồng xanh (old: 31) lydo: Nhặt từ map at 03/11/2023 7:53 AM
+BAG:lisavn add 47xHoa hồng vàng (old: 46) lydo: Nhặt từ map at 03/11/2023 7:53 AM
+BAG:lisavn add 33xHoa hồng xanh (old: 32) lydo: Nhặt từ map at 03/11/2023 7:54 AM
+BAG:lisavn add 34xHoa hồng xanh (old: 33) lydo: Nhặt từ map at 03/11/2023 7:54 AM
+BAG:lisavn add 38xHoa hồng đỏ (old: 37) lydo: Nhặt từ map at 03/11/2023 7:54 AM
+BAG:lisavn add 48xHoa hồng vàng (old: 47) lydo: Nhặt từ map at 03/11/2023 7:54 AM
+BAG:lisavn add 35xHoa hồng xanh (old: 34) lydo: Nhặt từ map at 03/11/2023 7:58 AM
+BAG:lisavn add 36xHoa hồng xanh (old: 35) lydo: Nhặt từ map at 03/11/2023 7:58 AM
+BAG:lisavn add 1xĐá xanh lam lydo: Mua từ cửa hàng at 03/11/2023 8:11 AM
+BAG:lisavn add 2xĐá xanh lam (old: 1) lydo: Mua từ cửa hàng at 03/11/2023 8:11 AM
+BAG:lisavn add 3xĐá xanh lam (old: 2) lydo: Mua từ cửa hàng at 03/11/2023 8:11 AM

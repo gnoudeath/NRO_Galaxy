@@ -1,0 +1,527 @@
+BAG:phuccuti add 150xThỏi vàng lydo: Giftcode at 03/11/2023 9:08 AM
+BAG:phuccuti add 99xNgọc Rồng 3 sao lydo: Giftcode at 03/11/2023 9:08 AM
+BAG:phuccuti add 10xĐậu thần cấp 10 lydo: Thu hoạch đậu at 03/11/2023 9:09 AM
+BAG:phuccuti add 30xĐậu thần cấp 10 (old: 10) lydo: Lấy từ rương qua người at 03/11/2023 9:09 AM
+BAG:phuccuti add 1xNezuko lydo: Mua từ bill at 03/11/2023 9:11 AM
+BAG:phuccuti add 1xHoa hồng xanh lydo: Nhặt từ map at 03/11/2023 9:14 AM
+BAG:phuccuti add 1xQuần vải đen lydo: Nhặt từ map at 03/11/2023 9:14 AM
+BAG:phuccuti add 2xHoa hồng xanh (old: 1) lydo: Nhặt từ map at 03/11/2023 9:15 AM
+BAG:phuccuti add 1xĐá Titan lydo: Nhặt từ map at 03/11/2023 9:16 AM
+BAG:phuccuti add 3xHoa hồng xanh (old: 2) lydo: Nhặt từ map at 03/11/2023 9:17 AM
+BAG:phuccuti add 1xQuần vải đen lydo: Nhặt từ map at 03/11/2023 9:17 AM
+BAG:phuccuti add 1xĐá thạch anh tím lydo: Nhặt từ map at 03/11/2023 9:17 AM
+BAG:phuccuti add 1xÁo vải 3 lỗ lydo: Nhặt từ map at 03/11/2023 9:17 AM
+BAG:phuccuti add 1xÁo vải 3 lỗ lydo: Nhặt từ map at 03/11/2023 9:18 AM
+BAG:phuccuti add 1xQuần vải đen lydo: Nhặt từ map at 03/11/2023 9:18 AM
+BAG:phuccuti add 1xÁo vải 3 lỗ lydo: Nhặt từ map at 03/11/2023 9:18 AM
+BAG:phuccuti add 1xHoa hồng vàng lydo: Nhặt từ map at 03/11/2023 9:18 AM
+BAG:phuccuti add 2xHoa hồng vàng (old: 1) lydo: Nhặt từ map at 03/11/2023 9:18 AM
+BAG:phuccuti add 1xQuần vải đen lydo: Nhặt từ map at 03/11/2023 9:18 AM
+BAG:phuccuti add 1xHoa hồng đỏ lydo: Nhặt từ map at 03/11/2023 9:18 AM
+BAG:phuccuti add 1xĐá Ruby lydo: Nhặt từ map at 03/11/2023 9:18 AM
+BAG:phuccuti add 1xGiầy nhựa lydo: Lấy từ body vào hành trang at 03/11/2023 9:18 AM
+BAG:phuccuti add 2xHoa hồng đỏ (old: 1) lydo: Nhặt từ map at 03/11/2023 9:18 AM
+BAG:phuccuti add 2xĐá thạch anh tím (old: 1) lydo: Nhặt từ map at 03/11/2023 9:18 AM
+BAG:phuccuti add 3xHoa hồng vàng (old: 2) lydo: Nhặt từ map at 03/11/2023 9:18 AM
+BAG:phuccuti add 4xHoa hồng vàng (old: 3) lydo: Nhặt từ map at 03/11/2023 9:18 AM
+BAG:phuccuti add 3xHoa hồng đỏ (old: 2) lydo: Nhặt từ map at 03/11/2023 9:19 AM
+BAG:phuccuti add 1xQuần vải đen lydo: Nhặt từ map at 03/11/2023 9:19 AM
+BAG:phuccuti add 1xGiầy nhựa lydo: Lấy từ body vào hành trang at 03/11/2023 9:19 AM
+BAG:phuccuti add 1xĐá lục bảo lydo: Nhặt từ map at 03/11/2023 9:19 AM
+BAG:phuccuti add 1xMảnh Khủng long lydo: Nhặt từ map at 03/11/2023 9:19 AM
+BAG:phuccuti add 3xĐá thạch anh tím (old: 2) lydo: Nhặt từ map at 03/11/2023 9:19 AM
+BAG:phuccuti add 4xHoa hồng đỏ (old: 3) lydo: Nhặt từ map at 03/11/2023 9:19 AM
+BAG:phuccuti add 1xRada cấp 1 lydo: Nhặt từ map at 03/11/2023 9:19 AM
+BAG:phuccuti add 4xHoa hồng xanh (old: 3) lydo: Nhặt từ map at 03/11/2023 9:19 AM
+BAG:phuccuti add 5xHoa hồng vàng (old: 4) lydo: Nhặt từ map at 03/11/2023 9:19 AM
+BAG:phuccuti add 5xHoa hồng đỏ (old: 4) lydo: Nhặt từ map at 03/11/2023 9:20 AM
+BAG:phuccuti add 6xHoa hồng vàng (old: 5) lydo: Nhặt từ map at 03/11/2023 9:20 AM
+BAG:phuccuti add 6xHoa hồng đỏ (old: 5) lydo: Nhặt từ map at 03/11/2023 9:20 AM
+BAG:phuccuti add 1xĐá Ruby lydo: Nhặt từ map at 03/11/2023 9:20 AM
+BAG:phuccuti add 4xĐá thạch anh tím (old: 3) lydo: Nhặt từ map at 03/11/2023 9:20 AM
+BAG:phuccuti add 5xĐá thạch anh tím (old: 4) lydo: Nhặt từ map at 03/11/2023 9:20 AM
+BAG:phuccuti add 7xHoa hồng vàng (old: 6) lydo: Nhặt từ map at 03/11/2023 9:20 AM
+BAG:phuccuti add 7xHoa hồng đỏ (old: 6) lydo: Nhặt từ map at 03/11/2023 9:20 AM
+BAG:phuccuti add 1xGăng vải đen lydo: Nhặt từ map at 03/11/2023 9:20 AM
+BAG:phuccuti add 1xRada cấp 1 lydo: Nhặt từ map at 03/11/2023 9:20 AM
+BAG:phuccuti add 8xHoa hồng vàng (old: 7) lydo: Nhặt từ map at 03/11/2023 9:21 AM
+BAG:phuccuti add 1xQuần vải đen lydo: Nhặt từ map at 03/11/2023 9:21 AM
+BAG:phuccuti add 1xGăng vải đen lydo: Nhặt từ map at 03/11/2023 9:21 AM
+BAG:phuccuti add 5xHoa hồng xanh (old: 4) lydo: Nhặt từ map at 03/11/2023 9:21 AM
+BAG:phuccuti add 9xHoa hồng vàng (old: 8) lydo: Nhặt từ map at 03/11/2023 9:21 AM
+BAG:phuccuti add 8xHoa hồng đỏ (old: 7) lydo: Nhặt từ map at 03/11/2023 9:21 AM
+BAG:phuccuti add 10xHoa hồng vàng (old: 9) lydo: Nhặt từ map at 03/11/2023 9:21 AM
+BAG:phuccuti add 9xHoa hồng đỏ (old: 8) lydo: Nhặt từ map at 03/11/2023 9:21 AM
+BAG:phuccuti add 1xÁo vải 3 lỗ lydo: Nhặt từ map at 03/11/2023 9:21 AM
+BAG:phuccuti add 1xGăng vải đen lydo: Nhặt từ map at 03/11/2023 9:21 AM
+BAG:phuccuti add 11xHoa hồng vàng (old: 10) lydo: Nhặt từ map at 03/11/2023 9:21 AM
+BAG:phuccuti add 1xĐá Ruby lydo: Nhặt từ map at 03/11/2023 9:22 AM
+BAG:phuccuti add 1xĐá Saphia lydo: Nhặt từ map at 03/11/2023 9:22 AM
+BAG:phuccuti add 1xRada cấp 1 lydo: Nhặt từ map at 03/11/2023 9:22 AM
+BAG:phuccuti add 1xViên Capsule đặc biệt lydo: Mua từ cửa hàng at 03/11/2023 9:23 AM
+BAG:phuccuti add 47xĐậu thần cấp 10 (old: 30) lydo: Lấy từ rương qua người at 03/11/2023 9:25 AM
+BAG:phuccuti add 67xĐậu thần cấp 10 (old: 47) lydo: Lấy từ rương qua người at 03/11/2023 9:25 AM
+BAG:phuccuti add 1xSách đấm Dragon lv2 lydo: Mua từ cửa hàng at 03/11/2023 9:28 AM
+BAG:phuccuti add 1xSách đấm Dragon lv3 lydo: Mua từ cửa hàng at 03/11/2023 9:28 AM
+BAG:phuccuti add 1xSách đấm Dragon lv4 lydo: Mua từ cửa hàng at 03/11/2023 9:28 AM
+BAG:phuccuti add 1xSách đấm Dragon lv5 lydo: Mua từ cửa hàng at 03/11/2023 9:28 AM
+BAG:phuccuti add 1xSách đấm Dragon lv6 lydo: Mua từ cửa hàng at 03/11/2023 9:28 AM
+BAG:phuccuti add 1xSách đấm Dragon lv7 lydo: Mua từ cửa hàng at 03/11/2023 9:28 AM
+BAG:phuccuti add 1xSách Kamejoko lv1 lydo: Mua từ cửa hàng at 03/11/2023 9:28 AM
+BAG:phuccuti add 1xSách Kamejoko lv2 lydo: Mua từ cửa hàng at 03/11/2023 9:28 AM
+BAG:phuccuti add 1xSách Kamejoko lv3 lydo: Mua từ cửa hàng at 03/11/2023 9:28 AM
+BAG:phuccuti add 1xSách Kamejoko lv4 lydo: Mua từ cửa hàng at 03/11/2023 9:28 AM
+BAG:phuccuti add 1xSách Kamejoko lv5 lydo: Mua từ cửa hàng at 03/11/2023 9:28 AM
+BAG:phuccuti add 1xSách Kamejoko lv6 lydo: Mua từ cửa hàng at 03/11/2023 9:28 AM
+BAG:phuccuti add 1xSách Kamejoko lv7 lydo: Mua từ cửa hàng at 03/11/2023 9:28 AM
+BAG:phuccuti add 1xÁo vải 3 lỗ lydo: Lấy từ body vào hành trang at 03/11/2023 9:31 AM
+BAG:phuccuti add 1xQuần vải đen lydo: Lấy từ body vào hành trang at 03/11/2023 9:31 AM
+BAG:phuccuti add 1xGăng vải đen lydo: Lấy từ body vào hành trang at 03/11/2023 9:36 AM
+BAG:phuccuti add 1xGiầy nhựa lydo: Lấy từ body vào hành trang at 03/11/2023 9:37 AM
+BAG:phuccuti add 1xRada cấp 1 lydo: Lấy từ body vào hành trang at 03/11/2023 9:38 AM
+BAG:phuccuti add 1xÁo vải 3 lỗ lydo: Lấy từ body vào hành trang at 03/11/2023 9:48 AM
+BAG:phuccuti add 1xQuần vải đen lydo: Lấy từ body vào hành trang at 03/11/2023 9:54 AM
+BAG:phuccuti add 1xGăng vải đen lydo: Lấy từ body vào hành trang at 03/11/2023 9:55 AM
+BAG:phuccuti add 1xGiầy nhựa lydo: Lấy từ body vào hành trang at 03/11/2023 9:57 AM
+BAG:phuccuti add 1xRada cấp 1 lydo: Lấy từ body vào hành trang at 03/11/2023 9:57 AM
+BAG:phuccuti add 12xHoa hồng vàng (old: 11) lydo: Nhặt từ map at 03/11/2023 10:09 AM
+BAG:phuccuti add 6xHoa hồng xanh (old: 5) lydo: Nhặt từ map at 03/11/2023 10:09 AM
+BAG:phuccuti add 13xHoa hồng vàng (old: 12) lydo: Nhặt từ map at 03/11/2023 10:09 AM
+BAG:phuccuti add 14xHoa hồng vàng (old: 13) lydo: Nhặt từ map at 03/11/2023 10:09 AM
+BAG:phuccuti add 1xĐá Titan lydo: Nhặt từ map at 03/11/2023 10:09 AM
+BAG:phuccuti add 7xHoa hồng xanh (old: 6) lydo: Nhặt từ map at 03/11/2023 10:10 AM
+BAG:phuccuti add 1xĐá lục bảo lydo: Nhặt từ map at 03/11/2023 10:10 AM
+BAG:phuccuti add 8xHoa hồng xanh (old: 7) lydo: Nhặt từ map at 03/11/2023 10:10 AM
+BAG:phuccuti add 9xHoa hồng xanh (old: 8) lydo: Nhặt từ map at 03/11/2023 10:10 AM
+BAG:phuccuti add 10xHoa hồng đỏ (old: 9) lydo: Nhặt từ map at 03/11/2023 10:10 AM
+BAG:phuccuti add 15xHoa hồng vàng (old: 14) lydo: Nhặt từ map at 03/11/2023 10:10 AM
+BAG:phuccuti add 16xHoa hồng vàng (old: 15) lydo: Nhặt từ map at 03/11/2023 10:11 AM
+BAG:phuccuti add 17xHoa hồng vàng (old: 16) lydo: Nhặt từ map at 03/11/2023 10:11 AM
+BAG:phuccuti add 10xHoa hồng xanh (old: 9) lydo: Nhặt từ map at 03/11/2023 10:11 AM
+BAG:phuccuti add 11xHoa hồng xanh (old: 10) lydo: Nhặt từ map at 03/11/2023 10:11 AM
+BAG:phuccuti add 18xHoa hồng vàng (old: 17) lydo: Nhặt từ map at 03/11/2023 10:11 AM
+BAG:phuccuti add 19xHoa hồng vàng (old: 18) lydo: Nhặt từ map at 03/11/2023 10:11 AM
+BAG:phuccuti add 12xHoa hồng xanh (old: 11) lydo: Nhặt từ map at 03/11/2023 10:11 AM
+BAG:phuccuti add 1xĐậu thần cấp 1 lydo: Clan cho đậu at 03/11/2023 10:11 AM
+BAG:phuccuti add 2xĐậu thần cấp 1 (old: 1) lydo: Clan cho đậu at 03/11/2023 10:11 AM
+BAG:phuccuti add 3xĐậu thần cấp 1 (old: 2) lydo: Clan cho đậu at 03/11/2023 10:11 AM
+BAG:phuccuti add 4xĐậu thần cấp 1 (old: 3) lydo: Clan cho đậu at 03/11/2023 10:11 AM
+BAG:phuccuti add 13xHoa hồng xanh (old: 12) lydo: Nhặt từ map at 03/11/2023 10:11 AM
+BAG:phuccuti add 5xĐậu thần cấp 1 (old: 4) lydo: Clan cho đậu at 03/11/2023 10:11 AM
+BAG:phuccuti add 20xHoa hồng vàng (old: 19) lydo: Nhặt từ map at 03/11/2023 10:11 AM
+BAG:phuccuti add 2xĐá Titan (old: 1) lydo: Nhặt từ map at 03/11/2023 10:11 AM
+BAG:phuccuti add 14xHoa hồng xanh (old: 13) lydo: Nhặt từ map at 03/11/2023 10:12 AM
+BAG:phuccuti add 15xHoa hồng xanh (old: 14) lydo: Nhặt từ map at 03/11/2023 10:16 AM
+BAG:phuccuti add 21xHoa hồng vàng (old: 20) lydo: Nhặt từ map at 03/11/2023 10:16 AM
+BAG:phuccuti add 1xĐá Saphia lydo: Nhặt từ map at 03/11/2023 10:16 AM
+BAG:phuccuti add 11xHoa hồng đỏ (old: 10) lydo: Nhặt từ map at 03/11/2023 10:16 AM
+BAG:phuccuti add 12xHoa hồng đỏ (old: 11) lydo: Nhặt từ map at 03/11/2023 10:17 AM
+BAG:phuccuti add 16xHoa hồng xanh (old: 15) lydo: Nhặt từ map at 03/11/2023 10:17 AM
+BAG:phuccuti add 17xHoa hồng xanh (old: 16) lydo: Nhặt từ map at 03/11/2023 10:17 AM
+BAG:phuccuti add 13xHoa hồng đỏ (old: 12) lydo: Nhặt từ map at 03/11/2023 10:17 AM
+BAG:phuccuti add 14xHoa hồng đỏ (old: 13) lydo: Nhặt từ map at 03/11/2023 10:17 AM
+BAG:phuccuti add 22xHoa hồng vàng (old: 21) lydo: Nhặt từ map at 03/11/2023 10:17 AM
+BAG:phuccuti add 23xHoa hồng vàng (old: 22) lydo: Nhặt từ map at 03/11/2023 10:17 AM
+BAG:phuccuti add 18xHoa hồng xanh (old: 17) lydo: Nhặt từ map at 03/11/2023 10:17 AM
+BAG:phuccuti add 15xHoa hồng đỏ (old: 14) lydo: Nhặt từ map at 03/11/2023 10:17 AM
+BAG:phuccuti add 24xHoa hồng vàng (old: 23) lydo: Nhặt từ map at 03/11/2023 10:17 AM
+BAG:phuccuti add 19xHoa hồng xanh (old: 18) lydo: Nhặt từ map at 03/11/2023 10:19 AM
+BAG:phuccuti add 25xHoa hồng vàng (old: 24) lydo: Nhặt từ map at 03/11/2023 10:20 AM
+BAG:phuccuti add 26xHoa hồng vàng (old: 25) lydo: Nhặt từ map at 03/11/2023 10:20 AM
+BAG:phuccuti add 27xHoa hồng vàng (old: 26) lydo: Nhặt từ map at 03/11/2023 10:20 AM
+BAG:phuccuti add 28xHoa hồng vàng (old: 27) lydo: Nhặt từ map at 03/11/2023 10:20 AM
+BAG:phuccuti add 29xHoa hồng vàng (old: 28) lydo: Nhặt từ map at 03/11/2023 10:20 AM
+BAG:phuccuti add 3xĐá Titan (old: 2) lydo: Nhặt từ map at 03/11/2023 10:20 AM
+BAG:phuccuti add 16xHoa hồng đỏ (old: 15) lydo: Nhặt từ map at 03/11/2023 10:20 AM
+BAG:phuccuti add 20xHoa hồng xanh (old: 19) lydo: Nhặt từ map at 03/11/2023 10:20 AM
+BAG:phuccuti add 2xĐá Saphia (old: 1) lydo: Nhặt từ map at 03/11/2023 10:20 AM
+BAG:phuccuti add 21xHoa hồng xanh (old: 20) lydo: Nhặt từ map at 03/11/2023 10:20 AM
+BAG:phuccuti add 17xHoa hồng đỏ (old: 16) lydo: Nhặt từ map at 03/11/2023 10:20 AM
+BAG:phuccuti add 18xHoa hồng đỏ (old: 17) lydo: Nhặt từ map at 03/11/2023 10:20 AM
+BAG:phuccuti add 19xHoa hồng đỏ (old: 18) lydo: Nhặt từ map at 03/11/2023 10:20 AM
+BAG:phuccuti add 30xHoa hồng vàng (old: 29) lydo: Nhặt từ map at 03/11/2023 10:20 AM
+BAG:phuccuti add 20xHoa hồng đỏ (old: 19) lydo: Nhặt từ map at 03/11/2023 10:20 AM
+BAG:phuccuti add 1xĐá Ruby lydo: Nhặt từ map at 03/11/2023 10:20 AM
+BAG:phuccuti add 31xHoa hồng vàng (old: 30) lydo: Nhặt từ map at 03/11/2023 10:24 AM
+BAG:phuccuti add 32xHoa hồng vàng (old: 31) lydo: Nhặt từ map at 03/11/2023 10:25 AM
+BAG:phuccuti add 21xHoa hồng đỏ (old: 20) lydo: Nhặt từ map at 03/11/2023 10:25 AM
+BAG:phuccuti add 1xBông tai Porata lydo: Mua từ cửa hàng at 03/11/2023 10:27 AM
+BAG:phuccuti add 22xHoa hồng đỏ (old: 21) lydo: Nhặt từ map at 03/11/2023 10:27 AM
+BAG:phuccuti add 22xHoa hồng xanh (old: 21) lydo: Nhặt từ map at 03/11/2023 10:28 AM
+BAG:phuccuti add 33xHoa hồng vàng (old: 32) lydo: Nhặt từ map at 03/11/2023 10:28 AM
+BAG:phuccuti add 34xHoa hồng vàng (old: 33) lydo: Nhặt từ map at 03/11/2023 10:28 AM
+BAG:phuccuti add 35xHoa hồng vàng (old: 34) lydo: Nhặt từ map at 03/11/2023 10:29 AM
+BAG:phuccuti add 36xHoa hồng vàng (old: 35) lydo: Nhặt từ map at 03/11/2023 10:29 AM
+BAG:phuccuti add 2xĐá Ruby (old: 1) lydo: Nhặt từ map at 03/11/2023 10:29 AM
+BAG:phuccuti add 23xHoa hồng xanh (old: 22) lydo: Nhặt từ map at 03/11/2023 10:30 AM
+BAG:phuccuti add 6xĐá thạch anh tím (old: 5) lydo: Nhặt từ map at 03/11/2023 10:30 AM
+BAG:phuccuti add 37xHoa hồng vàng (old: 36) lydo: Nhặt từ map at 03/11/2023 10:30 AM
+BAG:phuccuti add 38xHoa hồng vàng (old: 37) lydo: Nhặt từ map at 03/11/2023 10:31 AM
+BAG:phuccuti add 39xHoa hồng vàng (old: 38) lydo: Nhặt từ map at 03/11/2023 10:32 AM
+BAG:phuccuti add 40xHoa hồng vàng (old: 39) lydo: Nhặt từ map at 03/11/2023 10:32 AM
+BAG:phuccuti add 23xHoa hồng đỏ (old: 22) lydo: Nhặt từ map at 03/11/2023 10:32 AM
+BAG:phuccuti add 41xHoa hồng vàng (old: 40) lydo: Nhặt từ map at 03/11/2023 10:32 AM
+BAG:phuccuti add 24xHoa hồng xanh (old: 23) lydo: Nhặt từ map at 03/11/2023 10:32 AM
+BAG:phuccuti add 24xHoa hồng đỏ (old: 23) lydo: Nhặt từ map at 03/11/2023 10:32 AM
+BAG:phuccuti add 42xHoa hồng vàng (old: 41) lydo: Nhặt từ map at 03/11/2023 10:32 AM
+BAG:phuccuti add 43xHoa hồng vàng (old: 42) lydo: Nhặt từ map at 03/11/2023 10:32 AM
+BAG:phuccuti add 25xHoa hồng xanh (old: 24) lydo: Nhặt từ map at 03/11/2023 10:33 AM
+BAG:phuccuti add 25xHoa hồng đỏ (old: 24) lydo: Nhặt từ map at 03/11/2023 10:33 AM
+BAG:phuccuti add 26xHoa hồng đỏ (old: 25) lydo: Nhặt từ map at 03/11/2023 10:33 AM
+BAG:phuccuti add 26xHoa hồng xanh (old: 25) lydo: Nhặt từ map at 03/11/2023 10:33 AM
+BAG:phuccuti add 27xHoa hồng đỏ (old: 26) lydo: Nhặt từ map at 03/11/2023 10:33 AM
+BAG:phuccuti add 1xĐá lục bảo lydo: Nhặt từ map at 03/11/2023 10:37 AM
+BAG:phuccuti add 44xHoa hồng vàng (old: 43) lydo: Nhặt từ map at 03/11/2023 10:37 AM
+BAG:phuccuti add 28xHoa hồng đỏ (old: 27) lydo: Nhặt từ map at 03/11/2023 10:37 AM
+BAG:phuccuti add 45xHoa hồng vàng (old: 44) lydo: Nhặt từ map at 03/11/2023 10:38 AM
+BAG:phuccuti add 29xHoa hồng đỏ (old: 28) lydo: Nhặt từ map at 03/11/2023 10:38 AM
+BAG:phuccuti add 46xHoa hồng vàng (old: 45) lydo: Nhặt từ map at 03/11/2023 10:38 AM
+BAG:phuccuti add 7xĐá thạch anh tím (old: 6) lydo: Nhặt từ map at 03/11/2023 10:38 AM
+BAG:phuccuti add 30xHoa hồng đỏ (old: 29) lydo: Nhặt từ map at 03/11/2023 10:38 AM
+BAG:phuccuti add 1xNgọc Rồng 5 sao lydo: Nhặt từ map at 03/11/2023 10:38 AM
+BAG:phuccuti add 27xHoa hồng xanh (old: 26) lydo: Nhặt từ map at 03/11/2023 10:38 AM
+BAG:phuccuti add 47xHoa hồng vàng (old: 46) lydo: Nhặt từ map at 03/11/2023 10:38 AM
+BAG:phuccuti add 8xĐá thạch anh tím (old: 7) lydo: Nhặt từ map at 03/11/2023 10:38 AM
+BAG:phuccuti add 28xHoa hồng xanh (old: 27) lydo: Nhặt từ map at 03/11/2023 10:38 AM
+BAG:phuccuti add 48xHoa hồng vàng (old: 47) lydo: Nhặt từ map at 03/11/2023 10:38 AM
+BAG:phuccuti add 29xHoa hồng xanh (old: 28) lydo: Nhặt từ map at 03/11/2023 10:39 AM
+BAG:phuccuti add 2xĐá lục bảo (old: 1) lydo: Nhặt từ map at 03/11/2023 10:39 AM
+BAG:phuccuti add 31xHoa hồng đỏ (old: 30) lydo: Nhặt từ map at 03/11/2023 10:39 AM
+BAG:phuccuti add 30xHoa hồng xanh (old: 29) lydo: Nhặt từ map at 03/11/2023 10:39 AM
+BAG:phuccuti add 31xHoa hồng xanh (old: 30) lydo: Nhặt từ map at 03/11/2023 10:39 AM
+BAG:phuccuti add 49xHoa hồng vàng (old: 48) lydo: Nhặt từ map at 03/11/2023 10:39 AM
+BAG:phuccuti add 32xHoa hồng xanh (old: 31) lydo: Nhặt từ map at 03/11/2023 10:39 AM
+BAG:phuccuti add 33xHoa hồng xanh (old: 32) lydo: Nhặt từ map at 03/11/2023 10:41 AM
+BAG:phuccuti add 32xHoa hồng đỏ (old: 31) lydo: Nhặt từ map at 03/11/2023 10:41 AM
+BAG:phuccuti add 50xHoa hồng vàng (old: 49) lydo: Nhặt từ map at 03/11/2023 10:41 AM
+BAG:phuccuti add 34xHoa hồng xanh (old: 33) lydo: Nhặt từ map at 03/11/2023 10:41 AM
+BAG:phuccuti add 35xHoa hồng xanh (old: 34) lydo: Nhặt từ map at 03/11/2023 10:42 AM
+BAG:phuccuti add 33xHoa hồng đỏ (old: 32) lydo: Nhặt từ map at 03/11/2023 10:42 AM
+BAG:phuccuti add 34xHoa hồng đỏ (old: 33) lydo: Nhặt từ map at 03/11/2023 10:42 AM
+BAG:phuccuti add 51xHoa hồng vàng (old: 50) lydo: Nhặt từ map at 03/11/2023 10:42 AM
+BAG:phuccuti add 52xHoa hồng vàng (old: 51) lydo: Nhặt từ map at 03/11/2023 10:42 AM
+BAG:phuccuti add 35xHoa hồng đỏ (old: 34) lydo: Nhặt từ map at 03/11/2023 10:42 AM
+BAG:phuccuti add 3xĐá Ruby (old: 2) lydo: Nhặt từ map at 03/11/2023 10:42 AM
+BAG:phuccuti add 36xHoa hồng xanh (old: 35) lydo: Nhặt từ map at 03/11/2023 10:42 AM
+BAG:phuccuti add 53xHoa hồng vàng (old: 52) lydo: Nhặt từ map at 03/11/2023 10:42 AM
+BAG:phuccuti add 37xHoa hồng xanh (old: 36) lydo: Nhặt từ map at 03/11/2023 10:42 AM
+BAG:phuccuti add 36xHoa hồng đỏ (old: 35) lydo: Nhặt từ map at 03/11/2023 10:42 AM
+BAG:phuccuti add 37xHoa hồng đỏ (old: 36) lydo: Nhặt từ map at 03/11/2023 10:42 AM
+BAG:phuccuti add 38xHoa hồng đỏ (old: 37) lydo: Nhặt từ map at 03/11/2023 10:42 AM
+BAG:phuccuti add 54xHoa hồng vàng (old: 53) lydo: Nhặt từ map at 03/11/2023 10:42 AM
+BAG:phuccuti add 1xĐá Saphia lydo: Nhặt từ map at 03/11/2023 10:42 AM
+BAG:phuccuti add 4xĐá Ruby (old: 3) lydo: Nhặt từ map at 03/11/2023 10:43 AM
+BAG:phuccuti add 55xHoa hồng vàng (old: 54) lydo: Nhặt từ map at 03/11/2023 10:43 AM
+BAG:phuccuti add 1xNâng cấp kỹ năng 1 đệ tử lydo: Mua từ cửa hàng at 03/11/2023 10:48 AM
+BAG:phuccuti add 2xNâng cấp kỹ năng 1 đệ tử (old: 1) lydo: Mua từ cửa hàng at 03/11/2023 10:48 AM
+BAG:phuccuti add 39xHoa hồng đỏ (old: 38) lydo: Nhặt từ map at 03/11/2023 10:49 AM
+BAG:phuccuti add 3xNâng cấp kỹ năng 1 đệ tử (old: 2) lydo: Mua từ cửa hàng at 03/11/2023 10:49 AM
+BAG:phuccuti add 4xNâng cấp kỹ năng 1 đệ tử (old: 3) lydo: Mua từ cửa hàng at 03/11/2023 10:49 AM
+BAG:phuccuti add 5xNâng cấp kỹ năng 1 đệ tử (old: 4) lydo: Mua từ cửa hàng at 03/11/2023 10:49 AM
+BAG:phuccuti add 6xNâng cấp kỹ năng 1 đệ tử (old: 5) lydo: Mua từ cửa hàng at 03/11/2023 10:50 AM
+BAG:phuccuti add 1xÁo vải 3 lỗ lydo: Lấy từ body vào hành trang at 03/11/2023 10:56 AM
+BAG:phuccuti add 1xQuần vải đen lydo: Lấy từ body vào hành trang at 03/11/2023 10:56 AM
+BAG:phuccuti add 1xGăng vải đen lydo: Lấy từ body vào hành trang at 03/11/2023 10:56 AM
+BAG:phuccuti add 1xGiầy nhựa lydo: Lấy từ body vào hành trang at 03/11/2023 10:57 AM
+BAG:phuccuti add 1xRada cấp 1 lydo: Lấy từ body vào hành trang at 03/11/2023 10:57 AM
+BAG:phuccuti add 1xNezuko lydo: Lấy từ body vào hành trang at 03/11/2023 10:57 AM
+BAG:phuccuti add 1xRada cấp 1 lydo: Lấy từ body đệ vào hành trang at 03/11/2023 10:58 AM
+BAG:phuccuti add 1xNezuko lydo: Lấy từ body đệ vào hành trang at 03/11/2023 10:58 AM
+BAG:phuccuti add 1xĐổi đệ tử lydo: Mua từ cửa hàng at 03/11/2023 10:59 AM
+BAG:phuccuti add 2xĐổi đệ tử (old: 1) lydo: Mua từ cửa hàng at 03/11/2023 10:59 AM
+BAG:phuccuti add 3xĐổi đệ tử (old: 2) lydo: Mua từ cửa hàng at 03/11/2023 10:59 AM
+BAG:phuccuti add 4xĐổi đệ tử (old: 3) lydo: Mua từ cửa hàng at 03/11/2023 10:59 AM
+BAG:phuccuti add 1xRada cấp 1 lydo: Lấy từ body đệ vào hành trang at 03/11/2023 10:59 AM
+BAG:phuccuti add 1xGăng vải đen lydo: Lấy từ body đệ vào hành trang at 03/11/2023 10:59 AM
+BAG:phuccuti add 1xÁo vải 3 lỗ lydo: Lấy từ body vào hành trang at 03/11/2023 10:59 AM
+BAG:phuccuti add 1xQuần vải đen lydo: Lấy từ body vào hành trang at 03/11/2023 10:59 AM
+BAG:phuccuti add 1xGiầy nhựa lydo: Lấy từ body vào hành trang at 03/11/2023 10:59 AM
+BAG:phuccuti add 1xGăng vải đen lydo: Lấy từ body vào hành trang at 03/11/2023 10:59 AM
+BAG:phuccuti add 1xRada cấp 1 lydo: Lấy từ body vào hành trang at 03/11/2023 10:59 AM
+BAG:phuccuti add 1xNezuko lydo: Lấy từ body vào hành trang at 03/11/2023 11:00 AM
+BAG:phuccuti add 1xNâng cấp kỹ năng 1 đệ tử lydo: Mua từ cửa hàng at 03/11/2023 11:06 AM
+BAG:phuccuti add 2xNâng cấp kỹ năng 1 đệ tử (old: 1) lydo: Mua từ cửa hàng at 03/11/2023 11:06 AM
+BAG:phuccuti add 3xNâng cấp kỹ năng 1 đệ tử (old: 2) lydo: Mua từ cửa hàng at 03/11/2023 11:07 AM
+BAG:phuccuti add 4xNâng cấp kỹ năng 1 đệ tử (old: 3) lydo: Mua từ cửa hàng at 03/11/2023 11:07 AM
+BAG:phuccuti add 5xNâng cấp kỹ năng 1 đệ tử (old: 4) lydo: Mua từ cửa hàng at 03/11/2023 11:07 AM
+BAG:phuccuti add 6xNâng cấp kỹ năng 1 đệ tử (old: 5) lydo: Mua từ cửa hàng at 03/11/2023 11:07 AM
+BAG:phuccuti add 40xHoa hồng đỏ (old: 39) lydo: Nhặt từ map at 03/11/2023 11:52 AM
+BAG:phuccuti add 1xGiáp tập luyện cấp 3 lydo: Mua từ cửa hàng at 03/11/2023 12:53 PM
+BAG:phuccuti add 56xHoa hồng vàng (old: 55) lydo: Nhặt từ map at 03/11/2023 12:55 PM
+BAG:phuccuti add 38xHoa hồng xanh (old: 37) lydo: Nhặt từ map at 03/11/2023 1:22 PM
+BAG:phuccuti add 1xGiáp tập luyện cấp 3 lydo: Lấy từ body vào hành trang at 03/11/2023 1:48 PM
+BAG:phuccuti add 1xÁo vải 3 lỗ lydo: Lấy từ body đệ vào hành trang at 03/11/2023 1:57 PM
+BAG:phuccuti add 1xQuần vải đen lydo: Lấy từ body đệ vào hành trang at 03/11/2023 1:57 PM
+BAG:phuccuti add 1xGăng vải đen lydo: Lấy từ body đệ vào hành trang at 03/11/2023 1:57 PM
+BAG:phuccuti add 1xGiầy nhựa lydo: Lấy từ body đệ vào hành trang at 03/11/2023 1:57 PM
+BAG:phuccuti add 1xRada cấp 1 lydo: Lấy từ body đệ vào hành trang at 03/11/2023 1:57 PM
+BAG:phuccuti add 1xNezuko lydo: Lấy từ body đệ vào hành trang at 03/11/2023 1:57 PM
+BAG:phuccuti add 1xĐổi đệ tử lydo: Mua từ cửa hàng at 03/11/2023 1:58 PM
+BAG:phuccuti add 1xNâng cấp kỹ năng 1 đệ tử lydo: Mua từ cửa hàng at 03/11/2023 2:03 PM
+BAG:phuccuti add 2xNâng cấp kỹ năng 1 đệ tử (old: 1) lydo: Mua từ cửa hàng at 03/11/2023 2:03 PM
+BAG:phuccuti add 3xNâng cấp kỹ năng 1 đệ tử (old: 2) lydo: Mua từ cửa hàng at 03/11/2023 2:03 PM
+BAG:phuccuti add 4xNâng cấp kỹ năng 1 đệ tử (old: 3) lydo: Mua từ cửa hàng at 03/11/2023 2:03 PM
+BAG:phuccuti add 5xNâng cấp kỹ năng 1 đệ tử (old: 4) lydo: Mua từ cửa hàng at 03/11/2023 2:03 PM
+BAG:phuccuti add 6xNâng cấp kỹ năng 1 đệ tử (old: 5) lydo: Mua từ cửa hàng at 03/11/2023 2:03 PM
+BAG:phuccuti add 1xSao pha lê lydo: Lấy từ lucky box at 03/11/2023 2:31 PM
+BAG:phuccuti add 2xSao pha lê (old: 1) lydo: Lấy từ lucky box at 03/11/2023 2:31 PM
+BAG:phuccuti add 3xSao pha lê (old: 2) lydo: Lấy từ lucky box at 03/11/2023 2:31 PM
+BAG:phuccuti add 4xSao pha lê (old: 3) lydo: Lấy từ lucky box at 03/11/2023 2:34 PM
+BAG:phuccuti add 1xSao pha lê lydo: Lấy từ lucky box at 03/11/2023 2:34 PM
+BAG:phuccuti add 1xNgọc Rồng 7 sao lydo: Lấy từ lucky box at 03/11/2023 2:35 PM
+BAG:phuccuti add 1xNgọc Rồng 4 sao lydo: Lấy từ lucky box at 03/11/2023 2:35 PM
+BAG:phuccuti add 2xNgọc Rồng 4 sao (old: 1) lydo: Lấy từ lucky box at 03/11/2023 2:35 PM
+BAG:phuccuti add 1xSao pha lê lydo: Lấy từ lucky box at 03/11/2023 2:35 PM
+BAG:phuccuti add 1xSao pha lê lydo: Lấy từ lucky box at 03/11/2023 2:35 PM
+BAG:phuccuti add 2xSao pha lê (old: 1) lydo: Lấy từ lucky box at 03/11/2023 2:35 PM
+BAG:phuccuti add 1xSao pha lê lydo: Lấy từ lucky box at 03/11/2023 2:35 PM
+BAG:phuccuti add 2xSao pha lê (old: 1) lydo: Lấy từ lucky box at 03/11/2023 2:35 PM
+BAG:phuccuti add 5xSao pha lê (old: 4) lydo: Lấy từ lucky box at 03/11/2023 2:35 PM
+BAG:phuccuti add 3xSao pha lê (old: 2) lydo: Lấy từ lucky box at 03/11/2023 2:35 PM
+BAG:phuccuti add 1xVệ tinh sinh lực lydo: Lấy từ lucky box at 03/11/2023 2:35 PM
+BAG:phuccuti add 4xSao pha lê (old: 3) lydo: Lấy từ lucky box at 03/11/2023 2:35 PM
+BAG:phuccuti add 1xNgọc Rồng 5 sao lydo: Lấy từ lucky box at 03/11/2023 2:35 PM
+BAG:phuccuti add 1xNgọc Rồng 6 sao lydo: Lấy từ lucky box at 03/11/2023 2:35 PM
+BAG:phuccuti add 2xVệ tinh sinh lực (old: 1) lydo: Lấy từ lucky box at 03/11/2023 2:35 PM
+BAG:phuccuti add 5xSao pha lê (old: 4) lydo: Lấy từ lucky box at 03/11/2023 2:35 PM
+BAG:phuccuti add 2xNgọc Rồng 5 sao (old: 1) lydo: Lấy từ lucky box at 03/11/2023 2:35 PM
+BAG:phuccuti add 1xVệ tinh trí tuệ lydo: Lấy từ lucky box at 03/11/2023 2:35 PM
+BAG:phuccuti add 1xGiáp tập luyện cấp 1 lydo: Mua từ cửa hàng at 03/11/2023 2:39 PM
+BAG:phuccuti add 41xHoa hồng đỏ (old: 40) lydo: Nhặt từ map at 03/11/2023 2:42 PM
+BAG:phuccuti add 9xĐá thạch anh tím (old: 8) lydo: Nhặt từ map at 03/11/2023 3:22 PM
+BAG:phuccuti add 57xHoa hồng vàng (old: 56) lydo: Nhặt từ map at 03/11/2023 3:23 PM
+BAG:phuccuti add 10xĐá thạch anh tím (old: 9) lydo: Nhặt từ map at 03/11/2023 3:24 PM
+BAG:phuccuti add 58xHoa hồng vàng (old: 57) lydo: Nhặt từ map at 03/11/2023 3:24 PM
+BAG:phuccuti add 1xNgọc Rồng 6 sao lydo: Nhặt từ map at 03/11/2023 3:25 PM
+BAG:phuccuti add 59xHoa hồng vàng (old: 58) lydo: Nhặt từ map at 03/11/2023 3:25 PM
+BAG:phuccuti add 42xHoa hồng đỏ (old: 41) lydo: Nhặt từ map at 03/11/2023 3:26 PM
+BAG:phuccuti add 39xHoa hồng xanh (old: 38) lydo: Nhặt từ map at 03/11/2023 3:26 PM
+BAG:phuccuti add 40xHoa hồng xanh (old: 39) lydo: Nhặt từ map at 03/11/2023 3:27 PM
+BAG:phuccuti add 60xHoa hồng vàng (old: 59) lydo: Nhặt từ map at 03/11/2023 3:27 PM
+BAG:phuccuti add 61xHoa hồng vàng (old: 60) lydo: Nhặt từ map at 03/11/2023 3:27 PM
+BAG:phuccuti add 62xHoa hồng vàng (old: 61) lydo: Nhặt từ map at 03/11/2023 3:29 PM
+BAG:phuccuti add 1xĐá Saphia lydo: Nhặt từ map at 03/11/2023 3:29 PM
+BAG:phuccuti add 41xHoa hồng xanh (old: 40) lydo: Nhặt từ map at 03/11/2023 3:31 PM
+BAG:phuccuti add 1xĐá Ruby lydo: Nhặt từ map at 03/11/2023 3:32 PM
+BAG:phuccuti add 2xNgọc Rồng 6 sao (old: 1) lydo: Nhặt từ map at 03/11/2023 3:32 PM
+BAG:phuccuti add 42xHoa hồng xanh (old: 41) lydo: Nhặt từ map at 03/11/2023 3:33 PM
+BAG:phuccuti add 1xĐá lục bảo lydo: Nhặt từ map at 03/11/2023 3:33 PM
+BAG:phuccuti add 2xĐá Ruby (old: 1) lydo: Nhặt từ map at 03/11/2023 3:34 PM
+BAG:phuccuti add 43xHoa hồng xanh (old: 42) lydo: Nhặt từ map at 03/11/2023 3:35 PM
+BAG:phuccuti add 63xHoa hồng vàng (old: 62) lydo: Nhặt từ map at 03/11/2023 3:35 PM
+BAG:phuccuti add 3xĐá Ruby (old: 2) lydo: Nhặt từ map at 03/11/2023 3:35 PM
+BAG:phuccuti add 43xHoa hồng đỏ (old: 42) lydo: Nhặt từ map at 03/11/2023 3:36 PM
+BAG:phuccuti add 1xNgọc Rồng 4 sao lydo: Nhặt từ map at 03/11/2023 3:37 PM
+BAG:phuccuti add 2xĐá lục bảo (old: 1) lydo: Nhặt từ map at 03/11/2023 3:37 PM
+BAG:phuccuti add 64xHoa hồng vàng (old: 63) lydo: Nhặt từ map at 03/11/2023 3:38 PM
+BAG:phuccuti add 44xHoa hồng đỏ (old: 43) lydo: Nhặt từ map at 03/11/2023 3:38 PM
+BAG:phuccuti add 65xHoa hồng vàng (old: 64) lydo: Nhặt từ map at 03/11/2023 3:39 PM
+BAG:phuccuti add 3xĐá lục bảo (old: 2) lydo: Nhặt từ map at 03/11/2023 3:39 PM
+BAG:phuccuti add 66xHoa hồng vàng (old: 65) lydo: Nhặt từ map at 03/11/2023 3:40 PM
+BAG:phuccuti add 1xNgọc Rồng 5 sao lydo: Nhặt từ map at 03/11/2023 3:40 PM
+BAG:phuccuti add 2xNgọc Rồng 4 sao (old: 1) lydo: Nhặt từ map at 03/11/2023 3:41 PM
+BAG:phuccuti add 45xHoa hồng đỏ (old: 44) lydo: Nhặt từ map at 03/11/2023 3:41 PM
+BAG:phuccuti add 44xHoa hồng xanh (old: 43) lydo: Nhặt từ map at 03/11/2023 3:41 PM
+BAG:phuccuti add 11xĐá thạch anh tím (old: 10) lydo: Nhặt từ map at 03/11/2023 3:42 PM
+BAG:phuccuti add 1xĐá Titan lydo: Nhặt từ map at 03/11/2023 3:43 PM
+BAG:phuccuti add 67xHoa hồng vàng (old: 66) lydo: Nhặt từ map at 03/11/2023 3:45 PM
+BAG:phuccuti add 45xHoa hồng xanh (old: 44) lydo: Nhặt từ map at 03/11/2023 3:46 PM
+BAG:phuccuti add 46xHoa hồng xanh (old: 45) lydo: Nhặt từ map at 03/11/2023 3:46 PM
+BAG:phuccuti add 4xĐá lục bảo (old: 3) lydo: Nhặt từ map at 03/11/2023 3:50 PM
+BAG:phuccuti add 47xHoa hồng xanh (old: 46) lydo: Nhặt từ map at 03/11/2023 3:50 PM
+BAG:phuccuti add 12xĐá thạch anh tím (old: 11) lydo: Nhặt từ map at 03/11/2023 3:50 PM
+BAG:phuccuti add 46xHoa hồng đỏ (old: 45) lydo: Nhặt từ map at 03/11/2023 3:51 PM
+BAG:phuccuti add 47xHoa hồng đỏ (old: 46) lydo: Nhặt từ map at 03/11/2023 3:51 PM
+BAG:phuccuti add 68xHoa hồng vàng (old: 67) lydo: Nhặt từ map at 03/11/2023 3:51 PM
+BAG:phuccuti add 69xHoa hồng vàng (old: 68) lydo: Nhặt từ map at 03/11/2023 3:51 PM
+BAG:phuccuti add 3xNgọc Rồng 6 sao (old: 2) lydo: Nhặt từ map at 03/11/2023 3:51 PM
+BAG:phuccuti add 70xHoa hồng vàng (old: 69) lydo: Nhặt từ map at 03/11/2023 3:51 PM
+BAG:phuccuti add 71xHoa hồng vàng (old: 70) lydo: Nhặt từ map at 03/11/2023 3:51 PM
+BAG:phuccuti add 2xĐá Saphia (old: 1) lydo: Nhặt từ map at 03/11/2023 3:58 PM
+BAG:phuccuti add 48xHoa hồng xanh (old: 47) lydo: Nhặt từ map at 03/11/2023 3:58 PM
+BAG:phuccuti add 48xHoa hồng đỏ (old: 47) lydo: Nhặt từ map at 03/11/2023 3:59 PM
+BAG:phuccuti add 49xHoa hồng xanh (old: 48) lydo: Nhặt từ map at 03/11/2023 3:59 PM
+BAG:phuccuti add 72xHoa hồng vàng (old: 71) lydo: Nhặt từ map at 03/11/2023 3:59 PM
+BAG:phuccuti add 1xNâng cấp kỹ năng 2 đệ tử lydo: Mua từ cửa hàng at 03/11/2023 7:54 PM
+BAG:phuccuti add 2xNâng cấp kỹ năng 2 đệ tử (old: 1) lydo: Mua từ cửa hàng at 03/11/2023 7:54 PM
+BAG:phuccuti add 3xNâng cấp kỹ năng 2 đệ tử (old: 2) lydo: Mua từ cửa hàng at 03/11/2023 7:54 PM
+BAG:phuccuti add 4xNâng cấp kỹ năng 2 đệ tử (old: 3) lydo: Mua từ cửa hàng at 03/11/2023 7:54 PM
+BAG:phuccuti add 5xNâng cấp kỹ năng 2 đệ tử (old: 4) lydo: Mua từ cửa hàng at 03/11/2023 7:54 PM
+BAG:phuccuti add 6xNâng cấp kỹ năng 2 đệ tử (old: 5) lydo: Mua từ cửa hàng at 03/11/2023 7:55 PM
+BAG:phuccuti add 50xHoa hồng xanh (old: 49) lydo: Nhặt từ map at 03/11/2023 7:56 PM
+BAG:phuccuti add 51xHoa hồng xanh (old: 50) lydo: Nhặt từ map at 03/11/2023 7:57 PM
+BAG:phuccuti add 52xHoa hồng xanh (old: 51) lydo: Nhặt từ map at 03/11/2023 7:57 PM
+BAG:phuccuti add 1xĐá Saphia lydo: Nhặt từ map at 03/11/2023 7:57 PM
+BAG:phuccuti add 49xHoa hồng đỏ (old: 48) lydo: Nhặt từ map at 03/11/2023 7:57 PM
+BAG:phuccuti add 50xHoa hồng đỏ (old: 49) lydo: Nhặt từ map at 03/11/2023 7:57 PM
+BAG:phuccuti add 51xHoa hồng đỏ (old: 50) lydo: Nhặt từ map at 03/11/2023 7:57 PM
+BAG:phuccuti add 52xHoa hồng đỏ (old: 51) lydo: Nhặt từ map at 03/11/2023 7:58 PM
+BAG:phuccuti add 13xĐá thạch anh tím (old: 12) lydo: Nhặt từ map at 03/11/2023 7:58 PM
+BAG:phuccuti add 1xNgọc Rồng 6 sao lydo: Nhặt từ map at 03/11/2023 8:00 PM
+BAG:phuccuti add 73xHoa hồng vàng (old: 72) lydo: Nhặt từ map at 03/11/2023 8:00 PM
+BAG:phuccuti add 53xHoa hồng đỏ (old: 52) lydo: Nhặt từ map at 03/11/2023 8:00 PM
+BAG:phuccuti add 1xĐá lục bảo lydo: Nhặt từ map at 03/11/2023 8:01 PM
+BAG:phuccuti add 54xHoa hồng đỏ (old: 53) lydo: Nhặt từ map at 03/11/2023 8:01 PM
+BAG:phuccuti add 55xHoa hồng đỏ (old: 54) lydo: Nhặt từ map at 03/11/2023 8:01 PM
+BAG:phuccuti add 1xĐá Ruby lydo: Nhặt từ map at 03/11/2023 8:02 PM
+BAG:phuccuti add 53xHoa hồng xanh (old: 52) lydo: Nhặt từ map at 03/11/2023 8:03 PM
+BAG:phuccuti add 74xHoa hồng vàng (old: 73) lydo: Nhặt từ map at 03/11/2023 8:03 PM
+BAG:phuccuti add 56xHoa hồng đỏ (old: 55) lydo: Nhặt từ map at 03/11/2023 8:04 PM
+BAG:phuccuti add 2xĐá Saphia (old: 1) lydo: Nhặt từ map at 03/11/2023 8:04 PM
+BAG:phuccuti add 75xHoa hồng vàng (old: 74) lydo: Nhặt từ map at 03/11/2023 8:05 PM
+BAG:phuccuti add 14xĐá thạch anh tím (old: 13) lydo: Nhặt từ map at 03/11/2023 8:05 PM
+BAG:phuccuti add 57xHoa hồng đỏ (old: 56) lydo: Nhặt từ map at 03/11/2023 8:05 PM
+BAG:phuccuti add 1xNgọc Rồng 4 sao lydo: Nhặt từ map at 03/11/2023 8:06 PM
+BAG:phuccuti add 76xHoa hồng vàng (old: 75) lydo: Nhặt từ map at 03/11/2023 8:06 PM
+BAG:phuccuti add 54xHoa hồng xanh (old: 53) lydo: Nhặt từ map at 03/11/2023 8:06 PM
+BAG:phuccuti add 58xHoa hồng đỏ (old: 57) lydo: Nhặt từ map at 03/11/2023 8:07 PM
+BAG:phuccuti add 1xĐá Titan lydo: Nhặt từ map at 03/11/2023 8:08 PM
+BAG:phuccuti add 2xĐá Ruby (old: 1) lydo: Nhặt từ map at 03/11/2023 8:08 PM
+BAG:phuccuti add 2xĐá lục bảo (old: 1) lydo: Nhặt từ map at 03/11/2023 8:08 PM
+BAG:phuccuti add 77xHoa hồng vàng (old: 76) lydo: Nhặt từ map at 03/11/2023 8:09 PM
+BAG:phuccuti add 78xHoa hồng vàng (old: 77) lydo: Nhặt từ map at 03/11/2023 8:10 PM
+BAG:phuccuti add 2xĐá Titan (old: 1) lydo: Nhặt từ map at 03/11/2023 8:10 PM
+BAG:phuccuti add 55xHoa hồng xanh (old: 54) lydo: Nhặt từ map at 03/11/2023 8:11 PM
+BAG:phuccuti add 56xHoa hồng xanh (old: 55) lydo: Nhặt từ map at 03/11/2023 8:11 PM
+BAG:phuccuti add 59xHoa hồng đỏ (old: 58) lydo: Nhặt từ map at 03/11/2023 8:12 PM
+BAG:phuccuti add 3xĐá Ruby (old: 2) lydo: Nhặt từ map at 03/11/2023 8:12 PM
+BAG:phuccuti add 57xHoa hồng xanh (old: 56) lydo: Nhặt từ map at 03/11/2023 8:12 PM
+BAG:phuccuti add 79xHoa hồng vàng (old: 78) lydo: Nhặt từ map at 03/11/2023 8:12 PM
+BAG:phuccuti add 2xNgọc Rồng 4 sao (old: 1) lydo: Nhặt từ map at 03/11/2023 8:13 PM
+BAG:phuccuti add 3xĐá lục bảo (old: 2) lydo: Nhặt từ map at 03/11/2023 8:14 PM
+BAG:phuccuti add 60xHoa hồng đỏ (old: 59) lydo: Nhặt từ map at 03/11/2023 8:14 PM
+BAG:phuccuti add 61xHoa hồng đỏ (old: 60) lydo: Nhặt từ map at 03/11/2023 8:14 PM
+BAG:phuccuti add 58xHoa hồng xanh (old: 57) lydo: Nhặt từ map at 03/11/2023 8:14 PM
+BAG:phuccuti add 3xĐá Titan (old: 2) lydo: Nhặt từ map at 03/11/2023 8:15 PM
+BAG:phuccuti add 80xHoa hồng vàng (old: 79) lydo: Nhặt từ map at 03/11/2023 8:15 PM
+BAG:phuccuti add 62xHoa hồng đỏ (old: 61) lydo: Nhặt từ map at 03/11/2023 8:15 PM
+BAG:phuccuti add 1xVệ tinh trí tuệ lydo: Lấy từ lucky box at 03/11/2023 8:16 PM
+BAG:phuccuti add 2xVệ tinh trí tuệ (old: 1) lydo: Lấy từ lucky box at 03/11/2023 8:16 PM
+BAG:phuccuti add 3xVệ tinh trí tuệ (old: 2) lydo: Lấy từ lucky box at 03/11/2023 8:16 PM
+BAG:phuccuti add 4xVệ tinh trí tuệ (old: 3) lydo: Lấy từ lucky box at 03/11/2023 8:16 PM
+BAG:phuccuti add 5xVệ tinh trí tuệ (old: 4) lydo: Lấy từ lucky box at 03/11/2023 8:16 PM
+BAG:phuccuti add 59xHoa hồng xanh (old: 58) lydo: Nhặt từ map at 03/11/2023 8:17 PM
+BAG:phuccuti add 4xĐá Ruby (old: 3) lydo: Nhặt từ map at 03/11/2023 8:18 PM
+BAG:phuccuti add 81xHoa hồng vàng (old: 80) lydo: Nhặt từ map at 03/11/2023 8:19 PM
+BAG:phuccuti add 2xNgọc Rồng 6 sao (old: 1) lydo: Nhặt từ map at 03/11/2023 8:20 PM
+BAG:phuccuti add 82xHoa hồng vàng (old: 81) lydo: Nhặt từ map at 03/11/2023 8:20 PM
+BAG:phuccuti add 83xHoa hồng vàng (old: 82) lydo: Nhặt từ map at 03/11/2023 8:20 PM
+BAG:phuccuti add 84xHoa hồng vàng (old: 83) lydo: Nhặt từ map at 03/11/2023 8:20 PM
+BAG:phuccuti add 85xHoa hồng vàng (old: 84) lydo: Nhặt từ map at 03/11/2023 8:21 PM
+BAG:phuccuti add 86xHoa hồng vàng (old: 85) lydo: Nhặt từ map at 03/11/2023 8:21 PM
+BAG:phuccuti add 5xĐá Ruby (old: 4) lydo: Nhặt từ map at 03/11/2023 8:21 PM
+BAG:phuccuti add 63xHoa hồng đỏ (old: 62) lydo: Nhặt từ map at 03/11/2023 8:21 PM
+BAG:phuccuti add 87xHoa hồng vàng (old: 86) lydo: Nhặt từ map at 03/11/2023 8:22 PM
+BAG:phuccuti add 60xHoa hồng xanh (old: 59) lydo: Nhặt từ map at 03/11/2023 8:22 PM
+BAG:phuccuti add 64xHoa hồng đỏ (old: 63) lydo: Nhặt từ map at 03/11/2023 8:22 PM
+BAG:phuccuti add 4xĐá Titan (old: 3) lydo: Nhặt từ map at 03/11/2023 8:23 PM
+BAG:phuccuti add 61xHoa hồng xanh (old: 60) lydo: Nhặt từ map at 03/11/2023 8:23 PM
+BAG:phuccuti add 5xĐá Titan (old: 4) lydo: Nhặt từ map at 03/11/2023 8:23 PM
+BAG:phuccuti add 65xHoa hồng đỏ (old: 64) lydo: Nhặt từ map at 03/11/2023 8:24 PM
+BAG:phuccuti add 88xHoa hồng vàng (old: 87) lydo: Nhặt từ map at 03/11/2023 8:25 PM
+BAG:phuccuti add 66xHoa hồng đỏ (old: 65) lydo: Nhặt từ map at 03/11/2023 8:25 PM
+BAG:phuccuti add 89xHoa hồng vàng (old: 88) lydo: Nhặt từ map at 03/11/2023 8:25 PM
+BAG:phuccuti add 67xHoa hồng đỏ (old: 66) lydo: Nhặt từ map at 03/11/2023 8:25 PM
+BAG:phuccuti add 68xHoa hồng đỏ (old: 67) lydo: Nhặt từ map at 03/11/2023 8:26 PM
+BAG:phuccuti add 62xHoa hồng xanh (old: 61) lydo: Nhặt từ map at 03/11/2023 8:26 PM
+BAG:phuccuti add 6xĐá Titan (old: 5) lydo: Nhặt từ map at 03/11/2023 8:26 PM
+BAG:phuccuti add 63xHoa hồng xanh (old: 62) lydo: Nhặt từ map at 03/11/2023 8:27 PM
+BAG:phuccuti add 69xHoa hồng đỏ (old: 68) lydo: Nhặt từ map at 03/11/2023 8:27 PM
+BAG:phuccuti add 90xHoa hồng vàng (old: 89) lydo: Nhặt từ map at 03/11/2023 8:27 PM
+BAG:phuccuti add 91xHoa hồng vàng (old: 90) lydo: Nhặt từ map at 03/11/2023 8:28 PM
+BAG:phuccuti add 64xHoa hồng xanh (old: 63) lydo: Nhặt từ map at 03/11/2023 8:28 PM
+BAG:phuccuti add 15xĐá thạch anh tím (old: 14) lydo: Nhặt từ map at 03/11/2023 8:28 PM
+BAG:phuccuti add 70xHoa hồng đỏ (old: 69) lydo: Nhặt từ map at 03/11/2023 8:29 PM
+BAG:phuccuti add 92xHoa hồng vàng (old: 91) lydo: Nhặt từ map at 03/11/2023 8:29 PM
+BAG:phuccuti add 3xNgọc Rồng 6 sao (old: 2) lydo: Nhặt từ map at 03/11/2023 8:29 PM
+BAG:phuccuti add 2xSao pha lê (old: 1) lydo: Lấy từ lucky box at 03/11/2023 8:31 PM
+BAG:phuccuti add 1xDiều rồng lydo: Lấy từ lucky box at 03/11/2023 8:31 PM
+BAG:phuccuti add 3xNgọc Rồng 4 sao (old: 2) lydo: Lấy từ lucky box at 03/11/2023 8:32 PM
+BAG:phuccuti add 3xSao pha lê (old: 2) lydo: Lấy từ lucky box at 03/11/2023 8:33 PM
+BAG:phuccuti add 1xMèo mun lydo: Lấy từ lucky box at 03/11/2023 8:33 PM
+BAG:phuccuti add 4xSao pha lê (old: 3) lydo: Lấy từ lucky box at 03/11/2023 8:33 PM
+BAG:phuccuti add 1xSao pha lê lydo: Lấy từ lucky box at 03/11/2023 8:33 PM
+BAG:phuccuti add 4xNgọc Rồng 4 sao (old: 3) lydo: Lấy từ lucky box at 03/11/2023 8:34 PM
+BAG:phuccuti add 5xNgọc Rồng 4 sao (old: 4) lydo: Lấy từ lucky box at 03/11/2023 8:34 PM
+BAG:phuccuti add 5xSao pha lê (old: 4) lydo: Lấy từ lucky box at 03/11/2023 8:36 PM
+BAG:phuccuti add 1xMèo mun lydo: Lấy từ lucky box at 03/11/2023 8:37 PM
+BAG:phuccuti add 6xSao pha lê (old: 5) lydo: Lấy từ lucky box at 03/11/2023 8:38 PM
+BAG:phuccuti add 7xSao pha lê (old: 6) lydo: Lấy từ lucky box at 03/11/2023 8:38 PM
+BAG:phuccuti add 8xSao pha lê (old: 7) lydo: Lấy từ lucky box at 03/11/2023 8:38 PM
+BAG:phuccuti add 5xVệ tinh trí tuệ (old: 4) lydo: Lấy từ lucky box at 03/11/2023 8:38 PM
+BAG:phuccuti add 6xVệ tinh trí tuệ (old: 5) lydo: Lấy từ lucky box at 03/11/2023 8:38 PM
+BAG:phuccuti add 9xSao pha lê (old: 8) lydo: Lấy từ lucky box at 03/11/2023 8:40 PM
+BAG:phuccuti add 10xSao pha lê (old: 9) lydo: Lấy từ lucky box at 03/11/2023 8:42 PM
+BAG:phuccuti add 11xSao pha lê (old: 10) lydo: Lấy từ lucky box at 03/11/2023 8:42 PM
+BAG:phuccuti add 12xSao pha lê (old: 11) lydo: Lấy từ lucky box at 03/11/2023 8:44 PM
+BAG:phuccuti add 13xSao pha lê (old: 12) lydo: Lấy từ lucky box at 03/11/2023 8:44 PM
+BAG:phuccuti add 14xSao pha lê (old: 13) lydo: Lấy từ lucky box at 03/11/2023 8:44 PM
+BAG:phuccuti add 15xSao pha lê (old: 14) lydo: Lấy từ lucky box at 03/11/2023 8:44 PM
+BAG:phuccuti add 1xCT Genma 01 lydo: Lấy từ lucky box at 03/11/2023 8:45 PM
+BAG:phuccuti add 16xSao pha lê (old: 15) lydo: Lấy từ lucky box at 03/11/2023 8:47 PM
+BAG:phuccuti add 17xSao pha lê (old: 16) lydo: Lấy từ lucky box at 03/11/2023 8:47 PM
+BAG:phuccuti add 18xSao pha lê (old: 17) lydo: Lấy từ lucky box at 03/11/2023 8:47 PM
+BAG:phuccuti add 19xSao pha lê (old: 18) lydo: Lấy từ lucky box at 03/11/2023 8:47 PM
+BAG:phuccuti add 20xSao pha lê (old: 19) lydo: Lấy từ lucky box at 03/11/2023 8:47 PM
+BAG:phuccuti add 1xCải Trang Glaxy lydo: Mở thành viên at 03/11/2023 8:53 PM
+BAG:phuccuti add 1xĐá ngũ sắc lydo: Mua santa at 03/11/2023 8:53 PM
+BAG:phuccuti add 74xThỏi vàng (old: 24) lydo: Đổi vàng at 03/11/2023 8:54 PM
+BAG:phuccuti add 1xGăng Thần Linh lydo: Mua từ bill at 03/11/2023 8:54 PM
+BAG:phuccuti add 1xÁo vải 3 lỗ lydo: Mua từ cửa hàng at 03/11/2023 8:56 PM
+BAG:phuccuti add 1xQuần vàng Goku lydo: Mua từ cửa hàng at 03/11/2023 8:56 PM
+BAG:phuccuti add 1xQuần da Calic lydo: Mua từ cửa hàng at 03/11/2023 8:56 PM
+BAG:phuccuti add 1xGiày da Calic lydo: Mua từ cửa hàng at 03/11/2023 8:56 PM
+BAG:phuccuti add 1xRada cấp 1 lydo: Mua từ cửa hàng at 03/11/2023 8:56 PM
+BAG:phuccuti add 1xHoa hồng đỏ lydo: Nhặt từ map at 03/11/2023 8:56 PM
+BAG:phuccuti add 1xGăng vải đen lydo: Lấy từ body vào hành trang at 03/11/2023 9:05 PM
+BAG:phuccuti add 1xRada cấp 1 lydo: Lấy từ rương qua người at 03/11/2023 9:05 PM
+BAG:phuccuti add 38xĐậu thần cấp 10 (old: 18) lydo: Lấy từ rương qua người at 03/11/2023 9:07 PM
+BAG:phuccuti add 58xĐậu thần cấp 10 (old: 38) lydo: Lấy từ rương qua người at 03/11/2023 9:07 PM
+BAG:phuccuti add 78xĐậu thần cấp 10 (old: 58) lydo: Lấy từ rương qua người at 03/11/2023 9:07 PM
+BAG:phuccuti add 98xĐậu thần cấp 10 (old: 78) lydo: Lấy từ rương qua người at 03/11/2023 9:07 PM
+BAG:phuccuti add 19xĐậu thần cấp 10 lydo: Lấy từ rương qua người at 03/11/2023 9:07 PM
+BAG:phuccuti add 99xĐậu thần cấp 10 (old: 98) lydo: Lấy từ rương qua người at 03/11/2023 9:07 PM
+BAG:phuccuti add 39xĐậu thần cấp 10 (old: 19) lydo: Lấy từ rương qua người at 03/11/2023 9:07 PM
+BAG:phuccuti add 1xGăng vàng Goku lydo: Mua từ cửa hàng at 03/11/2023 9:08 PM
+BAG:phuccuti add 1xGăng da Calic lydo: Mua từ cửa hàng at 03/11/2023 9:08 PM
+BAG:phuccuti add 1xHoa hồng vàng lydo: Nhặt từ map at 03/11/2023 9:09 PM
+BAG:phuccuti add 1xNgọc Rồng 6 sao lydo: Nhặt từ map at 03/11/2023 9:10 PM
+BAG:phuccuti add 2xHoa hồng vàng (old: 1) lydo: Nhặt từ map at 03/11/2023 9:10 PM
+BAG:phuccuti add 1xGiáp tập luyện cấp 3 lydo: Lấy từ body vào hành trang at 03/11/2023 9:10 PM
+BAG:phuccuti add 1xĐá Ruby lydo: Nhặt từ map at 03/11/2023 9:11 PM
+BAG:phuccuti add 1xHoa hồng xanh lydo: Nhặt từ map at 03/11/2023 9:11 PM
+BAG:phuccuti add 1xHoa hồng đỏ lydo: Nhặt từ map at 03/11/2023 9:12 PM
+BAG:phuccuti add 2xHoa hồng xanh (old: 1) lydo: Nhặt từ map at 03/11/2023 9:12 PM
+BAG:phuccuti add 1xHoa hồng vàng lydo: Nhặt từ map at 03/11/2023 9:13 PM
+BAG:phuccuti add 6xNgọc Rồng 4 sao (old: 5) lydo: Nhặt từ map at 03/11/2023 9:13 PM
+BAG:phuccuti add 2xHoa hồng vàng (old: 1) lydo: Nhặt từ map at 03/11/2023 9:13 PM
+BAG:phuccuti add 1xGiáp tập luyện cấp 1 lydo: Lấy từ body đệ vào hành trang at 03/11/2023 9:14 PM
+BAG:phuccuti add 1xSao pha lê lydo: Lấy từ lucky box at 03/11/2023 9:16 PM
+BAG:phuccuti add 2xSao pha lê (old: 1) lydo: Lấy từ lucky box at 03/11/2023 9:16 PM
+BAG:phuccuti add 3xSao pha lê (old: 2) lydo: Lấy từ lucky box at 03/11/2023 9:18 PM
+BAG:phuccuti add 4xSao pha lê (old: 3) lydo: Lấy từ lucky box at 03/11/2023 9:18 PM
+BAG:phuccuti add 5xSao pha lê (old: 4) lydo: Lấy từ lucky box at 03/11/2023 9:18 PM
+BAG:phuccuti add 1xGiáp tập luyện cấp 1 lydo: Mua từ cửa hàng at 03/11/2023 9:19 PM
+BAG:phuccuti add 1xÁo vải 3 lỗ lydo: Lấy từ body đệ vào hành trang at 03/11/2023 9:23 PM
+BAG:phuccuti add 1xQuần da Calic lydo: Lấy từ body đệ vào hành trang at 03/11/2023 9:23 PM
+BAG:phuccuti add 1xGiày da Calic lydo: Lấy từ body đệ vào hành trang at 03/11/2023 9:25 PM
+BAG:phuccuti add 1xRada cấp 1 lydo: Lấy từ body đệ vào hành trang at 03/11/2023 9:25 PM
+BAG:phuccuti add 15xSao pha lê lydo: (GD) Nhận từ kakalotglx at 03/11/2023 9:32 PM
+BAG:phuccuti add 1xGiáp tập luyện cấp 1 lydo: Lấy từ body đệ vào hành trang at 03/11/2023 9:33 PM
+BAG:phuccuti add 10xThỏi vàng lydo: (GD) Nhận từ kudai20cm at 03/11/2023 9:34 PM
+BAG:phuccuti add 1xHoa hồng vàng lydo: Nhặt từ map at 03/11/2023 9:36 PM
+BAG:phuccuti add 1xHoa hồng xanh lydo: Nhặt từ map at 03/11/2023 9:37 PM
+BAG:phuccuti add 2xHoa hồng vàng (old: 1) lydo: Nhặt từ map at 03/11/2023 9:37 PM
+BAG:phuccuti add 3xHoa hồng vàng (old: 2) lydo: Nhặt từ map at 03/11/2023 9:37 PM
+BAG:phuccuti add 2xHoa hồng xanh (old: 1) lydo: Nhặt từ map at 03/11/2023 9:38 PM
+BAG:phuccuti add 1xĐá thạch anh tím lydo: Nhặt từ map at 03/11/2023 9:40 PM
+BAG:phuccuti add 1xHoa hồng đỏ lydo: Nhặt từ map at 03/11/2023 9:40 PM
+BAG:phuccuti add 4xHoa hồng vàng (old: 3) lydo: Nhặt từ map at 03/11/2023 9:40 PM
+BAG:phuccuti add 1xNezuko lydo: Lấy từ body vào hành trang at 03/11/2023 9:41 PM
+BAG:phuccuti add 1xNgọc Rồng 4 sao lydo: Nhặt từ map at 03/11/2023 9:41 PM
+BAG:phuccuti add 2xHoa hồng đỏ (old: 1) lydo: Nhặt từ map at 03/11/2023 9:41 PM
+BAG:phuccuti add 3xHoa hồng đỏ (old: 2) lydo: Nhặt từ map at 03/11/2023 9:42 PM
+BAG:phuccuti add 4xHoa hồng đỏ (old: 3) lydo: Nhặt từ map at 03/11/2023 9:42 PM
+BAG:phuccuti add 5xHoa hồng vàng (old: 4) lydo: Nhặt từ map at 03/11/2023 9:42 PM
+BAG:phuccuti add 5xHoa hồng đỏ (old: 4) lydo: Nhặt từ map at 03/11/2023 9:42 PM
+BAG:phuccuti add 1xNgọc Rồng 5 sao lydo: Nhặt từ map at 03/11/2023 9:43 PM

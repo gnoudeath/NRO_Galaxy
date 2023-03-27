@@ -1,0 +1,24 @@
+BAG:luongdat add 2xHoa hồng vàng (old: 1) lydo: Nhặt từ map at 03/12/2023 3:16 PM
+BAG:luongdat add 3xHoa hồng vàng (old: 2) lydo: Nhặt từ map at 03/12/2023 3:16 PM
+BAG:luongdat add 1xÁo sợi len lydo: Nhặt từ map at 03/12/2023 3:16 PM
+BAG:luongdat add 1xQuần sợi len lydo: Nhặt từ map at 03/12/2023 3:16 PM
+BAG:luongdat add 3xHoa hồng đỏ (old: 2) lydo: Nhặt từ map at 03/12/2023 3:17 PM
+BAG:luongdat add 4xHoa hồng vàng (old: 3) lydo: Nhặt từ map at 03/12/2023 3:17 PM
+BAG:luongdat add 5xHoa hồng vàng (old: 4) lydo: Nhặt từ map at 03/12/2023 3:17 PM
+BAG:luongdat add 1xRada cấp 1 lydo: Nhặt từ map at 03/12/2023 3:17 PM
+BAG:luongdat add 1xÁo sợi len lydo: Nhặt từ map at 03/12/2023 3:17 PM
+BAG:luongdat add 6xHoa hồng vàng (old: 5) lydo: Nhặt từ map at 03/12/2023 3:17 PM
+BAG:luongdat add 1xÁo sợi len lydo: Nhặt từ map at 03/12/2023 3:17 PM
+BAG:luongdat add 7xHoa hồng vàng (old: 6) lydo: Nhặt từ map at 03/12/2023 3:17 PM
+BAG:luongdat add 10xĐậu thần cấp 8 (old: 1) lydo: Thu hoạch đậu at 03/12/2023 3:18 PM
+BAG:luongdat add 29xĐậu thần cấp 8 (old: 10) lydo: Lấy từ rương qua người at 03/12/2023 3:18 PM
+BAG:luongdat add 49xĐậu thần cấp 8 (old: 29) lydo: Lấy từ rương qua người at 03/12/2023 3:18 PM
+BAG:luongdat add 69xĐậu thần cấp 8 (old: 49) lydo: Lấy từ rương qua người at 03/12/2023 3:18 PM
+BAG:luongdat add 87xĐậu thần cấp 8 (old: 69) lydo: Lấy từ rương qua người at 03/12/2023 3:18 PM
+BAG:luongdat add 1xÁo sợi len lydo: Nhặt từ map at 03/12/2023 3:19 PM
+BAG:luongdat add 1xRada cấp 1 lydo: Nhặt từ map at 03/12/2023 3:20 PM
+BAG:luongdat add 4xHoa hồng đỏ (old: 3) lydo: Nhặt từ map at 03/12/2023 3:20 PM
+BAG:luongdat add 1xÁo sợi len lydo: Nhặt từ map at 03/12/2023 3:20 PM
+BAG:luongdat add 3xHoa hồng xanh (old: 2) lydo: Nhặt từ map at 03/12/2023 3:20 PM
+BAG:luongdat add 1xĐá Saphia lydo: Nhặt từ map at 03/12/2023 3:20 PM
+BAG:luongdat add 5xHoa hồng đỏ (old: 4) lydo: Nhặt từ map at 03/12/2023 3:20 PM

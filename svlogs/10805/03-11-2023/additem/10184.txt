@@ -1,0 +1,1170 @@
+BAG:mayconlon add 1xÁo lưỡng long lydo: Mua từ cửa hàng at 03/11/2023 1:09 PM
+BAG:mayconlon add 1xQuần lưỡng long lydo: Mua từ cửa hàng at 03/11/2023 1:09 PM
+BAG:mayconlon add 1xGiày lưỡng long lydo: Mua từ cửa hàng at 03/11/2023 1:09 PM
+BAG:mayconlon add 1xRada cấp 12 lydo: Mua từ cửa hàng at 03/11/2023 1:09 PM
+BAG:mayconlon add 97xNgọc Rồng 3 sao lydo: Lấy từ rương qua người at 03/11/2023 1:10 PM
+BAG:mayconlon add 1xCải trang Hatchiyack lydo: Lấy từ lucky box at 03/11/2023 1:29 PM
+BAG:mayconlon add 1xCải trang Hatchiyack lydo: Lấy từ lucky box at 03/11/2023 1:29 PM
+BAG:mayconlon add 1xCải trang Hatchiyack lydo: Lấy từ body đệ vào hành trang at 03/11/2023 1:29 PM
+BAG:mayconlon add 1xCải trang Hatchiyack lydo: Lấy từ body đệ vào hành trang at 03/11/2023 1:29 PM
+BAG:mayconlon add 1xTanjiro lydo: Lấy từ body vào hành trang at 03/11/2023 1:33 PM
+BAG:mayconlon add 99xThỏi vàng lydo: Tách thỏi vàng at 03/11/2023 1:34 PM
+BAG:mayconlon add 1xGiáp tập luyện cấp 3 lydo: Lấy từ body vào hành trang at 03/11/2023 1:37 PM
+BAG:mayconlon add 1xGiáp tập luyện cấp 3 lydo: Lấy từ body vào hành trang at 03/11/2023 1:39 PM
+BAG:mayconlon add 1xGiáp tập luyện cấp 3 lydo: Lấy từ body vào hành trang at 03/11/2023 1:41 PM
+BAG:mayconlon add 1xThiệp chúc mừng xanh lydo: Nhặt từ map at 03/11/2023 1:46 PM
+BAG:mayconlon add 1xBó hoa hồng đỏ lydo: Đổi bó hoa hồng đỏ at 03/11/2023 1:47 PM
+BAG:mayconlon add 2xBó hoa hồng đỏ (old: 1) lydo: Đổi bó hoa hồng đỏ at 03/11/2023 1:49 PM
+BAG:mayconlon add 3xBó hoa hồng đỏ (old: 2) lydo: Đổi bó hoa hồng đỏ at 03/11/2023 1:49 PM
+BAG:mayconlon add 4xBó hoa hồng đỏ (old: 3) lydo: Đổi bó hoa hồng đỏ at 03/11/2023 1:49 PM
+BAG:mayconlon add 5xBó hoa hồng đỏ (old: 4) lydo: Đổi bó hoa hồng đỏ at 03/11/2023 1:49 PM
+BAG:mayconlon add 6xBó hoa hồng đỏ (old: 5) lydo: Đổi bó hoa hồng đỏ at 03/11/2023 1:49 PM
+BAG:mayconlon add 7xBó hoa hồng đỏ (old: 6) lydo: Đổi bó hoa hồng đỏ at 03/11/2023 1:49 PM
+BAG:mayconlon add 8xBó hoa hồng đỏ (old: 7) lydo: Đổi bó hoa hồng đỏ at 03/11/2023 1:49 PM
+BAG:mayconlon add 9xBó hoa hồng đỏ (old: 8) lydo: Đổi bó hoa hồng đỏ at 03/11/2023 1:49 PM
+BAG:mayconlon add 10xBó hoa hồng đỏ (old: 9) lydo: Đổi bó hoa hồng đỏ at 03/11/2023 1:49 PM
+BAG:mayconlon add 1xBó hoa hồng xanh lydo: Đổi bó hoa hồng xanh at 03/11/2023 1:49 PM
+BAG:mayconlon add 2xBó hoa hồng xanh (old: 1) lydo: Đổi bó hoa hồng xanh at 03/11/2023 1:50 PM
+BAG:mayconlon add 3xBó hoa hồng xanh (old: 2) lydo: Đổi bó hoa hồng xanh at 03/11/2023 1:50 PM
+BAG:mayconlon add 4xBó hoa hồng xanh (old: 3) lydo: Đổi bó hoa hồng xanh at 03/11/2023 1:50 PM
+BAG:mayconlon add 5xBó hoa hồng xanh (old: 4) lydo: Đổi bó hoa hồng xanh at 03/11/2023 1:50 PM
+BAG:mayconlon add 6xBó hoa hồng xanh (old: 5) lydo: Đổi bó hoa hồng xanh at 03/11/2023 1:50 PM
+BAG:mayconlon add 7xBó hoa hồng xanh (old: 6) lydo: Đổi bó hoa hồng xanh at 03/11/2023 1:50 PM
+BAG:mayconlon add 8xBó hoa hồng xanh (old: 7) lydo: Đổi bó hoa hồng xanh at 03/11/2023 1:50 PM
+BAG:mayconlon add 9xBó hoa hồng xanh (old: 8) lydo: Đổi bó hoa hồng xanh at 03/11/2023 1:50 PM
+BAG:mayconlon add 10xBó hoa hồng xanh (old: 9) lydo: Đổi bó hoa hồng xanh at 03/11/2023 1:50 PM
+BAG:mayconlon add 1xBó hoa hồng vàng lydo: Đổi bó hoa hồng đỏ at 03/11/2023 1:50 PM
+BAG:mayconlon add 2xBó hoa hồng vàng (old: 1) lydo: Đổi bó hoa hồng đỏ at 03/11/2023 1:51 PM
+BAG:mayconlon add 3xBó hoa hồng vàng (old: 2) lydo: Đổi bó hoa hồng đỏ at 03/11/2023 1:51 PM
+BAG:mayconlon add 4xBó hoa hồng vàng (old: 3) lydo: Đổi bó hoa hồng đỏ at 03/11/2023 1:51 PM
+BAG:mayconlon add 5xBó hoa hồng vàng (old: 4) lydo: Đổi bó hoa hồng đỏ at 03/11/2023 1:51 PM
+BAG:mayconlon add 6xBó hoa hồng vàng (old: 5) lydo: Đổi bó hoa hồng đỏ at 03/11/2023 1:51 PM
+BAG:mayconlon add 7xBó hoa hồng vàng (old: 6) lydo: Đổi bó hoa hồng đỏ at 03/11/2023 1:51 PM
+BAG:mayconlon add 8xBó hoa hồng vàng (old: 7) lydo: Đổi bó hoa hồng đỏ at 03/11/2023 1:51 PM
+BAG:mayconlon add 9xBó hoa hồng vàng (old: 8) lydo: Đổi bó hoa hồng đỏ at 03/11/2023 1:51 PM
+BAG:mayconlon add 10xBó hoa hồng vàng (old: 9) lydo: Đổi bó hoa hồng đỏ at 03/11/2023 1:51 PM
+BAG:mayconlon add 1xGiỏ hoa lydo: Mua từ bill at 03/11/2023 1:51 PM
+BAG:mayconlon add 2xGiỏ hoa (old: 1) lydo: Mua từ bill at 03/11/2023 1:51 PM
+BAG:mayconlon add 3xGiỏ hoa (old: 2) lydo: Mua từ bill at 03/11/2023 1:51 PM
+BAG:mayconlon add 11xBó hoa hồng đỏ (old: 10) lydo: Đổi bó hoa hồng đỏ at 03/11/2023 1:52 PM
+BAG:mayconlon add 12xBó hoa hồng đỏ (old: 11) lydo: Đổi bó hoa hồng đỏ at 03/11/2023 1:52 PM
+BAG:mayconlon add 13xBó hoa hồng đỏ (old: 12) lydo: Đổi bó hoa hồng đỏ at 03/11/2023 1:52 PM
+BAG:mayconlon add 14xBó hoa hồng đỏ (old: 13) lydo: Đổi bó hoa hồng đỏ at 03/11/2023 1:52 PM
+BAG:mayconlon add 15xBó hoa hồng đỏ (old: 14) lydo: Đổi bó hoa hồng đỏ at 03/11/2023 1:52 PM
+BAG:mayconlon add 16xBó hoa hồng đỏ (old: 15) lydo: Đổi bó hoa hồng đỏ at 03/11/2023 1:52 PM
+BAG:mayconlon add 17xBó hoa hồng đỏ (old: 16) lydo: Đổi bó hoa hồng đỏ at 03/11/2023 1:52 PM
+BAG:mayconlon add 18xBó hoa hồng đỏ (old: 17) lydo: Đổi bó hoa hồng đỏ at 03/11/2023 1:53 PM
+BAG:mayconlon add 19xBó hoa hồng đỏ (old: 18) lydo: Đổi bó hoa hồng đỏ at 03/11/2023 1:53 PM
+BAG:mayconlon add 20xBó hoa hồng đỏ (old: 19) lydo: Đổi bó hoa hồng đỏ at 03/11/2023 1:53 PM
+BAG:mayconlon add 21xBó hoa hồng đỏ (old: 20) lydo: Đổi bó hoa hồng đỏ at 03/11/2023 1:53 PM
+BAG:mayconlon add 22xBó hoa hồng đỏ (old: 21) lydo: Đổi bó hoa hồng đỏ at 03/11/2023 1:53 PM
+BAG:mayconlon add 23xBó hoa hồng đỏ (old: 22) lydo: Đổi bó hoa hồng đỏ at 03/11/2023 1:53 PM
+BAG:mayconlon add 24xBó hoa hồng đỏ (old: 23) lydo: Đổi bó hoa hồng đỏ at 03/11/2023 1:53 PM
+BAG:mayconlon add 25xBó hoa hồng đỏ (old: 24) lydo: Đổi bó hoa hồng đỏ at 03/11/2023 1:53 PM
+BAG:mayconlon add 26xBó hoa hồng đỏ (old: 25) lydo: Đổi bó hoa hồng đỏ at 03/11/2023 1:53 PM
+BAG:mayconlon add 27xBó hoa hồng đỏ (old: 26) lydo: Đổi bó hoa hồng đỏ at 03/11/2023 1:53 PM
+BAG:mayconlon add 28xBó hoa hồng đỏ (old: 27) lydo: Đổi bó hoa hồng đỏ at 03/11/2023 1:53 PM
+BAG:mayconlon add 29xBó hoa hồng đỏ (old: 28) lydo: Đổi bó hoa hồng đỏ at 03/11/2023 1:53 PM
+BAG:mayconlon add 30xBó hoa hồng đỏ (old: 29) lydo: Đổi bó hoa hồng đỏ at 03/11/2023 1:53 PM
+BAG:mayconlon add 31xBó hoa hồng đỏ (old: 30) lydo: Đổi bó hoa hồng đỏ at 03/11/2023 1:53 PM
+BAG:mayconlon add 32xBó hoa hồng đỏ (old: 31) lydo: Đổi bó hoa hồng đỏ at 03/11/2023 1:53 PM
+BAG:mayconlon add 33xBó hoa hồng đỏ (old: 32) lydo: Đổi bó hoa hồng đỏ at 03/11/2023 1:53 PM
+BAG:mayconlon add 34xBó hoa hồng đỏ (old: 33) lydo: Đổi bó hoa hồng đỏ at 03/11/2023 1:54 PM
+BAG:mayconlon add 35xBó hoa hồng đỏ (old: 34) lydo: Đổi bó hoa hồng đỏ at 03/11/2023 1:54 PM
+BAG:mayconlon add 36xBó hoa hồng đỏ (old: 35) lydo: Đổi bó hoa hồng đỏ at 03/11/2023 1:54 PM
+BAG:mayconlon add 37xBó hoa hồng đỏ (old: 36) lydo: Đổi bó hoa hồng đỏ at 03/11/2023 1:54 PM
+BAG:mayconlon add 38xBó hoa hồng đỏ (old: 37) lydo: Đổi bó hoa hồng đỏ at 03/11/2023 1:54 PM
+BAG:mayconlon add 39xBó hoa hồng đỏ (old: 38) lydo: Đổi bó hoa hồng đỏ at 03/11/2023 1:54 PM
+BAG:mayconlon add 40xBó hoa hồng đỏ (old: 39) lydo: Đổi bó hoa hồng đỏ at 03/11/2023 1:54 PM
+BAG:mayconlon add 41xBó hoa hồng đỏ (old: 40) lydo: Đổi bó hoa hồng đỏ at 03/11/2023 1:54 PM
+BAG:mayconlon add 42xBó hoa hồng đỏ (old: 41) lydo: Đổi bó hoa hồng đỏ at 03/11/2023 1:54 PM
+BAG:mayconlon add 43xBó hoa hồng đỏ (old: 42) lydo: Đổi bó hoa hồng đỏ at 03/11/2023 1:54 PM
+BAG:mayconlon add 44xBó hoa hồng đỏ (old: 43) lydo: Đổi bó hoa hồng đỏ at 03/11/2023 1:54 PM
+BAG:mayconlon add 45xBó hoa hồng đỏ (old: 44) lydo: Đổi bó hoa hồng đỏ at 03/11/2023 1:54 PM
+BAG:mayconlon add 46xBó hoa hồng đỏ (old: 45) lydo: Đổi bó hoa hồng đỏ at 03/11/2023 1:54 PM
+BAG:mayconlon add 47xBó hoa hồng đỏ (old: 46) lydo: Đổi bó hoa hồng đỏ at 03/11/2023 1:54 PM
+BAG:mayconlon add 48xBó hoa hồng đỏ (old: 47) lydo: Đổi bó hoa hồng đỏ at 03/11/2023 1:54 PM
+BAG:mayconlon add 49xBó hoa hồng đỏ (old: 48) lydo: Đổi bó hoa hồng đỏ at 03/11/2023 1:54 PM
+BAG:mayconlon add 50xBó hoa hồng đỏ (old: 49) lydo: Đổi bó hoa hồng đỏ at 03/11/2023 1:54 PM
+BAG:mayconlon add 11xBó hoa hồng xanh (old: 10) lydo: Đổi bó hoa hồng xanh at 03/11/2023 1:54 PM
+BAG:mayconlon add 12xBó hoa hồng xanh (old: 11) lydo: Đổi bó hoa hồng xanh at 03/11/2023 1:55 PM
+BAG:mayconlon add 13xBó hoa hồng xanh (old: 12) lydo: Đổi bó hoa hồng xanh at 03/11/2023 1:55 PM
+BAG:mayconlon add 14xBó hoa hồng xanh (old: 13) lydo: Đổi bó hoa hồng xanh at 03/11/2023 1:55 PM
+BAG:mayconlon add 15xBó hoa hồng xanh (old: 14) lydo: Đổi bó hoa hồng xanh at 03/11/2023 1:55 PM
+BAG:mayconlon add 16xBó hoa hồng xanh (old: 15) lydo: Đổi bó hoa hồng xanh at 03/11/2023 1:55 PM
+BAG:mayconlon add 17xBó hoa hồng xanh (old: 16) lydo: Đổi bó hoa hồng xanh at 03/11/2023 1:55 PM
+BAG:mayconlon add 18xBó hoa hồng xanh (old: 17) lydo: Đổi bó hoa hồng xanh at 03/11/2023 1:55 PM
+BAG:mayconlon add 19xBó hoa hồng xanh (old: 18) lydo: Đổi bó hoa hồng xanh at 03/11/2023 1:55 PM
+BAG:mayconlon add 20xBó hoa hồng xanh (old: 19) lydo: Đổi bó hoa hồng xanh at 03/11/2023 1:55 PM
+BAG:mayconlon add 21xBó hoa hồng xanh (old: 20) lydo: Đổi bó hoa hồng xanh at 03/11/2023 1:55 PM
+BAG:mayconlon add 22xBó hoa hồng xanh (old: 21) lydo: Đổi bó hoa hồng xanh at 03/11/2023 1:55 PM
+BAG:mayconlon add 23xBó hoa hồng xanh (old: 22) lydo: Đổi bó hoa hồng xanh at 03/11/2023 1:55 PM
+BAG:mayconlon add 24xBó hoa hồng xanh (old: 23) lydo: Đổi bó hoa hồng xanh at 03/11/2023 1:55 PM
+BAG:mayconlon add 25xBó hoa hồng xanh (old: 24) lydo: Đổi bó hoa hồng xanh at 03/11/2023 1:55 PM
+BAG:mayconlon add 26xBó hoa hồng xanh (old: 25) lydo: Đổi bó hoa hồng xanh at 03/11/2023 1:55 PM
+BAG:mayconlon add 27xBó hoa hồng xanh (old: 26) lydo: Đổi bó hoa hồng xanh at 03/11/2023 1:55 PM
+BAG:mayconlon add 28xBó hoa hồng xanh (old: 27) lydo: Đổi bó hoa hồng xanh at 03/11/2023 1:55 PM
+BAG:mayconlon add 29xBó hoa hồng xanh (old: 28) lydo: Đổi bó hoa hồng xanh at 03/11/2023 1:55 PM
+BAG:mayconlon add 30xBó hoa hồng xanh (old: 29) lydo: Đổi bó hoa hồng xanh at 03/11/2023 1:55 PM
+BAG:mayconlon add 31xBó hoa hồng xanh (old: 30) lydo: Đổi bó hoa hồng xanh at 03/11/2023 1:55 PM
+BAG:mayconlon add 32xBó hoa hồng xanh (old: 31) lydo: Đổi bó hoa hồng xanh at 03/11/2023 1:55 PM
+BAG:mayconlon add 33xBó hoa hồng xanh (old: 32) lydo: Đổi bó hoa hồng xanh at 03/11/2023 1:55 PM
+BAG:mayconlon add 34xBó hoa hồng xanh (old: 33) lydo: Đổi bó hoa hồng xanh at 03/11/2023 1:55 PM
+BAG:mayconlon add 35xBó hoa hồng xanh (old: 34) lydo: Đổi bó hoa hồng xanh at 03/11/2023 1:55 PM
+BAG:mayconlon add 36xBó hoa hồng xanh (old: 35) lydo: Đổi bó hoa hồng xanh at 03/11/2023 1:55 PM
+BAG:mayconlon add 37xBó hoa hồng xanh (old: 36) lydo: Đổi bó hoa hồng xanh at 03/11/2023 1:55 PM
+BAG:mayconlon add 38xBó hoa hồng xanh (old: 37) lydo: Đổi bó hoa hồng xanh at 03/11/2023 1:55 PM
+BAG:mayconlon add 39xBó hoa hồng xanh (old: 38) lydo: Đổi bó hoa hồng xanh at 03/11/2023 1:55 PM
+BAG:mayconlon add 40xBó hoa hồng xanh (old: 39) lydo: Đổi bó hoa hồng xanh at 03/11/2023 1:55 PM
+BAG:mayconlon add 41xBó hoa hồng xanh (old: 40) lydo: Đổi bó hoa hồng xanh at 03/11/2023 1:56 PM
+BAG:mayconlon add 42xBó hoa hồng xanh (old: 41) lydo: Đổi bó hoa hồng xanh at 03/11/2023 1:56 PM
+BAG:mayconlon add 43xBó hoa hồng xanh (old: 42) lydo: Đổi bó hoa hồng xanh at 03/11/2023 1:56 PM
+BAG:mayconlon add 44xBó hoa hồng xanh (old: 43) lydo: Đổi bó hoa hồng xanh at 03/11/2023 1:56 PM
+BAG:mayconlon add 45xBó hoa hồng xanh (old: 44) lydo: Đổi bó hoa hồng xanh at 03/11/2023 1:56 PM
+BAG:mayconlon add 46xBó hoa hồng xanh (old: 45) lydo: Đổi bó hoa hồng xanh at 03/11/2023 1:56 PM
+BAG:mayconlon add 47xBó hoa hồng xanh (old: 46) lydo: Đổi bó hoa hồng xanh at 03/11/2023 1:56 PM
+BAG:mayconlon add 48xBó hoa hồng xanh (old: 47) lydo: Đổi bó hoa hồng xanh at 03/11/2023 1:56 PM
+BAG:mayconlon add 49xBó hoa hồng xanh (old: 48) lydo: Đổi bó hoa hồng xanh at 03/11/2023 1:56 PM
+BAG:mayconlon add 50xBó hoa hồng xanh (old: 49) lydo: Đổi bó hoa hồng xanh at 03/11/2023 1:56 PM
+BAG:mayconlon add 11xBó hoa hồng vàng (old: 10) lydo: Đổi bó hoa hồng đỏ at 03/11/2023 1:56 PM
+BAG:mayconlon add 12xBó hoa hồng vàng (old: 11) lydo: Đổi bó hoa hồng đỏ at 03/11/2023 1:56 PM
+BAG:mayconlon add 13xBó hoa hồng vàng (old: 12) lydo: Đổi bó hoa hồng đỏ at 03/11/2023 1:56 PM
+BAG:mayconlon add 14xBó hoa hồng vàng (old: 13) lydo: Đổi bó hoa hồng đỏ at 03/11/2023 1:56 PM
+BAG:mayconlon add 15xBó hoa hồng vàng (old: 14) lydo: Đổi bó hoa hồng đỏ at 03/11/2023 1:56 PM
+BAG:mayconlon add 16xBó hoa hồng vàng (old: 15) lydo: Đổi bó hoa hồng đỏ at 03/11/2023 1:56 PM
+BAG:mayconlon add 17xBó hoa hồng vàng (old: 16) lydo: Đổi bó hoa hồng đỏ at 03/11/2023 1:56 PM
+BAG:mayconlon add 18xBó hoa hồng vàng (old: 17) lydo: Đổi bó hoa hồng đỏ at 03/11/2023 1:56 PM
+BAG:mayconlon add 19xBó hoa hồng vàng (old: 18) lydo: Đổi bó hoa hồng đỏ at 03/11/2023 1:56 PM
+BAG:mayconlon add 20xBó hoa hồng vàng (old: 19) lydo: Đổi bó hoa hồng đỏ at 03/11/2023 1:56 PM
+BAG:mayconlon add 21xBó hoa hồng vàng (old: 20) lydo: Đổi bó hoa hồng đỏ at 03/11/2023 1:56 PM
+BAG:mayconlon add 22xBó hoa hồng vàng (old: 21) lydo: Đổi bó hoa hồng đỏ at 03/11/2023 1:56 PM
+BAG:mayconlon add 23xBó hoa hồng vàng (old: 22) lydo: Đổi bó hoa hồng đỏ at 03/11/2023 1:57 PM
+BAG:mayconlon add 24xBó hoa hồng vàng (old: 23) lydo: Đổi bó hoa hồng đỏ at 03/11/2023 1:57 PM
+BAG:mayconlon add 25xBó hoa hồng vàng (old: 24) lydo: Đổi bó hoa hồng đỏ at 03/11/2023 1:57 PM
+BAG:mayconlon add 26xBó hoa hồng vàng (old: 25) lydo: Đổi bó hoa hồng đỏ at 03/11/2023 1:57 PM
+BAG:mayconlon add 27xBó hoa hồng vàng (old: 26) lydo: Đổi bó hoa hồng đỏ at 03/11/2023 1:57 PM
+BAG:mayconlon add 28xBó hoa hồng vàng (old: 27) lydo: Đổi bó hoa hồng đỏ at 03/11/2023 1:57 PM
+BAG:mayconlon add 29xBó hoa hồng vàng (old: 28) lydo: Đổi bó hoa hồng đỏ at 03/11/2023 1:57 PM
+BAG:mayconlon add 30xBó hoa hồng vàng (old: 29) lydo: Đổi bó hoa hồng đỏ at 03/11/2023 1:57 PM
+BAG:mayconlon add 31xBó hoa hồng vàng (old: 30) lydo: Đổi bó hoa hồng đỏ at 03/11/2023 1:57 PM
+BAG:mayconlon add 32xBó hoa hồng vàng (old: 31) lydo: Đổi bó hoa hồng đỏ at 03/11/2023 1:57 PM
+BAG:mayconlon add 33xBó hoa hồng vàng (old: 32) lydo: Đổi bó hoa hồng đỏ at 03/11/2023 1:57 PM
+BAG:mayconlon add 34xBó hoa hồng vàng (old: 33) lydo: Đổi bó hoa hồng đỏ at 03/11/2023 1:57 PM
+BAG:mayconlon add 35xBó hoa hồng vàng (old: 34) lydo: Đổi bó hoa hồng đỏ at 03/11/2023 1:57 PM
+BAG:mayconlon add 36xBó hoa hồng vàng (old: 35) lydo: Đổi bó hoa hồng đỏ at 03/11/2023 1:57 PM
+BAG:mayconlon add 37xBó hoa hồng vàng (old: 36) lydo: Đổi bó hoa hồng đỏ at 03/11/2023 1:57 PM
+BAG:mayconlon add 38xBó hoa hồng vàng (old: 37) lydo: Đổi bó hoa hồng đỏ at 03/11/2023 1:57 PM
+BAG:mayconlon add 39xBó hoa hồng vàng (old: 38) lydo: Đổi bó hoa hồng đỏ at 03/11/2023 1:57 PM
+BAG:mayconlon add 40xBó hoa hồng vàng (old: 39) lydo: Đổi bó hoa hồng đỏ at 03/11/2023 1:57 PM
+BAG:mayconlon add 41xBó hoa hồng vàng (old: 40) lydo: Đổi bó hoa hồng đỏ at 03/11/2023 1:57 PM
+BAG:mayconlon add 42xBó hoa hồng vàng (old: 41) lydo: Đổi bó hoa hồng đỏ at 03/11/2023 1:58 PM
+BAG:mayconlon add 43xBó hoa hồng vàng (old: 42) lydo: Đổi bó hoa hồng đỏ at 03/11/2023 1:58 PM
+BAG:mayconlon add 44xBó hoa hồng vàng (old: 43) lydo: Đổi bó hoa hồng đỏ at 03/11/2023 1:58 PM
+BAG:mayconlon add 45xBó hoa hồng vàng (old: 44) lydo: Đổi bó hoa hồng đỏ at 03/11/2023 1:58 PM
+BAG:mayconlon add 46xBó hoa hồng vàng (old: 45) lydo: Đổi bó hoa hồng đỏ at 03/11/2023 1:58 PM
+BAG:mayconlon add 47xBó hoa hồng vàng (old: 46) lydo: Đổi bó hoa hồng đỏ at 03/11/2023 1:58 PM
+BAG:mayconlon add 48xBó hoa hồng vàng (old: 47) lydo: Đổi bó hoa hồng đỏ at 03/11/2023 1:58 PM
+BAG:mayconlon add 49xBó hoa hồng vàng (old: 48) lydo: Đổi bó hoa hồng đỏ at 03/11/2023 1:58 PM
+BAG:mayconlon add 50xBó hoa hồng vàng (old: 49) lydo: Đổi bó hoa hồng đỏ at 03/11/2023 1:58 PM
+BAG:mayconlon add 51xBó hoa hồng vàng (old: 50) lydo: Đổi bó hoa hồng đỏ at 03/11/2023 1:58 PM
+BAG:mayconlon add 4xGiỏ hoa (old: 3) lydo: Mua từ bill at 03/11/2023 1:58 PM
+BAG:mayconlon add 5xGiỏ hoa (old: 4) lydo: Mua từ bill at 03/11/2023 1:58 PM
+BAG:mayconlon add 6xGiỏ hoa (old: 5) lydo: Mua từ bill at 03/11/2023 1:58 PM
+BAG:mayconlon add 7xGiỏ hoa (old: 6) lydo: Mua từ bill at 03/11/2023 1:58 PM
+BAG:mayconlon add 8xGiỏ hoa (old: 7) lydo: Mua từ bill at 03/11/2023 1:58 PM
+BAG:mayconlon add 9xGiỏ hoa (old: 8) lydo: Mua từ bill at 03/11/2023 1:58 PM
+BAG:mayconlon add 10xGiỏ hoa (old: 9) lydo: Mua từ bill at 03/11/2023 1:58 PM
+BAG:mayconlon add 11xGiỏ hoa (old: 10) lydo: Mua từ bill at 03/11/2023 1:58 PM
+BAG:mayconlon add 12xGiỏ hoa (old: 11) lydo: Mua từ bill at 03/11/2023 1:58 PM
+BAG:mayconlon add 13xGiỏ hoa (old: 12) lydo: Mua từ bill at 03/11/2023 1:58 PM
+BAG:mayconlon add 14xGiỏ hoa (old: 13) lydo: Mua từ bill at 03/11/2023 1:58 PM
+BAG:mayconlon add 15xGiỏ hoa (old: 14) lydo: Mua từ bill at 03/11/2023 1:58 PM
+BAG:mayconlon add 1xGiỏ hoa hồng đỏ lydo: Đổi giỏ hoa hồng đỏ at 03/11/2023 1:58 PM
+BAG:mayconlon add 2xGiỏ hoa hồng đỏ (old: 1) lydo: Đổi giỏ hoa hồng đỏ at 03/11/2023 1:59 PM
+BAG:mayconlon add 3xGiỏ hoa hồng đỏ (old: 2) lydo: Đổi giỏ hoa hồng đỏ at 03/11/2023 1:59 PM
+BAG:mayconlon add 4xGiỏ hoa hồng đỏ (old: 3) lydo: Đổi giỏ hoa hồng đỏ at 03/11/2023 1:59 PM
+BAG:mayconlon add 5xGiỏ hoa hồng đỏ (old: 4) lydo: Đổi giỏ hoa hồng đỏ at 03/11/2023 1:59 PM
+BAG:mayconlon add 1xGiỏ hoa hồng xanh lydo: Đổi giỏ hoa hồng xanh at 03/11/2023 1:59 PM
+BAG:mayconlon add 2xGiỏ hoa hồng xanh (old: 1) lydo: Đổi giỏ hoa hồng xanh at 03/11/2023 1:59 PM
+BAG:mayconlon add 3xGiỏ hoa hồng xanh (old: 2) lydo: Đổi giỏ hoa hồng xanh at 03/11/2023 1:59 PM
+BAG:mayconlon add 4xGiỏ hoa hồng xanh (old: 3) lydo: Đổi giỏ hoa hồng xanh at 03/11/2023 1:59 PM
+BAG:mayconlon add 5xGiỏ hoa hồng xanh (old: 4) lydo: Đổi giỏ hoa hồng xanh at 03/11/2023 1:59 PM
+BAG:mayconlon add 1xGiỏ hoa hồng vàng lydo: Đổi giỏ hoa hồng vàng at 03/11/2023 1:59 PM
+BAG:mayconlon add 2xGiỏ hoa hồng vàng (old: 1) lydo: Đổi giỏ hoa hồng vàng at 03/11/2023 1:59 PM
+BAG:mayconlon add 3xGiỏ hoa hồng vàng (old: 2) lydo: Đổi giỏ hoa hồng vàng at 03/11/2023 1:59 PM
+BAG:mayconlon add 4xGiỏ hoa hồng vàng (old: 3) lydo: Đổi giỏ hoa hồng vàng at 03/11/2023 1:59 PM
+BAG:mayconlon add 5xGiỏ hoa hồng vàng (old: 4) lydo: Đổi giỏ hoa hồng vàng at 03/11/2023 1:59 PM
+BAG:mayconlon add 1xThiệp chúc mừng đỏ lydo: Mua từ bill at 03/11/2023 2:00 PM
+BAG:mayconlon add 1xHộp quà VIP 8/3 lydo: Đổi hộp quà VIP 8/3 at 03/11/2023 2:00 PM
+BAG:mayconlon add 1xCải trang Thỏ Hồng lydo: CSKB at 03/11/2023 2:00 PM
+BAG:mayconlon add 1xGiáp tập luyện cấp 3 lydo: Lấy từ body vào hành trang at 03/11/2023 2:00 PM
+BAG:mayconlon add 1xĐá Saphia lydo: Nhặt từ map at 03/11/2023 2:01 PM
+BAG:mayconlon add 1xGiáp tập luyện cấp 3 lydo: Lấy từ body vào hành trang at 03/11/2023 2:03 PM
+BAG:mayconlon add 63xNgọc Rồng 3 sao (old: 62) lydo: Nhặt từ map at 03/11/2023 2:05 PM
+BAG:mayconlon add 1xGiáp tập luyện cấp 3 lydo: Lấy từ body vào hành trang at 03/11/2023 2:07 PM
+BAG:mayconlon add 64xNgọc Rồng 3 sao (old: 63) lydo: Nhặt từ map at 03/11/2023 2:09 PM
+BAG:mayconlon add 1xGiáp tập luyện cấp 3 lydo: Lấy từ body vào hành trang at 03/11/2023 2:10 PM
+BAG:mayconlon add 65xNgọc Rồng 3 sao (old: 64) lydo: Nhặt từ map at 03/11/2023 2:11 PM
+BAG:mayconlon add 1xHoa hồng đỏ lydo: Nhặt từ map at 03/11/2023 2:11 PM
+BAG:mayconlon add 1xCải trang Thỏ Hồng lydo: Lấy từ body vào hành trang at 03/11/2023 2:14 PM
+BAG:mayconlon add 1xGiầy vải thô lydo: Lấy từ rương qua người at 03/11/2023 2:14 PM
+BAG:mayconlon add 1xÁo vải thô lydo: Lấy từ rương qua người at 03/11/2023 2:14 PM
+BAG:mayconlon add 1xQuần vải thô lydo: Lấy từ rương qua người at 03/11/2023 2:14 PM
+BAG:mayconlon add 99xNgọc Rồng 4 sao lydo: Lấy từ rương qua người at 03/11/2023 2:15 PM
+BAG:mayconlon add 66xNgọc Rồng 3 sao (old: 65) lydo: Nhập ngọc at 03/11/2023 2:15 PM
+BAG:mayconlon add 67xNgọc Rồng 3 sao (old: 66) lydo: Nhập ngọc at 03/11/2023 2:15 PM
+BAG:mayconlon add 68xNgọc Rồng 3 sao (old: 67) lydo: Nhập ngọc at 03/11/2023 2:15 PM
+BAG:mayconlon add 69xNgọc Rồng 3 sao (old: 68) lydo: Nhập ngọc at 03/11/2023 2:15 PM
+BAG:mayconlon add 70xNgọc Rồng 3 sao (old: 69) lydo: Nhập ngọc at 03/11/2023 2:15 PM
+BAG:mayconlon add 71xNgọc Rồng 3 sao (old: 70) lydo: Nhập ngọc at 03/11/2023 2:15 PM
+BAG:mayconlon add 72xNgọc Rồng 3 sao (old: 71) lydo: Nhập ngọc at 03/11/2023 2:15 PM
+BAG:mayconlon add 73xNgọc Rồng 3 sao (old: 72) lydo: Nhập ngọc at 03/11/2023 2:15 PM
+BAG:mayconlon add 74xNgọc Rồng 3 sao (old: 73) lydo: Nhập ngọc at 03/11/2023 2:15 PM
+BAG:mayconlon add 75xNgọc Rồng 3 sao (old: 74) lydo: Nhập ngọc at 03/11/2023 2:15 PM
+BAG:mayconlon add 76xNgọc Rồng 3 sao (old: 75) lydo: Nhập ngọc at 03/11/2023 2:15 PM
+BAG:mayconlon add 77xNgọc Rồng 3 sao (old: 76) lydo: Nhập ngọc at 03/11/2023 2:15 PM
+BAG:mayconlon add 78xNgọc Rồng 3 sao (old: 77) lydo: Nhập ngọc at 03/11/2023 2:15 PM
+BAG:mayconlon add 79xNgọc Rồng 3 sao (old: 78) lydo: Nhập ngọc at 03/11/2023 2:15 PM
+BAG:mayconlon add 87xNgọc Rồng 5 sao lydo: Lấy từ rương qua người at 03/11/2023 2:16 PM
+BAG:mayconlon add 81xNgọc Rồng 6 sao lydo: Lấy từ rương qua người at 03/11/2023 2:16 PM
+BAG:mayconlon add 9xNgọc Rồng 4 sao (old: 1) lydo: Lấy từ rương qua người at 03/11/2023 2:16 PM
+BAG:mayconlon add 39xCuồng nộ lydo: Lấy từ rương qua người at 03/11/2023 2:17 PM
+BAG:mayconlon add 1xMáy dò Capsule kì bí lydo: Mua từ cửa hàng at 03/11/2023 2:17 PM
+BAG:mayconlon add 2xMáy dò Capsule kì bí (old: 1) lydo: Mua từ cửa hàng at 03/11/2023 2:17 PM
+BAG:mayconlon add 3xMáy dò Capsule kì bí (old: 2) lydo: Mua từ cửa hàng at 03/11/2023 2:17 PM
+BAG:mayconlon add 4xMáy dò Capsule kì bí (old: 3) lydo: Mua từ cửa hàng at 03/11/2023 2:17 PM
+BAG:mayconlon add 5xMáy dò Capsule kì bí (old: 4) lydo: Mua từ cửa hàng at 03/11/2023 2:17 PM
+BAG:mayconlon add 88xNgọc Rồng 5 sao (old: 87) lydo: Nhặt từ map at 03/11/2023 2:19 PM
+BAG:mayconlon add 1xHoa hồng xanh lydo: Nhặt từ map at 03/11/2023 2:19 PM
+BAG:mayconlon add 1xViên Capsule kì bí lydo: Nhặt từ map at 03/11/2023 2:19 PM
+BAG:mayconlon add 2xHoa hồng xanh (old: 1) lydo: Nhặt từ map at 03/11/2023 2:19 PM
+BAG:mayconlon add 2xViên Capsule kì bí (old: 1) lydo: Nhặt từ map at 03/11/2023 2:19 PM
+BAG:mayconlon add 3xViên Capsule kì bí (old: 2) lydo: Nhặt từ map at 03/11/2023 2:19 PM
+BAG:mayconlon add 3xHoa hồng xanh (old: 2) lydo: Nhặt từ map at 03/11/2023 2:19 PM
+BAG:mayconlon add 4xHoa hồng xanh (old: 3) lydo: Nhặt từ map at 03/11/2023 2:19 PM
+BAG:mayconlon add 4xViên Capsule kì bí (old: 3) lydo: Nhặt từ map at 03/11/2023 2:19 PM
+BAG:mayconlon add 1xHoa hồng vàng lydo: Nhặt từ map at 03/11/2023 2:19 PM
+BAG:mayconlon add 5xViên Capsule kì bí (old: 4) lydo: Nhặt từ map at 03/11/2023 2:19 PM
+BAG:mayconlon add 1xHoa hồng đỏ lydo: Nhặt từ map at 03/11/2023 2:19 PM
+BAG:mayconlon add 6xViên Capsule kì bí (old: 5) lydo: Nhặt từ map at 03/11/2023 2:19 PM
+BAG:mayconlon add 7xViên Capsule kì bí (old: 6) lydo: Nhặt từ map at 03/11/2023 2:19 PM
+BAG:mayconlon add 5xHoa hồng xanh (old: 4) lydo: Nhặt từ map at 03/11/2023 2:19 PM
+BAG:mayconlon add 8xViên Capsule kì bí (old: 7) lydo: Nhặt từ map at 03/11/2023 2:19 PM
+BAG:mayconlon add 6xHoa hồng xanh (old: 5) lydo: Nhặt từ map at 03/11/2023 2:19 PM
+BAG:mayconlon add 1xĐá Titan lydo: Nhặt từ map at 03/11/2023 2:20 PM
+BAG:mayconlon add 2xHoa hồng đỏ (old: 1) lydo: Nhặt từ map at 03/11/2023 2:20 PM
+BAG:mayconlon add 9xViên Capsule kì bí (old: 8) lydo: Nhặt từ map at 03/11/2023 2:20 PM
+BAG:mayconlon add 2xHoa hồng vàng (old: 1) lydo: Nhặt từ map at 03/11/2023 2:20 PM
+BAG:mayconlon add 3xHoa hồng đỏ (old: 2) lydo: Nhặt từ map at 03/11/2023 2:20 PM
+BAG:mayconlon add 7xHoa hồng xanh (old: 6) lydo: Nhặt từ map at 03/11/2023 2:20 PM
+BAG:mayconlon add 10xViên Capsule kì bí (old: 9) lydo: Nhặt từ map at 03/11/2023 2:20 PM
+BAG:mayconlon add 3xHoa hồng vàng (old: 2) lydo: Nhặt từ map at 03/11/2023 2:20 PM
+BAG:mayconlon add 11xViên Capsule kì bí (old: 10) lydo: Nhặt từ map at 03/11/2023 2:20 PM
+BAG:mayconlon add 12xViên Capsule kì bí (old: 11) lydo: Nhặt từ map at 03/11/2023 2:20 PM
+BAG:mayconlon add 13xViên Capsule kì bí (old: 12) lydo: Nhặt từ map at 03/11/2023 2:20 PM
+BAG:mayconlon add 8xHoa hồng xanh (old: 7) lydo: Nhặt từ map at 03/11/2023 2:20 PM
+BAG:mayconlon add 1xĐá Ruby lydo: Nhặt từ map at 03/11/2023 2:20 PM
+BAG:mayconlon add 4xHoa hồng đỏ (old: 3) lydo: Nhặt từ map at 03/11/2023 2:20 PM
+BAG:mayconlon add 4xHoa hồng vàng (old: 3) lydo: Nhặt từ map at 03/11/2023 2:20 PM
+BAG:mayconlon add 14xViên Capsule kì bí (old: 13) lydo: Nhặt từ map at 03/11/2023 2:20 PM
+BAG:mayconlon add 9xHoa hồng xanh (old: 8) lydo: Nhặt từ map at 03/11/2023 2:21 PM
+BAG:mayconlon add 15xViên Capsule kì bí (old: 14) lydo: Nhặt từ map at 03/11/2023 2:21 PM
+BAG:mayconlon add 5xHoa hồng đỏ (old: 4) lydo: Nhặt từ map at 03/11/2023 2:21 PM
+BAG:mayconlon add 16xViên Capsule kì bí (old: 15) lydo: Nhặt từ map at 03/11/2023 2:21 PM
+BAG:mayconlon add 6xHoa hồng đỏ (old: 5) lydo: Nhặt từ map at 03/11/2023 2:21 PM
+BAG:mayconlon add 5xHoa hồng vàng (old: 4) lydo: Nhặt từ map at 03/11/2023 2:21 PM
+BAG:mayconlon add 17xViên Capsule kì bí (old: 16) lydo: Nhặt từ map at 03/11/2023 2:21 PM
+BAG:mayconlon add 18xViên Capsule kì bí (old: 17) lydo: Nhặt từ map at 03/11/2023 2:21 PM
+BAG:mayconlon add 19xViên Capsule kì bí (old: 18) lydo: Nhặt từ map at 03/11/2023 2:21 PM
+BAG:mayconlon add 10xNgọc Rồng 4 sao (old: 9) lydo: Nhặt từ map at 03/11/2023 2:21 PM
+BAG:mayconlon add 10xHoa hồng xanh (old: 9) lydo: Nhặt từ map at 03/11/2023 2:21 PM
+BAG:mayconlon add 7xHoa hồng đỏ (old: 6) lydo: Nhặt từ map at 03/11/2023 2:21 PM
+BAG:mayconlon add 20xViên Capsule kì bí (old: 19) lydo: Nhặt từ map at 03/11/2023 2:21 PM
+BAG:mayconlon add 21xViên Capsule kì bí (old: 20) lydo: Nhặt từ map at 03/11/2023 2:21 PM
+BAG:mayconlon add 6xHoa hồng vàng (old: 5) lydo: Nhặt từ map at 03/11/2023 2:21 PM
+BAG:mayconlon add 22xViên Capsule kì bí (old: 21) lydo: Nhặt từ map at 03/11/2023 2:21 PM
+BAG:mayconlon add 7xHoa hồng vàng (old: 6) lydo: Nhặt từ map at 03/11/2023 2:21 PM
+BAG:mayconlon add 23xViên Capsule kì bí (old: 22) lydo: Nhặt từ map at 03/11/2023 2:21 PM
+BAG:mayconlon add 11xHoa hồng xanh (old: 10) lydo: Nhặt từ map at 03/11/2023 2:21 PM
+BAG:mayconlon add 8xHoa hồng vàng (old: 7) lydo: Nhặt từ map at 03/11/2023 2:21 PM
+BAG:mayconlon add 12xHoa hồng xanh (old: 11) lydo: Nhặt từ map at 03/11/2023 2:22 PM
+BAG:mayconlon add 9xHoa hồng vàng (old: 8) lydo: Nhặt từ map at 03/11/2023 2:22 PM
+BAG:mayconlon add 10xHoa hồng vàng (old: 9) lydo: Nhặt từ map at 03/11/2023 2:22 PM
+BAG:mayconlon add 8xHoa hồng đỏ (old: 7) lydo: Nhặt từ map at 03/11/2023 2:22 PM
+BAG:mayconlon add 24xViên Capsule kì bí (old: 23) lydo: Nhặt từ map at 03/11/2023 2:22 PM
+BAG:mayconlon add 25xViên Capsule kì bí (old: 24) lydo: Nhặt từ map at 03/11/2023 2:22 PM
+BAG:mayconlon add 26xViên Capsule kì bí (old: 25) lydo: Nhặt từ map at 03/11/2023 2:22 PM
+BAG:mayconlon add 27xViên Capsule kì bí (old: 26) lydo: Nhặt từ map at 03/11/2023 2:22 PM
+BAG:mayconlon add 13xHoa hồng xanh (old: 12) lydo: Nhặt từ map at 03/11/2023 2:22 PM
+BAG:mayconlon add 28xViên Capsule kì bí (old: 27) lydo: Nhặt từ map at 03/11/2023 2:22 PM
+BAG:mayconlon add 29xViên Capsule kì bí (old: 28) lydo: Nhặt từ map at 03/11/2023 2:22 PM
+BAG:mayconlon add 11xHoa hồng vàng (old: 10) lydo: Nhặt từ map at 03/11/2023 2:22 PM
+BAG:mayconlon add 14xHoa hồng xanh (old: 13) lydo: Nhặt từ map at 03/11/2023 2:22 PM
+BAG:mayconlon add 82xNgọc Rồng 6 sao (old: 81) lydo: Nhặt từ map at 03/11/2023 2:22 PM
+BAG:mayconlon add 30xViên Capsule kì bí (old: 29) lydo: Nhặt từ map at 03/11/2023 2:22 PM
+BAG:mayconlon add 15xHoa hồng xanh (old: 14) lydo: Nhặt từ map at 03/11/2023 2:22 PM
+BAG:mayconlon add 31xViên Capsule kì bí (old: 30) lydo: Nhặt từ map at 03/11/2023 2:22 PM
+BAG:mayconlon add 12xHoa hồng vàng (old: 11) lydo: Nhặt từ map at 03/11/2023 2:22 PM
+BAG:mayconlon add 32xViên Capsule kì bí (old: 31) lydo: Nhặt từ map at 03/11/2023 2:22 PM
+BAG:mayconlon add 9xHoa hồng đỏ (old: 8) lydo: Nhặt từ map at 03/11/2023 2:22 PM
+BAG:mayconlon add 33xViên Capsule kì bí (old: 32) lydo: Nhặt từ map at 03/11/2023 2:23 PM
+BAG:mayconlon add 34xViên Capsule kì bí (old: 33) lydo: Nhặt từ map at 03/11/2023 2:23 PM
+BAG:mayconlon add 2xĐá Ruby (old: 1) lydo: Nhặt từ map at 03/11/2023 2:23 PM
+BAG:mayconlon add 10xHoa hồng đỏ (old: 9) lydo: Nhặt từ map at 03/11/2023 2:23 PM
+BAG:mayconlon add 13xHoa hồng vàng (old: 12) lydo: Nhặt từ map at 03/11/2023 2:23 PM
+BAG:mayconlon add 14xHoa hồng vàng (old: 13) lydo: Nhặt từ map at 03/11/2023 2:23 PM
+BAG:mayconlon add 15xHoa hồng vàng (old: 14) lydo: Nhặt từ map at 03/11/2023 2:23 PM
+BAG:mayconlon add 16xHoa hồng vàng (old: 15) lydo: Nhặt từ map at 03/11/2023 2:23 PM
+BAG:mayconlon add 17xHoa hồng vàng (old: 16) lydo: Nhặt từ map at 03/11/2023 2:23 PM
+BAG:mayconlon add 11xHoa hồng đỏ (old: 10) lydo: Nhặt từ map at 03/11/2023 2:23 PM
+BAG:mayconlon add 18xHoa hồng vàng (old: 17) lydo: Nhặt từ map at 03/11/2023 2:23 PM
+BAG:mayconlon add 19xHoa hồng vàng (old: 18) lydo: Nhặt từ map at 03/11/2023 2:23 PM
+BAG:mayconlon add 35xViên Capsule kì bí (old: 34) lydo: Nhặt từ map at 03/11/2023 2:23 PM
+BAG:mayconlon add 16xHoa hồng xanh (old: 15) lydo: Nhặt từ map at 03/11/2023 2:23 PM
+BAG:mayconlon add 36xViên Capsule kì bí (old: 35) lydo: Nhặt từ map at 03/11/2023 2:23 PM
+BAG:mayconlon add 17xHoa hồng xanh (old: 16) lydo: Nhặt từ map at 03/11/2023 2:23 PM
+BAG:mayconlon add 37xViên Capsule kì bí (old: 36) lydo: Nhặt từ map at 03/11/2023 2:23 PM
+BAG:mayconlon add 12xHoa hồng đỏ (old: 11) lydo: Nhặt từ map at 03/11/2023 2:23 PM
+BAG:mayconlon add 20xHoa hồng vàng (old: 19) lydo: Nhặt từ map at 03/11/2023 2:23 PM
+BAG:mayconlon add 21xHoa hồng vàng (old: 20) lydo: Nhặt từ map at 03/11/2023 2:23 PM
+BAG:mayconlon add 13xHoa hồng đỏ (old: 12) lydo: Nhặt từ map at 03/11/2023 2:23 PM
+BAG:mayconlon add 14xHoa hồng đỏ (old: 13) lydo: Nhặt từ map at 03/11/2023 2:24 PM
+BAG:mayconlon add 15xHoa hồng đỏ (old: 14) lydo: Nhặt từ map at 03/11/2023 2:24 PM
+BAG:mayconlon add 18xHoa hồng xanh (old: 17) lydo: Nhặt từ map at 03/11/2023 2:24 PM
+BAG:mayconlon add 38xViên Capsule kì bí (old: 37) lydo: Nhặt từ map at 03/11/2023 2:24 PM
+BAG:mayconlon add 39xViên Capsule kì bí (old: 38) lydo: Nhặt từ map at 03/11/2023 2:24 PM
+BAG:mayconlon add 16xHoa hồng đỏ (old: 15) lydo: Nhặt từ map at 03/11/2023 2:24 PM
+BAG:mayconlon add 40xViên Capsule kì bí (old: 39) lydo: Nhặt từ map at 03/11/2023 2:24 PM
+BAG:mayconlon add 19xHoa hồng xanh (old: 18) lydo: Nhặt từ map at 03/11/2023 2:24 PM
+BAG:mayconlon add 41xViên Capsule kì bí (old: 40) lydo: Nhặt từ map at 03/11/2023 2:24 PM
+BAG:mayconlon add 22xHoa hồng vàng (old: 21) lydo: Nhặt từ map at 03/11/2023 2:24 PM
+BAG:mayconlon add 23xHoa hồng vàng (old: 22) lydo: Nhặt từ map at 03/11/2023 2:24 PM
+BAG:mayconlon add 42xViên Capsule kì bí (old: 41) lydo: Nhặt từ map at 03/11/2023 2:24 PM
+BAG:mayconlon add 43xViên Capsule kì bí (old: 42) lydo: Nhặt từ map at 03/11/2023 2:24 PM
+BAG:mayconlon add 44xViên Capsule kì bí (old: 43) lydo: Nhặt từ map at 03/11/2023 2:24 PM
+BAG:mayconlon add 20xHoa hồng xanh (old: 19) lydo: Nhặt từ map at 03/11/2023 2:24 PM
+BAG:mayconlon add 45xViên Capsule kì bí (old: 44) lydo: Nhặt từ map at 03/11/2023 2:24 PM
+BAG:mayconlon add 46xViên Capsule kì bí (old: 45) lydo: Nhặt từ map at 03/11/2023 2:24 PM
+BAG:mayconlon add 24xHoa hồng vàng (old: 23) lydo: Nhặt từ map at 03/11/2023 2:24 PM
+BAG:mayconlon add 21xHoa hồng xanh (old: 20) lydo: Nhặt từ map at 03/11/2023 2:24 PM
+BAG:mayconlon add 47xViên Capsule kì bí (old: 46) lydo: Nhặt từ map at 03/11/2023 2:24 PM
+BAG:mayconlon add 25xHoa hồng vàng (old: 24) lydo: Nhặt từ map at 03/11/2023 2:24 PM
+BAG:mayconlon add 48xViên Capsule kì bí (old: 47) lydo: Nhặt từ map at 03/11/2023 2:24 PM
+BAG:mayconlon add 22xHoa hồng xanh (old: 21) lydo: Nhặt từ map at 03/11/2023 2:25 PM
+BAG:mayconlon add 26xHoa hồng vàng (old: 25) lydo: Nhặt từ map at 03/11/2023 2:25 PM
+BAG:mayconlon add 27xHoa hồng vàng (old: 26) lydo: Nhặt từ map at 03/11/2023 2:25 PM
+BAG:mayconlon add 49xViên Capsule kì bí (old: 48) lydo: Nhặt từ map at 03/11/2023 2:25 PM
+BAG:mayconlon add 50xViên Capsule kì bí (old: 49) lydo: Nhặt từ map at 03/11/2023 2:25 PM
+BAG:mayconlon add 17xHoa hồng đỏ (old: 16) lydo: Nhặt từ map at 03/11/2023 2:25 PM
+BAG:mayconlon add 18xHoa hồng đỏ (old: 17) lydo: Nhặt từ map at 03/11/2023 2:25 PM
+BAG:mayconlon add 19xHoa hồng đỏ (old: 18) lydo: Nhặt từ map at 03/11/2023 2:25 PM
+BAG:mayconlon add 23xHoa hồng xanh (old: 22) lydo: Nhặt từ map at 03/11/2023 2:25 PM
+BAG:mayconlon add 51xViên Capsule kì bí (old: 50) lydo: Nhặt từ map at 03/11/2023 2:25 PM
+BAG:mayconlon add 24xHoa hồng xanh (old: 23) lydo: Nhặt từ map at 03/11/2023 2:25 PM
+BAG:mayconlon add 52xViên Capsule kì bí (old: 51) lydo: Nhặt từ map at 03/11/2023 2:25 PM
+BAG:mayconlon add 20xHoa hồng đỏ (old: 19) lydo: Nhặt từ map at 03/11/2023 2:25 PM
+BAG:mayconlon add 21xHoa hồng đỏ (old: 20) lydo: Nhặt từ map at 03/11/2023 2:25 PM
+BAG:mayconlon add 25xHoa hồng xanh (old: 24) lydo: Nhặt từ map at 03/11/2023 2:25 PM
+BAG:mayconlon add 53xViên Capsule kì bí (old: 52) lydo: Nhặt từ map at 03/11/2023 2:25 PM
+BAG:mayconlon add 54xViên Capsule kì bí (old: 53) lydo: Nhặt từ map at 03/11/2023 2:25 PM
+BAG:mayconlon add 28xHoa hồng vàng (old: 27) lydo: Nhặt từ map at 03/11/2023 2:25 PM
+BAG:mayconlon add 26xHoa hồng xanh (old: 25) lydo: Nhặt từ map at 03/11/2023 2:25 PM
+BAG:mayconlon add 55xViên Capsule kì bí (old: 54) lydo: Nhặt từ map at 03/11/2023 2:26 PM
+BAG:mayconlon add 22xHoa hồng đỏ (old: 21) lydo: Nhặt từ map at 03/11/2023 2:26 PM
+BAG:mayconlon add 56xViên Capsule kì bí (old: 55) lydo: Nhặt từ map at 03/11/2023 2:26 PM
+BAG:mayconlon add 23xHoa hồng đỏ (old: 22) lydo: Nhặt từ map at 03/11/2023 2:26 PM
+BAG:mayconlon add 1xĐá Saphia lydo: Nhặt từ map at 03/11/2023 2:26 PM
+BAG:mayconlon add 2xĐá Titan (old: 1) lydo: Nhặt từ map at 03/11/2023 2:26 PM
+BAG:mayconlon add 57xViên Capsule kì bí (old: 56) lydo: Nhặt từ map at 03/11/2023 2:26 PM
+BAG:mayconlon add 58xViên Capsule kì bí (old: 57) lydo: Nhặt từ map at 03/11/2023 2:26 PM
+BAG:mayconlon add 29xHoa hồng vàng (old: 28) lydo: Nhặt từ map at 03/11/2023 2:26 PM
+BAG:mayconlon add 24xHoa hồng đỏ (old: 23) lydo: Nhặt từ map at 03/11/2023 2:26 PM
+BAG:mayconlon add 59xViên Capsule kì bí (old: 58) lydo: Nhặt từ map at 03/11/2023 2:26 PM
+BAG:mayconlon add 27xHoa hồng xanh (old: 26) lydo: Nhặt từ map at 03/11/2023 2:26 PM
+BAG:mayconlon add 60xViên Capsule kì bí (old: 59) lydo: Nhặt từ map at 03/11/2023 2:26 PM
+BAG:mayconlon add 30xHoa hồng vàng (old: 29) lydo: Nhặt từ map at 03/11/2023 2:26 PM
+BAG:mayconlon add 25xHoa hồng đỏ (old: 24) lydo: Nhặt từ map at 03/11/2023 2:26 PM
+BAG:mayconlon add 61xViên Capsule kì bí (old: 60) lydo: Nhặt từ map at 03/11/2023 2:26 PM
+BAG:mayconlon add 28xHoa hồng xanh (old: 27) lydo: Nhặt từ map at 03/11/2023 2:30 PM
+BAG:mayconlon add 26xHoa hồng đỏ (old: 25) lydo: Nhặt từ map at 03/11/2023 2:30 PM
+BAG:mayconlon add 31xHoa hồng vàng (old: 30) lydo: Nhặt từ map at 03/11/2023 2:30 PM
+BAG:mayconlon add 62xViên Capsule kì bí (old: 61) lydo: Nhặt từ map at 03/11/2023 2:30 PM
+BAG:mayconlon add 63xViên Capsule kì bí (old: 62) lydo: Nhặt từ map at 03/11/2023 2:30 PM
+BAG:mayconlon add 64xViên Capsule kì bí (old: 63) lydo: Nhặt từ map at 03/11/2023 2:30 PM
+BAG:mayconlon add 27xHoa hồng đỏ (old: 26) lydo: Nhặt từ map at 03/11/2023 2:30 PM
+BAG:mayconlon add 28xHoa hồng đỏ (old: 27) lydo: Nhặt từ map at 03/11/2023 2:30 PM
+BAG:mayconlon add 32xHoa hồng vàng (old: 31) lydo: Nhặt từ map at 03/11/2023 2:31 PM
+BAG:mayconlon add 29xHoa hồng đỏ (old: 28) lydo: Nhặt từ map at 03/11/2023 2:31 PM
+BAG:mayconlon add 65xViên Capsule kì bí (old: 64) lydo: Nhặt từ map at 03/11/2023 2:31 PM
+BAG:mayconlon add 66xViên Capsule kì bí (old: 65) lydo: Nhặt từ map at 03/11/2023 2:31 PM
+BAG:mayconlon add 67xViên Capsule kì bí (old: 66) lydo: Nhặt từ map at 03/11/2023 2:31 PM
+BAG:mayconlon add 68xViên Capsule kì bí (old: 67) lydo: Nhặt từ map at 03/11/2023 2:31 PM
+BAG:mayconlon add 69xViên Capsule kì bí (old: 68) lydo: Nhặt từ map at 03/11/2023 2:31 PM
+BAG:mayconlon add 70xViên Capsule kì bí (old: 69) lydo: Nhặt từ map at 03/11/2023 2:31 PM
+BAG:mayconlon add 29xHoa hồng xanh (old: 28) lydo: Nhặt từ map at 03/11/2023 2:31 PM
+BAG:mayconlon add 71xViên Capsule kì bí (old: 70) lydo: Nhặt từ map at 03/11/2023 2:31 PM
+BAG:mayconlon add 33xHoa hồng vàng (old: 32) lydo: Nhặt từ map at 03/11/2023 2:31 PM
+BAG:mayconlon add 1xĐá thạch anh tím lydo: Nhặt từ map at 03/11/2023 2:31 PM
+BAG:mayconlon add 30xHoa hồng xanh (old: 29) lydo: Nhặt từ map at 03/11/2023 2:31 PM
+BAG:mayconlon add 30xHoa hồng đỏ (old: 29) lydo: Nhặt từ map at 03/11/2023 2:31 PM
+BAG:mayconlon add 31xHoa hồng đỏ (old: 30) lydo: Nhặt từ map at 03/11/2023 2:32 PM
+BAG:mayconlon add 34xHoa hồng vàng (old: 33) lydo: Nhặt từ map at 03/11/2023 2:32 PM
+BAG:mayconlon add 72xViên Capsule kì bí (old: 71) lydo: Nhặt từ map at 03/11/2023 2:32 PM
+BAG:mayconlon add 32xHoa hồng đỏ (old: 31) lydo: Nhặt từ map at 03/11/2023 2:32 PM
+BAG:mayconlon add 35xHoa hồng vàng (old: 34) lydo: Nhặt từ map at 03/11/2023 2:32 PM
+BAG:mayconlon add 36xHoa hồng vàng (old: 35) lydo: Nhặt từ map at 03/11/2023 2:32 PM
+BAG:mayconlon add 31xHoa hồng xanh (old: 30) lydo: Nhặt từ map at 03/11/2023 2:32 PM
+BAG:mayconlon add 32xHoa hồng xanh (old: 31) lydo: Nhặt từ map at 03/11/2023 2:32 PM
+BAG:mayconlon add 37xHoa hồng vàng (old: 36) lydo: Nhặt từ map at 03/11/2023 2:32 PM
+BAG:mayconlon add 33xHoa hồng đỏ (old: 32) lydo: Nhặt từ map at 03/11/2023 2:32 PM
+BAG:mayconlon add 73xViên Capsule kì bí (old: 72) lydo: Nhặt từ map at 03/11/2023 2:32 PM
+BAG:mayconlon add 34xHoa hồng đỏ (old: 33) lydo: Nhặt từ map at 03/11/2023 2:32 PM
+BAG:mayconlon add 38xHoa hồng vàng (old: 37) lydo: Nhặt từ map at 03/11/2023 2:32 PM
+BAG:mayconlon add 35xHoa hồng đỏ (old: 34) lydo: Nhặt từ map at 03/11/2023 2:32 PM
+BAG:mayconlon add 74xViên Capsule kì bí (old: 73) lydo: Nhặt từ map at 03/11/2023 2:32 PM
+BAG:mayconlon add 75xViên Capsule kì bí (old: 74) lydo: Nhặt từ map at 03/11/2023 2:32 PM
+BAG:mayconlon add 33xHoa hồng xanh (old: 32) lydo: Nhặt từ map at 03/11/2023 2:32 PM
+BAG:mayconlon add 34xHoa hồng xanh (old: 33) lydo: Nhặt từ map at 03/11/2023 2:32 PM
+BAG:mayconlon add 36xHoa hồng đỏ (old: 35) lydo: Nhặt từ map at 03/11/2023 2:33 PM
+BAG:mayconlon add 35xHoa hồng xanh (old: 34) lydo: Nhặt từ map at 03/11/2023 2:33 PM
+BAG:mayconlon add 83xNgọc Rồng 6 sao (old: 82) lydo: Nhặt từ map at 03/11/2023 2:33 PM
+BAG:mayconlon add 39xHoa hồng vàng (old: 38) lydo: Nhặt từ map at 03/11/2023 2:33 PM
+BAG:mayconlon add 40xHoa hồng vàng (old: 39) lydo: Nhặt từ map at 03/11/2023 2:33 PM
+BAG:mayconlon add 37xHoa hồng đỏ (old: 36) lydo: Nhặt từ map at 03/11/2023 2:33 PM
+BAG:mayconlon add 38xHoa hồng đỏ (old: 37) lydo: Nhặt từ map at 03/11/2023 2:33 PM
+BAG:mayconlon add 36xHoa hồng xanh (old: 35) lydo: Nhặt từ map at 03/11/2023 2:34 PM
+BAG:mayconlon add 37xHoa hồng xanh (old: 36) lydo: Nhặt từ map at 03/11/2023 2:34 PM
+BAG:mayconlon add 76xViên Capsule kì bí (old: 75) lydo: Nhặt từ map at 03/11/2023 2:34 PM
+BAG:mayconlon add 38xHoa hồng xanh (old: 37) lydo: Nhặt từ map at 03/11/2023 2:34 PM
+BAG:mayconlon add 39xHoa hồng xanh (old: 38) lydo: Nhặt từ map at 03/11/2023 2:34 PM
+BAG:mayconlon add 77xViên Capsule kì bí (old: 76) lydo: Nhặt từ map at 03/11/2023 2:34 PM
+BAG:mayconlon add 40xHoa hồng xanh (old: 39) lydo: Nhặt từ map at 03/11/2023 2:34 PM
+BAG:mayconlon add 41xHoa hồng vàng (old: 40) lydo: Nhặt từ map at 03/11/2023 2:34 PM
+BAG:mayconlon add 78xViên Capsule kì bí (old: 77) lydo: Nhặt từ map at 03/11/2023 2:34 PM
+BAG:mayconlon add 79xViên Capsule kì bí (old: 78) lydo: Nhặt từ map at 03/11/2023 2:34 PM
+BAG:mayconlon add 80xViên Capsule kì bí (old: 79) lydo: Nhặt từ map at 03/11/2023 2:34 PM
+BAG:mayconlon add 42xHoa hồng vàng (old: 41) lydo: Nhặt từ map at 03/11/2023 2:34 PM
+BAG:mayconlon add 3xĐá Ruby (old: 2) lydo: Nhặt từ map at 03/11/2023 2:34 PM
+BAG:mayconlon add 81xViên Capsule kì bí (old: 80) lydo: Nhặt từ map at 03/11/2023 2:34 PM
+BAG:mayconlon add 41xHoa hồng xanh (old: 40) lydo: Nhặt từ map at 03/11/2023 2:34 PM
+BAG:mayconlon add 39xHoa hồng đỏ (old: 38) lydo: Nhặt từ map at 03/11/2023 2:34 PM
+BAG:mayconlon add 11xNgọc Rồng 4 sao (old: 10) lydo: Nhặt từ map at 03/11/2023 2:34 PM
+BAG:mayconlon add 82xViên Capsule kì bí (old: 81) lydo: Nhặt từ map at 03/11/2023 2:34 PM
+BAG:mayconlon add 42xHoa hồng xanh (old: 41) lydo: Nhặt từ map at 03/11/2023 2:35 PM
+BAG:mayconlon add 43xHoa hồng vàng (old: 42) lydo: Nhặt từ map at 03/11/2023 2:35 PM
+BAG:mayconlon add 40xHoa hồng đỏ (old: 39) lydo: Nhặt từ map at 03/11/2023 2:35 PM
+BAG:mayconlon add 41xHoa hồng đỏ (old: 40) lydo: Nhặt từ map at 03/11/2023 2:35 PM
+BAG:mayconlon add 83xViên Capsule kì bí (old: 82) lydo: Nhặt từ map at 03/11/2023 2:35 PM
+BAG:mayconlon add 42xHoa hồng đỏ (old: 41) lydo: Nhặt từ map at 03/11/2023 2:35 PM
+BAG:mayconlon add 84xViên Capsule kì bí (old: 83) lydo: Nhặt từ map at 03/11/2023 2:35 PM
+BAG:mayconlon add 85xViên Capsule kì bí (old: 84) lydo: Nhặt từ map at 03/11/2023 2:35 PM
+BAG:mayconlon add 3xĐá Titan (old: 2) lydo: Nhặt từ map at 03/11/2023 2:35 PM
+BAG:mayconlon add 44xHoa hồng vàng (old: 43) lydo: Nhặt từ map at 03/11/2023 2:35 PM
+BAG:mayconlon add 45xHoa hồng vàng (old: 44) lydo: Nhặt từ map at 03/11/2023 2:35 PM
+BAG:mayconlon add 46xHoa hồng vàng (old: 45) lydo: Nhặt từ map at 03/11/2023 2:35 PM
+BAG:mayconlon add 86xViên Capsule kì bí (old: 85) lydo: Nhặt từ map at 03/11/2023 2:35 PM
+BAG:mayconlon add 43xHoa hồng đỏ (old: 42) lydo: Nhặt từ map at 03/11/2023 2:35 PM
+BAG:mayconlon add 87xViên Capsule kì bí (old: 86) lydo: Nhặt từ map at 03/11/2023 2:35 PM
+BAG:mayconlon add 47xHoa hồng vàng (old: 46) lydo: Nhặt từ map at 03/11/2023 2:35 PM
+BAG:mayconlon add 48xHoa hồng vàng (old: 47) lydo: Nhặt từ map at 03/11/2023 2:38 PM
+BAG:mayconlon add 43xHoa hồng xanh (old: 42) lydo: Nhặt từ map at 03/11/2023 2:38 PM
+BAG:mayconlon add 44xHoa hồng đỏ (old: 43) lydo: Nhặt từ map at 03/11/2023 2:38 PM
+BAG:mayconlon add 88xViên Capsule kì bí (old: 87) lydo: Nhặt từ map at 03/11/2023 2:38 PM
+BAG:mayconlon add 49xHoa hồng vàng (old: 48) lydo: Nhặt từ map at 03/11/2023 2:38 PM
+BAG:mayconlon add 89xViên Capsule kì bí (old: 88) lydo: Nhặt từ map at 03/11/2023 2:38 PM
+BAG:mayconlon add 90xViên Capsule kì bí (old: 89) lydo: Nhặt từ map at 03/11/2023 2:38 PM
+BAG:mayconlon add 91xViên Capsule kì bí (old: 90) lydo: Nhặt từ map at 03/11/2023 2:38 PM
+BAG:mayconlon add 92xViên Capsule kì bí (old: 91) lydo: Nhặt từ map at 03/11/2023 2:38 PM
+BAG:mayconlon add 93xViên Capsule kì bí (old: 92) lydo: Nhặt từ map at 03/11/2023 2:38 PM
+BAG:mayconlon add 50xHoa hồng vàng (old: 49) lydo: Nhặt từ map at 03/11/2023 2:38 PM
+BAG:mayconlon add 45xHoa hồng đỏ (old: 44) lydo: Nhặt từ map at 03/11/2023 2:38 PM
+BAG:mayconlon add 51xHoa hồng vàng (old: 50) lydo: Nhặt từ map at 03/11/2023 2:38 PM
+BAG:mayconlon add 52xHoa hồng vàng (old: 51) lydo: Nhặt từ map at 03/11/2023 2:38 PM
+BAG:mayconlon add 44xHoa hồng xanh (old: 43) lydo: Nhặt từ map at 03/11/2023 2:38 PM
+BAG:mayconlon add 94xViên Capsule kì bí (old: 93) lydo: Nhặt từ map at 03/11/2023 2:38 PM
+BAG:mayconlon add 95xViên Capsule kì bí (old: 94) lydo: Nhặt từ map at 03/11/2023 2:39 PM
+BAG:mayconlon add 96xViên Capsule kì bí (old: 95) lydo: Nhặt từ map at 03/11/2023 2:39 PM
+BAG:mayconlon add 97xViên Capsule kì bí (old: 96) lydo: Nhặt từ map at 03/11/2023 2:39 PM
+BAG:mayconlon add 2xĐá Saphia (old: 1) lydo: Nhặt từ map at 03/11/2023 2:39 PM
+BAG:mayconlon add 53xHoa hồng vàng (old: 52) lydo: Nhặt từ map at 03/11/2023 2:39 PM
+BAG:mayconlon add 98xViên Capsule kì bí (old: 97) lydo: Nhặt từ map at 03/11/2023 2:39 PM
+BAG:mayconlon add 99xViên Capsule kì bí (old: 98) lydo: Nhặt từ map at 03/11/2023 2:39 PM
+BAG:mayconlon add 1xViên Capsule kì bí lydo: Nhặt từ map at 03/11/2023 2:39 PM
+BAG:mayconlon add 12xNgọc Rồng 4 sao (old: 11) lydo: Nhặt từ map at 03/11/2023 2:39 PM
+BAG:mayconlon add 46xHoa hồng đỏ (old: 45) lydo: Nhặt từ map at 03/11/2023 2:39 PM
+BAG:mayconlon add 47xHoa hồng đỏ (old: 46) lydo: Nhặt từ map at 03/11/2023 2:39 PM
+BAG:mayconlon add 2xViên Capsule kì bí (old: 1) lydo: Nhặt từ map at 03/11/2023 2:39 PM
+BAG:mayconlon add 3xViên Capsule kì bí (old: 2) lydo: Nhặt từ map at 03/11/2023 2:39 PM
+BAG:mayconlon add 45xHoa hồng xanh (old: 44) lydo: Nhặt từ map at 03/11/2023 2:40 PM
+BAG:mayconlon add 54xHoa hồng vàng (old: 53) lydo: Nhặt từ map at 03/11/2023 2:40 PM
+BAG:mayconlon add 4xViên Capsule kì bí (old: 3) lydo: Nhặt từ map at 03/11/2023 2:40 PM
+BAG:mayconlon add 46xHoa hồng xanh (old: 45) lydo: Nhặt từ map at 03/11/2023 2:40 PM
+BAG:mayconlon add 55xHoa hồng vàng (old: 54) lydo: Nhặt từ map at 03/11/2023 2:40 PM
+BAG:mayconlon add 48xHoa hồng đỏ (old: 47) lydo: Nhặt từ map at 03/11/2023 2:40 PM
+BAG:mayconlon add 56xHoa hồng vàng (old: 55) lydo: Nhặt từ map at 03/11/2023 2:40 PM
+BAG:mayconlon add 5xViên Capsule kì bí (old: 4) lydo: Nhặt từ map at 03/11/2023 2:40 PM
+BAG:mayconlon add 57xHoa hồng vàng (old: 56) lydo: Nhặt từ map at 03/11/2023 2:40 PM
+BAG:mayconlon add 6xViên Capsule kì bí (old: 5) lydo: Nhặt từ map at 03/11/2023 2:40 PM
+BAG:mayconlon add 47xHoa hồng xanh (old: 46) lydo: Nhặt từ map at 03/11/2023 2:40 PM
+BAG:mayconlon add 7xViên Capsule kì bí (old: 6) lydo: Nhặt từ map at 03/11/2023 2:40 PM
+BAG:mayconlon add 8xViên Capsule kì bí (old: 7) lydo: Nhặt từ map at 03/11/2023 2:40 PM
+BAG:mayconlon add 9xViên Capsule kì bí (old: 8) lydo: Nhặt từ map at 03/11/2023 2:40 PM
+BAG:mayconlon add 10xViên Capsule kì bí (old: 9) lydo: Nhặt từ map at 03/11/2023 2:40 PM
+BAG:mayconlon add 49xHoa hồng đỏ (old: 48) lydo: Nhặt từ map at 03/11/2023 2:40 PM
+BAG:mayconlon add 11xViên Capsule kì bí (old: 10) lydo: Nhặt từ map at 03/11/2023 2:40 PM
+BAG:mayconlon add 4xĐá Ruby (old: 3) lydo: Nhặt từ map at 03/11/2023 2:40 PM
+BAG:mayconlon add 48xHoa hồng xanh (old: 47) lydo: Nhặt từ map at 03/11/2023 2:40 PM
+BAG:mayconlon add 50xHoa hồng đỏ (old: 49) lydo: Nhặt từ map at 03/11/2023 2:41 PM
+BAG:mayconlon add 58xHoa hồng vàng (old: 57) lydo: Nhặt từ map at 03/11/2023 2:41 PM
+BAG:mayconlon add 12xViên Capsule kì bí (old: 11) lydo: Nhặt từ map at 03/11/2023 2:41 PM
+BAG:mayconlon add 59xHoa hồng vàng (old: 58) lydo: Nhặt từ map at 03/11/2023 2:41 PM
+BAG:mayconlon add 49xHoa hồng xanh (old: 48) lydo: Nhặt từ map at 03/11/2023 2:41 PM
+BAG:mayconlon add 13xViên Capsule kì bí (old: 12) lydo: Nhặt từ map at 03/11/2023 2:41 PM
+BAG:mayconlon add 60xHoa hồng vàng (old: 59) lydo: Nhặt từ map at 03/11/2023 2:41 PM
+BAG:mayconlon add 14xViên Capsule kì bí (old: 13) lydo: Nhặt từ map at 03/11/2023 2:41 PM
+BAG:mayconlon add 61xHoa hồng vàng (old: 60) lydo: Nhặt từ map at 03/11/2023 2:41 PM
+BAG:mayconlon add 84xNgọc Rồng 6 sao (old: 83) lydo: Nhặt từ map at 03/11/2023 2:41 PM
+BAG:mayconlon add 50xHoa hồng xanh (old: 49) lydo: Nhặt từ map at 03/11/2023 2:41 PM
+BAG:mayconlon add 62xHoa hồng vàng (old: 61) lydo: Nhặt từ map at 03/11/2023 2:41 PM
+BAG:mayconlon add 15xViên Capsule kì bí (old: 14) lydo: Nhặt từ map at 03/11/2023 2:41 PM
+BAG:mayconlon add 51xHoa hồng xanh (old: 50) lydo: Nhặt từ map at 03/11/2023 2:41 PM
+BAG:mayconlon add 16xViên Capsule kì bí (old: 15) lydo: Nhặt từ map at 03/11/2023 2:42 PM
+BAG:mayconlon add 17xViên Capsule kì bí (old: 16) lydo: Nhặt từ map at 03/11/2023 2:42 PM
+BAG:mayconlon add 18xViên Capsule kì bí (old: 17) lydo: Nhặt từ map at 03/11/2023 2:42 PM
+BAG:mayconlon add 51xHoa hồng đỏ (old: 50) lydo: Nhặt từ map at 03/11/2023 2:42 PM
+BAG:mayconlon add 52xHoa hồng xanh (old: 51) lydo: Nhặt từ map at 03/11/2023 2:42 PM
+BAG:mayconlon add 19xViên Capsule kì bí (old: 18) lydo: Nhặt từ map at 03/11/2023 2:42 PM
+BAG:mayconlon add 52xHoa hồng đỏ (old: 51) lydo: Nhặt từ map at 03/11/2023 2:42 PM
+BAG:mayconlon add 53xHoa hồng xanh (old: 52) lydo: Nhặt từ map at 03/11/2023 2:42 PM
+BAG:mayconlon add 20xViên Capsule kì bí (old: 19) lydo: Nhặt từ map at 03/11/2023 2:42 PM
+BAG:mayconlon add 21xViên Capsule kì bí (old: 20) lydo: Nhặt từ map at 03/11/2023 2:42 PM
+BAG:mayconlon add 2xĐá thạch anh tím (old: 1) lydo: Nhặt từ map at 03/11/2023 2:42 PM
+BAG:mayconlon add 54xHoa hồng xanh (old: 53) lydo: Nhặt từ map at 03/11/2023 2:42 PM
+BAG:mayconlon add 22xViên Capsule kì bí (old: 21) lydo: Nhặt từ map at 03/11/2023 2:42 PM
+BAG:mayconlon add 55xHoa hồng xanh (old: 54) lydo: Nhặt từ map at 03/11/2023 2:42 PM
+BAG:mayconlon add 56xHoa hồng xanh (old: 55) lydo: Nhặt từ map at 03/11/2023 2:42 PM
+BAG:mayconlon add 23xViên Capsule kì bí (old: 22) lydo: Nhặt từ map at 03/11/2023 2:42 PM
+BAG:mayconlon add 63xHoa hồng vàng (old: 62) lydo: Nhặt từ map at 03/11/2023 2:43 PM
+BAG:mayconlon add 24xViên Capsule kì bí (old: 23) lydo: Nhặt từ map at 03/11/2023 2:43 PM
+BAG:mayconlon add 64xHoa hồng vàng (old: 63) lydo: Nhặt từ map at 03/11/2023 2:43 PM
+BAG:mayconlon add 65xHoa hồng vàng (old: 64) lydo: Nhặt từ map at 03/11/2023 2:43 PM
+BAG:mayconlon add 57xHoa hồng xanh (old: 56) lydo: Nhặt từ map at 03/11/2023 2:43 PM
+BAG:mayconlon add 25xViên Capsule kì bí (old: 24) lydo: Nhặt từ map at 03/11/2023 2:43 PM
+BAG:mayconlon add 66xHoa hồng vàng (old: 65) lydo: Nhặt từ map at 03/11/2023 2:43 PM
+BAG:mayconlon add 53xHoa hồng đỏ (old: 52) lydo: Nhặt từ map at 03/11/2023 2:43 PM
+BAG:mayconlon add 26xViên Capsule kì bí (old: 25) lydo: Nhặt từ map at 03/11/2023 2:43 PM
+BAG:mayconlon add 27xViên Capsule kì bí (old: 26) lydo: Nhặt từ map at 03/11/2023 2:43 PM
+BAG:mayconlon add 67xHoa hồng vàng (old: 66) lydo: Nhặt từ map at 03/11/2023 2:43 PM
+BAG:mayconlon add 68xHoa hồng vàng (old: 67) lydo: Nhặt từ map at 03/11/2023 2:43 PM
+BAG:mayconlon add 54xHoa hồng đỏ (old: 53) lydo: Nhặt từ map at 03/11/2023 2:43 PM
+BAG:mayconlon add 69xHoa hồng vàng (old: 68) lydo: Nhặt từ map at 03/11/2023 2:43 PM
+BAG:mayconlon add 28xViên Capsule kì bí (old: 27) lydo: Nhặt từ map at 03/11/2023 2:43 PM
+BAG:mayconlon add 29xViên Capsule kì bí (old: 28) lydo: Nhặt từ map at 03/11/2023 2:43 PM
+BAG:mayconlon add 3xĐá Saphia (old: 2) lydo: Nhặt từ map at 03/11/2023 2:44 PM
+BAG:mayconlon add 70xHoa hồng vàng (old: 69) lydo: Nhặt từ map at 03/11/2023 2:44 PM
+BAG:mayconlon add 55xHoa hồng đỏ (old: 54) lydo: Nhặt từ map at 03/11/2023 2:44 PM
+BAG:mayconlon add 71xHoa hồng vàng (old: 70) lydo: Nhặt từ map at 03/11/2023 2:44 PM
+BAG:mayconlon add 56xHoa hồng đỏ (old: 55) lydo: Nhặt từ map at 03/11/2023 2:44 PM
+BAG:mayconlon add 72xHoa hồng vàng (old: 71) lydo: Nhặt từ map at 03/11/2023 2:44 PM
+BAG:mayconlon add 73xHoa hồng vàng (old: 72) lydo: Nhặt từ map at 03/11/2023 2:44 PM
+BAG:mayconlon add 30xViên Capsule kì bí (old: 29) lydo: Nhặt từ map at 03/11/2023 2:44 PM
+BAG:mayconlon add 74xHoa hồng vàng (old: 73) lydo: Nhặt từ map at 03/11/2023 2:44 PM
+BAG:mayconlon add 58xHoa hồng xanh (old: 57) lydo: Nhặt từ map at 03/11/2023 2:44 PM
+BAG:mayconlon add 31xViên Capsule kì bí (old: 30) lydo: Nhặt từ map at 03/11/2023 2:44 PM
+BAG:mayconlon add 32xViên Capsule kì bí (old: 31) lydo: Nhặt từ map at 03/11/2023 2:44 PM
+BAG:mayconlon add 59xHoa hồng xanh (old: 58) lydo: Nhặt từ map at 03/11/2023 2:44 PM
+BAG:mayconlon add 33xViên Capsule kì bí (old: 32) lydo: Nhặt từ map at 03/11/2023 2:44 PM
+BAG:mayconlon add 57xHoa hồng đỏ (old: 56) lydo: Nhặt từ map at 03/11/2023 2:44 PM
+BAG:mayconlon add 60xHoa hồng xanh (old: 59) lydo: Nhặt từ map at 03/11/2023 2:44 PM
+BAG:mayconlon add 34xViên Capsule kì bí (old: 33) lydo: Nhặt từ map at 03/11/2023 2:44 PM
+BAG:mayconlon add 35xViên Capsule kì bí (old: 34) lydo: Nhặt từ map at 03/11/2023 2:45 PM
+BAG:mayconlon add 36xViên Capsule kì bí (old: 35) lydo: Nhặt từ map at 03/11/2023 2:45 PM
+BAG:mayconlon add 37xViên Capsule kì bí (old: 36) lydo: Nhặt từ map at 03/11/2023 2:45 PM
+BAG:mayconlon add 58xHoa hồng đỏ (old: 57) lydo: Nhặt từ map at 03/11/2023 2:45 PM
+BAG:mayconlon add 38xViên Capsule kì bí (old: 37) lydo: Nhặt từ map at 03/11/2023 2:45 PM
+BAG:mayconlon add 59xHoa hồng đỏ (old: 58) lydo: Nhặt từ map at 03/11/2023 2:45 PM
+BAG:mayconlon add 75xHoa hồng vàng (old: 74) lydo: Nhặt từ map at 03/11/2023 2:45 PM
+BAG:mayconlon add 61xHoa hồng xanh (old: 60) lydo: Nhặt từ map at 03/11/2023 2:45 PM
+BAG:mayconlon add 76xHoa hồng vàng (old: 75) lydo: Nhặt từ map at 03/11/2023 2:45 PM
+BAG:mayconlon add 77xHoa hồng vàng (old: 76) lydo: Nhặt từ map at 03/11/2023 2:45 PM
+BAG:mayconlon add 78xHoa hồng vàng (old: 77) lydo: Nhặt từ map at 03/11/2023 2:45 PM
+BAG:mayconlon add 60xHoa hồng đỏ (old: 59) lydo: Nhặt từ map at 03/11/2023 2:45 PM
+BAG:mayconlon add 61xHoa hồng đỏ (old: 60) lydo: Nhặt từ map at 03/11/2023 2:45 PM
+BAG:mayconlon add 4xĐá Saphia (old: 3) lydo: Nhặt từ map at 03/11/2023 2:46 PM
+BAG:mayconlon add 39xViên Capsule kì bí (old: 38) lydo: Nhặt từ map at 03/11/2023 2:46 PM
+BAG:mayconlon add 62xHoa hồng xanh (old: 61) lydo: Nhặt từ map at 03/11/2023 2:46 PM
+BAG:mayconlon add 40xViên Capsule kì bí (old: 39) lydo: Nhặt từ map at 03/11/2023 2:46 PM
+BAG:mayconlon add 41xViên Capsule kì bí (old: 40) lydo: Nhặt từ map at 03/11/2023 2:46 PM
+BAG:mayconlon add 62xHoa hồng đỏ (old: 61) lydo: Nhặt từ map at 03/11/2023 2:46 PM
+BAG:mayconlon add 63xHoa hồng đỏ (old: 62) lydo: Nhặt từ map at 03/11/2023 2:46 PM
+BAG:mayconlon add 63xHoa hồng xanh (old: 62) lydo: Nhặt từ map at 03/11/2023 2:46 PM
+BAG:mayconlon add 42xViên Capsule kì bí (old: 41) lydo: Nhặt từ map at 03/11/2023 2:46 PM
+BAG:mayconlon add 43xViên Capsule kì bí (old: 42) lydo: Nhặt từ map at 03/11/2023 2:46 PM
+BAG:mayconlon add 44xViên Capsule kì bí (old: 43) lydo: Nhặt từ map at 03/11/2023 2:46 PM
+BAG:mayconlon add 64xHoa hồng xanh (old: 63) lydo: Nhặt từ map at 03/11/2023 2:46 PM
+BAG:mayconlon add 45xViên Capsule kì bí (old: 44) lydo: Nhặt từ map at 03/11/2023 2:46 PM
+BAG:mayconlon add 5xĐá Ruby (old: 4) lydo: Nhặt từ map at 03/11/2023 2:47 PM
+BAG:mayconlon add 79xHoa hồng vàng (old: 78) lydo: Nhặt từ map at 03/11/2023 2:47 PM
+BAG:mayconlon add 46xViên Capsule kì bí (old: 45) lydo: Nhặt từ map at 03/11/2023 2:47 PM
+BAG:mayconlon add 47xViên Capsule kì bí (old: 46) lydo: Nhặt từ map at 03/11/2023 2:47 PM
+BAG:mayconlon add 64xHoa hồng đỏ (old: 63) lydo: Nhặt từ map at 03/11/2023 2:47 PM
+BAG:mayconlon add 48xViên Capsule kì bí (old: 47) lydo: Nhặt từ map at 03/11/2023 2:47 PM
+BAG:mayconlon add 80xHoa hồng vàng (old: 79) lydo: Nhặt từ map at 03/11/2023 2:47 PM
+BAG:mayconlon add 5xĐá Saphia (old: 4) lydo: Nhặt từ map at 03/11/2023 2:47 PM
+BAG:mayconlon add 65xHoa hồng xanh (old: 64) lydo: Nhặt từ map at 03/11/2023 2:47 PM
+BAG:mayconlon add 65xHoa hồng đỏ (old: 64) lydo: Nhặt từ map at 03/11/2023 2:47 PM
+BAG:mayconlon add 81xHoa hồng vàng (old: 80) lydo: Nhặt từ map at 03/11/2023 2:47 PM
+BAG:mayconlon add 49xViên Capsule kì bí (old: 48) lydo: Nhặt từ map at 03/11/2023 2:47 PM
+BAG:mayconlon add 50xViên Capsule kì bí (old: 49) lydo: Nhặt từ map at 03/11/2023 2:47 PM
+BAG:mayconlon add 51xViên Capsule kì bí (old: 50) lydo: Nhặt từ map at 03/11/2023 2:47 PM
+BAG:mayconlon add 66xHoa hồng đỏ (old: 65) lydo: Nhặt từ map at 03/11/2023 2:47 PM
+BAG:mayconlon add 66xHoa hồng xanh (old: 65) lydo: Nhặt từ map at 03/11/2023 2:47 PM
+BAG:mayconlon add 52xViên Capsule kì bí (old: 51) lydo: Nhặt từ map at 03/11/2023 2:47 PM
+BAG:mayconlon add 53xViên Capsule kì bí (old: 52) lydo: Nhặt từ map at 03/11/2023 2:47 PM
+BAG:mayconlon add 54xViên Capsule kì bí (old: 53) lydo: Nhặt từ map at 03/11/2023 2:47 PM
+BAG:mayconlon add 67xHoa hồng xanh (old: 66) lydo: Nhặt từ map at 03/11/2023 2:47 PM
+BAG:mayconlon add 13xNgọc Rồng 4 sao (old: 12) lydo: Nhặt từ map at 03/11/2023 2:48 PM
+BAG:mayconlon add 55xViên Capsule kì bí (old: 54) lydo: Nhặt từ map at 03/11/2023 2:48 PM
+BAG:mayconlon add 82xHoa hồng vàng (old: 81) lydo: Nhặt từ map at 03/11/2023 2:48 PM
+BAG:mayconlon add 67xHoa hồng đỏ (old: 66) lydo: Nhặt từ map at 03/11/2023 2:48 PM
+BAG:mayconlon add 14xNgọc Rồng 4 sao (old: 13) lydo: Nhặt từ map at 03/11/2023 2:48 PM
+BAG:mayconlon add 68xHoa hồng đỏ (old: 67) lydo: Nhặt từ map at 03/11/2023 2:48 PM
+BAG:mayconlon add 68xHoa hồng xanh (old: 67) lydo: Nhặt từ map at 03/11/2023 2:48 PM
+BAG:mayconlon add 69xHoa hồng xanh (old: 68) lydo: Nhặt từ map at 03/11/2023 2:48 PM
+BAG:mayconlon add 83xHoa hồng vàng (old: 82) lydo: Nhặt từ map at 03/11/2023 2:48 PM
+BAG:mayconlon add 84xHoa hồng vàng (old: 83) lydo: Nhặt từ map at 03/11/2023 2:48 PM
+BAG:mayconlon add 69xHoa hồng đỏ (old: 68) lydo: Nhặt từ map at 03/11/2023 2:48 PM
+BAG:mayconlon add 56xViên Capsule kì bí (old: 55) lydo: Nhặt từ map at 03/11/2023 2:49 PM
+BAG:mayconlon add 70xHoa hồng đỏ (old: 69) lydo: Nhặt từ map at 03/11/2023 2:49 PM
+BAG:mayconlon add 70xHoa hồng xanh (old: 69) lydo: Nhặt từ map at 03/11/2023 2:49 PM
+BAG:mayconlon add 85xHoa hồng vàng (old: 84) lydo: Nhặt từ map at 03/11/2023 2:49 PM
+BAG:mayconlon add 86xHoa hồng vàng (old: 85) lydo: Nhặt từ map at 03/11/2023 2:49 PM
+BAG:mayconlon add 71xHoa hồng xanh (old: 70) lydo: Nhặt từ map at 03/11/2023 2:49 PM
+BAG:mayconlon add 72xHoa hồng xanh (old: 71) lydo: Nhặt từ map at 03/11/2023 2:50 PM
+BAG:mayconlon add 87xHoa hồng vàng (old: 86) lydo: Nhặt từ map at 03/11/2023 2:50 PM
+BAG:mayconlon add 88xHoa hồng vàng (old: 87) lydo: Nhặt từ map at 03/11/2023 2:50 PM
+BAG:mayconlon add 71xHoa hồng đỏ (old: 70) lydo: Nhặt từ map at 03/11/2023 2:50 PM
+BAG:mayconlon add 73xHoa hồng xanh (old: 72) lydo: Nhặt từ map at 03/11/2023 2:50 PM
+BAG:mayconlon add 15xNgọc Rồng 4 sao (old: 14) lydo: Nhặt từ map at 03/11/2023 2:50 PM
+BAG:mayconlon add 3xĐá thạch anh tím (old: 2) lydo: Nhặt từ map at 03/11/2023 2:50 PM
+BAG:mayconlon add 74xHoa hồng xanh (old: 73) lydo: Nhặt từ map at 03/11/2023 2:50 PM
+BAG:mayconlon add 89xHoa hồng vàng (old: 88) lydo: Nhặt từ map at 03/11/2023 2:50 PM
+BAG:mayconlon add 90xHoa hồng vàng (old: 89) lydo: Nhặt từ map at 03/11/2023 2:50 PM
+BAG:mayconlon add 91xHoa hồng vàng (old: 90) lydo: Nhặt từ map at 03/11/2023 2:50 PM
+BAG:mayconlon add 72xHoa hồng đỏ (old: 71) lydo: Nhặt từ map at 03/11/2023 2:50 PM
+BAG:mayconlon add 92xHoa hồng vàng (old: 91) lydo: Nhặt từ map at 03/11/2023 2:50 PM
+BAG:mayconlon add 4xĐá Titan (old: 3) lydo: Nhặt từ map at 03/11/2023 2:50 PM
+BAG:mayconlon add 75xHoa hồng xanh (old: 74) lydo: Nhặt từ map at 03/11/2023 2:51 PM
+BAG:mayconlon add 93xHoa hồng vàng (old: 92) lydo: Nhặt từ map at 03/11/2023 2:51 PM
+BAG:mayconlon add 94xHoa hồng vàng (old: 93) lydo: Nhặt từ map at 03/11/2023 2:51 PM
+BAG:mayconlon add 57xViên Capsule kì bí (old: 56) lydo: Nhặt từ map at 03/11/2023 2:51 PM
+BAG:mayconlon add 95xHoa hồng vàng (old: 94) lydo: Nhặt từ map at 03/11/2023 2:51 PM
+BAG:mayconlon add 96xHoa hồng vàng (old: 95) lydo: Nhặt từ map at 03/11/2023 2:51 PM
+BAG:mayconlon add 97xHoa hồng vàng (old: 96) lydo: Nhặt từ map at 03/11/2023 2:51 PM
+BAG:mayconlon add 58xViên Capsule kì bí (old: 57) lydo: Nhặt từ map at 03/11/2023 2:51 PM
+BAG:mayconlon add 76xHoa hồng xanh (old: 75) lydo: Nhặt từ map at 03/11/2023 2:51 PM
+BAG:mayconlon add 73xHoa hồng đỏ (old: 72) lydo: Nhặt từ map at 03/11/2023 2:51 PM
+BAG:mayconlon add 59xViên Capsule kì bí (old: 58) lydo: Nhặt từ map at 03/11/2023 2:51 PM
+BAG:mayconlon add 60xViên Capsule kì bí (old: 59) lydo: Nhặt từ map at 03/11/2023 2:51 PM
+BAG:mayconlon add 16xNgọc Rồng 4 sao (old: 15) lydo: Nhặt từ map at 03/11/2023 2:52 PM
+BAG:mayconlon add 98xHoa hồng vàng (old: 97) lydo: Nhặt từ map at 03/11/2023 2:52 PM
+BAG:mayconlon add 77xHoa hồng xanh (old: 76) lydo: Nhặt từ map at 03/11/2023 2:52 PM
+BAG:mayconlon add 99xHoa hồng vàng (old: 98) lydo: Nhặt từ map at 03/11/2023 2:52 PM
+BAG:mayconlon add 5xĐá Titan (old: 4) lydo: Nhặt từ map at 03/11/2023 2:52 PM
+BAG:mayconlon add 100xHoa hồng vàng (old: 99) lydo: Nhặt từ map at 03/11/2023 2:52 PM
+BAG:mayconlon add 101xHoa hồng vàng (old: 100) lydo: Nhặt từ map at 03/11/2023 2:52 PM
+BAG:mayconlon add 61xViên Capsule kì bí (old: 60) lydo: Nhặt từ map at 03/11/2023 2:52 PM
+BAG:mayconlon add 89xNgọc Rồng 5 sao (old: 88) lydo: Nhặt từ map at 03/11/2023 2:52 PM
+BAG:mayconlon add 62xViên Capsule kì bí (old: 61) lydo: Nhặt từ map at 03/11/2023 2:52 PM
+BAG:mayconlon add 63xViên Capsule kì bí (old: 62) lydo: Nhặt từ map at 03/11/2023 2:52 PM
+BAG:mayconlon add 64xViên Capsule kì bí (old: 63) lydo: Nhặt từ map at 03/11/2023 2:52 PM
+BAG:mayconlon add 65xViên Capsule kì bí (old: 64) lydo: Nhặt từ map at 03/11/2023 2:52 PM
+BAG:mayconlon add 66xViên Capsule kì bí (old: 65) lydo: Nhặt từ map at 03/11/2023 2:52 PM
+BAG:mayconlon add 102xHoa hồng vàng (old: 101) lydo: Nhặt từ map at 03/11/2023 2:52 PM
+BAG:mayconlon add 17xNgọc Rồng 4 sao (old: 16) lydo: Nhặt từ map at 03/11/2023 2:52 PM
+BAG:mayconlon add 74xHoa hồng đỏ (old: 73) lydo: Nhặt từ map at 03/11/2023 2:52 PM
+BAG:mayconlon add 78xHoa hồng xanh (old: 77) lydo: Nhặt từ map at 03/11/2023 2:52 PM
+BAG:mayconlon add 103xHoa hồng vàng (old: 102) lydo: Nhặt từ map at 03/11/2023 2:53 PM
+BAG:mayconlon add 104xHoa hồng vàng (old: 103) lydo: Nhặt từ map at 03/11/2023 2:53 PM
+BAG:mayconlon add 75xHoa hồng đỏ (old: 74) lydo: Nhặt từ map at 03/11/2023 2:53 PM
+BAG:mayconlon add 79xHoa hồng xanh (old: 78) lydo: Nhặt từ map at 03/11/2023 2:53 PM
+BAG:mayconlon add 80xHoa hồng xanh (old: 79) lydo: Nhặt từ map at 03/11/2023 2:53 PM
+BAG:mayconlon add 67xViên Capsule kì bí (old: 66) lydo: Nhặt từ map at 03/11/2023 2:53 PM
+BAG:mayconlon add 81xHoa hồng xanh (old: 80) lydo: Nhặt từ map at 03/11/2023 2:53 PM
+BAG:mayconlon add 105xHoa hồng vàng (old: 104) lydo: Nhặt từ map at 03/11/2023 2:53 PM
+BAG:mayconlon add 68xViên Capsule kì bí (old: 67) lydo: Nhặt từ map at 03/11/2023 2:53 PM
+BAG:mayconlon add 69xViên Capsule kì bí (old: 68) lydo: Nhặt từ map at 03/11/2023 2:53 PM
+BAG:mayconlon add 70xViên Capsule kì bí (old: 69) lydo: Nhặt từ map at 03/11/2023 2:53 PM
+BAG:mayconlon add 71xViên Capsule kì bí (old: 70) lydo: Nhặt từ map at 03/11/2023 2:53 PM
+BAG:mayconlon add 18xNgọc Rồng 4 sao (old: 17) lydo: Nhặt từ map at 03/11/2023 2:53 PM
+BAG:mayconlon add 76xHoa hồng đỏ (old: 75) lydo: Nhặt từ map at 03/11/2023 2:53 PM
+BAG:mayconlon add 72xViên Capsule kì bí (old: 71) lydo: Nhặt từ map at 03/11/2023 2:53 PM
+BAG:mayconlon add 6xĐá Ruby (old: 5) lydo: Nhặt từ map at 03/11/2023 2:53 PM
+BAG:mayconlon add 77xHoa hồng đỏ (old: 76) lydo: Nhặt từ map at 03/11/2023 2:54 PM
+BAG:mayconlon add 106xHoa hồng vàng (old: 105) lydo: Nhặt từ map at 03/11/2023 2:54 PM
+BAG:mayconlon add 73xViên Capsule kì bí (old: 72) lydo: Nhặt từ map at 03/11/2023 2:54 PM
+BAG:mayconlon add 78xHoa hồng đỏ (old: 77) lydo: Nhặt từ map at 03/11/2023 2:54 PM
+BAG:mayconlon add 82xHoa hồng xanh (old: 81) lydo: Nhặt từ map at 03/11/2023 2:54 PM
+BAG:mayconlon add 107xHoa hồng vàng (old: 106) lydo: Nhặt từ map at 03/11/2023 2:54 PM
+BAG:mayconlon add 79xHoa hồng đỏ (old: 78) lydo: Nhặt từ map at 03/11/2023 2:54 PM
+BAG:mayconlon add 6xĐá Titan (old: 5) lydo: Nhặt từ map at 03/11/2023 2:54 PM
+BAG:mayconlon add 74xViên Capsule kì bí (old: 73) lydo: Nhặt từ map at 03/11/2023 2:54 PM
+BAG:mayconlon add 108xHoa hồng vàng (old: 107) lydo: Nhặt từ map at 03/11/2023 2:54 PM
+BAG:mayconlon add 109xHoa hồng vàng (old: 108) lydo: Nhặt từ map at 03/11/2023 2:54 PM
+BAG:mayconlon add 110xHoa hồng vàng (old: 109) lydo: Nhặt từ map at 03/11/2023 2:54 PM
+BAG:mayconlon add 83xHoa hồng xanh (old: 82) lydo: Nhặt từ map at 03/11/2023 2:54 PM
+BAG:mayconlon add 111xHoa hồng vàng (old: 110) lydo: Nhặt từ map at 03/11/2023 2:54 PM
+BAG:mayconlon add 112xHoa hồng vàng (old: 111) lydo: Nhặt từ map at 03/11/2023 2:54 PM
+BAG:mayconlon add 75xViên Capsule kì bí (old: 74) lydo: Nhặt từ map at 03/11/2023 2:54 PM
+BAG:mayconlon add 80xHoa hồng đỏ (old: 79) lydo: Nhặt từ map at 03/11/2023 2:54 PM
+BAG:mayconlon add 76xViên Capsule kì bí (old: 75) lydo: Nhặt từ map at 03/11/2023 2:54 PM
+BAG:mayconlon add 81xHoa hồng đỏ (old: 80) lydo: Nhặt từ map at 03/11/2023 2:54 PM
+BAG:mayconlon add 82xHoa hồng đỏ (old: 81) lydo: Nhặt từ map at 03/11/2023 2:55 PM
+BAG:mayconlon add 84xHoa hồng xanh (old: 83) lydo: Nhặt từ map at 03/11/2023 2:55 PM
+BAG:mayconlon add 113xHoa hồng vàng (old: 112) lydo: Nhặt từ map at 03/11/2023 2:55 PM
+BAG:mayconlon add 85xHoa hồng xanh (old: 84) lydo: Nhặt từ map at 03/11/2023 2:55 PM
+BAG:mayconlon add 83xHoa hồng đỏ (old: 82) lydo: Nhặt từ map at 03/11/2023 2:55 PM
+BAG:mayconlon add 114xHoa hồng vàng (old: 113) lydo: Nhặt từ map at 03/11/2023 2:55 PM
+BAG:mayconlon add 86xHoa hồng xanh (old: 85) lydo: Nhặt từ map at 03/11/2023 2:55 PM
+BAG:mayconlon add 84xHoa hồng đỏ (old: 83) lydo: Nhặt từ map at 03/11/2023 2:55 PM
+BAG:mayconlon add 115xHoa hồng vàng (old: 114) lydo: Nhặt từ map at 03/11/2023 2:55 PM
+BAG:mayconlon add 77xViên Capsule kì bí (old: 76) lydo: Nhặt từ map at 03/11/2023 2:55 PM
+BAG:mayconlon add 116xHoa hồng vàng (old: 115) lydo: Nhặt từ map at 03/11/2023 2:55 PM
+BAG:mayconlon add 87xHoa hồng xanh (old: 86) lydo: Nhặt từ map at 03/11/2023 2:55 PM
+BAG:mayconlon add 117xHoa hồng vàng (old: 116) lydo: Nhặt từ map at 03/11/2023 2:55 PM
+BAG:mayconlon add 78xViên Capsule kì bí (old: 77) lydo: Nhặt từ map at 03/11/2023 2:56 PM
+BAG:mayconlon add 79xViên Capsule kì bí (old: 78) lydo: Nhặt từ map at 03/11/2023 2:56 PM
+BAG:mayconlon add 80xViên Capsule kì bí (old: 79) lydo: Nhặt từ map at 03/11/2023 2:56 PM
+BAG:mayconlon add 81xViên Capsule kì bí (old: 80) lydo: Nhặt từ map at 03/11/2023 2:56 PM
+BAG:mayconlon add 118xHoa hồng vàng (old: 117) lydo: Nhặt từ map at 03/11/2023 2:56 PM
+BAG:mayconlon add 19xNgọc Rồng 4 sao (old: 18) lydo: Nhặt từ map at 03/11/2023 2:56 PM
+BAG:mayconlon add 85xHoa hồng đỏ (old: 84) lydo: Nhặt từ map at 03/11/2023 2:56 PM
+BAG:mayconlon add 82xViên Capsule kì bí (old: 81) lydo: Nhặt từ map at 03/11/2023 2:56 PM
+BAG:mayconlon add 88xHoa hồng xanh (old: 87) lydo: Nhặt từ map at 03/11/2023 2:56 PM
+BAG:mayconlon add 86xHoa hồng đỏ (old: 85) lydo: Nhặt từ map at 03/11/2023 2:56 PM
+BAG:mayconlon add 89xHoa hồng xanh (old: 88) lydo: Nhặt từ map at 03/11/2023 2:56 PM
+BAG:mayconlon add 6xĐá Saphia (old: 5) lydo: Nhặt từ map at 03/11/2023 2:56 PM
+BAG:mayconlon add 87xHoa hồng đỏ (old: 86) lydo: Nhặt từ map at 03/11/2023 2:56 PM
+BAG:mayconlon add 83xViên Capsule kì bí (old: 82) lydo: Nhặt từ map at 03/11/2023 2:56 PM
+BAG:mayconlon add 84xViên Capsule kì bí (old: 83) lydo: Nhặt từ map at 03/11/2023 2:56 PM
+BAG:mayconlon add 85xViên Capsule kì bí (old: 84) lydo: Nhặt từ map at 03/11/2023 2:56 PM
+BAG:mayconlon add 119xHoa hồng vàng (old: 118) lydo: Nhặt từ map at 03/11/2023 2:56 PM
+BAG:mayconlon add 1xĐá lục bảo lydo: Nhặt từ map at 03/11/2023 2:56 PM
+BAG:mayconlon add 86xViên Capsule kì bí (old: 85) lydo: Nhặt từ map at 03/11/2023 2:56 PM
+BAG:mayconlon add 90xHoa hồng xanh (old: 89) lydo: Nhặt từ map at 03/11/2023 2:56 PM
+BAG:mayconlon add 120xHoa hồng vàng (old: 119) lydo: Nhặt từ map at 03/11/2023 2:57 PM
+BAG:mayconlon add 87xViên Capsule kì bí (old: 86) lydo: Nhặt từ map at 03/11/2023 2:57 PM
+BAG:mayconlon add 88xViên Capsule kì bí (old: 87) lydo: Nhặt từ map at 03/11/2023 2:57 PM
+BAG:mayconlon add 121xHoa hồng vàng (old: 120) lydo: Nhặt từ map at 03/11/2023 2:57 PM
+BAG:mayconlon add 89xViên Capsule kì bí (old: 88) lydo: Nhặt từ map at 03/11/2023 2:57 PM
+BAG:mayconlon add 90xViên Capsule kì bí (old: 89) lydo: Nhặt từ map at 03/11/2023 2:57 PM
+BAG:mayconlon add 91xHoa hồng xanh (old: 90) lydo: Nhặt từ map at 03/11/2023 2:57 PM
+BAG:mayconlon add 88xHoa hồng đỏ (old: 87) lydo: Nhặt từ map at 03/11/2023 2:57 PM
+BAG:mayconlon add 91xViên Capsule kì bí (old: 90) lydo: Nhặt từ map at 03/11/2023 2:57 PM
+BAG:mayconlon add 92xHoa hồng xanh (old: 91) lydo: Nhặt từ map at 03/11/2023 2:57 PM
+BAG:mayconlon add 93xHoa hồng xanh (old: 92) lydo: Nhặt từ map at 03/11/2023 2:57 PM
+BAG:mayconlon add 92xViên Capsule kì bí (old: 91) lydo: Nhặt từ map at 03/11/2023 2:57 PM
+BAG:mayconlon add 89xHoa hồng đỏ (old: 88) lydo: Nhặt từ map at 03/11/2023 2:57 PM
+BAG:mayconlon add 93xViên Capsule kì bí (old: 92) lydo: Nhặt từ map at 03/11/2023 2:57 PM
+BAG:mayconlon add 122xHoa hồng vàng (old: 121) lydo: Nhặt từ map at 03/11/2023 2:57 PM
+BAG:mayconlon add 94xHoa hồng xanh (old: 93) lydo: Nhặt từ map at 03/11/2023 2:57 PM
+BAG:mayconlon add 94xViên Capsule kì bí (old: 93) lydo: Nhặt từ map at 03/11/2023 2:57 PM
+BAG:mayconlon add 95xViên Capsule kì bí (old: 94) lydo: Nhặt từ map at 03/11/2023 2:58 PM
+BAG:mayconlon add 96xViên Capsule kì bí (old: 95) lydo: Nhặt từ map at 03/11/2023 2:58 PM
+BAG:mayconlon add 95xHoa hồng xanh (old: 94) lydo: Nhặt từ map at 03/11/2023 2:58 PM
+BAG:mayconlon add 97xViên Capsule kì bí (old: 96) lydo: Nhặt từ map at 03/11/2023 2:58 PM
+BAG:mayconlon add 98xViên Capsule kì bí (old: 97) lydo: Nhặt từ map at 03/11/2023 2:58 PM
+BAG:mayconlon add 90xHoa hồng đỏ (old: 89) lydo: Nhặt từ map at 03/11/2023 2:58 PM
+BAG:mayconlon add 91xHoa hồng đỏ (old: 90) lydo: Nhặt từ map at 03/11/2023 2:58 PM
+BAG:mayconlon add 99xViên Capsule kì bí (old: 98) lydo: Nhặt từ map at 03/11/2023 2:58 PM
+BAG:mayconlon add 1xViên Capsule kì bí lydo: Nhặt từ map at 03/11/2023 2:58 PM
+BAG:mayconlon add 123xHoa hồng vàng (old: 122) lydo: Nhặt từ map at 03/11/2023 2:58 PM
+BAG:mayconlon add 92xHoa hồng đỏ (old: 91) lydo: Nhặt từ map at 03/11/2023 2:58 PM
+BAG:mayconlon add 2xViên Capsule kì bí (old: 1) lydo: Nhặt từ map at 03/11/2023 2:58 PM
+BAG:mayconlon add 124xHoa hồng vàng (old: 123) lydo: Nhặt từ map at 03/11/2023 2:58 PM
+BAG:mayconlon add 3xViên Capsule kì bí (old: 2) lydo: Nhặt từ map at 03/11/2023 2:58 PM
+BAG:mayconlon add 7xĐá Saphia (old: 6) lydo: Nhặt từ map at 03/11/2023 2:58 PM
+BAG:mayconlon add 125xHoa hồng vàng (old: 124) lydo: Nhặt từ map at 03/11/2023 2:58 PM
+BAG:mayconlon add 93xHoa hồng đỏ (old: 92) lydo: Nhặt từ map at 03/11/2023 2:59 PM
+BAG:mayconlon add 4xViên Capsule kì bí (old: 3) lydo: Nhặt từ map at 03/11/2023 2:59 PM
+BAG:mayconlon add 5xViên Capsule kì bí (old: 4) lydo: Nhặt từ map at 03/11/2023 2:59 PM
+BAG:mayconlon add 94xHoa hồng đỏ (old: 93) lydo: Nhặt từ map at 03/11/2023 2:59 PM
+BAG:mayconlon add 126xHoa hồng vàng (old: 125) lydo: Nhặt từ map at 03/11/2023 2:59 PM
+BAG:mayconlon add 127xHoa hồng vàng (old: 126) lydo: Nhặt từ map at 03/11/2023 2:59 PM
+BAG:mayconlon add 95xHoa hồng đỏ (old: 94) lydo: Nhặt từ map at 03/11/2023 2:59 PM
+BAG:mayconlon add 128xHoa hồng vàng (old: 127) lydo: Nhặt từ map at 03/11/2023 2:59 PM
+BAG:mayconlon add 6xViên Capsule kì bí (old: 5) lydo: Nhặt từ map at 03/11/2023 2:59 PM
+BAG:mayconlon add 96xHoa hồng xanh (old: 95) lydo: Nhặt từ map at 03/11/2023 2:59 PM
+BAG:mayconlon add 129xHoa hồng vàng (old: 128) lydo: Nhặt từ map at 03/11/2023 2:59 PM
+BAG:mayconlon add 7xViên Capsule kì bí (old: 6) lydo: Nhặt từ map at 03/11/2023 2:59 PM
+BAG:mayconlon add 8xViên Capsule kì bí (old: 7) lydo: Nhặt từ map at 03/11/2023 2:59 PM
+BAG:mayconlon add 97xHoa hồng xanh (old: 96) lydo: Nhặt từ map at 03/11/2023 2:59 PM
+BAG:mayconlon add 9xViên Capsule kì bí (old: 8) lydo: Nhặt từ map at 03/11/2023 2:59 PM
+BAG:mayconlon add 98xHoa hồng xanh (old: 97) lydo: Nhặt từ map at 03/11/2023 2:59 PM
+BAG:mayconlon add 130xHoa hồng vàng (old: 129) lydo: Nhặt từ map at 03/11/2023 2:59 PM
+BAG:mayconlon add 99xHoa hồng xanh (old: 98) lydo: Nhặt từ map at 03/11/2023 3:00 PM
+BAG:mayconlon add 100xHoa hồng xanh (old: 99) lydo: Nhặt từ map at 03/11/2023 3:00 PM
+BAG:mayconlon add 10xViên Capsule kì bí (old: 9) lydo: Nhặt từ map at 03/11/2023 3:00 PM
+BAG:mayconlon add 131xHoa hồng vàng (old: 130) lydo: Nhặt từ map at 03/11/2023 3:00 PM
+BAG:mayconlon add 132xHoa hồng vàng (old: 131) lydo: Nhặt từ map at 03/11/2023 3:00 PM
+BAG:mayconlon add 11xViên Capsule kì bí (old: 10) lydo: Nhặt từ map at 03/11/2023 3:00 PM
+BAG:mayconlon add 12xViên Capsule kì bí (old: 11) lydo: Nhặt từ map at 03/11/2023 3:00 PM
+BAG:mayconlon add 96xHoa hồng đỏ (old: 95) lydo: Nhặt từ map at 03/11/2023 3:00 PM
+BAG:mayconlon add 13xViên Capsule kì bí (old: 12) lydo: Nhặt từ map at 03/11/2023 3:00 PM
+BAG:mayconlon add 14xViên Capsule kì bí (old: 13) lydo: Nhặt từ map at 03/11/2023 3:00 PM
+BAG:mayconlon add 15xViên Capsule kì bí (old: 14) lydo: Nhặt từ map at 03/11/2023 3:00 PM
+BAG:mayconlon add 133xHoa hồng vàng (old: 132) lydo: Nhặt từ map at 03/11/2023 3:00 PM
+BAG:mayconlon add 134xHoa hồng vàng (old: 133) lydo: Nhặt từ map at 03/11/2023 3:00 PM
+BAG:mayconlon add 101xHoa hồng xanh (old: 100) lydo: Nhặt từ map at 03/11/2023 3:00 PM
+BAG:mayconlon add 97xHoa hồng đỏ (old: 96) lydo: Nhặt từ map at 03/11/2023 3:01 PM
+BAG:mayconlon add 16xViên Capsule kì bí (old: 15) lydo: Nhặt từ map at 03/11/2023 3:01 PM
+BAG:mayconlon add 135xHoa hồng vàng (old: 134) lydo: Nhặt từ map at 03/11/2023 3:01 PM
+BAG:mayconlon add 17xViên Capsule kì bí (old: 16) lydo: Nhặt từ map at 03/11/2023 3:01 PM
+BAG:mayconlon add 18xViên Capsule kì bí (old: 17) lydo: Nhặt từ map at 03/11/2023 3:01 PM
+BAG:mayconlon add 19xViên Capsule kì bí (old: 18) lydo: Nhặt từ map at 03/11/2023 3:01 PM
+BAG:mayconlon add 102xHoa hồng xanh (old: 101) lydo: Nhặt từ map at 03/11/2023 3:01 PM
+BAG:mayconlon add 20xViên Capsule kì bí (old: 19) lydo: Nhặt từ map at 03/11/2023 3:01 PM
+BAG:mayconlon add 21xViên Capsule kì bí (old: 20) lydo: Nhặt từ map at 03/11/2023 3:01 PM
+BAG:mayconlon add 22xViên Capsule kì bí (old: 21) lydo: Nhặt từ map at 03/11/2023 3:01 PM
+BAG:mayconlon add 136xHoa hồng vàng (old: 135) lydo: Nhặt từ map at 03/11/2023 3:01 PM
+BAG:mayconlon add 103xHoa hồng xanh (old: 102) lydo: Nhặt từ map at 03/11/2023 3:01 PM
+BAG:mayconlon add 23xViên Capsule kì bí (old: 22) lydo: Nhặt từ map at 03/11/2023 3:01 PM
+BAG:mayconlon add 24xViên Capsule kì bí (old: 23) lydo: Nhặt từ map at 03/11/2023 3:01 PM
+BAG:mayconlon add 25xViên Capsule kì bí (old: 24) lydo: Nhặt từ map at 03/11/2023 3:01 PM
+BAG:mayconlon add 98xHoa hồng đỏ (old: 97) lydo: Nhặt từ map at 03/11/2023 3:01 PM
+BAG:mayconlon add 137xHoa hồng vàng (old: 136) lydo: Nhặt từ map at 03/11/2023 3:01 PM
+BAG:mayconlon add 26xViên Capsule kì bí (old: 25) lydo: Nhặt từ map at 03/11/2023 3:01 PM
+BAG:mayconlon add 138xHoa hồng vàng (old: 137) lydo: Nhặt từ map at 03/11/2023 3:01 PM
+BAG:mayconlon add 27xViên Capsule kì bí (old: 26) lydo: Nhặt từ map at 03/11/2023 3:01 PM
+BAG:mayconlon add 28xViên Capsule kì bí (old: 27) lydo: Nhặt từ map at 03/11/2023 3:02 PM
+BAG:mayconlon add 29xViên Capsule kì bí (old: 28) lydo: Nhặt từ map at 03/11/2023 3:02 PM
+BAG:mayconlon add 30xViên Capsule kì bí (old: 29) lydo: Nhặt từ map at 03/11/2023 3:02 PM
+BAG:mayconlon add 31xViên Capsule kì bí (old: 30) lydo: Nhặt từ map at 03/11/2023 3:02 PM
+BAG:mayconlon add 139xHoa hồng vàng (old: 138) lydo: Nhặt từ map at 03/11/2023 3:02 PM
+BAG:mayconlon add 99xHoa hồng đỏ (old: 98) lydo: Nhặt từ map at 03/11/2023 3:02 PM
+BAG:mayconlon add 32xViên Capsule kì bí (old: 31) lydo: Nhặt từ map at 03/11/2023 3:02 PM
+BAG:mayconlon add 140xHoa hồng vàng (old: 139) lydo: Nhặt từ map at 03/11/2023 3:02 PM
+BAG:mayconlon add 100xHoa hồng đỏ (old: 99) lydo: Nhặt từ map at 03/11/2023 3:02 PM
+BAG:mayconlon add 141xHoa hồng vàng (old: 140) lydo: Nhặt từ map at 03/11/2023 3:02 PM
+BAG:mayconlon add 104xHoa hồng xanh (old: 103) lydo: Nhặt từ map at 03/11/2023 3:02 PM
+BAG:mayconlon add 33xViên Capsule kì bí (old: 32) lydo: Nhặt từ map at 03/11/2023 3:02 PM
+BAG:mayconlon add 34xViên Capsule kì bí (old: 33) lydo: Nhặt từ map at 03/11/2023 3:02 PM
+BAG:mayconlon add 35xViên Capsule kì bí (old: 34) lydo: Nhặt từ map at 03/11/2023 3:02 PM
+BAG:mayconlon add 36xViên Capsule kì bí (old: 35) lydo: Nhặt từ map at 03/11/2023 3:02 PM
+BAG:mayconlon add 142xHoa hồng vàng (old: 141) lydo: Nhặt từ map at 03/11/2023 3:02 PM
+BAG:mayconlon add 85xNgọc Rồng 6 sao (old: 84) lydo: Nhặt từ map at 03/11/2023 3:02 PM
+BAG:mayconlon add 105xHoa hồng xanh (old: 104) lydo: Nhặt từ map at 03/11/2023 3:02 PM
+BAG:mayconlon add 7xĐá Titan (old: 6) lydo: Nhặt từ map at 03/11/2023 3:02 PM
+BAG:mayconlon add 20xNgọc Rồng 4 sao (old: 19) lydo: Nhặt từ map at 03/11/2023 3:02 PM
+BAG:mayconlon add 143xHoa hồng vàng (old: 142) lydo: Nhặt từ map at 03/11/2023 3:03 PM
+BAG:mayconlon add 37xViên Capsule kì bí (old: 36) lydo: Nhặt từ map at 03/11/2023 3:03 PM
+BAG:mayconlon add 7xĐá Ruby (old: 6) lydo: Nhặt từ map at 03/11/2023 3:03 PM
+BAG:mayconlon add 106xHoa hồng xanh (old: 105) lydo: Nhặt từ map at 03/11/2023 3:03 PM
+BAG:mayconlon add 38xViên Capsule kì bí (old: 37) lydo: Nhặt từ map at 03/11/2023 3:03 PM
+BAG:mayconlon add 144xHoa hồng vàng (old: 143) lydo: Nhặt từ map at 03/11/2023 3:03 PM
+BAG:mayconlon add 101xHoa hồng đỏ (old: 100) lydo: Nhặt từ map at 03/11/2023 3:03 PM
+BAG:mayconlon add 39xViên Capsule kì bí (old: 38) lydo: Nhặt từ map at 03/11/2023 3:11 PM
+BAG:mayconlon add 145xHoa hồng vàng (old: 144) lydo: Nhặt từ map at 03/11/2023 3:11 PM
+BAG:mayconlon add 40xViên Capsule kì bí (old: 39) lydo: Nhặt từ map at 03/11/2023 3:11 PM
+BAG:mayconlon add 146xHoa hồng vàng (old: 145) lydo: Nhặt từ map at 03/11/2023 3:11 PM
+BAG:mayconlon add 21xNgọc Rồng 4 sao (old: 20) lydo: Nhặt từ map at 03/11/2023 3:12 PM
+BAG:mayconlon add 147xHoa hồng vàng (old: 146) lydo: Nhặt từ map at 03/11/2023 3:12 PM
+BAG:mayconlon add 22xNgọc Rồng 4 sao (old: 21) lydo: Nhặt từ map at 03/11/2023 3:12 PM
+BAG:mayconlon add 90xNgọc Rồng 5 sao (old: 89) lydo: Nhặt từ map at 03/11/2023 3:12 PM
+BAG:mayconlon add 41xViên Capsule kì bí (old: 40) lydo: Nhặt từ map at 03/11/2023 3:12 PM
+BAG:mayconlon add 42xViên Capsule kì bí (old: 41) lydo: Nhặt từ map at 03/11/2023 3:12 PM
+BAG:mayconlon add 43xViên Capsule kì bí (old: 42) lydo: Nhặt từ map at 03/11/2023 3:12 PM
+BAG:mayconlon add 44xViên Capsule kì bí (old: 43) lydo: Nhặt từ map at 03/11/2023 3:12 PM
+BAG:mayconlon add 107xHoa hồng xanh (old: 106) lydo: Nhặt từ map at 03/11/2023 3:12 PM
+BAG:mayconlon add 108xHoa hồng xanh (old: 107) lydo: Nhặt từ map at 03/11/2023 3:12 PM
+BAG:mayconlon add 45xViên Capsule kì bí (old: 44) lydo: Nhặt từ map at 03/11/2023 3:12 PM
+BAG:mayconlon add 46xViên Capsule kì bí (old: 45) lydo: Nhặt từ map at 03/11/2023 3:12 PM
+BAG:mayconlon add 109xHoa hồng xanh (old: 108) lydo: Nhặt từ map at 03/11/2023 3:12 PM
+BAG:mayconlon add 47xViên Capsule kì bí (old: 46) lydo: Nhặt từ map at 03/11/2023 3:12 PM
+BAG:mayconlon add 48xViên Capsule kì bí (old: 47) lydo: Nhặt từ map at 03/11/2023 3:12 PM
+BAG:mayconlon add 8xĐá Titan (old: 7) lydo: Nhặt từ map at 03/11/2023 3:12 PM
+BAG:mayconlon add 49xViên Capsule kì bí (old: 48) lydo: Nhặt từ map at 03/11/2023 3:12 PM
+BAG:mayconlon add 50xViên Capsule kì bí (old: 49) lydo: Nhặt từ map at 03/11/2023 3:12 PM
+BAG:mayconlon add 51xViên Capsule kì bí (old: 50) lydo: Nhặt từ map at 03/11/2023 3:12 PM
+BAG:mayconlon add 52xViên Capsule kì bí (old: 51) lydo: Nhặt từ map at 03/11/2023 3:12 PM
+BAG:mayconlon add 86xNgọc Rồng 6 sao (old: 85) lydo: Nhặt từ map at 03/11/2023 3:12 PM
+BAG:mayconlon add 87xNgọc Rồng 6 sao (old: 86) lydo: Nhặt từ map at 03/11/2023 3:12 PM
+BAG:mayconlon add 110xHoa hồng xanh (old: 109) lydo: Nhặt từ map at 03/11/2023 3:13 PM
+BAG:mayconlon add 4xĐá thạch anh tím (old: 3) lydo: Nhặt từ map at 03/11/2023 3:13 PM
+BAG:mayconlon add 53xViên Capsule kì bí (old: 52) lydo: Nhặt từ map at 03/11/2023 3:13 PM
+BAG:mayconlon add 54xViên Capsule kì bí (old: 53) lydo: Nhặt từ map at 03/11/2023 3:13 PM
+BAG:mayconlon add 102xHoa hồng đỏ (old: 101) lydo: Nhặt từ map at 03/11/2023 3:13 PM
+BAG:mayconlon add 55xViên Capsule kì bí (old: 54) lydo: Nhặt từ map at 03/11/2023 3:13 PM
+BAG:mayconlon add 111xHoa hồng xanh (old: 110) lydo: Nhặt từ map at 03/11/2023 3:13 PM
+BAG:mayconlon add 148xHoa hồng vàng (old: 147) lydo: Nhặt từ map at 03/11/2023 3:13 PM
+BAG:mayconlon add 149xHoa hồng vàng (old: 148) lydo: Nhặt từ map at 03/11/2023 3:13 PM
+BAG:mayconlon add 150xHoa hồng vàng (old: 149) lydo: Nhặt từ map at 03/11/2023 3:13 PM
+BAG:mayconlon add 56xViên Capsule kì bí (old: 55) lydo: Nhặt từ map at 03/11/2023 3:13 PM
+BAG:mayconlon add 103xHoa hồng đỏ (old: 102) lydo: Nhặt từ map at 03/11/2023 3:13 PM
+BAG:mayconlon add 57xViên Capsule kì bí (old: 56) lydo: Nhặt từ map at 03/11/2023 3:13 PM
+BAG:mayconlon add 151xHoa hồng vàng (old: 150) lydo: Nhặt từ map at 03/11/2023 3:13 PM
+BAG:mayconlon add 58xViên Capsule kì bí (old: 57) lydo: Nhặt từ map at 03/11/2023 3:13 PM
+BAG:mayconlon add 91xNgọc Rồng 5 sao (old: 90) lydo: Nhặt từ map at 03/11/2023 3:13 PM
+BAG:mayconlon add 59xViên Capsule kì bí (old: 58) lydo: Nhặt từ map at 03/11/2023 3:13 PM
+BAG:mayconlon add 152xHoa hồng vàng (old: 151) lydo: Nhặt từ map at 03/11/2023 3:13 PM
+BAG:mayconlon add 60xViên Capsule kì bí (old: 59) lydo: Nhặt từ map at 03/11/2023 3:14 PM
+BAG:mayconlon add 61xViên Capsule kì bí (old: 60) lydo: Nhặt từ map at 03/11/2023 3:14 PM
+BAG:mayconlon add 153xHoa hồng vàng (old: 152) lydo: Nhặt từ map at 03/11/2023 3:14 PM
+BAG:mayconlon add 88xNgọc Rồng 6 sao (old: 87) lydo: Nhặt từ map at 03/11/2023 3:14 PM
+BAG:mayconlon add 154xHoa hồng vàng (old: 153) lydo: Nhặt từ map at 03/11/2023 3:14 PM
+BAG:mayconlon add 104xHoa hồng đỏ (old: 103) lydo: Nhặt từ map at 03/11/2023 3:14 PM
+BAG:mayconlon add 62xViên Capsule kì bí (old: 61) lydo: Nhặt từ map at 03/11/2023 3:14 PM
+BAG:mayconlon add 105xHoa hồng đỏ (old: 104) lydo: Nhặt từ map at 03/11/2023 3:14 PM
+BAG:mayconlon add 106xHoa hồng đỏ (old: 105) lydo: Nhặt từ map at 03/11/2023 3:14 PM
+BAG:mayconlon add 155xHoa hồng vàng (old: 154) lydo: Nhặt từ map at 03/11/2023 3:14 PM
+BAG:mayconlon add 63xViên Capsule kì bí (old: 62) lydo: Nhặt từ map at 03/11/2023 3:14 PM
+BAG:mayconlon add 23xNgọc Rồng 4 sao (old: 22) lydo: Nhặt từ map at 03/11/2023 3:14 PM
+BAG:mayconlon add 64xViên Capsule kì bí (old: 63) lydo: Nhặt từ map at 03/11/2023 3:14 PM
+BAG:mayconlon add 107xHoa hồng đỏ (old: 106) lydo: Nhặt từ map at 03/11/2023 3:14 PM
+BAG:mayconlon add 65xViên Capsule kì bí (old: 64) lydo: Nhặt từ map at 03/11/2023 3:14 PM
+BAG:mayconlon add 156xHoa hồng vàng (old: 155) lydo: Nhặt từ map at 03/11/2023 3:14 PM
+BAG:mayconlon add 157xHoa hồng vàng (old: 156) lydo: Nhặt từ map at 03/11/2023 3:14 PM
+BAG:mayconlon add 66xViên Capsule kì bí (old: 65) lydo: Nhặt từ map at 03/11/2023 3:14 PM
+BAG:mayconlon add 108xHoa hồng đỏ (old: 107) lydo: Nhặt từ map at 03/11/2023 3:14 PM
+BAG:mayconlon add 8xĐá Ruby (old: 7) lydo: Nhặt từ map at 03/11/2023 3:15 PM
+BAG:mayconlon add 67xViên Capsule kì bí (old: 66) lydo: Nhặt từ map at 03/11/2023 3:15 PM
+BAG:mayconlon add 68xViên Capsule kì bí (old: 67) lydo: Nhặt từ map at 03/11/2023 3:15 PM
+BAG:mayconlon add 69xViên Capsule kì bí (old: 68) lydo: Nhặt từ map at 03/11/2023 3:15 PM
+BAG:mayconlon add 109xHoa hồng đỏ (old: 108) lydo: Nhặt từ map at 03/11/2023 3:15 PM
+BAG:mayconlon add 158xHoa hồng vàng (old: 157) lydo: Nhặt từ map at 03/11/2023 3:15 PM
+BAG:mayconlon add 110xHoa hồng đỏ (old: 109) lydo: Nhặt từ map at 03/11/2023 3:15 PM
+BAG:mayconlon add 159xHoa hồng vàng (old: 158) lydo: Nhặt từ map at 03/11/2023 3:15 PM
+BAG:mayconlon add 70xViên Capsule kì bí (old: 69) lydo: Nhặt từ map at 03/11/2023 3:15 PM
+BAG:mayconlon add 160xHoa hồng vàng (old: 159) lydo: Nhặt từ map at 03/11/2023 3:15 PM
+BAG:mayconlon add 112xHoa hồng xanh (old: 111) lydo: Nhặt từ map at 03/11/2023 3:15 PM
+BAG:mayconlon add 9xĐá Ruby (old: 8) lydo: Nhặt từ map at 03/11/2023 3:15 PM
+BAG:mayconlon add 71xViên Capsule kì bí (old: 70) lydo: Nhặt từ map at 03/11/2023 3:15 PM
+BAG:mayconlon add 113xHoa hồng xanh (old: 112) lydo: Nhặt từ map at 03/11/2023 3:15 PM
+BAG:mayconlon add 72xViên Capsule kì bí (old: 71) lydo: Nhặt từ map at 03/11/2023 3:15 PM
+BAG:mayconlon add 111xHoa hồng đỏ (old: 110) lydo: Nhặt từ map at 03/11/2023 3:15 PM
+BAG:mayconlon add 73xViên Capsule kì bí (old: 72) lydo: Nhặt từ map at 03/11/2023 3:15 PM
+BAG:mayconlon add 161xHoa hồng vàng (old: 160) lydo: Nhặt từ map at 03/11/2023 3:15 PM
+BAG:mayconlon add 112xHoa hồng đỏ (old: 111) lydo: Nhặt từ map at 03/11/2023 3:15 PM
+BAG:mayconlon add 162xHoa hồng vàng (old: 161) lydo: Nhặt từ map at 03/11/2023 3:16 PM
+BAG:mayconlon add 114xHoa hồng xanh (old: 113) lydo: Nhặt từ map at 03/11/2023 3:16 PM
+BAG:mayconlon add 74xViên Capsule kì bí (old: 73) lydo: Nhặt từ map at 03/11/2023 3:16 PM
+BAG:mayconlon add 163xHoa hồng vàng (old: 162) lydo: Nhặt từ map at 03/11/2023 3:16 PM
+BAG:mayconlon add 164xHoa hồng vàng (old: 163) lydo: Nhặt từ map at 03/11/2023 3:16 PM
+BAG:mayconlon add 75xViên Capsule kì bí (old: 74) lydo: Nhặt từ map at 03/11/2023 3:16 PM
+BAG:mayconlon add 76xViên Capsule kì bí (old: 75) lydo: Nhặt từ map at 03/11/2023 3:16 PM
+BAG:mayconlon add 115xHoa hồng xanh (old: 114) lydo: Nhặt từ map at 03/11/2023 3:16 PM
+BAG:mayconlon add 77xViên Capsule kì bí (old: 76) lydo: Nhặt từ map at 03/11/2023 3:16 PM
+BAG:mayconlon add 78xViên Capsule kì bí (old: 77) lydo: Nhặt từ map at 03/11/2023 3:16 PM
+BAG:mayconlon add 116xHoa hồng xanh (old: 115) lydo: Nhặt từ map at 03/11/2023 3:16 PM
+BAG:mayconlon add 79xViên Capsule kì bí (old: 78) lydo: Nhặt từ map at 03/11/2023 3:16 PM
+BAG:mayconlon add 117xHoa hồng xanh (old: 116) lydo: Nhặt từ map at 03/11/2023 3:16 PM
+BAG:mayconlon add 113xHoa hồng đỏ (old: 112) lydo: Nhặt từ map at 03/11/2023 3:16 PM
+BAG:mayconlon add 114xHoa hồng đỏ (old: 113) lydo: Nhặt từ map at 03/11/2023 3:16 PM
+BAG:mayconlon add 165xHoa hồng vàng (old: 164) lydo: Nhặt từ map at 03/11/2023 3:17 PM
+BAG:mayconlon add 166xHoa hồng vàng (old: 165) lydo: Nhặt từ map at 03/11/2023 3:17 PM
+BAG:mayconlon add 167xHoa hồng vàng (old: 166) lydo: Nhặt từ map at 03/11/2023 3:17 PM
+BAG:mayconlon add 168xHoa hồng vàng (old: 167) lydo: Nhặt từ map at 03/11/2023 3:17 PM
+BAG:mayconlon add 169xHoa hồng vàng (old: 168) lydo: Nhặt từ map at 03/11/2023 3:17 PM
+BAG:mayconlon add 170xHoa hồng vàng (old: 169) lydo: Nhặt từ map at 03/11/2023 3:17 PM
+BAG:mayconlon add 10xĐá Ruby (old: 9) lydo: Nhặt từ map at 03/11/2023 3:17 PM
+BAG:mayconlon add 80xViên Capsule kì bí (old: 79) lydo: Nhặt từ map at 03/11/2023 3:17 PM
+BAG:mayconlon add 81xViên Capsule kì bí (old: 80) lydo: Nhặt từ map at 03/11/2023 3:17 PM
+BAG:mayconlon add 115xHoa hồng đỏ (old: 114) lydo: Nhặt từ map at 03/11/2023 3:17 PM
+BAG:mayconlon add 82xViên Capsule kì bí (old: 81) lydo: Nhặt từ map at 03/11/2023 3:17 PM
+BAG:mayconlon add 118xHoa hồng xanh (old: 117) lydo: Nhặt từ map at 03/11/2023 3:17 PM
+BAG:mayconlon add 83xViên Capsule kì bí (old: 82) lydo: Nhặt từ map at 03/11/2023 3:17 PM
+BAG:mayconlon add 5xĐá thạch anh tím (old: 4) lydo: Nhặt từ map at 03/11/2023 3:17 PM
+BAG:mayconlon add 84xViên Capsule kì bí (old: 83) lydo: Nhặt từ map at 03/11/2023 3:17 PM
+BAG:mayconlon add 116xHoa hồng đỏ (old: 115) lydo: Nhặt từ map at 03/11/2023 3:17 PM
+BAG:mayconlon add 117xHoa hồng đỏ (old: 116) lydo: Nhặt từ map at 03/11/2023 3:17 PM
+BAG:mayconlon add 119xHoa hồng xanh (old: 118) lydo: Nhặt từ map at 03/11/2023 3:18 PM
+BAG:mayconlon add 118xHoa hồng đỏ (old: 117) lydo: Nhặt từ map at 03/11/2023 3:18 PM
+BAG:mayconlon add 119xHoa hồng đỏ (old: 118) lydo: Nhặt từ map at 03/11/2023 3:18 PM
+BAG:mayconlon add 120xHoa hồng xanh (old: 119) lydo: Nhặt từ map at 03/11/2023 3:18 PM
+BAG:mayconlon add 171xHoa hồng vàng (old: 170) lydo: Nhặt từ map at 03/11/2023 3:18 PM
+BAG:mayconlon add 172xHoa hồng vàng (old: 171) lydo: Nhặt từ map at 03/11/2023 3:18 PM
+BAG:mayconlon add 89xNgọc Rồng 6 sao (old: 88) lydo: Nhặt từ map at 03/11/2023 3:18 PM
+BAG:mayconlon add 85xViên Capsule kì bí (old: 84) lydo: Nhặt từ map at 03/11/2023 3:18 PM
+BAG:mayconlon add 86xViên Capsule kì bí (old: 85) lydo: Nhặt từ map at 03/11/2023 3:18 PM
+BAG:mayconlon add 87xViên Capsule kì bí (old: 86) lydo: Nhặt từ map at 03/11/2023 3:18 PM
+BAG:mayconlon add 120xHoa hồng đỏ (old: 119) lydo: Nhặt từ map at 03/11/2023 3:18 PM
+BAG:mayconlon add 88xViên Capsule kì bí (old: 87) lydo: Nhặt từ map at 03/11/2023 3:18 PM
+BAG:mayconlon add 89xViên Capsule kì bí (old: 88) lydo: Nhặt từ map at 03/11/2023 3:18 PM
+BAG:mayconlon add 121xHoa hồng đỏ (old: 120) lydo: Nhặt từ map at 03/11/2023 3:18 PM
+BAG:mayconlon add 90xViên Capsule kì bí (old: 89) lydo: Nhặt từ map at 03/11/2023 3:18 PM
+BAG:mayconlon add 91xViên Capsule kì bí (old: 90) lydo: Nhặt từ map at 03/11/2023 3:18 PM
+BAG:mayconlon add 122xHoa hồng đỏ (old: 121) lydo: Nhặt từ map at 03/11/2023 3:18 PM
+BAG:mayconlon add 173xHoa hồng vàng (old: 172) lydo: Nhặt từ map at 03/11/2023 3:18 PM
+BAG:mayconlon add 123xHoa hồng đỏ (old: 122) lydo: Nhặt từ map at 03/11/2023 3:18 PM
+BAG:mayconlon add 92xViên Capsule kì bí (old: 91) lydo: Nhặt từ map at 03/11/2023 3:19 PM
+BAG:mayconlon add 124xHoa hồng đỏ (old: 123) lydo: Nhặt từ map at 03/11/2023 3:19 PM
+BAG:mayconlon add 93xViên Capsule kì bí (old: 92) lydo: Nhặt từ map at 03/11/2023 3:19 PM
+BAG:mayconlon add 125xHoa hồng đỏ (old: 124) lydo: Nhặt từ map at 03/11/2023 3:19 PM
+BAG:mayconlon add 94xViên Capsule kì bí (old: 93) lydo: Nhặt từ map at 03/11/2023 3:19 PM
+BAG:mayconlon add 174xHoa hồng vàng (old: 173) lydo: Nhặt từ map at 03/11/2023 3:19 PM
+BAG:mayconlon add 121xHoa hồng xanh (old: 120) lydo: Nhặt từ map at 03/11/2023 3:19 PM
+BAG:mayconlon add 95xViên Capsule kì bí (old: 94) lydo: Nhặt từ map at 03/11/2023 3:19 PM
+BAG:mayconlon add 126xHoa hồng đỏ (old: 125) lydo: Nhặt từ map at 03/11/2023 3:19 PM
+BAG:mayconlon add 96xViên Capsule kì bí (old: 95) lydo: Nhặt từ map at 03/11/2023 3:19 PM
+BAG:mayconlon add 97xViên Capsule kì bí (old: 96) lydo: Nhặt từ map at 03/11/2023 3:19 PM
+BAG:mayconlon add 127xHoa hồng đỏ (old: 126) lydo: Nhặt từ map at 03/11/2023 3:19 PM
+BAG:mayconlon add 98xViên Capsule kì bí (old: 97) lydo: Nhặt từ map at 03/11/2023 3:19 PM
+BAG:mayconlon add 99xViên Capsule kì bí (old: 98) lydo: Nhặt từ map at 03/11/2023 3:19 PM
+BAG:mayconlon add 1xViên Capsule kì bí lydo: Nhặt từ map at 03/11/2023 3:19 PM
+BAG:mayconlon add 2xViên Capsule kì bí (old: 1) lydo: Nhặt từ map at 03/11/2023 3:19 PM
+BAG:mayconlon add 175xHoa hồng vàng (old: 174) lydo: Nhặt từ map at 03/11/2023 3:19 PM
+BAG:mayconlon add 128xHoa hồng đỏ (old: 127) lydo: Nhặt từ map at 03/11/2023 3:19 PM
+BAG:mayconlon add 122xHoa hồng xanh (old: 121) lydo: Nhặt từ map at 03/11/2023 3:19 PM
+BAG:mayconlon add 3xViên Capsule kì bí (old: 2) lydo: Nhặt từ map at 03/11/2023 3:19 PM
+BAG:mayconlon add 8xĐá Saphia (old: 7) lydo: Nhặt từ map at 03/11/2023 3:19 PM
+BAG:mayconlon add 176xHoa hồng vàng (old: 175) lydo: Nhặt từ map at 03/11/2023 3:19 PM
+BAG:mayconlon add 9xĐá Titan (old: 8) lydo: Nhặt từ map at 03/11/2023 3:20 PM
+BAG:mayconlon add 4xViên Capsule kì bí (old: 3) lydo: Nhặt từ map at 03/11/2023 3:20 PM
+BAG:mayconlon add 129xHoa hồng đỏ (old: 128) lydo: Nhặt từ map at 03/11/2023 3:20 PM
+BAG:mayconlon add 5xViên Capsule kì bí (old: 4) lydo: Nhặt từ map at 03/11/2023 3:20 PM
+BAG:mayconlon add 177xHoa hồng vàng (old: 176) lydo: Nhặt từ map at 03/11/2023 3:20 PM
+BAG:mayconlon add 24xNgọc Rồng 4 sao (old: 23) lydo: Nhặt từ map at 03/11/2023 3:20 PM
+BAG:mayconlon add 6xViên Capsule kì bí (old: 5) lydo: Nhặt từ map at 03/11/2023 3:20 PM
+BAG:mayconlon add 7xViên Capsule kì bí (old: 6) lydo: Nhặt từ map at 03/11/2023 3:20 PM
+BAG:mayconlon add 8xViên Capsule kì bí (old: 7) lydo: Nhặt từ map at 03/11/2023 3:20 PM
+BAG:mayconlon add 178xHoa hồng vàng (old: 177) lydo: Nhặt từ map at 03/11/2023 3:20 PM
+BAG:mayconlon add 179xHoa hồng vàng (old: 178) lydo: Nhặt từ map at 03/11/2023 3:20 PM
+BAG:mayconlon add 9xViên Capsule kì bí (old: 8) lydo: Nhặt từ map at 03/11/2023 3:20 PM
+BAG:mayconlon add 10xViên Capsule kì bí (old: 9) lydo: Nhặt từ map at 03/11/2023 3:20 PM
+BAG:mayconlon add 11xViên Capsule kì bí (old: 10) lydo: Nhặt từ map at 03/11/2023 3:21 PM
+BAG:mayconlon add 180xHoa hồng vàng (old: 179) lydo: Nhặt từ map at 03/11/2023 3:21 PM
+BAG:mayconlon add 123xHoa hồng xanh (old: 122) lydo: Nhặt từ map at 03/11/2023 3:21 PM
+BAG:mayconlon add 12xViên Capsule kì bí (old: 11) lydo: Nhặt từ map at 03/11/2023 3:21 PM
+BAG:mayconlon add 130xHoa hồng đỏ (old: 129) lydo: Nhặt từ map at 03/11/2023 3:21 PM
+BAG:mayconlon add 131xHoa hồng đỏ (old: 130) lydo: Nhặt từ map at 03/11/2023 3:21 PM
+BAG:mayconlon add 124xHoa hồng xanh (old: 123) lydo: Nhặt từ map at 03/11/2023 3:21 PM
+BAG:mayconlon add 125xHoa hồng xanh (old: 124) lydo: Nhặt từ map at 03/11/2023 3:21 PM
+BAG:mayconlon add 181xHoa hồng vàng (old: 180) lydo: Nhặt từ map at 03/11/2023 3:21 PM
+BAG:mayconlon add 9xĐá Saphia (old: 8) lydo: Nhặt từ map at 03/11/2023 3:21 PM
+BAG:mayconlon add 2xĐá lục bảo (old: 1) lydo: Nhặt từ map at 03/11/2023 3:21 PM
+BAG:mayconlon add 132xHoa hồng đỏ (old: 131) lydo: Nhặt từ map at 03/11/2023 3:21 PM
+BAG:mayconlon add 182xHoa hồng vàng (old: 181) lydo: Nhặt từ map at 03/11/2023 3:22 PM
+BAG:mayconlon add 126xHoa hồng xanh (old: 125) lydo: Nhặt từ map at 03/11/2023 3:22 PM
+BAG:mayconlon add 183xHoa hồng vàng (old: 182) lydo: Nhặt từ map at 03/11/2023 3:22 PM
+BAG:mayconlon add 11xĐá Ruby (old: 10) lydo: Nhặt từ map at 03/11/2023 3:22 PM
+BAG:mayconlon add 10xĐá Saphia (old: 9) lydo: Nhặt từ map at 03/11/2023 3:22 PM
+BAG:mayconlon add 184xHoa hồng vàng (old: 183) lydo: Nhặt từ map at 03/11/2023 3:22 PM
+BAG:mayconlon add 25xNgọc Rồng 4 sao (old: 24) lydo: Nhặt từ map at 03/11/2023 3:22 PM
+BAG:mayconlon add 185xHoa hồng vàng (old: 184) lydo: Nhặt từ map at 03/11/2023 3:22 PM
+BAG:mayconlon add 133xHoa hồng đỏ (old: 132) lydo: Nhặt từ map at 03/11/2023 3:22 PM
+BAG:mayconlon add 134xHoa hồng đỏ (old: 133) lydo: Nhặt từ map at 03/11/2023 3:22 PM
+BAG:mayconlon add 186xHoa hồng vàng (old: 185) lydo: Nhặt từ map at 03/11/2023 3:23 PM
+BAG:mayconlon add 90xNgọc Rồng 6 sao (old: 89) lydo: Nhặt từ map at 03/11/2023 3:23 PM
+BAG:mayconlon add 135xHoa hồng đỏ (old: 134) lydo: Nhặt từ map at 03/11/2023 3:23 PM
+BAG:mayconlon add 136xHoa hồng đỏ (old: 135) lydo: Nhặt từ map at 03/11/2023 3:23 PM
+BAG:mayconlon add 187xHoa hồng vàng (old: 186) lydo: Nhặt từ map at 03/11/2023 3:23 PM
+BAG:mayconlon add 188xHoa hồng vàng (old: 187) lydo: Nhặt từ map at 03/11/2023 3:23 PM
+BAG:mayconlon add 11xĐá Saphia (old: 10) lydo: Nhặt từ map at 03/11/2023 3:23 PM
+BAG:mayconlon add 189xHoa hồng vàng (old: 188) lydo: Nhặt từ map at 03/11/2023 3:23 PM
+BAG:mayconlon add 190xHoa hồng vàng (old: 189) lydo: Nhặt từ map at 03/11/2023 3:23 PM
+BAG:mayconlon add 191xHoa hồng vàng (old: 190) lydo: Nhặt từ map at 03/11/2023 3:23 PM
+BAG:mayconlon add 127xHoa hồng xanh (old: 126) lydo: Nhặt từ map at 03/11/2023 3:24 PM
+BAG:mayconlon add 10xĐá Titan (old: 9) lydo: Nhặt từ map at 03/11/2023 3:24 PM
+BAG:mayconlon add 192xHoa hồng vàng (old: 191) lydo: Nhặt từ map at 03/11/2023 3:24 PM
+BAG:mayconlon add 193xHoa hồng vàng (old: 192) lydo: Nhặt từ map at 03/11/2023 3:24 PM
+BAG:mayconlon add 137xHoa hồng đỏ (old: 136) lydo: Nhặt từ map at 03/11/2023 3:24 PM
+BAG:mayconlon add 128xHoa hồng xanh (old: 127) lydo: Nhặt từ map at 03/11/2023 3:24 PM
+BAG:mayconlon add 12xĐá Ruby (old: 11) lydo: Nhặt từ map at 03/11/2023 3:24 PM
+BAG:mayconlon add 138xHoa hồng đỏ (old: 137) lydo: Nhặt từ map at 03/11/2023 3:24 PM
+BAG:mayconlon add 139xHoa hồng đỏ (old: 138) lydo: Nhặt từ map at 03/11/2023 3:24 PM
+BAG:mayconlon add 129xHoa hồng xanh (old: 128) lydo: Nhặt từ map at 03/11/2023 3:24 PM
+BAG:mayconlon add 130xHoa hồng xanh (old: 129) lydo: Nhặt từ map at 03/11/2023 3:24 PM
+BAG:mayconlon add 131xHoa hồng xanh (old: 130) lydo: Nhặt từ map at 03/11/2023 3:24 PM
+BAG:mayconlon add 132xHoa hồng xanh (old: 131) lydo: Nhặt từ map at 03/11/2023 3:24 PM
+BAG:mayconlon add 133xHoa hồng xanh (old: 132) lydo: Nhặt từ map at 03/11/2023 3:25 PM
+BAG:mayconlon add 140xHoa hồng đỏ (old: 139) lydo: Nhặt từ map at 03/11/2023 3:25 PM
+BAG:mayconlon add 134xHoa hồng xanh (old: 133) lydo: Nhặt từ map at 03/11/2023 3:25 PM
+BAG:mayconlon add 141xHoa hồng đỏ (old: 140) lydo: Nhặt từ map at 03/11/2023 3:25 PM
+BAG:mayconlon add 135xHoa hồng xanh (old: 134) lydo: Nhặt từ map at 03/11/2023 3:25 PM
+BAG:mayconlon add 136xHoa hồng xanh (old: 135) lydo: Nhặt từ map at 03/11/2023 3:25 PM
+BAG:mayconlon add 194xHoa hồng vàng (old: 193) lydo: Nhặt từ map at 03/11/2023 3:25 PM
+BAG:mayconlon add 12xĐá Saphia (old: 11) lydo: Nhặt từ map at 03/11/2023 3:25 PM
+BAG:mayconlon add 92xNgọc Rồng 5 sao (old: 91) lydo: Nhặt từ map at 03/11/2023 3:25 PM
+BAG:mayconlon add 195xHoa hồng vàng (old: 194) lydo: Nhặt từ map at 03/11/2023 3:25 PM
+BAG:mayconlon add 196xHoa hồng vàng (old: 195) lydo: Nhặt từ map at 03/11/2023 3:25 PM
+BAG:mayconlon add 91xNgọc Rồng 6 sao (old: 90) lydo: Nhặt từ map at 03/11/2023 3:26 PM
+BAG:mayconlon add 137xHoa hồng xanh (old: 136) lydo: Nhặt từ map at 03/11/2023 3:26 PM
+BAG:mayconlon add 92xNgọc Rồng 6 sao (old: 91) lydo: Nhặt từ map at 03/11/2023 3:26 PM
+BAG:mayconlon add 138xHoa hồng xanh (old: 137) lydo: Nhặt từ map at 03/11/2023 3:26 PM
+BAG:mayconlon add 139xHoa hồng xanh (old: 138) lydo: Nhặt từ map at 03/11/2023 3:26 PM
+BAG:mayconlon add 197xHoa hồng vàng (old: 196) lydo: Nhặt từ map at 03/11/2023 3:26 PM
+BAG:mayconlon add 142xHoa hồng đỏ (old: 141) lydo: Nhặt từ map at 03/11/2023 3:26 PM
+BAG:mayconlon add 140xHoa hồng xanh (old: 139) lydo: Nhặt từ map at 03/11/2023 3:26 PM
+BAG:mayconlon add 143xHoa hồng đỏ (old: 142) lydo: Nhặt từ map at 03/11/2023 3:26 PM
+BAG:mayconlon add 144xHoa hồng đỏ (old: 143) lydo: Nhặt từ map at 03/11/2023 3:26 PM
+BAG:mayconlon add 198xHoa hồng vàng (old: 197) lydo: Nhặt từ map at 03/11/2023 3:26 PM
+BAG:mayconlon add 6xĐá thạch anh tím (old: 5) lydo: Nhặt từ map at 03/11/2023 3:26 PM
+BAG:mayconlon add 141xHoa hồng xanh (old: 140) lydo: Nhặt từ map at 03/11/2023 3:27 PM
+BAG:mayconlon add 145xHoa hồng đỏ (old: 144) lydo: Nhặt từ map at 03/11/2023 3:27 PM
+BAG:mayconlon add 146xHoa hồng đỏ (old: 145) lydo: Nhặt từ map at 03/11/2023 3:27 PM
+BAG:mayconlon add 13xĐá Saphia (old: 12) lydo: Nhặt từ map at 03/11/2023 3:27 PM
+BAG:mayconlon add 147xHoa hồng đỏ (old: 146) lydo: Nhặt từ map at 03/11/2023 3:27 PM
+BAG:mayconlon add 148xHoa hồng đỏ (old: 147) lydo: Nhặt từ map at 03/11/2023 3:27 PM
+BAG:mayconlon add 149xHoa hồng đỏ (old: 148) lydo: Nhặt từ map at 03/11/2023 3:27 PM
+BAG:mayconlon add 199xHoa hồng vàng (old: 198) lydo: Nhặt từ map at 03/11/2023 3:27 PM
+BAG:mayconlon add 200xHoa hồng vàng (old: 199) lydo: Nhặt từ map at 03/11/2023 3:27 PM
+BAG:mayconlon add 93xNgọc Rồng 5 sao (old: 92) lydo: Nhặt từ map at 03/11/2023 3:27 PM
+BAG:mayconlon add 150xHoa hồng đỏ (old: 149) lydo: Nhặt từ map at 03/11/2023 3:27 PM
+BAG:mayconlon add 151xHoa hồng đỏ (old: 150) lydo: Nhặt từ map at 03/11/2023 3:28 PM
+BAG:mayconlon add 201xHoa hồng vàng (old: 200) lydo: Nhặt từ map at 03/11/2023 3:28 PM
+BAG:mayconlon add 11xĐá Titan (old: 10) lydo: Nhặt từ map at 03/11/2023 3:28 PM
+BAG:mayconlon add 202xHoa hồng vàng (old: 201) lydo: Nhặt từ map at 03/11/2023 3:28 PM
+BAG:mayconlon add 94xNgọc Rồng 5 sao (old: 93) lydo: Nhặt từ map at 03/11/2023 3:28 PM
+BAG:mayconlon add 203xHoa hồng vàng (old: 202) lydo: Nhặt từ map at 03/11/2023 3:28 PM
+BAG:mayconlon add 152xHoa hồng đỏ (old: 151) lydo: Nhặt từ map at 03/11/2023 3:28 PM
+BAG:mayconlon add 142xHoa hồng xanh (old: 141) lydo: Nhặt từ map at 03/11/2023 3:28 PM
+BAG:mayconlon add 204xHoa hồng vàng (old: 203) lydo: Nhặt từ map at 03/11/2023 3:28 PM
+BAG:mayconlon add 205xHoa hồng vàng (old: 204) lydo: Nhặt từ map at 03/11/2023 3:28 PM
+BAG:mayconlon add 143xHoa hồng xanh (old: 142) lydo: Nhặt từ map at 03/11/2023 3:28 PM
+BAG:mayconlon add 206xHoa hồng vàng (old: 205) lydo: Nhặt từ map at 03/11/2023 3:28 PM
+BAG:mayconlon add 7xĐá thạch anh tím (old: 6) lydo: Nhặt từ map at 03/11/2023 3:29 PM
+BAG:mayconlon add 144xHoa hồng xanh (old: 143) lydo: Nhặt từ map at 03/11/2023 3:29 PM
+BAG:mayconlon add 153xHoa hồng đỏ (old: 152) lydo: Nhặt từ map at 03/11/2023 3:29 PM
+BAG:mayconlon add 145xHoa hồng xanh (old: 144) lydo: Nhặt từ map at 03/11/2023 3:29 PM
+BAG:mayconlon add 8xĐá thạch anh tím (old: 7) lydo: Nhặt từ map at 03/11/2023 3:29 PM
+BAG:mayconlon add 154xHoa hồng đỏ (old: 153) lydo: Nhặt từ map at 03/11/2023 3:29 PM
+BAG:mayconlon add 207xHoa hồng vàng (old: 206) lydo: Nhặt từ map at 03/11/2023 3:29 PM
+BAG:mayconlon add 155xHoa hồng đỏ (old: 154) lydo: Nhặt từ map at 03/11/2023 3:29 PM
+BAG:mayconlon add 208xHoa hồng vàng (old: 207) lydo: Nhặt từ map at 03/11/2023 3:29 PM
+BAG:mayconlon add 156xHoa hồng đỏ (old: 155) lydo: Nhặt từ map at 03/11/2023 3:29 PM
+BAG:mayconlon add 157xHoa hồng đỏ (old: 156) lydo: Nhặt từ map at 03/11/2023 3:29 PM
+BAG:mayconlon add 209xHoa hồng vàng (old: 208) lydo: Nhặt từ map at 03/11/2023 3:29 PM
+BAG:mayconlon add 210xHoa hồng vàng (old: 209) lydo: Nhặt từ map at 03/11/2023 3:29 PM
+BAG:mayconlon add 211xHoa hồng vàng (old: 210) lydo: Nhặt từ map at 03/11/2023 3:29 PM
+BAG:mayconlon add 212xHoa hồng vàng (old: 211) lydo: Nhặt từ map at 03/11/2023 3:30 PM
+BAG:mayconlon add 146xHoa hồng xanh (old: 145) lydo: Nhặt từ map at 03/11/2023 3:30 PM
+BAG:mayconlon add 147xHoa hồng xanh (old: 146) lydo: Nhặt từ map at 03/11/2023 3:30 PM
+BAG:mayconlon add 158xHoa hồng đỏ (old: 157) lydo: Nhặt từ map at 03/11/2023 3:30 PM
+BAG:mayconlon add 12xĐá Titan (old: 11) lydo: Nhặt từ map at 03/11/2023 3:30 PM
+BAG:mayconlon add 213xHoa hồng vàng (old: 212) lydo: Nhặt từ map at 03/11/2023 3:30 PM
+BAG:mayconlon add 214xHoa hồng vàng (old: 213) lydo: Nhặt từ map at 03/11/2023 3:30 PM
+BAG:mayconlon add 26xNgọc Rồng 4 sao (old: 25) lydo: Nhặt từ map at 03/11/2023 3:30 PM
+BAG:mayconlon add 215xHoa hồng vàng (old: 214) lydo: Nhặt từ map at 03/11/2023 3:31 PM
+BAG:mayconlon add 216xHoa hồng vàng (old: 215) lydo: Nhặt từ map at 03/11/2023 3:31 PM
+BAG:mayconlon add 217xHoa hồng vàng (old: 216) lydo: Nhặt từ map at 03/11/2023 3:31 PM
+BAG:mayconlon add 148xHoa hồng xanh (old: 147) lydo: Nhặt từ map at 03/11/2023 3:31 PM
+BAG:mayconlon add 159xHoa hồng đỏ (old: 158) lydo: Nhặt từ map at 03/11/2023 3:31 PM
+BAG:mayconlon add 218xHoa hồng vàng (old: 217) lydo: Nhặt từ map at 03/11/2023 3:31 PM
+BAG:mayconlon add 219xHoa hồng vàng (old: 218) lydo: Nhặt từ map at 03/11/2023 3:31 PM
+BAG:mayconlon add 13xĐá Ruby (old: 12) lydo: Nhặt từ map at 03/11/2023 3:31 PM
+BAG:mayconlon add 220xHoa hồng vàng (old: 219) lydo: Nhặt từ map at 03/11/2023 3:31 PM
+BAG:mayconlon add 14xĐá Saphia (old: 13) lydo: Nhặt từ map at 03/11/2023 3:31 PM
+BAG:mayconlon add 149xHoa hồng xanh (old: 148) lydo: Nhặt từ map at 03/11/2023 3:41 PM
+BAG:mayconlon add 1xCải trang Hatchiyack lydo: Lấy từ body vào hành trang at 03/11/2023 3:48 PM
+BAG:mayconlon add 1xGiáp tập luyện cấp 3 lydo: Lấy từ body vào hành trang at 03/11/2023 3:49 PM
+BAG:mayconlon add 1xNgọc Rồng 2 sao lydo: Nhặt từ map at 03/11/2023 3:59 PM
+BAG:mayconlon add 1xNgọc Rồng 3 sao lydo: Nhặt từ map at 03/11/2023 3:59 PM
+BAG:mayconlon add 1xGiáp tập luyện cấp 3 lydo: Lấy từ body vào hành trang at 03/11/2023 4:05 PM
+BAG:mayconlon add 2xNgọc Rồng 3 sao (old: 1) lydo: Nhặt từ map at 03/11/2023 4:12 PM
+BAG:mayconlon add 1xGiáp tập luyện cấp 3 lydo: Lấy từ body vào hành trang at 03/11/2023 4:20 PM
+BAG:mayconlon add 1xGiáp tập luyện cấp 3 lydo: Lấy từ body vào hành trang at 03/11/2023 4:24 PM
+BAG:mayconlon add 1xẨn danh lydo: CSKB at 03/11/2023 4:25 PM
+BAG:mayconlon add 37xCuồng nộ (old: 36) lydo: CSKB at 03/11/2023 4:25 PM
+BAG:mayconlon add 1xThiệp chúc mừng xanh lydo: Nhặt từ map at 03/11/2023 4:25 PM
+BAG:mayconlon add 1xGiáp tập luyện cấp 3 lydo: Lấy từ body vào hành trang at 03/11/2023 4:30 PM
+BAG:mayconlon add 1xĐá ngũ sắc lydo: Nhặt từ map at 03/11/2023 4:37 PM

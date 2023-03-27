@@ -1,0 +1,626 @@
+BAG:kakakarot add 171xThỏi vàng (old: 71) lydo: Giftcode at 03/11/2023 6:51 AM
+BAG:kakakarot add 1xGiáp tập luyện cấp 3 lydo: Lấy từ body vào hành trang at 03/11/2023 9:27 AM
+BAG:kakakarot add 1xCải trang Hatchiyack lydo: Lấy từ body đệ vào hành trang at 03/11/2023 9:30 AM
+BAG:kakakarot add 1xGiáp tập luyện cấp 3 lydo: Lấy từ body đệ vào hành trang at 03/11/2023 9:31 AM
+BAG:kakakarot add 124xHoa hồng vàng (old: 123) lydo: Nhặt từ map at 03/11/2023 9:40 AM
+BAG:kakakarot add 1xGiáp tập luyện cấp 3 lydo: Lấy từ body vào hành trang at 03/11/2023 9:40 AM
+BAG:kakakarot add 6xĐá Ruby (old: 5) lydo: Nhặt từ map at 03/11/2023 9:40 AM
+BAG:kakakarot add 90xHoa hồng xanh (old: 89) lydo: Nhặt từ map at 03/11/2023 9:40 AM
+BAG:kakakarot add 7xĐá Ruby (old: 6) lydo: Nhặt từ map at 03/11/2023 9:40 AM
+BAG:kakakarot add 1xNgọc Rồng 6 sao lydo: Nhặt từ map at 03/11/2023 9:40 AM
+BAG:kakakarot add 90xHoa hồng đỏ (old: 89) lydo: Nhặt từ map at 03/11/2023 9:40 AM
+BAG:kakakarot add 91xHoa hồng đỏ (old: 90) lydo: Nhặt từ map at 03/11/2023 9:40 AM
+BAG:kakakarot add 125xHoa hồng vàng (old: 124) lydo: Nhặt từ map at 03/11/2023 9:40 AM
+BAG:kakakarot add 91xHoa hồng xanh (old: 90) lydo: Nhặt từ map at 03/11/2023 9:41 AM
+BAG:kakakarot add 126xHoa hồng vàng (old: 125) lydo: Nhặt từ map at 03/11/2023 9:41 AM
+BAG:kakakarot add 2xNgọc Rồng 6 sao (old: 1) lydo: Nhặt từ map at 03/11/2023 9:41 AM
+BAG:kakakarot add 5xĐá Saphia (old: 4) lydo: Nhặt từ map at 03/11/2023 9:42 AM
+BAG:kakakarot add 92xHoa hồng xanh (old: 91) lydo: Nhặt từ map at 03/11/2023 9:42 AM
+BAG:kakakarot add 6xĐá lục bảo (old: 5) lydo: Nhặt từ map at 03/11/2023 9:42 AM
+BAG:kakakarot add 93xHoa hồng xanh (old: 92) lydo: Nhặt từ map at 03/11/2023 9:42 AM
+BAG:kakakarot add 92xHoa hồng đỏ (old: 91) lydo: Nhặt từ map at 03/11/2023 9:43 AM
+BAG:kakakarot add 127xHoa hồng vàng (old: 126) lydo: Nhặt từ map at 03/11/2023 9:43 AM
+BAG:kakakarot add 93xHoa hồng đỏ (old: 92) lydo: Nhặt từ map at 03/11/2023 9:43 AM
+BAG:kakakarot add 7xĐá lục bảo (old: 6) lydo: Nhặt từ map at 03/11/2023 9:43 AM
+BAG:kakakarot add 94xHoa hồng đỏ (old: 93) lydo: Nhặt từ map at 03/11/2023 9:44 AM
+BAG:kakakarot add 7xNgọc Rồng 4 sao (old: 6) lydo: Nhặt từ map at 03/11/2023 9:44 AM
+BAG:kakakarot add 6xĐá Saphia (old: 5) lydo: Nhặt từ map at 03/11/2023 9:44 AM
+BAG:kakakarot add 95xHoa hồng đỏ (old: 94) lydo: Nhặt từ map at 03/11/2023 9:44 AM
+BAG:kakakarot add 94xHoa hồng xanh (old: 93) lydo: Nhặt từ map at 03/11/2023 9:44 AM
+BAG:kakakarot add 1xNgọc Rồng 5 sao lydo: Nhặt từ map at 03/11/2023 9:44 AM
+BAG:kakakarot add 95xHoa hồng xanh (old: 94) lydo: Nhặt từ map at 03/11/2023 9:44 AM
+BAG:kakakarot add 96xHoa hồng xanh (old: 95) lydo: Nhặt từ map at 03/11/2023 9:44 AM
+BAG:kakakarot add 96xHoa hồng đỏ (old: 95) lydo: Nhặt từ map at 03/11/2023 9:44 AM
+BAG:kakakarot add 97xHoa hồng đỏ (old: 96) lydo: Nhặt từ map at 03/11/2023 9:44 AM
+BAG:kakakarot add 128xHoa hồng vàng (old: 127) lydo: Nhặt từ map at 03/11/2023 9:44 AM
+BAG:kakakarot add 8xNgọc Rồng 4 sao (old: 7) lydo: Nhặt từ map at 03/11/2023 9:44 AM
+BAG:kakakarot add 97xHoa hồng xanh (old: 96) lydo: Nhặt từ map at 03/11/2023 9:44 AM
+BAG:kakakarot add 5xĐá Titan (old: 4) lydo: Nhặt từ map at 03/11/2023 9:44 AM
+BAG:kakakarot add 98xHoa hồng xanh (old: 97) lydo: Nhặt từ map at 03/11/2023 9:44 AM
+BAG:kakakarot add 98xHoa hồng đỏ (old: 97) lydo: Nhặt từ map at 03/11/2023 9:44 AM
+BAG:kakakarot add 99xHoa hồng xanh (old: 98) lydo: Nhặt từ map at 03/11/2023 9:44 AM
+BAG:kakakarot add 8xĐá Ruby (old: 7) lydo: Nhặt từ map at 03/11/2023 9:45 AM
+BAG:kakakarot add 129xHoa hồng vàng (old: 128) lydo: Nhặt từ map at 03/11/2023 9:45 AM
+BAG:kakakarot add 100xHoa hồng xanh (old: 99) lydo: Nhặt từ map at 03/11/2023 9:45 AM
+BAG:kakakarot add 99xHoa hồng đỏ (old: 98) lydo: Nhặt từ map at 03/11/2023 9:45 AM
+BAG:kakakarot add 101xHoa hồng xanh (old: 100) lydo: Nhặt từ map at 03/11/2023 9:45 AM
+BAG:kakakarot add 130xHoa hồng vàng (old: 129) lydo: Nhặt từ map at 03/11/2023 9:45 AM
+BAG:kakakarot add 8xĐá lục bảo (old: 7) lydo: Nhặt từ map at 03/11/2023 9:45 AM
+BAG:kakakarot add 9xNgọc Rồng 4 sao (old: 8) lydo: Nhặt từ map at 03/11/2023 9:45 AM
+BAG:kakakarot add 100xHoa hồng đỏ (old: 99) lydo: Nhặt từ map at 03/11/2023 9:45 AM
+BAG:kakakarot add 7xĐá Saphia (old: 6) lydo: Nhặt từ map at 03/11/2023 9:45 AM
+BAG:kakakarot add 131xHoa hồng vàng (old: 130) lydo: Nhặt từ map at 03/11/2023 9:45 AM
+BAG:kakakarot add 132xHoa hồng vàng (old: 131) lydo: Nhặt từ map at 03/11/2023 9:45 AM
+BAG:kakakarot add 101xHoa hồng đỏ (old: 100) lydo: Nhặt từ map at 03/11/2023 9:45 AM
+BAG:kakakarot add 102xHoa hồng đỏ (old: 101) lydo: Nhặt từ map at 03/11/2023 9:45 AM
+BAG:kakakarot add 133xHoa hồng vàng (old: 132) lydo: Nhặt từ map at 03/11/2023 9:45 AM
+BAG:kakakarot add 103xHoa hồng đỏ (old: 102) lydo: Nhặt từ map at 03/11/2023 9:45 AM
+BAG:kakakarot add 102xHoa hồng xanh (old: 101) lydo: Nhặt từ map at 03/11/2023 9:45 AM
+BAG:kakakarot add 8xĐá Saphia (old: 7) lydo: Nhặt từ map at 03/11/2023 9:45 AM
+BAG:kakakarot add 103xHoa hồng xanh (old: 102) lydo: Nhặt từ map at 03/11/2023 9:45 AM
+BAG:kakakarot add 104xHoa hồng xanh (old: 103) lydo: Nhặt từ map at 03/11/2023 9:46 AM
+BAG:kakakarot add 134xHoa hồng vàng (old: 133) lydo: Nhặt từ map at 03/11/2023 9:46 AM
+BAG:kakakarot add 135xHoa hồng vàng (old: 134) lydo: Nhặt từ map at 03/11/2023 9:46 AM
+BAG:kakakarot add 105xHoa hồng xanh (old: 104) lydo: Nhặt từ map at 03/11/2023 9:46 AM
+BAG:kakakarot add 104xHoa hồng đỏ (old: 103) lydo: Nhặt từ map at 03/11/2023 9:46 AM
+BAG:kakakarot add 9xĐá Ruby (old: 8) lydo: Nhặt từ map at 03/11/2023 9:46 AM
+BAG:kakakarot add 2xNgọc Rồng 5 sao (old: 1) lydo: Nhặt từ map at 03/11/2023 9:46 AM
+BAG:kakakarot add 136xHoa hồng vàng (old: 135) lydo: Nhặt từ map at 03/11/2023 9:46 AM
+BAG:kakakarot add 137xHoa hồng vàng (old: 136) lydo: Nhặt từ map at 03/11/2023 9:46 AM
+BAG:kakakarot add 9xĐá lục bảo (old: 8) lydo: Nhặt từ map at 03/11/2023 9:46 AM
+BAG:kakakarot add 106xHoa hồng xanh (old: 105) lydo: Nhặt từ map at 03/11/2023 9:46 AM
+BAG:kakakarot add 105xHoa hồng đỏ (old: 104) lydo: Nhặt từ map at 03/11/2023 9:47 AM
+BAG:kakakarot add 107xHoa hồng xanh (old: 106) lydo: Nhặt từ map at 03/11/2023 9:47 AM
+BAG:kakakarot add 138xHoa hồng vàng (old: 137) lydo: Nhặt từ map at 03/11/2023 9:47 AM
+BAG:kakakarot add 108xHoa hồng xanh (old: 107) lydo: Nhặt từ map at 03/11/2023 9:47 AM
+BAG:kakakarot add 10xNgọc Rồng 4 sao (old: 9) lydo: Nhặt từ map at 03/11/2023 9:47 AM
+BAG:kakakarot add 106xHoa hồng đỏ (old: 105) lydo: Nhặt từ map at 03/11/2023 9:47 AM
+BAG:kakakarot add 139xHoa hồng vàng (old: 138) lydo: Nhặt từ map at 03/11/2023 9:47 AM
+BAG:kakakarot add 140xHoa hồng vàng (old: 139) lydo: Nhặt từ map at 03/11/2023 9:47 AM
+BAG:kakakarot add 141xHoa hồng vàng (old: 140) lydo: Nhặt từ map at 03/11/2023 9:47 AM
+BAG:kakakarot add 142xHoa hồng vàng (old: 141) lydo: Nhặt từ map at 03/11/2023 9:47 AM
+BAG:kakakarot add 6xĐá Titan (old: 5) lydo: Nhặt từ map at 03/11/2023 9:47 AM
+BAG:kakakarot add 109xHoa hồng xanh (old: 108) lydo: Nhặt từ map at 03/11/2023 9:48 AM
+BAG:kakakarot add 107xHoa hồng đỏ (old: 106) lydo: Nhặt từ map at 03/11/2023 9:48 AM
+BAG:kakakarot add 143xHoa hồng vàng (old: 142) lydo: Nhặt từ map at 03/11/2023 9:48 AM
+BAG:kakakarot add 144xHoa hồng vàng (old: 143) lydo: Nhặt từ map at 03/11/2023 9:48 AM
+BAG:kakakarot add 10xĐá Ruby (old: 9) lydo: Nhặt từ map at 03/11/2023 9:48 AM
+BAG:kakakarot add 110xHoa hồng xanh (old: 109) lydo: Nhặt từ map at 03/11/2023 9:48 AM
+BAG:kakakarot add 111xHoa hồng xanh (old: 110) lydo: Nhặt từ map at 03/11/2023 9:48 AM
+BAG:kakakarot add 112xHoa hồng xanh (old: 111) lydo: Nhặt từ map at 03/11/2023 9:48 AM
+BAG:kakakarot add 108xHoa hồng đỏ (old: 107) lydo: Nhặt từ map at 03/11/2023 9:48 AM
+BAG:kakakarot add 145xHoa hồng vàng (old: 144) lydo: Nhặt từ map at 03/11/2023 9:48 AM
+BAG:kakakarot add 146xHoa hồng vàng (old: 145) lydo: Nhặt từ map at 03/11/2023 9:49 AM
+BAG:kakakarot add 11xNgọc Rồng 4 sao (old: 10) lydo: Nhặt từ map at 03/11/2023 9:49 AM
+BAG:kakakarot add 113xHoa hồng xanh (old: 112) lydo: Nhặt từ map at 03/11/2023 9:49 AM
+BAG:kakakarot add 147xHoa hồng vàng (old: 146) lydo: Nhặt từ map at 03/11/2023 9:49 AM
+BAG:kakakarot add 148xHoa hồng vàng (old: 147) lydo: Nhặt từ map at 03/11/2023 9:49 AM
+BAG:kakakarot add 114xHoa hồng xanh (old: 113) lydo: Nhặt từ map at 03/11/2023 9:49 AM
+BAG:kakakarot add 149xHoa hồng vàng (old: 148) lydo: Nhặt từ map at 03/11/2023 9:49 AM
+BAG:kakakarot add 115xHoa hồng xanh (old: 114) lydo: Nhặt từ map at 03/11/2023 9:49 AM
+BAG:kakakarot add 116xHoa hồng xanh (old: 115) lydo: Nhặt từ map at 03/11/2023 9:49 AM
+BAG:kakakarot add 117xHoa hồng xanh (old: 116) lydo: Nhặt từ map at 03/11/2023 9:49 AM
+BAG:kakakarot add 118xHoa hồng xanh (old: 117) lydo: Nhặt từ map at 03/11/2023 9:49 AM
+BAG:kakakarot add 150xHoa hồng vàng (old: 149) lydo: Nhặt từ map at 03/11/2023 9:49 AM
+BAG:kakakarot add 5xĐá thạch anh tím (old: 4) lydo: Nhặt từ map at 03/11/2023 9:49 AM
+BAG:kakakarot add 109xHoa hồng đỏ (old: 108) lydo: Nhặt từ map at 03/11/2023 9:49 AM
+BAG:kakakarot add 6xĐá thạch anh tím (old: 5) lydo: Nhặt từ map at 03/11/2023 9:49 AM
+BAG:kakakarot add 10xĐá lục bảo (old: 9) lydo: Nhặt từ map at 03/11/2023 9:50 AM
+BAG:kakakarot add 7xĐá thạch anh tím (old: 6) lydo: Nhặt từ map at 03/11/2023 9:50 AM
+BAG:kakakarot add 110xHoa hồng đỏ (old: 109) lydo: Nhặt từ map at 03/11/2023 9:50 AM
+BAG:kakakarot add 119xHoa hồng xanh (old: 118) lydo: Nhặt từ map at 03/11/2023 9:50 AM
+BAG:kakakarot add 151xHoa hồng vàng (old: 150) lydo: Nhặt từ map at 03/11/2023 9:50 AM
+BAG:kakakarot add 120xHoa hồng xanh (old: 119) lydo: Nhặt từ map at 03/11/2023 9:50 AM
+BAG:kakakarot add 121xHoa hồng xanh (old: 120) lydo: Nhặt từ map at 03/11/2023 9:50 AM
+BAG:kakakarot add 122xHoa hồng xanh (old: 121) lydo: Nhặt từ map at 03/11/2023 9:50 AM
+BAG:kakakarot add 12xNgọc Rồng 4 sao (old: 11) lydo: Nhặt từ map at 03/11/2023 9:50 AM
+BAG:kakakarot add 152xHoa hồng vàng (old: 151) lydo: Nhặt từ map at 03/11/2023 9:50 AM
+BAG:kakakarot add 153xHoa hồng vàng (old: 152) lydo: Nhặt từ map at 03/11/2023 9:50 AM
+BAG:kakakarot add 111xHoa hồng đỏ (old: 110) lydo: Nhặt từ map at 03/11/2023 9:50 AM
+BAG:kakakarot add 9xĐá Saphia (old: 8) lydo: Nhặt từ map at 03/11/2023 9:50 AM
+BAG:kakakarot add 112xHoa hồng đỏ (old: 111) lydo: Nhặt từ map at 03/11/2023 9:50 AM
+BAG:kakakarot add 8xĐá thạch anh tím (old: 7) lydo: Nhặt từ map at 03/11/2023 9:50 AM
+BAG:kakakarot add 11xĐá lục bảo (old: 10) lydo: Nhặt từ map at 03/11/2023 9:50 AM
+BAG:kakakarot add 9xĐá thạch anh tím (old: 8) lydo: Nhặt từ map at 03/11/2023 9:50 AM
+BAG:kakakarot add 123xHoa hồng xanh (old: 122) lydo: Nhặt từ map at 03/11/2023 9:50 AM
+BAG:kakakarot add 154xHoa hồng vàng (old: 153) lydo: Nhặt từ map at 03/11/2023 9:50 AM
+BAG:kakakarot add 113xHoa hồng đỏ (old: 112) lydo: Nhặt từ map at 03/11/2023 9:50 AM
+BAG:kakakarot add 10xĐá Saphia (old: 9) lydo: Nhặt từ map at 03/11/2023 9:51 AM
+BAG:kakakarot add 155xHoa hồng vàng (old: 154) lydo: Nhặt từ map at 03/11/2023 9:51 AM
+BAG:kakakarot add 10xĐá thạch anh tím (old: 9) lydo: Nhặt từ map at 03/11/2023 9:51 AM
+BAG:kakakarot add 156xHoa hồng vàng (old: 155) lydo: Nhặt từ map at 03/11/2023 9:51 AM
+BAG:kakakarot add 124xHoa hồng xanh (old: 123) lydo: Nhặt từ map at 03/11/2023 9:51 AM
+BAG:kakakarot add 11xĐá thạch anh tím (old: 10) lydo: Nhặt từ map at 03/11/2023 9:51 AM
+BAG:kakakarot add 114xHoa hồng đỏ (old: 113) lydo: Nhặt từ map at 03/11/2023 9:51 AM
+BAG:kakakarot add 115xHoa hồng đỏ (old: 114) lydo: Nhặt từ map at 03/11/2023 9:51 AM
+BAG:kakakarot add 157xHoa hồng vàng (old: 156) lydo: Nhặt từ map at 03/11/2023 9:51 AM
+BAG:kakakarot add 7xĐá Titan (old: 6) lydo: Nhặt từ map at 03/11/2023 9:51 AM
+BAG:kakakarot add 12xĐá thạch anh tím (old: 11) lydo: Nhặt từ map at 03/11/2023 9:51 AM
+BAG:kakakarot add 8xĐá Titan (old: 7) lydo: Nhặt từ map at 03/11/2023 9:51 AM
+BAG:kakakarot add 125xHoa hồng xanh (old: 124) lydo: Nhặt từ map at 03/11/2023 9:51 AM
+BAG:kakakarot add 158xHoa hồng vàng (old: 157) lydo: Nhặt từ map at 03/11/2023 9:51 AM
+BAG:kakakarot add 11xĐá Ruby (old: 10) lydo: Nhặt từ map at 03/11/2023 9:51 AM
+BAG:kakakarot add 159xHoa hồng vàng (old: 158) lydo: Nhặt từ map at 03/11/2023 9:51 AM
+BAG:kakakarot add 160xHoa hồng vàng (old: 159) lydo: Nhặt từ map at 03/11/2023 9:52 AM
+BAG:kakakarot add 13xNgọc Rồng 4 sao (old: 12) lydo: Nhặt từ map at 03/11/2023 9:52 AM
+BAG:kakakarot add 161xHoa hồng vàng (old: 160) lydo: Nhặt từ map at 03/11/2023 9:52 AM
+BAG:kakakarot add 162xHoa hồng vàng (old: 161) lydo: Nhặt từ map at 03/11/2023 9:52 AM
+BAG:kakakarot add 163xHoa hồng vàng (old: 162) lydo: Nhặt từ map at 03/11/2023 9:52 AM
+BAG:kakakarot add 12xĐá Ruby (old: 11) lydo: Nhặt từ map at 03/11/2023 9:52 AM
+BAG:kakakarot add 126xHoa hồng xanh (old: 125) lydo: Nhặt từ map at 03/11/2023 9:52 AM
+BAG:kakakarot add 1xGiáp tập luyện cấp 3 lydo: Lấy từ body vào hành trang at 03/11/2023 9:55 AM
+BAG:kakakarot add 1xGiáp tập luyện cấp 3 lydo: Lấy từ body vào hành trang at 03/11/2023 10:08 AM
+BAG:kakakarot add 1xGiáp tập luyện cấp 3 lydo: Lấy từ body vào hành trang at 03/11/2023 10:20 AM
+BAG:kakakarot add 1xGiáp tập luyện cấp 3 lydo: Lấy từ body vào hành trang at 03/11/2023 10:20 AM
+BAG:kakakarot add 127xHoa hồng xanh (old: 126) lydo: Nhặt từ map at 03/11/2023 11:12 AM
+BAG:kakakarot add 116xHoa hồng đỏ (old: 115) lydo: Nhặt từ map at 03/11/2023 11:13 AM
+BAG:kakakarot add 164xHoa hồng vàng (old: 163) lydo: Nhặt từ map at 03/11/2023 11:13 AM
+BAG:kakakarot add 165xHoa hồng vàng (old: 164) lydo: Nhặt từ map at 03/11/2023 11:13 AM
+BAG:kakakarot add 166xHoa hồng vàng (old: 165) lydo: Nhặt từ map at 03/11/2023 11:13 AM
+BAG:kakakarot add 117xHoa hồng đỏ (old: 116) lydo: Nhặt từ map at 03/11/2023 11:13 AM
+BAG:kakakarot add 14xNgọc Rồng 4 sao (old: 13) lydo: Nhặt từ map at 03/11/2023 11:14 AM
+BAG:kakakarot add 167xHoa hồng vàng (old: 166) lydo: Nhặt từ map at 03/11/2023 11:14 AM
+BAG:kakakarot add 168xHoa hồng vàng (old: 167) lydo: Nhặt từ map at 03/11/2023 11:14 AM
+BAG:kakakarot add 13xĐá Ruby (old: 12) lydo: Nhặt từ map at 03/11/2023 11:14 AM
+BAG:kakakarot add 118xHoa hồng đỏ (old: 117) lydo: Nhặt từ map at 03/11/2023 11:14 AM
+BAG:kakakarot add 128xHoa hồng xanh (old: 127) lydo: Nhặt từ map at 03/11/2023 11:14 AM
+BAG:kakakarot add 14xĐá Ruby (old: 13) lydo: Nhặt từ map at 03/11/2023 11:14 AM
+BAG:kakakarot add 169xHoa hồng vàng (old: 168) lydo: Nhặt từ map at 03/11/2023 11:15 AM
+BAG:kakakarot add 170xHoa hồng vàng (old: 169) lydo: Nhặt từ map at 03/11/2023 11:15 AM
+BAG:kakakarot add 119xHoa hồng đỏ (old: 118) lydo: Nhặt từ map at 03/11/2023 11:15 AM
+BAG:kakakarot add 171xHoa hồng vàng (old: 170) lydo: Nhặt từ map at 03/11/2023 11:15 AM
+BAG:kakakarot add 129xHoa hồng xanh (old: 128) lydo: Nhặt từ map at 03/11/2023 11:15 AM
+BAG:kakakarot add 130xHoa hồng xanh (old: 129) lydo: Nhặt từ map at 03/11/2023 11:15 AM
+BAG:kakakarot add 172xHoa hồng vàng (old: 171) lydo: Nhặt từ map at 03/11/2023 11:15 AM
+BAG:kakakarot add 15xNgọc Rồng 4 sao (old: 14) lydo: Nhặt từ map at 03/11/2023 11:16 AM
+BAG:kakakarot add 120xHoa hồng đỏ (old: 119) lydo: Nhặt từ map at 03/11/2023 11:16 AM
+BAG:kakakarot add 13xĐá thạch anh tím (old: 12) lydo: Nhặt từ map at 03/11/2023 11:16 AM
+BAG:kakakarot add 12xĐá lục bảo (old: 11) lydo: Nhặt từ map at 03/11/2023 11:16 AM
+BAG:kakakarot add 121xHoa hồng đỏ (old: 120) lydo: Nhặt từ map at 03/11/2023 11:17 AM
+BAG:kakakarot add 173xHoa hồng vàng (old: 172) lydo: Nhặt từ map at 03/11/2023 11:17 AM
+BAG:kakakarot add 174xHoa hồng vàng (old: 173) lydo: Nhặt từ map at 03/11/2023 11:18 AM
+BAG:kakakarot add 175xHoa hồng vàng (old: 174) lydo: Nhặt từ map at 03/11/2023 11:18 AM
+BAG:kakakarot add 131xHoa hồng xanh (old: 130) lydo: Nhặt từ map at 03/11/2023 11:18 AM
+BAG:kakakarot add 132xHoa hồng xanh (old: 131) lydo: Nhặt từ map at 03/11/2023 11:18 AM
+BAG:kakakarot add 176xHoa hồng vàng (old: 175) lydo: Nhặt từ map at 03/11/2023 11:18 AM
+BAG:kakakarot add 133xHoa hồng xanh (old: 132) lydo: Nhặt từ map at 03/11/2023 11:18 AM
+BAG:kakakarot add 122xHoa hồng đỏ (old: 121) lydo: Nhặt từ map at 03/11/2023 11:18 AM
+BAG:kakakarot add 13xĐá lục bảo (old: 12) lydo: Nhặt từ map at 03/11/2023 11:18 AM
+BAG:kakakarot add 177xHoa hồng vàng (old: 176) lydo: Nhặt từ map at 03/11/2023 11:18 AM
+BAG:kakakarot add 178xHoa hồng vàng (old: 177) lydo: Nhặt từ map at 03/11/2023 11:18 AM
+BAG:kakakarot add 179xHoa hồng vàng (old: 178) lydo: Nhặt từ map at 03/11/2023 11:19 AM
+BAG:kakakarot add 14xĐá thạch anh tím (old: 13) lydo: Nhặt từ map at 03/11/2023 11:19 AM
+BAG:kakakarot add 180xHoa hồng vàng (old: 179) lydo: Nhặt từ map at 03/11/2023 11:19 AM
+BAG:kakakarot add 123xHoa hồng đỏ (old: 122) lydo: Nhặt từ map at 03/11/2023 11:19 AM
+BAG:kakakarot add 15xĐá Ruby (old: 14) lydo: Nhặt từ map at 03/11/2023 11:20 AM
+BAG:kakakarot add 9xĐá Titan (old: 8) lydo: Nhặt từ map at 03/11/2023 11:20 AM
+BAG:kakakarot add 134xHoa hồng xanh (old: 133) lydo: Nhặt từ map at 03/11/2023 11:20 AM
+BAG:kakakarot add 124xHoa hồng đỏ (old: 123) lydo: Nhặt từ map at 03/11/2023 11:20 AM
+BAG:kakakarot add 135xHoa hồng xanh (old: 134) lydo: Nhặt từ map at 03/11/2023 11:20 AM
+BAG:kakakarot add 136xHoa hồng xanh (old: 135) lydo: Nhặt từ map at 03/11/2023 11:20 AM
+BAG:kakakarot add 181xHoa hồng vàng (old: 180) lydo: Nhặt từ map at 03/11/2023 11:20 AM
+BAG:kakakarot add 182xHoa hồng vàng (old: 181) lydo: Nhặt từ map at 03/11/2023 11:21 AM
+BAG:kakakarot add 125xHoa hồng đỏ (old: 124) lydo: Nhặt từ map at 03/11/2023 11:21 AM
+BAG:kakakarot add 126xHoa hồng đỏ (old: 125) lydo: Nhặt từ map at 03/11/2023 11:21 AM
+BAG:kakakarot add 183xHoa hồng vàng (old: 182) lydo: Nhặt từ map at 03/11/2023 11:21 AM
+BAG:kakakarot add 137xHoa hồng xanh (old: 136) lydo: Nhặt từ map at 03/11/2023 11:22 AM
+BAG:kakakarot add 138xHoa hồng xanh (old: 137) lydo: Nhặt từ map at 03/11/2023 11:22 AM
+BAG:kakakarot add 3xNgọc Rồng 5 sao (old: 2) lydo: Nhặt từ map at 03/11/2023 11:22 AM
+BAG:kakakarot add 139xHoa hồng xanh (old: 138) lydo: Nhặt từ map at 03/11/2023 11:23 AM
+BAG:kakakarot add 140xHoa hồng xanh (old: 139) lydo: Nhặt từ map at 03/11/2023 11:23 AM
+BAG:kakakarot add 141xHoa hồng xanh (old: 140) lydo: Nhặt từ map at 03/11/2023 11:23 AM
+BAG:kakakarot add 127xHoa hồng đỏ (old: 126) lydo: Nhặt từ map at 03/11/2023 11:23 AM
+BAG:kakakarot add 184xHoa hồng vàng (old: 183) lydo: Nhặt từ map at 03/11/2023 11:23 AM
+BAG:kakakarot add 128xHoa hồng đỏ (old: 127) lydo: Nhặt từ map at 03/11/2023 11:23 AM
+BAG:kakakarot add 16xĐá Ruby (old: 15) lydo: Nhặt từ map at 03/11/2023 11:24 AM
+BAG:kakakarot add 185xHoa hồng vàng (old: 184) lydo: Nhặt từ map at 03/11/2023 11:24 AM
+BAG:kakakarot add 186xHoa hồng vàng (old: 185) lydo: Nhặt từ map at 03/11/2023 11:24 AM
+BAG:kakakarot add 129xHoa hồng đỏ (old: 128) lydo: Nhặt từ map at 03/11/2023 11:24 AM
+BAG:kakakarot add 14xĐá lục bảo (old: 13) lydo: Nhặt từ map at 03/11/2023 11:24 AM
+BAG:kakakarot add 187xHoa hồng vàng (old: 186) lydo: Nhặt từ map at 03/11/2023 11:25 AM
+BAG:kakakarot add 188xHoa hồng vàng (old: 187) lydo: Nhặt từ map at 03/11/2023 11:25 AM
+BAG:kakakarot add 17xĐá Ruby (old: 16) lydo: Nhặt từ map at 03/11/2023 11:25 AM
+BAG:kakakarot add 189xHoa hồng vàng (old: 188) lydo: Nhặt từ map at 03/11/2023 11:25 AM
+BAG:kakakarot add 190xHoa hồng vàng (old: 189) lydo: Nhặt từ map at 03/11/2023 11:25 AM
+BAG:kakakarot add 142xHoa hồng xanh (old: 141) lydo: Nhặt từ map at 03/11/2023 11:25 AM
+BAG:kakakarot add 18xĐá Ruby (old: 17) lydo: Nhặt từ map at 03/11/2023 11:26 AM
+BAG:kakakarot add 191xHoa hồng vàng (old: 190) lydo: Nhặt từ map at 03/11/2023 11:26 AM
+BAG:kakakarot add 143xHoa hồng xanh (old: 142) lydo: Nhặt từ map at 03/11/2023 11:26 AM
+BAG:kakakarot add 130xHoa hồng đỏ (old: 129) lydo: Nhặt từ map at 03/11/2023 11:26 AM
+BAG:kakakarot add 10xĐá Titan (old: 9) lydo: Nhặt từ map at 03/11/2023 11:26 AM
+BAG:kakakarot add 11xĐá Saphia (old: 10) lydo: Nhặt từ map at 03/11/2023 11:26 AM
+BAG:kakakarot add 15xĐá lục bảo (old: 14) lydo: Nhặt từ map at 03/11/2023 11:26 AM
+BAG:kakakarot add 192xHoa hồng vàng (old: 191) lydo: Nhặt từ map at 03/11/2023 11:26 AM
+BAG:kakakarot add 144xHoa hồng xanh (old: 143) lydo: Nhặt từ map at 03/11/2023 11:27 AM
+BAG:kakakarot add 131xHoa hồng đỏ (old: 130) lydo: Nhặt từ map at 03/11/2023 11:27 AM
+BAG:kakakarot add 145xHoa hồng xanh (old: 144) lydo: Nhặt từ map at 03/11/2023 11:27 AM
+BAG:kakakarot add 132xHoa hồng đỏ (old: 131) lydo: Nhặt từ map at 03/11/2023 11:27 AM
+BAG:kakakarot add 11xĐá Titan (old: 10) lydo: Nhặt từ map at 03/11/2023 11:27 AM
+BAG:kakakarot add 133xHoa hồng đỏ (old: 132) lydo: Nhặt từ map at 03/11/2023 11:27 AM
+BAG:kakakarot add 146xHoa hồng xanh (old: 145) lydo: Nhặt từ map at 03/11/2023 11:27 AM
+BAG:kakakarot add 193xHoa hồng vàng (old: 192) lydo: Nhặt từ map at 03/11/2023 11:27 AM
+BAG:kakakarot add 194xHoa hồng vàng (old: 193) lydo: Nhặt từ map at 03/11/2023 11:28 AM
+BAG:kakakarot add 147xHoa hồng xanh (old: 146) lydo: Nhặt từ map at 03/11/2023 11:28 AM
+BAG:kakakarot add 148xHoa hồng xanh (old: 147) lydo: Nhặt từ map at 03/11/2023 11:28 AM
+BAG:kakakarot add 134xHoa hồng đỏ (old: 133) lydo: Nhặt từ map at 03/11/2023 11:28 AM
+BAG:kakakarot add 135xHoa hồng đỏ (old: 134) lydo: Nhặt từ map at 03/11/2023 11:28 AM
+BAG:kakakarot add 4xNgọc Rồng 5 sao (old: 3) lydo: Nhặt từ map at 03/11/2023 11:28 AM
+BAG:kakakarot add 12xĐá Titan (old: 11) lydo: Nhặt từ map at 03/11/2023 11:29 AM
+BAG:kakakarot add 149xHoa hồng xanh (old: 148) lydo: Nhặt từ map at 03/11/2023 11:29 AM
+BAG:kakakarot add 16xNgọc Rồng 4 sao (old: 15) lydo: Nhặt từ map at 03/11/2023 11:29 AM
+BAG:kakakarot add 136xHoa hồng đỏ (old: 135) lydo: Nhặt từ map at 03/11/2023 11:29 AM
+BAG:kakakarot add 195xHoa hồng vàng (old: 194) lydo: Nhặt từ map at 03/11/2023 11:29 AM
+BAG:kakakarot add 150xHoa hồng xanh (old: 149) lydo: Nhặt từ map at 03/11/2023 11:29 AM
+BAG:kakakarot add 16xĐá lục bảo (old: 15) lydo: Nhặt từ map at 03/11/2023 11:30 AM
+BAG:kakakarot add 13xĐá Titan (old: 12) lydo: Nhặt từ map at 03/11/2023 11:30 AM
+BAG:kakakarot add 3xNgọc Rồng 6 sao (old: 2) lydo: Nhặt từ map at 03/11/2023 11:30 AM
+BAG:kakakarot add 196xHoa hồng vàng (old: 195) lydo: Nhặt từ map at 03/11/2023 11:30 AM
+BAG:kakakarot add 17xNgọc Rồng 4 sao (old: 16) lydo: Nhặt từ map at 03/11/2023 11:30 AM
+BAG:kakakarot add 197xHoa hồng vàng (old: 196) lydo: Nhặt từ map at 03/11/2023 11:30 AM
+BAG:kakakarot add 198xHoa hồng vàng (old: 197) lydo: Nhặt từ map at 03/11/2023 11:31 AM
+BAG:kakakarot add 199xHoa hồng vàng (old: 198) lydo: Nhặt từ map at 03/11/2023 11:31 AM
+BAG:kakakarot add 200xHoa hồng vàng (old: 199) lydo: Nhặt từ map at 03/11/2023 11:31 AM
+BAG:kakakarot add 12xĐá Saphia (old: 11) lydo: Nhặt từ map at 03/11/2023 11:31 AM
+BAG:kakakarot add 137xHoa hồng đỏ (old: 136) lydo: Nhặt từ map at 03/11/2023 11:31 AM
+BAG:kakakarot add 18xNgọc Rồng 4 sao (old: 17) lydo: Nhặt từ map at 03/11/2023 11:31 AM
+BAG:kakakarot add 151xHoa hồng xanh (old: 150) lydo: Nhặt từ map at 03/11/2023 11:32 AM
+BAG:kakakarot add 17xĐá lục bảo (old: 16) lydo: Nhặt từ map at 03/11/2023 11:32 AM
+BAG:kakakarot add 201xHoa hồng vàng (old: 200) lydo: Nhặt từ map at 03/11/2023 11:32 AM
+BAG:kakakarot add 19xĐá Ruby (old: 18) lydo: Nhặt từ map at 03/11/2023 11:32 AM
+BAG:kakakarot add 13xĐá Saphia (old: 12) lydo: Nhặt từ map at 03/11/2023 11:32 AM
+BAG:kakakarot add 138xHoa hồng đỏ (old: 137) lydo: Nhặt từ map at 03/11/2023 11:32 AM
+BAG:kakakarot add 14xĐá Saphia (old: 13) lydo: Nhặt từ map at 03/11/2023 11:32 AM
+BAG:kakakarot add 15xĐá Saphia (old: 14) lydo: Nhặt từ map at 03/11/2023 11:32 AM
+BAG:kakakarot add 139xHoa hồng đỏ (old: 138) lydo: Nhặt từ map at 03/11/2023 11:32 AM
+BAG:kakakarot add 18xĐá lục bảo (old: 17) lydo: Nhặt từ map at 03/11/2023 11:32 AM
+BAG:kakakarot add 19xĐá lục bảo (old: 18) lydo: Nhặt từ map at 03/11/2023 11:33 AM
+BAG:kakakarot add 202xHoa hồng vàng (old: 201) lydo: Nhặt từ map at 03/11/2023 11:33 AM
+BAG:kakakarot add 19xNgọc Rồng 4 sao (old: 18) lydo: Nhặt từ map at 03/11/2023 11:33 AM
+BAG:kakakarot add 14xĐá Titan (old: 13) lydo: Nhặt từ map at 03/11/2023 11:33 AM
+BAG:kakakarot add 152xHoa hồng xanh (old: 151) lydo: Nhặt từ map at 03/11/2023 11:33 AM
+BAG:kakakarot add 20xNgọc Rồng 4 sao (old: 19) lydo: Nhặt từ map at 03/11/2023 11:33 AM
+BAG:kakakarot add 203xHoa hồng vàng (old: 202) lydo: Nhặt từ map at 03/11/2023 11:34 AM
+BAG:kakakarot add 204xHoa hồng vàng (old: 203) lydo: Nhặt từ map at 03/11/2023 11:34 AM
+BAG:kakakarot add 20xĐá Ruby (old: 19) lydo: Nhặt từ map at 03/11/2023 11:34 AM
+BAG:kakakarot add 205xHoa hồng vàng (old: 204) lydo: Nhặt từ map at 03/11/2023 11:34 AM
+BAG:kakakarot add 140xHoa hồng đỏ (old: 139) lydo: Nhặt từ map at 03/11/2023 11:34 AM
+BAG:kakakarot add 153xHoa hồng xanh (old: 152) lydo: Nhặt từ map at 03/11/2023 11:34 AM
+BAG:kakakarot add 141xHoa hồng đỏ (old: 140) lydo: Nhặt từ map at 03/11/2023 11:34 AM
+BAG:kakakarot add 142xHoa hồng đỏ (old: 141) lydo: Nhặt từ map at 03/11/2023 11:34 AM
+BAG:kakakarot add 143xHoa hồng đỏ (old: 142) lydo: Nhặt từ map at 03/11/2023 11:36 AM
+BAG:kakakarot add 206xHoa hồng vàng (old: 205) lydo: Nhặt từ map at 03/11/2023 11:36 AM
+BAG:kakakarot add 21xNgọc Rồng 4 sao (old: 20) lydo: Nhặt từ map at 03/11/2023 11:37 AM
+BAG:kakakarot add 144xHoa hồng đỏ (old: 143) lydo: Nhặt từ map at 03/11/2023 11:37 AM
+BAG:kakakarot add 154xHoa hồng xanh (old: 153) lydo: Nhặt từ map at 03/11/2023 11:37 AM
+BAG:kakakarot add 16xĐá Saphia (old: 15) lydo: Nhặt từ map at 03/11/2023 11:37 AM
+BAG:kakakarot add 155xHoa hồng xanh (old: 154) lydo: Nhặt từ map at 03/11/2023 11:37 AM
+BAG:kakakarot add 207xHoa hồng vàng (old: 206) lydo: Nhặt từ map at 03/11/2023 11:37 AM
+BAG:kakakarot add 208xHoa hồng vàng (old: 207) lydo: Nhặt từ map at 03/11/2023 11:38 AM
+BAG:kakakarot add 209xHoa hồng vàng (old: 208) lydo: Nhặt từ map at 03/11/2023 11:38 AM
+BAG:kakakarot add 145xHoa hồng đỏ (old: 144) lydo: Nhặt từ map at 03/11/2023 11:38 AM
+BAG:kakakarot add 17xĐá Saphia (old: 16) lydo: Nhặt từ map at 03/11/2023 11:38 AM
+BAG:kakakarot add 15xĐá thạch anh tím (old: 14) lydo: Nhặt từ map at 03/11/2023 11:38 AM
+BAG:kakakarot add 16xĐá thạch anh tím (old: 15) lydo: Nhặt từ map at 03/11/2023 11:38 AM
+BAG:kakakarot add 146xHoa hồng đỏ (old: 145) lydo: Nhặt từ map at 03/11/2023 11:39 AM
+BAG:kakakarot add 210xHoa hồng vàng (old: 209) lydo: Nhặt từ map at 03/11/2023 11:39 AM
+BAG:kakakarot add 17xĐá thạch anh tím (old: 16) lydo: Nhặt từ map at 03/11/2023 11:39 AM
+BAG:kakakarot add 211xHoa hồng vàng (old: 210) lydo: Nhặt từ map at 03/11/2023 11:39 AM
+BAG:kakakarot add 21xĐá Ruby (old: 20) lydo: Nhặt từ map at 03/11/2023 11:39 AM
+BAG:kakakarot add 212xHoa hồng vàng (old: 211) lydo: Nhặt từ map at 03/11/2023 11:39 AM
+BAG:kakakarot add 15xĐá Titan (old: 14) lydo: Nhặt từ map at 03/11/2023 11:39 AM
+BAG:kakakarot add 147xHoa hồng đỏ (old: 146) lydo: Nhặt từ map at 03/11/2023 11:40 AM
+BAG:kakakarot add 156xHoa hồng xanh (old: 155) lydo: Nhặt từ map at 03/11/2023 11:40 AM
+BAG:kakakarot add 213xHoa hồng vàng (old: 212) lydo: Nhặt từ map at 03/11/2023 11:40 AM
+BAG:kakakarot add 1xCải trang lydo: Mua từ cửa hàng at 03/11/2023 11:44 AM
+BAG:kakakarot add 1xSao pha lê lydo: Nhặt từ map at 03/11/2023 11:44 AM
+BAG:kakakarot add 157xHoa hồng xanh (old: 156) lydo: Nhặt từ map at 03/11/2023 11:44 AM
+BAG:kakakarot add 148xHoa hồng đỏ (old: 147) lydo: Nhặt từ map at 03/11/2023 11:44 AM
+BAG:kakakarot add 1xSao pha lê lydo: Nhặt từ map at 03/11/2023 11:44 AM
+BAG:kakakarot add 158xHoa hồng xanh (old: 157) lydo: Nhặt từ map at 03/11/2023 11:44 AM
+BAG:kakakarot add 20xĐá lục bảo (old: 19) lydo: Nhặt từ map at 03/11/2023 11:44 AM
+BAG:kakakarot add 4xNgọc Rồng 6 sao (old: 3) lydo: Nhặt từ map at 03/11/2023 11:44 AM
+BAG:kakakarot add 159xHoa hồng xanh (old: 158) lydo: Nhặt từ map at 03/11/2023 11:45 AM
+BAG:kakakarot add 149xHoa hồng đỏ (old: 148) lydo: Nhặt từ map at 03/11/2023 11:45 AM
+BAG:kakakarot add 214xHoa hồng vàng (old: 213) lydo: Nhặt từ map at 03/11/2023 11:45 AM
+BAG:kakakarot add 5xNgọc Rồng 6 sao (old: 4) lydo: Nhặt từ map at 03/11/2023 11:45 AM
+BAG:kakakarot add 150xHoa hồng đỏ (old: 149) lydo: Nhặt từ map at 03/11/2023 11:45 AM
+BAG:kakakarot add 160xHoa hồng xanh (old: 159) lydo: Nhặt từ map at 03/11/2023 11:45 AM
+BAG:kakakarot add 1xĐá Saphia lydo: Nhặt từ map at 03/11/2023 11:45 AM
+BAG:kakakarot add 215xHoa hồng vàng (old: 214) lydo: Nhặt từ map at 03/11/2023 11:45 AM
+BAG:kakakarot add 161xHoa hồng xanh (old: 160) lydo: Nhặt từ map at 03/11/2023 11:45 AM
+BAG:kakakarot add 1xSao pha lê lydo: Nhặt từ map at 03/11/2023 11:45 AM
+BAG:kakakarot add 216xHoa hồng vàng (old: 215) lydo: Nhặt từ map at 03/11/2023 11:45 AM
+BAG:kakakarot add 1xSao pha lê lydo: Nhặt từ map at 03/11/2023 11:45 AM
+BAG:kakakarot add 1xĐá Ruby lydo: Nhặt từ map at 03/11/2023 11:45 AM
+BAG:kakakarot add 217xHoa hồng vàng (old: 216) lydo: Nhặt từ map at 03/11/2023 11:45 AM
+BAG:kakakarot add 1xSao pha lê lydo: Nhặt từ map at 03/11/2023 11:45 AM
+BAG:kakakarot add 1xSao pha lê lydo: Nhặt từ map at 03/11/2023 11:45 AM
+BAG:kakakarot add 218xHoa hồng vàng (old: 217) lydo: Nhặt từ map at 03/11/2023 11:46 AM
+BAG:kakakarot add 219xHoa hồng vàng (old: 218) lydo: Nhặt từ map at 03/11/2023 11:46 AM
+BAG:kakakarot add 1xSao pha lê lydo: Nhặt từ map at 03/11/2023 11:46 AM
+BAG:kakakarot add 2xSao pha lê (old: 1) lydo: Nhặt từ map at 03/11/2023 11:46 AM
+BAG:kakakarot add 1xSao pha lê lydo: Nhặt từ map at 03/11/2023 11:46 AM
+BAG:kakakarot add 220xHoa hồng vàng (old: 219) lydo: Nhặt từ map at 03/11/2023 11:46 AM
+BAG:kakakarot add 162xHoa hồng xanh (old: 161) lydo: Nhặt từ map at 03/11/2023 11:46 AM
+BAG:kakakarot add 221xHoa hồng vàng (old: 220) lydo: Nhặt từ map at 03/11/2023 11:46 AM
+BAG:kakakarot add 151xHoa hồng đỏ (old: 150) lydo: Nhặt từ map at 03/11/2023 11:46 AM
+BAG:kakakarot add 222xHoa hồng vàng (old: 221) lydo: Nhặt từ map at 03/11/2023 11:46 AM
+BAG:kakakarot add 163xHoa hồng xanh (old: 162) lydo: Nhặt từ map at 03/11/2023 11:46 AM
+BAG:kakakarot add 2xSao pha lê (old: 1) lydo: Nhặt từ map at 03/11/2023 11:46 AM
+BAG:kakakarot add 5xNgọc Rồng 5 sao (old: 4) lydo: Nhặt từ map at 03/11/2023 11:46 AM
+BAG:kakakarot add 152xHoa hồng đỏ (old: 151) lydo: Nhặt từ map at 03/11/2023 11:46 AM
+BAG:kakakarot add 3xSao pha lê (old: 2) lydo: Nhặt từ map at 03/11/2023 11:46 AM
+BAG:kakakarot add 223xHoa hồng vàng (old: 222) lydo: Nhặt từ map at 03/11/2023 11:49 AM
+BAG:kakakarot add 153xHoa hồng đỏ (old: 152) lydo: Nhặt từ map at 03/11/2023 11:49 AM
+BAG:kakakarot add 224xHoa hồng vàng (old: 223) lydo: Nhặt từ map at 03/11/2023 11:49 AM
+BAG:kakakarot add 225xHoa hồng vàng (old: 224) lydo: Nhặt từ map at 03/11/2023 11:49 AM
+BAG:kakakarot add 1xĐá lục bảo lydo: Nhặt từ map at 03/11/2023 11:49 AM
+BAG:kakakarot add 226xHoa hồng vàng (old: 225) lydo: Nhặt từ map at 03/11/2023 11:49 AM
+BAG:kakakarot add 227xHoa hồng vàng (old: 226) lydo: Nhặt từ map at 03/11/2023 11:49 AM
+BAG:kakakarot add 228xHoa hồng vàng (old: 227) lydo: Nhặt từ map at 03/11/2023 11:49 AM
+BAG:kakakarot add 154xHoa hồng đỏ (old: 153) lydo: Nhặt từ map at 03/11/2023 11:49 AM
+BAG:kakakarot add 1xĐá Ruby lydo: Nhặt từ map at 03/11/2023 11:49 AM
+BAG:kakakarot add 155xHoa hồng đỏ (old: 154) lydo: Nhặt từ map at 03/11/2023 11:49 AM
+BAG:kakakarot add 1xĐá Saphia lydo: Nhặt từ map at 03/11/2023 11:49 AM
+BAG:kakakarot add 18xĐá thạch anh tím (old: 17) lydo: Nhặt từ map at 03/11/2023 11:49 AM
+BAG:kakakarot add 164xHoa hồng xanh (old: 163) lydo: Nhặt từ map at 03/11/2023 11:49 AM
+BAG:kakakarot add 22xNgọc Rồng 4 sao (old: 21) lydo: Nhặt từ map at 03/11/2023 11:49 AM
+BAG:kakakarot add 156xHoa hồng đỏ (old: 155) lydo: Nhặt từ map at 03/11/2023 11:49 AM
+BAG:kakakarot add 2xĐá Saphia (old: 1) lydo: Nhặt từ map at 03/11/2023 11:50 AM
+BAG:kakakarot add 165xHoa hồng xanh (old: 164) lydo: Nhặt từ map at 03/11/2023 11:50 AM
+BAG:kakakarot add 229xHoa hồng vàng (old: 228) lydo: Nhặt từ map at 03/11/2023 11:50 AM
+BAG:kakakarot add 157xHoa hồng đỏ (old: 156) lydo: Nhặt từ map at 03/11/2023 11:50 AM
+BAG:kakakarot add 230xHoa hồng vàng (old: 229) lydo: Nhặt từ map at 03/11/2023 11:50 AM
+BAG:kakakarot add 231xHoa hồng vàng (old: 230) lydo: Nhặt từ map at 03/11/2023 11:50 AM
+BAG:kakakarot add 232xHoa hồng vàng (old: 231) lydo: Nhặt từ map at 03/11/2023 11:50 AM
+BAG:kakakarot add 158xHoa hồng đỏ (old: 157) lydo: Nhặt từ map at 03/11/2023 11:50 AM
+BAG:kakakarot add 159xHoa hồng đỏ (old: 158) lydo: Nhặt từ map at 03/11/2023 11:50 AM
+BAG:kakakarot add 233xHoa hồng vàng (old: 232) lydo: Nhặt từ map at 03/11/2023 11:51 AM
+BAG:kakakarot add 166xHoa hồng xanh (old: 165) lydo: Nhặt từ map at 03/11/2023 11:51 AM
+BAG:kakakarot add 1xĐá Titan lydo: Nhặt từ map at 03/11/2023 11:51 AM
+BAG:kakakarot add 2xĐá lục bảo (old: 1) lydo: Nhặt từ map at 03/11/2023 11:51 AM
+BAG:kakakarot add 2xĐá Ruby (old: 1) lydo: Nhặt từ map at 03/11/2023 11:51 AM
+BAG:kakakarot add 234xHoa hồng vàng (old: 233) lydo: Nhặt từ map at 03/11/2023 11:51 AM
+BAG:kakakarot add 23xNgọc Rồng 4 sao (old: 22) lydo: Nhặt từ map at 03/11/2023 11:51 AM
+BAG:kakakarot add 235xHoa hồng vàng (old: 234) lydo: Nhặt từ map at 03/11/2023 11:51 AM
+BAG:kakakarot add 236xHoa hồng vàng (old: 235) lydo: Nhặt từ map at 03/11/2023 11:51 AM
+BAG:kakakarot add 3xĐá Ruby (old: 2) lydo: Nhặt từ map at 03/11/2023 11:51 AM
+BAG:kakakarot add 237xHoa hồng vàng (old: 236) lydo: Nhặt từ map at 03/11/2023 11:51 AM
+BAG:kakakarot add 2xĐá Titan (old: 1) lydo: Nhặt từ map at 03/11/2023 11:51 AM
+BAG:kakakarot add 3xĐá Saphia (old: 2) lydo: Nhặt từ map at 03/11/2023 11:51 AM
+BAG:kakakarot add 238xHoa hồng vàng (old: 237) lydo: Nhặt từ map at 03/11/2023 11:51 AM
+BAG:kakakarot add 167xHoa hồng xanh (old: 166) lydo: Nhặt từ map at 03/11/2023 11:51 AM
+BAG:kakakarot add 160xHoa hồng đỏ (old: 159) lydo: Nhặt từ map at 03/11/2023 11:51 AM
+BAG:kakakarot add 168xHoa hồng xanh (old: 167) lydo: Nhặt từ map at 03/11/2023 11:51 AM
+BAG:kakakarot add 161xHoa hồng đỏ (old: 160) lydo: Nhặt từ map at 03/11/2023 11:51 AM
+BAG:kakakarot add 24xNgọc Rồng 4 sao (old: 23) lydo: Nhặt từ map at 03/11/2023 11:52 AM
+BAG:kakakarot add 239xHoa hồng vàng (old: 238) lydo: Nhặt từ map at 03/11/2023 11:52 AM
+BAG:kakakarot add 162xHoa hồng đỏ (old: 161) lydo: Nhặt từ map at 03/11/2023 11:52 AM
+BAG:kakakarot add 1xĐá lục bảo lydo: Nhặt từ map at 03/11/2023 11:52 AM
+BAG:kakakarot add 2xĐá lục bảo (old: 1) lydo: Nhặt từ map at 03/11/2023 11:52 AM
+BAG:kakakarot add 163xHoa hồng đỏ (old: 162) lydo: Nhặt từ map at 03/11/2023 11:52 AM
+BAG:kakakarot add 1xĐá Ruby lydo: Nhặt từ map at 03/11/2023 11:52 AM
+BAG:kakakarot add 240xHoa hồng vàng (old: 239) lydo: Nhặt từ map at 03/11/2023 11:52 AM
+BAG:kakakarot add 241xHoa hồng vàng (old: 240) lydo: Nhặt từ map at 03/11/2023 11:52 AM
+BAG:kakakarot add 242xHoa hồng vàng (old: 241) lydo: Nhặt từ map at 03/11/2023 11:52 AM
+BAG:kakakarot add 3xĐá lục bảo (old: 2) lydo: Nhặt từ map at 03/11/2023 11:53 AM
+BAG:kakakarot add 243xHoa hồng vàng (old: 242) lydo: Nhặt từ map at 03/11/2023 11:53 AM
+BAG:kakakarot add 164xHoa hồng đỏ (old: 163) lydo: Nhặt từ map at 03/11/2023 11:53 AM
+BAG:kakakarot add 4xĐá lục bảo (old: 3) lydo: Nhặt từ map at 03/11/2023 11:53 AM
+BAG:kakakarot add 244xHoa hồng vàng (old: 243) lydo: Nhặt từ map at 03/11/2023 11:53 AM
+BAG:kakakarot add 169xHoa hồng xanh (old: 168) lydo: Nhặt từ map at 03/11/2023 11:53 AM
+BAG:kakakarot add 170xHoa hồng xanh (old: 169) lydo: Nhặt từ map at 03/11/2023 11:53 AM
+BAG:kakakarot add 171xHoa hồng xanh (old: 170) lydo: Nhặt từ map at 03/11/2023 11:53 AM
+BAG:kakakarot add 172xHoa hồng xanh (old: 171) lydo: Nhặt từ map at 03/11/2023 11:53 AM
+BAG:kakakarot add 165xHoa hồng đỏ (old: 164) lydo: Nhặt từ map at 03/11/2023 11:53 AM
+BAG:kakakarot add 245xHoa hồng vàng (old: 244) lydo: Nhặt từ map at 03/11/2023 11:53 AM
+BAG:kakakarot add 166xHoa hồng đỏ (old: 165) lydo: Nhặt từ map at 03/11/2023 11:53 AM
+BAG:kakakarot add 167xHoa hồng đỏ (old: 166) lydo: Nhặt từ map at 03/11/2023 11:53 AM
+BAG:kakakarot add 168xHoa hồng đỏ (old: 167) lydo: Nhặt từ map at 03/11/2023 11:53 AM
+BAG:kakakarot add 169xHoa hồng đỏ (old: 168) lydo: Nhặt từ map at 03/11/2023 11:53 AM
+BAG:kakakarot add 170xHoa hồng đỏ (old: 169) lydo: Nhặt từ map at 03/11/2023 11:54 AM
+BAG:kakakarot add 171xHoa hồng đỏ (old: 170) lydo: Nhặt từ map at 03/11/2023 11:54 AM
+BAG:kakakarot add 5xĐá lục bảo (old: 4) lydo: Nhặt từ map at 03/11/2023 11:54 AM
+BAG:kakakarot add 2xĐá Ruby (old: 1) lydo: Nhặt từ map at 03/11/2023 11:54 AM
+BAG:kakakarot add 1xĐá Saphia lydo: Nhặt từ map at 03/11/2023 11:54 AM
+BAG:kakakarot add 246xHoa hồng vàng (old: 245) lydo: Nhặt từ map at 03/11/2023 11:54 AM
+BAG:kakakarot add 173xHoa hồng xanh (old: 172) lydo: Nhặt từ map at 03/11/2023 11:54 AM
+BAG:kakakarot add 6xNgọc Rồng 6 sao (old: 5) lydo: Nhặt từ map at 03/11/2023 11:54 AM
+BAG:kakakarot add 247xHoa hồng vàng (old: 246) lydo: Nhặt từ map at 03/11/2023 11:54 AM
+BAG:kakakarot add 25xNgọc Rồng 4 sao (old: 24) lydo: Nhặt từ map at 03/11/2023 11:54 AM
+BAG:kakakarot add 248xHoa hồng vàng (old: 247) lydo: Nhặt từ map at 03/11/2023 11:54 AM
+BAG:kakakarot add 249xHoa hồng vàng (old: 248) lydo: Nhặt từ map at 03/11/2023 11:54 AM
+BAG:kakakarot add 172xHoa hồng đỏ (old: 171) lydo: Nhặt từ map at 03/11/2023 11:54 AM
+BAG:kakakarot add 19xĐá thạch anh tím (old: 18) lydo: Nhặt từ map at 03/11/2023 11:54 AM
+BAG:kakakarot add 250xHoa hồng vàng (old: 249) lydo: Nhặt từ map at 03/11/2023 11:54 AM
+BAG:kakakarot add 251xHoa hồng vàng (old: 250) lydo: Nhặt từ map at 03/11/2023 11:54 AM
+BAG:kakakarot add 252xHoa hồng vàng (old: 251) lydo: Nhặt từ map at 03/11/2023 11:54 AM
+BAG:kakakarot add 6xNgọc Rồng 5 sao (old: 5) lydo: Nhặt từ map at 03/11/2023 11:54 AM
+BAG:kakakarot add 3xĐá Ruby (old: 2) lydo: Nhặt từ map at 03/11/2023 11:54 AM
+BAG:kakakarot add 253xHoa hồng vàng (old: 252) lydo: Nhặt từ map at 03/11/2023 11:54 AM
+BAG:kakakarot add 173xHoa hồng đỏ (old: 172) lydo: Nhặt từ map at 03/11/2023 11:55 AM
+BAG:kakakarot add 254xHoa hồng vàng (old: 253) lydo: Nhặt từ map at 03/11/2023 11:55 AM
+BAG:kakakarot add 174xHoa hồng đỏ (old: 173) lydo: Nhặt từ map at 03/11/2023 11:55 AM
+BAG:kakakarot add 175xHoa hồng đỏ (old: 174) lydo: Nhặt từ map at 03/11/2023 11:55 AM
+BAG:kakakarot add 255xHoa hồng vàng (old: 254) lydo: Nhặt từ map at 03/11/2023 11:55 AM
+BAG:kakakarot add 174xHoa hồng xanh (old: 173) lydo: Nhặt từ map at 03/11/2023 11:55 AM
+BAG:kakakarot add 4xĐá Ruby (old: 3) lydo: Nhặt từ map at 03/11/2023 11:55 AM
+BAG:kakakarot add 256xHoa hồng vàng (old: 255) lydo: Nhặt từ map at 03/11/2023 11:55 AM
+BAG:kakakarot add 7xNgọc Rồng 5 sao (old: 6) lydo: Nhặt từ map at 03/11/2023 11:55 AM
+BAG:kakakarot add 257xHoa hồng vàng (old: 256) lydo: Nhặt từ map at 03/11/2023 11:56 AM
+BAG:kakakarot add 1xĐá Titan lydo: Nhặt từ map at 03/11/2023 11:56 AM
+BAG:kakakarot add 8xNgọc Rồng 5 sao (old: 7) lydo: Nhặt từ map at 03/11/2023 11:56 AM
+BAG:kakakarot add 2xĐá Titan (old: 1) lydo: Nhặt từ map at 03/11/2023 11:56 AM
+BAG:kakakarot add 176xHoa hồng đỏ (old: 175) lydo: Nhặt từ map at 03/11/2023 11:56 AM
+BAG:kakakarot add 177xHoa hồng đỏ (old: 176) lydo: Nhặt từ map at 03/11/2023 11:56 AM
+BAG:kakakarot add 258xHoa hồng vàng (old: 257) lydo: Nhặt từ map at 03/11/2023 11:56 AM
+BAG:kakakarot add 3xĐá Titan (old: 2) lydo: Nhặt từ map at 03/11/2023 11:56 AM
+BAG:kakakarot add 5xĐá Ruby (old: 4) lydo: Nhặt từ map at 03/11/2023 11:56 AM
+BAG:kakakarot add 259xHoa hồng vàng (old: 258) lydo: Nhặt từ map at 03/11/2023 11:56 AM
+BAG:kakakarot add 260xHoa hồng vàng (old: 259) lydo: Nhặt từ map at 03/11/2023 11:56 AM
+BAG:kakakarot add 261xHoa hồng vàng (old: 260) lydo: Nhặt từ map at 03/11/2023 11:56 AM
+BAG:kakakarot add 262xHoa hồng vàng (old: 261) lydo: Nhặt từ map at 03/11/2023 11:56 AM
+BAG:kakakarot add 263xHoa hồng vàng (old: 262) lydo: Nhặt từ map at 03/11/2023 11:57 AM
+BAG:kakakarot add 7xNgọc Rồng 6 sao (old: 6) lydo: Nhặt từ map at 03/11/2023 11:57 AM
+BAG:kakakarot add 264xHoa hồng vàng (old: 263) lydo: Nhặt từ map at 03/11/2023 11:57 AM
+BAG:kakakarot add 265xHoa hồng vàng (old: 264) lydo: Nhặt từ map at 03/11/2023 11:57 AM
+BAG:kakakarot add 175xHoa hồng xanh (old: 174) lydo: Nhặt từ map at 03/11/2023 11:57 AM
+BAG:kakakarot add 1xĐá lục bảo lydo: Nhặt từ map at 03/11/2023 11:57 AM
+BAG:kakakarot add 266xHoa hồng vàng (old: 265) lydo: Nhặt từ map at 03/11/2023 11:57 AM
+BAG:kakakarot add 176xHoa hồng xanh (old: 175) lydo: Nhặt từ map at 03/11/2023 11:57 AM
+BAG:kakakarot add 267xHoa hồng vàng (old: 266) lydo: Nhặt từ map at 03/11/2023 11:57 AM
+BAG:kakakarot add 178xHoa hồng đỏ (old: 177) lydo: Nhặt từ map at 03/11/2023 11:57 AM
+BAG:kakakarot add 2xĐá lục bảo (old: 1) lydo: Nhặt từ map at 03/11/2023 11:57 AM
+BAG:kakakarot add 268xHoa hồng vàng (old: 267) lydo: Nhặt từ map at 03/11/2023 11:57 AM
+BAG:kakakarot add 269xHoa hồng vàng (old: 268) lydo: Nhặt từ map at 03/11/2023 11:57 AM
+BAG:kakakarot add 20xĐá thạch anh tím (old: 19) lydo: Nhặt từ map at 03/11/2023 11:57 AM
+BAG:kakakarot add 270xHoa hồng vàng (old: 269) lydo: Nhặt từ map at 03/11/2023 11:57 AM
+BAG:kakakarot add 177xHoa hồng xanh (old: 176) lydo: Nhặt từ map at 03/11/2023 11:57 AM
+BAG:kakakarot add 179xHoa hồng đỏ (old: 178) lydo: Nhặt từ map at 03/11/2023 11:58 AM
+BAG:kakakarot add 271xHoa hồng vàng (old: 270) lydo: Nhặt từ map at 03/11/2023 11:58 AM
+BAG:kakakarot add 178xHoa hồng xanh (old: 177) lydo: Nhặt từ map at 03/11/2023 11:58 AM
+BAG:kakakarot add 179xHoa hồng xanh (old: 178) lydo: Nhặt từ map at 03/11/2023 11:58 AM
+BAG:kakakarot add 1xĐá Saphia lydo: Nhặt từ map at 03/11/2023 11:58 AM
+BAG:kakakarot add 272xHoa hồng vàng (old: 271) lydo: Nhặt từ map at 03/11/2023 11:58 AM
+BAG:kakakarot add 180xHoa hồng xanh (old: 179) lydo: Nhặt từ map at 03/11/2023 11:58 AM
+BAG:kakakarot add 273xHoa hồng vàng (old: 272) lydo: Nhặt từ map at 03/11/2023 11:58 AM
+BAG:kakakarot add 181xHoa hồng xanh (old: 180) lydo: Nhặt từ map at 03/11/2023 11:58 AM
+BAG:kakakarot add 8xNgọc Rồng 6 sao (old: 7) lydo: Nhặt từ map at 03/11/2023 11:58 AM
+BAG:kakakarot add 274xHoa hồng vàng (old: 273) lydo: Nhặt từ map at 03/11/2023 11:58 AM
+BAG:kakakarot add 182xHoa hồng xanh (old: 181) lydo: Nhặt từ map at 03/11/2023 11:58 AM
+BAG:kakakarot add 275xHoa hồng vàng (old: 274) lydo: Nhặt từ map at 03/11/2023 11:58 AM
+BAG:kakakarot add 183xHoa hồng xanh (old: 182) lydo: Nhặt từ map at 03/11/2023 11:58 AM
+BAG:kakakarot add 184xHoa hồng xanh (old: 183) lydo: Nhặt từ map at 03/11/2023 11:58 AM
+BAG:kakakarot add 26xNgọc Rồng 4 sao (old: 25) lydo: Nhặt từ map at 03/11/2023 11:58 AM
+BAG:kakakarot add 21xĐá thạch anh tím (old: 20) lydo: Nhặt từ map at 03/11/2023 11:58 AM
+BAG:kakakarot add 276xHoa hồng vàng (old: 275) lydo: Nhặt từ map at 03/11/2023 11:58 AM
+BAG:kakakarot add 277xHoa hồng vàng (old: 276) lydo: Nhặt từ map at 03/11/2023 11:58 AM
+BAG:kakakarot add 278xHoa hồng vàng (old: 277) lydo: Nhặt từ map at 03/11/2023 11:59 AM
+BAG:kakakarot add 185xHoa hồng xanh (old: 184) lydo: Nhặt từ map at 03/11/2023 11:59 AM
+BAG:kakakarot add 186xHoa hồng xanh (old: 185) lydo: Nhặt từ map at 03/11/2023 11:59 AM
+BAG:kakakarot add 187xHoa hồng xanh (old: 186) lydo: Nhặt từ map at 03/11/2023 11:59 AM
+BAG:kakakarot add 279xHoa hồng vàng (old: 278) lydo: Nhặt từ map at 03/11/2023 11:59 AM
+BAG:kakakarot add 280xHoa hồng vàng (old: 279) lydo: Nhặt từ map at 03/11/2023 11:59 AM
+BAG:kakakarot add 1xĐá Titan lydo: Nhặt từ map at 03/11/2023 11:59 AM
+BAG:kakakarot add 22xĐá thạch anh tím (old: 21) lydo: Nhặt từ map at 03/11/2023 11:59 AM
+BAG:kakakarot add 180xHoa hồng đỏ (old: 179) lydo: Nhặt từ map at 03/11/2023 11:59 AM
+BAG:kakakarot add 281xHoa hồng vàng (old: 280) lydo: Nhặt từ map at 03/11/2023 11:59 AM
+BAG:kakakarot add 282xHoa hồng vàng (old: 281) lydo: Nhặt từ map at 03/11/2023 11:59 AM
+BAG:kakakarot add 283xHoa hồng vàng (old: 282) lydo: Nhặt từ map at 03/11/2023 11:59 AM
+BAG:kakakarot add 181xHoa hồng đỏ (old: 180) lydo: Nhặt từ map at 03/11/2023 11:59 AM
+BAG:kakakarot add 182xHoa hồng đỏ (old: 181) lydo: Nhặt từ map at 03/11/2023 11:59 AM
+BAG:kakakarot add 2xĐá Saphia (old: 1) lydo: Nhặt từ map at 03/11/2023 12:00 PM
+BAG:kakakarot add 1xĐá Ruby lydo: Nhặt từ map at 03/11/2023 12:00 PM
+BAG:kakakarot add 284xHoa hồng vàng (old: 283) lydo: Nhặt từ map at 03/11/2023 12:00 PM
+BAG:kakakarot add 183xHoa hồng đỏ (old: 182) lydo: Nhặt từ map at 03/11/2023 12:00 PM
+BAG:kakakarot add 285xHoa hồng vàng (old: 284) lydo: Nhặt từ map at 03/11/2023 12:00 PM
+BAG:kakakarot add 188xHoa hồng xanh (old: 187) lydo: Nhặt từ map at 03/11/2023 12:00 PM
+BAG:kakakarot add 184xHoa hồng đỏ (old: 183) lydo: Nhặt từ map at 03/11/2023 12:00 PM
+BAG:kakakarot add 3xĐá Saphia (old: 2) lydo: Nhặt từ map at 03/11/2023 12:00 PM
+BAG:kakakarot add 286xHoa hồng vàng (old: 285) lydo: Nhặt từ map at 03/11/2023 12:01 PM
+BAG:kakakarot add 287xHoa hồng vàng (old: 286) lydo: Nhặt từ map at 03/11/2023 12:01 PM
+BAG:kakakarot add 185xHoa hồng đỏ (old: 184) lydo: Nhặt từ map at 03/11/2023 12:01 PM
+BAG:kakakarot add 288xHoa hồng vàng (old: 287) lydo: Nhặt từ map at 03/11/2023 12:02 PM
+BAG:kakakarot add 4xĐá Saphia (old: 3) lydo: Nhặt từ map at 03/11/2023 12:02 PM
+BAG:kakakarot add 289xHoa hồng vàng (old: 288) lydo: Nhặt từ map at 03/11/2023 12:02 PM
+BAG:kakakarot add 186xHoa hồng đỏ (old: 185) lydo: Nhặt từ map at 03/11/2023 12:02 PM
+BAG:kakakarot add 189xHoa hồng xanh (old: 188) lydo: Nhặt từ map at 03/11/2023 12:03 PM
+BAG:kakakarot add 187xHoa hồng đỏ (old: 186) lydo: Nhặt từ map at 03/11/2023 12:03 PM
+BAG:kakakarot add 290xHoa hồng vàng (old: 289) lydo: Nhặt từ map at 03/11/2023 12:03 PM
+BAG:kakakarot add 23xĐá thạch anh tím (old: 22) lydo: Nhặt từ map at 03/11/2023 12:03 PM
+BAG:kakakarot add 2xĐá Ruby (old: 1) lydo: Nhặt từ map at 03/11/2023 12:03 PM
+BAG:kakakarot add 190xHoa hồng xanh (old: 189) lydo: Nhặt từ map at 03/11/2023 12:04 PM
+BAG:kakakarot add 188xHoa hồng đỏ (old: 187) lydo: Nhặt từ map at 03/11/2023 12:04 PM
+BAG:kakakarot add 191xHoa hồng xanh (old: 190) lydo: Nhặt từ map at 03/11/2023 12:04 PM
+BAG:kakakarot add 192xHoa hồng xanh (old: 191) lydo: Nhặt từ map at 03/11/2023 12:05 PM
+BAG:kakakarot add 291xHoa hồng vàng (old: 290) lydo: Nhặt từ map at 03/11/2023 12:05 PM
+BAG:kakakarot add 3xĐá lục bảo (old: 2) lydo: Nhặt từ map at 03/11/2023 12:05 PM
+BAG:kakakarot add 292xHoa hồng vàng (old: 291) lydo: Nhặt từ map at 03/11/2023 12:05 PM
+BAG:kakakarot add 4xĐá lục bảo (old: 3) lydo: Nhặt từ map at 03/11/2023 12:06 PM
+BAG:kakakarot add 293xHoa hồng vàng (old: 292) lydo: Nhặt từ map at 03/11/2023 12:06 PM
+BAG:kakakarot add 294xHoa hồng vàng (old: 293) lydo: Nhặt từ map at 03/11/2023 12:06 PM
+BAG:kakakarot add 2xĐá Titan (old: 1) lydo: Nhặt từ map at 03/11/2023 12:06 PM
+BAG:kakakarot add 189xHoa hồng đỏ (old: 188) lydo: Nhặt từ map at 03/11/2023 12:06 PM
+BAG:kakakarot add 295xHoa hồng vàng (old: 294) lydo: Nhặt từ map at 03/11/2023 12:06 PM
+BAG:kakakarot add 190xHoa hồng đỏ (old: 189) lydo: Nhặt từ map at 03/11/2023 12:06 PM
+BAG:kakakarot add 296xHoa hồng vàng (old: 295) lydo: Nhặt từ map at 03/11/2023 12:06 PM
+BAG:kakakarot add 193xHoa hồng xanh (old: 192) lydo: Nhặt từ map at 03/11/2023 12:06 PM
+BAG:kakakarot add 297xHoa hồng vàng (old: 296) lydo: Nhặt từ map at 03/11/2023 12:06 PM
+BAG:kakakarot add 298xHoa hồng vàng (old: 297) lydo: Nhặt từ map at 03/11/2023 12:07 PM
+BAG:kakakarot add 191xHoa hồng đỏ (old: 190) lydo: Nhặt từ map at 03/11/2023 12:07 PM
+BAG:kakakarot add 194xHoa hồng xanh (old: 193) lydo: Nhặt từ map at 03/11/2023 12:07 PM
+BAG:kakakarot add 299xHoa hồng vàng (old: 298) lydo: Nhặt từ map at 03/11/2023 12:07 PM
+BAG:kakakarot add 192xHoa hồng đỏ (old: 191) lydo: Nhặt từ map at 03/11/2023 12:08 PM
+BAG:kakakarot add 24xĐá thạch anh tím (old: 23) lydo: Nhặt từ map at 03/11/2023 12:08 PM
+BAG:kakakarot add 193xHoa hồng đỏ (old: 192) lydo: Nhặt từ map at 03/11/2023 12:09 PM
+BAG:kakakarot add 194xHoa hồng đỏ (old: 193) lydo: Nhặt từ map at 03/11/2023 12:09 PM
+BAG:kakakarot add 195xHoa hồng xanh (old: 194) lydo: Nhặt từ map at 03/11/2023 12:09 PM
+BAG:kakakarot add 3xĐá Ruby (old: 2) lydo: Nhặt từ map at 03/11/2023 12:09 PM
+BAG:kakakarot add 300xHoa hồng vàng (old: 299) lydo: Nhặt từ map at 03/11/2023 12:09 PM
+BAG:kakakarot add 195xHoa hồng đỏ (old: 194) lydo: Nhặt từ map at 03/11/2023 12:10 PM
+BAG:kakakarot add 301xHoa hồng vàng (old: 300) lydo: Nhặt từ map at 03/11/2023 12:10 PM
+BAG:kakakarot add 27xNgọc Rồng 4 sao (old: 26) lydo: Nhặt từ map at 03/11/2023 12:10 PM
+BAG:kakakarot add 5xĐá lục bảo (old: 4) lydo: Nhặt từ map at 03/11/2023 12:10 PM
+BAG:kakakarot add 302xHoa hồng vàng (old: 301) lydo: Nhặt từ map at 03/11/2023 12:10 PM
+BAG:kakakarot add 196xHoa hồng xanh (old: 195) lydo: Nhặt từ map at 03/11/2023 12:10 PM
+BAG:kakakarot add 196xHoa hồng đỏ (old: 195) lydo: Nhặt từ map at 03/11/2023 12:10 PM
+BAG:kakakarot add 303xHoa hồng vàng (old: 302) lydo: Nhặt từ map at 03/11/2023 12:10 PM
+BAG:kakakarot add 304xHoa hồng vàng (old: 303) lydo: Nhặt từ map at 03/11/2023 12:10 PM
+BAG:kakakarot add 305xHoa hồng vàng (old: 304) lydo: Nhặt từ map at 03/11/2023 12:10 PM
+BAG:kakakarot add 25xĐá thạch anh tím (old: 24) lydo: Nhặt từ map at 03/11/2023 12:11 PM
+BAG:kakakarot add 28xNgọc Rồng 4 sao (old: 27) lydo: Nhặt từ map at 03/11/2023 12:11 PM
+BAG:kakakarot add 197xHoa hồng đỏ (old: 196) lydo: Nhặt từ map at 03/11/2023 12:11 PM
+BAG:kakakarot add 198xHoa hồng đỏ (old: 197) lydo: Nhặt từ map at 03/11/2023 12:11 PM
+BAG:kakakarot add 197xHoa hồng xanh (old: 196) lydo: Nhặt từ map at 03/11/2023 12:12 PM
+BAG:kakakarot add 306xHoa hồng vàng (old: 305) lydo: Nhặt từ map at 03/11/2023 12:12 PM
+BAG:kakakarot add 198xHoa hồng xanh (old: 197) lydo: Nhặt từ map at 03/11/2023 12:12 PM
+BAG:kakakarot add 307xHoa hồng vàng (old: 306) lydo: Nhặt từ map at 03/11/2023 12:12 PM
+BAG:kakakarot add 308xHoa hồng vàng (old: 307) lydo: Nhặt từ map at 03/11/2023 12:12 PM
+BAG:kakakarot add 309xHoa hồng vàng (old: 308) lydo: Nhặt từ map at 03/11/2023 12:12 PM
+BAG:kakakarot add 6xĐá lục bảo (old: 5) lydo: Nhặt từ map at 03/11/2023 12:13 PM
+BAG:kakakarot add 310xHoa hồng vàng (old: 309) lydo: Nhặt từ map at 03/11/2023 12:13 PM
+BAG:kakakarot add 311xHoa hồng vàng (old: 310) lydo: Nhặt từ map at 03/11/2023 12:13 PM
+BAG:kakakarot add 199xHoa hồng đỏ (old: 198) lydo: Nhặt từ map at 03/11/2023 12:13 PM
+BAG:kakakarot add 312xHoa hồng vàng (old: 311) lydo: Nhặt từ map at 03/11/2023 12:13 PM
+BAG:kakakarot add 313xHoa hồng vàng (old: 312) lydo: Nhặt từ map at 03/11/2023 12:13 PM
+BAG:kakakarot add 199xHoa hồng xanh (old: 198) lydo: Nhặt từ map at 03/11/2023 12:14 PM
+BAG:kakakarot add 314xHoa hồng vàng (old: 313) lydo: Nhặt từ map at 03/11/2023 12:14 PM
+BAG:kakakarot add 315xHoa hồng vàng (old: 314) lydo: Nhặt từ map at 03/11/2023 12:14 PM
+BAG:kakakarot add 7xĐá lục bảo (old: 6) lydo: Nhặt từ map at 03/11/2023 12:14 PM
+BAG:kakakarot add 4xĐá Ruby (old: 3) lydo: Nhặt từ map at 03/11/2023 12:14 PM
+BAG:kakakarot add 316xHoa hồng vàng (old: 315) lydo: Nhặt từ map at 03/11/2023 12:14 PM
+BAG:kakakarot add 200xHoa hồng xanh (old: 199) lydo: Nhặt từ map at 03/11/2023 12:14 PM
+BAG:kakakarot add 317xHoa hồng vàng (old: 316) lydo: Nhặt từ map at 03/11/2023 12:15 PM
+BAG:kakakarot add 318xHoa hồng vàng (old: 317) lydo: Nhặt từ map at 03/11/2023 12:15 PM
+BAG:kakakarot add 200xHoa hồng đỏ (old: 199) lydo: Nhặt từ map at 03/11/2023 12:15 PM
+BAG:kakakarot add 3xĐá Titan (old: 2) lydo: Nhặt từ map at 03/11/2023 12:15 PM
+BAG:kakakarot add 201xHoa hồng đỏ (old: 200) lydo: Nhặt từ map at 03/11/2023 12:16 PM
+BAG:kakakarot add 201xHoa hồng xanh (old: 200) lydo: Nhặt từ map at 03/11/2023 12:16 PM
+BAG:kakakarot add 4xĐá Titan (old: 3) lydo: Nhặt từ map at 03/11/2023 12:16 PM
+BAG:kakakarot add 1xGiáp tập luyện cấp 3 lydo: Lấy từ body vào hành trang at 03/11/2023 12:19 PM
+BAG:kakakarot add 202xHoa hồng đỏ (old: 201) lydo: Nhặt từ map at 03/11/2023 12:23 PM
+BAG:kakakarot add 61xNgọc Rồng 3 sao (old: 60) lydo: Nhặt từ map at 03/11/2023 12:26 PM
+BAG:kakakarot add 202xHoa hồng xanh (old: 201) lydo: Nhặt từ map at 03/11/2023 12:26 PM
+BAG:kakakarot add 5xĐá Titan (old: 4) lydo: Nhặt từ map at 03/11/2023 12:28 PM
+BAG:kakakarot add 319xHoa hồng vàng (old: 318) lydo: Nhặt từ map at 03/11/2023 12:31 PM
+BAG:kakakarot add 1xGiáp tập luyện cấp 3 lydo: Lấy từ body vào hành trang at 03/11/2023 12:40 PM
+BAG:kakakarot add 62xNgọc Rồng 3 sao (old: 61) lydo: Nhặt từ map at 03/11/2023 12:43 PM
+BAG:kakakarot add 63xNgọc Rồng 3 sao (old: 62) lydo: Nhặt từ map at 03/11/2023 12:43 PM
+BAG:kakakarot add 64xNgọc Rồng 3 sao (old: 63) lydo: Nhặt từ map at 03/11/2023 12:44 PM
+BAG:kakakarot add 203xHoa hồng đỏ (old: 202) lydo: Nhặt từ map at 03/11/2023 12:53 PM
+BAG:kakakarot add 1xGiáp tập luyện cấp 3 lydo: Lấy từ body vào hành trang at 03/11/2023 12:58 PM
+BAG:kakakarot add 1xGiáp tập luyện cấp 3 lydo: Lấy từ body vào hành trang at 03/11/2023 1:23 PM
+BAG:kakakarot add 29xNgọc Rồng 4 sao (old: 28) lydo: Nhặt từ map at 03/11/2023 5:15 PM
+BAG:kakakarot add 1xGiáp tập luyện cấp 3 lydo: Lấy từ body vào hành trang at 03/11/2023 5:16 PM
+BAG:kakakarot add 8xĐá lục bảo (old: 7) lydo: Nhặt từ map at 03/11/2023 5:23 PM
+BAG:kakakarot add 1xCải trang lydo: Mua từ cửa hàng at 03/11/2023 6:59 PM
+BAG:kakakarot add 1xGiáp tập luyện cấp 3 lydo: Lấy từ body vào hành trang at 03/11/2023 7:06 PM
+BAG:kakakarot add 320xHoa hồng vàng (old: 319) lydo: Nhặt từ map at 03/11/2023 7:07 PM
+BAG:kakakarot add 65xNgọc Rồng 3 sao (old: 64) lydo: Nhặt từ map at 03/11/2023 7:08 PM
+BAG:kakakarot add 66xNgọc Rồng 3 sao (old: 65) lydo: Nhặt từ map at 03/11/2023 7:29 PM
+BAG:kakakarot add 203xHoa hồng xanh (old: 202) lydo: Nhặt từ map at 03/11/2023 7:29 PM
+BAG:kakakarot add 67xNgọc Rồng 3 sao (old: 66) lydo: Nhặt từ map at 03/11/2023 7:40 PM
+BAG:kakakarot add 1xGiáp tập luyện cấp 3 lydo: Lấy từ body vào hành trang at 03/11/2023 7:41 PM
+BAG:kakakarot add 204xHoa hồng xanh (old: 203) lydo: Nhặt từ map at 03/11/2023 8:21 PM
+BAG:kakakarot add 1xĐá Titan lydo: Nhặt từ map at 03/11/2023 8:23 PM
+BAG:kakakarot add 1xGiáp tập luyện cấp 3 lydo: Lấy từ body vào hành trang at 03/11/2023 8:31 PM

@@ -1,0 +1,6 @@
+BAG:admin add 1xViên Capsule đặc biệt lydo: buff at 03/12/2023 4:38 AM
+BAG:admin add 1xHoa hồng xanh lydo: Nhặt từ map at 03/12/2023 4:41 AM
+BAG:admin add 1xHoa hồng đỏ lydo: Nhặt từ map at 03/12/2023 4:42 AM
+BAG:admin add 1xHoa hồng vàng lydo: Nhặt từ map at 03/12/2023 4:43 AM
+BAG:admin add 2xHoa hồng vàng (old: 1) lydo: Nhặt từ map at 03/12/2023 4:44 AM
+BAG:admin add 2xHoa hồng đỏ (old: 1) lydo: Nhặt từ map at 03/12/2023 4:44 AM

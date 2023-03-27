@@ -1,0 +1,498 @@
+BAG:edatrang add 157xHoa hồng đỏ (old: 156) lydo: Nhặt từ map at 03/11/2023 7:01 AM
+BAG:edatrang add 43xNgọc Rồng 4 sao (old: 42) lydo: Nhặt từ map at 03/11/2023 7:01 AM
+BAG:edatrang add 29xSao pha lê (old: 28) lydo: Nhặt từ map at 03/11/2023 7:01 AM
+BAG:edatrang add 159xHoa hồng xanh (old: 158) lydo: Nhặt từ map at 03/11/2023 7:01 AM
+BAG:edatrang add 44xSao pha lê (old: 43) lydo: Nhặt từ map at 03/11/2023 7:01 AM
+BAG:edatrang add 187xHoa hồng vàng (old: 186) lydo: Nhặt từ map at 03/11/2023 7:01 AM
+BAG:edatrang add 188xHoa hồng vàng (old: 187) lydo: Nhặt từ map at 03/11/2023 7:01 AM
+BAG:edatrang add 189xHoa hồng vàng (old: 188) lydo: Nhặt từ map at 03/11/2023 7:01 AM
+BAG:edatrang add 30xĐá lục bảo (old: 29) lydo: Nhặt từ map at 03/11/2023 7:01 AM
+BAG:edatrang add 158xHoa hồng đỏ (old: 157) lydo: Nhặt từ map at 03/11/2023 7:02 AM
+BAG:edatrang add 30xSao pha lê (old: 29) lydo: Nhặt từ map at 03/11/2023 7:02 AM
+BAG:edatrang add 190xHoa hồng vàng (old: 189) lydo: Nhặt từ map at 03/11/2023 7:02 AM
+BAG:edatrang add 191xHoa hồng vàng (old: 190) lydo: Nhặt từ map at 03/11/2023 7:02 AM
+BAG:edatrang add 20xNgọc Rồng 5 sao (old: 19) lydo: Nhặt từ map at 03/11/2023 7:02 AM
+BAG:edatrang add 160xHoa hồng xanh (old: 159) lydo: Nhặt từ map at 03/11/2023 7:02 AM
+BAG:edatrang add 192xHoa hồng vàng (old: 191) lydo: Nhặt từ map at 03/11/2023 7:02 AM
+BAG:edatrang add 159xHoa hồng đỏ (old: 158) lydo: Nhặt từ map at 03/11/2023 7:02 AM
+BAG:edatrang add 193xHoa hồng vàng (old: 192) lydo: Nhặt từ map at 03/11/2023 7:02 AM
+BAG:edatrang add 161xHoa hồng xanh (old: 160) lydo: Nhặt từ map at 03/11/2023 7:02 AM
+BAG:edatrang add 162xHoa hồng xanh (old: 161) lydo: Nhặt từ map at 03/11/2023 7:02 AM
+BAG:edatrang add 31xĐá lục bảo (old: 30) lydo: Nhặt từ map at 03/11/2023 7:02 AM
+BAG:edatrang add 160xHoa hồng đỏ (old: 159) lydo: Nhặt từ map at 03/11/2023 7:02 AM
+BAG:edatrang add 161xHoa hồng đỏ (old: 160) lydo: Nhặt từ map at 03/11/2023 7:02 AM
+BAG:edatrang add 31xSao pha lê (old: 30) lydo: Nhặt từ map at 03/11/2023 7:02 AM
+BAG:edatrang add 194xHoa hồng vàng (old: 193) lydo: Nhặt từ map at 03/11/2023 7:02 AM
+BAG:edatrang add 195xHoa hồng vàng (old: 194) lydo: Nhặt từ map at 03/11/2023 7:03 AM
+BAG:edatrang add 196xHoa hồng vàng (old: 195) lydo: Nhặt từ map at 03/11/2023 7:03 AM
+BAG:edatrang add 45xSao pha lê (old: 44) lydo: Nhặt từ map at 03/11/2023 7:03 AM
+BAG:edatrang add 32xĐá lục bảo (old: 31) lydo: Nhặt từ map at 03/11/2023 7:03 AM
+BAG:edatrang add 162xHoa hồng đỏ (old: 161) lydo: Nhặt từ map at 03/11/2023 7:03 AM
+BAG:edatrang add 44xNgọc Rồng 4 sao (old: 43) lydo: Nhặt từ map at 03/11/2023 7:03 AM
+BAG:edatrang add 163xHoa hồng đỏ (old: 162) lydo: Nhặt từ map at 03/11/2023 7:03 AM
+BAG:edatrang add 163xHoa hồng xanh (old: 162) lydo: Nhặt từ map at 03/11/2023 7:03 AM
+BAG:edatrang add 32xSao pha lê (old: 31) lydo: Nhặt từ map at 03/11/2023 7:03 AM
+BAG:edatrang add 33xĐá lục bảo (old: 32) lydo: Nhặt từ map at 03/11/2023 7:03 AM
+BAG:edatrang add 164xHoa hồng đỏ (old: 163) lydo: Nhặt từ map at 03/11/2023 7:04 AM
+BAG:edatrang add 197xHoa hồng vàng (old: 196) lydo: Nhặt từ map at 03/11/2023 7:04 AM
+BAG:edatrang add 198xHoa hồng vàng (old: 197) lydo: Nhặt từ map at 03/11/2023 7:04 AM
+BAG:edatrang add 46xSao pha lê (old: 45) lydo: Nhặt từ map at 03/11/2023 7:04 AM
+BAG:edatrang add 21xNgọc Rồng 5 sao (old: 20) lydo: Nhặt từ map at 03/11/2023 7:04 AM
+BAG:edatrang add 33xSao pha lê (old: 32) lydo: Nhặt từ map at 03/11/2023 7:04 AM
+BAG:edatrang add 165xHoa hồng đỏ (old: 164) lydo: Nhặt từ map at 03/11/2023 7:04 AM
+BAG:edatrang add 164xHoa hồng xanh (old: 163) lydo: Nhặt từ map at 03/11/2023 7:04 AM
+BAG:edatrang add 165xHoa hồng xanh (old: 164) lydo: Nhặt từ map at 03/11/2023 7:04 AM
+BAG:edatrang add 166xHoa hồng đỏ (old: 165) lydo: Nhặt từ map at 03/11/2023 7:04 AM
+BAG:edatrang add 34xSao pha lê (old: 33) lydo: Nhặt từ map at 03/11/2023 7:05 AM
+BAG:edatrang add 199xHoa hồng vàng (old: 198) lydo: Nhặt từ map at 03/11/2023 7:05 AM
+BAG:edatrang add 200xHoa hồng vàng (old: 199) lydo: Nhặt từ map at 03/11/2023 7:05 AM
+BAG:edatrang add 68xSao pha lê (old: 67) lydo: Nhặt từ map at 03/11/2023 7:05 AM
+BAG:edatrang add 166xHoa hồng xanh (old: 165) lydo: Nhặt từ map at 03/11/2023 7:05 AM
+BAG:edatrang add 167xHoa hồng xanh (old: 166) lydo: Nhặt từ map at 03/11/2023 7:05 AM
+BAG:edatrang add 168xHoa hồng xanh (old: 167) lydo: Nhặt từ map at 03/11/2023 7:05 AM
+BAG:edatrang add 22xNgọc Rồng 5 sao (old: 21) lydo: Nhặt từ map at 03/11/2023 7:05 AM
+BAG:edatrang add 201xHoa hồng vàng (old: 200) lydo: Nhặt từ map at 03/11/2023 7:06 AM
+BAG:edatrang add 167xHoa hồng đỏ (old: 166) lydo: Nhặt từ map at 03/11/2023 7:06 AM
+BAG:edatrang add 69xSao pha lê (old: 68) lydo: Nhặt từ map at 03/11/2023 7:06 AM
+BAG:edatrang add 202xHoa hồng vàng (old: 201) lydo: Nhặt từ map at 03/11/2023 7:06 AM
+BAG:edatrang add 47xSao pha lê (old: 46) lydo: Nhặt từ map at 03/11/2023 7:06 AM
+BAG:edatrang add 203xHoa hồng vàng (old: 202) lydo: Nhặt từ map at 03/11/2023 7:06 AM
+BAG:edatrang add 169xHoa hồng xanh (old: 168) lydo: Nhặt từ map at 03/11/2023 7:06 AM
+BAG:edatrang add 170xHoa hồng xanh (old: 169) lydo: Nhặt từ map at 03/11/2023 7:06 AM
+BAG:edatrang add 168xHoa hồng đỏ (old: 167) lydo: Nhặt từ map at 03/11/2023 7:06 AM
+BAG:edatrang add 171xHoa hồng xanh (old: 170) lydo: Nhặt từ map at 03/11/2023 7:06 AM
+BAG:edatrang add 169xHoa hồng đỏ (old: 168) lydo: Nhặt từ map at 03/11/2023 7:06 AM
+BAG:edatrang add 34xĐá lục bảo (old: 33) lydo: Nhặt từ map at 03/11/2023 7:06 AM
+BAG:edatrang add 172xHoa hồng xanh (old: 171) lydo: Nhặt từ map at 03/11/2023 7:06 AM
+BAG:edatrang add 35xSao pha lê (old: 34) lydo: Nhặt từ map at 03/11/2023 7:06 AM
+BAG:edatrang add 23xNgọc Rồng 5 sao (old: 22) lydo: Nhặt từ map at 03/11/2023 7:06 AM
+BAG:edatrang add 170xHoa hồng đỏ (old: 169) lydo: Nhặt từ map at 03/11/2023 7:06 AM
+BAG:edatrang add 171xHoa hồng đỏ (old: 170) lydo: Nhặt từ map at 03/11/2023 7:07 AM
+BAG:edatrang add 172xHoa hồng đỏ (old: 171) lydo: Nhặt từ map at 03/11/2023 7:07 AM
+BAG:edatrang add 35xĐá lục bảo (old: 34) lydo: Nhặt từ map at 03/11/2023 7:07 AM
+BAG:edatrang add 204xHoa hồng vàng (old: 203) lydo: Nhặt từ map at 03/11/2023 7:07 AM
+BAG:edatrang add 173xHoa hồng xanh (old: 172) lydo: Nhặt từ map at 03/11/2023 7:07 AM
+BAG:edatrang add 24xNgọc Rồng 5 sao (old: 23) lydo: Nhặt từ map at 03/11/2023 7:07 AM
+BAG:edatrang add 173xHoa hồng đỏ (old: 172) lydo: Nhặt từ map at 03/11/2023 7:07 AM
+BAG:edatrang add 174xHoa hồng đỏ (old: 173) lydo: Nhặt từ map at 03/11/2023 7:07 AM
+BAG:edatrang add 175xHoa hồng đỏ (old: 174) lydo: Nhặt từ map at 03/11/2023 7:07 AM
+BAG:edatrang add 174xHoa hồng xanh (old: 173) lydo: Nhặt từ map at 03/11/2023 7:07 AM
+BAG:edatrang add 36xĐá lục bảo (old: 35) lydo: Nhặt từ map at 03/11/2023 7:07 AM
+BAG:edatrang add 175xHoa hồng xanh (old: 174) lydo: Nhặt từ map at 03/11/2023 7:07 AM
+BAG:edatrang add 176xHoa hồng đỏ (old: 175) lydo: Nhặt từ map at 03/11/2023 7:07 AM
+BAG:edatrang add 205xHoa hồng vàng (old: 204) lydo: Nhặt từ map at 03/11/2023 7:08 AM
+BAG:edatrang add 206xHoa hồng vàng (old: 205) lydo: Nhặt từ map at 03/11/2023 7:08 AM
+BAG:edatrang add 177xHoa hồng đỏ (old: 176) lydo: Nhặt từ map at 03/11/2023 7:08 AM
+BAG:edatrang add 207xHoa hồng vàng (old: 206) lydo: Nhặt từ map at 03/11/2023 7:08 AM
+BAG:edatrang add 176xHoa hồng xanh (old: 175) lydo: Nhặt từ map at 03/11/2023 7:08 AM
+BAG:edatrang add 178xHoa hồng đỏ (old: 177) lydo: Nhặt từ map at 03/11/2023 7:08 AM
+BAG:edatrang add 177xHoa hồng xanh (old: 176) lydo: Nhặt từ map at 03/11/2023 7:08 AM
+BAG:edatrang add 208xHoa hồng vàng (old: 207) lydo: Nhặt từ map at 03/11/2023 7:08 AM
+BAG:edatrang add 25xNgọc Rồng 5 sao (old: 24) lydo: Nhặt từ map at 03/11/2023 7:08 AM
+BAG:edatrang add 26xNgọc Rồng 5 sao (old: 25) lydo: Nhặt từ map at 03/11/2023 7:09 AM
+BAG:edatrang add 209xHoa hồng vàng (old: 208) lydo: Nhặt từ map at 03/11/2023 7:09 AM
+BAG:edatrang add 178xHoa hồng xanh (old: 177) lydo: Nhặt từ map at 03/11/2023 7:09 AM
+BAG:edatrang add 210xHoa hồng vàng (old: 209) lydo: Nhặt từ map at 03/11/2023 7:09 AM
+BAG:edatrang add 37xĐá lục bảo (old: 36) lydo: Nhặt từ map at 03/11/2023 7:09 AM
+BAG:edatrang add 211xHoa hồng vàng (old: 210) lydo: Nhặt từ map at 03/11/2023 7:09 AM
+BAG:edatrang add 212xHoa hồng vàng (old: 211) lydo: Nhặt từ map at 03/11/2023 7:10 AM
+BAG:edatrang add 213xHoa hồng vàng (old: 212) lydo: Nhặt từ map at 03/11/2023 7:10 AM
+BAG:edatrang add 70xSao pha lê (old: 69) lydo: Nhặt từ map at 03/11/2023 7:10 AM
+BAG:edatrang add 36xSao pha lê (old: 35) lydo: Nhặt từ map at 03/11/2023 7:10 AM
+BAG:edatrang add 45xNgọc Rồng 4 sao (old: 44) lydo: Nhặt từ map at 03/11/2023 7:10 AM
+BAG:edatrang add 179xHoa hồng xanh (old: 178) lydo: Nhặt từ map at 03/11/2023 7:10 AM
+BAG:edatrang add 214xHoa hồng vàng (old: 213) lydo: Nhặt từ map at 03/11/2023 7:10 AM
+BAG:edatrang add 215xHoa hồng vàng (old: 214) lydo: Nhặt từ map at 03/11/2023 7:10 AM
+BAG:edatrang add 216xHoa hồng vàng (old: 215) lydo: Nhặt từ map at 03/11/2023 7:10 AM
+BAG:edatrang add 179xHoa hồng đỏ (old: 178) lydo: Nhặt từ map at 03/11/2023 7:10 AM
+BAG:edatrang add 46xNgọc Rồng 4 sao (old: 45) lydo: Nhặt từ map at 03/11/2023 7:11 AM
+BAG:edatrang add 278xHoa hồng xanh (old: 179) lydo: Lấy từ rương qua người at 03/11/2023 7:11 AM
+BAG:edatrang add 278xHoa hồng đỏ (old: 179) lydo: Lấy từ rương qua người at 03/11/2023 7:11 AM
+BAG:edatrang add 377xHoa hồng xanh (old: 278) lydo: Lấy từ rương qua người at 03/11/2023 7:11 AM
+BAG:edatrang add 99xHoa hồng vàng lydo: Lấy từ rương qua người at 03/11/2023 7:11 AM
+BAG:edatrang add 198xHoa hồng vàng (old: 99) lydo: Lấy từ rương qua người at 03/11/2023 7:11 AM
+BAG:edatrang add 396xHoa hồng vàng (old: 198) lydo: Lấy từ rương qua người at 03/11/2023 7:11 AM
+BAG:edatrang add 99xHoa hồng xanh lydo: Lấy từ rương qua người at 03/11/2023 7:11 AM
+BAG:edatrang add 443xHoa hồng xanh (old: 99) lydo: Lấy từ rương qua người at 03/11/2023 7:11 AM
+BAG:edatrang add 99xHoa hồng đỏ lydo: Lấy từ rương qua người at 03/11/2023 7:11 AM
+BAG:edatrang add 368xHoa hồng đỏ (old: 99) lydo: Lấy từ rương qua người at 03/11/2023 7:11 AM
+BAG:edatrang add 1xCải trang Chill cấp 2 lydo: Lấy từ body đệ vào hành trang at 03/11/2023 7:12 AM
+BAG:edatrang add 1xGiáp tập luyện cấp 1 lydo: Mua từ cửa hàng at 03/11/2023 7:12 AM
+BAG:edatrang add 1xGiáp tập luyện cấp 1 lydo: Lấy từ body đệ vào hành trang at 03/11/2023 7:13 AM
+BAG:edatrang add 1xGăng võ goku lydo: Lấy từ body vào hành trang at 03/11/2023 7:13 AM
+BAG:edatrang add 1xÁo vải 3 lỗ lydo: Lấy từ body đệ vào hành trang at 03/11/2023 7:15 AM
+BAG:edatrang add 1xGiầy nhựa lydo: Lấy từ body đệ vào hành trang at 03/11/2023 7:15 AM
+BAG:edatrang add 1xRada cấp 1 lydo: Lấy từ body đệ vào hành trang at 03/11/2023 7:15 AM
+BAG:edatrang add 1xNgọc Rồng 3 sao lydo: Lấy từ rương qua người at 03/11/2023 7:17 AM
+BAG:edatrang add 2xNgọc Rồng 3 sao (old: 1) lydo: Nhập ngọc at 03/11/2023 7:17 AM
+BAG:edatrang add 3xNgọc Rồng 3 sao (old: 2) lydo: Nhập ngọc at 03/11/2023 7:17 AM
+BAG:edatrang add 4xNgọc Rồng 3 sao (old: 3) lydo: Nhập ngọc at 03/11/2023 7:17 AM
+BAG:edatrang add 5xNgọc Rồng 3 sao (old: 4) lydo: Nhập ngọc at 03/11/2023 7:17 AM
+BAG:edatrang add 6xNgọc Rồng 3 sao (old: 5) lydo: Nhập ngọc at 03/11/2023 7:17 AM
+BAG:edatrang add 7xNgọc Rồng 3 sao (old: 6) lydo: Nhập ngọc at 03/11/2023 7:17 AM
+BAG:edatrang add 1xGiáp tập luyện cấp 1 lydo: Lấy từ rương qua người at 03/11/2023 7:21 AM
+BAG:edatrang add 1xGiáp tập luyện cấp 1 lydo: Lấy từ body vào hành trang at 03/11/2023 7:23 AM
+BAG:edatrang add 1xSao pha lê lydo: Nhặt từ map at 03/11/2023 7:24 AM
+BAG:edatrang add 35xSao pha lê (old: 34) lydo: Nhặt từ map at 03/11/2023 7:24 AM
+BAG:edatrang add 36xSao pha lê (old: 35) lydo: Nhặt từ map at 03/11/2023 7:24 AM
+BAG:edatrang add 5xNgọc Rồng 4 sao (old: 4) lydo: Nhặt từ map at 03/11/2023 7:24 AM
+BAG:edatrang add 1xHoa hồng vàng lydo: Nhặt từ map at 03/11/2023 7:24 AM
+BAG:edatrang add 2xHoa hồng vàng (old: 1) lydo: Nhặt từ map at 03/11/2023 7:24 AM
+BAG:edatrang add 1xGiáp tập luyện cấp 1 lydo: Lấy từ body vào hành trang at 03/11/2023 7:24 AM
+BAG:edatrang add 3xHoa hồng vàng (old: 2) lydo: Nhặt từ map at 03/11/2023 7:24 AM
+BAG:edatrang add 1xSao pha lê lydo: Nhặt từ map at 03/11/2023 7:24 AM
+BAG:edatrang add 1xGiáp tập luyện cấp 1 lydo: Lấy từ body vào hành trang at 03/11/2023 7:25 AM
+BAG:edatrang add 4xHoa hồng vàng (old: 3) lydo: Nhặt từ map at 03/11/2023 7:25 AM
+BAG:edatrang add 37xSao pha lê (old: 36) lydo: Nhặt từ map at 03/11/2023 7:25 AM
+BAG:edatrang add 1xĐá Saphia lydo: Nhặt từ map at 03/11/2023 7:25 AM
+BAG:edatrang add 1xĐá Ruby lydo: Nhặt từ map at 03/11/2023 7:25 AM
+BAG:edatrang add 2xĐá Saphia (old: 1) lydo: Nhặt từ map at 03/11/2023 7:25 AM
+BAG:edatrang add 2xSao pha lê (old: 1) lydo: Nhặt từ map at 03/11/2023 7:25 AM
+BAG:edatrang add 1xHoa hồng đỏ lydo: Nhặt từ map at 03/11/2023 7:25 AM
+BAG:edatrang add 5xHoa hồng vàng (old: 4) lydo: Nhặt từ map at 03/11/2023 7:25 AM
+BAG:edatrang add 2xHoa hồng đỏ (old: 1) lydo: Nhặt từ map at 03/11/2023 7:25 AM
+BAG:edatrang add 6xHoa hồng vàng (old: 5) lydo: Nhặt từ map at 03/11/2023 7:26 AM
+BAG:edatrang add 3xHoa hồng đỏ (old: 2) lydo: Nhặt từ map at 03/11/2023 7:26 AM
+BAG:edatrang add 7xHoa hồng vàng (old: 6) lydo: Nhặt từ map at 03/11/2023 7:26 AM
+BAG:edatrang add 8xHoa hồng vàng (old: 7) lydo: Nhặt từ map at 03/11/2023 7:26 AM
+BAG:edatrang add 2xĐá Ruby (old: 1) lydo: Nhặt từ map at 03/11/2023 7:26 AM
+BAG:edatrang add 4xHoa hồng đỏ (old: 3) lydo: Nhặt từ map at 03/11/2023 7:26 AM
+BAG:edatrang add 5xHoa hồng đỏ (old: 4) lydo: Nhặt từ map at 03/11/2023 7:26 AM
+BAG:edatrang add 9xHoa hồng vàng (old: 8) lydo: Nhặt từ map at 03/11/2023 7:26 AM
+BAG:edatrang add 10xHoa hồng vàng (old: 9) lydo: Nhặt từ map at 03/11/2023 7:26 AM
+BAG:edatrang add 11xHoa hồng vàng (old: 10) lydo: Nhặt từ map at 03/11/2023 7:27 AM
+BAG:edatrang add 1xHoa hồng xanh lydo: Nhặt từ map at 03/11/2023 7:28 AM
+BAG:edatrang add 2xHoa hồng xanh (old: 1) lydo: Nhặt từ map at 03/11/2023 7:28 AM
+BAG:edatrang add 12xHoa hồng vàng (old: 11) lydo: Nhặt từ map at 03/11/2023 7:28 AM
+BAG:edatrang add 1xGiáp tập luyện cấp 1 lydo: Lấy từ body vào hành trang at 03/11/2023 7:28 AM
+BAG:edatrang add 3xHoa hồng xanh (old: 2) lydo: Nhặt từ map at 03/11/2023 7:28 AM
+BAG:edatrang add 6xHoa hồng đỏ (old: 5) lydo: Nhặt từ map at 03/11/2023 7:29 AM
+BAG:edatrang add 13xHoa hồng vàng (old: 12) lydo: Nhặt từ map at 03/11/2023 7:29 AM
+BAG:edatrang add 7xHoa hồng đỏ (old: 6) lydo: Nhặt từ map at 03/11/2023 7:29 AM
+BAG:edatrang add 3xĐá Saphia (old: 2) lydo: Nhặt từ map at 03/11/2023 7:29 AM
+BAG:edatrang add 27xNgọc Rồng 5 sao (old: 26) lydo: Nhặt từ map at 03/11/2023 7:29 AM
+BAG:edatrang add 28xNgọc Rồng 5 sao (old: 27) lydo: Nhặt từ map at 03/11/2023 7:29 AM
+BAG:edatrang add 68xSao pha lê (old: 67) lydo: Nhặt từ map at 03/11/2023 7:29 AM
+BAG:edatrang add 38xSao pha lê (old: 37) lydo: Nhặt từ map at 03/11/2023 7:29 AM
+BAG:edatrang add 8xHoa hồng đỏ (old: 7) lydo: Nhặt từ map at 03/11/2023 7:29 AM
+BAG:edatrang add 9xHoa hồng đỏ (old: 8) lydo: Nhặt từ map at 03/11/2023 7:29 AM
+BAG:edatrang add 4xHoa hồng xanh (old: 3) lydo: Nhặt từ map at 03/11/2023 7:29 AM
+BAG:edatrang add 3xĐá Ruby (old: 2) lydo: Nhặt từ map at 03/11/2023 7:29 AM
+BAG:edatrang add 14xHoa hồng vàng (old: 13) lydo: Nhặt từ map at 03/11/2023 7:30 AM
+BAG:edatrang add 15xHoa hồng vàng (old: 14) lydo: Nhặt từ map at 03/11/2023 7:30 AM
+BAG:edatrang add 16xHoa hồng vàng (old: 15) lydo: Nhặt từ map at 03/11/2023 7:30 AM
+BAG:edatrang add 10xHoa hồng đỏ (old: 9) lydo: Nhặt từ map at 03/11/2023 7:30 AM
+BAG:edatrang add 2xSao pha lê (old: 1) lydo: Nhặt từ map at 03/11/2023 7:30 AM
+BAG:edatrang add 5xHoa hồng xanh (old: 4) lydo: Nhặt từ map at 03/11/2023 7:31 AM
+BAG:edatrang add 6xHoa hồng xanh (old: 5) lydo: Nhặt từ map at 03/11/2023 7:31 AM
+BAG:edatrang add 17xHoa hồng vàng (old: 16) lydo: Nhặt từ map at 03/11/2023 7:31 AM
+BAG:edatrang add 6xNgọc Rồng 4 sao (old: 5) lydo: Nhặt từ map at 03/11/2023 7:31 AM
+BAG:edatrang add 11xHoa hồng đỏ (old: 10) lydo: Nhặt từ map at 03/11/2023 7:31 AM
+BAG:edatrang add 69xSao pha lê (old: 68) lydo: Nhặt từ map at 03/11/2023 7:31 AM
+BAG:edatrang add 18xHoa hồng vàng (old: 17) lydo: Nhặt từ map at 03/11/2023 7:31 AM
+BAG:edatrang add 19xHoa hồng vàng (old: 18) lydo: Nhặt từ map at 03/11/2023 7:32 AM
+BAG:edatrang add 20xHoa hồng vàng (old: 19) lydo: Nhặt từ map at 03/11/2023 7:32 AM
+BAG:edatrang add 7xHoa hồng xanh (old: 6) lydo: Nhặt từ map at 03/11/2023 7:32 AM
+BAG:edatrang add 8xHoa hồng xanh (old: 7) lydo: Nhặt từ map at 03/11/2023 7:32 AM
+BAG:edatrang add 4xĐá Saphia (old: 3) lydo: Nhặt từ map at 03/11/2023 7:32 AM
+BAG:edatrang add 21xHoa hồng vàng (old: 20) lydo: Nhặt từ map at 03/11/2023 7:32 AM
+BAG:edatrang add 12xHoa hồng đỏ (old: 11) lydo: Nhặt từ map at 03/11/2023 7:32 AM
+BAG:edatrang add 9xHoa hồng xanh (old: 8) lydo: Nhặt từ map at 03/11/2023 7:33 AM
+BAG:edatrang add 22xHoa hồng vàng (old: 21) lydo: Nhặt từ map at 03/11/2023 7:33 AM
+BAG:edatrang add 23xHoa hồng vàng (old: 22) lydo: Nhặt từ map at 03/11/2023 7:33 AM
+BAG:edatrang add 24xHoa hồng vàng (old: 23) lydo: Nhặt từ map at 03/11/2023 7:33 AM
+BAG:edatrang add 25xHoa hồng vàng (old: 24) lydo: Nhặt từ map at 03/11/2023 7:33 AM
+BAG:edatrang add 26xHoa hồng vàng (old: 25) lydo: Nhặt từ map at 03/11/2023 7:33 AM
+BAG:edatrang add 27xHoa hồng vàng (old: 26) lydo: Nhặt từ map at 03/11/2023 7:33 AM
+BAG:edatrang add 10xHoa hồng xanh (old: 9) lydo: Nhặt từ map at 03/11/2023 7:34 AM
+BAG:edatrang add 11xHoa hồng xanh (old: 10) lydo: Nhặt từ map at 03/11/2023 7:34 AM
+BAG:edatrang add 13xHoa hồng đỏ (old: 12) lydo: Nhặt từ map at 03/11/2023 7:34 AM
+BAG:edatrang add 28xHoa hồng vàng (old: 27) lydo: Nhặt từ map at 03/11/2023 7:34 AM
+BAG:edatrang add 1xNâng cấp kỹ năng 1 đệ tử lydo: Mua từ cửa hàng at 03/11/2023 7:35 AM
+BAG:edatrang add 2xNâng cấp kỹ năng 1 đệ tử (old: 1) lydo: Mua từ cửa hàng at 03/11/2023 7:36 AM
+BAG:edatrang add 3xNâng cấp kỹ năng 1 đệ tử (old: 2) lydo: Mua từ cửa hàng at 03/11/2023 7:36 AM
+BAG:edatrang add 4xNâng cấp kỹ năng 1 đệ tử (old: 3) lydo: Mua từ cửa hàng at 03/11/2023 7:37 AM
+BAG:edatrang add 5xNâng cấp kỹ năng 1 đệ tử (old: 4) lydo: Mua từ cửa hàng at 03/11/2023 7:37 AM
+BAG:edatrang add 6xNâng cấp kỹ năng 1 đệ tử (old: 5) lydo: Mua từ cửa hàng at 03/11/2023 7:37 AM
+BAG:edatrang add 1xĐổi đệ tử lydo: Mua từ cửa hàng at 03/11/2023 7:37 AM
+BAG:edatrang add 2xĐổi đệ tử (old: 1) lydo: Mua từ cửa hàng at 03/11/2023 7:37 AM
+BAG:edatrang add 3xĐổi đệ tử (old: 2) lydo: Mua từ cửa hàng at 03/11/2023 7:37 AM
+BAG:edatrang add 1xÁo vải 3 lỗ lydo: Lấy từ body đệ vào hành trang at 03/11/2023 7:37 AM
+BAG:edatrang add 1xQuần vải đen lydo: Lấy từ body đệ vào hành trang at 03/11/2023 7:37 AM
+BAG:edatrang add 1xGăng vải đen lydo: Lấy từ body đệ vào hành trang at 03/11/2023 7:37 AM
+BAG:edatrang add 1xGiầy nhựa lydo: Lấy từ body đệ vào hành trang at 03/11/2023 7:37 AM
+BAG:edatrang add 1xRada cấp 1 lydo: Lấy từ body đệ vào hành trang at 03/11/2023 7:37 AM
+BAG:edatrang add 1xCải trang Chill cấp 2 lydo: Lấy từ body đệ vào hành trang at 03/11/2023 7:37 AM
+BAG:edatrang add 1xGiáp tập luyện cấp 1 lydo: Lấy từ body đệ vào hành trang at 03/11/2023 7:38 AM
+BAG:edatrang add 1xCải trang Chill cấp 2 lydo: Lấy từ body vào hành trang at 03/11/2023 7:39 AM
+BAG:edatrang add 1xGăng vải đen lydo: Lấy từ body vào hành trang at 03/11/2023 7:39 AM
+BAG:edatrang add 1xGiáp tập luyện cấp 1 lydo: Lấy từ body vào hành trang at 03/11/2023 7:50 AM
+BAG:edatrang add 1xGiáp tập luyện cấp 1 lydo: Lấy từ body vào hành trang at 03/11/2023 8:49 AM
+BAG:edatrang add 1xGiáp tập luyện cấp 1 lydo: Lấy từ body vào hành trang at 03/11/2023 8:49 AM
+BAG:edatrang add 1xGiáp tập luyện cấp 1 lydo: Lấy từ body đệ vào hành trang at 03/11/2023 8:56 AM
+BAG:edatrang add 241xThỏi vàng (old: 91) lydo: Giftcode at 03/11/2023 9:21 AM
+BAG:edatrang add 99xNgọc Rồng 3 sao lydo: Giftcode at 03/11/2023 9:21 AM
+BAG:edatrang add 1xHoa hồng đỏ lydo: Nhặt từ map at 03/11/2023 9:25 AM
+BAG:edatrang add 1xGiáp tập luyện cấp 1 lydo: Lấy từ body vào hành trang at 03/11/2023 9:56 AM
+BAG:edatrang add 2xHoa hồng đỏ (old: 1) lydo: Nhặt từ map at 03/11/2023 9:57 AM
+BAG:edatrang add 1xGăng võ goku lydo: Lấy từ body đệ vào hành trang at 03/11/2023 9:57 AM
+BAG:edatrang add 1xRada cấp 1 lydo: Lấy từ body đệ vào hành trang at 03/11/2023 9:57 AM
+BAG:edatrang add 1xĐá lục bảo lydo: Nhặt từ map at 03/11/2023 9:57 AM
+BAG:edatrang add 1xHoa hồng vàng lydo: Nhặt từ map at 03/11/2023 9:57 AM
+BAG:edatrang add 3xHoa hồng đỏ (old: 2) lydo: Nhặt từ map at 03/11/2023 9:57 AM
+BAG:edatrang add 2xHoa hồng vàng (old: 1) lydo: Nhặt từ map at 03/11/2023 9:57 AM
+BAG:edatrang add 1xĐá Titan lydo: Nhặt từ map at 03/11/2023 9:57 AM
+BAG:edatrang add 3xHoa hồng vàng (old: 2) lydo: Nhặt từ map at 03/11/2023 9:58 AM
+BAG:edatrang add 1xHoa hồng xanh lydo: Nhặt từ map at 03/11/2023 9:58 AM
+BAG:edatrang add 4xHoa hồng vàng (old: 3) lydo: Nhặt từ map at 03/11/2023 9:58 AM
+BAG:edatrang add 5xHoa hồng vàng (old: 4) lydo: Nhặt từ map at 03/11/2023 9:58 AM
+BAG:edatrang add 6xHoa hồng vàng (old: 5) lydo: Nhặt từ map at 03/11/2023 9:59 AM
+BAG:edatrang add 7xHoa hồng vàng (old: 6) lydo: Nhặt từ map at 03/11/2023 9:59 AM
+BAG:edatrang add 8xHoa hồng vàng (old: 7) lydo: Nhặt từ map at 03/11/2023 9:59 AM
+BAG:edatrang add 4xHoa hồng đỏ (old: 3) lydo: Nhặt từ map at 03/11/2023 9:59 AM
+BAG:edatrang add 5xHoa hồng đỏ (old: 4) lydo: Nhặt từ map at 03/11/2023 9:59 AM
+BAG:edatrang add 9xHoa hồng vàng (old: 8) lydo: Nhặt từ map at 03/11/2023 9:59 AM
+BAG:edatrang add 6xHoa hồng đỏ (old: 5) lydo: Nhặt từ map at 03/11/2023 10:00 AM
+BAG:edatrang add 2xHoa hồng xanh (old: 1) lydo: Nhặt từ map at 03/11/2023 10:00 AM
+BAG:edatrang add 3xHoa hồng xanh (old: 2) lydo: Nhặt từ map at 03/11/2023 10:00 AM
+BAG:edatrang add 10xHoa hồng vàng (old: 9) lydo: Nhặt từ map at 03/11/2023 10:00 AM
+BAG:edatrang add 11xHoa hồng vàng (old: 10) lydo: Nhặt từ map at 03/11/2023 10:00 AM
+BAG:edatrang add 7xHoa hồng đỏ (old: 6) lydo: Nhặt từ map at 03/11/2023 10:00 AM
+BAG:edatrang add 4xHoa hồng xanh (old: 3) lydo: Nhặt từ map at 03/11/2023 10:00 AM
+BAG:edatrang add 8xHoa hồng đỏ (old: 7) lydo: Nhặt từ map at 03/11/2023 10:00 AM
+BAG:edatrang add 12xHoa hồng vàng (old: 11) lydo: Nhặt từ map at 03/11/2023 10:00 AM
+BAG:edatrang add 5xHoa hồng xanh (old: 4) lydo: Nhặt từ map at 03/11/2023 10:00 AM
+BAG:edatrang add 13xHoa hồng vàng (old: 12) lydo: Nhặt từ map at 03/11/2023 10:00 AM
+BAG:edatrang add 14xHoa hồng vàng (old: 13) lydo: Nhặt từ map at 03/11/2023 10:01 AM
+BAG:edatrang add 9xHoa hồng đỏ (old: 8) lydo: Nhặt từ map at 03/11/2023 10:01 AM
+BAG:edatrang add 6xHoa hồng xanh (old: 5) lydo: Nhặt từ map at 03/11/2023 10:01 AM
+BAG:edatrang add 7xHoa hồng xanh (old: 6) lydo: Nhặt từ map at 03/11/2023 10:01 AM
+BAG:edatrang add 10xHoa hồng đỏ (old: 9) lydo: Nhặt từ map at 03/11/2023 10:01 AM
+BAG:edatrang add 11xHoa hồng đỏ (old: 10) lydo: Nhặt từ map at 03/11/2023 10:01 AM
+BAG:edatrang add 12xHoa hồng đỏ (old: 11) lydo: Nhặt từ map at 03/11/2023 10:01 AM
+BAG:edatrang add 8xHoa hồng xanh (old: 7) lydo: Nhặt từ map at 03/11/2023 10:01 AM
+BAG:edatrang add 9xHoa hồng xanh (old: 8) lydo: Nhặt từ map at 03/11/2023 10:01 AM
+BAG:edatrang add 10xHoa hồng xanh (old: 9) lydo: Nhặt từ map at 03/11/2023 10:01 AM
+BAG:edatrang add 15xHoa hồng vàng (old: 14) lydo: Nhặt từ map at 03/11/2023 10:02 AM
+BAG:edatrang add 2xĐá Titan (old: 1) lydo: Nhặt từ map at 03/11/2023 10:02 AM
+BAG:edatrang add 16xHoa hồng vàng (old: 15) lydo: Nhặt từ map at 03/11/2023 10:02 AM
+BAG:edatrang add 13xHoa hồng đỏ (old: 12) lydo: Nhặt từ map at 03/11/2023 10:02 AM
+BAG:edatrang add 14xHoa hồng đỏ (old: 13) lydo: Nhặt từ map at 03/11/2023 10:02 AM
+BAG:edatrang add 15xHoa hồng đỏ (old: 14) lydo: Nhặt từ map at 03/11/2023 10:02 AM
+BAG:edatrang add 11xHoa hồng xanh (old: 10) lydo: Nhặt từ map at 03/11/2023 10:02 AM
+BAG:edatrang add 17xHoa hồng vàng (old: 16) lydo: Nhặt từ map at 03/11/2023 10:02 AM
+BAG:edatrang add 2xĐá lục bảo (old: 1) lydo: Nhặt từ map at 03/11/2023 10:02 AM
+BAG:edatrang add 16xHoa hồng đỏ (old: 15) lydo: Nhặt từ map at 03/11/2023 10:02 AM
+BAG:edatrang add 18xHoa hồng vàng (old: 17) lydo: Nhặt từ map at 03/11/2023 10:02 AM
+BAG:edatrang add 19xHoa hồng vàng (old: 18) lydo: Nhặt từ map at 03/11/2023 10:02 AM
+BAG:edatrang add 12xHoa hồng xanh (old: 11) lydo: Nhặt từ map at 03/11/2023 10:03 AM
+BAG:edatrang add 17xHoa hồng đỏ (old: 16) lydo: Nhặt từ map at 03/11/2023 10:03 AM
+BAG:edatrang add 39xSao pha lê (old: 38) lydo: Nhặt từ map at 03/11/2023 10:03 AM
+BAG:edatrang add 20xHoa hồng vàng (old: 19) lydo: Nhặt từ map at 03/11/2023 10:04 AM
+BAG:edatrang add 1xGiầy nhựa lydo: Lấy từ body đệ vào hành trang at 03/11/2023 10:05 AM
+BAG:edatrang add 1xQuần vải đen lydo: Lấy từ body đệ vào hành trang at 03/11/2023 10:05 AM
+BAG:edatrang add 1xÁo vải 3 lỗ lydo: Lấy từ body đệ vào hành trang at 03/11/2023 10:05 AM
+BAG:edatrang add 1xCải trang lydo: Lấy từ body đệ vào hành trang at 03/11/2023 10:05 AM
+BAG:edatrang add 1xGiáp tập luyện cấp 1 lydo: Lấy từ body vào hành trang at 03/11/2023 10:06 AM
+BAG:edatrang add 1xSao pha lê lydo: Nhặt từ map at 03/11/2023 10:07 AM
+BAG:edatrang add 1xHoa hồng đỏ lydo: Nhặt từ map at 03/11/2023 10:13 AM
+BAG:edatrang add 2xHoa hồng đỏ (old: 1) lydo: Nhặt từ map at 03/11/2023 10:13 AM
+BAG:edatrang add 1xHoa hồng vàng lydo: Nhặt từ map at 03/11/2023 10:13 AM
+BAG:edatrang add 1xÁo vải 3 lỗ lydo: Lấy từ body đệ vào hành trang at 03/11/2023 10:15 AM
+BAG:edatrang add 1xQuần vải đen lydo: Lấy từ body đệ vào hành trang at 03/11/2023 10:15 AM
+BAG:edatrang add 1xGiầy nhựa lydo: Lấy từ body đệ vào hành trang at 03/11/2023 10:16 AM
+BAG:edatrang add 1xRada cấp 1 lydo: Lấy từ body đệ vào hành trang at 03/11/2023 10:16 AM
+BAG:edatrang add 1xCải trang Chill cấp 2 lydo: Lấy từ body đệ vào hành trang at 03/11/2023 10:16 AM
+BAG:edatrang add 1xÁo vải 3 lỗ lydo: Lấy từ body đệ vào hành trang at 03/11/2023 10:19 AM
+BAG:edatrang add 1xQuần vải đen lydo: Lấy từ body đệ vào hành trang at 03/11/2023 10:19 AM
+BAG:edatrang add 1xGăng võ goku lydo: Lấy từ body đệ vào hành trang at 03/11/2023 10:19 AM
+BAG:edatrang add 1xGiầy nhựa lydo: Lấy từ body đệ vào hành trang at 03/11/2023 10:19 AM
+BAG:edatrang add 1xRada cấp 1 lydo: Lấy từ body đệ vào hành trang at 03/11/2023 10:19 AM
+BAG:edatrang add 1xCải trang Chill cấp 2 lydo: Lấy từ body đệ vào hành trang at 03/11/2023 10:19 AM
+BAG:edatrang add 1xHoa hồng vàng lydo: Nhặt từ map at 03/11/2023 10:33 AM
+BAG:edatrang add 1xHoa hồng đỏ lydo: Nhặt từ map at 03/11/2023 10:34 AM
+BAG:edatrang add 2xHoa hồng vàng (old: 1) lydo: Nhặt từ map at 03/11/2023 1:12 PM
+BAG:edatrang add 3xHoa hồng vàng (old: 2) lydo: Nhặt từ map at 03/11/2023 1:12 PM
+BAG:edatrang add 1xHoa hồng xanh lydo: Nhặt từ map at 03/11/2023 1:13 PM
+BAG:edatrang add 1xSao pha lê lydo: Nhặt từ map at 03/11/2023 1:13 PM
+BAG:edatrang add 1xĐá Titan lydo: Nhặt từ map at 03/11/2023 1:13 PM
+BAG:edatrang add 2xSao pha lê (old: 1) lydo: Nhặt từ map at 03/11/2023 1:13 PM
+BAG:edatrang add 2xHoa hồng xanh (old: 1) lydo: Nhặt từ map at 03/11/2023 1:15 PM
+BAG:edatrang add 3xHoa hồng xanh (old: 2) lydo: Nhặt từ map at 03/11/2023 1:15 PM
+BAG:edatrang add 1xSao pha lê lydo: Nhặt từ map at 03/11/2023 1:15 PM
+BAG:edatrang add 4xHoa hồng vàng (old: 3) lydo: Nhặt từ map at 03/11/2023 1:15 PM
+BAG:edatrang add 4xHoa hồng xanh (old: 3) lydo: Nhặt từ map at 03/11/2023 1:15 PM
+BAG:edatrang add 5xHoa hồng vàng (old: 4) lydo: Nhặt từ map at 03/11/2023 1:16 PM
+BAG:edatrang add 2xHoa hồng đỏ (old: 1) lydo: Nhặt từ map at 03/11/2023 1:16 PM
+BAG:edatrang add 5xHoa hồng xanh (old: 4) lydo: Nhặt từ map at 03/11/2023 1:17 PM
+BAG:edatrang add 6xHoa hồng vàng (old: 5) lydo: Nhặt từ map at 03/11/2023 1:18 PM
+BAG:edatrang add 6xHoa hồng xanh (old: 5) lydo: Nhặt từ map at 03/11/2023 1:18 PM
+BAG:edatrang add 2xĐá Titan (old: 1) lydo: Nhặt từ map at 03/11/2023 1:18 PM
+BAG:edatrang add 40xSao pha lê (old: 39) lydo: Nhặt từ map at 03/11/2023 1:19 PM
+BAG:edatrang add 3xHoa hồng đỏ (old: 2) lydo: Nhặt từ map at 03/11/2023 2:07 PM
+BAG:edatrang add 7xHoa hồng vàng (old: 6) lydo: Nhặt từ map at 03/11/2023 2:08 PM
+BAG:edatrang add 29xNgọc Rồng 5 sao (old: 28) lydo: Nhặt từ map at 03/11/2023 2:09 PM
+BAG:edatrang add 1xSao pha lê lydo: Nhặt từ map at 03/11/2023 2:09 PM
+BAG:edatrang add 7xHoa hồng xanh (old: 6) lydo: Nhặt từ map at 03/11/2023 2:09 PM
+BAG:edatrang add 8xHoa hồng vàng (old: 7) lydo: Nhặt từ map at 03/11/2023 2:10 PM
+BAG:edatrang add 4xHoa hồng đỏ (old: 3) lydo: Nhặt từ map at 03/11/2023 2:10 PM
+BAG:edatrang add 5xHoa hồng đỏ (old: 4) lydo: Nhặt từ map at 03/11/2023 2:11 PM
+BAG:edatrang add 9xHoa hồng vàng (old: 8) lydo: Nhặt từ map at 03/11/2023 2:11 PM
+BAG:edatrang add 8xHoa hồng xanh (old: 7) lydo: Nhặt từ map at 03/11/2023 2:12 PM
+BAG:edatrang add 3xSao pha lê (old: 2) lydo: Nhặt từ map at 03/11/2023 2:13 PM
+BAG:edatrang add 9xHoa hồng xanh (old: 8) lydo: Nhặt từ map at 03/11/2023 2:13 PM
+BAG:edatrang add 10xHoa hồng xanh (old: 9) lydo: Nhặt từ map at 03/11/2023 2:13 PM
+BAG:edatrang add 41xSao pha lê (old: 40) lydo: Nhặt từ map at 03/11/2023 2:14 PM
+BAG:edatrang add 6xHoa hồng đỏ (old: 5) lydo: Nhặt từ map at 03/11/2023 2:14 PM
+BAG:edatrang add 70xSao pha lê (old: 69) lydo: Nhặt từ map at 03/11/2023 2:15 PM
+BAG:edatrang add 3xĐá Titan (old: 2) lydo: Nhặt từ map at 03/11/2023 2:16 PM
+BAG:edatrang add 10xHoa hồng vàng (old: 9) lydo: Nhặt từ map at 03/11/2023 2:16 PM
+BAG:edatrang add 7xHoa hồng đỏ (old: 6) lydo: Nhặt từ map at 03/11/2023 2:16 PM
+BAG:edatrang add 42xSao pha lê (old: 41) lydo: Nhặt từ map at 03/11/2023 2:17 PM
+BAG:edatrang add 2xSao pha lê (old: 1) lydo: Nhặt từ map at 03/11/2023 2:18 PM
+BAG:edatrang add 11xHoa hồng vàng (old: 10) lydo: Nhặt từ map at 03/11/2023 2:18 PM
+BAG:edatrang add 11xHoa hồng xanh (old: 10) lydo: Nhặt từ map at 03/11/2023 2:19 PM
+BAG:edatrang add 12xHoa hồng vàng (old: 11) lydo: Nhặt từ map at 03/11/2023 2:20 PM
+BAG:edatrang add 13xHoa hồng vàng (old: 12) lydo: Nhặt từ map at 03/11/2023 2:20 PM
+BAG:edatrang add 14xHoa hồng vàng (old: 13) lydo: Nhặt từ map at 03/11/2023 2:20 PM
+BAG:edatrang add 12xHoa hồng xanh (old: 11) lydo: Nhặt từ map at 03/11/2023 2:21 PM
+BAG:edatrang add 13xHoa hồng xanh (old: 12) lydo: Nhặt từ map at 03/11/2023 2:21 PM
+BAG:edatrang add 2xSao pha lê (old: 1) lydo: Nhặt từ map at 03/11/2023 2:22 PM
+BAG:edatrang add 8xHoa hồng đỏ (old: 7) lydo: Nhặt từ map at 03/11/2023 2:22 PM
+BAG:edatrang add 14xHoa hồng xanh (old: 13) lydo: Nhặt từ map at 03/11/2023 2:23 PM
+BAG:edatrang add 3xSao pha lê (old: 2) lydo: Nhặt từ map at 03/11/2023 2:23 PM
+BAG:edatrang add 15xHoa hồng xanh (old: 14) lydo: Nhặt từ map at 03/11/2023 2:23 PM
+BAG:edatrang add 9xHoa hồng đỏ (old: 8) lydo: Nhặt từ map at 03/11/2023 2:24 PM
+BAG:edatrang add 15xHoa hồng vàng (old: 14) lydo: Nhặt từ map at 03/11/2023 2:25 PM
+BAG:edatrang add 16xHoa hồng vàng (old: 15) lydo: Nhặt từ map at 03/11/2023 2:25 PM
+BAG:edatrang add 10xHoa hồng đỏ (old: 9) lydo: Nhặt từ map at 03/11/2023 2:28 PM
+BAG:edatrang add 1xGiáp tập luyện cấp 1 lydo: Lấy từ body vào hành trang at 03/11/2023 2:28 PM
+BAG:edatrang add 11xHoa hồng đỏ (old: 10) lydo: Nhặt từ map at 03/11/2023 2:28 PM
+BAG:edatrang add 12xHoa hồng đỏ (old: 11) lydo: Nhặt từ map at 03/11/2023 2:28 PM
+BAG:edatrang add 4xSao pha lê (old: 3) lydo: Nhặt từ map at 03/11/2023 2:29 PM
+BAG:edatrang add 43xSao pha lê (old: 42) lydo: Nhặt từ map at 03/11/2023 2:29 PM
+BAG:edatrang add 1xGiáp tập luyện cấp 1 lydo: Lấy từ body vào hành trang at 03/11/2023 2:29 PM
+BAG:edatrang add 4xSao pha lê (old: 3) lydo: Nhặt từ map at 03/11/2023 2:30 PM
+BAG:edatrang add 13xHoa hồng đỏ (old: 12) lydo: Nhặt từ map at 03/11/2023 2:30 PM
+BAG:edatrang add 14xHoa hồng đỏ (old: 13) lydo: Nhặt từ map at 03/11/2023 2:31 PM
+BAG:edatrang add 16xHoa hồng xanh (old: 15) lydo: Nhặt từ map at 03/11/2023 2:31 PM
+BAG:edatrang add 15xHoa hồng đỏ (old: 14) lydo: Nhặt từ map at 03/11/2023 2:32 PM
+BAG:edatrang add 17xHoa hồng vàng (old: 16) lydo: Nhặt từ map at 03/11/2023 2:32 PM
+BAG:edatrang add 5xSao pha lê (old: 4) lydo: Nhặt từ map at 03/11/2023 2:32 PM
+BAG:edatrang add 16xHoa hồng đỏ (old: 15) lydo: Nhặt từ map at 03/11/2023 2:33 PM
+BAG:edatrang add 17xHoa hồng xanh (old: 16) lydo: Nhặt từ map at 03/11/2023 2:35 PM
+BAG:edatrang add 18xHoa hồng xanh (old: 17) lydo: Nhặt từ map at 03/11/2023 2:36 PM
+BAG:edatrang add 4xĐá Titan (old: 3) lydo: Nhặt từ map at 03/11/2023 2:36 PM
+BAG:edatrang add 18xHoa hồng vàng (old: 17) lydo: Nhặt từ map at 03/11/2023 2:37 PM
+BAG:edatrang add 19xHoa hồng vàng (old: 18) lydo: Nhặt từ map at 03/11/2023 2:38 PM
+BAG:edatrang add 20xHoa hồng vàng (old: 19) lydo: Nhặt từ map at 03/11/2023 2:40 PM
+BAG:edatrang add 19xHoa hồng xanh (old: 18) lydo: Nhặt từ map at 03/11/2023 2:40 PM
+BAG:edatrang add 17xHoa hồng đỏ (old: 16) lydo: Nhặt từ map at 03/11/2023 2:41 PM
+BAG:edatrang add 6xSao pha lê (old: 5) lydo: Nhặt từ map at 03/11/2023 2:42 PM
+BAG:edatrang add 5xĐá Titan (old: 4) lydo: Nhặt từ map at 03/11/2023 2:42 PM
+BAG:edatrang add 20xHoa hồng xanh (old: 19) lydo: Nhặt từ map at 03/11/2023 2:43 PM
+BAG:edatrang add 21xHoa hồng vàng (old: 20) lydo: Nhặt từ map at 03/11/2023 2:43 PM
+BAG:edatrang add 5xSao pha lê (old: 4) lydo: Nhặt từ map at 03/11/2023 2:44 PM
+BAG:edatrang add 21xHoa hồng xanh (old: 20) lydo: Nhặt từ map at 03/11/2023 2:45 PM
+BAG:edatrang add 18xHoa hồng đỏ (old: 17) lydo: Nhặt từ map at 03/11/2023 2:45 PM
+BAG:edatrang add 19xHoa hồng đỏ (old: 18) lydo: Nhặt từ map at 03/11/2023 2:47 PM
+BAG:edatrang add 22xHoa hồng vàng (old: 21) lydo: Nhặt từ map at 03/11/2023 2:47 PM
+BAG:edatrang add 22xHoa hồng xanh (old: 21) lydo: Nhặt từ map at 03/11/2023 2:48 PM
+BAG:edatrang add 23xHoa hồng vàng (old: 22) lydo: Nhặt từ map at 03/11/2023 2:48 PM
+BAG:edatrang add 23xHoa hồng xanh (old: 22) lydo: Nhặt từ map at 03/11/2023 2:49 PM
+BAG:edatrang add 24xHoa hồng vàng (old: 23) lydo: Nhặt từ map at 03/11/2023 2:50 PM
+BAG:edatrang add 20xHoa hồng đỏ (old: 19) lydo: Nhặt từ map at 03/11/2023 2:50 PM
+BAG:edatrang add 44xSao pha lê (old: 43) lydo: Nhặt từ map at 03/11/2023 2:51 PM
+BAG:edatrang add 24xHoa hồng xanh (old: 23) lydo: Nhặt từ map at 03/11/2023 7:38 PM
+BAG:edatrang add 21xHoa hồng đỏ (old: 20) lydo: Nhặt từ map at 03/11/2023 7:39 PM
+BAG:edatrang add 25xHoa hồng vàng (old: 24) lydo: Nhặt từ map at 03/11/2023 7:39 PM
+BAG:edatrang add 26xHoa hồng vàng (old: 25) lydo: Nhặt từ map at 03/11/2023 7:40 PM
+BAG:edatrang add 27xHoa hồng vàng (old: 26) lydo: Nhặt từ map at 03/11/2023 7:40 PM
+BAG:edatrang add 45xSao pha lê (old: 44) lydo: Nhặt từ map at 03/11/2023 7:40 PM
+BAG:edatrang add 28xHoa hồng vàng (old: 27) lydo: Nhặt từ map at 03/11/2023 7:42 PM
+BAG:edatrang add 29xHoa hồng vàng (old: 28) lydo: Nhặt từ map at 03/11/2023 7:42 PM
+BAG:edatrang add 30xNgọc Rồng 5 sao (old: 29) lydo: Nhặt từ map at 03/11/2023 7:43 PM
+BAG:edatrang add 22xHoa hồng đỏ (old: 21) lydo: Nhặt từ map at 03/11/2023 7:44 PM
+BAG:edatrang add 3xSao pha lê (old: 2) lydo: Nhặt từ map at 03/11/2023 7:44 PM
+BAG:edatrang add 30xHoa hồng vàng (old: 29) lydo: Nhặt từ map at 03/11/2023 7:44 PM
+BAG:edatrang add 31xHoa hồng vàng (old: 30) lydo: Nhặt từ map at 03/11/2023 7:44 PM
+BAG:edatrang add 46xSao pha lê (old: 45) lydo: Nhặt từ map at 03/11/2023 7:46 PM
+BAG:edatrang add 23xHoa hồng đỏ (old: 22) lydo: Nhặt từ map at 03/11/2023 7:46 PM
+BAG:edatrang add 32xHoa hồng vàng (old: 31) lydo: Nhặt từ map at 03/11/2023 7:46 PM
+BAG:edatrang add 33xHoa hồng vàng (old: 32) lydo: Nhặt từ map at 03/11/2023 7:47 PM
+BAG:edatrang add 24xHoa hồng đỏ (old: 23) lydo: Nhặt từ map at 03/11/2023 7:47 PM
+BAG:edatrang add 4xSao pha lê (old: 3) lydo: Nhặt từ map at 03/11/2023 7:48 PM
+BAG:edatrang add 5xSao pha lê (old: 4) lydo: Nhặt từ map at 03/11/2023 7:49 PM
+BAG:edatrang add 25xHoa hồng đỏ (old: 24) lydo: Nhặt từ map at 03/11/2023 7:49 PM
+BAG:edatrang add 34xHoa hồng vàng (old: 33) lydo: Nhặt từ map at 03/11/2023 7:49 PM
+BAG:edatrang add 25xHoa hồng xanh (old: 24) lydo: Nhặt từ map at 03/11/2023 7:50 PM
+BAG:edatrang add 26xHoa hồng đỏ (old: 25) lydo: Nhặt từ map at 03/11/2023 7:51 PM
+BAG:edatrang add 35xHoa hồng vàng (old: 34) lydo: Nhặt từ map at 03/11/2023 7:51 PM
+BAG:edatrang add 36xHoa hồng vàng (old: 35) lydo: Nhặt từ map at 03/11/2023 7:51 PM
+BAG:edatrang add 37xHoa hồng vàng (old: 36) lydo: Nhặt từ map at 03/11/2023 7:52 PM
+BAG:edatrang add 38xHoa hồng vàng (old: 37) lydo: Nhặt từ map at 03/11/2023 7:52 PM
+BAG:edatrang add 39xHoa hồng vàng (old: 38) lydo: Nhặt từ map at 03/11/2023 7:52 PM
+BAG:edatrang add 27xHoa hồng đỏ (old: 26) lydo: Nhặt từ map at 03/11/2023 7:53 PM
+BAG:edatrang add 26xHoa hồng xanh (old: 25) lydo: Nhặt từ map at 03/11/2023 7:54 PM
+BAG:edatrang add 27xHoa hồng xanh (old: 26) lydo: Nhặt từ map at 03/11/2023 7:54 PM
+BAG:edatrang add 40xHoa hồng vàng (old: 39) lydo: Nhặt từ map at 03/11/2023 7:55 PM
+BAG:edatrang add 7xNgọc Rồng 4 sao (old: 6) lydo: Nhặt từ map at 03/11/2023 7:55 PM
+BAG:edatrang add 28xHoa hồng xanh (old: 27) lydo: Nhặt từ map at 03/11/2023 7:57 PM
+BAG:edatrang add 8xNgọc Rồng 4 sao (old: 7) lydo: Nhặt từ map at 03/11/2023 7:58 PM
+BAG:edatrang add 47xSao pha lê (old: 46) lydo: Nhặt từ map at 03/11/2023 7:58 PM
+BAG:edatrang add 31xNgọc Rồng 5 sao (old: 30) lydo: Nhặt từ map at 03/11/2023 7:59 PM
+BAG:edatrang add 6xĐá Titan (old: 5) lydo: Nhặt từ map at 03/11/2023 7:59 PM
+BAG:edatrang add 28xHoa hồng đỏ (old: 27) lydo: Nhặt từ map at 03/11/2023 7:59 PM
+BAG:edatrang add 29xHoa hồng xanh (old: 28) lydo: Nhặt từ map at 03/11/2023 8:00 PM
+BAG:edatrang add 30xHoa hồng xanh (old: 29) lydo: Nhặt từ map at 03/11/2023 8:00 PM
+BAG:edatrang add 29xHoa hồng đỏ (old: 28) lydo: Nhặt từ map at 03/11/2023 8:01 PM
+BAG:edatrang add 41xHoa hồng vàng (old: 40) lydo: Nhặt từ map at 03/11/2023 8:01 PM
+BAG:edatrang add 30xHoa hồng đỏ (old: 29) lydo: Nhặt từ map at 03/11/2023 8:02 PM
+BAG:edatrang add 31xHoa hồng đỏ (old: 30) lydo: Nhặt từ map at 03/11/2023 8:02 PM
+BAG:edatrang add 31xHoa hồng xanh (old: 30) lydo: Nhặt từ map at 03/11/2023 8:02 PM
+BAG:edatrang add 32xHoa hồng đỏ (old: 31) lydo: Nhặt từ map at 03/11/2023 8:03 PM
+BAG:edatrang add 42xHoa hồng vàng (old: 41) lydo: Nhặt từ map at 03/11/2023 8:03 PM
+BAG:edatrang add 32xHoa hồng xanh (old: 31) lydo: Nhặt từ map at 03/11/2023 8:03 PM
+BAG:edatrang add 33xHoa hồng đỏ (old: 32) lydo: Nhặt từ map at 03/11/2023 8:04 PM
+BAG:edatrang add 7xĐá Titan (old: 6) lydo: Nhặt từ map at 03/11/2023 8:04 PM
+BAG:edatrang add 8xĐá Titan (old: 7) lydo: Nhặt từ map at 03/11/2023 8:04 PM
+BAG:edatrang add 43xHoa hồng vàng (old: 42) lydo: Nhặt từ map at 03/11/2023 8:04 PM
+BAG:edatrang add 33xHoa hồng xanh (old: 32) lydo: Nhặt từ map at 03/11/2023 8:05 PM
+BAG:edatrang add 7xSao pha lê (old: 6) lydo: Nhặt từ map at 03/11/2023 8:05 PM
+BAG:edatrang add 34xHoa hồng đỏ (old: 33) lydo: Nhặt từ map at 03/11/2023 8:07 PM
+BAG:edatrang add 34xHoa hồng xanh (old: 33) lydo: Nhặt từ map at 03/11/2023 8:07 PM
+BAG:edatrang add 35xHoa hồng xanh (old: 34) lydo: Nhặt từ map at 03/11/2023 8:08 PM
+BAG:edatrang add 44xHoa hồng vàng (old: 43) lydo: Nhặt từ map at 03/11/2023 8:08 PM
+BAG:edatrang add 36xHoa hồng xanh (old: 35) lydo: Nhặt từ map at 03/11/2023 8:09 PM
+BAG:edatrang add 8xSao pha lê (old: 7) lydo: Nhặt từ map at 03/11/2023 8:09 PM
+BAG:edatrang add 45xHoa hồng vàng (old: 44) lydo: Nhặt từ map at 03/11/2023 8:09 PM
+BAG:edatrang add 48xSao pha lê (old: 47) lydo: Nhặt từ map at 03/11/2023 8:09 PM
+BAG:edatrang add 6xSao pha lê (old: 5) lydo: Nhặt từ map at 03/11/2023 8:10 PM
+BAG:edatrang add 37xHoa hồng xanh (old: 36) lydo: Nhặt từ map at 03/11/2023 8:11 PM
+BAG:edatrang add 9xĐá Titan (old: 8) lydo: Nhặt từ map at 03/11/2023 8:12 PM
+BAG:edatrang add 46xHoa hồng vàng (old: 45) lydo: Nhặt từ map at 03/11/2023 8:12 PM
+BAG:edatrang add 38xHoa hồng xanh (old: 37) lydo: Nhặt từ map at 03/11/2023 8:12 PM
+BAG:edatrang add 47xHoa hồng vàng (old: 46) lydo: Nhặt từ map at 03/11/2023 8:12 PM
+BAG:edatrang add 48xHoa hồng vàng (old: 47) lydo: Nhặt từ map at 03/11/2023 8:13 PM
+BAG:edatrang add 35xHoa hồng đỏ (old: 34) lydo: Nhặt từ map at 03/11/2023 8:13 PM
+BAG:edatrang add 10xĐá Titan (old: 9) lydo: Nhặt từ map at 03/11/2023 8:14 PM
+BAG:edatrang add 36xHoa hồng đỏ (old: 35) lydo: Nhặt từ map at 03/11/2023 8:14 PM
+BAG:edatrang add 49xHoa hồng vàng (old: 48) lydo: Nhặt từ map at 03/11/2023 8:14 PM
+BAG:edatrang add 50xHoa hồng vàng (old: 49) lydo: Nhặt từ map at 03/11/2023 8:14 PM
+BAG:edatrang add 39xHoa hồng xanh (old: 38) lydo: Nhặt từ map at 03/11/2023 8:15 PM
+BAG:edatrang add 49xSao pha lê (old: 48) lydo: Nhặt từ map at 03/11/2023 8:15 PM
+BAG:edatrang add 51xHoa hồng vàng (old: 50) lydo: Nhặt từ map at 03/11/2023 8:16 PM
+BAG:edatrang add 52xHoa hồng vàng (old: 51) lydo: Nhặt từ map at 03/11/2023 8:16 PM
+BAG:edatrang add 11xĐá Titan (old: 10) lydo: Nhặt từ map at 03/11/2023 8:17 PM
+BAG:edatrang add 40xHoa hồng xanh (old: 39) lydo: Nhặt từ map at 03/11/2023 8:18 PM
+BAG:edatrang add 50xSao pha lê (old: 49) lydo: Nhặt từ map at 03/11/2023 8:18 PM
+BAG:edatrang add 9xNgọc Rồng 4 sao (old: 8) lydo: Nhặt từ map at 03/11/2023 8:18 PM
+BAG:edatrang add 41xHoa hồng xanh (old: 40) lydo: Nhặt từ map at 03/11/2023 8:18 PM
+BAG:edatrang add 37xHoa hồng đỏ (old: 36) lydo: Nhặt từ map at 03/11/2023 8:18 PM
+BAG:edatrang add 53xHoa hồng vàng (old: 52) lydo: Nhặt từ map at 03/11/2023 8:19 PM
+BAG:edatrang add 51xSao pha lê (old: 50) lydo: Nhặt từ map at 03/11/2023 8:20 PM
+BAG:edatrang add 42xHoa hồng xanh (old: 41) lydo: Nhặt từ map at 03/11/2023 8:20 PM
+BAG:edatrang add 54xHoa hồng vàng (old: 53) lydo: Nhặt từ map at 03/11/2023 8:20 PM
+BAG:edatrang add 55xHoa hồng vàng (old: 54) lydo: Nhặt từ map at 03/11/2023 8:21 PM
+BAG:edatrang add 52xSao pha lê (old: 51) lydo: Nhặt từ map at 03/11/2023 8:22 PM
+BAG:edatrang add 38xHoa hồng đỏ (old: 37) lydo: Nhặt từ map at 03/11/2023 8:22 PM

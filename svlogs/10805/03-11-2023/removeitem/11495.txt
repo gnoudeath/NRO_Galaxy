@@ -1,0 +1,108 @@
+BAG:0cti3u remove Rada cấp 1 lydo: Mặc vào người at 03/11/2023 4:26 PM
+BAG:0cti3u remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 03/11/2023 4:26 PM
+BAG:0cti3u remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 03/11/2023 4:28 PM
+BAG:0cti3u remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 03/11/2023 4:32 PM
+BAG:0cti3u remove Rada cấp 1 lydo: Tự Xóa vật phẩm at 03/11/2023 4:35 PM
+BAG:0cti3u remove Áo sợi len lydo: Tự Xóa vật phẩm at 03/11/2023 4:35 PM
+BAG:0cti3u remove Áo sợi len lydo: Tự Xóa vật phẩm at 03/11/2023 4:35 PM
+BAG:0cti3u remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 03/11/2023 4:41 PM
+BAG:0cti3u remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 03/11/2023 5:28 PM
+BAG:0cti3u remove 1xĐậu thần cấp 9 lydo: Ăn đậu at 03/11/2023 5:32 PM
+BAG:0cti3u remove Cải trang Chill cấp 2 lydo: Mặc vào người at 03/11/2023 5:55 PM
+BAG:0cti3u remove Cải trang Chill cấp 2 lydo: Mặc cho đệ tử at 03/11/2023 5:58 PM
+BAG:0cti3u remove Rada cấp 1 lydo: Tự Xóa vật phẩm at 03/11/2023 5:59 PM
+BAG:0cti3u remove Rada cấp 1 lydo: Tự Xóa vật phẩm at 03/11/2023 5:59 PM
+BAG:0cti3u remove Mảnh Phi long lydo: Tự Xóa vật phẩm at 03/11/2023 6:00 PM
+BAG:0cti3u remove Áo sợi len lydo: Tự Xóa vật phẩm at 03/11/2023 6:00 PM
+BAG:0cti3u remove Rada cấp 1 lydo: Tự Xóa vật phẩm at 03/11/2023 6:00 PM
+BAG:0cti3u remove Rada cấp 1 lydo: Tự Xóa vật phẩm at 03/11/2023 6:00 PM
+BAG:0cti3u remove Rada cấp 1 lydo: Tự Xóa vật phẩm at 03/11/2023 6:00 PM
+BAG:0cti3u remove Quần sợi len lydo: Tự Xóa vật phẩm at 03/11/2023 6:01 PM
+BAG:0cti3u remove Rada cấp 1 lydo: Tự Xóa vật phẩm at 03/11/2023 6:01 PM
+BAG:0cti3u remove Quần sợi len lydo: Tự Xóa vật phẩm at 03/11/2023 6:01 PM
+BAG:0cti3u remove 10xHoa hồng vàng lydo: Đổi hoa at 03/11/2023 6:03 PM
+BAG:0cti3u remove 2xThỏi vàng lydo: Mua đồ hủy diệt at 03/11/2023 6:03 PM
+BAG:0cti3u remove 99xThỏi vàng lydo: Tách thỏi vàng at 03/11/2023 6:04 PM
+BAG:0cti3u remove 1xThỏi vàng lydo: Bán cho shop at 03/11/2023 6:04 PM
+BAG:0cti3u remove 1xThỏi vàng lydo: Bán cho shop at 03/11/2023 6:04 PM
+BAG:0cti3u remove 1xThỏi vàng lydo: Bán cho shop at 03/11/2023 6:04 PM
+BAG:0cti3u remove 10xHoa hồng vàng lydo: Đổi hoa at 03/11/2023 6:04 PM
+BAG:0cti3u remove 10xHoa hồng vàng lydo: Đổi hoa at 03/11/2023 6:04 PM
+BAG:0cti3u remove 1xĐậu thần cấp 9 lydo: Ăn đậu at 03/11/2023 6:49 PM
+BAG:0cti3u remove 1xĐậu thần cấp 9 lydo: Ăn đậu at 03/11/2023 6:51 PM
+BAG:0cti3u remove Mảnh Lợn lòi mẹ lydo: Tự Xóa vật phẩm at 03/11/2023 7:18 PM
+BAG:0cti3u remove Mảnh Lợn lòi lydo: Tự Xóa vật phẩm at 03/11/2023 7:18 PM
+BAG:0cti3u remove Mảnh Phi long lydo: Tự Xóa vật phẩm at 03/11/2023 7:18 PM
+BAG:0cti3u remove 1xĐậu thần cấp 9 lydo: Ăn đậu at 03/11/2023 8:54 PM
+BAG:0cti3u remove Mảnh Lợn lòi mẹ lydo: Tự Xóa vật phẩm at 03/11/2023 8:55 PM
+BAG:0cti3u remove Mảnh Phi long lydo: Tự Xóa vật phẩm at 03/11/2023 8:55 PM
+BAG:0cti3u remove 10xHoa hồng vàng lydo: Đổi hoa at 03/11/2023 8:55 PM
+BAG:0cti3u remove 10xHoa hồng vàng lydo: Đổi hoa at 03/11/2023 8:55 PM
+BAG:0cti3u remove 10xHoa hồng vàng lydo: Đổi hoa at 03/11/2023 8:55 PM
+BAG:0cti3u remove 10xHoa hồng vàng lydo: Đổi hoa at 03/11/2023 8:55 PM
+BAG:0cti3u remove 10xHoa hồng vàng lydo: Đổi hoa at 03/11/2023 8:55 PM
+BAG:0cti3u remove 10xHoa hồng vàng lydo: Đổi hoa at 03/11/2023 8:55 PM
+BAG:0cti3u remove 10xHoa hồng vàng lydo: Đổi hoa at 03/11/2023 8:55 PM
+BAG:0cti3u remove 10xBó hoa hồng vàng lydo: Đổi hoa at 03/11/2023 8:55 PM
+BAG:0cti3u remove 1xGiỏ hoa lydo: Đổi hoa at 03/11/2023 8:55 PM
+BAG:0cti3u remove Thỏi vàng lydo: Cất vào rương at 03/11/2023 9:01 PM
+BAG:0cti3u remove Ngọc Rồng 3 sao lydo: Cất vào rương at 03/11/2023 9:01 PM
+BAG:0cti3u remove Đá thạch anh tím lydo: Cất vào rương at 03/11/2023 9:01 PM
+BAG:0cti3u remove 1xThỏi vàng lydo: Bán cho shop at 03/11/2023 9:06 PM
+BAG:0cti3u remove 10xHoa hồng vàng lydo: Đổi hoa at 03/11/2023 9:09 PM
+BAG:0cti3u remove 10xHoa hồng đỏ lydo: Đổi hoa at 03/11/2023 9:09 PM
+BAG:0cti3u remove 10xHoa hồng đỏ lydo: Đổi hoa at 03/11/2023 9:09 PM
+BAG:0cti3u remove 10xHoa hồng đỏ lydo: Đổi hoa at 03/11/2023 9:09 PM
+BAG:0cti3u remove 10xHoa hồng đỏ lydo: Đổi hoa at 03/11/2023 9:09 PM
+BAG:0cti3u remove 10xHoa hồng đỏ lydo: Đổi hoa at 03/11/2023 9:09 PM
+BAG:0cti3u remove 10xHoa hồng đỏ lydo: Đổi hoa at 03/11/2023 9:09 PM
+BAG:0cti3u remove 10xHoa hồng đỏ lydo: Đổi hoa at 03/11/2023 9:09 PM
+BAG:0cti3u remove 10xHoa hồng đỏ lydo: Đổi hoa at 03/11/2023 9:09 PM
+BAG:0cti3u remove 10xHoa hồng đỏ lydo: Đổi hoa at 03/11/2023 9:09 PM
+BAG:0cti3u remove 10xHoa hồng đỏ lydo: Đổi hoa at 03/11/2023 9:09 PM
+BAG:0cti3u remove 10xHoa hồng xanh lydo: Đổi hoa at 03/11/2023 9:09 PM
+BAG:0cti3u remove 10xHoa hồng xanh lydo: Đổi hoa at 03/11/2023 9:09 PM
+BAG:0cti3u remove 10xHoa hồng xanh lydo: Đổi hoa at 03/11/2023 9:09 PM
+BAG:0cti3u remove 10xHoa hồng xanh lydo: Đổi hoa at 03/11/2023 9:09 PM
+BAG:0cti3u remove 10xHoa hồng xanh lydo: Đổi hoa at 03/11/2023 9:09 PM
+BAG:0cti3u remove 10xHoa hồng xanh lydo: Đổi hoa at 03/11/2023 9:09 PM
+BAG:0cti3u remove 10xHoa hồng xanh lydo: Đổi hoa at 03/11/2023 9:09 PM
+BAG:0cti3u remove 10xHoa hồng xanh lydo: Đổi hoa at 03/11/2023 9:09 PM
+BAG:0cti3u remove 10xHoa hồng xanh lydo: Đổi hoa at 03/11/2023 9:09 PM
+BAG:0cti3u remove 10xHoa hồng xanh lydo: Đổi hoa at 03/11/2023 9:09 PM
+BAG:0cti3u remove 2xThỏi vàng lydo: Mua đồ hủy diệt at 03/11/2023 9:10 PM
+BAG:0cti3u remove 2xThỏi vàng lydo: Mua đồ hủy diệt at 03/11/2023 9:10 PM
+BAG:0cti3u remove 10xBó hoa hồng đỏ lydo: Đổi hoa at 03/11/2023 9:10 PM
+BAG:0cti3u remove 1xGiỏ hoa lydo: Đổi hoa at 03/11/2023 9:10 PM
+BAG:0cti3u remove 10xBó hoa hồng xanh lydo: Đổi hoa at 03/11/2023 9:10 PM
+BAG:0cti3u remove 1xGiỏ hoa lydo: Đổi hoa at 03/11/2023 9:10 PM
+BAG:0cti3u remove 1xGiỏ hoa hồng đỏ lydo: Đổi quà at 03/11/2023 9:10 PM
+BAG:0cti3u remove 1xGiỏ hoa hồng xanh lydo: Đổi quà at 03/11/2023 9:10 PM
+BAG:0cti3u remove 1xGiỏ hoa hồng vàng lydo: Đổi quà at 03/11/2023 9:10 PM
+BAG:0cti3u remove 1xHộp quà 8/3 lydo: CSKB at 03/11/2023 9:10 PM
+BAG:0cti3u remove Bó hoa hồng vàng lydo: Tự Xóa vật phẩm at 03/11/2023 9:10 PM
+BAG:0cti3u remove 10xHoa hồng đỏ lydo: Đổi hoa at 03/11/2023 9:10 PM
+BAG:0cti3u remove 10xHoa hồng đỏ lydo: Đổi hoa at 03/11/2023 9:10 PM
+BAG:0cti3u remove 10xHoa hồng đỏ lydo: Đổi hoa at 03/11/2023 9:11 PM
+BAG:0cti3u remove 10xHoa hồng đỏ lydo: Đổi hoa at 03/11/2023 9:11 PM
+BAG:0cti3u remove 10xHoa hồng đỏ lydo: Đổi hoa at 03/11/2023 9:11 PM
+BAG:0cti3u remove 10xHoa hồng đỏ lydo: Đổi hoa at 03/11/2023 9:11 PM
+BAG:0cti3u remove 10xHoa hồng đỏ lydo: Đổi hoa at 03/11/2023 9:11 PM
+BAG:0cti3u remove 1xThỏi vàng lydo: Bán cho shop at 03/11/2023 9:11 PM
+BAG:0cti3u remove 1xThỏi vàng lydo: Bán cho shop at 03/11/2023 9:11 PM
+BAG:0cti3u remove 1xThỏi vàng lydo: Bán cho shop at 03/11/2023 9:11 PM
+BAG:0cti3u remove 1xÁo da Pico lydo: Bán cho shop at 03/11/2023 9:12 PM
+BAG:0cti3u remove 1xÁo da Pico lydo: Bán cho shop at 03/11/2023 9:12 PM
+BAG:0cti3u remove 1xThỏi vàng lydo: Bán cho shop at 03/11/2023 9:12 PM
+BAG:0cti3u remove 1xÁo da Pico lydo: Bán cho shop at 03/11/2023 9:12 PM
+BAG:0cti3u remove 1xÁo da Pico lydo: Bán cho shop at 03/11/2023 9:12 PM
+BAG:0cti3u remove 1xÁo choàng len lydo: Bán cho shop at 03/11/2023 9:13 PM
+BAG:0cti3u remove 1xÁo da Pico lydo: Bán cho shop at 03/11/2023 9:14 PM
+BAG:0cti3u remove 1xÁo thun Pico lydo: Bán cho shop at 03/11/2023 9:14 PM
+BAG:0cti3u remove 1xÁo sợi len lydo: Bán cho shop at 03/11/2023 9:14 PM
+BAG:0cti3u remove Quần sợi len lydo: Tự Xóa vật phẩm at 03/11/2023 9:22 PM
+BAG:0cti3u remove Rada cấp 1 lydo: Tự Xóa vật phẩm at 03/11/2023 9:22 PM
+BAG:0cti3u remove Áo vải Pico lydo: Tự Xóa vật phẩm at 03/11/2023 9:22 PM
+BAG:0cti3u remove Áo vải Pico lydo: Tự Xóa vật phẩm at 03/11/2023 9:22 PM
+BAG:0cti3u remove Áo da Pico lydo: Tự Xóa vật phẩm at 03/11/2023 9:22 PM
+BAG:0cti3u remove Bó hoa hồng đỏ lydo: Tự Xóa vật phẩm at 03/11/2023 9:22 PM

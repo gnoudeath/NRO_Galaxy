@@ -1,0 +1,46 @@
+BAG:hieuconbad add 30xĐậu thần cấp 9 (old: 10) lydo: Lấy từ rương qua người at 03/12/2023 2:33 PM
+BAG:hieuconbad add 50xĐậu thần cấp 9 (old: 30) lydo: Lấy từ rương qua người at 03/12/2023 2:33 PM
+BAG:hieuconbad add 1xÁo sợi len lydo: Lấy từ body vào hành trang at 03/12/2023 2:34 PM
+BAG:hieuconbad add 1xGăng sợi len lydo: Lấy từ body vào hành trang at 03/12/2023 2:34 PM
+BAG:hieuconbad add 1xGiầy sợi len lydo: Lấy từ body vào hành trang at 03/12/2023 2:34 PM
+BAG:hieuconbad add 1xQuần sợi len lydo: Lấy từ body vào hành trang at 03/12/2023 2:34 PM
+BAG:hieuconbad add 1xRada cấp 1 lydo: Lấy từ body vào hành trang at 03/12/2023 2:34 PM
+BAG:hieuconbad add 1xÁo sợi len lydo: Lấy từ body đệ vào hành trang at 03/12/2023 7:35 PM
+BAG:hieuconbad add 1xRada cấp 1 lydo: Lấy từ body đệ vào hành trang at 03/12/2023 7:35 PM
+BAG:hieuconbad add 1xNâng cấp kỹ năng 2 đệ tử lydo: Mua từ cửa hàng at 03/12/2023 7:35 PM
+BAG:hieuconbad add 1xCải trang lydo: Lấy từ body vào hành trang at 03/12/2023 7:36 PM
+BAG:hieuconbad add 1014xHoa hồng vàng (old: 1013) lydo: Nhặt từ map at 03/12/2023 7:37 PM
+BAG:hieuconbad add 1xÁo sợi len lydo: Lấy từ body đệ vào hành trang at 03/12/2023 7:37 PM
+BAG:hieuconbad add 1xQuần sợi len lydo: Lấy từ body đệ vào hành trang at 03/12/2023 7:37 PM
+BAG:hieuconbad add 1xĐá thạch anh tím lydo: Nhặt từ map at 03/12/2023 7:38 PM
+BAG:hieuconbad add 1015xHoa hồng vàng (old: 1014) lydo: Nhặt từ map at 03/12/2023 7:39 PM
+BAG:hieuconbad add 1xNâng cấp kỹ năng 2 đệ tử lydo: Mua từ cửa hàng at 03/12/2023 7:39 PM
+BAG:hieuconbad add 2xNâng cấp kỹ năng 2 đệ tử (old: 1) lydo: Mua từ cửa hàng at 03/12/2023 7:39 PM
+BAG:hieuconbad add 3xNâng cấp kỹ năng 2 đệ tử (old: 2) lydo: Mua từ cửa hàng at 03/12/2023 7:39 PM
+BAG:hieuconbad add 4xNâng cấp kỹ năng 2 đệ tử (old: 3) lydo: Mua từ cửa hàng at 03/12/2023 7:39 PM
+BAG:hieuconbad add 5xNâng cấp kỹ năng 2 đệ tử (old: 4) lydo: Mua từ cửa hàng at 03/12/2023 7:39 PM
+BAG:hieuconbad add 2xĐá thạch anh tím (old: 1) lydo: Nhặt từ map at 03/12/2023 7:39 PM
+BAG:hieuconbad add 709xHoa hồng xanh (old: 708) lydo: Nhặt từ map at 03/12/2023 7:39 PM
+BAG:hieuconbad add 710xHoa hồng xanh (old: 709) lydo: Nhặt từ map at 03/12/2023 7:40 PM
+BAG:hieuconbad add 711xHoa hồng xanh (old: 710) lydo: Nhặt từ map at 03/12/2023 7:40 PM
+BAG:hieuconbad add 1xGiáp tập luyện cấp 3 lydo: Mua từ cửa hàng at 03/12/2023 7:40 PM
+BAG:hieuconbad add 1xGiáp tập luyện cấp 3 lydo: Mua từ cửa hàng at 03/12/2023 7:40 PM
+BAG:hieuconbad add 773xHoa hồng đỏ (old: 772) lydo: Nhặt từ map at 03/12/2023 7:40 PM
+BAG:hieuconbad add 712xHoa hồng xanh (old: 711) lydo: Nhặt từ map at 03/12/2023 7:40 PM
+BAG:hieuconbad add 774xHoa hồng đỏ (old: 773) lydo: Nhặt từ map at 03/12/2023 7:40 PM
+BAG:hieuconbad add 775xHoa hồng đỏ (old: 774) lydo: Nhặt từ map at 03/12/2023 7:40 PM
+BAG:hieuconbad add 713xHoa hồng xanh (old: 712) lydo: Nhặt từ map at 03/12/2023 7:41 PM
+BAG:hieuconbad add 714xHoa hồng xanh (old: 713) lydo: Nhặt từ map at 03/12/2023 7:41 PM
+BAG:hieuconbad add 3xĐá thạch anh tím (old: 2) lydo: Nhặt từ map at 03/12/2023 7:41 PM
+BAG:hieuconbad add 776xHoa hồng đỏ (old: 775) lydo: Nhặt từ map at 03/12/2023 7:41 PM
+BAG:hieuconbad add 1xĐá Ruby lydo: Nhặt từ map at 03/12/2023 7:41 PM
+BAG:hieuconbad add 777xHoa hồng đỏ (old: 776) lydo: Nhặt từ map at 03/12/2023 7:41 PM
+BAG:hieuconbad add 1xNgọc Rồng 3 sao lydo: Nhập ngọc at 03/12/2023 7:43 PM
+BAG:hieuconbad add 2xNgọc Rồng 3 sao (old: 1) lydo: Nhập ngọc at 03/12/2023 7:43 PM
+BAG:hieuconbad add 3xNgọc Rồng 3 sao (old: 2) lydo: Nhập ngọc at 03/12/2023 7:43 PM
+BAG:hieuconbad add 4xNgọc Rồng 3 sao (old: 3) lydo: Nhập ngọc at 03/12/2023 7:44 PM
+BAG:hieuconbad add 778xHoa hồng đỏ (old: 777) lydo: Nhặt từ map at 03/12/2023 7:44 PM
+BAG:hieuconbad add 1016xHoa hồng vàng (old: 1015) lydo: Nhặt từ map at 03/12/2023 7:44 PM
+BAG:hieuconbad add 715xHoa hồng xanh (old: 714) lydo: Nhặt từ map at 03/12/2023 7:44 PM
+BAG:hieuconbad add 1017xHoa hồng vàng (old: 1016) lydo: Nhặt từ map at 03/12/2023 7:44 PM
+BAG:hieuconbad add 716xHoa hồng xanh (old: 715) lydo: Nhặt từ map at 03/12/2023 7:45 PM

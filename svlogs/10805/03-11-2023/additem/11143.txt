@@ -1,0 +1,215 @@
+BAG:toitenbuonn add 1xGiáp tập luyện cấp 2 lydo: Lấy từ body vào hành trang at 03/11/2023 9:55 AM
+BAG:toitenbuonn add 1xGăng lưỡng long lydo: Lấy từ body đệ vào hành trang at 03/11/2023 9:58 AM
+BAG:toitenbuonn add 1xCT Genma 01 lydo: Lấy từ body đệ vào hành trang at 03/11/2023 9:58 AM
+BAG:toitenbuonn add 300xThỏi vàng (old: 200) lydo: Giftcode at 03/11/2023 10:20 AM
+BAG:toitenbuonn add 1xGiáp tập luyện cấp 2 lydo: Lấy từ body vào hành trang at 03/11/2023 1:01 PM
+BAG:toitenbuonn add 481xHoa hồng xanh (old: 480) lydo: Nhặt từ map at 03/11/2023 1:01 PM
+BAG:toitenbuonn add 1xNâng cấp kỹ năng 4 đệ tử lydo: Mua từ cửa hàng at 03/11/2023 1:02 PM
+BAG:toitenbuonn add 2xNâng cấp kỹ năng 4 đệ tử (old: 1) lydo: Mua từ cửa hàng at 03/11/2023 1:02 PM
+BAG:toitenbuonn add 3xNâng cấp kỹ năng 4 đệ tử (old: 2) lydo: Mua từ cửa hàng at 03/11/2023 1:02 PM
+BAG:toitenbuonn add 4xNâng cấp kỹ năng 4 đệ tử (old: 3) lydo: Mua từ cửa hàng at 03/11/2023 1:02 PM
+BAG:toitenbuonn add 5xNâng cấp kỹ năng 4 đệ tử (old: 4) lydo: Mua từ cửa hàng at 03/11/2023 1:02 PM
+BAG:toitenbuonn add 6xNâng cấp kỹ năng 4 đệ tử (old: 5) lydo: Mua từ cửa hàng at 03/11/2023 1:02 PM
+BAG:toitenbuonn add 1xGiáp tập luyện cấp 3 lydo: Mua từ cửa hàng at 03/11/2023 1:03 PM
+BAG:toitenbuonn add 1xCải Trang Thần Zeno Xayda lydo: Mua từ bill at 03/11/2023 2:02 PM
+BAG:toitenbuonn add 1xÁo vải thô lydo: Lấy từ body vào hành trang at 03/11/2023 2:05 PM
+BAG:toitenbuonn add 1xQuần vải thô lydo: Lấy từ body vào hành trang at 03/11/2023 2:05 PM
+BAG:toitenbuonn add 1xGăng vải thô lydo: Lấy từ body vào hành trang at 03/11/2023 2:05 PM
+BAG:toitenbuonn add 1xRada cấp 1 lydo: Lấy từ body vào hành trang at 03/11/2023 2:10 PM
+BAG:toitenbuonn add 1xGiầy vải thô lydo: Lấy từ body vào hành trang at 03/11/2023 2:10 PM
+BAG:toitenbuonn add 11xNgọc Rồng 4 sao (old: 10) lydo: Nhặt từ map at 03/11/2023 2:45 PM
+BAG:toitenbuonn add 1xCT Genma 01 lydo: Lấy từ body đệ vào hành trang at 03/11/2023 2:51 PM
+BAG:toitenbuonn add 1xGăng lưỡng long lydo: Lấy từ body đệ vào hành trang at 03/11/2023 2:51 PM
+BAG:toitenbuonn add 1xGiáp tập luyện cấp 3 lydo: Lấy từ body vào hành trang at 03/11/2023 3:09 PM
+BAG:toitenbuonn add 1xGiáp tập luyện cấp 3 lydo: Lấy từ body vào hành trang at 03/11/2023 4:33 PM
+BAG:toitenbuonn add 1xGăng lưỡng long lydo: Lấy từ body đệ vào hành trang at 03/11/2023 4:39 PM
+BAG:toitenbuonn add 1xCT Genma 01 lydo: Lấy từ body đệ vào hành trang at 03/11/2023 4:39 PM
+BAG:toitenbuonn add 1xCT Genma 01 lydo: Lấy từ body đệ vào hành trang at 03/11/2023 5:13 PM
+BAG:toitenbuonn add 658xHoa hồng vàng (old: 657) lydo: Nhặt từ map at 03/11/2023 6:56 PM
+BAG:toitenbuonn add 1xĐá Ruby lydo: Nhặt từ map at 03/11/2023 6:56 PM
+BAG:toitenbuonn add 1xĐá Titan lydo: Nhặt từ map at 03/11/2023 6:56 PM
+BAG:toitenbuonn add 12xNgọc Rồng 4 sao (old: 11) lydo: Nhặt từ map at 03/11/2023 6:56 PM
+BAG:toitenbuonn add 18xĐá thạch anh tím (old: 17) lydo: Nhặt từ map at 03/11/2023 6:56 PM
+BAG:toitenbuonn add 2xĐá Titan (old: 1) lydo: Nhặt từ map at 03/11/2023 6:56 PM
+BAG:toitenbuonn add 23xNgọc Rồng 5 sao (old: 22) lydo: Nhặt từ map at 03/11/2023 6:56 PM
+BAG:toitenbuonn add 482xHoa hồng xanh (old: 481) lydo: Nhặt từ map at 03/11/2023 6:57 PM
+BAG:toitenbuonn add 1xĐá lục bảo lydo: Nhặt từ map at 03/11/2023 6:57 PM
+BAG:toitenbuonn add 483xHoa hồng xanh (old: 482) lydo: Nhặt từ map at 03/11/2023 6:57 PM
+BAG:toitenbuonn add 484xHoa hồng xanh (old: 483) lydo: Nhặt từ map at 03/11/2023 6:57 PM
+BAG:toitenbuonn add 659xHoa hồng vàng (old: 658) lydo: Nhặt từ map at 03/11/2023 6:57 PM
+BAG:toitenbuonn add 485xHoa hồng xanh (old: 484) lydo: Nhặt từ map at 03/11/2023 6:57 PM
+BAG:toitenbuonn add 423xHoa hồng đỏ (old: 422) lydo: Nhặt từ map at 03/11/2023 6:57 PM
+BAG:toitenbuonn add 424xHoa hồng đỏ (old: 423) lydo: Nhặt từ map at 03/11/2023 6:57 PM
+BAG:toitenbuonn add 425xHoa hồng đỏ (old: 424) lydo: Nhặt từ map at 03/11/2023 6:57 PM
+BAG:toitenbuonn add 486xHoa hồng xanh (old: 485) lydo: Nhặt từ map at 03/11/2023 6:57 PM
+BAG:toitenbuonn add 660xHoa hồng vàng (old: 659) lydo: Nhặt từ map at 03/11/2023 6:57 PM
+BAG:toitenbuonn add 426xHoa hồng đỏ (old: 425) lydo: Nhặt từ map at 03/11/2023 6:57 PM
+BAG:toitenbuonn add 427xHoa hồng đỏ (old: 426) lydo: Nhặt từ map at 03/11/2023 6:57 PM
+BAG:toitenbuonn add 661xHoa hồng vàng (old: 660) lydo: Nhặt từ map at 03/11/2023 6:57 PM
+BAG:toitenbuonn add 487xHoa hồng xanh (old: 486) lydo: Nhặt từ map at 03/11/2023 6:58 PM
+BAG:toitenbuonn add 428xHoa hồng đỏ (old: 427) lydo: Nhặt từ map at 03/11/2023 6:58 PM
+BAG:toitenbuonn add 13xNgọc Rồng 4 sao (old: 12) lydo: Nhặt từ map at 03/11/2023 6:58 PM
+BAG:toitenbuonn add 3xĐá Titan (old: 2) lydo: Nhặt từ map at 03/11/2023 6:58 PM
+BAG:toitenbuonn add 14xNgọc Rồng 4 sao (old: 13) lydo: Nhặt từ map at 03/11/2023 6:58 PM
+BAG:toitenbuonn add 488xHoa hồng xanh (old: 487) lydo: Nhặt từ map at 03/11/2023 6:58 PM
+BAG:toitenbuonn add 19xĐá thạch anh tím (old: 18) lydo: Nhặt từ map at 03/11/2023 6:58 PM
+BAG:toitenbuonn add 662xHoa hồng vàng (old: 661) lydo: Nhặt từ map at 03/11/2023 6:58 PM
+BAG:toitenbuonn add 489xHoa hồng xanh (old: 488) lydo: Nhặt từ map at 03/11/2023 6:58 PM
+BAG:toitenbuonn add 490xHoa hồng xanh (old: 489) lydo: Nhặt từ map at 03/11/2023 6:58 PM
+BAG:toitenbuonn add 491xHoa hồng xanh (old: 490) lydo: Nhặt từ map at 03/11/2023 6:58 PM
+BAG:toitenbuonn add 2xĐá lục bảo (old: 1) lydo: Nhặt từ map at 03/11/2023 6:58 PM
+BAG:toitenbuonn add 429xHoa hồng đỏ (old: 428) lydo: Nhặt từ map at 03/11/2023 6:58 PM
+BAG:toitenbuonn add 430xHoa hồng đỏ (old: 429) lydo: Nhặt từ map at 03/11/2023 6:59 PM
+BAG:toitenbuonn add 4xĐá Titan (old: 3) lydo: Nhặt từ map at 03/11/2023 6:59 PM
+BAG:toitenbuonn add 20xĐá thạch anh tím (old: 19) lydo: Nhặt từ map at 03/11/2023 6:59 PM
+BAG:toitenbuonn add 15xNgọc Rồng 4 sao (old: 14) lydo: Nhặt từ map at 03/11/2023 6:59 PM
+BAG:toitenbuonn add 431xHoa hồng đỏ (old: 430) lydo: Nhặt từ map at 03/11/2023 6:59 PM
+BAG:toitenbuonn add 2xĐá Ruby (old: 1) lydo: Nhặt từ map at 03/11/2023 6:59 PM
+BAG:toitenbuonn add 663xHoa hồng vàng (old: 662) lydo: Nhặt từ map at 03/11/2023 6:59 PM
+BAG:toitenbuonn add 492xHoa hồng xanh (old: 491) lydo: Nhặt từ map at 03/11/2023 6:59 PM
+BAG:toitenbuonn add 493xHoa hồng xanh (old: 492) lydo: Nhặt từ map at 03/11/2023 6:59 PM
+BAG:toitenbuonn add 494xHoa hồng xanh (old: 493) lydo: Nhặt từ map at 03/11/2023 6:59 PM
+BAG:toitenbuonn add 1xĐá Saphia lydo: Nhặt từ map at 03/11/2023 6:59 PM
+BAG:toitenbuonn add 432xHoa hồng đỏ (old: 431) lydo: Nhặt từ map at 03/11/2023 6:59 PM
+BAG:toitenbuonn add 3xĐá Ruby (old: 2) lydo: Nhặt từ map at 03/11/2023 6:59 PM
+BAG:toitenbuonn add 4xĐá Ruby (old: 3) lydo: Nhặt từ map at 03/11/2023 6:59 PM
+BAG:toitenbuonn add 664xHoa hồng vàng (old: 663) lydo: Nhặt từ map at 03/11/2023 6:59 PM
+BAG:toitenbuonn add 665xHoa hồng vàng (old: 664) lydo: Nhặt từ map at 03/11/2023 6:59 PM
+BAG:toitenbuonn add 666xHoa hồng vàng (old: 665) lydo: Nhặt từ map at 03/11/2023 6:59 PM
+BAG:toitenbuonn add 495xHoa hồng xanh (old: 494) lydo: Nhặt từ map at 03/11/2023 7:00 PM
+BAG:toitenbuonn add 496xHoa hồng xanh (old: 495) lydo: Nhặt từ map at 03/11/2023 7:00 PM
+BAG:toitenbuonn add 667xHoa hồng vàng (old: 666) lydo: Nhặt từ map at 03/11/2023 7:00 PM
+BAG:toitenbuonn add 668xHoa hồng vàng (old: 667) lydo: Nhặt từ map at 03/11/2023 7:00 PM
+BAG:toitenbuonn add 433xHoa hồng đỏ (old: 432) lydo: Nhặt từ map at 03/11/2023 7:00 PM
+BAG:toitenbuonn add 669xHoa hồng vàng (old: 668) lydo: Nhặt từ map at 03/11/2023 7:00 PM
+BAG:toitenbuonn add 19xNgọc Rồng 6 sao (old: 18) lydo: Nhặt từ map at 03/11/2023 7:00 PM
+BAG:toitenbuonn add 2xĐá Saphia (old: 1) lydo: Nhặt từ map at 03/11/2023 7:00 PM
+BAG:toitenbuonn add 670xHoa hồng vàng (old: 669) lydo: Nhặt từ map at 03/11/2023 7:00 PM
+BAG:toitenbuonn add 434xHoa hồng đỏ (old: 433) lydo: Nhặt từ map at 03/11/2023 7:00 PM
+BAG:toitenbuonn add 3xĐá Saphia (old: 2) lydo: Nhặt từ map at 03/11/2023 7:00 PM
+BAG:toitenbuonn add 435xHoa hồng đỏ (old: 434) lydo: Nhặt từ map at 03/11/2023 7:00 PM
+BAG:toitenbuonn add 671xHoa hồng vàng (old: 670) lydo: Nhặt từ map at 03/11/2023 7:00 PM
+BAG:toitenbuonn add 672xHoa hồng vàng (old: 671) lydo: Nhặt từ map at 03/11/2023 7:00 PM
+BAG:toitenbuonn add 673xHoa hồng vàng (old: 672) lydo: Nhặt từ map at 03/11/2023 7:00 PM
+BAG:toitenbuonn add 4xĐá Saphia (old: 3) lydo: Nhặt từ map at 03/11/2023 7:00 PM
+BAG:toitenbuonn add 436xHoa hồng đỏ (old: 435) lydo: Nhặt từ map at 03/11/2023 7:00 PM
+BAG:toitenbuonn add 437xHoa hồng đỏ (old: 436) lydo: Nhặt từ map at 03/11/2023 7:00 PM
+BAG:toitenbuonn add 497xHoa hồng xanh (old: 496) lydo: Nhặt từ map at 03/11/2023 7:01 PM
+BAG:toitenbuonn add 5xĐá Saphia (old: 4) lydo: Nhặt từ map at 03/11/2023 7:01 PM
+BAG:toitenbuonn add 16xNgọc Rồng 4 sao (old: 15) lydo: Nhặt từ map at 03/11/2023 7:01 PM
+BAG:toitenbuonn add 438xHoa hồng đỏ (old: 437) lydo: Nhặt từ map at 03/11/2023 7:01 PM
+BAG:toitenbuonn add 674xHoa hồng vàng (old: 673) lydo: Nhặt từ map at 03/11/2023 7:01 PM
+BAG:toitenbuonn add 439xHoa hồng đỏ (old: 438) lydo: Nhặt từ map at 03/11/2023 7:01 PM
+BAG:toitenbuonn add 675xHoa hồng vàng (old: 674) lydo: Nhặt từ map at 03/11/2023 7:01 PM
+BAG:toitenbuonn add 24xNgọc Rồng 5 sao (old: 23) lydo: Nhặt từ map at 03/11/2023 7:01 PM
+BAG:toitenbuonn add 3xĐá lục bảo (old: 2) lydo: Nhặt từ map at 03/11/2023 7:01 PM
+BAG:toitenbuonn add 676xHoa hồng vàng (old: 675) lydo: Nhặt từ map at 03/11/2023 7:01 PM
+BAG:toitenbuonn add 21xĐá thạch anh tím (old: 20) lydo: Nhặt từ map at 03/11/2023 7:01 PM
+BAG:toitenbuonn add 440xHoa hồng đỏ (old: 439) lydo: Nhặt từ map at 03/11/2023 7:01 PM
+BAG:toitenbuonn add 5xĐá Ruby (old: 4) lydo: Nhặt từ map at 03/11/2023 7:01 PM
+BAG:toitenbuonn add 441xHoa hồng đỏ (old: 440) lydo: Nhặt từ map at 03/11/2023 7:01 PM
+BAG:toitenbuonn add 498xHoa hồng xanh (old: 497) lydo: Nhặt từ map at 03/11/2023 7:01 PM
+BAG:toitenbuonn add 6xĐá Ruby (old: 5) lydo: Nhặt từ map at 03/11/2023 7:02 PM
+BAG:toitenbuonn add 442xHoa hồng đỏ (old: 441) lydo: Nhặt từ map at 03/11/2023 7:02 PM
+BAG:toitenbuonn add 443xHoa hồng đỏ (old: 442) lydo: Nhặt từ map at 03/11/2023 7:48 PM
+BAG:toitenbuonn add 17xNgọc Rồng 4 sao (old: 16) lydo: Nhặt từ map at 03/11/2023 7:48 PM
+BAG:toitenbuonn add 25xNgọc Rồng 5 sao (old: 24) lydo: Nhặt từ map at 03/11/2023 7:48 PM
+BAG:toitenbuonn add 6xĐá Saphia (old: 5) lydo: Nhặt từ map at 03/11/2023 7:48 PM
+BAG:toitenbuonn add 499xHoa hồng xanh (old: 498) lydo: Nhặt từ map at 03/11/2023 7:48 PM
+BAG:toitenbuonn add 500xHoa hồng xanh (old: 499) lydo: Nhặt từ map at 03/11/2023 7:48 PM
+BAG:toitenbuonn add 677xHoa hồng vàng (old: 676) lydo: Nhặt từ map at 03/11/2023 7:48 PM
+BAG:toitenbuonn add 18xNgọc Rồng 4 sao (old: 17) lydo: Nhặt từ map at 03/11/2023 7:48 PM
+BAG:toitenbuonn add 678xHoa hồng vàng (old: 677) lydo: Nhặt từ map at 03/11/2023 7:48 PM
+BAG:toitenbuonn add 7xĐá Saphia (old: 6) lydo: Nhặt từ map at 03/11/2023 7:48 PM
+BAG:toitenbuonn add 444xHoa hồng đỏ (old: 443) lydo: Nhặt từ map at 03/11/2023 7:48 PM
+BAG:toitenbuonn add 4xĐá lục bảo (old: 3) lydo: Nhặt từ map at 03/11/2023 7:48 PM
+BAG:toitenbuonn add 679xHoa hồng vàng (old: 678) lydo: Nhặt từ map at 03/11/2023 7:49 PM
+BAG:toitenbuonn add 680xHoa hồng vàng (old: 679) lydo: Nhặt từ map at 03/11/2023 7:49 PM
+BAG:toitenbuonn add 5xĐá Titan (old: 4) lydo: Nhặt từ map at 03/11/2023 7:49 PM
+BAG:toitenbuonn add 5xĐá lục bảo (old: 4) lydo: Nhặt từ map at 03/11/2023 7:49 PM
+BAG:toitenbuonn add 6xĐá lục bảo (old: 5) lydo: Nhặt từ map at 03/11/2023 7:49 PM
+BAG:toitenbuonn add 501xHoa hồng xanh (old: 500) lydo: Nhặt từ map at 03/11/2023 7:49 PM
+BAG:toitenbuonn add 445xHoa hồng đỏ (old: 444) lydo: Nhặt từ map at 03/11/2023 7:49 PM
+BAG:toitenbuonn add 446xHoa hồng đỏ (old: 445) lydo: Nhặt từ map at 03/11/2023 7:49 PM
+BAG:toitenbuonn add 8xĐá Saphia (old: 7) lydo: Nhặt từ map at 03/11/2023 7:49 PM
+BAG:toitenbuonn add 447xHoa hồng đỏ (old: 446) lydo: Nhặt từ map at 03/11/2023 7:49 PM
+BAG:toitenbuonn add 502xHoa hồng xanh (old: 501) lydo: Nhặt từ map at 03/11/2023 7:49 PM
+BAG:toitenbuonn add 503xHoa hồng xanh (old: 502) lydo: Nhặt từ map at 03/11/2023 7:49 PM
+BAG:toitenbuonn add 7xĐá lục bảo (old: 6) lydo: Nhặt từ map at 03/11/2023 7:49 PM
+BAG:toitenbuonn add 681xHoa hồng vàng (old: 680) lydo: Nhặt từ map at 03/11/2023 7:49 PM
+BAG:toitenbuonn add 22xĐá thạch anh tím (old: 21) lydo: Nhặt từ map at 03/11/2023 7:50 PM
+BAG:toitenbuonn add 504xHoa hồng xanh (old: 503) lydo: Nhặt từ map at 03/11/2023 7:50 PM
+BAG:toitenbuonn add 19xNgọc Rồng 4 sao (old: 18) lydo: Nhặt từ map at 03/11/2023 7:50 PM
+BAG:toitenbuonn add 505xHoa hồng xanh (old: 504) lydo: Nhặt từ map at 03/11/2023 7:50 PM
+BAG:toitenbuonn add 506xHoa hồng xanh (old: 505) lydo: Nhặt từ map at 03/11/2023 7:50 PM
+BAG:toitenbuonn add 7xĐá Ruby (old: 6) lydo: Nhặt từ map at 03/11/2023 7:50 PM
+BAG:toitenbuonn add 448xHoa hồng đỏ (old: 447) lydo: Nhặt từ map at 03/11/2023 7:50 PM
+BAG:toitenbuonn add 507xHoa hồng xanh (old: 506) lydo: Nhặt từ map at 03/11/2023 7:50 PM
+BAG:toitenbuonn add 9xĐá Saphia (old: 8) lydo: Nhặt từ map at 03/11/2023 7:51 PM
+BAG:toitenbuonn add 508xHoa hồng xanh (old: 507) lydo: Nhặt từ map at 03/11/2023 7:51 PM
+BAG:toitenbuonn add 20xNgọc Rồng 4 sao (old: 19) lydo: Nhặt từ map at 03/11/2023 7:51 PM
+BAG:toitenbuonn add 449xHoa hồng đỏ (old: 448) lydo: Nhặt từ map at 03/11/2023 7:51 PM
+BAG:toitenbuonn add 682xHoa hồng vàng (old: 681) lydo: Nhặt từ map at 03/11/2023 7:51 PM
+BAG:toitenbuonn add 683xHoa hồng vàng (old: 682) lydo: Nhặt từ map at 03/11/2023 7:51 PM
+BAG:toitenbuonn add 509xHoa hồng xanh (old: 508) lydo: Nhặt từ map at 03/11/2023 7:51 PM
+BAG:toitenbuonn add 684xHoa hồng vàng (old: 683) lydo: Nhặt từ map at 03/11/2023 7:51 PM
+BAG:toitenbuonn add 685xHoa hồng vàng (old: 684) lydo: Nhặt từ map at 03/11/2023 7:51 PM
+BAG:toitenbuonn add 686xHoa hồng vàng (old: 685) lydo: Nhặt từ map at 03/11/2023 7:51 PM
+BAG:toitenbuonn add 510xHoa hồng xanh (old: 509) lydo: Nhặt từ map at 03/11/2023 7:51 PM
+BAG:toitenbuonn add 511xHoa hồng xanh (old: 510) lydo: Nhặt từ map at 03/11/2023 7:52 PM
+BAG:toitenbuonn add 450xHoa hồng đỏ (old: 449) lydo: Nhặt từ map at 03/11/2023 7:52 PM
+BAG:toitenbuonn add 687xHoa hồng vàng (old: 686) lydo: Nhặt từ map at 03/11/2023 7:52 PM
+BAG:toitenbuonn add 451xHoa hồng đỏ (old: 450) lydo: Nhặt từ map at 03/11/2023 7:52 PM
+BAG:toitenbuonn add 8xĐá lục bảo (old: 7) lydo: Nhặt từ map at 03/11/2023 7:52 PM
+BAG:toitenbuonn add 452xHoa hồng đỏ (old: 451) lydo: Nhặt từ map at 03/11/2023 7:52 PM
+BAG:toitenbuonn add 512xHoa hồng xanh (old: 511) lydo: Nhặt từ map at 03/11/2023 7:52 PM
+BAG:toitenbuonn add 9xĐá lục bảo (old: 8) lydo: Nhặt từ map at 03/11/2023 7:52 PM
+BAG:toitenbuonn add 688xHoa hồng vàng (old: 687) lydo: Nhặt từ map at 03/11/2023 7:52 PM
+BAG:toitenbuonn add 453xHoa hồng đỏ (old: 452) lydo: Nhặt từ map at 03/11/2023 7:52 PM
+BAG:toitenbuonn add 513xHoa hồng xanh (old: 512) lydo: Nhặt từ map at 03/11/2023 7:52 PM
+BAG:toitenbuonn add 514xHoa hồng xanh (old: 513) lydo: Nhặt từ map at 03/11/2023 7:52 PM
+BAG:toitenbuonn add 689xHoa hồng vàng (old: 688) lydo: Nhặt từ map at 03/11/2023 7:52 PM
+BAG:toitenbuonn add 454xHoa hồng đỏ (old: 453) lydo: Nhặt từ map at 03/11/2023 7:52 PM
+BAG:toitenbuonn add 26xNgọc Rồng 5 sao (old: 25) lydo: Nhặt từ map at 03/11/2023 7:52 PM
+BAG:toitenbuonn add 690xHoa hồng vàng (old: 689) lydo: Nhặt từ map at 03/11/2023 7:52 PM
+BAG:toitenbuonn add 455xHoa hồng đỏ (old: 454) lydo: Nhặt từ map at 03/11/2023 7:52 PM
+BAG:toitenbuonn add 691xHoa hồng vàng (old: 690) lydo: Nhặt từ map at 03/11/2023 7:52 PM
+BAG:toitenbuonn add 515xHoa hồng xanh (old: 514) lydo: Nhặt từ map at 03/11/2023 7:52 PM
+BAG:toitenbuonn add 516xHoa hồng xanh (old: 515) lydo: Nhặt từ map at 03/11/2023 7:52 PM
+BAG:toitenbuonn add 6xĐá Titan (old: 5) lydo: Nhặt từ map at 03/11/2023 7:52 PM
+BAG:toitenbuonn add 692xHoa hồng vàng (old: 691) lydo: Nhặt từ map at 03/11/2023 7:53 PM
+BAG:toitenbuonn add 456xHoa hồng đỏ (old: 455) lydo: Nhặt từ map at 03/11/2023 7:53 PM
+BAG:toitenbuonn add 10xĐá Saphia (old: 9) lydo: Nhặt từ map at 03/11/2023 7:53 PM
+BAG:toitenbuonn add 457xHoa hồng đỏ (old: 456) lydo: Nhặt từ map at 03/11/2023 7:53 PM
+BAG:toitenbuonn add 517xHoa hồng xanh (old: 516) lydo: Nhặt từ map at 03/11/2023 7:53 PM
+BAG:toitenbuonn add 458xHoa hồng đỏ (old: 457) lydo: Nhặt từ map at 03/11/2023 7:53 PM
+BAG:toitenbuonn add 693xHoa hồng vàng (old: 692) lydo: Nhặt từ map at 03/11/2023 7:53 PM
+BAG:toitenbuonn add 459xHoa hồng đỏ (old: 458) lydo: Nhặt từ map at 03/11/2023 7:53 PM
+BAG:toitenbuonn add 460xHoa hồng đỏ (old: 459) lydo: Nhặt từ map at 03/11/2023 7:53 PM
+BAG:toitenbuonn add 21xNgọc Rồng 4 sao (old: 20) lydo: Nhặt từ map at 03/11/2023 7:53 PM
+BAG:toitenbuonn add 461xHoa hồng đỏ (old: 460) lydo: Nhặt từ map at 03/11/2023 7:53 PM
+BAG:toitenbuonn add 20xNgọc Rồng 6 sao (old: 19) lydo: Nhặt từ map at 03/11/2023 7:53 PM
+BAG:toitenbuonn add 518xHoa hồng xanh (old: 517) lydo: Nhặt từ map at 03/11/2023 7:53 PM
+BAG:toitenbuonn add 694xHoa hồng vàng (old: 693) lydo: Nhặt từ map at 03/11/2023 7:53 PM
+BAG:toitenbuonn add 519xHoa hồng xanh (old: 518) lydo: Nhặt từ map at 03/11/2023 7:53 PM
+BAG:toitenbuonn add 695xHoa hồng vàng (old: 694) lydo: Nhặt từ map at 03/11/2023 7:53 PM
+BAG:toitenbuonn add 8xĐá Ruby (old: 7) lydo: Nhặt từ map at 03/11/2023 7:53 PM
+BAG:toitenbuonn add 22xNgọc Rồng 4 sao (old: 21) lydo: Nhặt từ map at 03/11/2023 7:54 PM
+BAG:toitenbuonn add 520xHoa hồng xanh (old: 519) lydo: Nhặt từ map at 03/11/2023 7:54 PM
+BAG:toitenbuonn add 521xHoa hồng xanh (old: 520) lydo: Nhặt từ map at 03/11/2023 7:54 PM
+BAG:toitenbuonn add 462xHoa hồng đỏ (old: 461) lydo: Nhặt từ map at 03/11/2023 7:54 PM
+BAG:toitenbuonn add 23xNgọc Rồng 4 sao (old: 22) lydo: Nhặt từ map at 03/11/2023 7:54 PM
+BAG:toitenbuonn add 696xHoa hồng vàng (old: 695) lydo: Nhặt từ map at 03/11/2023 7:54 PM
+BAG:toitenbuonn add 463xHoa hồng đỏ (old: 462) lydo: Nhặt từ map at 03/11/2023 7:54 PM
+BAG:toitenbuonn add 697xHoa hồng vàng (old: 696) lydo: Nhặt từ map at 03/11/2023 7:54 PM
+BAG:toitenbuonn add 7xĐá Titan (old: 6) lydo: Nhặt từ map at 03/11/2023 7:54 PM
+BAG:toitenbuonn add 464xHoa hồng đỏ (old: 463) lydo: Nhặt từ map at 03/11/2023 7:54 PM
+BAG:toitenbuonn add 9xĐá Ruby (old: 8) lydo: Nhặt từ map at 03/11/2023 7:54 PM
+BAG:toitenbuonn add 522xHoa hồng xanh (old: 521) lydo: Nhặt từ map at 03/11/2023 7:54 PM
+BAG:toitenbuonn add 1xGăng lưỡng long lydo: Lấy từ body đệ vào hành trang at 03/11/2023 9:02 PM
+BAG:toitenbuonn add 1xCT Genma 01 lydo: Lấy từ body đệ vào hành trang at 03/11/2023 9:03 PM
+BAG:toitenbuonn add 1xÁo vải thô lydo: Lấy từ body vào hành trang at 03/11/2023 9:25 PM
+BAG:toitenbuonn add 1xQuần vải thô lydo: Lấy từ body vào hành trang at 03/11/2023 9:25 PM
+BAG:toitenbuonn add 1xGiầy vải thô lydo: Lấy từ body vào hành trang at 03/11/2023 9:25 PM
+BAG:toitenbuonn add 1xGăng vải thô lydo: Lấy từ body vào hành trang at 03/11/2023 9:25 PM
+BAG:toitenbuonn add 1xRada cấp 1 lydo: Lấy từ body vào hành trang at 03/11/2023 9:25 PM

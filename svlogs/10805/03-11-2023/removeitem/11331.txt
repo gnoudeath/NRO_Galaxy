@@ -1,0 +1,77 @@
+BAG:trirose remove Giáp tập luyện cấp 1 lydo: Mặc vào người at 03/11/2023 8:06 AM
+BAG:trirose remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/11/2023 8:08 AM
+BAG:trirose remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/11/2023 8:10 AM
+BAG:trirose remove Ngọc Rồng 6 sao lydo: Tự Xóa vật phẩm at 03/11/2023 8:13 AM
+BAG:trirose remove Bông tai Porata lydo: Tự Xóa vật phẩm at 03/11/2023 8:14 AM
+BAG:trirose remove Bông tai Porata lydo: Tự Xóa vật phẩm at 03/11/2023 8:15 AM
+BAG:trirose remove Hoa hồng đỏ lydo: Cất vào rương at 03/11/2023 8:15 AM
+BAG:trirose remove Hoa hồng vàng lydo: Cất vào rương at 03/11/2023 8:15 AM
+BAG:trirose remove Hoa hồng xanh lydo: Cất vào rương at 03/11/2023 8:15 AM
+BAG:trirose remove Mảnh Khủng long lydo: Cất vào rương at 03/11/2023 8:15 AM
+BAG:trirose remove Đá lục bảo lydo: Cất vào rương at 03/11/2023 8:15 AM
+BAG:trirose remove Đá Ruby lydo: Cất vào rương at 03/11/2023 8:15 AM
+BAG:trirose remove Rada cấp 1 lydo: Tự Xóa vật phẩm at 03/11/2023 8:16 AM
+BAG:trirose remove Áo vải 3 lỗ lydo: Tự Xóa vật phẩm at 03/11/2023 8:16 AM
+BAG:trirose remove Áo vải 3 lỗ lydo: Tự Xóa vật phẩm at 03/11/2023 8:16 AM
+BAG:trirose remove Giầy nhựa lydo: Tự Xóa vật phẩm at 03/11/2023 8:16 AM
+BAG:trirose remove Áo vải 3 lỗ lydo: Tự Xóa vật phẩm at 03/11/2023 8:16 AM
+BAG:trirose remove Quần vải đen lydo: Tự Xóa vật phẩm at 03/11/2023 8:16 AM
+BAG:trirose remove Găng vải đen lydo: Tự Xóa vật phẩm at 03/11/2023 8:16 AM
+BAG:trirose remove Rada cấp 1 lydo: Tự Xóa vật phẩm at 03/11/2023 8:16 AM
+BAG:trirose remove Găng vải đen lydo: Tự Xóa vật phẩm at 03/11/2023 8:16 AM
+BAG:trirose remove Áo vải 3 lỗ lydo: Tự Xóa vật phẩm at 03/11/2023 8:16 AM
+BAG:trirose remove Cột nhà lydo: Cất vào rương at 03/11/2023 8:17 AM
+BAG:trirose remove Tự động luyện tập lydo: Cất vào rương at 03/11/2023 8:17 AM
+BAG:trirose remove Cải trang Chill cấp 2 lydo: Cất vào rương at 03/11/2023 8:17 AM
+BAG:trirose remove Cải trang Chaien lydo: Cất vào rương at 03/11/2023 8:17 AM
+BAG:trirose remove Rada cấp 1 lydo: Cất vào rương at 03/11/2023 8:17 AM
+BAG:trirose remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/11/2023 8:20 AM
+BAG:trirose remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/11/2023 8:30 AM
+BAG:trirose remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/11/2023 8:31 AM
+BAG:trirose remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/11/2023 8:33 AM
+BAG:trirose remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/11/2023 8:34 AM
+BAG:trirose remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/11/2023 8:36 AM
+BAG:trirose remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/11/2023 8:37 AM
+BAG:trirose remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/11/2023 8:39 AM
+BAG:trirose remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/11/2023 8:40 AM
+BAG:trirose remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/11/2023 8:42 AM
+BAG:trirose remove Cải trang Chaien lydo: Mặc vào người at 03/11/2023 8:45 AM
+BAG:trirose remove Áo vải 3 lỗ lydo: Mặc cho đệ tử at 03/11/2023 8:49 AM
+BAG:trirose remove Quần vải đen lydo: Mặc cho đệ tử at 03/11/2023 8:49 AM
+BAG:trirose remove Găng vải đen lydo: Mặc cho đệ tử at 03/11/2023 8:49 AM
+BAG:trirose remove Giầy nhựa lydo: Mặc cho đệ tử at 03/11/2023 8:49 AM
+BAG:trirose remove Rada cấp 1 lydo: Mặc cho đệ tử at 03/11/2023 8:49 AM
+BAG:trirose remove Giáp tập luyện cấp 1 lydo: Mặc cho đệ tử at 03/11/2023 8:49 AM
+BAG:trirose remove 1xThỏi vàng lydo: Bán cho shop at 03/11/2023 8:50 AM
+BAG:trirose remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 03/11/2023 8:50 AM
+BAG:trirose remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 03/11/2023 8:51 AM
+BAG:trirose remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 03/11/2023 8:51 AM
+BAG:trirose remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 03/11/2023 8:51 AM
+BAG:trirose remove Giáp tập luyện cấp 1 lydo: Mặc cho đệ tử at 03/11/2023 8:51 AM
+BAG:trirose remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/11/2023 9:05 AM
+BAG:trirose remove Áo võ Kame lydo: Mặc vào người at 03/11/2023 9:11 AM
+BAG:trirose remove 1xÁo võ Kame lydo: Bán cho shop at 03/11/2023 9:11 AM
+BAG:trirose remove Găng võ Kame lydo: Mặc vào người at 03/11/2023 9:11 AM
+BAG:trirose remove Giày võ goku lydo: Mặc vào người at 03/11/2023 9:11 AM
+BAG:trirose remove Rada cấp 8 lydo: Mặc vào người at 03/11/2023 9:11 AM
+BAG:trirose remove Quần võ goku lydo: Mặc vào người at 03/11/2023 9:12 AM
+BAG:trirose remove Cải trang Chill cấp 2 lydo: Tự Xóa vật phẩm at 03/11/2023 9:12 AM
+BAG:trirose remove Đá Saphia lydo: Cất vào rương at 03/11/2023 9:12 AM
+BAG:trirose remove Đá thạch anh tím lydo: Cất vào rương at 03/11/2023 9:12 AM
+BAG:trirose remove Ngọc Rồng 6 sao lydo: Cất vào rương at 03/11/2023 9:12 AM
+BAG:trirose remove Đá Titan lydo: Cất vào rương at 03/11/2023 9:12 AM
+BAG:trirose remove Đá Ruby lydo: Cất vào rương at 03/11/2023 9:12 AM
+BAG:trirose remove Đá lục bảo lydo: Cất vào rương at 03/11/2023 9:12 AM
+BAG:trirose remove Ngọc Rồng 5 sao lydo: Cất vào rương at 03/11/2023 9:12 AM
+BAG:trirose remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/11/2023 9:25 AM
+BAG:trirose remove Rada cấp 1 lydo: Mặc vào người at 03/11/2023 9:36 AM
+BAG:trirose remove Tanjiro lydo: Mặc vào người at 03/11/2023 9:36 AM
+BAG:trirose remove Cải trang Chaien lydo: Mặc cho đệ tử at 03/11/2023 9:36 AM
+BAG:trirose remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/11/2023 9:37 AM
+BAG:trirose remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/11/2023 9:37 AM
+BAG:trirose remove Giày võ goku lydo: Mặc cho đệ tử at 03/11/2023 9:37 AM
+BAG:trirose remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/11/2023 9:37 AM
+BAG:trirose remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/11/2023 9:37 AM
+BAG:trirose remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/11/2023 9:39 AM
+BAG:trirose remove Áo võ Goku lydo: Mặc vào người at 03/11/2023 9:40 AM
+BAG:trirose remove Quần vải đen lydo: Mặc cho đệ tử at 03/11/2023 9:40 AM

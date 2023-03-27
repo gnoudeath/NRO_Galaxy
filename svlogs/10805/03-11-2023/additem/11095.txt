@@ -1,0 +1,46 @@
+BAG:xcllod add 43xĐậu thần cấp 10 (old: 23) lydo: Lấy từ rương qua người at 03/11/2023 9:25 AM
+BAG:xcllod add 1xGăng siêu Xayda lydo: Mua từ cửa hàng at 03/11/2023 9:25 AM
+BAG:xcllod add 1xNâng cấp kỹ năng 2 đệ tử lydo: Mua từ cửa hàng at 03/11/2023 9:26 AM
+BAG:xcllod add 2xNâng cấp kỹ năng 2 đệ tử (old: 1) lydo: Mua từ cửa hàng at 03/11/2023 9:26 AM
+BAG:xcllod add 3xNâng cấp kỹ năng 2 đệ tử (old: 2) lydo: Mua từ cửa hàng at 03/11/2023 9:26 AM
+BAG:xcllod add 4xNâng cấp kỹ năng 2 đệ tử (old: 3) lydo: Mua từ cửa hàng at 03/11/2023 9:26 AM
+BAG:xcllod add 5xNâng cấp kỹ năng 2 đệ tử (old: 4) lydo: Mua từ cửa hàng at 03/11/2023 9:26 AM
+BAG:xcllod add 6xNâng cấp kỹ năng 2 đệ tử (old: 5) lydo: Mua từ cửa hàng at 03/11/2023 9:26 AM
+BAG:xcllod add 150xThỏi vàng lydo: Lấy từ rương qua người at 03/11/2023 10:35 AM
+BAG:xcllod add 99xNgọc Rồng 3 sao lydo: Lấy từ rương qua người at 03/11/2023 10:35 AM
+BAG:xcllod add 250xThỏi vàng (old: 150) lydo: Lấy từ rương qua người at 03/11/2023 10:35 AM
+BAG:xcllod add 1xÁo vải thô lydo: Lấy từ body vào hành trang at 03/11/2023 10:35 AM
+BAG:xcllod add 1xQuần vải thô lydo: Lấy từ body vào hành trang at 03/11/2023 10:37 AM
+BAG:xcllod add 1xGiầy vải thô lydo: Lấy từ body vào hành trang at 03/11/2023 10:39 AM
+BAG:xcllod add 1xRada cấp 1 lydo: Lấy từ body vào hành trang at 03/11/2023 10:40 AM
+BAG:xcllod add 1xÁo vải thô lydo: Lấy từ body vào hành trang at 03/11/2023 10:43 AM
+BAG:xcllod add 1xQuần vải thô lydo: Lấy từ body vào hành trang at 03/11/2023 10:43 AM
+BAG:xcllod add 1xGiầy vải thô lydo: Lấy từ body vào hành trang at 03/11/2023 10:43 AM
+BAG:xcllod add 1xRada cấp 1 lydo: Lấy từ body vào hành trang at 03/11/2023 10:44 AM
+BAG:xcllod add 63xĐậu thần cấp 10 (old: 43) lydo: Lấy từ rương qua người at 03/11/2023 6:33 PM
+BAG:xcllod add 83xĐậu thần cấp 10 (old: 63) lydo: Lấy từ rương qua người at 03/11/2023 6:33 PM
+BAG:xcllod add 4xĐậu thần cấp 10 lydo: Lấy từ rương qua người at 03/11/2023 6:33 PM
+BAG:xcllod add 99xĐậu thần cấp 10 (old: 83) lydo: Lấy từ rương qua người at 03/11/2023 6:33 PM
+BAG:xcllod add 235xThỏi vàng lydo: Lấy từ rương qua người at 03/11/2023 6:33 PM
+BAG:xcllod add 1xGăng lưỡng long lydo: Mua từ cửa hàng at 03/11/2023 6:33 PM
+BAG:xcllod add 1xQuần vải thô lydo: Lấy từ body đệ vào hành trang at 03/11/2023 6:50 PM
+BAG:xcllod add 1xÁo vải thô lydo: Lấy từ body đệ vào hành trang at 03/11/2023 6:50 PM
+BAG:xcllod add 1xGiầy vải thô lydo: Lấy từ body đệ vào hành trang at 03/11/2023 6:50 PM
+BAG:xcllod add 1xRada cấp 1 lydo: Lấy từ body đệ vào hành trang at 03/11/2023 6:50 PM
+BAG:xcllod add 1xGiáp tập luyện cấp 1 lydo: Lấy từ body đệ vào hành trang at 03/11/2023 6:52 PM
+BAG:xcllod add 1xGiáp tập luyện cấp 1 lydo: Lấy từ body vào hành trang at 03/11/2023 6:52 PM
+BAG:xcllod add 1xÁo vải thô lydo: Lấy từ body vào hành trang at 03/11/2023 6:54 PM
+BAG:xcllod add 1xQuần vải thô lydo: Lấy từ body vào hành trang at 03/11/2023 6:54 PM
+BAG:xcllod add 1xGiầy vải thô lydo: Lấy từ body vào hành trang at 03/11/2023 6:54 PM
+BAG:xcllod add 1xRada cấp 1 lydo: Lấy từ body vào hành trang at 03/11/2023 6:54 PM
+BAG:xcllod add 1xÁo vải thô lydo: Lấy từ body đệ vào hành trang at 03/11/2023 7:10 PM
+BAG:xcllod add 1xQuần vải thô lydo: Lấy từ body đệ vào hành trang at 03/11/2023 7:10 PM
+BAG:xcllod add 1xGiầy vải thô lydo: Lấy từ body đệ vào hành trang at 03/11/2023 7:10 PM
+BAG:xcllod add 1xRada cấp 1 lydo: Lấy từ body đệ vào hành trang at 03/11/2023 7:10 PM
+BAG:xcllod add 1xThiệp chúc mừng xanh lydo: Nhặt từ map at 03/11/2023 7:11 PM
+BAG:xcllod add 1xÁo vải thô lydo: Lấy từ body vào hành trang at 03/11/2023 7:23 PM
+BAG:xcllod add 1xQuần vải thô lydo: Lấy từ body vào hành trang at 03/11/2023 7:23 PM
+BAG:xcllod add 1xGiầy vải thô lydo: Lấy từ body vào hành trang at 03/11/2023 7:23 PM
+BAG:xcllod add 1xRada cấp 1 lydo: Lấy từ body vào hành trang at 03/11/2023 7:23 PM
+BAG:xcllod add 1xThiệp chúc mừng xanh lydo: Nhặt từ map at 03/11/2023 7:41 PM
+BAG:xcllod add 1xNgọc Rồng 3 sao lydo: Nhặt từ map at 03/11/2023 7:41 PM

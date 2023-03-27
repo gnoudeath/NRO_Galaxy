@@ -1,0 +1,28 @@
+BAG:nmlod remove Cải trang Chill cấp 2 lydo: Mặc cho đệ tử at 03/12/2023 11:10 AM
+BAG:nmlod remove Giáp tập luyện cấp 1 lydo: Mặc cho đệ tử at 03/12/2023 11:10 AM
+BAG:nmlod remove Găng vàng Zealot lydo: Mặc cho đệ tử at 03/12/2023 11:10 AM
+BAG:nmlod remove Áo sợi len lydo: Mặc cho đệ tử at 03/12/2023 11:10 AM
+BAG:nmlod remove Quần sợi len lydo: Mặc cho đệ tử at 03/12/2023 11:11 AM
+BAG:nmlod remove Giầy sợi len lydo: Mặc cho đệ tử at 03/12/2023 11:11 AM
+BAG:nmlod remove Rada cấp 1 lydo: Mặc cho đệ tử at 03/12/2023 11:11 AM
+BAG:nmlod remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/12/2023 11:11 AM
+BAG:nmlod remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/12/2023 11:32 AM
+BAG:nmlod remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/12/2023 11:48 AM
+BAG:nmlod remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/12/2023 12:05 PM
+BAG:nmlod remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/12/2023 12:22 PM
+BAG:nmlod remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/12/2023 12:39 PM
+BAG:nmlod remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/12/2023 12:50 PM
+BAG:nmlod remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/12/2023 12:59 PM
+BAG:nmlod remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/12/2023 1:08 PM
+BAG:nmlod remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/12/2023 1:26 PM
+BAG:nmlod remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/12/2023 1:35 PM
+BAG:nmlod remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/12/2023 1:44 PM
+BAG:nmlod remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/12/2023 1:53 PM
+BAG:nmlod remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/12/2023 2:02 PM
+BAG:nmlod remove Áo sợi len lydo: Mặc vào người at 03/12/2023 2:05 PM
+BAG:nmlod remove Quần sợi len lydo: Mặc vào người at 03/12/2023 2:05 PM
+BAG:nmlod remove Giầy sợi len lydo: Mặc vào người at 03/12/2023 2:05 PM
+BAG:nmlod remove Rada cấp 1 lydo: Mặc vào người at 03/12/2023 2:05 PM
+BAG:nmlod remove Cải trang Chill cấp 2 lydo: Mặc cho đệ tử at 03/12/2023 2:06 PM
+BAG:nmlod remove Găng vàng Zealot lydo: Mặc cho đệ tử at 03/12/2023 2:06 PM
+BAG:nmlod remove 99xĐá Ruby lydo: Bán cho shop at 03/12/2023 2:06 PM

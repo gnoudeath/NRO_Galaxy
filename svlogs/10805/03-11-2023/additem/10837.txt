@@ -1,0 +1,58 @@
+BAG:kame1000 add 100xThỏi vàng lydo: Giftcode at 03/11/2023 7:36 AM
+BAG:kame1000 add 21xThỏi vàng lydo: Lấy từ rương qua người at 03/11/2023 7:58 AM
+BAG:kame1000 add 1xGăng jean Calic lydo: Lấy từ body đệ vào hành trang at 03/11/2023 7:59 AM
+BAG:kame1000 add 1xCải Trang Thần Zeno Trái Đất lydo: Lấy từ body vào hành trang at 03/11/2023 8:00 AM
+BAG:kame1000 add 1xÁo vải 3 lỗ lydo: Lấy từ body vào hành trang at 03/11/2023 8:04 AM
+BAG:kame1000 add 1xGiầy nhựa lydo: Lấy từ body vào hành trang at 03/11/2023 8:04 AM
+BAG:kame1000 add 46xNgọc Rồng 3 sao lydo: Lấy từ rương qua người at 03/11/2023 8:07 AM
+BAG:kame1000 add 1xCải Trang Thần Zeno Trái Đất lydo: Lấy từ body vào hành trang at 03/11/2023 8:07 AM
+BAG:kame1000 add 1xGiáp tập luyện cấp 3 lydo: Lấy từ body vào hành trang at 03/11/2023 8:08 AM
+BAG:kame1000 add 1xGiáp tập luyện cấp 3 lydo: Lấy từ body vào hành trang at 03/11/2023 8:12 AM
+BAG:kame1000 add 1xĐá Titan lydo: Nhặt từ map at 03/11/2023 8:37 AM
+BAG:kame1000 add 1xÁo vải 3 lỗ lydo: Lấy từ body đệ vào hành trang at 03/11/2023 8:45 AM
+BAG:kame1000 add 1xQuần vải đen lydo: Lấy từ body đệ vào hành trang at 03/11/2023 8:45 AM
+BAG:kame1000 add 1xGăng jean Calic lydo: Lấy từ body đệ vào hành trang at 03/11/2023 8:45 AM
+BAG:kame1000 add 1xGiầy nhựa lydo: Lấy từ body đệ vào hành trang at 03/11/2023 8:45 AM
+BAG:kame1000 add 1xRada cấp 1 lydo: Lấy từ body đệ vào hành trang at 03/11/2023 8:45 AM
+BAG:kame1000 add 1xCT Genma 01 lydo: Lấy từ body đệ vào hành trang at 03/11/2023 8:45 AM
+BAG:kame1000 add 1xGiáp tập luyện cấp 2 lydo: Lấy từ body đệ vào hành trang at 03/11/2023 8:45 AM
+BAG:kame1000 add 99xThỏi vàng lydo: Lấy từ rương qua người at 03/11/2023 8:45 AM
+BAG:kame1000 add 1xGăng vải Kame lydo: Mua từ cửa hàng at 03/11/2023 8:50 AM
+BAG:kame1000 add 1xGăng thun Kame lydo: Mua từ cửa hàng at 03/11/2023 8:50 AM
+BAG:kame1000 add 1xGăng võ Kame lydo: Mua từ cửa hàng at 03/11/2023 8:50 AM
+BAG:kame1000 add 1xGăng võ goku lydo: Mua từ cửa hàng at 03/11/2023 8:50 AM
+BAG:kame1000 add 1xNâng cấp kỹ năng 1 đệ tử lydo: Mua từ cửa hàng at 03/11/2023 8:51 AM
+BAG:kame1000 add 2xNâng cấp kỹ năng 1 đệ tử (old: 1) lydo: Mua từ cửa hàng at 03/11/2023 8:51 AM
+BAG:kame1000 add 3xNâng cấp kỹ năng 1 đệ tử (old: 2) lydo: Mua từ cửa hàng at 03/11/2023 8:51 AM
+BAG:kame1000 add 4xNâng cấp kỹ năng 1 đệ tử (old: 3) lydo: Mua từ cửa hàng at 03/11/2023 8:51 AM
+BAG:kame1000 add 5xNâng cấp kỹ năng 1 đệ tử (old: 4) lydo: Mua từ cửa hàng at 03/11/2023 8:51 AM
+BAG:kame1000 add 6xNâng cấp kỹ năng 1 đệ tử (old: 5) lydo: Mua từ cửa hàng at 03/11/2023 8:51 AM
+BAG:kame1000 add 1xQuần vải đen lydo: Lấy từ rương qua người at 03/11/2023 9:03 AM
+BAG:kame1000 add 1xRada cấp 1 lydo: Lấy từ rương qua người at 03/11/2023 9:03 AM
+BAG:kame1000 add 1xGiầy nhựa lydo: Lấy từ rương qua người at 03/11/2023 9:03 AM
+BAG:kame1000 add 1xGiáp tập luyện cấp 1 lydo: Lấy từ rương qua người at 03/11/2023 9:03 AM
+BAG:kame1000 add 1xĐá Saphia lydo: Nhặt từ map at 03/11/2023 9:05 AM
+BAG:kame1000 add 1xÁo vải 3 lỗ lydo: Lấy từ body vào hành trang at 03/11/2023 9:09 AM
+BAG:kame1000 add 1xQuần vải đen lydo: Lấy từ body vào hành trang at 03/11/2023 9:09 AM
+BAG:kame1000 add 1xGăng vải đen lydo: Lấy từ body vào hành trang at 03/11/2023 9:09 AM
+BAG:kame1000 add 1xGiầy nhựa lydo: Lấy từ body vào hành trang at 03/11/2023 9:10 AM
+BAG:kame1000 add 1xCải Trang Thần Zeno Trái Đất lydo: Lấy từ body vào hành trang at 03/11/2023 9:10 AM
+BAG:kame1000 add 1xRada cấp 1 lydo: Lấy từ body vào hành trang at 03/11/2023 9:10 AM
+BAG:kame1000 add 1xÁo vải 3 lỗ lydo: Lấy từ body đệ vào hành trang at 03/11/2023 9:24 AM
+BAG:kame1000 add 1xQuần vải đen lydo: Lấy từ body đệ vào hành trang at 03/11/2023 9:24 AM
+BAG:kame1000 add 1xGăng võ goku lydo: Lấy từ body đệ vào hành trang at 03/11/2023 9:24 AM
+BAG:kame1000 add 1xGiầy nhựa lydo: Lấy từ body đệ vào hành trang at 03/11/2023 9:24 AM
+BAG:kame1000 add 1xRada cấp 1 lydo: Lấy từ body đệ vào hành trang at 03/11/2023 9:24 AM
+BAG:kame1000 add 1xCT Genma 01 lydo: Lấy từ body đệ vào hành trang at 03/11/2023 9:24 AM
+BAG:kame1000 add 1xGiáp tập luyện cấp 1 lydo: Lấy từ body đệ vào hành trang at 03/11/2023 9:24 AM
+BAG:kame1000 add 1xNâng cấp kỹ năng 2 đệ tử lydo: Mua từ cửa hàng at 03/11/2023 9:28 AM
+BAG:kame1000 add 2xNâng cấp kỹ năng 2 đệ tử (old: 1) lydo: Mua từ cửa hàng at 03/11/2023 9:29 AM
+BAG:kame1000 add 3xNâng cấp kỹ năng 2 đệ tử (old: 2) lydo: Mua từ cửa hàng at 03/11/2023 9:29 AM
+BAG:kame1000 add 4xNâng cấp kỹ năng 2 đệ tử (old: 3) lydo: Mua từ cửa hàng at 03/11/2023 9:29 AM
+BAG:kame1000 add 5xNâng cấp kỹ năng 2 đệ tử (old: 4) lydo: Mua từ cửa hàng at 03/11/2023 9:29 AM
+BAG:kame1000 add 6xNâng cấp kỹ năng 2 đệ tử (old: 5) lydo: Mua từ cửa hàng at 03/11/2023 9:29 AM
+BAG:kame1000 add 7xNâng cấp kỹ năng 2 đệ tử (old: 6) lydo: Mua từ cửa hàng at 03/11/2023 9:29 AM
+BAG:kame1000 add 45xĐậu thần cấp 10 (old: 25) lydo: Lấy từ rương qua người at 03/11/2023 9:30 AM
+BAG:kame1000 add 65xĐậu thần cấp 10 (old: 45) lydo: Lấy từ rương qua người at 03/11/2023 9:30 AM
+BAG:kame1000 add 1xGăng vàng Goku lydo: Mua từ cửa hàng at 03/11/2023 9:31 AM
+BAG:kame1000 add 1xGăng da Calic lydo: Mua từ cửa hàng at 03/11/2023 9:31 AM

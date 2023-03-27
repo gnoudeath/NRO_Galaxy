@@ -1,0 +1,859 @@
+BAG:yamatekurasai remove 1xĐậu thần cấp 5 lydo: Ăn đậu at 03/12/2023 7:58 AM
+BAG:yamatekurasai remove Đá Ruby lydo: Tự Xóa vật phẩm at 03/12/2023 7:58 AM
+BAG:yamatekurasai remove Đá lục bảo lydo: Tự Xóa vật phẩm at 03/12/2023 7:58 AM
+BAG:yamatekurasai remove Đá Titan lydo: Tự Xóa vật phẩm at 03/12/2023 7:59 AM
+BAG:yamatekurasai remove Đá Saphia lydo: Tự Xóa vật phẩm at 03/12/2023 7:59 AM
+BAG:yamatekurasai remove Hoa hồng xanh lydo: Tự Xóa vật phẩm at 03/12/2023 7:59 AM
+BAG:yamatekurasai remove Hoa hồng vàng lydo: Tự Xóa vật phẩm at 03/12/2023 7:59 AM
+BAG:yamatekurasai remove Hoa hồng đỏ lydo: Tự Xóa vật phẩm at 03/12/2023 7:59 AM
+BAG:yamatekurasai remove Ngọc Rồng 5 sao lydo: Tự Xóa vật phẩm at 03/12/2023 8:00 AM
+BAG:yamatekurasai remove Ngọc Rồng 6 sao lydo: Tự Xóa vật phẩm at 03/12/2023 8:00 AM
+BAG:yamatekurasai remove 1xHoa hồng đỏ lydo: Bán cho shop at 03/12/2023 8:02 AM
+BAG:yamatekurasai remove Sách Trói lv1 lydo: Sách kĩ năng at 03/12/2023 8:02 AM
+BAG:yamatekurasai remove Sách Trói lv2 lydo: Sách kĩ năng at 03/12/2023 8:02 AM
+BAG:yamatekurasai remove Sách Trói lv3 lydo: Sách kĩ năng at 03/12/2023 8:02 AM
+BAG:yamatekurasai remove Sách Trói lv4 lydo: Sách kĩ năng at 03/12/2023 8:03 AM
+BAG:yamatekurasai remove Sách Trói lv5 lydo: Sách kĩ năng at 03/12/2023 8:03 AM
+BAG:yamatekurasai remove Sách Trói lv6 lydo: Sách kĩ năng at 03/12/2023 8:03 AM
+BAG:yamatekurasai remove Sách Trói lv7 lydo: Sách kĩ năng at 03/12/2023 8:03 AM
+BAG:yamatekurasai remove Áo vải thô lydo: Mặc vào người at 03/12/2023 8:04 AM
+BAG:yamatekurasai remove Quần vải thô lydo: Mặc vào người at 03/12/2023 8:04 AM
+BAG:yamatekurasai remove Găng vải thô lydo: Mặc vào người at 03/12/2023 8:04 AM
+BAG:yamatekurasai remove Giầy vải thô lydo: Mặc vào người at 03/12/2023 8:04 AM
+BAG:yamatekurasai remove Rada cấp 1 lydo: Mặc vào người at 03/12/2023 8:04 AM
+BAG:yamatekurasai remove 1xĐậu thần cấp 5 lydo: Ăn đậu at 03/12/2023 8:09 AM
+BAG:yamatekurasai remove 1xĐậu thần cấp 5 lydo: Ăn đậu at 03/12/2023 8:14 AM
+BAG:yamatekurasai remove Cải trang Gohan Bư lydo: Mặc vào người at 03/12/2023 8:16 AM
+BAG:yamatekurasai remove Đá thạch anh tím lydo: Tự Xóa vật phẩm at 03/12/2023 8:17 AM
+BAG:yamatekurasai remove Cải trang lydo: Tự Xóa vật phẩm at 03/12/2023 8:18 AM
+BAG:yamatekurasai remove 1xNâng cấp kỹ năng 1 đệ tử lydo: Dùng sách kĩ năng đệ tử at 03/12/2023 8:23 AM
+BAG:yamatekurasai remove 1xNâng cấp kỹ năng 1 đệ tử lydo: Dùng sách kĩ năng đệ tử at 03/12/2023 8:23 AM
+BAG:yamatekurasai remove 1xNâng cấp kỹ năng 1 đệ tử lydo: Dùng sách kĩ năng đệ tử at 03/12/2023 8:23 AM
+BAG:yamatekurasai remove Ngọc Rồng 4 sao lydo: Cất vào rương at 03/12/2023 8:26 AM
+BAG:yamatekurasai remove 50xThỏi vàng lydo: Mua đồ hủy diệt at 03/12/2023 8:35 AM
+BAG:yamatekurasai remove Cải trang lydo: Tự Xóa vật phẩm at 03/12/2023 8:35 AM
+BAG:yamatekurasai remove 1xThỏi vàng lydo: Bán cho shop at 03/12/2023 8:36 AM
+BAG:yamatekurasai remove 1xThỏi vàng lydo: Bán cho shop at 03/12/2023 8:36 AM
+BAG:yamatekurasai remove 1xThỏi vàng lydo: Bán cho shop at 03/12/2023 8:37 AM
+BAG:yamatekurasai remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 03/12/2023 8:38 AM
+BAG:yamatekurasai remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 03/12/2023 8:39 AM
+BAG:yamatekurasai remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 03/12/2023 8:39 AM
+BAG:yamatekurasai remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 03/12/2023 8:39 AM
+BAG:yamatekurasai remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 03/12/2023 8:39 AM
+BAG:yamatekurasai remove Cải trang Chill cấp 2 lydo: Tự Xóa vật phẩm at 03/12/2023 8:41 AM
+BAG:yamatekurasai remove Găng vải thô lydo: Mặc vào người at 03/12/2023 8:41 AM
+BAG:yamatekurasai remove Giầy vải thô lydo: Mặc vào người at 03/12/2023 8:41 AM
+BAG:yamatekurasai remove Quần vải thô lydo: Mặc vào người at 03/12/2023 8:41 AM
+BAG:yamatekurasai remove Áo vải thô lydo: Mặc vào người at 03/12/2023 8:41 AM
+BAG:yamatekurasai remove Rada cấp 1 lydo: Cất vào rương at 03/12/2023 8:42 AM
+BAG:yamatekurasai remove Ngọc Rồng 3 sao lydo: Cất vào rương at 03/12/2023 8:42 AM
+BAG:yamatekurasai remove 1xĐậu thần cấp 5 lydo: Ăn đậu at 03/12/2023 8:46 AM
+BAG:yamatekurasai remove 1xĐậu thần cấp 5 lydo: Ăn đậu at 03/12/2023 8:48 AM
+BAG:yamatekurasai remove 1xĐậu thần cấp 6 lydo: Ăn đậu at 03/12/2023 8:49 AM
+BAG:yamatekurasai remove 1xĐậu thần cấp 5 lydo: Ăn đậu at 03/12/2023 8:51 AM
+BAG:yamatekurasai remove 1xĐậu thần cấp 5 lydo: Ăn đậu at 03/12/2023 8:54 AM
+BAG:yamatekurasai remove 1xRada cấp 1 lydo: Bán cho shop at 03/12/2023 8:55 AM
+BAG:yamatekurasai remove Giáp tập luyện cấp 2 lydo: Mặc vào người at 03/12/2023 8:58 AM
+BAG:yamatekurasai remove 1xĐậu thần cấp 5 lydo: Ăn đậu at 03/12/2023 8:59 AM
+BAG:yamatekurasai remove 1xThỏi vàng lydo: Bán cho shop at 03/12/2023 9:00 AM
+BAG:yamatekurasai remove 1xThỏi vàng lydo: Bán cho shop at 03/12/2023 9:02 AM
+BAG:yamatekurasai remove 1xThỏi vàng lydo: Bán cho shop at 03/12/2023 9:02 AM
+BAG:yamatekurasai remove 2xVệ tinh sinh lực lydo: Bán cho shop at 03/12/2023 9:03 AM
+BAG:yamatekurasai remove 1xVệ tinh phòng thủ lydo: Dùng vệ tinh at 03/12/2023 9:03 AM
+BAG:yamatekurasai remove 1xVệ tinh trí lực lydo: Dùng vệ tinh at 03/12/2023 9:03 AM
+BAG:yamatekurasai remove 2xNgọc Rồng 6 sao lydo: Bán cho shop at 03/12/2023 9:03 AM
+BAG:yamatekurasai remove 1xSao pha lê lydo: Bán cho shop at 03/12/2023 9:07 AM
+BAG:yamatekurasai remove 1xSao pha lê lydo: Bán cho shop at 03/12/2023 9:07 AM
+BAG:yamatekurasai remove 3xHoa hồng xanh lydo: Bán cho shop at 03/12/2023 9:07 AM
+BAG:yamatekurasai remove 1xHoa hồng đỏ lydo: Bán cho shop at 03/12/2023 9:07 AM
+BAG:yamatekurasai remove 1xHoa hồng vàng lydo: Bán cho shop at 03/12/2023 9:07 AM
+BAG:yamatekurasai remove 1xNgọc Rồng 7 sao lydo: Bán cho shop at 03/12/2023 9:07 AM
+BAG:yamatekurasai remove 1xThỏi vàng lydo: Bán cho shop at 03/12/2023 9:08 AM
+BAG:yamatekurasai remove 1xThỏi vàng lydo: Bán cho shop at 03/12/2023 9:08 AM
+BAG:yamatekurasai remove 1xThỏi vàng lydo: Bán cho shop at 03/12/2023 9:13 AM
+BAG:yamatekurasai remove 1xThỏi vàng lydo: Bán cho shop at 03/12/2023 9:13 AM
+BAG:yamatekurasai remove 1xThỏi vàng lydo: Bán cho shop at 03/12/2023 9:15 AM
+BAG:yamatekurasai remove 1xThỏi vàng lydo: Bán cho shop at 03/12/2023 9:15 AM
+BAG:yamatekurasai remove 1xThỏi vàng lydo: Bán cho shop at 03/12/2023 9:15 AM
+BAG:yamatekurasai remove 1xSao pha lê lydo: Bán cho shop at 03/12/2023 9:16 AM
+BAG:yamatekurasai remove 1xVệ tinh sinh lực lydo: Bán cho shop at 03/12/2023 9:16 AM
+BAG:yamatekurasai remove 2xSao pha lê lydo: Bán cho shop at 03/12/2023 9:16 AM
+BAG:yamatekurasai remove 1xVệ tinh phòng thủ lydo: Bán cho shop at 03/12/2023 9:16 AM
+BAG:yamatekurasai remove 1xSao pha lê lydo: Bán cho shop at 03/12/2023 9:16 AM
+BAG:yamatekurasai remove Sao pha lê lydo: Cất vào rương at 03/12/2023 9:17 AM
+BAG:yamatekurasai remove Ngọc Rồng 4 sao lydo: Cất vào rương at 03/12/2023 9:17 AM
+BAG:yamatekurasai remove Ngọc Rồng 5 sao lydo: Cất vào rương at 03/12/2023 9:17 AM
+BAG:yamatekurasai remove Sao pha lê lydo: Cất vào rương at 03/12/2023 9:17 AM
+BAG:yamatekurasai remove Ngọc Rồng 7 sao lydo: Cất vào rương at 03/12/2023 9:17 AM
+BAG:yamatekurasai remove 1xĐậu thần cấp 6 lydo: Ăn đậu at 03/12/2023 9:17 AM
+BAG:yamatekurasai remove Đậu thần cấp 6 lydo: Cất vào rương at 03/12/2023 9:17 AM
+BAG:yamatekurasai remove Cải trang mồn lèo lydo: Tự Xóa vật phẩm at 03/12/2023 9:17 AM
+BAG:yamatekurasai remove Mèo mun lydo: Tự Xóa vật phẩm at 03/12/2023 9:18 AM
+BAG:yamatekurasai remove Cải trang Gohan Bư lydo: Tự Xóa vật phẩm at 03/12/2023 9:18 AM
+BAG:yamatekurasai remove 1xVệ tinh trí tuệ lydo: Dùng vệ tinh at 03/12/2023 9:18 AM
+BAG:yamatekurasai remove 1xVệ tinh trí tuệ lydo: Bán cho shop at 03/12/2023 9:19 AM
+BAG:yamatekurasai remove 2xSao pha lê lydo: Bán cho shop at 03/12/2023 9:19 AM
+BAG:yamatekurasai remove 1xVệ tinh sinh lực lydo: Bán cho shop at 03/12/2023 9:19 AM
+BAG:yamatekurasai remove 1xVệ tinh phòng thủ lydo: Bán cho shop at 03/12/2023 9:19 AM
+BAG:yamatekurasai remove 1xSao pha lê lydo: Bán cho shop at 03/12/2023 9:20 AM
+BAG:yamatekurasai remove 2xSao pha lê lydo: Bán cho shop at 03/12/2023 9:20 AM
+BAG:yamatekurasai remove 1xSao pha lê lydo: Bán cho shop at 03/12/2023 9:20 AM
+BAG:yamatekurasai remove 1xVệ tinh trí tuệ lydo: Dùng vệ tinh at 03/12/2023 9:20 AM
+BAG:yamatekurasai remove 1xVệ tinh trí tuệ lydo: Dùng vệ tinh at 03/12/2023 9:20 AM
+BAG:yamatekurasai remove 1xVệ tinh sinh lực lydo: Dùng vệ tinh at 03/12/2023 9:20 AM
+BAG:yamatekurasai remove 1xSao pha lê lydo: Bán cho shop at 03/12/2023 9:20 AM
+BAG:yamatekurasai remove 1xSao pha lê lydo: Bán cho shop at 03/12/2023 9:20 AM
+BAG:yamatekurasai remove 1xSao pha lê lydo: Bán cho shop at 03/12/2023 9:20 AM
+BAG:yamatekurasai remove 1xVệ tinh trí tuệ lydo: Bán cho shop at 03/12/2023 9:21 AM
+BAG:yamatekurasai remove 1xVệ tinh trí lực lydo: Bán cho shop at 03/12/2023 9:21 AM
+BAG:yamatekurasai remove 1xVệ tinh phòng thủ lydo: Bán cho shop at 03/12/2023 9:21 AM
+BAG:yamatekurasai remove 1xVệ tinh sinh lực lydo: Bán cho shop at 03/12/2023 9:21 AM
+BAG:yamatekurasai remove 1xVệ tinh sinh lực lydo: Dùng vệ tinh at 03/12/2023 9:24 AM
+BAG:yamatekurasai remove 1xVệ tinh trí lực lydo: Dùng vệ tinh at 03/12/2023 9:24 AM
+BAG:yamatekurasai remove Cải trang mồn lèo lydo: Tự Xóa vật phẩm at 03/12/2023 9:25 AM
+BAG:yamatekurasai remove Cải trang mồn lèo lydo: Tự Xóa vật phẩm at 03/12/2023 9:26 AM
+BAG:yamatekurasai remove Cải trang mồn lèo lydo: Tự Xóa vật phẩm at 03/12/2023 9:26 AM
+BAG:yamatekurasai remove Cải trang Hatchiyack lydo: Mặc vào người at 03/12/2023 9:26 AM
+BAG:yamatekurasai remove Hoa hồng vàng lydo: Tự Xóa vật phẩm at 03/12/2023 9:26 AM
+BAG:yamatekurasai remove Hoa hồng đỏ lydo: Tự Xóa vật phẩm at 03/12/2023 9:26 AM
+BAG:yamatekurasai remove 1xVệ tinh phòng thủ lydo: Dùng vệ tinh at 03/12/2023 9:26 AM
+BAG:yamatekurasai remove 1xVệ tinh sinh lực lydo: Bán cho shop at 03/12/2023 9:26 AM
+BAG:yamatekurasai remove 2xVệ tinh phòng thủ lydo: Bán cho shop at 03/12/2023 9:26 AM
+BAG:yamatekurasai remove 2xVệ tinh trí tuệ lydo: Bán cho shop at 03/12/2023 9:26 AM
+BAG:yamatekurasai remove 3xVệ tinh trí lực lydo: Bán cho shop at 03/12/2023 9:27 AM
+BAG:yamatekurasai remove 1xSao pha lê lydo: Bán cho shop at 03/12/2023 9:27 AM
+BAG:yamatekurasai remove 1xVệ tinh trí tuệ lydo: Bán cho shop at 03/12/2023 9:27 AM
+BAG:yamatekurasai remove 1xVệ tinh sinh lực lydo: Bán cho shop at 03/12/2023 9:27 AM
+BAG:yamatekurasai remove 1xVệ tinh trí lực lydo: Bán cho shop at 03/12/2023 9:27 AM
+BAG:yamatekurasai remove 1xVệ tinh sinh lực lydo: Bán cho shop at 03/12/2023 9:27 AM
+BAG:yamatekurasai remove 1xSao pha lê lydo: Bán cho shop at 03/12/2023 9:27 AM
+BAG:yamatekurasai remove 1xVệ tinh phòng thủ lydo: Bán cho shop at 03/12/2023 9:27 AM
+BAG:yamatekurasai remove 3xSao pha lê lydo: Bán cho shop at 03/12/2023 9:28 AM
+BAG:yamatekurasai remove 2xSao pha lê lydo: Bán cho shop at 03/12/2023 9:28 AM
+BAG:yamatekurasai remove 1xThỏi vàng lydo: Bán cho shop at 03/12/2023 9:28 AM
+BAG:yamatekurasai remove 1xThỏi vàng lydo: Bán cho shop at 03/12/2023 9:28 AM
+BAG:yamatekurasai remove 1xThỏi vàng lydo: Bán cho shop at 03/12/2023 9:28 AM
+BAG:yamatekurasai remove 1xSao pha lê lydo: Bán cho shop at 03/12/2023 9:29 AM
+BAG:yamatekurasai remove 1xSao pha lê lydo: Bán cho shop at 03/12/2023 9:29 AM
+BAG:yamatekurasai remove 1xVệ tinh trí lực lydo: Dùng vệ tinh at 03/12/2023 9:29 AM
+BAG:yamatekurasai remove Ngọc Rồng 4 sao lydo: Cất vào rương at 03/12/2023 9:35 AM
+BAG:yamatekurasai remove Ngọc Rồng 7 sao lydo: Cất vào rương at 03/12/2023 9:35 AM
+BAG:yamatekurasai remove Ngọc Rồng 6 sao lydo: Cất vào rương at 03/12/2023 9:36 AM
+BAG:yamatekurasai remove Ngọc Rồng 5 sao lydo: Cất vào rương at 03/12/2023 9:36 AM
+BAG:yamatekurasai remove Đá Ruby lydo: Tự Xóa vật phẩm at 03/12/2023 9:50 AM
+BAG:yamatekurasai remove Đá thạch anh tím lydo: Tự Xóa vật phẩm at 03/12/2023 9:50 AM
+BAG:yamatekurasai remove 2xĐá Titan lydo: Bán cho shop at 03/12/2023 9:53 AM
+BAG:yamatekurasai remove 14xHoa hồng xanh lydo: Bán cho shop at 03/12/2023 9:53 AM
+BAG:yamatekurasai remove 17xHoa hồng đỏ lydo: Bán cho shop at 03/12/2023 9:53 AM
+BAG:yamatekurasai remove 20xHoa hồng vàng lydo: Bán cho shop at 03/12/2023 9:53 AM
+BAG:yamatekurasai remove 4xĐá Saphia lydo: Bán cho shop at 03/12/2023 9:53 AM
+BAG:yamatekurasai remove 1xĐá Ruby lydo: Bán cho shop at 03/12/2023 9:53 AM
+BAG:yamatekurasai remove 1xHoa hồng xanh lydo: Bán cho shop at 03/12/2023 9:53 AM
+BAG:yamatekurasai remove 1xThỏi vàng lydo: Bán cho shop at 03/12/2023 9:54 AM
+BAG:yamatekurasai remove 1xThỏi vàng lydo: Bán cho shop at 03/12/2023 9:54 AM
+BAG:yamatekurasai remove 1xSao pha lê lydo: Ép ngọc rồng at 03/12/2023 9:54 AM
+BAG:yamatekurasai remove 1xSao pha lê lydo: Ép ngọc rồng at 03/12/2023 9:55 AM
+BAG:yamatekurasai remove 1xSao pha lê lydo: Ép ngọc rồng at 03/12/2023 9:55 AM
+BAG:yamatekurasai remove 1xSao pha lê lydo: Ép ngọc rồng at 03/12/2023 9:55 AM
+BAG:yamatekurasai remove 1xSao pha lê lydo: Ép ngọc rồng at 03/12/2023 9:56 AM
+BAG:yamatekurasai remove CT Genma 01 lydo: Mặc cho đệ tử at 03/12/2023 9:56 AM
+BAG:yamatekurasai remove Áo vải thô lydo: Mặc vào người at 03/12/2023 9:57 AM
+BAG:yamatekurasai remove 1xSao pha lê lydo: Ép ngọc rồng at 03/12/2023 9:59 AM
+BAG:yamatekurasai remove 1xSao pha lê lydo: Ép ngọc rồng at 03/12/2023 10:00 AM
+BAG:yamatekurasai remove 1xSao pha lê lydo: Ép ngọc rồng at 03/12/2023 10:00 AM
+BAG:yamatekurasai remove Giáp tập luyện cấp 1 lydo: Mặc cho đệ tử at 03/12/2023 10:01 AM
+BAG:yamatekurasai remove Hoa hồng xanh lydo: Tự Xóa vật phẩm at 03/12/2023 10:02 AM
+BAG:yamatekurasai remove Đá thạch anh tím lydo: Tự Xóa vật phẩm at 03/12/2023 10:02 AM
+BAG:yamatekurasai remove Hoa hồng vàng lydo: Tự Xóa vật phẩm at 03/12/2023 10:02 AM
+BAG:yamatekurasai remove Đá Titan lydo: Tự Xóa vật phẩm at 03/12/2023 10:02 AM
+BAG:yamatekurasai remove Hoa hồng đỏ lydo: Tự Xóa vật phẩm at 03/12/2023 10:02 AM
+BAG:yamatekurasai remove Đá Ruby lydo: Tự Xóa vật phẩm at 03/12/2023 10:02 AM
+BAG:yamatekurasai remove Đá Saphia lydo: Tự Xóa vật phẩm at 03/12/2023 10:02 AM
+BAG:yamatekurasai remove Đá Saphia lydo: Tự Xóa vật phẩm at 03/12/2023 10:04 AM
+BAG:yamatekurasai remove 1xĐậu thần cấp 5 lydo: Ăn đậu at 03/12/2023 10:06 AM
+BAG:yamatekurasai remove 1xĐậu thần cấp 5 lydo: Ăn đậu at 03/12/2023 10:11 AM
+BAG:yamatekurasai remove 1xĐậu thần cấp 5 lydo: Ăn đậu at 03/12/2023 10:12 AM
+BAG:yamatekurasai remove 1xĐậu thần cấp 5 lydo: Ăn đậu at 03/12/2023 10:12 AM
+BAG:yamatekurasai remove 1xĐậu thần cấp 5 lydo: Ăn đậu at 03/12/2023 10:13 AM
+BAG:yamatekurasai remove 1xĐậu thần cấp 5 lydo: Ăn đậu at 03/12/2023 10:15 AM
+BAG:yamatekurasai remove 1xĐậu thần cấp 5 lydo: Ăn đậu at 03/12/2023 10:17 AM
+BAG:yamatekurasai remove 1xĐá Titan lydo: Bán cho shop at 03/12/2023 10:23 AM
+BAG:yamatekurasai remove 3xHoa hồng xanh lydo: Bán cho shop at 03/12/2023 10:23 AM
+BAG:yamatekurasai remove 4xHoa hồng đỏ lydo: Bán cho shop at 03/12/2023 10:23 AM
+BAG:yamatekurasai remove 3xHoa hồng vàng lydo: Bán cho shop at 03/12/2023 10:23 AM
+BAG:yamatekurasai remove 1xĐậu thần cấp 5 lydo: Ăn đậu at 03/12/2023 10:25 AM
+BAG:yamatekurasai remove 1xNâng cấp kỹ năng 2 đệ tử lydo: Dùng sách kĩ năng đệ tử at 03/12/2023 10:30 AM
+BAG:yamatekurasai remove 1xNâng cấp kỹ năng 2 đệ tử lydo: Dùng sách kĩ năng đệ tử at 03/12/2023 10:31 AM
+BAG:yamatekurasai remove 1xNâng cấp kỹ năng 2 đệ tử lydo: Dùng sách kĩ năng đệ tử at 03/12/2023 10:33 AM
+BAG:yamatekurasai remove 1xNâng cấp kỹ năng 2 đệ tử lydo: Dùng sách kĩ năng đệ tử at 03/12/2023 10:33 AM
+BAG:yamatekurasai remove 1xNâng cấp kỹ năng 2 đệ tử lydo: Dùng sách kĩ năng đệ tử at 03/12/2023 10:33 AM
+BAG:yamatekurasai remove 1xNâng cấp kỹ năng 2 đệ tử lydo: Dùng sách kĩ năng đệ tử at 03/12/2023 10:33 AM
+BAG:yamatekurasai remove Sao pha lê lydo: Cất vào rương at 03/12/2023 10:36 AM
+BAG:yamatekurasai remove Sao pha lê lydo: Cất vào rương at 03/12/2023 10:36 AM
+BAG:yamatekurasai remove Ngọc Rồng 4 sao lydo: Cất vào rương at 03/12/2023 10:36 AM
+BAG:yamatekurasai remove 1xĐậu thần cấp 5 lydo: Ăn đậu at 03/12/2023 10:44 AM
+BAG:yamatekurasai remove 1xĐậu thần cấp 5 lydo: Ăn đậu at 03/12/2023 10:47 AM
+BAG:yamatekurasai remove 3xĐá thạch anh tím lydo: Bán cho shop at 03/12/2023 10:49 AM
+BAG:yamatekurasai remove 1xHoa hồng đỏ lydo: Bán cho shop at 03/12/2023 10:49 AM
+BAG:yamatekurasai remove 1xĐá lục bảo lydo: Bán cho shop at 03/12/2023 10:49 AM
+BAG:yamatekurasai remove 1xHoa hồng vàng lydo: Bán cho shop at 03/12/2023 10:49 AM
+BAG:yamatekurasai remove Quần vải thô lydo: Mặc vào người at 03/12/2023 10:51 AM
+BAG:yamatekurasai remove Găng vải thô lydo: Mặc vào người at 03/12/2023 10:51 AM
+BAG:yamatekurasai remove Áo vải thô lydo: Mặc vào người at 03/12/2023 10:51 AM
+BAG:yamatekurasai remove Giầy vải thô lydo: Mặc vào người at 03/12/2023 10:51 AM
+BAG:yamatekurasai remove Giáp tập luyện cấp 2 lydo: Mặc vào người at 03/12/2023 10:56 AM
+BAG:yamatekurasai remove 1xThỏi vàng lydo: Bán cho shop at 03/12/2023 10:58 AM
+BAG:yamatekurasai remove 1xThỏi vàng lydo: Bán cho shop at 03/12/2023 10:58 AM
+BAG:yamatekurasai remove 1xThỏi vàng lydo: Bán cho shop at 03/12/2023 10:58 AM
+BAG:yamatekurasai remove Hoa hồng xanh lydo: Tự Xóa vật phẩm at 03/12/2023 10:58 AM
+BAG:yamatekurasai remove Hoa hồng đỏ lydo: Tự Xóa vật phẩm at 03/12/2023 10:59 AM
+BAG:yamatekurasai remove 1xThỏi vàng lydo: Bán cho shop at 03/12/2023 10:59 AM
+BAG:yamatekurasai remove 1xThỏi vàng lydo: Bán cho shop at 03/12/2023 11:00 AM
+BAG:yamatekurasai remove 1xThỏi vàng lydo: Bán cho shop at 03/12/2023 11:00 AM
+BAG:yamatekurasai remove Giầy vải thô lydo: Mặc vào người at 03/12/2023 11:00 AM
+BAG:yamatekurasai remove Găng vải thô lydo: Mặc vào người at 03/12/2023 11:00 AM
+BAG:yamatekurasai remove Quần vải thô lydo: Mặc vào người at 03/12/2023 11:01 AM
+BAG:yamatekurasai remove Áo vải thô lydo: Mặc vào người at 03/12/2023 11:01 AM
+BAG:yamatekurasai remove 1xThỏi vàng lydo: Bán cho shop at 03/12/2023 11:01 AM
+BAG:yamatekurasai remove 1xThỏi vàng lydo: Bán cho shop at 03/12/2023 11:01 AM
+BAG:yamatekurasai remove 1xThỏi vàng lydo: Bán cho shop at 03/12/2023 11:01 AM
+BAG:yamatekurasai remove 1xThỏi vàng lydo: Bán cho shop at 03/12/2023 11:02 AM
+BAG:yamatekurasai remove 1xThỏi vàng lydo: Bán cho shop at 03/12/2023 11:03 AM
+BAG:yamatekurasai remove 1xThỏi vàng lydo: Bán cho shop at 03/12/2023 11:03 AM
+BAG:yamatekurasai remove Cải trang Hatchiyack lydo: Cất vào rương at 03/12/2023 11:04 AM
+BAG:yamatekurasai remove Sao pha lê lydo: Cất vào rương at 03/12/2023 11:04 AM
+BAG:yamatekurasai remove Sao pha lê lydo: Cất vào rương at 03/12/2023 11:04 AM
+BAG:yamatekurasai remove Găng lông đỏ lydo: Cất vào rương at 03/12/2023 11:05 AM
+BAG:yamatekurasai remove Găng siêu Xayda lydo: Cất vào rương at 03/12/2023 11:05 AM
+BAG:yamatekurasai remove Găng Kaio lydo: Cất vào rương at 03/12/2023 11:05 AM
+BAG:yamatekurasai remove 1xThỏi vàng lydo: Bán cho shop at 03/12/2023 11:06 AM
+BAG:yamatekurasai remove 1xThỏi vàng lydo: Bán cho shop at 03/12/2023 11:06 AM
+BAG:yamatekurasai remove 1xThỏi vàng lydo: Bán cho shop at 03/12/2023 11:06 AM
+BAG:yamatekurasai remove 1xThỏi vàng lydo: Bán cho shop at 03/12/2023 11:08 AM
+BAG:yamatekurasai remove 1xThỏi vàng lydo: Bán cho shop at 03/12/2023 11:08 AM
+BAG:yamatekurasai remove 1xThỏi vàng lydo: Bán cho shop at 03/12/2023 11:08 AM
+BAG:yamatekurasai remove 1xThỏi vàng lydo: Bán cho shop at 03/12/2023 11:10 AM
+BAG:yamatekurasai remove 1xThỏi vàng lydo: Bán cho shop at 03/12/2023 11:10 AM
+BAG:yamatekurasai remove 1xThỏi vàng lydo: Bán cho shop at 03/12/2023 11:10 AM
+BAG:yamatekurasai remove 1xThỏi vàng lydo: Bán cho shop at 03/12/2023 11:12 AM
+BAG:yamatekurasai remove 1xThỏi vàng lydo: Bán cho shop at 03/12/2023 11:12 AM
+BAG:yamatekurasai remove 1xThỏi vàng lydo: Bán cho shop at 03/12/2023 11:12 AM
+BAG:yamatekurasai remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 03/12/2023 11:23 AM
+BAG:yamatekurasai remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 03/12/2023 11:24 AM
+BAG:yamatekurasai remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 03/12/2023 11:24 AM
+BAG:yamatekurasai remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 03/12/2023 11:24 AM
+BAG:yamatekurasai remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 03/12/2023 11:25 AM
+BAG:yamatekurasai remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 03/12/2023 11:25 AM
+BAG:yamatekurasai remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 03/12/2023 11:25 AM
+BAG:yamatekurasai remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 03/12/2023 11:25 AM
+BAG:yamatekurasai remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 03/12/2023 11:26 AM
+BAG:yamatekurasai remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 03/12/2023 11:26 AM
+BAG:yamatekurasai remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 03/12/2023 11:26 AM
+BAG:yamatekurasai remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 03/12/2023 11:27 AM
+BAG:yamatekurasai remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 03/12/2023 11:27 AM
+BAG:yamatekurasai remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 03/12/2023 11:27 AM
+BAG:yamatekurasai remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 03/12/2023 11:27 AM
+BAG:yamatekurasai remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 03/12/2023 11:28 AM
+BAG:yamatekurasai remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 03/12/2023 11:28 AM
+BAG:yamatekurasai remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 03/12/2023 11:28 AM
+BAG:yamatekurasai remove Giáp tập luyện cấp 2 lydo: Mặc vào người at 03/12/2023 11:28 AM
+BAG:yamatekurasai remove Rada cấp 1 lydo: Tự Xóa vật phẩm at 03/12/2023 11:29 AM
+BAG:yamatekurasai remove 1xThỏi vàng lydo: Bán cho shop at 03/12/2023 11:30 AM
+BAG:yamatekurasai remove 1xThỏi vàng lydo: Bán cho shop at 03/12/2023 11:30 AM
+BAG:yamatekurasai remove 1xThỏi vàng lydo: Bán cho shop at 03/12/2023 11:30 AM
+BAG:yamatekurasai remove 1xThỏi vàng lydo: Bán cho shop at 03/12/2023 11:33 AM
+BAG:yamatekurasai remove 1xThỏi vàng lydo: Bán cho shop at 03/12/2023 11:33 AM
+BAG:yamatekurasai remove 1xThỏi vàng lydo: Bán cho shop at 03/12/2023 11:33 AM
+BAG:yamatekurasai remove 1xThỏi vàng lydo: Bán cho shop at 03/12/2023 11:35 AM
+BAG:yamatekurasai remove 1xThỏi vàng lydo: Bán cho shop at 03/12/2023 11:35 AM
+BAG:yamatekurasai remove 1xThỏi vàng lydo: Bán cho shop at 03/12/2023 11:35 AM
+BAG:yamatekurasai remove 1xThỏi vàng lydo: Bán cho shop at 03/12/2023 11:38 AM
+BAG:yamatekurasai remove 1xThỏi vàng lydo: Bán cho shop at 03/12/2023 11:38 AM
+BAG:yamatekurasai remove 1xThỏi vàng lydo: Bán cho shop at 03/12/2023 11:38 AM
+BAG:yamatekurasai remove 1xThỏi vàng lydo: Bán cho shop at 03/12/2023 11:42 AM
+BAG:yamatekurasai remove 1xThỏi vàng lydo: Bán cho shop at 03/12/2023 11:42 AM
+BAG:yamatekurasai remove 1xThỏi vàng lydo: Bán cho shop at 03/12/2023 11:42 AM
+BAG:yamatekurasai remove 1xThỏi vàng lydo: Bán cho shop at 03/12/2023 11:43 AM
+BAG:yamatekurasai remove 1xThỏi vàng lydo: Bán cho shop at 03/12/2023 11:43 AM
+BAG:yamatekurasai remove 1xThỏi vàng lydo: Bán cho shop at 03/12/2023 11:44 AM
+BAG:yamatekurasai remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 03/12/2023 11:44 AM
+BAG:yamatekurasai remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 03/12/2023 11:44 AM
+BAG:yamatekurasai remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 03/12/2023 11:45 AM
+BAG:yamatekurasai remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 03/12/2023 11:45 AM
+BAG:yamatekurasai remove Giầy vải thô lydo: Mặc cho đệ tử at 03/12/2023 11:46 AM
+BAG:yamatekurasai remove Găng vải thô lydo: Mặc cho đệ tử at 03/12/2023 11:46 AM
+BAG:yamatekurasai remove Quần vải thô lydo: Mặc cho đệ tử at 03/12/2023 11:46 AM
+BAG:yamatekurasai remove Áo vải thô lydo: Mặc cho đệ tử at 03/12/2023 11:46 AM
+BAG:yamatekurasai remove 1xThỏi vàng lydo: Bán cho shop at 03/12/2023 11:47 AM
+BAG:yamatekurasai remove 1xThỏi vàng lydo: Bán cho shop at 03/12/2023 11:47 AM
+BAG:yamatekurasai remove Rada cấp 1 lydo: Mặc vào người at 03/12/2023 11:48 AM
+BAG:yamatekurasai remove 1xThỏi vàng lydo: Bán cho shop at 03/12/2023 11:49 AM
+BAG:yamatekurasai remove 1xThỏi vàng lydo: Bán cho shop at 03/12/2023 11:49 AM
+BAG:yamatekurasai remove 1xThỏi vàng lydo: Bán cho shop at 03/12/2023 11:49 AM
+BAG:yamatekurasai remove 1xThỏi vàng lydo: Bán cho shop at 03/12/2023 11:50 AM
+BAG:yamatekurasai remove 1xThỏi vàng lydo: Bán cho shop at 03/12/2023 11:50 AM
+BAG:yamatekurasai remove 1xThỏi vàng lydo: Bán cho shop at 03/12/2023 11:50 AM
+BAG:yamatekurasai remove 1xThỏi vàng lydo: Bán cho shop at 03/12/2023 11:55 AM
+BAG:yamatekurasai remove 1xThỏi vàng lydo: Bán cho shop at 03/12/2023 11:55 AM
+BAG:yamatekurasai remove 1xThỏi vàng lydo: Bán cho shop at 03/12/2023 11:55 AM
+BAG:yamatekurasai remove 1xThỏi vàng lydo: Bán cho shop at 03/12/2023 11:56 AM
+BAG:yamatekurasai remove 1xThỏi vàng lydo: Bán cho shop at 03/12/2023 11:56 AM
+BAG:yamatekurasai remove 1xThỏi vàng lydo: Bán cho shop at 03/12/2023 11:57 AM
+BAG:yamatekurasai remove 1xThỏi vàng lydo: Bán cho shop at 03/12/2023 11:58 AM
+BAG:yamatekurasai remove 1xThỏi vàng lydo: Bán cho shop at 03/12/2023 11:58 AM
+BAG:yamatekurasai remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 03/12/2023 12:26 PM
+BAG:yamatekurasai remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 03/12/2023 12:26 PM
+BAG:yamatekurasai remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 03/12/2023 12:27 PM
+BAG:yamatekurasai remove Nezuko lydo: Mặc vào người at 03/12/2023 12:27 PM
+BAG:yamatekurasai remove Găng vải thô lydo: Mặc vào người at 03/12/2023 12:27 PM
+BAG:yamatekurasai remove Rada cấp 1 lydo: Mặc cho đệ tử at 03/12/2023 12:27 PM
+BAG:yamatekurasai remove 1xThỏi vàng lydo: Bán cho shop at 03/12/2023 12:30 PM
+BAG:yamatekurasai remove 1xThỏi vàng lydo: Bán cho shop at 03/12/2023 12:30 PM
+BAG:yamatekurasai remove 1xThỏi vàng lydo: Bán cho shop at 03/12/2023 12:30 PM
+BAG:yamatekurasai remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 03/12/2023 12:32 PM
+BAG:yamatekurasai remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 03/12/2023 12:32 PM
+BAG:yamatekurasai remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 03/12/2023 12:32 PM
+BAG:yamatekurasai remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 03/12/2023 12:33 PM
+BAG:yamatekurasai remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 03/12/2023 12:33 PM
+BAG:yamatekurasai remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 03/12/2023 12:33 PM
+BAG:yamatekurasai remove Giáp tập luyện cấp 3 lydo: Mặc cho đệ tử at 03/12/2023 12:34 PM
+BAG:yamatekurasai remove Giáp tập luyện cấp 1 lydo: Tự Xóa vật phẩm at 03/12/2023 12:35 PM
+BAG:yamatekurasai remove 1xSao pha lê lydo: Ép ngọc rồng at 03/12/2023 12:44 PM
+BAG:yamatekurasai remove 1xSao pha lê lydo: Ép ngọc rồng at 03/12/2023 12:45 PM
+BAG:yamatekurasai remove 1xSao pha lê lydo: Ép ngọc rồng at 03/12/2023 12:45 PM
+BAG:yamatekurasai remove 1xSao pha lê lydo: Ép ngọc rồng at 03/12/2023 12:46 PM
+BAG:yamatekurasai remove 1xSao pha lê lydo: Ép ngọc rồng at 03/12/2023 12:46 PM
+BAG:yamatekurasai remove 1xThỏi vàng lydo: Bán cho shop at 03/12/2023 12:46 PM
+BAG:yamatekurasai remove 1xThỏi vàng lydo: Bán cho shop at 03/12/2023 12:46 PM
+BAG:yamatekurasai remove 1xThỏi vàng lydo: Bán cho shop at 03/12/2023 12:47 PM
+BAG:yamatekurasai remove 1xThỏi vàng lydo: Bán cho shop at 03/12/2023 12:47 PM
+BAG:yamatekurasai remove 1xThỏi vàng lydo: Bán cho shop at 03/12/2023 12:48 PM
+BAG:yamatekurasai remove 1xSao pha lê lydo: Ép ngọc rồng at 03/12/2023 12:49 PM
+BAG:yamatekurasai remove 1xSao pha lê lydo: Ép ngọc rồng at 03/12/2023 12:50 PM
+BAG:yamatekurasai remove 1xSao pha lê lydo: Ép ngọc rồng at 03/12/2023 12:50 PM
+BAG:yamatekurasai remove 1xSao pha lê lydo: Ép ngọc rồng at 03/12/2023 12:50 PM
+BAG:yamatekurasai remove 1xSao pha lê lydo: Ép ngọc rồng at 03/12/2023 12:50 PM
+BAG:yamatekurasai remove 1xThỏi vàng lydo: Bán cho shop at 03/12/2023 12:51 PM
+BAG:yamatekurasai remove 1xThỏi vàng lydo: Bán cho shop at 03/12/2023 12:52 PM
+BAG:yamatekurasai remove 1xThỏi vàng lydo: Bán cho shop at 03/12/2023 12:52 PM
+BAG:yamatekurasai remove 1xThỏi vàng lydo: Bán cho shop at 03/12/2023 12:52 PM
+BAG:yamatekurasai remove 1xThỏi vàng lydo: Bán cho shop at 03/12/2023 12:52 PM
+BAG:yamatekurasai remove 1xThỏi vàng lydo: Bán cho shop at 03/12/2023 12:52 PM
+BAG:yamatekurasai remove 1xSao pha lê lydo: Ép ngọc rồng at 03/12/2023 12:54 PM
+BAG:yamatekurasai remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 03/12/2023 12:56 PM
+BAG:yamatekurasai remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 03/12/2023 12:56 PM
+BAG:yamatekurasai remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 03/12/2023 12:57 PM
+BAG:yamatekurasai remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 03/12/2023 12:57 PM
+BAG:yamatekurasai remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 03/12/2023 12:57 PM
+BAG:yamatekurasai remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 03/12/2023 12:58 PM
+BAG:yamatekurasai remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 03/12/2023 12:58 PM
+BAG:yamatekurasai remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 03/12/2023 12:58 PM
+BAG:yamatekurasai remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 03/12/2023 12:59 PM
+BAG:yamatekurasai remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 03/12/2023 12:59 PM
+BAG:yamatekurasai remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 03/12/2023 1:00 PM
+BAG:yamatekurasai remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 03/12/2023 1:00 PM
+BAG:yamatekurasai remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 03/12/2023 1:00 PM
+BAG:yamatekurasai remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 03/12/2023 1:00 PM
+BAG:yamatekurasai remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 03/12/2023 1:01 PM
+BAG:yamatekurasai remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 03/12/2023 1:01 PM
+BAG:yamatekurasai remove Ngọc Rồng 3 sao lydo: Cất vào rương at 03/12/2023 1:03 PM
+BAG:yamatekurasai remove Sao pha lê lydo: Cất vào rương at 03/12/2023 1:03 PM
+BAG:yamatekurasai remove 1xGăng lông đỏ lydo: Bán cho shop at 03/12/2023 1:03 PM
+BAG:yamatekurasai remove Giáp tập luyện cấp 3 lydo: Mặc vào người at 03/12/2023 1:04 PM
+BAG:yamatekurasai remove 1xThỏi vàng lydo: Bán cho shop at 03/12/2023 1:05 PM
+BAG:yamatekurasai remove 1xThỏi vàng lydo: Bán cho shop at 03/12/2023 1:06 PM
+BAG:yamatekurasai remove CT Genma 01 lydo: Mặc cho đệ tử at 03/12/2023 1:08 PM
+BAG:yamatekurasai remove Rada cấp 1 lydo: Mặc cho đệ tử at 03/12/2023 1:08 PM
+BAG:yamatekurasai remove Giầy vải thô lydo: Mặc cho đệ tử at 03/12/2023 1:08 PM
+BAG:yamatekurasai remove Áo vải thô lydo: Mặc cho đệ tử at 03/12/2023 1:08 PM
+BAG:yamatekurasai remove Quần vải thô lydo: Mặc cho đệ tử at 03/12/2023 1:08 PM
+BAG:yamatekurasai remove Găng vải thô lydo: Mặc cho đệ tử at 03/12/2023 1:09 PM
+BAG:yamatekurasai remove Giáp tập luyện cấp 1 lydo: Mặc cho đệ tử at 03/12/2023 1:09 PM
+BAG:yamatekurasai remove Găng vải thô lydo: Mặc vào người at 03/12/2023 1:11 PM
+BAG:yamatekurasai remove 1xNâng cấp kỹ năng 1 đệ tử lydo: Dùng sách kĩ năng đệ tử at 03/12/2023 1:17 PM
+BAG:yamatekurasai remove 1xNâng cấp kỹ năng 1 đệ tử lydo: Dùng sách kĩ năng đệ tử at 03/12/2023 1:18 PM
+BAG:yamatekurasai remove 1xNâng cấp kỹ năng 1 đệ tử lydo: Dùng sách kĩ năng đệ tử at 03/12/2023 1:18 PM
+BAG:yamatekurasai remove 1xNâng cấp kỹ năng 1 đệ tử lydo: Dùng sách kĩ năng đệ tử at 03/12/2023 1:18 PM
+BAG:yamatekurasai remove 1xNâng cấp kỹ năng 1 đệ tử lydo: Dùng sách kĩ năng đệ tử at 03/12/2023 1:18 PM
+BAG:yamatekurasai remove 1xNâng cấp kỹ năng 1 đệ tử lydo: Dùng sách kĩ năng đệ tử at 03/12/2023 1:18 PM
+BAG:yamatekurasai remove 1xĐậu thần cấp 5 lydo: Ăn đậu at 03/12/2023 1:22 PM
+BAG:yamatekurasai remove 1xHoa hồng vàng lydo: Bán cho shop at 03/12/2023 1:31 PM
+BAG:yamatekurasai remove 1xĐậu thần cấp 5 lydo: Ăn đậu at 03/12/2023 1:33 PM
+BAG:yamatekurasai remove Giáp tập luyện cấp 3 lydo: Mặc vào người at 03/12/2023 1:34 PM
+BAG:yamatekurasai remove Đá thạch anh tím lydo: Cất vào rương at 03/12/2023 1:37 PM
+BAG:yamatekurasai remove Đá Ruby lydo: Tự Xóa vật phẩm at 03/12/2023 1:37 PM
+BAG:yamatekurasai remove Hoa hồng vàng lydo: Tự Xóa vật phẩm at 03/12/2023 1:37 PM
+BAG:yamatekurasai remove Hoa hồng đỏ lydo: Tự Xóa vật phẩm at 03/12/2023 1:37 PM
+BAG:yamatekurasai remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 03/12/2023 1:39 PM
+BAG:yamatekurasai remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 03/12/2023 1:39 PM
+BAG:yamatekurasai remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 03/12/2023 1:39 PM
+BAG:yamatekurasai remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 03/12/2023 1:40 PM
+BAG:yamatekurasai remove Giáp tập luyện cấp 3 lydo: Cất vào rương at 03/12/2023 1:40 PM
+BAG:yamatekurasai remove Găng da Xayda lydo: Cất vào rương at 03/12/2023 1:40 PM
+BAG:yamatekurasai remove Găng lông Xayda lydo: Cất vào rương at 03/12/2023 1:40 PM
+BAG:yamatekurasai remove Ngọc Rồng 3 sao lydo: Cất vào rương at 03/12/2023 1:40 PM
+BAG:yamatekurasai remove Găng lông đỏ lydo: Mặc cho đệ tử at 03/12/2023 1:41 PM
+BAG:yamatekurasai remove Găng vải thô lydo: Mặc vào người at 03/12/2023 1:42 PM
+BAG:yamatekurasai remove 1xĐậu thần cấp 5 lydo: Ăn đậu at 03/12/2023 1:43 PM
+BAG:yamatekurasai remove 3xHoa hồng đỏ lydo: Bán cho shop at 03/12/2023 2:00 PM
+BAG:yamatekurasai remove 1xHoa hồng xanh lydo: Bán cho shop at 03/12/2023 2:00 PM
+BAG:yamatekurasai remove 3xHoa hồng vàng lydo: Bán cho shop at 03/12/2023 2:00 PM
+BAG:yamatekurasai remove 1xNâng cấp kỹ năng 2 đệ tử lydo: Dùng sách kĩ năng đệ tử at 03/12/2023 2:00 PM
+BAG:yamatekurasai remove 1xNâng cấp kỹ năng 2 đệ tử lydo: Dùng sách kĩ năng đệ tử at 03/12/2023 2:00 PM
+BAG:yamatekurasai remove 1xNâng cấp kỹ năng 2 đệ tử lydo: Dùng sách kĩ năng đệ tử at 03/12/2023 2:01 PM
+BAG:yamatekurasai remove 1xNâng cấp kỹ năng 2 đệ tử lydo: Dùng sách kĩ năng đệ tử at 03/12/2023 2:01 PM
+BAG:yamatekurasai remove 1xNâng cấp kỹ năng 1 đệ tử lydo: Bán cho shop at 03/12/2023 2:01 PM
+BAG:yamatekurasai remove 1xNâng cấp kỹ năng 2 đệ tử lydo: Dùng sách kĩ năng đệ tử at 03/12/2023 2:02 PM
+BAG:yamatekurasai remove 1xNâng cấp kỹ năng 2 đệ tử lydo: Dùng sách kĩ năng đệ tử at 03/12/2023 2:02 PM
+BAG:yamatekurasai remove 1xĐậu thần cấp 5 lydo: Ăn đậu at 03/12/2023 2:12 PM
+BAG:yamatekurasai remove 1xĐậu thần cấp 5 lydo: Ăn đậu at 03/12/2023 2:21 PM
+BAG:yamatekurasai remove 1xĐậu thần cấp 5 lydo: Ăn đậu at 03/12/2023 2:24 PM
+BAG:yamatekurasai remove Hoa hồng xanh lydo: Tự Xóa vật phẩm at 03/12/2023 4:05 PM
+BAG:yamatekurasai remove Hoa hồng vàng lydo: Tự Xóa vật phẩm at 03/12/2023 4:05 PM
+BAG:yamatekurasai remove Hoa hồng đỏ lydo: Tự Xóa vật phẩm at 03/12/2023 4:05 PM
+BAG:yamatekurasai remove Giáp tập luyện cấp 1 lydo: Mặc vào người at 03/12/2023 4:06 PM
+BAG:yamatekurasai remove Hoa hồng xanh lydo: Tự Xóa vật phẩm at 03/12/2023 4:13 PM
+BAG:yamatekurasai remove Hoa hồng vàng lydo: Tự Xóa vật phẩm at 03/12/2023 4:13 PM
+BAG:yamatekurasai remove Hoa hồng đỏ lydo: Tự Xóa vật phẩm at 03/12/2023 4:13 PM
+BAG:yamatekurasai remove Hoa hồng xanh lydo: Tự Xóa vật phẩm at 03/12/2023 4:22 PM
+BAG:yamatekurasai remove Hoa hồng vàng lydo: Tự Xóa vật phẩm at 03/12/2023 4:22 PM
+BAG:yamatekurasai remove Hoa hồng đỏ lydo: Tự Xóa vật phẩm at 03/12/2023 4:44 PM
+BAG:yamatekurasai remove Đá Titan lydo: Tự Xóa vật phẩm at 03/12/2023 4:44 PM
+BAG:yamatekurasai remove Nezuko lydo: Mặc vào người at 03/12/2023 4:45 PM
+BAG:yamatekurasai remove Giáp tập luyện cấp 3 lydo: Mặc vào người at 03/12/2023 4:45 PM
+BAG:yamatekurasai remove 1xĐậu thần cấp 5 lydo: Ăn đậu at 03/12/2023 4:49 PM
+BAG:yamatekurasai remove Giáp tập luyện cấp 3 lydo: Mặc vào người at 03/12/2023 4:56 PM
+BAG:yamatekurasai remove Đá Saphia lydo: Tự Xóa vật phẩm at 03/12/2023 5:02 PM
+BAG:yamatekurasai remove Hoa hồng xanh lydo: Tự Xóa vật phẩm at 03/12/2023 5:02 PM
+BAG:yamatekurasai remove Giáp tập luyện cấp 3 lydo: Mặc vào người at 03/12/2023 5:06 PM
+BAG:yamatekurasai remove Hoa hồng đỏ lydo: Tự Xóa vật phẩm at 03/12/2023 5:09 PM
+BAG:yamatekurasai remove 1xĐậu thần cấp 5 lydo: Ăn đậu at 03/12/2023 5:12 PM
+BAG:yamatekurasai remove 1xĐậu thần cấp 5 lydo: Ăn đậu at 03/12/2023 5:13 PM
+BAG:yamatekurasai remove Giáp tập luyện cấp 3 lydo: Mặc vào người at 03/12/2023 5:14 PM
+BAG:yamatekurasai remove 1xCột nhà lydo: Bán cho shop at 03/12/2023 5:15 PM
+BAG:yamatekurasai remove 3xHoa hồng vàng lydo: Bán cho shop at 03/12/2023 5:16 PM
+BAG:yamatekurasai remove 5xNgọc Rồng 5 sao lydo: Bán cho shop at 03/12/2023 5:16 PM
+BAG:yamatekurasai remove Khiên năng lượng lv1 lydo: Sách kĩ năng at 03/12/2023 5:16 PM
+BAG:yamatekurasai remove 1xKhiên năng lượng lv1 lydo: Bán cho shop at 03/12/2023 5:16 PM
+BAG:yamatekurasai remove Khiên năng lượng lv2 lydo: Sách kĩ năng at 03/12/2023 5:16 PM
+BAG:yamatekurasai remove Khiên năng lượng lv3 lydo: Sách kĩ năng at 03/12/2023 5:16 PM
+BAG:yamatekurasai remove Khiên năng lượng lv4 lydo: Sách kĩ năng at 03/12/2023 5:17 PM
+BAG:yamatekurasai remove Khiên năng lượng lv5 lydo: Sách kĩ năng at 03/12/2023 5:17 PM
+BAG:yamatekurasai remove Khiên năng lượng lv6 lydo: Sách kĩ năng at 03/12/2023 5:17 PM
+BAG:yamatekurasai remove Khiên năng lượng lv7 lydo: Sách kĩ năng at 03/12/2023 5:17 PM
+BAG:yamatekurasai remove Sách Antomic lv1 lydo: Sách kĩ năng at 03/12/2023 5:18 PM
+BAG:yamatekurasai remove Sách Antomic lv2 lydo: Sách kĩ năng at 03/12/2023 5:18 PM
+BAG:yamatekurasai remove Sách Antomic lv3 lydo: Sách kĩ năng at 03/12/2023 5:18 PM
+BAG:yamatekurasai remove Sách Antomic lv4 lydo: Sách kĩ năng at 03/12/2023 5:18 PM
+BAG:yamatekurasai remove Sách Antomic lv5 lydo: Sách kĩ năng at 03/12/2023 5:18 PM
+BAG:yamatekurasai remove Sách Antomic lv6 lydo: Sách kĩ năng at 03/12/2023 5:18 PM
+BAG:yamatekurasai remove Sách Antomic lv7 lydo: Sách kĩ năng at 03/12/2023 5:18 PM
+BAG:yamatekurasai remove Ngọc Rồng 4 sao lydo: Cất vào rương at 03/12/2023 5:27 PM
+BAG:yamatekurasai remove Đá thạch anh tím lydo: Cất vào rương at 03/12/2023 5:27 PM
+BAG:yamatekurasai remove Đá Ruby lydo: Cất vào rương at 03/12/2023 5:27 PM
+BAG:yamatekurasai remove Thỏi vàng lydo: Cất vào rương at 03/12/2023 5:27 PM
+BAG:yamatekurasai remove 1xTự động luyện tập lydo: Bán cho shop at 03/12/2023 5:28 PM
+BAG:yamatekurasai remove 44xĐậu thần cấp 5 lydo: Bán cho shop at 03/12/2023 5:28 PM
+BAG:yamatekurasai remove Áo vải thô lydo: Mặc cho đệ tử at 03/12/2023 5:29 PM
+BAG:yamatekurasai remove Quần vải thô lydo: Mặc cho đệ tử at 03/12/2023 5:29 PM
+BAG:yamatekurasai remove Găng siêu Xayda lydo: Mặc cho đệ tử at 03/12/2023 5:29 PM
+BAG:yamatekurasai remove Giầy vải thô lydo: Mặc cho đệ tử at 03/12/2023 5:29 PM
+BAG:yamatekurasai remove Rada cấp 1 lydo: Mặc cho đệ tử at 03/12/2023 5:29 PM
+BAG:yamatekurasai remove CT Genma 01 lydo: Mặc cho đệ tử at 03/12/2023 5:29 PM
+BAG:yamatekurasai remove Giáp tập luyện cấp 1 lydo: Mặc cho đệ tử at 03/12/2023 5:40 PM
+BAG:yamatekurasai remove Giáp tập luyện cấp 3 lydo: Mặc vào người at 03/12/2023 5:40 PM
+BAG:yamatekurasai remove Giáp tập luyện cấp 3 lydo: Mặc vào người at 03/12/2023 5:49 PM
+BAG:yamatekurasai remove Ngọc Rồng 3 sao lydo: Cất vào rương at 03/12/2023 5:50 PM
+BAG:yamatekurasai remove Đá lục bảo lydo: Tự Xóa vật phẩm at 03/12/2023 5:53 PM
+BAG:yamatekurasai remove Hoa hồng xanh lydo: Tự Xóa vật phẩm at 03/12/2023 5:53 PM
+BAG:yamatekurasai remove Hoa hồng đỏ lydo: Tự Xóa vật phẩm at 03/12/2023 5:53 PM
+BAG:yamatekurasai remove Giáp tập luyện cấp 3 lydo: Mặc vào người at 03/12/2023 6:09 PM
+BAG:yamatekurasai remove Hoa hồng vàng lydo: Tự Xóa vật phẩm at 03/12/2023 6:10 PM
+BAG:yamatekurasai remove Hoa hồng đỏ lydo: Tự Xóa vật phẩm at 03/12/2023 6:10 PM
+BAG:yamatekurasai remove 1xMáy dò Capsule kì bí lydo: Dùng máy dò at 03/12/2023 6:10 PM
+BAG:yamatekurasai remove Hoa hồng đỏ lydo: Tự Xóa vật phẩm at 03/12/2023 6:11 PM
+BAG:yamatekurasai remove Hoa hồng xanh lydo: Tự Xóa vật phẩm at 03/12/2023 6:13 PM
+BAG:yamatekurasai remove Hoa hồng vàng lydo: Tự Xóa vật phẩm at 03/12/2023 6:13 PM
+BAG:yamatekurasai remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 6:13 PM
+BAG:yamatekurasai remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 6:13 PM
+BAG:yamatekurasai remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 6:14 PM
+BAG:yamatekurasai remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 6:14 PM
+BAG:yamatekurasai remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 6:14 PM
+BAG:yamatekurasai remove 1xẨn danh lydo: Dùng buff at 03/12/2023 6:14 PM
+BAG:yamatekurasai remove Hoa hồng xanh lydo: Tự Xóa vật phẩm at 03/12/2023 6:17 PM
+BAG:yamatekurasai remove Hoa hồng đỏ lydo: Tự Xóa vật phẩm at 03/12/2023 6:18 PM
+BAG:yamatekurasai remove 1xMáy dò Capsule kì bí lydo: Dùng máy dò at 03/12/2023 6:18 PM
+BAG:yamatekurasai remove Hoa hồng đỏ lydo: Tự Xóa vật phẩm at 03/12/2023 6:18 PM
+BAG:yamatekurasai remove Hoa hồng đỏ lydo: Tự Xóa vật phẩm at 03/12/2023 6:19 PM
+BAG:yamatekurasai remove Hoa hồng đỏ lydo: Tự Xóa vật phẩm at 03/12/2023 6:21 PM
+BAG:yamatekurasai remove Hoa hồng đỏ lydo: Tự Xóa vật phẩm at 03/12/2023 6:21 PM
+BAG:yamatekurasai remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 6:21 PM
+BAG:yamatekurasai remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 6:21 PM
+BAG:yamatekurasai remove Quỷ Chim lydo: Tự Xóa vật phẩm at 03/12/2023 6:33 PM
+BAG:yamatekurasai remove Nezuko lydo: Mặc cho đệ tử at 03/12/2023 6:33 PM
+BAG:yamatekurasai remove Giáp tập luyện cấp 1 lydo: Mặc vào người at 03/12/2023 6:33 PM
+BAG:yamatekurasai remove Hoa hồng xanh lydo: Tự Xóa vật phẩm at 03/12/2023 6:35 PM
+BAG:yamatekurasai remove 1xBổ huyết lydo: Dùng buff at 03/12/2023 6:35 PM
+BAG:yamatekurasai remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 6:36 PM
+BAG:yamatekurasai remove Hoa hồng đỏ lydo: Tự Xóa vật phẩm at 03/12/2023 6:36 PM
+BAG:yamatekurasai remove Đá Titan lydo: Tự Xóa vật phẩm at 03/12/2023 6:36 PM
+BAG:yamatekurasai remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 6:36 PM
+BAG:yamatekurasai remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 6:36 PM
+BAG:yamatekurasai remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 6:36 PM
+BAG:yamatekurasai remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 6:36 PM
+BAG:yamatekurasai remove Hoa hồng vàng lydo: Tự Xóa vật phẩm at 03/12/2023 6:36 PM
+BAG:yamatekurasai remove 1xBổ khí lydo: Dùng buff at 03/12/2023 6:36 PM
+BAG:yamatekurasai remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 6:36 PM
+BAG:yamatekurasai remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 6:36 PM
+BAG:yamatekurasai remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 6:36 PM
+BAG:yamatekurasai remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 6:36 PM
+BAG:yamatekurasai remove Hoa hồng xanh lydo: Tự Xóa vật phẩm at 03/12/2023 6:36 PM
+BAG:yamatekurasai remove Hoa hồng đỏ lydo: Tự Xóa vật phẩm at 03/12/2023 6:36 PM
+BAG:yamatekurasai remove Đá Titan lydo: Tự Xóa vật phẩm at 03/12/2023 6:38 PM
+BAG:yamatekurasai remove Hoa hồng vàng lydo: Tự Xóa vật phẩm at 03/12/2023 6:38 PM
+BAG:yamatekurasai remove Hoa hồng đỏ lydo: Tự Xóa vật phẩm at 03/12/2023 6:41 PM
+BAG:yamatekurasai remove Hoa hồng xanh lydo: Tự Xóa vật phẩm at 03/12/2023 6:41 PM
+BAG:yamatekurasai remove Hoa hồng đỏ lydo: Tự Xóa vật phẩm at 03/12/2023 6:42 PM
+BAG:yamatekurasai remove Hoa hồng vàng lydo: Tự Xóa vật phẩm at 03/12/2023 6:42 PM
+BAG:yamatekurasai remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 6:43 PM
+BAG:yamatekurasai remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 6:43 PM
+BAG:yamatekurasai remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 6:43 PM
+BAG:yamatekurasai remove Hoa hồng vàng lydo: Tự Xóa vật phẩm at 03/12/2023 6:43 PM
+BAG:yamatekurasai remove Ngọc Rồng 3 sao lydo: Cất vào rương at 03/12/2023 6:44 PM
+BAG:yamatekurasai remove Ngọc Rồng 4 sao lydo: Cất vào rương at 03/12/2023 6:44 PM
+BAG:yamatekurasai remove Ngọc Rồng 6 sao lydo: Cất vào rương at 03/12/2023 6:44 PM
+BAG:yamatekurasai remove Thỏi vàng lydo: Cất vào rương at 03/12/2023 6:44 PM
+BAG:yamatekurasai remove Hoa hồng vàng lydo: Cất vào rương at 03/12/2023 6:44 PM
+BAG:yamatekurasai remove Viên Capsule kì bí lydo: Cất vào rương at 03/12/2023 6:44 PM
+BAG:yamatekurasai remove 1xBổ khí lydo: Dùng buff at 03/12/2023 6:46 PM
+BAG:yamatekurasai remove 1xMáy dò Capsule kì bí lydo: Dùng máy dò at 03/12/2023 6:47 PM
+BAG:yamatekurasai remove Hoa hồng xanh lydo: Tự Xóa vật phẩm at 03/12/2023 7:02 PM
+BAG:yamatekurasai remove Hoa hồng đỏ lydo: Tự Xóa vật phẩm at 03/12/2023 7:02 PM
+BAG:yamatekurasai remove Hoa hồng xanh lydo: Tự Xóa vật phẩm at 03/12/2023 7:16 PM
+BAG:yamatekurasai remove Hoa hồng đỏ lydo: Tự Xóa vật phẩm at 03/12/2023 7:16 PM
+BAG:yamatekurasai remove Đá Ruby lydo: Tự Xóa vật phẩm at 03/12/2023 7:16 PM
+BAG:yamatekurasai remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 7:16 PM
+BAG:yamatekurasai remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 7:16 PM
+BAG:yamatekurasai remove Hoa hồng vàng lydo: Tự Xóa vật phẩm at 03/12/2023 7:16 PM
+BAG:yamatekurasai remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 7:16 PM
+BAG:yamatekurasai remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 7:16 PM
+BAG:yamatekurasai remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 7:16 PM
+BAG:yamatekurasai remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 7:16 PM
+BAG:yamatekurasai remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 7:16 PM
+BAG:yamatekurasai remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 7:16 PM
+BAG:yamatekurasai remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 7:16 PM
+BAG:yamatekurasai remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 7:16 PM
+BAG:yamatekurasai remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 7:16 PM
+BAG:yamatekurasai remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 7:17 PM
+BAG:yamatekurasai remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 7:17 PM
+BAG:yamatekurasai remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 7:17 PM
+BAG:yamatekurasai remove 1xBổ khí lydo: Dùng buff at 03/12/2023 7:17 PM
+BAG:yamatekurasai remove 1xẨn danh lydo: Dùng buff at 03/12/2023 7:17 PM
+BAG:yamatekurasai remove 1xBổ huyết lydo: Dùng buff at 03/12/2023 7:17 PM
+BAG:yamatekurasai remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 7:26 PM
+BAG:yamatekurasai remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 7:26 PM
+BAG:yamatekurasai remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 7:26 PM
+BAG:yamatekurasai remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 7:26 PM
+BAG:yamatekurasai remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 7:26 PM
+BAG:yamatekurasai remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 7:26 PM
+BAG:yamatekurasai remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 7:26 PM
+BAG:yamatekurasai remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 7:26 PM
+BAG:yamatekurasai remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 7:26 PM
+BAG:yamatekurasai remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 7:26 PM
+BAG:yamatekurasai remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 7:26 PM
+BAG:yamatekurasai remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 7:27 PM
+BAG:yamatekurasai remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 7:27 PM
+BAG:yamatekurasai remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 7:27 PM
+BAG:yamatekurasai remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 7:27 PM
+BAG:yamatekurasai remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 7:27 PM
+BAG:yamatekurasai remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 7:27 PM
+BAG:yamatekurasai remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 7:27 PM
+BAG:yamatekurasai remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 7:27 PM
+BAG:yamatekurasai remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 7:27 PM
+BAG:yamatekurasai remove Hoa hồng xanh lydo: Tự Xóa vật phẩm at 03/12/2023 7:27 PM
+BAG:yamatekurasai remove Hoa hồng vàng lydo: Tự Xóa vật phẩm at 03/12/2023 7:27 PM
+BAG:yamatekurasai remove Hoa hồng đỏ lydo: Tự Xóa vật phẩm at 03/12/2023 7:27 PM
+BAG:yamatekurasai remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 7:27 PM
+BAG:yamatekurasai remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 7:27 PM
+BAG:yamatekurasai remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 7:27 PM
+BAG:yamatekurasai remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 7:27 PM
+BAG:yamatekurasai remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 7:27 PM
+BAG:yamatekurasai remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 7:27 PM
+BAG:yamatekurasai remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 7:27 PM
+BAG:yamatekurasai remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 7:27 PM
+BAG:yamatekurasai remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 7:27 PM
+BAG:yamatekurasai remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 7:27 PM
+BAG:yamatekurasai remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 7:27 PM
+BAG:yamatekurasai remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 7:27 PM
+BAG:yamatekurasai remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 7:27 PM
+BAG:yamatekurasai remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 7:28 PM
+BAG:yamatekurasai remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 7:28 PM
+BAG:yamatekurasai remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 7:28 PM
+BAG:yamatekurasai remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 7:28 PM
+BAG:yamatekurasai remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 7:28 PM
+BAG:yamatekurasai remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 7:28 PM
+BAG:yamatekurasai remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 7:28 PM
+BAG:yamatekurasai remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 7:28 PM
+BAG:yamatekurasai remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 7:28 PM
+BAG:yamatekurasai remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 7:28 PM
+BAG:yamatekurasai remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 7:28 PM
+BAG:yamatekurasai remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 7:28 PM
+BAG:yamatekurasai remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 7:28 PM
+BAG:yamatekurasai remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 7:28 PM
+BAG:yamatekurasai remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 7:28 PM
+BAG:yamatekurasai remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 7:28 PM
+BAG:yamatekurasai remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 7:28 PM
+BAG:yamatekurasai remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 7:28 PM
+BAG:yamatekurasai remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 7:28 PM
+BAG:yamatekurasai remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 7:28 PM
+BAG:yamatekurasai remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 7:28 PM
+BAG:yamatekurasai remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 7:28 PM
+BAG:yamatekurasai remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 7:28 PM
+BAG:yamatekurasai remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 7:28 PM
+BAG:yamatekurasai remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 7:28 PM
+BAG:yamatekurasai remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 7:28 PM
+BAG:yamatekurasai remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 7:28 PM
+BAG:yamatekurasai remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 7:28 PM
+BAG:yamatekurasai remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 7:28 PM
+BAG:yamatekurasai remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 7:28 PM
+BAG:yamatekurasai remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 7:28 PM
+BAG:yamatekurasai remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 7:28 PM
+BAG:yamatekurasai remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 7:28 PM
+BAG:yamatekurasai remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 7:28 PM
+BAG:yamatekurasai remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 7:28 PM
+BAG:yamatekurasai remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 7:28 PM
+BAG:yamatekurasai remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 7:28 PM
+BAG:yamatekurasai remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 7:28 PM
+BAG:yamatekurasai remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 7:28 PM
+BAG:yamatekurasai remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 7:29 PM
+BAG:yamatekurasai remove Đậu thần cấp 9 lydo: Tự Xóa vật phẩm at 03/12/2023 7:29 PM
+BAG:yamatekurasai remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 7:29 PM
+BAG:yamatekurasai remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 7:29 PM
+BAG:yamatekurasai remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 7:29 PM
+BAG:yamatekurasai remove 1xẨn danh lydo: Dùng buff at 03/12/2023 7:33 PM
+BAG:yamatekurasai remove 1xẨn danh lydo: Dùng buff at 03/12/2023 7:33 PM
+BAG:yamatekurasai remove Hoa hồng xanh lydo: Cất vào rương at 03/12/2023 7:34 PM
+BAG:yamatekurasai remove Hoa hồng đỏ lydo: Cất vào rương at 03/12/2023 7:34 PM
+BAG:yamatekurasai remove Ngọc Rồng 4 sao lydo: Cất vào rương at 03/12/2023 7:34 PM
+BAG:yamatekurasai remove Đá thạch anh tím lydo: Cất vào rương at 03/12/2023 7:34 PM
+BAG:yamatekurasai remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 7:34 PM
+BAG:yamatekurasai remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 7:34 PM
+BAG:yamatekurasai remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 7:35 PM
+BAG:yamatekurasai remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 7:35 PM
+BAG:yamatekurasai remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 7:35 PM
+BAG:yamatekurasai remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 7:35 PM
+BAG:yamatekurasai remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 7:35 PM
+BAG:yamatekurasai remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 7:35 PM
+BAG:yamatekurasai remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 7:35 PM
+BAG:yamatekurasai remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 7:35 PM
+BAG:yamatekurasai remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 7:35 PM
+BAG:yamatekurasai remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 7:35 PM
+BAG:yamatekurasai remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 7:35 PM
+BAG:yamatekurasai remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 7:35 PM
+BAG:yamatekurasai remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 7:35 PM
+BAG:yamatekurasai remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 7:35 PM
+BAG:yamatekurasai remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 7:35 PM
+BAG:yamatekurasai remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 7:35 PM
+BAG:yamatekurasai remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 7:35 PM
+BAG:yamatekurasai remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 7:35 PM
+BAG:yamatekurasai remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 7:35 PM
+BAG:yamatekurasai remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 7:35 PM
+BAG:yamatekurasai remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 7:35 PM
+BAG:yamatekurasai remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 7:36 PM
+BAG:yamatekurasai remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 7:36 PM
+BAG:yamatekurasai remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 7:36 PM
+BAG:yamatekurasai remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 7:36 PM
+BAG:yamatekurasai remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 7:36 PM
+BAG:yamatekurasai remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 7:36 PM
+BAG:yamatekurasai remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 7:36 PM
+BAG:yamatekurasai remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 7:36 PM
+BAG:yamatekurasai remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 7:36 PM
+BAG:yamatekurasai remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 7:36 PM
+BAG:yamatekurasai remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 7:36 PM
+BAG:yamatekurasai remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 7:36 PM
+BAG:yamatekurasai remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 7:36 PM
+BAG:yamatekurasai remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 7:36 PM
+BAG:yamatekurasai remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 7:36 PM
+BAG:yamatekurasai remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 7:36 PM
+BAG:yamatekurasai remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 7:36 PM
+BAG:yamatekurasai remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 7:36 PM
+BAG:yamatekurasai remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 7:36 PM
+BAG:yamatekurasai remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 7:36 PM
+BAG:yamatekurasai remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 7:36 PM
+BAG:yamatekurasai remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 7:36 PM
+BAG:yamatekurasai remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 7:36 PM
+BAG:yamatekurasai remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 7:36 PM
+BAG:yamatekurasai remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 7:36 PM
+BAG:yamatekurasai remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 7:37 PM
+BAG:yamatekurasai remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 7:37 PM
+BAG:yamatekurasai remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 7:37 PM
+BAG:yamatekurasai remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 7:37 PM
+BAG:yamatekurasai remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 7:37 PM
+BAG:yamatekurasai remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 7:41 PM
+BAG:yamatekurasai remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 7:41 PM
+BAG:yamatekurasai remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 7:41 PM
+BAG:yamatekurasai remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 7:41 PM
+BAG:yamatekurasai remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 7:41 PM
+BAG:yamatekurasai remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 7:41 PM
+BAG:yamatekurasai remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 7:41 PM
+BAG:yamatekurasai remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 7:41 PM
+BAG:yamatekurasai remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 7:41 PM
+BAG:yamatekurasai remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 7:41 PM
+BAG:yamatekurasai remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 7:41 PM
+BAG:yamatekurasai remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 7:41 PM
+BAG:yamatekurasai remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 7:41 PM
+BAG:yamatekurasai remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 7:42 PM
+BAG:yamatekurasai remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 7:42 PM
+BAG:yamatekurasai remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 7:42 PM
+BAG:yamatekurasai remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 7:42 PM
+BAG:yamatekurasai remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 7:42 PM
+BAG:yamatekurasai remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 7:42 PM
+BAG:yamatekurasai remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 7:42 PM
+BAG:yamatekurasai remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 7:42 PM
+BAG:yamatekurasai remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 7:42 PM
+BAG:yamatekurasai remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 7:42 PM
+BAG:yamatekurasai remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 7:42 PM
+BAG:yamatekurasai remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 7:42 PM
+BAG:yamatekurasai remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 7:42 PM
+BAG:yamatekurasai remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 7:42 PM
+BAG:yamatekurasai remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 7:42 PM
+BAG:yamatekurasai remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 7:42 PM
+BAG:yamatekurasai remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 7:42 PM
+BAG:yamatekurasai remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 7:42 PM
+BAG:yamatekurasai remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 7:42 PM
+BAG:yamatekurasai remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 7:42 PM
+BAG:yamatekurasai remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 7:42 PM
+BAG:yamatekurasai remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 7:42 PM
+BAG:yamatekurasai remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 7:42 PM
+BAG:yamatekurasai remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 7:42 PM
+BAG:yamatekurasai remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 7:42 PM
+BAG:yamatekurasai remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 7:42 PM
+BAG:yamatekurasai remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 7:42 PM
+BAG:yamatekurasai remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 7:42 PM
+BAG:yamatekurasai remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 7:42 PM
+BAG:yamatekurasai remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 7:43 PM
+BAG:yamatekurasai remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 7:43 PM
+BAG:yamatekurasai remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 7:43 PM
+BAG:yamatekurasai remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 7:43 PM
+BAG:yamatekurasai remove Bổ huyết lydo: Cất vào rương at 03/12/2023 7:43 PM
+BAG:yamatekurasai remove Bổ khí lydo: Cất vào rương at 03/12/2023 7:43 PM
+BAG:yamatekurasai remove Ẩn danh lydo: Cất vào rương at 03/12/2023 7:43 PM
+BAG:yamatekurasai remove Cuồng nộ lydo: Cất vào rương at 03/12/2023 7:43 PM
+BAG:yamatekurasai remove Máy dò Capsule kì bí lydo: Cất vào rương at 03/12/2023 7:43 PM
+BAG:yamatekurasai remove 1xThỏi vàng lydo: Bán cho shop at 03/12/2023 7:44 PM
+BAG:yamatekurasai remove 1xThỏi vàng lydo: Bán cho shop at 03/12/2023 7:44 PM
+BAG:yamatekurasai remove Thỏi vàng lydo: Cất vào rương at 03/12/2023 7:45 PM
+BAG:yamatekurasai remove Giáp tập luyện cấp 1 lydo: Mặc cho đệ tử at 03/12/2023 7:45 PM
+BAG:yamatekurasai remove Rada cấp 1 lydo: Mặc cho đệ tử at 03/12/2023 7:45 PM
+BAG:yamatekurasai remove Giầy vải thô lydo: Mặc cho đệ tử at 03/12/2023 7:45 PM
+BAG:yamatekurasai remove Quần vải thô lydo: Mặc cho đệ tử at 03/12/2023 7:45 PM
+BAG:yamatekurasai remove Áo vải thô lydo: Mặc cho đệ tử at 03/12/2023 7:45 PM
+BAG:yamatekurasai remove CT Genma 01 lydo: Mặc cho đệ tử at 03/12/2023 7:45 PM
+BAG:yamatekurasai remove 1xHoa hồng vàng lydo: Bán cho shop at 03/12/2023 7:46 PM
+BAG:yamatekurasai remove 1xHoa hồng đỏ lydo: Bán cho shop at 03/12/2023 7:46 PM
+BAG:yamatekurasai remove 1xHoa hồng xanh lydo: Bán cho shop at 03/12/2023 7:46 PM
+BAG:yamatekurasai remove Găng bạc lydo: Mặc cho đệ tử at 03/12/2023 7:46 PM
+BAG:yamatekurasai remove 1xĐậu thần cấp 6 lydo: Ăn đậu at 03/12/2023 7:48 PM
+BAG:yamatekurasai remove Đậu thần cấp 5 lydo: Tự Xóa vật phẩm at 03/12/2023 7:48 PM
+BAG:yamatekurasai remove 1xNâng cấp kỹ năng 1 đệ tử lydo: Dùng sách kĩ năng đệ tử at 03/12/2023 7:49 PM
+BAG:yamatekurasai remove 1xNâng cấp kỹ năng 1 đệ tử lydo: Dùng sách kĩ năng đệ tử at 03/12/2023 7:50 PM
+BAG:yamatekurasai remove 1xNâng cấp kỹ năng 1 đệ tử lydo: Dùng sách kĩ năng đệ tử at 03/12/2023 7:50 PM
+BAG:yamatekurasai remove Găng bạc lydo: Tự Xóa vật phẩm at 03/12/2023 7:52 PM
+BAG:yamatekurasai remove 1xNâng cấp kỹ năng 1 đệ tử lydo: Dùng sách kĩ năng đệ tử at 03/12/2023 7:53 PM
+BAG:yamatekurasai remove 1xNâng cấp kỹ năng 1 đệ tử lydo: Dùng sách kĩ năng đệ tử at 03/12/2023 7:53 PM
+BAG:yamatekurasai remove 1xNâng cấp kỹ năng 1 đệ tử lydo: Dùng sách kĩ năng đệ tử at 03/12/2023 7:53 PM
+BAG:yamatekurasai remove 1xGăng vàng lydo: Bán cho shop at 03/12/2023 7:53 PM
+BAG:yamatekurasai remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/12/2023 8:04 PM
+BAG:yamatekurasai remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/12/2023 8:10 PM
+BAG:yamatekurasai remove 1xĐá lục bảo lydo: Bán cho shop at 03/12/2023 8:37 PM
+BAG:yamatekurasai remove 3xĐá Ruby lydo: Bán cho shop at 03/12/2023 8:37 PM
+BAG:yamatekurasai remove 1xNâng cấp kỹ năng 2 đệ tử lydo: Dùng sách kĩ năng đệ tử at 03/12/2023 8:38 PM
+BAG:yamatekurasai remove 1xNâng cấp kỹ năng 2 đệ tử lydo: Dùng sách kĩ năng đệ tử at 03/12/2023 8:38 PM
+BAG:yamatekurasai remove 1xNâng cấp kỹ năng 2 đệ tử lydo: Dùng sách kĩ năng đệ tử at 03/12/2023 8:38 PM
+BAG:yamatekurasai remove 1xNâng cấp kỹ năng 2 đệ tử lydo: Dùng sách kĩ năng đệ tử at 03/12/2023 8:38 PM
+BAG:yamatekurasai remove 1xNâng cấp kỹ năng 2 đệ tử lydo: Dùng sách kĩ năng đệ tử at 03/12/2023 8:38 PM
+BAG:yamatekurasai remove 1xNâng cấp kỹ năng 2 đệ tử lydo: Dùng sách kĩ năng đệ tử at 03/12/2023 8:39 PM
+BAG:yamatekurasai remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/12/2023 8:39 PM
+BAG:yamatekurasai remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/12/2023 8:39 PM
+BAG:yamatekurasai remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/12/2023 8:57 PM
+BAG:yamatekurasai remove 15xHoa hồng đỏ lydo: Bán cho shop at 03/12/2023 9:09 PM
+BAG:yamatekurasai remove 1xNgọc Rồng 6 sao lydo: Bán cho shop at 03/12/2023 9:09 PM
+BAG:yamatekurasai remove 11xHoa hồng xanh lydo: Bán cho shop at 03/12/2023 9:09 PM
+BAG:yamatekurasai remove 26xHoa hồng vàng lydo: Bán cho shop at 03/12/2023 9:09 PM
+BAG:yamatekurasai remove 1xGăng lông Xayda lydo: Bán cho shop at 03/12/2023 9:09 PM
+BAG:yamatekurasai remove 1xGăng da Xayda lydo: Bán cho shop at 03/12/2023 9:09 PM
+BAG:yamatekurasai remove 1xThỏi vàng lydo: Bán cho shop at 03/12/2023 9:11 PM
+BAG:yamatekurasai remove 1xThỏi vàng lydo: Bán cho shop at 03/12/2023 9:12 PM
+BAG:yamatekurasai remove 1xThỏi vàng lydo: Bán cho shop at 03/12/2023 9:12 PM
+BAG:yamatekurasai remove 1xThỏi vàng lydo: Bán cho shop at 03/12/2023 9:16 PM
+BAG:yamatekurasai remove 1xThỏi vàng lydo: Bán cho shop at 03/12/2023 9:16 PM
+BAG:yamatekurasai remove Đá thạch anh tím lydo: Cất vào rương at 03/12/2023 9:17 PM
+BAG:yamatekurasai remove Sao pha lê lydo: Cất vào rương at 03/12/2023 9:18 PM
+BAG:yamatekurasai remove Sao pha lê lydo: Cất vào rương at 03/12/2023 9:18 PM
+BAG:yamatekurasai remove Cuồng nộ lydo: Cất vào rương at 03/12/2023 9:18 PM
+BAG:yamatekurasai remove Ngọc Rồng 4 sao lydo: Cất vào rương at 03/12/2023 9:18 PM
+BAG:yamatekurasai remove Ngọc Rồng 5 sao lydo: Cất vào rương at 03/12/2023 9:18 PM
+BAG:yamatekurasai remove Găng lông đỏ lydo: Cất vào rương at 03/12/2023 9:18 PM
+BAG:yamatekurasai remove Găng lưỡng long lydo: Cất vào rương at 03/12/2023 9:18 PM
+BAG:yamatekurasai remove Cải trang lydo: Cất vào rương at 03/12/2023 9:18 PM
+BAG:yamatekurasai remove 1xVệ tinh phòng thủ lydo: Bán cho shop at 03/12/2023 10:19 PM
+BAG:yamatekurasai remove 2xVệ tinh trí lực lydo: Bán cho shop at 03/12/2023 10:19 PM
+BAG:yamatekurasai remove 1xVệ tinh trí tuệ lydo: Bán cho shop at 03/12/2023 10:19 PM
+BAG:yamatekurasai remove 1xVệ tinh sinh lực lydo: Bán cho shop at 03/12/2023 10:19 PM
+BAG:yamatekurasai remove Cải trang Hatchiyack lydo: Tự Xóa vật phẩm at 03/12/2023 10:21 PM
+BAG:yamatekurasai remove Cải trang Hatchiyack lydo: Tự Xóa vật phẩm at 03/12/2023 10:21 PM
+BAG:yamatekurasai remove Cải trang Hatchiyack lydo: Tự Xóa vật phẩm at 03/12/2023 10:21 PM
+BAG:yamatekurasai remove Sao pha lê lydo: Tự Xóa vật phẩm at 03/12/2023 10:21 PM
+BAG:yamatekurasai remove Sao pha lê lydo: Tự Xóa vật phẩm at 03/12/2023 10:21 PM
+BAG:yamatekurasai remove Sao pha lê lydo: Tự Xóa vật phẩm at 03/12/2023 10:21 PM
+BAG:yamatekurasai remove Ngọc Rồng 6 sao lydo: Tự Xóa vật phẩm at 03/12/2023 10:21 PM
+BAG:yamatekurasai remove Vệ tinh phòng thủ lydo: Tự Xóa vật phẩm at 03/12/2023 10:21 PM
+BAG:yamatekurasai remove 1xVệ tinh trí tuệ lydo: Dùng vệ tinh at 03/12/2023 10:21 PM
+BAG:yamatekurasai remove 1xVệ tinh sinh lực lydo: Dùng vệ tinh at 03/12/2023 10:21 PM
+BAG:yamatekurasai remove 1xVệ tinh trí lực lydo: Bán cho shop at 03/12/2023 10:22 PM
+BAG:yamatekurasai remove 1xSao pha lê lydo: Bán cho shop at 03/12/2023 10:22 PM
+BAG:yamatekurasai remove 1xSao pha lê lydo: Bán cho shop at 03/12/2023 10:22 PM
+BAG:yamatekurasai remove 4xVệ tinh sinh lực lydo: Bán cho shop at 03/12/2023 10:22 PM
+BAG:yamatekurasai remove 2xSao pha lê lydo: Bán cho shop at 03/12/2023 10:22 PM
+BAG:yamatekurasai remove 1xVệ tinh sinh lực lydo: Bán cho shop at 03/12/2023 10:23 PM
+BAG:yamatekurasai remove 1xSao pha lê lydo: Bán cho shop at 03/12/2023 10:23 PM
+BAG:yamatekurasai remove 1xSao pha lê lydo: Bán cho shop at 03/12/2023 10:23 PM
+BAG:yamatekurasai remove 1xVệ tinh phòng thủ lydo: Dùng vệ tinh at 03/12/2023 10:23 PM
+BAG:yamatekurasai remove 1xVệ tinh phòng thủ lydo: Bán cho shop at 03/12/2023 10:24 PM
+BAG:yamatekurasai remove Cải trang mồn lèo lydo: Tự Xóa vật phẩm at 03/12/2023 10:25 PM
+BAG:yamatekurasai remove Cải trang Hatchiyack lydo: Tự Xóa vật phẩm at 03/12/2023 10:26 PM
+BAG:yamatekurasai remove Cải trang mồn lèo lydo: Tự Xóa vật phẩm at 03/12/2023 10:26 PM
+BAG:yamatekurasai remove Cải trang Hatchiyack lydo: Tự Xóa vật phẩm at 03/12/2023 10:26 PM
+BAG:yamatekurasai remove Cải trang mồn lèo lydo: Tự Xóa vật phẩm at 03/12/2023 10:26 PM
+BAG:yamatekurasai remove Cải trang mồn lèo lydo: Tự Xóa vật phẩm at 03/12/2023 10:26 PM
+BAG:yamatekurasai remove 1xThỏi vàng lydo: Bán cho shop at 03/12/2023 10:27 PM
+BAG:yamatekurasai remove 1xThỏi vàng lydo: Bán cho shop at 03/12/2023 10:27 PM
+BAG:yamatekurasai remove 1xThỏi vàng lydo: Bán cho shop at 03/12/2023 10:27 PM
+BAG:yamatekurasai remove 1xVệ tinh trí lực lydo: Bán cho shop at 03/12/2023 10:29 PM
+BAG:yamatekurasai remove 1xSao pha lê lydo: Bán cho shop at 03/12/2023 10:29 PM
+BAG:yamatekurasai remove 1xVệ tinh phòng thủ lydo: Bán cho shop at 03/12/2023 10:29 PM
+BAG:yamatekurasai remove 1xSao pha lê lydo: Bán cho shop at 03/12/2023 10:30 PM
+BAG:yamatekurasai remove 1xSao pha lê lydo: Bán cho shop at 03/12/2023 10:30 PM
+BAG:yamatekurasai remove 2xVệ tinh phòng thủ lydo: Bán cho shop at 03/12/2023 10:30 PM
+BAG:yamatekurasai remove 3xVệ tinh trí tuệ lydo: Bán cho shop at 03/12/2023 10:30 PM
+BAG:yamatekurasai remove 1xVệ tinh trí lực lydo: Bán cho shop at 03/12/2023 10:30 PM
+BAG:yamatekurasai remove 1xSao pha lê lydo: Bán cho shop at 03/12/2023 10:30 PM
+BAG:yamatekurasai remove 1xSao pha lê lydo: Bán cho shop at 03/12/2023 10:30 PM
+BAG:yamatekurasai remove 2xVệ tinh sinh lực lydo: Bán cho shop at 03/12/2023 10:30 PM
+BAG:yamatekurasai remove 1xVệ tinh trí tuệ lydo: Bán cho shop at 03/12/2023 10:30 PM
+BAG:yamatekurasai remove 2xVệ tinh trí lực lydo: Bán cho shop at 03/12/2023 10:30 PM
+BAG:yamatekurasai remove 1xVệ tinh phòng thủ lydo: Bán cho shop at 03/12/2023 10:30 PM
+BAG:yamatekurasai remove 1xSao pha lê lydo: Bán cho shop at 03/12/2023 10:30 PM
+BAG:yamatekurasai remove 1xThỏi vàng lydo: Bán cho shop at 03/12/2023 10:30 PM
+BAG:yamatekurasai remove 1xThỏi vàng lydo: Bán cho shop at 03/12/2023 10:30 PM
+BAG:yamatekurasai remove 1xThỏi vàng lydo: Bán cho shop at 03/12/2023 10:33 PM
+BAG:yamatekurasai remove 1xThỏi vàng lydo: Bán cho shop at 03/12/2023 10:33 PM
+BAG:yamatekurasai remove 1xThỏi vàng lydo: Bán cho shop at 03/12/2023 10:33 PM
+BAG:yamatekurasai remove 1xThỏi vàng lydo: Bán cho shop at 03/12/2023 10:38 PM
+BAG:yamatekurasai remove 1xThỏi vàng lydo: Bán cho shop at 03/12/2023 10:38 PM
+BAG:yamatekurasai remove 1xThỏi vàng lydo: Bán cho shop at 03/12/2023 10:38 PM
+BAG:yamatekurasai remove 1xXiên cá lydo: Bán cho shop at 03/12/2023 10:41 PM
+BAG:yamatekurasai remove 1xThỏi vàng lydo: Bán cho shop at 03/12/2023 10:41 PM
+BAG:yamatekurasai remove 1xThỏi vàng lydo: Bán cho shop at 03/12/2023 10:41 PM
+BAG:yamatekurasai remove 1xThỏi vàng lydo: Bán cho shop at 03/12/2023 10:44 PM
+BAG:yamatekurasai remove 1xThỏi vàng lydo: Bán cho shop at 03/12/2023 10:44 PM

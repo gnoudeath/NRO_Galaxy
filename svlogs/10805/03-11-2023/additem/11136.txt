@@ -1,0 +1,61 @@
+BAG:okchuaem add 10xĐậu thần cấp 6 (old: 7) lydo: Thu hoạch đậu at 03/11/2023 8:54 PM
+BAG:okchuaem add 30xĐậu thần cấp 6 (old: 10) lydo: Lấy từ rương qua người at 03/11/2023 8:55 PM
+BAG:okchuaem add 5xHoa hồng xanh (old: 4) lydo: Nhặt từ map at 03/11/2023 8:56 PM
+BAG:okchuaem add 2xĐá lục bảo (old: 1) lydo: Nhặt từ map at 03/11/2023 8:57 PM
+BAG:okchuaem add 1xVệ tinh trí tuệ lydo: Lấy từ lucky box at 03/11/2023 8:58 PM
+BAG:okchuaem add 1xCải trang mồn lèo lydo: Lấy từ lucky box at 03/11/2023 8:58 PM
+BAG:okchuaem add 1xPhóng lợn lydo: Lấy từ lucky box at 03/11/2023 8:59 PM
+BAG:okchuaem add 1xÁo sợi len lydo: Lấy từ body vào hành trang at 03/11/2023 9:01 PM
+BAG:okchuaem add 1xQuần sợi len lydo: Lấy từ body vào hành trang at 03/11/2023 9:01 PM
+BAG:okchuaem add 1xGăng sợi len lydo: Lấy từ body vào hành trang at 03/11/2023 9:01 PM
+BAG:okchuaem add 3xHoa hồng vàng (old: 2) lydo: Nhặt từ map at 03/11/2023 9:01 PM
+BAG:okchuaem add 10xHoa hồng đỏ (old: 9) lydo: Nhặt từ map at 03/11/2023 9:04 PM
+BAG:okchuaem add 6xHoa hồng xanh (old: 5) lydo: Nhặt từ map at 03/11/2023 9:04 PM
+BAG:okchuaem add 11xHoa hồng đỏ (old: 10) lydo: Nhặt từ map at 03/11/2023 9:05 PM
+BAG:okchuaem add 7xHoa hồng xanh (old: 6) lydo: Nhặt từ map at 03/11/2023 9:06 PM
+BAG:okchuaem add 8xHoa hồng xanh (old: 7) lydo: Nhặt từ map at 03/11/2023 9:06 PM
+BAG:okchuaem add 4xHoa hồng vàng (old: 3) lydo: Nhặt từ map at 03/11/2023 9:07 PM
+BAG:okchuaem add 9xHoa hồng xanh (old: 8) lydo: Nhặt từ map at 03/11/2023 9:07 PM
+BAG:okchuaem add 1xGiầy sợi len lydo: Lấy từ body vào hành trang at 03/11/2023 9:07 PM
+BAG:okchuaem add 1xRada cấp 1 lydo: Lấy từ body vào hành trang at 03/11/2023 9:07 PM
+BAG:okchuaem add 5xHoa hồng vàng (old: 4) lydo: Nhặt từ map at 03/11/2023 9:07 PM
+BAG:okchuaem add 6xHoa hồng vàng (old: 5) lydo: Nhặt từ map at 03/11/2023 9:09 PM
+BAG:okchuaem add 7xHoa hồng vàng (old: 6) lydo: Nhặt từ map at 03/11/2023 9:10 PM
+BAG:okchuaem add 7xĐá Ruby (old: 6) lydo: Nhặt từ map at 03/11/2023 9:10 PM
+BAG:okchuaem add 8xĐá Ruby (old: 7) lydo: Nhặt từ map at 03/11/2023 9:11 PM
+BAG:okchuaem add 99xNgọc Rồng 3 sao lydo: Lấy từ rương qua người at 03/11/2023 9:12 PM
+BAG:okchuaem add 12xHoa hồng đỏ (old: 11) lydo: Nhặt từ map at 03/11/2023 9:14 PM
+BAG:okchuaem add 10xHoa hồng xanh (old: 9) lydo: Nhặt từ map at 03/11/2023 9:14 PM
+BAG:okchuaem add 11xHoa hồng xanh (old: 10) lydo: Nhặt từ map at 03/11/2023 9:14 PM
+BAG:okchuaem add 13xHoa hồng đỏ (old: 12) lydo: Nhặt từ map at 03/11/2023 9:15 PM
+BAG:okchuaem add 12xHoa hồng xanh (old: 11) lydo: Nhặt từ map at 03/11/2023 9:15 PM
+BAG:okchuaem add 8xHoa hồng vàng (old: 7) lydo: Nhặt từ map at 03/11/2023 9:15 PM
+BAG:okchuaem add 14xHoa hồng đỏ (old: 13) lydo: Nhặt từ map at 03/11/2023 9:16 PM
+BAG:okchuaem add 15xHoa hồng đỏ (old: 14) lydo: Nhặt từ map at 03/11/2023 9:16 PM
+BAG:okchuaem add 16xHoa hồng đỏ (old: 15) lydo: Nhặt từ map at 03/11/2023 9:16 PM
+BAG:okchuaem add 17xHoa hồng đỏ (old: 16) lydo: Nhặt từ map at 03/11/2023 9:17 PM
+BAG:okchuaem add 13xHoa hồng xanh (old: 12) lydo: Nhặt từ map at 03/11/2023 9:17 PM
+BAG:okchuaem add 9xHoa hồng vàng (old: 8) lydo: Nhặt từ map at 03/11/2023 9:18 PM
+BAG:okchuaem add 9xĐá Ruby (old: 8) lydo: Nhặt từ map at 03/11/2023 9:18 PM
+BAG:okchuaem add 14xHoa hồng xanh (old: 13) lydo: Nhặt từ map at 03/11/2023 9:18 PM
+BAG:okchuaem add 10xHoa hồng vàng (old: 9) lydo: Nhặt từ map at 03/11/2023 9:19 PM
+BAG:okchuaem add 1xGiáp tập luyện cấp 2 lydo: Mua từ cửa hàng at 03/11/2023 9:19 PM
+BAG:okchuaem add 15xHoa hồng xanh (old: 14) lydo: Nhặt từ map at 03/11/2023 9:19 PM
+BAG:okchuaem add 11xHoa hồng vàng (old: 10) lydo: Nhặt từ map at 03/11/2023 9:20 PM
+BAG:okchuaem add 99xViên Capsule kì bí lydo: Mua từ bill at 03/11/2023 9:21 PM
+BAG:okchuaem add 1xCuồng nộ lydo: CSKB at 03/11/2023 9:21 PM
+BAG:okchuaem add 1xGiáp tập luyện cấp 2 lydo: Mua từ cửa hàng at 03/11/2023 9:22 PM
+BAG:okchuaem add 1xBổ huyết lydo: CSKB at 03/11/2023 9:22 PM
+BAG:okchuaem add 1xBổ khí lydo: CSKB at 03/11/2023 9:23 PM
+BAG:okchuaem add 2xCuồng nộ (old: 1) lydo: CSKB at 03/11/2023 9:23 PM
+BAG:okchuaem add 1xẨn danh lydo: CSKB at 03/11/2023 9:23 PM
+BAG:okchuaem add 2xẨn danh (old: 1) lydo: CSKB at 03/11/2023 9:23 PM
+BAG:okchuaem add 1xẨn danh lydo: CSKB at 03/11/2023 9:24 PM
+BAG:okchuaem add 3xCuồng nộ (old: 2) lydo: CSKB at 03/11/2023 9:24 PM
+BAG:okchuaem add 4xCuồng nộ (old: 3) lydo: CSKB at 03/11/2023 9:24 PM
+BAG:okchuaem add 2xẨn danh (old: 1) lydo: CSKB at 03/11/2023 9:24 PM
+BAG:okchuaem add 12xHoa hồng vàng (old: 11) lydo: Nhặt từ map at 03/11/2023 9:25 PM
+BAG:okchuaem add 1xBổ khí lydo: CSKB at 03/11/2023 9:25 PM
+BAG:okchuaem add 1xBông tai Porata lydo: Mua từ cửa hàng at 03/11/2023 9:25 PM
+BAG:okchuaem add 3xẨn danh (old: 2) lydo: CSKB at 03/11/2023 9:25 PM
+BAG:okchuaem add 1xGiáp tập luyện cấp 2 lydo: Lấy từ body vào hành trang at 03/11/2023 9:26 PM

@@ -1,0 +1,869 @@
+BAG:thaongan add 1xGiáp tập luyện cấp 3 lydo: Lấy từ body vào hành trang at 03/13/2023 12:03 AM
+BAG:thaongan add 1xThiệp chúc mừng xanh lydo: Nhặt từ map at 03/13/2023 12:05 AM
+BAG:thaongan add 638xHoa hồng xanh (old: 637) lydo: Nhặt từ map at 03/13/2023 12:06 AM
+BAG:thaongan add 36xMáy dò Capsule kì bí (old: 35) lydo: Mua từ cửa hàng at 03/13/2023 12:06 AM
+BAG:thaongan add 37xMáy dò Capsule kì bí (old: 36) lydo: Mua từ cửa hàng at 03/13/2023 12:07 AM
+BAG:thaongan add 38xMáy dò Capsule kì bí (old: 37) lydo: Mua từ cửa hàng at 03/13/2023 12:07 AM
+BAG:thaongan add 39xMáy dò Capsule kì bí (old: 38) lydo: Mua từ cửa hàng at 03/13/2023 12:07 AM
+BAG:thaongan add 40xMáy dò Capsule kì bí (old: 39) lydo: Mua từ cửa hàng at 03/13/2023 12:07 AM
+BAG:thaongan add 41xMáy dò Capsule kì bí (old: 40) lydo: Mua từ cửa hàng at 03/13/2023 12:07 AM
+BAG:thaongan add 42xMáy dò Capsule kì bí (old: 41) lydo: Mua từ cửa hàng at 03/13/2023 12:07 AM
+BAG:thaongan add 1xViên Capsule kì bí lydo: Nhặt từ map at 03/13/2023 12:07 AM
+BAG:thaongan add 2xViên Capsule kì bí (old: 1) lydo: Nhặt từ map at 03/13/2023 12:07 AM
+BAG:thaongan add 3xViên Capsule kì bí (old: 2) lydo: Nhặt từ map at 03/13/2023 12:07 AM
+BAG:thaongan add 639xHoa hồng xanh (old: 638) lydo: Nhặt từ map at 03/13/2023 12:07 AM
+BAG:thaongan add 4xViên Capsule kì bí (old: 3) lydo: Nhặt từ map at 03/13/2023 12:07 AM
+BAG:thaongan add 5xViên Capsule kì bí (old: 4) lydo: Nhặt từ map at 03/13/2023 12:07 AM
+BAG:thaongan add 687xHoa hồng đỏ (old: 686) lydo: Nhặt từ map at 03/13/2023 12:08 AM
+BAG:thaongan add 881xHoa hồng vàng (old: 880) lydo: Nhặt từ map at 03/13/2023 12:08 AM
+BAG:thaongan add 1xNgọc Rồng 4 sao lydo: Nhặt từ map at 03/13/2023 12:08 AM
+BAG:thaongan add 688xHoa hồng đỏ (old: 687) lydo: Nhặt từ map at 03/13/2023 12:08 AM
+BAG:thaongan add 882xHoa hồng vàng (old: 881) lydo: Nhặt từ map at 03/13/2023 12:08 AM
+BAG:thaongan add 689xHoa hồng đỏ (old: 688) lydo: Nhặt từ map at 03/13/2023 12:08 AM
+BAG:thaongan add 690xHoa hồng đỏ (old: 689) lydo: Nhặt từ map at 03/13/2023 12:08 AM
+BAG:thaongan add 883xHoa hồng vàng (old: 882) lydo: Nhặt từ map at 03/13/2023 12:08 AM
+BAG:thaongan add 6xViên Capsule kì bí (old: 5) lydo: Nhặt từ map at 03/13/2023 12:08 AM
+BAG:thaongan add 7xViên Capsule kì bí (old: 6) lydo: Nhặt từ map at 03/13/2023 12:08 AM
+BAG:thaongan add 884xHoa hồng vàng (old: 883) lydo: Nhặt từ map at 03/13/2023 12:08 AM
+BAG:thaongan add 640xHoa hồng xanh (old: 639) lydo: Nhặt từ map at 03/13/2023 12:08 AM
+BAG:thaongan add 641xHoa hồng xanh (old: 640) lydo: Nhặt từ map at 03/13/2023 12:09 AM
+BAG:thaongan add 1xĐá Ruby lydo: Nhặt từ map at 03/13/2023 12:09 AM
+BAG:thaongan add 8xViên Capsule kì bí (old: 7) lydo: Nhặt từ map at 03/13/2023 12:09 AM
+BAG:thaongan add 885xHoa hồng vàng (old: 884) lydo: Nhặt từ map at 03/13/2023 12:09 AM
+BAG:thaongan add 886xHoa hồng vàng (old: 885) lydo: Nhặt từ map at 03/13/2023 12:09 AM
+BAG:thaongan add 691xHoa hồng đỏ (old: 690) lydo: Nhặt từ map at 03/13/2023 12:09 AM
+BAG:thaongan add 642xHoa hồng xanh (old: 641) lydo: Nhặt từ map at 03/13/2023 12:09 AM
+BAG:thaongan add 643xHoa hồng xanh (old: 642) lydo: Nhặt từ map at 03/13/2023 12:09 AM
+BAG:thaongan add 692xHoa hồng đỏ (old: 691) lydo: Nhặt từ map at 03/13/2023 12:09 AM
+BAG:thaongan add 644xHoa hồng xanh (old: 643) lydo: Nhặt từ map at 03/13/2023 12:09 AM
+BAG:thaongan add 9xViên Capsule kì bí (old: 8) lydo: Nhặt từ map at 03/13/2023 12:09 AM
+BAG:thaongan add 645xHoa hồng xanh (old: 644) lydo: Nhặt từ map at 03/13/2023 12:09 AM
+BAG:thaongan add 10xViên Capsule kì bí (old: 9) lydo: Nhặt từ map at 03/13/2023 12:09 AM
+BAG:thaongan add 693xHoa hồng đỏ (old: 692) lydo: Nhặt từ map at 03/13/2023 12:09 AM
+BAG:thaongan add 694xHoa hồng đỏ (old: 693) lydo: Nhặt từ map at 03/13/2023 12:09 AM
+BAG:thaongan add 646xHoa hồng xanh (old: 645) lydo: Nhặt từ map at 03/13/2023 12:09 AM
+BAG:thaongan add 11xViên Capsule kì bí (old: 10) lydo: Nhặt từ map at 03/13/2023 12:09 AM
+BAG:thaongan add 12xViên Capsule kì bí (old: 11) lydo: Nhặt từ map at 03/13/2023 12:09 AM
+BAG:thaongan add 13xViên Capsule kì bí (old: 12) lydo: Nhặt từ map at 03/13/2023 12:09 AM
+BAG:thaongan add 14xViên Capsule kì bí (old: 13) lydo: Nhặt từ map at 03/13/2023 12:09 AM
+BAG:thaongan add 15xViên Capsule kì bí (old: 14) lydo: Nhặt từ map at 03/13/2023 12:10 AM
+BAG:thaongan add 16xViên Capsule kì bí (old: 15) lydo: Nhặt từ map at 03/13/2023 12:10 AM
+BAG:thaongan add 17xViên Capsule kì bí (old: 16) lydo: Nhặt từ map at 03/13/2023 12:10 AM
+BAG:thaongan add 695xHoa hồng đỏ (old: 694) lydo: Nhặt từ map at 03/13/2023 12:10 AM
+BAG:thaongan add 647xHoa hồng xanh (old: 646) lydo: Nhặt từ map at 03/13/2023 12:10 AM
+BAG:thaongan add 18xViên Capsule kì bí (old: 17) lydo: Nhặt từ map at 03/13/2023 12:10 AM
+BAG:thaongan add 1xNgọc Rồng 6 sao lydo: Nhặt từ map at 03/13/2023 12:10 AM
+BAG:thaongan add 887xHoa hồng vàng (old: 886) lydo: Nhặt từ map at 03/13/2023 12:10 AM
+BAG:thaongan add 19xViên Capsule kì bí (old: 18) lydo: Nhặt từ map at 03/13/2023 12:10 AM
+BAG:thaongan add 696xHoa hồng đỏ (old: 695) lydo: Nhặt từ map at 03/13/2023 12:10 AM
+BAG:thaongan add 20xViên Capsule kì bí (old: 19) lydo: Nhặt từ map at 03/13/2023 12:10 AM
+BAG:thaongan add 697xHoa hồng đỏ (old: 696) lydo: Nhặt từ map at 03/13/2023 12:10 AM
+BAG:thaongan add 888xHoa hồng vàng (old: 887) lydo: Nhặt từ map at 03/13/2023 12:10 AM
+BAG:thaongan add 21xViên Capsule kì bí (old: 20) lydo: Nhặt từ map at 03/13/2023 12:11 AM
+BAG:thaongan add 698xHoa hồng đỏ (old: 697) lydo: Nhặt từ map at 03/13/2023 12:11 AM
+BAG:thaongan add 889xHoa hồng vàng (old: 888) lydo: Nhặt từ map at 03/13/2023 12:11 AM
+BAG:thaongan add 890xHoa hồng vàng (old: 889) lydo: Nhặt từ map at 03/13/2023 12:11 AM
+BAG:thaongan add 648xHoa hồng xanh (old: 647) lydo: Nhặt từ map at 03/13/2023 12:11 AM
+BAG:thaongan add 891xHoa hồng vàng (old: 890) lydo: Nhặt từ map at 03/13/2023 12:11 AM
+BAG:thaongan add 699xHoa hồng đỏ (old: 698) lydo: Nhặt từ map at 03/13/2023 12:11 AM
+BAG:thaongan add 22xViên Capsule kì bí (old: 21) lydo: Nhặt từ map at 03/13/2023 12:11 AM
+BAG:thaongan add 23xViên Capsule kì bí (old: 22) lydo: Nhặt từ map at 03/13/2023 12:11 AM
+BAG:thaongan add 700xHoa hồng đỏ (old: 699) lydo: Nhặt từ map at 03/13/2023 12:11 AM
+BAG:thaongan add 24xViên Capsule kì bí (old: 23) lydo: Nhặt từ map at 03/13/2023 12:11 AM
+BAG:thaongan add 25xViên Capsule kì bí (old: 24) lydo: Nhặt từ map at 03/13/2023 12:11 AM
+BAG:thaongan add 26xViên Capsule kì bí (old: 25) lydo: Nhặt từ map at 03/13/2023 12:11 AM
+BAG:thaongan add 27xViên Capsule kì bí (old: 26) lydo: Nhặt từ map at 03/13/2023 12:11 AM
+BAG:thaongan add 28xViên Capsule kì bí (old: 27) lydo: Nhặt từ map at 03/13/2023 12:11 AM
+BAG:thaongan add 29xViên Capsule kì bí (old: 28) lydo: Nhặt từ map at 03/13/2023 12:11 AM
+BAG:thaongan add 30xViên Capsule kì bí (old: 29) lydo: Nhặt từ map at 03/13/2023 12:11 AM
+BAG:thaongan add 701xHoa hồng đỏ (old: 700) lydo: Nhặt từ map at 03/13/2023 12:11 AM
+BAG:thaongan add 2xĐá Ruby (old: 1) lydo: Nhặt từ map at 03/13/2023 12:11 AM
+BAG:thaongan add 892xHoa hồng vàng (old: 891) lydo: Nhặt từ map at 03/13/2023 12:11 AM
+BAG:thaongan add 702xHoa hồng đỏ (old: 701) lydo: Nhặt từ map at 03/13/2023 12:12 AM
+BAG:thaongan add 31xViên Capsule kì bí (old: 30) lydo: Nhặt từ map at 03/13/2023 12:12 AM
+BAG:thaongan add 32xViên Capsule kì bí (old: 31) lydo: Nhặt từ map at 03/13/2023 12:12 AM
+BAG:thaongan add 33xViên Capsule kì bí (old: 32) lydo: Nhặt từ map at 03/13/2023 12:12 AM
+BAG:thaongan add 649xHoa hồng xanh (old: 648) lydo: Nhặt từ map at 03/13/2023 12:12 AM
+BAG:thaongan add 703xHoa hồng đỏ (old: 702) lydo: Nhặt từ map at 03/13/2023 12:12 AM
+BAG:thaongan add 34xViên Capsule kì bí (old: 33) lydo: Nhặt từ map at 03/13/2023 12:12 AM
+BAG:thaongan add 35xViên Capsule kì bí (old: 34) lydo: Nhặt từ map at 03/13/2023 12:12 AM
+BAG:thaongan add 36xViên Capsule kì bí (old: 35) lydo: Nhặt từ map at 03/13/2023 12:12 AM
+BAG:thaongan add 650xHoa hồng xanh (old: 649) lydo: Nhặt từ map at 03/13/2023 12:12 AM
+BAG:thaongan add 37xViên Capsule kì bí (old: 36) lydo: Nhặt từ map at 03/13/2023 12:12 AM
+BAG:thaongan add 38xViên Capsule kì bí (old: 37) lydo: Nhặt từ map at 03/13/2023 12:12 AM
+BAG:thaongan add 2xNgọc Rồng 4 sao (old: 1) lydo: Nhặt từ map at 03/13/2023 12:12 AM
+BAG:thaongan add 39xViên Capsule kì bí (old: 38) lydo: Nhặt từ map at 03/13/2023 12:12 AM
+BAG:thaongan add 893xHoa hồng vàng (old: 892) lydo: Nhặt từ map at 03/13/2023 12:12 AM
+BAG:thaongan add 651xHoa hồng xanh (old: 650) lydo: Nhặt từ map at 03/13/2023 12:12 AM
+BAG:thaongan add 3xNgọc Rồng 4 sao (old: 2) lydo: Nhặt từ map at 03/13/2023 12:12 AM
+BAG:thaongan add 704xHoa hồng đỏ (old: 703) lydo: Nhặt từ map at 03/13/2023 12:12 AM
+BAG:thaongan add 652xHoa hồng xanh (old: 651) lydo: Nhặt từ map at 03/13/2023 12:12 AM
+BAG:thaongan add 1xĐá Saphia lydo: Nhặt từ map at 03/13/2023 12:12 AM
+BAG:thaongan add 894xHoa hồng vàng (old: 893) lydo: Nhặt từ map at 03/13/2023 12:12 AM
+BAG:thaongan add 895xHoa hồng vàng (old: 894) lydo: Nhặt từ map at 03/13/2023 12:12 AM
+BAG:thaongan add 705xHoa hồng đỏ (old: 704) lydo: Nhặt từ map at 03/13/2023 12:12 AM
+BAG:thaongan add 40xViên Capsule kì bí (old: 39) lydo: Nhặt từ map at 03/13/2023 12:12 AM
+BAG:thaongan add 41xViên Capsule kì bí (old: 40) lydo: Nhặt từ map at 03/13/2023 12:12 AM
+BAG:thaongan add 896xHoa hồng vàng (old: 895) lydo: Nhặt từ map at 03/13/2023 12:12 AM
+BAG:thaongan add 42xViên Capsule kì bí (old: 41) lydo: Nhặt từ map at 03/13/2023 12:13 AM
+BAG:thaongan add 653xHoa hồng xanh (old: 652) lydo: Nhặt từ map at 03/13/2023 12:13 AM
+BAG:thaongan add 654xHoa hồng xanh (old: 653) lydo: Nhặt từ map at 03/13/2023 12:13 AM
+BAG:thaongan add 897xHoa hồng vàng (old: 896) lydo: Nhặt từ map at 03/13/2023 12:13 AM
+BAG:thaongan add 898xHoa hồng vàng (old: 897) lydo: Nhặt từ map at 03/13/2023 12:13 AM
+BAG:thaongan add 655xHoa hồng xanh (old: 654) lydo: Nhặt từ map at 03/13/2023 12:13 AM
+BAG:thaongan add 43xViên Capsule kì bí (old: 42) lydo: Nhặt từ map at 03/13/2023 12:13 AM
+BAG:thaongan add 899xHoa hồng vàng (old: 898) lydo: Nhặt từ map at 03/13/2023 12:13 AM
+BAG:thaongan add 706xHoa hồng đỏ (old: 705) lydo: Nhặt từ map at 03/13/2023 12:13 AM
+BAG:thaongan add 44xViên Capsule kì bí (old: 43) lydo: Nhặt từ map at 03/13/2023 12:13 AM
+BAG:thaongan add 900xHoa hồng vàng (old: 899) lydo: Nhặt từ map at 03/13/2023 12:13 AM
+BAG:thaongan add 45xViên Capsule kì bí (old: 44) lydo: Nhặt từ map at 03/13/2023 12:13 AM
+BAG:thaongan add 707xHoa hồng đỏ (old: 706) lydo: Nhặt từ map at 03/13/2023 12:13 AM
+BAG:thaongan add 46xViên Capsule kì bí (old: 45) lydo: Nhặt từ map at 03/13/2023 12:13 AM
+BAG:thaongan add 708xHoa hồng đỏ (old: 707) lydo: Nhặt từ map at 03/13/2023 12:13 AM
+BAG:thaongan add 901xHoa hồng vàng (old: 900) lydo: Nhặt từ map at 03/13/2023 12:13 AM
+BAG:thaongan add 47xViên Capsule kì bí (old: 46) lydo: Nhặt từ map at 03/13/2023 12:13 AM
+BAG:thaongan add 902xHoa hồng vàng (old: 901) lydo: Nhặt từ map at 03/13/2023 12:13 AM
+BAG:thaongan add 903xHoa hồng vàng (old: 902) lydo: Nhặt từ map at 03/13/2023 12:13 AM
+BAG:thaongan add 904xHoa hồng vàng (old: 903) lydo: Nhặt từ map at 03/13/2023 12:13 AM
+BAG:thaongan add 48xViên Capsule kì bí (old: 47) lydo: Nhặt từ map at 03/13/2023 12:13 AM
+BAG:thaongan add 709xHoa hồng đỏ (old: 708) lydo: Nhặt từ map at 03/13/2023 12:14 AM
+BAG:thaongan add 905xHoa hồng vàng (old: 904) lydo: Nhặt từ map at 03/13/2023 12:14 AM
+BAG:thaongan add 2xNgọc Rồng 6 sao (old: 1) lydo: Nhặt từ map at 03/13/2023 12:14 AM
+BAG:thaongan add 49xViên Capsule kì bí (old: 48) lydo: Nhặt từ map at 03/13/2023 12:14 AM
+BAG:thaongan add 50xViên Capsule kì bí (old: 49) lydo: Nhặt từ map at 03/13/2023 12:14 AM
+BAG:thaongan add 710xHoa hồng đỏ (old: 709) lydo: Nhặt từ map at 03/13/2023 12:14 AM
+BAG:thaongan add 51xViên Capsule kì bí (old: 50) lydo: Nhặt từ map at 03/13/2023 12:14 AM
+BAG:thaongan add 52xViên Capsule kì bí (old: 51) lydo: Nhặt từ map at 03/13/2023 12:14 AM
+BAG:thaongan add 906xHoa hồng vàng (old: 905) lydo: Nhặt từ map at 03/13/2023 12:14 AM
+BAG:thaongan add 53xViên Capsule kì bí (old: 52) lydo: Nhặt từ map at 03/13/2023 12:14 AM
+BAG:thaongan add 54xViên Capsule kì bí (old: 53) lydo: Nhặt từ map at 03/13/2023 12:14 AM
+BAG:thaongan add 55xViên Capsule kì bí (old: 54) lydo: Nhặt từ map at 03/13/2023 12:14 AM
+BAG:thaongan add 56xViên Capsule kì bí (old: 55) lydo: Nhặt từ map at 03/13/2023 12:14 AM
+BAG:thaongan add 907xHoa hồng vàng (old: 906) lydo: Nhặt từ map at 03/13/2023 12:14 AM
+BAG:thaongan add 57xViên Capsule kì bí (old: 56) lydo: Nhặt từ map at 03/13/2023 12:14 AM
+BAG:thaongan add 58xViên Capsule kì bí (old: 57) lydo: Nhặt từ map at 03/13/2023 12:14 AM
+BAG:thaongan add 59xViên Capsule kì bí (old: 58) lydo: Nhặt từ map at 03/13/2023 12:14 AM
+BAG:thaongan add 3xĐá Ruby (old: 2) lydo: Nhặt từ map at 03/13/2023 12:14 AM
+BAG:thaongan add 60xViên Capsule kì bí (old: 59) lydo: Nhặt từ map at 03/13/2023 12:14 AM
+BAG:thaongan add 711xHoa hồng đỏ (old: 710) lydo: Nhặt từ map at 03/13/2023 12:14 AM
+BAG:thaongan add 908xHoa hồng vàng (old: 907) lydo: Nhặt từ map at 03/13/2023 12:14 AM
+BAG:thaongan add 909xHoa hồng vàng (old: 908) lydo: Nhặt từ map at 03/13/2023 12:15 AM
+BAG:thaongan add 4xNgọc Rồng 4 sao (old: 3) lydo: Nhặt từ map at 03/13/2023 12:15 AM
+BAG:thaongan add 656xHoa hồng xanh (old: 655) lydo: Nhặt từ map at 03/13/2023 12:15 AM
+BAG:thaongan add 61xViên Capsule kì bí (old: 60) lydo: Nhặt từ map at 03/13/2023 12:15 AM
+BAG:thaongan add 712xHoa hồng đỏ (old: 711) lydo: Nhặt từ map at 03/13/2023 12:15 AM
+BAG:thaongan add 713xHoa hồng đỏ (old: 712) lydo: Nhặt từ map at 03/13/2023 12:15 AM
+BAG:thaongan add 62xViên Capsule kì bí (old: 61) lydo: Nhặt từ map at 03/13/2023 12:15 AM
+BAG:thaongan add 910xHoa hồng vàng (old: 909) lydo: Nhặt từ map at 03/13/2023 12:15 AM
+BAG:thaongan add 657xHoa hồng xanh (old: 656) lydo: Nhặt từ map at 03/13/2023 12:15 AM
+BAG:thaongan add 63xViên Capsule kì bí (old: 62) lydo: Nhặt từ map at 03/13/2023 12:15 AM
+BAG:thaongan add 64xViên Capsule kì bí (old: 63) lydo: Nhặt từ map at 03/13/2023 12:15 AM
+BAG:thaongan add 65xViên Capsule kì bí (old: 64) lydo: Nhặt từ map at 03/13/2023 12:15 AM
+BAG:thaongan add 911xHoa hồng vàng (old: 910) lydo: Nhặt từ map at 03/13/2023 12:15 AM
+BAG:thaongan add 66xViên Capsule kì bí (old: 65) lydo: Nhặt từ map at 03/13/2023 12:15 AM
+BAG:thaongan add 67xViên Capsule kì bí (old: 66) lydo: Nhặt từ map at 03/13/2023 12:15 AM
+BAG:thaongan add 714xHoa hồng đỏ (old: 713) lydo: Nhặt từ map at 03/13/2023 12:15 AM
+BAG:thaongan add 715xHoa hồng đỏ (old: 714) lydo: Nhặt từ map at 03/13/2023 12:15 AM
+BAG:thaongan add 68xViên Capsule kì bí (old: 67) lydo: Nhặt từ map at 03/13/2023 12:15 AM
+BAG:thaongan add 912xHoa hồng vàng (old: 911) lydo: Nhặt từ map at 03/13/2023 12:15 AM
+BAG:thaongan add 913xHoa hồng vàng (old: 912) lydo: Nhặt từ map at 03/13/2023 12:16 AM
+BAG:thaongan add 69xViên Capsule kì bí (old: 68) lydo: Nhặt từ map at 03/13/2023 12:16 AM
+BAG:thaongan add 70xViên Capsule kì bí (old: 69) lydo: Nhặt từ map at 03/13/2023 12:16 AM
+BAG:thaongan add 71xViên Capsule kì bí (old: 70) lydo: Nhặt từ map at 03/13/2023 12:16 AM
+BAG:thaongan add 5xNgọc Rồng 4 sao (old: 4) lydo: Nhặt từ map at 03/13/2023 12:16 AM
+BAG:thaongan add 658xHoa hồng xanh (old: 657) lydo: Nhặt từ map at 03/13/2023 12:16 AM
+BAG:thaongan add 659xHoa hồng xanh (old: 658) lydo: Nhặt từ map at 03/13/2023 12:16 AM
+BAG:thaongan add 6xNgọc Rồng 4 sao (old: 5) lydo: Nhặt từ map at 03/13/2023 12:16 AM
+BAG:thaongan add 72xViên Capsule kì bí (old: 71) lydo: Nhặt từ map at 03/13/2023 12:16 AM
+BAG:thaongan add 73xViên Capsule kì bí (old: 72) lydo: Nhặt từ map at 03/13/2023 12:16 AM
+BAG:thaongan add 716xHoa hồng đỏ (old: 715) lydo: Nhặt từ map at 03/13/2023 12:16 AM
+BAG:thaongan add 914xHoa hồng vàng (old: 913) lydo: Nhặt từ map at 03/13/2023 12:16 AM
+BAG:thaongan add 717xHoa hồng đỏ (old: 716) lydo: Nhặt từ map at 03/13/2023 12:16 AM
+BAG:thaongan add 718xHoa hồng đỏ (old: 717) lydo: Nhặt từ map at 03/13/2023 12:16 AM
+BAG:thaongan add 7xNgọc Rồng 4 sao (old: 6) lydo: Nhặt từ map at 03/13/2023 12:16 AM
+BAG:thaongan add 660xHoa hồng xanh (old: 659) lydo: Nhặt từ map at 03/13/2023 12:16 AM
+BAG:thaongan add 74xViên Capsule kì bí (old: 73) lydo: Nhặt từ map at 03/13/2023 12:16 AM
+BAG:thaongan add 915xHoa hồng vàng (old: 914) lydo: Nhặt từ map at 03/13/2023 12:16 AM
+BAG:thaongan add 75xViên Capsule kì bí (old: 74) lydo: Nhặt từ map at 03/13/2023 12:16 AM
+BAG:thaongan add 76xViên Capsule kì bí (old: 75) lydo: Nhặt từ map at 03/13/2023 12:16 AM
+BAG:thaongan add 77xViên Capsule kì bí (old: 76) lydo: Nhặt từ map at 03/13/2023 12:17 AM
+BAG:thaongan add 661xHoa hồng xanh (old: 660) lydo: Nhặt từ map at 03/13/2023 12:17 AM
+BAG:thaongan add 916xHoa hồng vàng (old: 915) lydo: Nhặt từ map at 03/13/2023 12:17 AM
+BAG:thaongan add 78xViên Capsule kì bí (old: 77) lydo: Nhặt từ map at 03/13/2023 12:17 AM
+BAG:thaongan add 662xHoa hồng xanh (old: 661) lydo: Nhặt từ map at 03/13/2023 12:17 AM
+BAG:thaongan add 79xViên Capsule kì bí (old: 78) lydo: Nhặt từ map at 03/13/2023 12:17 AM
+BAG:thaongan add 80xViên Capsule kì bí (old: 79) lydo: Nhặt từ map at 03/13/2023 12:17 AM
+BAG:thaongan add 663xHoa hồng xanh (old: 662) lydo: Nhặt từ map at 03/13/2023 12:17 AM
+BAG:thaongan add 664xHoa hồng xanh (old: 663) lydo: Nhặt từ map at 03/13/2023 12:17 AM
+BAG:thaongan add 81xViên Capsule kì bí (old: 80) lydo: Nhặt từ map at 03/13/2023 12:17 AM
+BAG:thaongan add 719xHoa hồng đỏ (old: 718) lydo: Nhặt từ map at 03/13/2023 12:17 AM
+BAG:thaongan add 82xViên Capsule kì bí (old: 81) lydo: Nhặt từ map at 03/13/2023 12:17 AM
+BAG:thaongan add 917xHoa hồng vàng (old: 916) lydo: Nhặt từ map at 03/13/2023 12:17 AM
+BAG:thaongan add 720xHoa hồng đỏ (old: 719) lydo: Nhặt từ map at 03/13/2023 12:17 AM
+BAG:thaongan add 918xHoa hồng vàng (old: 917) lydo: Nhặt từ map at 03/13/2023 12:18 AM
+BAG:thaongan add 721xHoa hồng đỏ (old: 720) lydo: Nhặt từ map at 03/13/2023 12:18 AM
+BAG:thaongan add 83xViên Capsule kì bí (old: 82) lydo: Nhặt từ map at 03/13/2023 12:18 AM
+BAG:thaongan add 919xHoa hồng vàng (old: 918) lydo: Nhặt từ map at 03/13/2023 12:18 AM
+BAG:thaongan add 920xHoa hồng vàng (old: 919) lydo: Nhặt từ map at 03/13/2023 12:18 AM
+BAG:thaongan add 84xViên Capsule kì bí (old: 83) lydo: Nhặt từ map at 03/13/2023 12:18 AM
+BAG:thaongan add 921xHoa hồng vàng (old: 920) lydo: Nhặt từ map at 03/13/2023 12:18 AM
+BAG:thaongan add 85xViên Capsule kì bí (old: 84) lydo: Nhặt từ map at 03/13/2023 12:18 AM
+BAG:thaongan add 86xViên Capsule kì bí (old: 85) lydo: Nhặt từ map at 03/13/2023 12:18 AM
+BAG:thaongan add 722xHoa hồng đỏ (old: 721) lydo: Nhặt từ map at 03/13/2023 12:18 AM
+BAG:thaongan add 87xViên Capsule kì bí (old: 86) lydo: Nhặt từ map at 03/13/2023 12:18 AM
+BAG:thaongan add 88xViên Capsule kì bí (old: 87) lydo: Nhặt từ map at 03/13/2023 12:18 AM
+BAG:thaongan add 89xViên Capsule kì bí (old: 88) lydo: Nhặt từ map at 03/13/2023 12:18 AM
+BAG:thaongan add 8xNgọc Rồng 4 sao (old: 7) lydo: Nhặt từ map at 03/13/2023 12:18 AM
+BAG:thaongan add 723xHoa hồng đỏ (old: 722) lydo: Nhặt từ map at 03/13/2023 12:18 AM
+BAG:thaongan add 922xHoa hồng vàng (old: 921) lydo: Nhặt từ map at 03/13/2023 12:18 AM
+BAG:thaongan add 923xHoa hồng vàng (old: 922) lydo: Nhặt từ map at 03/13/2023 12:18 AM
+BAG:thaongan add 924xHoa hồng vàng (old: 923) lydo: Nhặt từ map at 03/13/2023 12:18 AM
+BAG:thaongan add 1xĐá Titan lydo: Nhặt từ map at 03/13/2023 12:18 AM
+BAG:thaongan add 925xHoa hồng vàng (old: 924) lydo: Nhặt từ map at 03/13/2023 12:18 AM
+BAG:thaongan add 2xĐá Saphia (old: 1) lydo: Nhặt từ map at 03/13/2023 12:18 AM
+BAG:thaongan add 926xHoa hồng vàng (old: 925) lydo: Nhặt từ map at 03/13/2023 12:18 AM
+BAG:thaongan add 927xHoa hồng vàng (old: 926) lydo: Nhặt từ map at 03/13/2023 12:19 AM
+BAG:thaongan add 928xHoa hồng vàng (old: 927) lydo: Nhặt từ map at 03/13/2023 12:19 AM
+BAG:thaongan add 665xHoa hồng xanh (old: 664) lydo: Nhặt từ map at 03/13/2023 12:19 AM
+BAG:thaongan add 666xHoa hồng xanh (old: 665) lydo: Nhặt từ map at 03/13/2023 12:19 AM
+BAG:thaongan add 667xHoa hồng xanh (old: 666) lydo: Nhặt từ map at 03/13/2023 12:19 AM
+BAG:thaongan add 929xHoa hồng vàng (old: 928) lydo: Nhặt từ map at 03/13/2023 12:19 AM
+BAG:thaongan add 90xViên Capsule kì bí (old: 89) lydo: Nhặt từ map at 03/13/2023 12:19 AM
+BAG:thaongan add 724xHoa hồng đỏ (old: 723) lydo: Nhặt từ map at 03/13/2023 12:19 AM
+BAG:thaongan add 930xHoa hồng vàng (old: 929) lydo: Nhặt từ map at 03/13/2023 12:19 AM
+BAG:thaongan add 725xHoa hồng đỏ (old: 724) lydo: Nhặt từ map at 03/13/2023 12:19 AM
+BAG:thaongan add 931xHoa hồng vàng (old: 930) lydo: Nhặt từ map at 03/13/2023 12:19 AM
+BAG:thaongan add 726xHoa hồng đỏ (old: 725) lydo: Nhặt từ map at 03/13/2023 12:19 AM
+BAG:thaongan add 932xHoa hồng vàng (old: 931) lydo: Nhặt từ map at 03/13/2023 12:19 AM
+BAG:thaongan add 727xHoa hồng đỏ (old: 726) lydo: Nhặt từ map at 03/13/2023 12:19 AM
+BAG:thaongan add 91xViên Capsule kì bí (old: 90) lydo: Nhặt từ map at 03/13/2023 12:19 AM
+BAG:thaongan add 668xHoa hồng xanh (old: 667) lydo: Nhặt từ map at 03/13/2023 12:19 AM
+BAG:thaongan add 92xViên Capsule kì bí (old: 91) lydo: Nhặt từ map at 03/13/2023 12:19 AM
+BAG:thaongan add 669xHoa hồng xanh (old: 668) lydo: Nhặt từ map at 03/13/2023 12:19 AM
+BAG:thaongan add 93xViên Capsule kì bí (old: 92) lydo: Nhặt từ map at 03/13/2023 12:19 AM
+BAG:thaongan add 94xViên Capsule kì bí (old: 93) lydo: Nhặt từ map at 03/13/2023 12:20 AM
+BAG:thaongan add 95xViên Capsule kì bí (old: 94) lydo: Nhặt từ map at 03/13/2023 12:20 AM
+BAG:thaongan add 933xHoa hồng vàng (old: 932) lydo: Nhặt từ map at 03/13/2023 12:20 AM
+BAG:thaongan add 96xViên Capsule kì bí (old: 95) lydo: Nhặt từ map at 03/13/2023 12:20 AM
+BAG:thaongan add 728xHoa hồng đỏ (old: 727) lydo: Nhặt từ map at 03/13/2023 12:20 AM
+BAG:thaongan add 97xViên Capsule kì bí (old: 96) lydo: Nhặt từ map at 03/13/2023 12:20 AM
+BAG:thaongan add 934xHoa hồng vàng (old: 933) lydo: Nhặt từ map at 03/13/2023 12:20 AM
+BAG:thaongan add 729xHoa hồng đỏ (old: 728) lydo: Nhặt từ map at 03/13/2023 12:20 AM
+BAG:thaongan add 730xHoa hồng đỏ (old: 729) lydo: Nhặt từ map at 03/13/2023 12:20 AM
+BAG:thaongan add 98xViên Capsule kì bí (old: 97) lydo: Nhặt từ map at 03/13/2023 12:20 AM
+BAG:thaongan add 731xHoa hồng đỏ (old: 730) lydo: Nhặt từ map at 03/13/2023 12:20 AM
+BAG:thaongan add 670xHoa hồng xanh (old: 669) lydo: Nhặt từ map at 03/13/2023 12:20 AM
+BAG:thaongan add 99xViên Capsule kì bí (old: 98) lydo: Nhặt từ map at 03/13/2023 12:20 AM
+BAG:thaongan add 1xẨn danh lydo: CSKB at 03/13/2023 12:20 AM
+BAG:thaongan add 2xẨn danh (old: 1) lydo: CSKB at 03/13/2023 12:20 AM
+BAG:thaongan add 97xViên Capsule kì bí (old: 96) lydo: Nhặt từ map at 03/13/2023 12:20 AM
+BAG:thaongan add 9xNgọc Rồng 4 sao (old: 8) lydo: Nhặt từ map at 03/13/2023 12:20 AM
+BAG:thaongan add 95xViên Capsule kì bí (old: 94) lydo: Nhặt từ map at 03/13/2023 12:20 AM
+BAG:thaongan add 12xCuồng nộ (old: 11) lydo: CSKB at 03/13/2023 12:20 AM
+BAG:thaongan add 10xNgọc Rồng 4 sao (old: 9) lydo: Nhặt từ map at 03/13/2023 12:20 AM
+BAG:thaongan add 3xẨn danh (old: 2) lydo: CSKB at 03/13/2023 12:20 AM
+BAG:thaongan add 732xHoa hồng đỏ (old: 731) lydo: Nhặt từ map at 03/13/2023 12:20 AM
+BAG:thaongan add 4xẨn danh (old: 3) lydo: CSKB at 03/13/2023 12:20 AM
+BAG:thaongan add 733xHoa hồng đỏ (old: 732) lydo: Nhặt từ map at 03/13/2023 12:20 AM
+BAG:thaongan add 1xNgọc Rồng 5 sao lydo: Nhặt từ map at 03/13/2023 12:21 AM
+BAG:thaongan add 935xHoa hồng vàng (old: 934) lydo: Nhặt từ map at 03/13/2023 12:21 AM
+BAG:thaongan add 1xBổ khí lydo: CSKB at 03/13/2023 12:21 AM
+BAG:thaongan add 1xĐá lục bảo lydo: Nhặt từ map at 03/13/2023 12:21 AM
+BAG:thaongan add 82xViên Capsule kì bí (old: 81) lydo: Nhặt từ map at 03/13/2023 12:21 AM
+BAG:thaongan add 13xCuồng nộ (old: 12) lydo: CSKB at 03/13/2023 12:21 AM
+BAG:thaongan add 80xViên Capsule kì bí (old: 79) lydo: Nhặt từ map at 03/13/2023 12:21 AM
+BAG:thaongan add 1xẨn danh lydo: CSKB at 03/13/2023 12:21 AM
+BAG:thaongan add 1xBổ khí lydo: CSKB at 03/13/2023 12:21 AM
+BAG:thaongan add 73xViên Capsule kì bí (old: 72) lydo: Nhặt từ map at 03/13/2023 12:21 AM
+BAG:thaongan add 734xHoa hồng đỏ (old: 733) lydo: Nhặt từ map at 03/13/2023 12:21 AM
+BAG:thaongan add 936xHoa hồng vàng (old: 935) lydo: Nhặt từ map at 03/13/2023 12:21 AM
+BAG:thaongan add 2xẨn danh (old: 1) lydo: CSKB at 03/13/2023 12:21 AM
+BAG:thaongan add 11xBổ huyết (old: 10) lydo: CSKB at 03/13/2023 12:21 AM
+BAG:thaongan add 14xCuồng nộ (old: 13) lydo: CSKB at 03/13/2023 12:21 AM
+BAG:thaongan add 61xViên Capsule kì bí (old: 60) lydo: Nhặt từ map at 03/13/2023 12:21 AM
+BAG:thaongan add 671xHoa hồng xanh (old: 670) lydo: Nhặt từ map at 03/13/2023 12:21 AM
+BAG:thaongan add 58xViên Capsule kì bí (old: 57) lydo: Nhặt từ map at 03/13/2023 12:21 AM
+BAG:thaongan add 3xẨn danh (old: 2) lydo: CSKB at 03/13/2023 12:21 AM
+BAG:thaongan add 672xHoa hồng xanh (old: 671) lydo: Nhặt từ map at 03/13/2023 12:21 AM
+BAG:thaongan add 54xViên Capsule kì bí (old: 53) lydo: Nhặt từ map at 03/13/2023 12:21 AM
+BAG:thaongan add 4xẨn danh (old: 3) lydo: CSKB at 03/13/2023 12:21 AM
+BAG:thaongan add 53xViên Capsule kì bí (old: 52) lydo: Nhặt từ map at 03/13/2023 12:21 AM
+BAG:thaongan add 15xCuồng nộ (old: 14) lydo: CSKB at 03/13/2023 12:21 AM
+BAG:thaongan add 5xẨn danh (old: 4) lydo: CSKB at 03/13/2023 12:21 AM
+BAG:thaongan add 2xBổ khí (old: 1) lydo: CSKB at 03/13/2023 12:21 AM
+BAG:thaongan add 47xViên Capsule kì bí (old: 46) lydo: Nhặt từ map at 03/13/2023 12:21 AM
+BAG:thaongan add 6xẨn danh (old: 5) lydo: CSKB at 03/13/2023 12:21 AM
+BAG:thaongan add 735xHoa hồng đỏ (old: 734) lydo: Nhặt từ map at 03/13/2023 12:21 AM
+BAG:thaongan add 7xẨn danh (old: 6) lydo: CSKB at 03/13/2023 12:21 AM
+BAG:thaongan add 937xHoa hồng vàng (old: 936) lydo: Nhặt từ map at 03/13/2023 12:22 AM
+BAG:thaongan add 16xCuồng nộ (old: 15) lydo: CSKB at 03/13/2023 12:22 AM
+BAG:thaongan add 33xViên Capsule kì bí (old: 32) lydo: Nhặt từ map at 03/13/2023 12:22 AM
+BAG:thaongan add 673xHoa hồng xanh (old: 672) lydo: Nhặt từ map at 03/13/2023 12:22 AM
+BAG:thaongan add 17xCuồng nộ (old: 16) lydo: CSKB at 03/13/2023 12:22 AM
+BAG:thaongan add 8xẨn danh (old: 7) lydo: CSKB at 03/13/2023 12:22 AM
+BAG:thaongan add 9xẨn danh (old: 8) lydo: CSKB at 03/13/2023 12:22 AM
+BAG:thaongan add 22xViên Capsule kì bí (old: 21) lydo: Nhặt từ map at 03/13/2023 12:22 AM
+BAG:thaongan add 22xViên Capsule kì bí (old: 21) lydo: Nhặt từ map at 03/13/2023 12:22 AM
+BAG:thaongan add 21xViên Capsule kì bí (old: 20) lydo: Nhặt từ map at 03/13/2023 12:22 AM
+BAG:thaongan add 674xHoa hồng xanh (old: 673) lydo: Nhặt từ map at 03/13/2023 12:22 AM
+BAG:thaongan add 10xẨn danh (old: 9) lydo: CSKB at 03/13/2023 12:22 AM
+BAG:thaongan add 736xHoa hồng đỏ (old: 735) lydo: Nhặt từ map at 03/13/2023 12:22 AM
+BAG:thaongan add 3xBổ khí (old: 2) lydo: CSKB at 03/13/2023 12:22 AM
+BAG:thaongan add 15xViên Capsule kì bí (old: 14) lydo: Nhặt từ map at 03/13/2023 12:22 AM
+BAG:thaongan add 737xHoa hồng đỏ (old: 736) lydo: Nhặt từ map at 03/13/2023 12:22 AM
+BAG:thaongan add 675xHoa hồng xanh (old: 674) lydo: Nhặt từ map at 03/13/2023 12:22 AM
+BAG:thaongan add 676xHoa hồng xanh (old: 675) lydo: Nhặt từ map at 03/13/2023 12:22 AM
+BAG:thaongan add 4xBổ khí (old: 3) lydo: CSKB at 03/13/2023 12:22 AM
+BAG:thaongan add 677xHoa hồng xanh (old: 676) lydo: Nhặt từ map at 03/13/2023 12:22 AM
+BAG:thaongan add 1xViên Capsule kì bí lydo: Nhặt từ map at 03/13/2023 12:22 AM
+BAG:thaongan add 938xHoa hồng vàng (old: 937) lydo: Nhặt từ map at 03/13/2023 12:22 AM
+BAG:thaongan add 2xViên Capsule kì bí (old: 1) lydo: Nhặt từ map at 03/13/2023 12:22 AM
+BAG:thaongan add 3xViên Capsule kì bí (old: 2) lydo: Nhặt từ map at 03/13/2023 12:22 AM
+BAG:thaongan add 4xViên Capsule kì bí (old: 3) lydo: Nhặt từ map at 03/13/2023 12:22 AM
+BAG:thaongan add 738xHoa hồng đỏ (old: 737) lydo: Nhặt từ map at 03/13/2023 12:22 AM
+BAG:thaongan add 5xViên Capsule kì bí (old: 4) lydo: Nhặt từ map at 03/13/2023 12:23 AM
+BAG:thaongan add 678xHoa hồng xanh (old: 677) lydo: Nhặt từ map at 03/13/2023 12:23 AM
+BAG:thaongan add 739xHoa hồng đỏ (old: 738) lydo: Nhặt từ map at 03/13/2023 12:23 AM
+BAG:thaongan add 939xHoa hồng vàng (old: 938) lydo: Nhặt từ map at 03/13/2023 12:23 AM
+BAG:thaongan add 3xNgọc Rồng 6 sao (old: 2) lydo: Nhặt từ map at 03/13/2023 12:23 AM
+BAG:thaongan add 940xHoa hồng vàng (old: 939) lydo: Nhặt từ map at 03/13/2023 12:23 AM
+BAG:thaongan add 740xHoa hồng đỏ (old: 739) lydo: Nhặt từ map at 03/13/2023 12:23 AM
+BAG:thaongan add 6xViên Capsule kì bí (old: 5) lydo: Nhặt từ map at 03/13/2023 12:23 AM
+BAG:thaongan add 1xĐá Ruby lydo: Nhặt từ map at 03/13/2023 12:23 AM
+BAG:thaongan add 741xHoa hồng đỏ (old: 740) lydo: Nhặt từ map at 03/13/2023 12:23 AM
+BAG:thaongan add 4xNgọc Rồng 6 sao (old: 3) lydo: Nhặt từ map at 03/13/2023 12:23 AM
+BAG:thaongan add 7xViên Capsule kì bí (old: 6) lydo: Nhặt từ map at 03/13/2023 12:23 AM
+BAG:thaongan add 742xHoa hồng đỏ (old: 741) lydo: Nhặt từ map at 03/13/2023 12:23 AM
+BAG:thaongan add 8xViên Capsule kì bí (old: 7) lydo: Nhặt từ map at 03/13/2023 12:23 AM
+BAG:thaongan add 9xViên Capsule kì bí (old: 8) lydo: Nhặt từ map at 03/13/2023 12:23 AM
+BAG:thaongan add 743xHoa hồng đỏ (old: 742) lydo: Nhặt từ map at 03/13/2023 12:23 AM
+BAG:thaongan add 941xHoa hồng vàng (old: 940) lydo: Nhặt từ map at 03/13/2023 12:23 AM
+BAG:thaongan add 10xViên Capsule kì bí (old: 9) lydo: Nhặt từ map at 03/13/2023 12:23 AM
+BAG:thaongan add 11xViên Capsule kì bí (old: 10) lydo: Nhặt từ map at 03/13/2023 12:23 AM
+BAG:thaongan add 12xViên Capsule kì bí (old: 11) lydo: Nhặt từ map at 03/13/2023 12:23 AM
+BAG:thaongan add 679xHoa hồng xanh (old: 678) lydo: Nhặt từ map at 03/13/2023 12:24 AM
+BAG:thaongan add 942xHoa hồng vàng (old: 941) lydo: Nhặt từ map at 03/13/2023 12:24 AM
+BAG:thaongan add 744xHoa hồng đỏ (old: 743) lydo: Nhặt từ map at 03/13/2023 12:24 AM
+BAG:thaongan add 13xViên Capsule kì bí (old: 12) lydo: Nhặt từ map at 03/13/2023 12:24 AM
+BAG:thaongan add 14xViên Capsule kì bí (old: 13) lydo: Nhặt từ map at 03/13/2023 12:24 AM
+BAG:thaongan add 680xHoa hồng xanh (old: 679) lydo: Nhặt từ map at 03/13/2023 12:24 AM
+BAG:thaongan add 943xHoa hồng vàng (old: 942) lydo: Nhặt từ map at 03/13/2023 12:24 AM
+BAG:thaongan add 15xViên Capsule kì bí (old: 14) lydo: Nhặt từ map at 03/13/2023 12:24 AM
+BAG:thaongan add 16xViên Capsule kì bí (old: 15) lydo: Nhặt từ map at 03/13/2023 12:24 AM
+BAG:thaongan add 681xHoa hồng xanh (old: 680) lydo: Nhặt từ map at 03/13/2023 12:24 AM
+BAG:thaongan add 17xViên Capsule kì bí (old: 16) lydo: Nhặt từ map at 03/13/2023 12:24 AM
+BAG:thaongan add 944xHoa hồng vàng (old: 943) lydo: Nhặt từ map at 03/13/2023 12:24 AM
+BAG:thaongan add 945xHoa hồng vàng (old: 944) lydo: Nhặt từ map at 03/13/2023 12:25 AM
+BAG:thaongan add 1xĐá Titan lydo: Nhặt từ map at 03/13/2023 12:25 AM
+BAG:thaongan add 682xHoa hồng xanh (old: 681) lydo: Nhặt từ map at 03/13/2023 12:25 AM
+BAG:thaongan add 683xHoa hồng xanh (old: 682) lydo: Nhặt từ map at 03/13/2023 12:25 AM
+BAG:thaongan add 18xViên Capsule kì bí (old: 17) lydo: Nhặt từ map at 03/13/2023 12:25 AM
+BAG:thaongan add 946xHoa hồng vàng (old: 945) lydo: Nhặt từ map at 03/13/2023 12:25 AM
+BAG:thaongan add 745xHoa hồng đỏ (old: 744) lydo: Nhặt từ map at 03/13/2023 12:25 AM
+BAG:thaongan add 19xViên Capsule kì bí (old: 18) lydo: Nhặt từ map at 03/13/2023 12:25 AM
+BAG:thaongan add 746xHoa hồng đỏ (old: 745) lydo: Nhặt từ map at 03/13/2023 12:25 AM
+BAG:thaongan add 20xViên Capsule kì bí (old: 19) lydo: Nhặt từ map at 03/13/2023 12:25 AM
+BAG:thaongan add 21xViên Capsule kì bí (old: 20) lydo: Nhặt từ map at 03/13/2023 12:25 AM
+BAG:thaongan add 22xViên Capsule kì bí (old: 21) lydo: Nhặt từ map at 03/13/2023 12:25 AM
+BAG:thaongan add 747xHoa hồng đỏ (old: 746) lydo: Nhặt từ map at 03/13/2023 12:25 AM
+BAG:thaongan add 748xHoa hồng đỏ (old: 747) lydo: Nhặt từ map at 03/13/2023 12:25 AM
+BAG:thaongan add 947xHoa hồng vàng (old: 946) lydo: Nhặt từ map at 03/13/2023 12:25 AM
+BAG:thaongan add 23xViên Capsule kì bí (old: 22) lydo: Nhặt từ map at 03/13/2023 12:25 AM
+BAG:thaongan add 948xHoa hồng vàng (old: 947) lydo: Nhặt từ map at 03/13/2023 12:26 AM
+BAG:thaongan add 24xViên Capsule kì bí (old: 23) lydo: Nhặt từ map at 03/13/2023 12:26 AM
+BAG:thaongan add 749xHoa hồng đỏ (old: 748) lydo: Nhặt từ map at 03/13/2023 12:26 AM
+BAG:thaongan add 25xViên Capsule kì bí (old: 24) lydo: Nhặt từ map at 03/13/2023 12:26 AM
+BAG:thaongan add 949xHoa hồng vàng (old: 948) lydo: Nhặt từ map at 03/13/2023 12:26 AM
+BAG:thaongan add 684xHoa hồng xanh (old: 683) lydo: Nhặt từ map at 03/13/2023 12:26 AM
+BAG:thaongan add 11xNgọc Rồng 4 sao (old: 10) lydo: Nhặt từ map at 03/13/2023 12:26 AM
+BAG:thaongan add 12xNgọc Rồng 4 sao (old: 11) lydo: Nhặt từ map at 03/13/2023 12:26 AM
+BAG:thaongan add 26xViên Capsule kì bí (old: 25) lydo: Nhặt từ map at 03/13/2023 12:26 AM
+BAG:thaongan add 27xViên Capsule kì bí (old: 26) lydo: Nhặt từ map at 03/13/2023 12:26 AM
+BAG:thaongan add 28xViên Capsule kì bí (old: 27) lydo: Nhặt từ map at 03/13/2023 12:26 AM
+BAG:thaongan add 29xViên Capsule kì bí (old: 28) lydo: Nhặt từ map at 03/13/2023 12:26 AM
+BAG:thaongan add 30xViên Capsule kì bí (old: 29) lydo: Nhặt từ map at 03/13/2023 12:26 AM
+BAG:thaongan add 950xHoa hồng vàng (old: 949) lydo: Nhặt từ map at 03/13/2023 12:26 AM
+BAG:thaongan add 685xHoa hồng xanh (old: 684) lydo: Nhặt từ map at 03/13/2023 12:26 AM
+BAG:thaongan add 13xNgọc Rồng 4 sao (old: 12) lydo: Nhặt từ map at 03/13/2023 12:26 AM
+BAG:thaongan add 31xViên Capsule kì bí (old: 30) lydo: Nhặt từ map at 03/13/2023 12:26 AM
+BAG:thaongan add 750xHoa hồng đỏ (old: 749) lydo: Nhặt từ map at 03/13/2023 12:27 AM
+BAG:thaongan add 686xHoa hồng xanh (old: 685) lydo: Nhặt từ map at 03/13/2023 12:27 AM
+BAG:thaongan add 751xHoa hồng đỏ (old: 750) lydo: Nhặt từ map at 03/13/2023 12:27 AM
+BAG:thaongan add 687xHoa hồng xanh (old: 686) lydo: Nhặt từ map at 03/13/2023 12:27 AM
+BAG:thaongan add 688xHoa hồng xanh (old: 687) lydo: Nhặt từ map at 03/13/2023 12:27 AM
+BAG:thaongan add 752xHoa hồng đỏ (old: 751) lydo: Nhặt từ map at 03/13/2023 12:27 AM
+BAG:thaongan add 32xViên Capsule kì bí (old: 31) lydo: Nhặt từ map at 03/13/2023 12:27 AM
+BAG:thaongan add 689xHoa hồng xanh (old: 688) lydo: Nhặt từ map at 03/13/2023 12:27 AM
+BAG:thaongan add 33xViên Capsule kì bí (old: 32) lydo: Nhặt từ map at 03/13/2023 12:27 AM
+BAG:thaongan add 753xHoa hồng đỏ (old: 752) lydo: Nhặt từ map at 03/13/2023 12:27 AM
+BAG:thaongan add 690xHoa hồng xanh (old: 689) lydo: Nhặt từ map at 03/13/2023 12:27 AM
+BAG:thaongan add 754xHoa hồng đỏ (old: 753) lydo: Nhặt từ map at 03/13/2023 12:27 AM
+BAG:thaongan add 34xViên Capsule kì bí (old: 33) lydo: Nhặt từ map at 03/13/2023 12:27 AM
+BAG:thaongan add 35xViên Capsule kì bí (old: 34) lydo: Nhặt từ map at 03/13/2023 12:27 AM
+BAG:thaongan add 1xĐá lục bảo lydo: Nhặt từ map at 03/13/2023 12:27 AM
+BAG:thaongan add 36xViên Capsule kì bí (old: 35) lydo: Nhặt từ map at 03/13/2023 12:27 AM
+BAG:thaongan add 37xViên Capsule kì bí (old: 36) lydo: Nhặt từ map at 03/13/2023 12:27 AM
+BAG:thaongan add 38xViên Capsule kì bí (old: 37) lydo: Nhặt từ map at 03/13/2023 12:27 AM
+BAG:thaongan add 755xHoa hồng đỏ (old: 754) lydo: Nhặt từ map at 03/13/2023 12:27 AM
+BAG:thaongan add 39xViên Capsule kì bí (old: 38) lydo: Nhặt từ map at 03/13/2023 12:27 AM
+BAG:thaongan add 756xHoa hồng đỏ (old: 755) lydo: Nhặt từ map at 03/13/2023 12:28 AM
+BAG:thaongan add 691xHoa hồng xanh (old: 690) lydo: Nhặt từ map at 03/13/2023 12:28 AM
+BAG:thaongan add 1xĐá Ruby lydo: Nhặt từ map at 03/13/2023 12:28 AM
+BAG:thaongan add 40xViên Capsule kì bí (old: 39) lydo: Nhặt từ map at 03/13/2023 12:28 AM
+BAG:thaongan add 41xViên Capsule kì bí (old: 40) lydo: Nhặt từ map at 03/13/2023 12:28 AM
+BAG:thaongan add 757xHoa hồng đỏ (old: 756) lydo: Nhặt từ map at 03/13/2023 12:28 AM
+BAG:thaongan add 2xĐá lục bảo (old: 1) lydo: Nhặt từ map at 03/13/2023 12:28 AM
+BAG:thaongan add 758xHoa hồng đỏ (old: 757) lydo: Nhặt từ map at 03/13/2023 12:28 AM
+BAG:thaongan add 692xHoa hồng xanh (old: 691) lydo: Nhặt từ map at 03/13/2023 12:28 AM
+BAG:thaongan add 42xViên Capsule kì bí (old: 41) lydo: Nhặt từ map at 03/13/2023 12:28 AM
+BAG:thaongan add 759xHoa hồng đỏ (old: 758) lydo: Nhặt từ map at 03/13/2023 12:28 AM
+BAG:thaongan add 693xHoa hồng xanh (old: 692) lydo: Nhặt từ map at 03/13/2023 12:28 AM
+BAG:thaongan add 694xHoa hồng xanh (old: 693) lydo: Nhặt từ map at 03/13/2023 12:28 AM
+BAG:thaongan add 43xViên Capsule kì bí (old: 42) lydo: Nhặt từ map at 03/13/2023 12:28 AM
+BAG:thaongan add 951xHoa hồng vàng (old: 950) lydo: Nhặt từ map at 03/13/2023 12:28 AM
+BAG:thaongan add 952xHoa hồng vàng (old: 951) lydo: Nhặt từ map at 03/13/2023 12:28 AM
+BAG:thaongan add 44xViên Capsule kì bí (old: 43) lydo: Nhặt từ map at 03/13/2023 12:28 AM
+BAG:thaongan add 45xViên Capsule kì bí (old: 44) lydo: Nhặt từ map at 03/13/2023 12:28 AM
+BAG:thaongan add 46xViên Capsule kì bí (old: 45) lydo: Nhặt từ map at 03/13/2023 12:29 AM
+BAG:thaongan add 47xViên Capsule kì bí (old: 46) lydo: Nhặt từ map at 03/13/2023 12:29 AM
+BAG:thaongan add 48xViên Capsule kì bí (old: 47) lydo: Nhặt từ map at 03/13/2023 12:29 AM
+BAG:thaongan add 695xHoa hồng xanh (old: 694) lydo: Nhặt từ map at 03/13/2023 12:29 AM
+BAG:thaongan add 49xViên Capsule kì bí (old: 48) lydo: Nhặt từ map at 03/13/2023 12:29 AM
+BAG:thaongan add 50xViên Capsule kì bí (old: 49) lydo: Nhặt từ map at 03/13/2023 12:29 AM
+BAG:thaongan add 696xHoa hồng xanh (old: 695) lydo: Nhặt từ map at 03/13/2023 12:29 AM
+BAG:thaongan add 51xViên Capsule kì bí (old: 50) lydo: Nhặt từ map at 03/13/2023 12:29 AM
+BAG:thaongan add 52xViên Capsule kì bí (old: 51) lydo: Nhặt từ map at 03/13/2023 12:29 AM
+BAG:thaongan add 53xViên Capsule kì bí (old: 52) lydo: Nhặt từ map at 03/13/2023 12:29 AM
+BAG:thaongan add 760xHoa hồng đỏ (old: 759) lydo: Nhặt từ map at 03/13/2023 12:29 AM
+BAG:thaongan add 54xViên Capsule kì bí (old: 53) lydo: Nhặt từ map at 03/13/2023 12:29 AM
+BAG:thaongan add 55xViên Capsule kì bí (old: 54) lydo: Nhặt từ map at 03/13/2023 12:29 AM
+BAG:thaongan add 953xHoa hồng vàng (old: 952) lydo: Nhặt từ map at 03/13/2023 12:29 AM
+BAG:thaongan add 56xViên Capsule kì bí (old: 55) lydo: Nhặt từ map at 03/13/2023 12:29 AM
+BAG:thaongan add 761xHoa hồng đỏ (old: 760) lydo: Nhặt từ map at 03/13/2023 12:29 AM
+BAG:thaongan add 762xHoa hồng đỏ (old: 761) lydo: Nhặt từ map at 03/13/2023 12:29 AM
+BAG:thaongan add 954xHoa hồng vàng (old: 953) lydo: Nhặt từ map at 03/13/2023 12:29 AM
+BAG:thaongan add 763xHoa hồng đỏ (old: 762) lydo: Nhặt từ map at 03/13/2023 12:29 AM
+BAG:thaongan add 764xHoa hồng đỏ (old: 763) lydo: Nhặt từ map at 03/13/2023 12:30 AM
+BAG:thaongan add 765xHoa hồng đỏ (old: 764) lydo: Nhặt từ map at 03/13/2023 12:30 AM
+BAG:thaongan add 766xHoa hồng đỏ (old: 765) lydo: Nhặt từ map at 03/13/2023 12:30 AM
+BAG:thaongan add 1xĐá thạch anh tím lydo: Nhặt từ map at 03/13/2023 12:30 AM
+BAG:thaongan add 697xHoa hồng xanh (old: 696) lydo: Nhặt từ map at 03/13/2023 12:30 AM
+BAG:thaongan add 955xHoa hồng vàng (old: 954) lydo: Nhặt từ map at 03/13/2023 12:30 AM
+BAG:thaongan add 956xHoa hồng vàng (old: 955) lydo: Nhặt từ map at 03/13/2023 12:30 AM
+BAG:thaongan add 57xViên Capsule kì bí (old: 56) lydo: Nhặt từ map at 03/13/2023 12:30 AM
+BAG:thaongan add 698xHoa hồng xanh (old: 697) lydo: Nhặt từ map at 03/13/2023 12:30 AM
+BAG:thaongan add 699xHoa hồng xanh (old: 698) lydo: Nhặt từ map at 03/13/2023 12:30 AM
+BAG:thaongan add 700xHoa hồng xanh (old: 699) lydo: Nhặt từ map at 03/13/2023 12:30 AM
+BAG:thaongan add 701xHoa hồng xanh (old: 700) lydo: Nhặt từ map at 03/13/2023 12:30 AM
+BAG:thaongan add 957xHoa hồng vàng (old: 956) lydo: Nhặt từ map at 03/13/2023 12:30 AM
+BAG:thaongan add 702xHoa hồng xanh (old: 701) lydo: Nhặt từ map at 03/13/2023 12:30 AM
+BAG:thaongan add 2xĐá thạch anh tím (old: 1) lydo: Nhặt từ map at 03/13/2023 12:30 AM
+BAG:thaongan add 703xHoa hồng xanh (old: 702) lydo: Nhặt từ map at 03/13/2023 12:30 AM
+BAG:thaongan add 704xHoa hồng xanh (old: 703) lydo: Nhặt từ map at 03/13/2023 12:30 AM
+BAG:thaongan add 767xHoa hồng đỏ (old: 766) lydo: Nhặt từ map at 03/13/2023 12:30 AM
+BAG:thaongan add 58xViên Capsule kì bí (old: 57) lydo: Nhặt từ map at 03/13/2023 12:30 AM
+BAG:thaongan add 59xViên Capsule kì bí (old: 58) lydo: Nhặt từ map at 03/13/2023 12:30 AM
+BAG:thaongan add 60xViên Capsule kì bí (old: 59) lydo: Nhặt từ map at 03/13/2023 12:30 AM
+BAG:thaongan add 768xHoa hồng đỏ (old: 767) lydo: Nhặt từ map at 03/13/2023 12:31 AM
+BAG:thaongan add 61xViên Capsule kì bí (old: 60) lydo: Nhặt từ map at 03/13/2023 12:31 AM
+BAG:thaongan add 62xViên Capsule kì bí (old: 61) lydo: Nhặt từ map at 03/13/2023 12:31 AM
+BAG:thaongan add 958xHoa hồng vàng (old: 957) lydo: Nhặt từ map at 03/13/2023 12:31 AM
+BAG:thaongan add 959xHoa hồng vàng (old: 958) lydo: Nhặt từ map at 03/13/2023 12:31 AM
+BAG:thaongan add 960xHoa hồng vàng (old: 959) lydo: Nhặt từ map at 03/13/2023 12:31 AM
+BAG:thaongan add 63xViên Capsule kì bí (old: 62) lydo: Nhặt từ map at 03/13/2023 12:31 AM
+BAG:thaongan add 961xHoa hồng vàng (old: 960) lydo: Nhặt từ map at 03/13/2023 12:31 AM
+BAG:thaongan add 962xHoa hồng vàng (old: 961) lydo: Nhặt từ map at 03/13/2023 12:31 AM
+BAG:thaongan add 705xHoa hồng xanh (old: 704) lydo: Nhặt từ map at 03/13/2023 12:31 AM
+BAG:thaongan add 769xHoa hồng đỏ (old: 768) lydo: Nhặt từ map at 03/13/2023 12:31 AM
+BAG:thaongan add 706xHoa hồng xanh (old: 705) lydo: Nhặt từ map at 03/13/2023 12:31 AM
+BAG:thaongan add 64xViên Capsule kì bí (old: 63) lydo: Nhặt từ map at 03/13/2023 12:31 AM
+BAG:thaongan add 770xHoa hồng đỏ (old: 769) lydo: Nhặt từ map at 03/13/2023 12:31 AM
+BAG:thaongan add 707xHoa hồng xanh (old: 706) lydo: Nhặt từ map at 03/13/2023 12:31 AM
+BAG:thaongan add 65xViên Capsule kì bí (old: 64) lydo: Nhặt từ map at 03/13/2023 12:31 AM
+BAG:thaongan add 66xViên Capsule kì bí (old: 65) lydo: Nhặt từ map at 03/13/2023 12:31 AM
+BAG:thaongan add 67xViên Capsule kì bí (old: 66) lydo: Nhặt từ map at 03/13/2023 12:31 AM
+BAG:thaongan add 68xViên Capsule kì bí (old: 67) lydo: Nhặt từ map at 03/13/2023 12:32 AM
+BAG:thaongan add 69xViên Capsule kì bí (old: 68) lydo: Nhặt từ map at 03/13/2023 12:32 AM
+BAG:thaongan add 70xViên Capsule kì bí (old: 69) lydo: Nhặt từ map at 03/13/2023 12:32 AM
+BAG:thaongan add 71xViên Capsule kì bí (old: 70) lydo: Nhặt từ map at 03/13/2023 12:32 AM
+BAG:thaongan add 963xHoa hồng vàng (old: 962) lydo: Nhặt từ map at 03/13/2023 12:32 AM
+BAG:thaongan add 964xHoa hồng vàng (old: 963) lydo: Nhặt từ map at 03/13/2023 12:32 AM
+BAG:thaongan add 72xViên Capsule kì bí (old: 71) lydo: Nhặt từ map at 03/13/2023 12:32 AM
+BAG:thaongan add 73xViên Capsule kì bí (old: 72) lydo: Nhặt từ map at 03/13/2023 12:32 AM
+BAG:thaongan add 771xHoa hồng đỏ (old: 770) lydo: Nhặt từ map at 03/13/2023 12:32 AM
+BAG:thaongan add 965xHoa hồng vàng (old: 964) lydo: Nhặt từ map at 03/13/2023 12:32 AM
+BAG:thaongan add 966xHoa hồng vàng (old: 965) lydo: Nhặt từ map at 03/13/2023 12:32 AM
+BAG:thaongan add 772xHoa hồng đỏ (old: 771) lydo: Nhặt từ map at 03/13/2023 12:32 AM
+BAG:thaongan add 708xHoa hồng xanh (old: 707) lydo: Nhặt từ map at 03/13/2023 12:32 AM
+BAG:thaongan add 74xViên Capsule kì bí (old: 73) lydo: Nhặt từ map at 03/13/2023 12:32 AM
+BAG:thaongan add 2xNgọc Rồng 5 sao (old: 1) lydo: Nhặt từ map at 03/13/2023 12:32 AM
+BAG:thaongan add 773xHoa hồng đỏ (old: 772) lydo: Nhặt từ map at 03/13/2023 12:32 AM
+BAG:thaongan add 967xHoa hồng vàng (old: 966) lydo: Nhặt từ map at 03/13/2023 12:32 AM
+BAG:thaongan add 774xHoa hồng đỏ (old: 773) lydo: Nhặt từ map at 03/13/2023 12:32 AM
+BAG:thaongan add 75xViên Capsule kì bí (old: 74) lydo: Nhặt từ map at 03/13/2023 12:32 AM
+BAG:thaongan add 76xViên Capsule kì bí (old: 75) lydo: Nhặt từ map at 03/13/2023 12:32 AM
+BAG:thaongan add 709xHoa hồng xanh (old: 708) lydo: Nhặt từ map at 03/13/2023 12:33 AM
+BAG:thaongan add 775xHoa hồng đỏ (old: 774) lydo: Nhặt từ map at 03/13/2023 12:33 AM
+BAG:thaongan add 77xViên Capsule kì bí (old: 76) lydo: Nhặt từ map at 03/13/2023 12:33 AM
+BAG:thaongan add 78xViên Capsule kì bí (old: 77) lydo: Nhặt từ map at 03/13/2023 12:33 AM
+BAG:thaongan add 79xViên Capsule kì bí (old: 78) lydo: Nhặt từ map at 03/13/2023 12:33 AM
+BAG:thaongan add 80xViên Capsule kì bí (old: 79) lydo: Nhặt từ map at 03/13/2023 12:33 AM
+BAG:thaongan add 2xĐá Ruby (old: 1) lydo: Nhặt từ map at 03/13/2023 12:33 AM
+BAG:thaongan add 81xViên Capsule kì bí (old: 80) lydo: Nhặt từ map at 03/13/2023 12:33 AM
+BAG:thaongan add 5xNgọc Rồng 6 sao (old: 4) lydo: Nhặt từ map at 03/13/2023 12:33 AM
+BAG:thaongan add 82xViên Capsule kì bí (old: 81) lydo: Nhặt từ map at 03/13/2023 12:33 AM
+BAG:thaongan add 710xHoa hồng xanh (old: 709) lydo: Nhặt từ map at 03/13/2023 12:33 AM
+BAG:thaongan add 3xĐá Ruby (old: 2) lydo: Nhặt từ map at 03/13/2023 12:33 AM
+BAG:thaongan add 83xViên Capsule kì bí (old: 82) lydo: Nhặt từ map at 03/13/2023 12:33 AM
+BAG:thaongan add 968xHoa hồng vàng (old: 967) lydo: Nhặt từ map at 03/13/2023 12:33 AM
+BAG:thaongan add 84xViên Capsule kì bí (old: 83) lydo: Nhặt từ map at 03/13/2023 12:33 AM
+BAG:thaongan add 85xViên Capsule kì bí (old: 84) lydo: Nhặt từ map at 03/13/2023 12:33 AM
+BAG:thaongan add 969xHoa hồng vàng (old: 968) lydo: Nhặt từ map at 03/13/2023 12:33 AM
+BAG:thaongan add 776xHoa hồng đỏ (old: 775) lydo: Nhặt từ map at 03/13/2023 12:33 AM
+BAG:thaongan add 777xHoa hồng đỏ (old: 776) lydo: Nhặt từ map at 03/13/2023 12:34 AM
+BAG:thaongan add 970xHoa hồng vàng (old: 969) lydo: Nhặt từ map at 03/13/2023 12:34 AM
+BAG:thaongan add 86xViên Capsule kì bí (old: 85) lydo: Nhặt từ map at 03/13/2023 12:34 AM
+BAG:thaongan add 3xĐá thạch anh tím (old: 2) lydo: Nhặt từ map at 03/13/2023 12:34 AM
+BAG:thaongan add 87xViên Capsule kì bí (old: 86) lydo: Nhặt từ map at 03/13/2023 12:34 AM
+BAG:thaongan add 711xHoa hồng xanh (old: 710) lydo: Nhặt từ map at 03/13/2023 12:34 AM
+BAG:thaongan add 88xViên Capsule kì bí (old: 87) lydo: Nhặt từ map at 03/13/2023 12:34 AM
+BAG:thaongan add 3xĐá lục bảo (old: 2) lydo: Nhặt từ map at 03/13/2023 12:34 AM
+BAG:thaongan add 971xHoa hồng vàng (old: 970) lydo: Nhặt từ map at 03/13/2023 12:34 AM
+BAG:thaongan add 89xViên Capsule kì bí (old: 88) lydo: Nhặt từ map at 03/13/2023 12:34 AM
+BAG:thaongan add 972xHoa hồng vàng (old: 971) lydo: Nhặt từ map at 03/13/2023 12:34 AM
+BAG:thaongan add 90xViên Capsule kì bí (old: 89) lydo: Nhặt từ map at 03/13/2023 12:34 AM
+BAG:thaongan add 778xHoa hồng đỏ (old: 777) lydo: Nhặt từ map at 03/13/2023 12:34 AM
+BAG:thaongan add 779xHoa hồng đỏ (old: 778) lydo: Nhặt từ map at 03/13/2023 12:34 AM
+BAG:thaongan add 780xHoa hồng đỏ (old: 779) lydo: Nhặt từ map at 03/13/2023 12:34 AM
+BAG:thaongan add 781xHoa hồng đỏ (old: 780) lydo: Nhặt từ map at 03/13/2023 12:35 AM
+BAG:thaongan add 973xHoa hồng vàng (old: 972) lydo: Nhặt từ map at 03/13/2023 12:35 AM
+BAG:thaongan add 974xHoa hồng vàng (old: 973) lydo: Nhặt từ map at 03/13/2023 12:35 AM
+BAG:thaongan add 91xViên Capsule kì bí (old: 90) lydo: Nhặt từ map at 03/13/2023 12:35 AM
+BAG:thaongan add 92xViên Capsule kì bí (old: 91) lydo: Nhặt từ map at 03/13/2023 12:35 AM
+BAG:thaongan add 975xHoa hồng vàng (old: 974) lydo: Nhặt từ map at 03/13/2023 12:35 AM
+BAG:thaongan add 782xHoa hồng đỏ (old: 781) lydo: Nhặt từ map at 03/13/2023 12:35 AM
+BAG:thaongan add 93xViên Capsule kì bí (old: 92) lydo: Nhặt từ map at 03/13/2023 12:35 AM
+BAG:thaongan add 783xHoa hồng đỏ (old: 782) lydo: Nhặt từ map at 03/13/2023 12:35 AM
+BAG:thaongan add 976xHoa hồng vàng (old: 975) lydo: Nhặt từ map at 03/13/2023 12:35 AM
+BAG:thaongan add 94xViên Capsule kì bí (old: 93) lydo: Nhặt từ map at 03/13/2023 12:35 AM
+BAG:thaongan add 1xĐá Saphia lydo: Nhặt từ map at 03/13/2023 12:35 AM
+BAG:thaongan add 712xHoa hồng xanh (old: 711) lydo: Nhặt từ map at 03/13/2023 12:35 AM
+BAG:thaongan add 95xViên Capsule kì bí (old: 94) lydo: Nhặt từ map at 03/13/2023 12:35 AM
+BAG:thaongan add 977xHoa hồng vàng (old: 976) lydo: Nhặt từ map at 03/13/2023 12:35 AM
+BAG:thaongan add 96xViên Capsule kì bí (old: 95) lydo: Nhặt từ map at 03/13/2023 12:35 AM
+BAG:thaongan add 97xViên Capsule kì bí (old: 96) lydo: Nhặt từ map at 03/13/2023 12:35 AM
+BAG:thaongan add 98xViên Capsule kì bí (old: 97) lydo: Nhặt từ map at 03/13/2023 12:36 AM
+BAG:thaongan add 784xHoa hồng đỏ (old: 783) lydo: Nhặt từ map at 03/13/2023 12:36 AM
+BAG:thaongan add 99xViên Capsule kì bí (old: 98) lydo: Nhặt từ map at 03/13/2023 12:36 AM
+BAG:thaongan add 18xCuồng nộ (old: 17) lydo: CSKB at 03/13/2023 12:36 AM
+BAG:thaongan add 19xCuồng nộ (old: 18) lydo: CSKB at 03/13/2023 12:36 AM
+BAG:thaongan add 785xHoa hồng đỏ (old: 784) lydo: Nhặt từ map at 03/13/2023 12:36 AM
+BAG:thaongan add 94xViên Capsule kì bí (old: 93) lydo: Nhặt từ map at 03/13/2023 12:36 AM
+BAG:thaongan add 20xCuồng nộ (old: 19) lydo: CSKB at 03/13/2023 12:36 AM
+BAG:thaongan add 1xẨn danh lydo: CSKB at 03/13/2023 12:36 AM
+BAG:thaongan add 2xẨn danh (old: 1) lydo: CSKB at 03/13/2023 12:36 AM
+BAG:thaongan add 713xHoa hồng xanh (old: 712) lydo: Nhặt từ map at 03/13/2023 12:36 AM
+BAG:thaongan add 1xBổ khí lydo: CSKB at 03/13/2023 12:36 AM
+BAG:thaongan add 714xHoa hồng xanh (old: 713) lydo: Nhặt từ map at 03/13/2023 12:36 AM
+BAG:thaongan add 715xHoa hồng xanh (old: 714) lydo: Nhặt từ map at 03/13/2023 12:36 AM
+BAG:thaongan add 88xViên Capsule kì bí (old: 87) lydo: Nhặt từ map at 03/13/2023 12:36 AM
+BAG:thaongan add 786xHoa hồng đỏ (old: 785) lydo: Nhặt từ map at 03/13/2023 12:36 AM
+BAG:thaongan add 1xẨn danh lydo: CSKB at 03/13/2023 12:36 AM
+BAG:thaongan add 21xCuồng nộ (old: 20) lydo: CSKB at 03/13/2023 12:36 AM
+BAG:thaongan add 82xViên Capsule kì bí (old: 81) lydo: Nhặt từ map at 03/13/2023 12:36 AM
+BAG:thaongan add 14xNgọc Rồng 4 sao (old: 13) lydo: Nhặt từ map at 03/13/2023 12:36 AM
+BAG:thaongan add 978xHoa hồng vàng (old: 977) lydo: Nhặt từ map at 03/13/2023 12:36 AM
+BAG:thaongan add 2xẨn danh (old: 1) lydo: CSKB at 03/13/2023 12:36 AM
+BAG:thaongan add 79xViên Capsule kì bí (old: 78) lydo: Nhặt từ map at 03/13/2023 12:36 AM
+BAG:thaongan add 12xBổ huyết (old: 11) lydo: CSKB at 03/13/2023 12:36 AM
+BAG:thaongan add 1xĐá Saphia lydo: Nhặt từ map at 03/13/2023 12:36 AM
+BAG:thaongan add 77xViên Capsule kì bí (old: 76) lydo: Nhặt từ map at 03/13/2023 12:36 AM
+BAG:thaongan add 22xCuồng nộ (old: 21) lydo: CSKB at 03/13/2023 12:36 AM
+BAG:thaongan add 74xViên Capsule kì bí (old: 73) lydo: Nhặt từ map at 03/13/2023 12:36 AM
+BAG:thaongan add 979xHoa hồng vàng (old: 978) lydo: Nhặt từ map at 03/13/2023 12:36 AM
+BAG:thaongan add 23xCuồng nộ (old: 22) lydo: CSKB at 03/13/2023 12:36 AM
+BAG:thaongan add 787xHoa hồng đỏ (old: 786) lydo: Nhặt từ map at 03/13/2023 12:36 AM
+BAG:thaongan add 24xCuồng nộ (old: 23) lydo: CSKB at 03/13/2023 12:36 AM
+BAG:thaongan add 25xCuồng nộ (old: 24) lydo: CSKB at 03/13/2023 12:36 AM
+BAG:thaongan add 64xViên Capsule kì bí (old: 63) lydo: Nhặt từ map at 03/13/2023 12:36 AM
+BAG:thaongan add 1xBổ khí lydo: CSKB at 03/13/2023 12:36 AM
+BAG:thaongan add 63xViên Capsule kì bí (old: 62) lydo: Nhặt từ map at 03/13/2023 12:37 AM
+BAG:thaongan add 61xViên Capsule kì bí (old: 60) lydo: Nhặt từ map at 03/13/2023 12:37 AM
+BAG:thaongan add 2xĐá Saphia (old: 1) lydo: Nhặt từ map at 03/13/2023 12:37 AM
+BAG:thaongan add 3xẨn danh (old: 2) lydo: CSKB at 03/13/2023 12:37 AM
+BAG:thaongan add 4xẨn danh (old: 3) lydo: CSKB at 03/13/2023 12:37 AM
+BAG:thaongan add 15xNgọc Rồng 4 sao (old: 14) lydo: Nhặt từ map at 03/13/2023 12:37 AM
+BAG:thaongan add 2xBổ khí (old: 1) lydo: CSKB at 03/13/2023 12:37 AM
+BAG:thaongan add 13xBổ huyết (old: 12) lydo: CSKB at 03/13/2023 12:37 AM
+BAG:thaongan add 5xẨn danh (old: 4) lydo: CSKB at 03/13/2023 12:37 AM
+BAG:thaongan add 980xHoa hồng vàng (old: 979) lydo: Nhặt từ map at 03/13/2023 12:37 AM
+BAG:thaongan add 1xĐá Ruby lydo: Nhặt từ map at 03/13/2023 12:37 AM
+BAG:thaongan add 6xẨn danh (old: 5) lydo: CSKB at 03/13/2023 12:37 AM
+BAG:thaongan add 36xViên Capsule kì bí (old: 35) lydo: Nhặt từ map at 03/13/2023 12:37 AM
+BAG:thaongan add 7xẨn danh (old: 6) lydo: CSKB at 03/13/2023 12:37 AM
+BAG:thaongan add 8xẨn danh (old: 7) lydo: CSKB at 03/13/2023 12:37 AM
+BAG:thaongan add 788xHoa hồng đỏ (old: 787) lydo: Nhặt từ map at 03/13/2023 12:37 AM
+BAG:thaongan add 981xHoa hồng vàng (old: 980) lydo: Nhặt từ map at 03/13/2023 12:37 AM
+BAG:thaongan add 789xHoa hồng đỏ (old: 788) lydo: Nhặt từ map at 03/13/2023 12:37 AM
+BAG:thaongan add 9xẨn danh (old: 8) lydo: CSKB at 03/13/2023 12:37 AM
+BAG:thaongan add 10xẨn danh (old: 9) lydo: CSKB at 03/13/2023 12:37 AM
+BAG:thaongan add 14xBổ huyết (old: 13) lydo: CSKB at 03/13/2023 12:37 AM
+BAG:thaongan add 790xHoa hồng đỏ (old: 789) lydo: Nhặt từ map at 03/13/2023 12:37 AM
+BAG:thaongan add 982xHoa hồng vàng (old: 981) lydo: Nhặt từ map at 03/13/2023 12:37 AM
+BAG:thaongan add 983xHoa hồng vàng (old: 982) lydo: Nhặt từ map at 03/13/2023 12:37 AM
+BAG:thaongan add 716xHoa hồng xanh (old: 715) lydo: Nhặt từ map at 03/13/2023 12:38 AM
+BAG:thaongan add 984xHoa hồng vàng (old: 983) lydo: Nhặt từ map at 03/13/2023 12:38 AM
+BAG:thaongan add 11xẨn danh (old: 10) lydo: CSKB at 03/13/2023 12:38 AM
+BAG:thaongan add 791xHoa hồng đỏ (old: 790) lydo: Nhặt từ map at 03/13/2023 12:38 AM
+BAG:thaongan add 1xViên Capsule kì bí lydo: Nhặt từ map at 03/13/2023 12:38 AM
+BAG:thaongan add 2xViên Capsule kì bí (old: 1) lydo: Nhặt từ map at 03/13/2023 12:38 AM
+BAG:thaongan add 3xViên Capsule kì bí (old: 2) lydo: Nhặt từ map at 03/13/2023 12:38 AM
+BAG:thaongan add 717xHoa hồng xanh (old: 716) lydo: Nhặt từ map at 03/13/2023 12:38 AM
+BAG:thaongan add 718xHoa hồng xanh (old: 717) lydo: Nhặt từ map at 03/13/2023 12:38 AM
+BAG:thaongan add 719xHoa hồng xanh (old: 718) lydo: Nhặt từ map at 03/13/2023 12:38 AM
+BAG:thaongan add 792xHoa hồng đỏ (old: 791) lydo: Nhặt từ map at 03/13/2023 12:38 AM
+BAG:thaongan add 720xHoa hồng xanh (old: 719) lydo: Nhặt từ map at 03/13/2023 12:38 AM
+BAG:thaongan add 4xViên Capsule kì bí (old: 3) lydo: Nhặt từ map at 03/13/2023 12:38 AM
+BAG:thaongan add 5xViên Capsule kì bí (old: 4) lydo: Nhặt từ map at 03/13/2023 12:38 AM
+BAG:thaongan add 6xViên Capsule kì bí (old: 5) lydo: Nhặt từ map at 03/13/2023 12:38 AM
+BAG:thaongan add 721xHoa hồng xanh (old: 720) lydo: Nhặt từ map at 03/13/2023 12:38 AM
+BAG:thaongan add 793xHoa hồng đỏ (old: 792) lydo: Nhặt từ map at 03/13/2023 12:38 AM
+BAG:thaongan add 794xHoa hồng đỏ (old: 793) lydo: Nhặt từ map at 03/13/2023 12:38 AM
+BAG:thaongan add 985xHoa hồng vàng (old: 984) lydo: Nhặt từ map at 03/13/2023 12:38 AM
+BAG:thaongan add 722xHoa hồng xanh (old: 721) lydo: Nhặt từ map at 03/13/2023 12:39 AM
+BAG:thaongan add 723xHoa hồng xanh (old: 722) lydo: Nhặt từ map at 03/13/2023 12:39 AM
+BAG:thaongan add 7xViên Capsule kì bí (old: 6) lydo: Nhặt từ map at 03/13/2023 12:39 AM
+BAG:thaongan add 724xHoa hồng xanh (old: 723) lydo: Nhặt từ map at 03/13/2023 12:39 AM
+BAG:thaongan add 986xHoa hồng vàng (old: 985) lydo: Nhặt từ map at 03/13/2023 12:39 AM
+BAG:thaongan add 987xHoa hồng vàng (old: 986) lydo: Nhặt từ map at 03/13/2023 12:39 AM
+BAG:thaongan add 8xViên Capsule kì bí (old: 7) lydo: Nhặt từ map at 03/13/2023 12:39 AM
+BAG:thaongan add 9xViên Capsule kì bí (old: 8) lydo: Nhặt từ map at 03/13/2023 12:39 AM
+BAG:thaongan add 988xHoa hồng vàng (old: 987) lydo: Nhặt từ map at 03/13/2023 12:39 AM
+BAG:thaongan add 10xViên Capsule kì bí (old: 9) lydo: Nhặt từ map at 03/13/2023 12:39 AM
+BAG:thaongan add 725xHoa hồng xanh (old: 724) lydo: Nhặt từ map at 03/13/2023 12:39 AM
+BAG:thaongan add 989xHoa hồng vàng (old: 988) lydo: Nhặt từ map at 03/13/2023 12:39 AM
+BAG:thaongan add 990xHoa hồng vàng (old: 989) lydo: Nhặt từ map at 03/13/2023 12:39 AM
+BAG:thaongan add 726xHoa hồng xanh (old: 725) lydo: Nhặt từ map at 03/13/2023 12:39 AM
+BAG:thaongan add 11xViên Capsule kì bí (old: 10) lydo: Nhặt từ map at 03/13/2023 12:39 AM
+BAG:thaongan add 991xHoa hồng vàng (old: 990) lydo: Nhặt từ map at 03/13/2023 12:39 AM
+BAG:thaongan add 12xViên Capsule kì bí (old: 11) lydo: Nhặt từ map at 03/13/2023 12:39 AM
+BAG:thaongan add 13xViên Capsule kì bí (old: 12) lydo: Nhặt từ map at 03/13/2023 12:40 AM
+BAG:thaongan add 795xHoa hồng đỏ (old: 794) lydo: Nhặt từ map at 03/13/2023 12:40 AM
+BAG:thaongan add 14xViên Capsule kì bí (old: 13) lydo: Nhặt từ map at 03/13/2023 12:40 AM
+BAG:thaongan add 992xHoa hồng vàng (old: 991) lydo: Nhặt từ map at 03/13/2023 12:40 AM
+BAG:thaongan add 796xHoa hồng đỏ (old: 795) lydo: Nhặt từ map at 03/13/2023 12:40 AM
+BAG:thaongan add 993xHoa hồng vàng (old: 992) lydo: Nhặt từ map at 03/13/2023 12:40 AM
+BAG:thaongan add 15xViên Capsule kì bí (old: 14) lydo: Nhặt từ map at 03/13/2023 12:40 AM
+BAG:thaongan add 16xViên Capsule kì bí (old: 15) lydo: Nhặt từ map at 03/13/2023 12:40 AM
+BAG:thaongan add 994xHoa hồng vàng (old: 993) lydo: Nhặt từ map at 03/13/2023 12:40 AM
+BAG:thaongan add 3xĐá Saphia (old: 2) lydo: Nhặt từ map at 03/13/2023 12:40 AM
+BAG:thaongan add 727xHoa hồng xanh (old: 726) lydo: Nhặt từ map at 03/13/2023 12:40 AM
+BAG:thaongan add 1xĐá thạch anh tím lydo: Nhặt từ map at 03/13/2023 12:40 AM
+BAG:thaongan add 6xNgọc Rồng 6 sao (old: 5) lydo: Nhặt từ map at 03/13/2023 12:40 AM
+BAG:thaongan add 797xHoa hồng đỏ (old: 796) lydo: Nhặt từ map at 03/13/2023 12:40 AM
+BAG:thaongan add 995xHoa hồng vàng (old: 994) lydo: Nhặt từ map at 03/13/2023 12:40 AM
+BAG:thaongan add 17xViên Capsule kì bí (old: 16) lydo: Nhặt từ map at 03/13/2023 12:40 AM
+BAG:thaongan add 1xĐá Ruby lydo: Nhặt từ map at 03/13/2023 12:40 AM
+BAG:thaongan add 18xViên Capsule kì bí (old: 17) lydo: Nhặt từ map at 03/13/2023 12:40 AM
+BAG:thaongan add 19xViên Capsule kì bí (old: 18) lydo: Nhặt từ map at 03/13/2023 12:41 AM
+BAG:thaongan add 20xViên Capsule kì bí (old: 19) lydo: Nhặt từ map at 03/13/2023 12:41 AM
+BAG:thaongan add 1xĐá Titan lydo: Nhặt từ map at 03/13/2023 12:41 AM
+BAG:thaongan add 728xHoa hồng xanh (old: 727) lydo: Nhặt từ map at 03/13/2023 12:41 AM
+BAG:thaongan add 729xHoa hồng xanh (old: 728) lydo: Nhặt từ map at 03/13/2023 12:41 AM
+BAG:thaongan add 1xĐá thạch anh tím lydo: Nhặt từ map at 03/13/2023 12:41 AM
+BAG:thaongan add 996xHoa hồng vàng (old: 995) lydo: Nhặt từ map at 03/13/2023 12:41 AM
+BAG:thaongan add 21xViên Capsule kì bí (old: 20) lydo: Nhặt từ map at 03/13/2023 12:41 AM
+BAG:thaongan add 22xViên Capsule kì bí (old: 21) lydo: Nhặt từ map at 03/13/2023 12:41 AM
+BAG:thaongan add 730xHoa hồng xanh (old: 729) lydo: Nhặt từ map at 03/13/2023 12:41 AM
+BAG:thaongan add 798xHoa hồng đỏ (old: 797) lydo: Nhặt từ map at 03/13/2023 12:41 AM
+BAG:thaongan add 731xHoa hồng xanh (old: 730) lydo: Nhặt từ map at 03/13/2023 12:41 AM
+BAG:thaongan add 23xViên Capsule kì bí (old: 22) lydo: Nhặt từ map at 03/13/2023 12:41 AM
+BAG:thaongan add 732xHoa hồng xanh (old: 731) lydo: Nhặt từ map at 03/13/2023 12:41 AM
+BAG:thaongan add 24xViên Capsule kì bí (old: 23) lydo: Nhặt từ map at 03/13/2023 12:41 AM
+BAG:thaongan add 733xHoa hồng xanh (old: 732) lydo: Nhặt từ map at 03/13/2023 12:41 AM
+BAG:thaongan add 25xViên Capsule kì bí (old: 24) lydo: Nhặt từ map at 03/13/2023 12:41 AM
+BAG:thaongan add 26xViên Capsule kì bí (old: 25) lydo: Nhặt từ map at 03/13/2023 12:41 AM
+BAG:thaongan add 27xViên Capsule kì bí (old: 26) lydo: Nhặt từ map at 03/13/2023 12:41 AM
+BAG:thaongan add 997xHoa hồng vàng (old: 996) lydo: Nhặt từ map at 03/13/2023 12:41 AM
+BAG:thaongan add 28xViên Capsule kì bí (old: 27) lydo: Nhặt từ map at 03/13/2023 12:42 AM
+BAG:thaongan add 799xHoa hồng đỏ (old: 798) lydo: Nhặt từ map at 03/13/2023 12:42 AM
+BAG:thaongan add 29xViên Capsule kì bí (old: 28) lydo: Nhặt từ map at 03/13/2023 12:42 AM
+BAG:thaongan add 30xViên Capsule kì bí (old: 29) lydo: Nhặt từ map at 03/13/2023 12:42 AM
+BAG:thaongan add 2xĐá Ruby (old: 1) lydo: Nhặt từ map at 03/13/2023 12:42 AM
+BAG:thaongan add 998xHoa hồng vàng (old: 997) lydo: Nhặt từ map at 03/13/2023 12:42 AM
+BAG:thaongan add 31xViên Capsule kì bí (old: 30) lydo: Nhặt từ map at 03/13/2023 12:42 AM
+BAG:thaongan add 32xViên Capsule kì bí (old: 31) lydo: Nhặt từ map at 03/13/2023 12:42 AM
+BAG:thaongan add 33xViên Capsule kì bí (old: 32) lydo: Nhặt từ map at 03/13/2023 12:42 AM
+BAG:thaongan add 34xViên Capsule kì bí (old: 33) lydo: Nhặt từ map at 03/13/2023 12:42 AM
+BAG:thaongan add 734xHoa hồng xanh (old: 733) lydo: Nhặt từ map at 03/13/2023 12:42 AM
+BAG:thaongan add 800xHoa hồng đỏ (old: 799) lydo: Nhặt từ map at 03/13/2023 12:42 AM
+BAG:thaongan add 735xHoa hồng xanh (old: 734) lydo: Nhặt từ map at 03/13/2023 12:42 AM
+BAG:thaongan add 999xHoa hồng vàng (old: 998) lydo: Nhặt từ map at 03/13/2023 12:42 AM
+BAG:thaongan add 35xViên Capsule kì bí (old: 34) lydo: Nhặt từ map at 03/13/2023 12:42 AM
+BAG:thaongan add 801xHoa hồng đỏ (old: 800) lydo: Nhặt từ map at 03/13/2023 12:42 AM
+BAG:thaongan add 36xViên Capsule kì bí (old: 35) lydo: Nhặt từ map at 03/13/2023 12:42 AM
+BAG:thaongan add 37xViên Capsule kì bí (old: 36) lydo: Nhặt từ map at 03/13/2023 12:42 AM
+BAG:thaongan add 802xHoa hồng đỏ (old: 801) lydo: Nhặt từ map at 03/13/2023 12:43 AM
+BAG:thaongan add 736xHoa hồng xanh (old: 735) lydo: Nhặt từ map at 03/13/2023 12:43 AM
+BAG:thaongan add 1000xHoa hồng vàng (old: 999) lydo: Nhặt từ map at 03/13/2023 12:43 AM
+BAG:thaongan add 38xViên Capsule kì bí (old: 37) lydo: Nhặt từ map at 03/13/2023 12:43 AM
+BAG:thaongan add 803xHoa hồng đỏ (old: 802) lydo: Nhặt từ map at 03/13/2023 12:43 AM
+BAG:thaongan add 39xViên Capsule kì bí (old: 38) lydo: Nhặt từ map at 03/13/2023 12:43 AM
+BAG:thaongan add 1001xHoa hồng vàng (old: 1000) lydo: Nhặt từ map at 03/13/2023 12:43 AM
+BAG:thaongan add 2xĐá thạch anh tím (old: 1) lydo: Nhặt từ map at 03/13/2023 12:43 AM
+BAG:thaongan add 737xHoa hồng xanh (old: 736) lydo: Nhặt từ map at 03/13/2023 12:43 AM
+BAG:thaongan add 40xViên Capsule kì bí (old: 39) lydo: Nhặt từ map at 03/13/2023 12:43 AM
+BAG:thaongan add 804xHoa hồng đỏ (old: 803) lydo: Nhặt từ map at 03/13/2023 12:43 AM
+BAG:thaongan add 41xViên Capsule kì bí (old: 40) lydo: Nhặt từ map at 03/13/2023 12:43 AM
+BAG:thaongan add 738xHoa hồng xanh (old: 737) lydo: Nhặt từ map at 03/13/2023 12:43 AM
+BAG:thaongan add 42xViên Capsule kì bí (old: 41) lydo: Nhặt từ map at 03/13/2023 12:43 AM
+BAG:thaongan add 43xViên Capsule kì bí (old: 42) lydo: Nhặt từ map at 03/13/2023 12:43 AM
+BAG:thaongan add 805xHoa hồng đỏ (old: 804) lydo: Nhặt từ map at 03/13/2023 12:43 AM
+BAG:thaongan add 806xHoa hồng đỏ (old: 805) lydo: Nhặt từ map at 03/13/2023 12:43 AM
+BAG:thaongan add 807xHoa hồng đỏ (old: 806) lydo: Nhặt từ map at 03/13/2023 12:44 AM
+BAG:thaongan add 1002xHoa hồng vàng (old: 1001) lydo: Nhặt từ map at 03/13/2023 12:44 AM
+BAG:thaongan add 44xViên Capsule kì bí (old: 43) lydo: Nhặt từ map at 03/13/2023 12:44 AM
+BAG:thaongan add 808xHoa hồng đỏ (old: 807) lydo: Nhặt từ map at 03/13/2023 12:44 AM
+BAG:thaongan add 739xHoa hồng xanh (old: 738) lydo: Nhặt từ map at 03/13/2023 12:44 AM
+BAG:thaongan add 1xĐá Saphia lydo: Nhặt từ map at 03/13/2023 12:44 AM
+BAG:thaongan add 45xViên Capsule kì bí (old: 44) lydo: Nhặt từ map at 03/13/2023 12:44 AM
+BAG:thaongan add 46xViên Capsule kì bí (old: 45) lydo: Nhặt từ map at 03/13/2023 12:44 AM
+BAG:thaongan add 47xViên Capsule kì bí (old: 46) lydo: Nhặt từ map at 03/13/2023 12:44 AM
+BAG:thaongan add 1003xHoa hồng vàng (old: 1002) lydo: Nhặt từ map at 03/13/2023 12:44 AM
+BAG:thaongan add 48xViên Capsule kì bí (old: 47) lydo: Nhặt từ map at 03/13/2023 12:44 AM
+BAG:thaongan add 49xViên Capsule kì bí (old: 48) lydo: Nhặt từ map at 03/13/2023 12:44 AM
+BAG:thaongan add 50xViên Capsule kì bí (old: 49) lydo: Nhặt từ map at 03/13/2023 12:44 AM
+BAG:thaongan add 1004xHoa hồng vàng (old: 1003) lydo: Nhặt từ map at 03/13/2023 12:44 AM
+BAG:thaongan add 51xViên Capsule kì bí (old: 50) lydo: Nhặt từ map at 03/13/2023 12:44 AM
+BAG:thaongan add 52xViên Capsule kì bí (old: 51) lydo: Nhặt từ map at 03/13/2023 12:44 AM
+BAG:thaongan add 53xViên Capsule kì bí (old: 52) lydo: Nhặt từ map at 03/13/2023 12:44 AM
+BAG:thaongan add 809xHoa hồng đỏ (old: 808) lydo: Nhặt từ map at 03/13/2023 12:44 AM
+BAG:thaongan add 54xViên Capsule kì bí (old: 53) lydo: Nhặt từ map at 03/13/2023 12:45 AM
+BAG:thaongan add 55xViên Capsule kì bí (old: 54) lydo: Nhặt từ map at 03/13/2023 12:45 AM
+BAG:thaongan add 740xHoa hồng xanh (old: 739) lydo: Nhặt từ map at 03/13/2023 12:45 AM
+BAG:thaongan add 741xHoa hồng xanh (old: 740) lydo: Nhặt từ map at 03/13/2023 12:45 AM
+BAG:thaongan add 3xĐá Ruby (old: 2) lydo: Nhặt từ map at 03/13/2023 12:45 AM
+BAG:thaongan add 56xViên Capsule kì bí (old: 55) lydo: Nhặt từ map at 03/13/2023 12:45 AM
+BAG:thaongan add 742xHoa hồng xanh (old: 741) lydo: Nhặt từ map at 03/13/2023 12:45 AM
+BAG:thaongan add 57xViên Capsule kì bí (old: 56) lydo: Nhặt từ map at 03/13/2023 12:45 AM
+BAG:thaongan add 58xViên Capsule kì bí (old: 57) lydo: Nhặt từ map at 03/13/2023 12:45 AM
+BAG:thaongan add 1005xHoa hồng vàng (old: 1004) lydo: Nhặt từ map at 03/13/2023 12:45 AM
+BAG:thaongan add 1006xHoa hồng vàng (old: 1005) lydo: Nhặt từ map at 03/13/2023 12:45 AM
+BAG:thaongan add 59xViên Capsule kì bí (old: 58) lydo: Nhặt từ map at 03/13/2023 12:45 AM
+BAG:thaongan add 60xViên Capsule kì bí (old: 59) lydo: Nhặt từ map at 03/13/2023 12:45 AM
+BAG:thaongan add 1007xHoa hồng vàng (old: 1006) lydo: Nhặt từ map at 03/13/2023 12:45 AM
+BAG:thaongan add 61xViên Capsule kì bí (old: 60) lydo: Nhặt từ map at 03/13/2023 12:45 AM
+BAG:thaongan add 810xHoa hồng đỏ (old: 809) lydo: Nhặt từ map at 03/13/2023 12:45 AM
+BAG:thaongan add 1008xHoa hồng vàng (old: 1007) lydo: Nhặt từ map at 03/13/2023 12:46 AM
+BAG:thaongan add 62xViên Capsule kì bí (old: 61) lydo: Nhặt từ map at 03/13/2023 12:46 AM
+BAG:thaongan add 3xNgọc Rồng 5 sao (old: 2) lydo: Nhặt từ map at 03/13/2023 12:46 AM
+BAG:thaongan add 1009xHoa hồng vàng (old: 1008) lydo: Nhặt từ map at 03/13/2023 12:46 AM
+BAG:thaongan add 1010xHoa hồng vàng (old: 1009) lydo: Nhặt từ map at 03/13/2023 12:46 AM
+BAG:thaongan add 63xViên Capsule kì bí (old: 62) lydo: Nhặt từ map at 03/13/2023 12:46 AM
+BAG:thaongan add 64xViên Capsule kì bí (old: 63) lydo: Nhặt từ map at 03/13/2023 12:46 AM
+BAG:thaongan add 65xViên Capsule kì bí (old: 64) lydo: Nhặt từ map at 03/13/2023 12:46 AM
+BAG:thaongan add 743xHoa hồng xanh (old: 742) lydo: Nhặt từ map at 03/13/2023 12:46 AM
+BAG:thaongan add 1011xHoa hồng vàng (old: 1010) lydo: Nhặt từ map at 03/13/2023 12:47 AM
+BAG:thaongan add 66xViên Capsule kì bí (old: 65) lydo: Nhặt từ map at 03/13/2023 12:47 AM
+BAG:thaongan add 1012xHoa hồng vàng (old: 1011) lydo: Nhặt từ map at 03/13/2023 12:47 AM
+BAG:thaongan add 67xViên Capsule kì bí (old: 66) lydo: Nhặt từ map at 03/13/2023 12:47 AM
+BAG:thaongan add 811xHoa hồng đỏ (old: 810) lydo: Nhặt từ map at 03/13/2023 12:47 AM
+BAG:thaongan add 812xHoa hồng đỏ (old: 811) lydo: Nhặt từ map at 03/13/2023 12:47 AM
+BAG:thaongan add 68xViên Capsule kì bí (old: 67) lydo: Nhặt từ map at 03/13/2023 12:47 AM
+BAG:thaongan add 69xViên Capsule kì bí (old: 68) lydo: Nhặt từ map at 03/13/2023 12:47 AM
+BAG:thaongan add 70xViên Capsule kì bí (old: 69) lydo: Nhặt từ map at 03/13/2023 12:47 AM
+BAG:thaongan add 71xViên Capsule kì bí (old: 70) lydo: Nhặt từ map at 03/13/2023 12:47 AM
+BAG:thaongan add 744xHoa hồng xanh (old: 743) lydo: Nhặt từ map at 03/13/2023 12:47 AM
+BAG:thaongan add 72xViên Capsule kì bí (old: 71) lydo: Nhặt từ map at 03/13/2023 12:47 AM
+BAG:thaongan add 73xViên Capsule kì bí (old: 72) lydo: Nhặt từ map at 03/13/2023 12:47 AM
+BAG:thaongan add 74xViên Capsule kì bí (old: 73) lydo: Nhặt từ map at 03/13/2023 12:47 AM
+BAG:thaongan add 1013xHoa hồng vàng (old: 1012) lydo: Nhặt từ map at 03/13/2023 12:47 AM
+BAG:thaongan add 75xViên Capsule kì bí (old: 74) lydo: Nhặt từ map at 03/13/2023 12:47 AM
+BAG:thaongan add 76xViên Capsule kì bí (old: 75) lydo: Nhặt từ map at 03/13/2023 12:47 AM
+BAG:thaongan add 77xViên Capsule kì bí (old: 76) lydo: Nhặt từ map at 03/13/2023 12:47 AM
+BAG:thaongan add 78xViên Capsule kì bí (old: 77) lydo: Nhặt từ map at 03/13/2023 12:47 AM
+BAG:thaongan add 813xHoa hồng đỏ (old: 812) lydo: Nhặt từ map at 03/13/2023 12:47 AM
+BAG:thaongan add 745xHoa hồng xanh (old: 744) lydo: Nhặt từ map at 03/13/2023 12:47 AM
+BAG:thaongan add 79xViên Capsule kì bí (old: 78) lydo: Nhặt từ map at 03/13/2023 12:47 AM
+BAG:thaongan add 80xViên Capsule kì bí (old: 79) lydo: Nhặt từ map at 03/13/2023 12:48 AM
+BAG:thaongan add 81xViên Capsule kì bí (old: 80) lydo: Nhặt từ map at 03/13/2023 12:48 AM
+BAG:thaongan add 1014xHoa hồng vàng (old: 1013) lydo: Nhặt từ map at 03/13/2023 12:48 AM
+BAG:thaongan add 82xViên Capsule kì bí (old: 81) lydo: Nhặt từ map at 03/13/2023 12:48 AM
+BAG:thaongan add 814xHoa hồng đỏ (old: 813) lydo: Nhặt từ map at 03/13/2023 12:48 AM
+BAG:thaongan add 746xHoa hồng xanh (old: 745) lydo: Nhặt từ map at 03/13/2023 12:48 AM
+BAG:thaongan add 1015xHoa hồng vàng (old: 1014) lydo: Nhặt từ map at 03/13/2023 12:48 AM
+BAG:thaongan add 747xHoa hồng xanh (old: 746) lydo: Nhặt từ map at 03/13/2023 12:48 AM
+BAG:thaongan add 748xHoa hồng xanh (old: 747) lydo: Nhặt từ map at 03/13/2023 12:48 AM
+BAG:thaongan add 83xViên Capsule kì bí (old: 82) lydo: Nhặt từ map at 03/13/2023 12:48 AM
+BAG:thaongan add 815xHoa hồng đỏ (old: 814) lydo: Nhặt từ map at 03/13/2023 12:48 AM
+BAG:thaongan add 749xHoa hồng xanh (old: 748) lydo: Nhặt từ map at 03/13/2023 12:48 AM
+BAG:thaongan add 84xViên Capsule kì bí (old: 83) lydo: Nhặt từ map at 03/13/2023 12:48 AM
+BAG:thaongan add 3xĐá thạch anh tím (old: 2) lydo: Nhặt từ map at 03/13/2023 12:48 AM
+BAG:thaongan add 16xNgọc Rồng 4 sao (old: 15) lydo: Nhặt từ map at 03/13/2023 12:48 AM
+BAG:thaongan add 816xHoa hồng đỏ (old: 815) lydo: Nhặt từ map at 03/13/2023 12:48 AM
+BAG:thaongan add 4xĐá Ruby (old: 3) lydo: Nhặt từ map at 03/13/2023 12:48 AM
+BAG:thaongan add 85xViên Capsule kì bí (old: 84) lydo: Nhặt từ map at 03/13/2023 12:48 AM
+BAG:thaongan add 86xViên Capsule kì bí (old: 85) lydo: Nhặt từ map at 03/13/2023 12:48 AM
+BAG:thaongan add 87xViên Capsule kì bí (old: 86) lydo: Nhặt từ map at 03/13/2023 12:48 AM
+BAG:thaongan add 88xViên Capsule kì bí (old: 87) lydo: Nhặt từ map at 03/13/2023 12:48 AM
+BAG:thaongan add 89xViên Capsule kì bí (old: 88) lydo: Nhặt từ map at 03/13/2023 12:48 AM
+BAG:thaongan add 90xViên Capsule kì bí (old: 89) lydo: Nhặt từ map at 03/13/2023 12:49 AM
+BAG:thaongan add 817xHoa hồng đỏ (old: 816) lydo: Nhặt từ map at 03/13/2023 12:49 AM
+BAG:thaongan add 750xHoa hồng xanh (old: 749) lydo: Nhặt từ map at 03/13/2023 12:49 AM
+BAG:thaongan add 1016xHoa hồng vàng (old: 1015) lydo: Nhặt từ map at 03/13/2023 12:49 AM
+BAG:thaongan add 91xViên Capsule kì bí (old: 90) lydo: Nhặt từ map at 03/13/2023 12:49 AM
+BAG:thaongan add 92xViên Capsule kì bí (old: 91) lydo: Nhặt từ map at 03/13/2023 12:49 AM
+BAG:thaongan add 93xViên Capsule kì bí (old: 92) lydo: Nhặt từ map at 03/13/2023 12:49 AM
+BAG:thaongan add 818xHoa hồng đỏ (old: 817) lydo: Nhặt từ map at 03/13/2023 12:49 AM
+BAG:thaongan add 1017xHoa hồng vàng (old: 1016) lydo: Nhặt từ map at 03/13/2023 12:49 AM
+BAG:thaongan add 819xHoa hồng đỏ (old: 818) lydo: Nhặt từ map at 03/13/2023 12:49 AM
+BAG:thaongan add 820xHoa hồng đỏ (old: 819) lydo: Nhặt từ map at 03/13/2023 12:49 AM
+BAG:thaongan add 94xViên Capsule kì bí (old: 93) lydo: Nhặt từ map at 03/13/2023 12:49 AM
+BAG:thaongan add 1018xHoa hồng vàng (old: 1017) lydo: Nhặt từ map at 03/13/2023 12:49 AM
+BAG:thaongan add 95xViên Capsule kì bí (old: 94) lydo: Nhặt từ map at 03/13/2023 12:49 AM
+BAG:thaongan add 751xHoa hồng xanh (old: 750) lydo: Nhặt từ map at 03/13/2023 12:49 AM
+BAG:thaongan add 821xHoa hồng đỏ (old: 820) lydo: Nhặt từ map at 03/13/2023 12:49 AM
+BAG:thaongan add 1019xHoa hồng vàng (old: 1018) lydo: Nhặt từ map at 03/13/2023 12:49 AM
+BAG:thaongan add 96xViên Capsule kì bí (old: 95) lydo: Nhặt từ map at 03/13/2023 12:50 AM
+BAG:thaongan add 1020xHoa hồng vàng (old: 1019) lydo: Nhặt từ map at 03/13/2023 12:50 AM
+BAG:thaongan add 97xViên Capsule kì bí (old: 96) lydo: Nhặt từ map at 03/13/2023 12:50 AM
+BAG:thaongan add 98xViên Capsule kì bí (old: 97) lydo: Nhặt từ map at 03/13/2023 12:50 AM
+BAG:thaongan add 822xHoa hồng đỏ (old: 821) lydo: Nhặt từ map at 03/13/2023 12:50 AM
+BAG:thaongan add 1021xHoa hồng vàng (old: 1020) lydo: Nhặt từ map at 03/13/2023 12:50 AM
+BAG:thaongan add 752xHoa hồng xanh (old: 751) lydo: Nhặt từ map at 03/13/2023 12:50 AM
+BAG:thaongan add 823xHoa hồng đỏ (old: 822) lydo: Nhặt từ map at 03/13/2023 12:50 AM
+BAG:thaongan add 99xViên Capsule kì bí (old: 98) lydo: Nhặt từ map at 03/13/2023 12:50 AM
+BAG:thaongan add 1022xHoa hồng vàng (old: 1021) lydo: Nhặt từ map at 03/13/2023 12:50 AM
+BAG:thaongan add 1xBổ khí lydo: CSKB at 03/13/2023 12:50 AM
+BAG:thaongan add 753xHoa hồng xanh (old: 752) lydo: Nhặt từ map at 03/13/2023 12:50 AM
+BAG:thaongan add 1xẨn danh lydo: CSKB at 03/13/2023 12:50 AM
+BAG:thaongan add 754xHoa hồng xanh (old: 753) lydo: Nhặt từ map at 03/13/2023 12:50 AM
+BAG:thaongan add 1023xHoa hồng vàng (old: 1022) lydo: Nhặt từ map at 03/13/2023 12:50 AM
+BAG:thaongan add 92xViên Capsule kì bí (old: 91) lydo: Nhặt từ map at 03/13/2023 12:50 AM
+BAG:thaongan add 26xCuồng nộ (old: 25) lydo: CSKB at 03/13/2023 12:50 AM
+BAG:thaongan add 2xẨn danh (old: 1) lydo: CSKB at 03/13/2023 12:50 AM
+BAG:thaongan add 3xẨn danh (old: 2) lydo: CSKB at 03/13/2023 12:50 AM
+BAG:thaongan add 755xHoa hồng xanh (old: 754) lydo: Nhặt từ map at 03/13/2023 12:50 AM
+BAG:thaongan add 4xẨn danh (old: 3) lydo: CSKB at 03/13/2023 12:50 AM
+BAG:thaongan add 85xViên Capsule kì bí (old: 84) lydo: Nhặt từ map at 03/13/2023 12:50 AM
+BAG:thaongan add 27xCuồng nộ (old: 26) lydo: CSKB at 03/13/2023 12:50 AM
+BAG:thaongan add 5xẨn danh (old: 4) lydo: CSKB at 03/13/2023 12:50 AM
+BAG:thaongan add 15xBổ huyết (old: 14) lydo: CSKB at 03/13/2023 12:50 AM
+BAG:thaongan add 77xViên Capsule kì bí (old: 76) lydo: Nhặt từ map at 03/13/2023 12:50 AM
+BAG:thaongan add 6xẨn danh (old: 5) lydo: CSKB at 03/13/2023 12:50 AM
+BAG:thaongan add 75xViên Capsule kì bí (old: 74) lydo: Nhặt từ map at 03/13/2023 12:51 AM
+BAG:thaongan add 74xViên Capsule kì bí (old: 73) lydo: Nhặt từ map at 03/13/2023 12:51 AM
+BAG:thaongan add 756xHoa hồng xanh (old: 755) lydo: Nhặt từ map at 03/13/2023 12:51 AM
+BAG:thaongan add 7xẨn danh (old: 6) lydo: CSKB at 03/13/2023 12:51 AM
+BAG:thaongan add 68xViên Capsule kì bí (old: 67) lydo: Nhặt từ map at 03/13/2023 12:51 AM
+BAG:thaongan add 824xHoa hồng đỏ (old: 823) lydo: Nhặt từ map at 03/13/2023 12:51 AM
+BAG:thaongan add 28xCuồng nộ (old: 27) lydo: CSKB at 03/13/2023 12:51 AM
+BAG:thaongan add 8xẨn danh (old: 7) lydo: CSKB at 03/13/2023 12:51 AM
+BAG:thaongan add 17xNgọc Rồng 4 sao (old: 16) lydo: Nhặt từ map at 03/13/2023 12:51 AM
+BAG:thaongan add 1024xHoa hồng vàng (old: 1023) lydo: Nhặt từ map at 03/13/2023 12:51 AM
+BAG:thaongan add 51xViên Capsule kì bí (old: 50) lydo: Nhặt từ map at 03/13/2023 12:51 AM
+BAG:thaongan add 1025xHoa hồng vàng (old: 1024) lydo: Nhặt từ map at 03/13/2023 12:51 AM
+BAG:thaongan add 9xẨn danh (old: 8) lydo: CSKB at 03/13/2023 12:51 AM
+BAG:thaongan add 1026xHoa hồng vàng (old: 1025) lydo: Nhặt từ map at 03/13/2023 12:51 AM
+BAG:thaongan add 1027xHoa hồng vàng (old: 1026) lydo: Nhặt từ map at 03/13/2023 12:51 AM
+BAG:thaongan add 29xCuồng nộ (old: 28) lydo: CSKB at 03/13/2023 12:51 AM

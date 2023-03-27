@@ -1,0 +1,131 @@
+BAG:shadowsword add 20xHoa hồng vàng (old: 19) lydo: Nhặt từ map at 03/11/2023 6:03 PM
+BAG:shadowsword add 5xĐá Ruby (old: 4) lydo: Nhặt từ map at 03/11/2023 6:05 PM
+BAG:shadowsword add 26xHoa hồng xanh (old: 25) lydo: Nhặt từ map at 03/11/2023 6:06 PM
+BAG:shadowsword add 27xHoa hồng xanh (old: 26) lydo: Nhặt từ map at 03/11/2023 6:08 PM
+BAG:shadowsword add 21xHoa hồng vàng (old: 20) lydo: Nhặt từ map at 03/11/2023 6:08 PM
+BAG:shadowsword add 5xĐá thạch anh tím (old: 4) lydo: Nhặt từ map at 03/11/2023 6:08 PM
+BAG:shadowsword add 22xHoa hồng vàng (old: 21) lydo: Nhặt từ map at 03/11/2023 6:09 PM
+BAG:shadowsword add 28xHoa hồng xanh (old: 27) lydo: Nhặt từ map at 03/11/2023 6:09 PM
+BAG:shadowsword add 29xHoa hồng xanh (old: 28) lydo: Nhặt từ map at 03/11/2023 6:10 PM
+BAG:shadowsword add 30xHoa hồng xanh (old: 29) lydo: Nhặt từ map at 03/11/2023 6:10 PM
+BAG:shadowsword add 7xĐá Saphia (old: 6) lydo: Nhặt từ map at 03/11/2023 6:10 PM
+BAG:shadowsword add 6xĐá thạch anh tím (old: 5) lydo: Nhặt từ map at 03/11/2023 6:10 PM
+BAG:shadowsword add 6xĐá Ruby (old: 5) lydo: Nhặt từ map at 03/11/2023 6:11 PM
+BAG:shadowsword add 23xHoa hồng vàng (old: 22) lydo: Nhặt từ map at 03/11/2023 6:12 PM
+BAG:shadowsword add 21xHoa hồng đỏ (old: 20) lydo: Nhặt từ map at 03/11/2023 6:13 PM
+BAG:shadowsword add 24xHoa hồng vàng (old: 23) lydo: Nhặt từ map at 03/11/2023 6:13 PM
+BAG:shadowsword add 22xHoa hồng đỏ (old: 21) lydo: Nhặt từ map at 03/11/2023 6:14 PM
+BAG:shadowsword add 6xĐá Titan (old: 5) lydo: Nhặt từ map at 03/11/2023 6:14 PM
+BAG:shadowsword add 23xHoa hồng đỏ (old: 22) lydo: Nhặt từ map at 03/11/2023 6:15 PM
+BAG:shadowsword add 7xĐá Titan (old: 6) lydo: Nhặt từ map at 03/11/2023 6:15 PM
+BAG:shadowsword add 24xHoa hồng đỏ (old: 23) lydo: Nhặt từ map at 03/11/2023 6:15 PM
+BAG:shadowsword add 25xHoa hồng vàng (old: 24) lydo: Nhặt từ map at 03/11/2023 6:15 PM
+BAG:shadowsword add 25xHoa hồng đỏ (old: 24) lydo: Nhặt từ map at 03/11/2023 6:16 PM
+BAG:shadowsword add 31xHoa hồng xanh (old: 30) lydo: Nhặt từ map at 03/11/2023 6:17 PM
+BAG:shadowsword add 26xHoa hồng vàng (old: 25) lydo: Nhặt từ map at 03/11/2023 6:17 PM
+BAG:shadowsword add 32xHoa hồng xanh (old: 31) lydo: Nhặt từ map at 03/11/2023 6:18 PM
+BAG:shadowsword add 26xHoa hồng đỏ (old: 25) lydo: Nhặt từ map at 03/11/2023 6:18 PM
+BAG:shadowsword add 27xHoa hồng đỏ (old: 26) lydo: Nhặt từ map at 03/11/2023 6:18 PM
+BAG:shadowsword add 28xHoa hồng đỏ (old: 27) lydo: Nhặt từ map at 03/11/2023 6:19 PM
+BAG:shadowsword add 27xHoa hồng vàng (old: 26) lydo: Nhặt từ map at 03/11/2023 6:20 PM
+BAG:shadowsword add 33xHoa hồng xanh (old: 32) lydo: Nhặt từ map at 03/11/2023 6:20 PM
+BAG:shadowsword add 34xHoa hồng xanh (old: 33) lydo: Nhặt từ map at 03/11/2023 6:22 PM
+BAG:shadowsword add 29xHoa hồng đỏ (old: 28) lydo: Nhặt từ map at 03/11/2023 6:23 PM
+BAG:shadowsword add 30xHoa hồng đỏ (old: 29) lydo: Nhặt từ map at 03/11/2023 6:23 PM
+BAG:shadowsword add 35xHoa hồng xanh (old: 34) lydo: Nhặt từ map at 03/11/2023 6:24 PM
+BAG:shadowsword add 36xHoa hồng xanh (old: 35) lydo: Nhặt từ map at 03/11/2023 6:25 PM
+BAG:shadowsword add 8xĐá Titan (old: 7) lydo: Nhặt từ map at 03/11/2023 6:25 PM
+BAG:shadowsword add 31xHoa hồng đỏ (old: 30) lydo: Nhặt từ map at 03/11/2023 6:26 PM
+BAG:shadowsword add 37xHoa hồng xanh (old: 36) lydo: Nhặt từ map at 03/11/2023 6:26 PM
+BAG:shadowsword add 28xHoa hồng vàng (old: 27) lydo: Nhặt từ map at 03/11/2023 6:27 PM
+BAG:shadowsword add 9xĐá Titan (old: 8) lydo: Nhặt từ map at 03/11/2023 6:27 PM
+BAG:shadowsword add 38xHoa hồng xanh (old: 37) lydo: Nhặt từ map at 03/11/2023 6:27 PM
+BAG:shadowsword add 8xĐá Saphia (old: 7) lydo: Nhặt từ map at 03/11/2023 6:28 PM
+BAG:shadowsword add 29xHoa hồng vàng (old: 28) lydo: Nhặt từ map at 03/11/2023 6:28 PM
+BAG:shadowsword add 39xHoa hồng xanh (old: 38) lydo: Nhặt từ map at 03/11/2023 6:28 PM
+BAG:shadowsword add 40xHoa hồng xanh (old: 39) lydo: Nhặt từ map at 03/11/2023 6:29 PM
+BAG:shadowsword add 32xHoa hồng đỏ (old: 31) lydo: Nhặt từ map at 03/11/2023 6:29 PM
+BAG:shadowsword add 33xHoa hồng đỏ (old: 32) lydo: Nhặt từ map at 03/11/2023 6:29 PM
+BAG:shadowsword add 41xHoa hồng xanh (old: 40) lydo: Nhặt từ map at 03/11/2023 6:30 PM
+BAG:shadowsword add 7xĐá thạch anh tím (old: 6) lydo: Nhặt từ map at 03/11/2023 6:30 PM
+BAG:shadowsword add 34xHoa hồng đỏ (old: 33) lydo: Nhặt từ map at 03/11/2023 6:30 PM
+BAG:shadowsword add 30xHoa hồng vàng (old: 29) lydo: Nhặt từ map at 03/11/2023 6:31 PM
+BAG:shadowsword add 7xĐá Ruby (old: 6) lydo: Nhặt từ map at 03/11/2023 6:31 PM
+BAG:shadowsword add 35xHoa hồng đỏ (old: 34) lydo: Nhặt từ map at 03/11/2023 6:32 PM
+BAG:shadowsword add 42xHoa hồng xanh (old: 41) lydo: Nhặt từ map at 03/11/2023 6:32 PM
+BAG:shadowsword add 8xĐá Ruby (old: 7) lydo: Nhặt từ map at 03/11/2023 6:33 PM
+BAG:shadowsword add 43xHoa hồng xanh (old: 42) lydo: Nhặt từ map at 03/11/2023 6:33 PM
+BAG:shadowsword add 44xHoa hồng xanh (old: 43) lydo: Nhặt từ map at 03/11/2023 6:33 PM
+BAG:shadowsword add 45xHoa hồng xanh (old: 44) lydo: Nhặt từ map at 03/11/2023 6:33 PM
+BAG:shadowsword add 8xĐá thạch anh tím (old: 7) lydo: Nhặt từ map at 03/11/2023 6:34 PM
+BAG:shadowsword add 36xHoa hồng đỏ (old: 35) lydo: Nhặt từ map at 03/11/2023 6:34 PM
+BAG:shadowsword add 37xHoa hồng đỏ (old: 36) lydo: Nhặt từ map at 03/11/2023 6:34 PM
+BAG:shadowsword add 38xHoa hồng đỏ (old: 37) lydo: Nhặt từ map at 03/11/2023 6:34 PM
+BAG:shadowsword add 39xHoa hồng đỏ (old: 38) lydo: Nhặt từ map at 03/11/2023 6:35 PM
+BAG:shadowsword add 40xHoa hồng đỏ (old: 39) lydo: Nhặt từ map at 03/11/2023 6:35 PM
+BAG:shadowsword add 46xHoa hồng xanh (old: 45) lydo: Nhặt từ map at 03/11/2023 6:35 PM
+BAG:shadowsword add 47xHoa hồng xanh (old: 46) lydo: Nhặt từ map at 03/11/2023 6:36 PM
+BAG:shadowsword add 48xHoa hồng xanh (old: 47) lydo: Nhặt từ map at 03/11/2023 6:36 PM
+BAG:shadowsword add 9xĐá Ruby (old: 8) lydo: Nhặt từ map at 03/11/2023 6:37 PM
+BAG:shadowsword add 41xHoa hồng đỏ (old: 40) lydo: Nhặt từ map at 03/11/2023 6:37 PM
+BAG:shadowsword add 42xHoa hồng đỏ (old: 41) lydo: Nhặt từ map at 03/11/2023 6:38 PM
+BAG:shadowsword add 31xHoa hồng vàng (old: 30) lydo: Nhặt từ map at 03/11/2023 6:39 PM
+BAG:shadowsword add 32xHoa hồng vàng (old: 31) lydo: Nhặt từ map at 03/11/2023 6:40 PM
+BAG:shadowsword add 43xHoa hồng đỏ (old: 42) lydo: Nhặt từ map at 03/11/2023 6:40 PM
+BAG:shadowsword add 49xHoa hồng xanh (old: 48) lydo: Nhặt từ map at 03/11/2023 6:40 PM
+BAG:shadowsword add 50xHoa hồng xanh (old: 49) lydo: Nhặt từ map at 03/11/2023 6:41 PM
+BAG:shadowsword add 51xHoa hồng xanh (old: 50) lydo: Nhặt từ map at 03/11/2023 6:41 PM
+BAG:shadowsword add 52xHoa hồng xanh (old: 51) lydo: Nhặt từ map at 03/11/2023 6:41 PM
+BAG:shadowsword add 44xHoa hồng đỏ (old: 43) lydo: Nhặt từ map at 03/11/2023 6:42 PM
+BAG:shadowsword add 53xHoa hồng xanh (old: 52) lydo: Nhặt từ map at 03/11/2023 6:43 PM
+BAG:shadowsword add 54xHoa hồng xanh (old: 53) lydo: Nhặt từ map at 03/11/2023 6:43 PM
+BAG:shadowsword add 45xHoa hồng đỏ (old: 44) lydo: Nhặt từ map at 03/11/2023 6:43 PM
+BAG:shadowsword add 33xHoa hồng vàng (old: 32) lydo: Nhặt từ map at 03/11/2023 6:44 PM
+BAG:shadowsword add 46xHoa hồng đỏ (old: 45) lydo: Nhặt từ map at 03/11/2023 6:44 PM
+BAG:shadowsword add 34xHoa hồng vàng (old: 33) lydo: Nhặt từ map at 03/11/2023 6:45 PM
+BAG:shadowsword add 35xHoa hồng vàng (old: 34) lydo: Nhặt từ map at 03/11/2023 6:45 PM
+BAG:shadowsword add 55xHoa hồng xanh (old: 54) lydo: Nhặt từ map at 03/11/2023 6:45 PM
+BAG:shadowsword add 47xHoa hồng đỏ (old: 46) lydo: Nhặt từ map at 03/11/2023 6:46 PM
+BAG:shadowsword add 36xHoa hồng vàng (old: 35) lydo: Nhặt từ map at 03/11/2023 6:46 PM
+BAG:shadowsword add 48xHoa hồng đỏ (old: 47) lydo: Nhặt từ map at 03/11/2023 6:46 PM
+BAG:shadowsword add 37xHoa hồng vàng (old: 36) lydo: Nhặt từ map at 03/11/2023 6:46 PM
+BAG:shadowsword add 49xHoa hồng đỏ (old: 48) lydo: Nhặt từ map at 03/11/2023 6:47 PM
+BAG:shadowsword add 10xĐá Ruby (old: 9) lydo: Nhặt từ map at 03/11/2023 6:48 PM
+BAG:shadowsword add 56xHoa hồng xanh (old: 55) lydo: Nhặt từ map at 03/11/2023 6:48 PM
+BAG:shadowsword add 50xHoa hồng đỏ (old: 49) lydo: Nhặt từ map at 03/11/2023 6:48 PM
+BAG:shadowsword add 51xHoa hồng đỏ (old: 50) lydo: Nhặt từ map at 03/11/2023 6:48 PM
+BAG:shadowsword add 9xĐá thạch anh tím (old: 8) lydo: Nhặt từ map at 03/11/2023 6:49 PM
+BAG:shadowsword add 38xHoa hồng vàng (old: 37) lydo: Nhặt từ map at 03/11/2023 6:49 PM
+BAG:shadowsword add 39xHoa hồng vàng (old: 38) lydo: Nhặt từ map at 03/11/2023 6:49 PM
+BAG:shadowsword add 52xHoa hồng đỏ (old: 51) lydo: Nhặt từ map at 03/11/2023 6:49 PM
+BAG:shadowsword add 40xHoa hồng vàng (old: 39) lydo: Nhặt từ map at 03/11/2023 6:49 PM
+BAG:shadowsword add 41xHoa hồng vàng (old: 40) lydo: Nhặt từ map at 03/11/2023 6:49 PM
+BAG:shadowsword add 10xĐá Titan (old: 9) lydo: Nhặt từ map at 03/11/2023 6:50 PM
+BAG:shadowsword add 42xHoa hồng vàng (old: 41) lydo: Nhặt từ map at 03/11/2023 6:50 PM
+BAG:shadowsword add 10xĐá thạch anh tím (old: 9) lydo: Nhặt từ map at 03/11/2023 6:50 PM
+BAG:shadowsword add 53xHoa hồng đỏ (old: 52) lydo: Nhặt từ map at 03/11/2023 6:51 PM
+BAG:shadowsword add 57xHoa hồng xanh (old: 56) lydo: Nhặt từ map at 03/11/2023 6:51 PM
+BAG:shadowsword add 54xHoa hồng đỏ (old: 53) lydo: Nhặt từ map at 03/11/2023 6:51 PM
+BAG:shadowsword add 55xHoa hồng đỏ (old: 54) lydo: Nhặt từ map at 03/11/2023 6:51 PM
+BAG:shadowsword add 11xĐá Ruby (old: 10) lydo: Nhặt từ map at 03/11/2023 6:52 PM
+BAG:shadowsword add 43xHoa hồng vàng (old: 42) lydo: Nhặt từ map at 03/11/2023 6:52 PM
+BAG:shadowsword add 11xĐá Titan (old: 10) lydo: Nhặt từ map at 03/11/2023 6:52 PM
+BAG:shadowsword add 56xHoa hồng đỏ (old: 55) lydo: Nhặt từ map at 03/11/2023 6:52 PM
+BAG:shadowsword add 58xHoa hồng xanh (old: 57) lydo: Nhặt từ map at 03/11/2023 6:52 PM
+BAG:shadowsword add 59xHoa hồng xanh (old: 58) lydo: Nhặt từ map at 03/11/2023 6:52 PM
+BAG:shadowsword add 44xHoa hồng vàng (old: 43) lydo: Nhặt từ map at 03/11/2023 6:53 PM
+BAG:shadowsword add 45xHoa hồng vàng (old: 44) lydo: Nhặt từ map at 03/11/2023 6:53 PM
+BAG:shadowsword add 46xHoa hồng vàng (old: 45) lydo: Nhặt từ map at 03/11/2023 6:53 PM
+BAG:shadowsword add 60xHoa hồng xanh (old: 59) lydo: Nhặt từ map at 03/11/2023 6:53 PM
+BAG:shadowsword add 47xHoa hồng vàng (old: 46) lydo: Nhặt từ map at 03/11/2023 6:54 PM
+BAG:shadowsword add 48xHoa hồng vàng (old: 47) lydo: Nhặt từ map at 03/11/2023 6:54 PM
+BAG:shadowsword add 61xHoa hồng xanh (old: 60) lydo: Nhặt từ map at 03/11/2023 6:54 PM
+BAG:shadowsword add 57xHoa hồng đỏ (old: 56) lydo: Nhặt từ map at 03/11/2023 6:55 PM
+BAG:shadowsword add 62xHoa hồng xanh (old: 61) lydo: Nhặt từ map at 03/11/2023 6:55 PM
+BAG:shadowsword add 58xHoa hồng đỏ (old: 57) lydo: Nhặt từ map at 03/11/2023 6:56 PM
+BAG:shadowsword add 59xHoa hồng đỏ (old: 58) lydo: Nhặt từ map at 03/11/2023 6:56 PM
+BAG:shadowsword add 49xHoa hồng vàng (old: 48) lydo: Nhặt từ map at 03/11/2023 6:56 PM
+BAG:shadowsword add 60xHoa hồng đỏ (old: 59) lydo: Nhặt từ map at 03/11/2023 6:56 PM
+BAG:shadowsword add 50xHoa hồng vàng (old: 49) lydo: Nhặt từ map at 03/11/2023 6:57 PM
+BAG:shadowsword add 63xHoa hồng xanh (old: 62) lydo: Nhặt từ map at 03/11/2023 6:57 PM
+BAG:shadowsword add 61xHoa hồng đỏ (old: 60) lydo: Nhặt từ map at 03/11/2023 6:57 PM

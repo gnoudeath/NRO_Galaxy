@@ -1,0 +1,1009 @@
+BAG:bipikcon add 1xHoa hồng vàng lydo: Nhặt từ map at 03/11/2023 5:03 AM
+BAG:bipikcon add 4xHồn linh thú (old: 3) lydo: Nhặt từ map at 03/11/2023 5:03 AM
+BAG:bipikcon add 1xHoa hồng đỏ lydo: Nhặt từ map at 03/11/2023 5:03 AM
+BAG:bipikcon add 2xHoa hồng đỏ (old: 1) lydo: Nhặt từ map at 03/11/2023 5:04 AM
+BAG:bipikcon add 3xHoa hồng đỏ (old: 2) lydo: Nhặt từ map at 03/11/2023 5:04 AM
+BAG:bipikcon add 1xNgọc Rồng 4 sao lydo: Nhặt từ map at 03/11/2023 5:04 AM
+BAG:bipikcon add 1xHoa hồng vàng lydo: Nhặt từ map at 03/11/2023 5:05 AM
+BAG:bipikcon add 4xHoa hồng đỏ (old: 3) lydo: Nhặt từ map at 03/11/2023 5:05 AM
+BAG:bipikcon add 1xHoa hồng xanh lydo: Nhặt từ map at 03/11/2023 5:05 AM
+BAG:bipikcon add 2xHoa hồng xanh (old: 1) lydo: Nhặt từ map at 03/11/2023 5:05 AM
+BAG:bipikcon add 2xHoa hồng vàng (old: 1) lydo: Nhặt từ map at 03/11/2023 5:06 AM
+BAG:bipikcon add 5xHoa hồng đỏ (old: 4) lydo: Nhặt từ map at 03/11/2023 5:06 AM
+BAG:bipikcon add 3xHoa hồng xanh (old: 2) lydo: Nhặt từ map at 03/11/2023 5:06 AM
+BAG:bipikcon add 6xHoa hồng đỏ (old: 5) lydo: Nhặt từ map at 03/11/2023 5:06 AM
+BAG:bipikcon add 7xHoa hồng đỏ (old: 6) lydo: Nhặt từ map at 03/11/2023 5:06 AM
+BAG:bipikcon add 100xThỏi vàng lydo: Giftcode at 03/11/2023 5:08 AM
+BAG:bipikcon add 4xHoa hồng xanh (old: 3) lydo: Nhặt từ map at 03/11/2023 5:08 AM
+BAG:bipikcon add 1xÁo sợi len lydo: Nhặt từ map at 03/11/2023 5:09 AM
+BAG:bipikcon add 1xĐá lục bảo lydo: Nhặt từ map at 03/11/2023 5:09 AM
+BAG:bipikcon add 8xHoa hồng đỏ (old: 7) lydo: Nhặt từ map at 03/11/2023 5:10 AM
+BAG:bipikcon add 1xĐá Titan lydo: Nhặt từ map at 03/11/2023 5:10 AM
+BAG:bipikcon add 5xHoa hồng xanh (old: 4) lydo: Nhặt từ map at 03/11/2023 5:11 AM
+BAG:bipikcon add 9xHoa hồng đỏ (old: 8) lydo: Nhặt từ map at 03/11/2023 5:11 AM
+BAG:bipikcon add 3xHoa hồng vàng (old: 2) lydo: Nhặt từ map at 03/11/2023 5:11 AM
+BAG:bipikcon add 6xHoa hồng xanh (old: 5) lydo: Nhặt từ map at 03/11/2023 5:11 AM
+BAG:bipikcon add 4xHoa hồng vàng (old: 3) lydo: Nhặt từ map at 03/11/2023 5:11 AM
+BAG:bipikcon add 5xHoa hồng vàng (old: 4) lydo: Nhặt từ map at 03/11/2023 5:11 AM
+BAG:bipikcon add 10xHoa hồng đỏ (old: 9) lydo: Nhặt từ map at 03/11/2023 5:11 AM
+BAG:bipikcon add 6xHoa hồng vàng (old: 5) lydo: Nhặt từ map at 03/11/2023 5:12 AM
+BAG:bipikcon add 7xHoa hồng vàng (old: 6) lydo: Nhặt từ map at 03/11/2023 5:12 AM
+BAG:bipikcon add 7xHoa hồng xanh (old: 6) lydo: Nhặt từ map at 03/11/2023 5:12 AM
+BAG:bipikcon add 1xHoa hồng đỏ lydo: Nhặt từ map at 03/11/2023 5:12 AM
+BAG:bipikcon add 2xHoa hồng đỏ (old: 1) lydo: Nhặt từ map at 03/11/2023 5:12 AM
+BAG:bipikcon add 1xNgọc Rồng 6 sao lydo: Nhặt từ map at 03/11/2023 5:12 AM
+BAG:bipikcon add 1xHoa hồng đỏ lydo: Nhặt từ map at 03/11/2023 5:12 AM
+BAG:bipikcon add 1xNgọc Rồng 3 sao lydo: Nhặt từ map at 03/11/2023 5:13 AM
+BAG:bipikcon add 1xHoa hồng vàng lydo: Nhặt từ map at 03/11/2023 5:13 AM
+BAG:bipikcon add 1xHoa hồng xanh lydo: Nhặt từ map at 03/11/2023 5:13 AM
+BAG:bipikcon add 1xHoa hồng vàng lydo: Nhặt từ map at 03/11/2023 5:13 AM
+BAG:bipikcon add 2xHoa hồng vàng (old: 1) lydo: Nhặt từ map at 03/11/2023 5:13 AM
+BAG:bipikcon add 3xHoa hồng vàng (old: 2) lydo: Nhặt từ map at 03/11/2023 5:13 AM
+BAG:bipikcon add 2xHoa hồng xanh (old: 1) lydo: Nhặt từ map at 03/11/2023 5:14 AM
+BAG:bipikcon add 4xHoa hồng vàng (old: 3) lydo: Nhặt từ map at 03/11/2023 5:14 AM
+BAG:bipikcon add 5xHoa hồng vàng (old: 4) lydo: Nhặt từ map at 03/11/2023 5:14 AM
+BAG:bipikcon add 3xHoa hồng xanh (old: 2) lydo: Nhặt từ map at 03/11/2023 5:14 AM
+BAG:bipikcon add 1xHoa hồng đỏ lydo: Nhặt từ map at 03/11/2023 5:14 AM
+BAG:bipikcon add 2xHoa hồng đỏ (old: 1) lydo: Nhặt từ map at 03/11/2023 5:15 AM
+BAG:bipikcon add 4xHoa hồng xanh (old: 3) lydo: Nhặt từ map at 03/11/2023 5:15 AM
+BAG:bipikcon add 3xHoa hồng đỏ (old: 2) lydo: Nhặt từ map at 03/11/2023 5:15 AM
+BAG:bipikcon add 5xHoa hồng xanh (old: 4) lydo: Nhặt từ map at 03/11/2023 5:15 AM
+BAG:bipikcon add 6xHoa hồng vàng (old: 5) lydo: Nhặt từ map at 03/11/2023 5:16 AM
+BAG:bipikcon add 6xHoa hồng xanh (old: 5) lydo: Nhặt từ map at 03/11/2023 5:16 AM
+BAG:bipikcon add 2xNgọc Rồng 4 sao (old: 1) lydo: Nhặt từ map at 03/11/2023 5:16 AM
+BAG:bipikcon add 4xHoa hồng đỏ (old: 3) lydo: Nhặt từ map at 03/11/2023 5:16 AM
+BAG:bipikcon add 7xHoa hồng xanh (old: 6) lydo: Nhặt từ map at 03/11/2023 5:16 AM
+BAG:bipikcon add 5xHoa hồng đỏ (old: 4) lydo: Nhặt từ map at 03/11/2023 5:16 AM
+BAG:bipikcon add 6xHoa hồng đỏ (old: 5) lydo: Nhặt từ map at 03/11/2023 5:16 AM
+BAG:bipikcon add 7xHoa hồng vàng (old: 6) lydo: Nhặt từ map at 03/11/2023 5:17 AM
+BAG:bipikcon add 8xHoa hồng xanh (old: 7) lydo: Nhặt từ map at 03/11/2023 5:17 AM
+BAG:bipikcon add 9xHoa hồng xanh (old: 8) lydo: Nhặt từ map at 03/11/2023 5:17 AM
+BAG:bipikcon add 10xHoa hồng xanh (old: 9) lydo: Nhặt từ map at 03/11/2023 5:17 AM
+BAG:bipikcon add 11xHoa hồng xanh (old: 10) lydo: Nhặt từ map at 03/11/2023 5:18 AM
+BAG:bipikcon add 12xHoa hồng xanh (old: 11) lydo: Nhặt từ map at 03/11/2023 5:18 AM
+BAG:bipikcon add 2xNgọc Rồng 6 sao (old: 1) lydo: Nhặt từ map at 03/11/2023 5:18 AM
+BAG:bipikcon add 13xHoa hồng xanh (old: 12) lydo: Nhặt từ map at 03/11/2023 5:18 AM
+BAG:bipikcon add 14xHoa hồng xanh (old: 13) lydo: Nhặt từ map at 03/11/2023 5:18 AM
+BAG:bipikcon add 15xHoa hồng xanh (old: 14) lydo: Nhặt từ map at 03/11/2023 5:19 AM
+BAG:bipikcon add 16xHoa hồng xanh (old: 15) lydo: Nhặt từ map at 03/11/2023 5:19 AM
+BAG:bipikcon add 1xHoa hồng vàng lydo: Nhặt từ map at 03/11/2023 5:19 AM
+BAG:bipikcon add 1xHoa hồng xanh lydo: Nhặt từ map at 03/11/2023 5:19 AM
+BAG:bipikcon add 2xHoa hồng vàng (old: 1) lydo: Nhặt từ map at 03/11/2023 5:19 AM
+BAG:bipikcon add 2xHoa hồng xanh (old: 1) lydo: Nhặt từ map at 03/11/2023 5:20 AM
+BAG:bipikcon add 3xHoa hồng xanh (old: 2) lydo: Nhặt từ map at 03/11/2023 5:20 AM
+BAG:bipikcon add 4xHoa hồng xanh (old: 3) lydo: Nhặt từ map at 03/11/2023 5:20 AM
+BAG:bipikcon add 3xHoa hồng vàng (old: 2) lydo: Nhặt từ map at 03/11/2023 5:20 AM
+BAG:bipikcon add 4xHoa hồng vàng (old: 3) lydo: Nhặt từ map at 03/11/2023 5:20 AM
+BAG:bipikcon add 3xNgọc Rồng 6 sao (old: 2) lydo: Nhặt từ map at 03/11/2023 5:20 AM
+BAG:bipikcon add 5xHoa hồng vàng (old: 4) lydo: Nhặt từ map at 03/11/2023 5:20 AM
+BAG:bipikcon add 5xHoa hồng xanh (old: 4) lydo: Nhặt từ map at 03/11/2023 5:20 AM
+BAG:bipikcon add 6xHoa hồng vàng (old: 5) lydo: Nhặt từ map at 03/11/2023 5:21 AM
+BAG:bipikcon add 7xHoa hồng vàng (old: 6) lydo: Nhặt từ map at 03/11/2023 5:21 AM
+BAG:bipikcon add 5xHồn linh thú (old: 4) lydo: Nhặt từ map at 03/11/2023 5:21 AM
+BAG:bipikcon add 1xHoa hồng đỏ lydo: Nhặt từ map at 03/11/2023 5:21 AM
+BAG:bipikcon add 8xHoa hồng vàng (old: 7) lydo: Nhặt từ map at 03/11/2023 5:22 AM
+BAG:bipikcon add 6xHồn linh thú (old: 5) lydo: Nhặt từ map at 03/11/2023 5:22 AM
+BAG:bipikcon add 6xHoa hồng xanh (old: 5) lydo: Nhặt từ map at 03/11/2023 5:22 AM
+BAG:bipikcon add 9xHoa hồng vàng (old: 8) lydo: Nhặt từ map at 03/11/2023 5:22 AM
+BAG:bipikcon add 2xHoa hồng đỏ (old: 1) lydo: Nhặt từ map at 03/11/2023 5:22 AM
+BAG:bipikcon add 3xHoa hồng đỏ (old: 2) lydo: Nhặt từ map at 03/11/2023 5:22 AM
+BAG:bipikcon add 7xHoa hồng xanh (old: 6) lydo: Nhặt từ map at 03/11/2023 5:23 AM
+BAG:bipikcon add 4xHoa hồng đỏ (old: 3) lydo: Nhặt từ map at 03/11/2023 5:23 AM
+BAG:bipikcon add 5xHoa hồng đỏ (old: 4) lydo: Nhặt từ map at 03/11/2023 5:23 AM
+BAG:bipikcon add 10xHoa hồng vàng (old: 9) lydo: Nhặt từ map at 03/11/2023 5:23 AM
+BAG:bipikcon add 8xHoa hồng xanh (old: 7) lydo: Nhặt từ map at 03/11/2023 5:23 AM
+BAG:bipikcon add 7xHồn linh thú (old: 6) lydo: Nhặt từ map at 03/11/2023 5:24 AM
+BAG:bipikcon add 9xHoa hồng xanh (old: 8) lydo: Nhặt từ map at 03/11/2023 5:24 AM
+BAG:bipikcon add 6xHoa hồng đỏ (old: 5) lydo: Nhặt từ map at 03/11/2023 5:24 AM
+BAG:bipikcon add 7xHoa hồng đỏ (old: 6) lydo: Nhặt từ map at 03/11/2023 5:24 AM
+BAG:bipikcon add 8xHoa hồng đỏ (old: 7) lydo: Nhặt từ map at 03/11/2023 5:24 AM
+BAG:bipikcon add 10xHoa hồng xanh (old: 9) lydo: Nhặt từ map at 03/11/2023 5:25 AM
+BAG:bipikcon add 9xHoa hồng đỏ (old: 8) lydo: Nhặt từ map at 03/11/2023 5:25 AM
+BAG:bipikcon add 11xHoa hồng xanh (old: 10) lydo: Nhặt từ map at 03/11/2023 5:25 AM
+BAG:bipikcon add 10xHoa hồng đỏ (old: 9) lydo: Nhặt từ map at 03/11/2023 5:25 AM
+BAG:bipikcon add 1xNgọc Rồng 5 sao lydo: Nhặt từ map at 03/11/2023 5:25 AM
+BAG:bipikcon add 11xHoa hồng đỏ (old: 10) lydo: Nhặt từ map at 03/11/2023 5:25 AM
+BAG:bipikcon add 4xNgọc Rồng 6 sao (old: 3) lydo: Nhặt từ map at 03/11/2023 5:25 AM
+BAG:bipikcon add 12xHoa hồng xanh (old: 11) lydo: Nhặt từ map at 03/11/2023 5:25 AM
+BAG:bipikcon add 5xNgọc Rồng 6 sao (old: 4) lydo: Nhặt từ map at 03/11/2023 5:26 AM
+BAG:bipikcon add 1xHoa hồng vàng lydo: Nhặt từ map at 03/11/2023 5:26 AM
+BAG:bipikcon add 6xNgọc Rồng 6 sao (old: 5) lydo: Nhặt từ map at 03/11/2023 5:26 AM
+BAG:bipikcon add 8xHồn linh thú (old: 7) lydo: Nhặt từ map at 03/11/2023 5:26 AM
+BAG:bipikcon add 1xHoa hồng xanh lydo: Nhặt từ map at 03/11/2023 5:26 AM
+BAG:bipikcon add 1xHoa hồng đỏ lydo: Nhặt từ map at 03/11/2023 5:27 AM
+BAG:bipikcon add 9xHồn linh thú (old: 8) lydo: Nhặt từ map at 03/11/2023 5:28 AM
+BAG:bipikcon add 1xHoa hồng đỏ lydo: Nhặt từ map at 03/11/2023 5:28 AM
+BAG:bipikcon add 10xHồn linh thú (old: 9) lydo: Nhặt từ map at 03/11/2023 5:28 AM
+BAG:bipikcon add 1xHoa hồng vàng lydo: Nhặt từ map at 03/11/2023 5:28 AM
+BAG:bipikcon add 1xHoa hồng xanh lydo: Nhặt từ map at 03/11/2023 5:29 AM
+BAG:bipikcon add 2xHoa hồng đỏ (old: 1) lydo: Nhặt từ map at 03/11/2023 5:29 AM
+BAG:bipikcon add 2xHoa hồng vàng (old: 1) lydo: Nhặt từ map at 03/11/2023 5:29 AM
+BAG:bipikcon add 2xHoa hồng xanh (old: 1) lydo: Nhặt từ map at 03/11/2023 5:29 AM
+BAG:bipikcon add 2xNgọc Rồng 3 sao (old: 1) lydo: Nhặt từ map at 03/11/2023 5:30 AM
+BAG:bipikcon add 3xHoa hồng vàng (old: 2) lydo: Nhặt từ map at 03/11/2023 5:30 AM
+BAG:bipikcon add 3xHoa hồng đỏ (old: 2) lydo: Nhặt từ map at 03/11/2023 5:30 AM
+BAG:bipikcon add 7xNgọc Rồng 6 sao (old: 6) lydo: Nhặt từ map at 03/11/2023 5:30 AM
+BAG:bipikcon add 3xHoa hồng xanh (old: 2) lydo: Nhặt từ map at 03/11/2023 5:31 AM
+BAG:bipikcon add 3xNgọc Rồng 3 sao (old: 2) lydo: Nhặt từ map at 03/11/2023 5:31 AM
+BAG:bipikcon add 4xHoa hồng đỏ (old: 3) lydo: Nhặt từ map at 03/11/2023 5:31 AM
+BAG:bipikcon add 4xHoa hồng xanh (old: 3) lydo: Nhặt từ map at 03/11/2023 5:32 AM
+BAG:bipikcon add 5xHoa hồng xanh (old: 4) lydo: Nhặt từ map at 03/11/2023 5:32 AM
+BAG:bipikcon add 5xHoa hồng đỏ (old: 4) lydo: Nhặt từ map at 03/11/2023 5:32 AM
+BAG:bipikcon add 11xHồn linh thú (old: 10) lydo: Nhặt từ map at 03/11/2023 5:33 AM
+BAG:bipikcon add 4xHoa hồng vàng (old: 3) lydo: Nhặt từ map at 03/11/2023 5:33 AM
+BAG:bipikcon add 5xHoa hồng vàng (old: 4) lydo: Nhặt từ map at 03/11/2023 5:33 AM
+BAG:bipikcon add 6xHoa hồng đỏ (old: 5) lydo: Nhặt từ map at 03/11/2023 5:33 AM
+BAG:bipikcon add 6xHoa hồng xanh (old: 5) lydo: Nhặt từ map at 03/11/2023 5:33 AM
+BAG:bipikcon add 6xHoa hồng vàng (old: 5) lydo: Nhặt từ map at 03/11/2023 5:34 AM
+BAG:bipikcon add 8xNgọc Rồng 6 sao (old: 7) lydo: Nhặt từ map at 03/11/2023 5:34 AM
+BAG:bipikcon add 7xHoa hồng vàng (old: 6) lydo: Nhặt từ map at 03/11/2023 5:34 AM
+BAG:bipikcon add 7xHoa hồng xanh (old: 6) lydo: Nhặt từ map at 03/11/2023 5:34 AM
+BAG:bipikcon add 8xHoa hồng vàng (old: 7) lydo: Nhặt từ map at 03/11/2023 5:35 AM
+BAG:bipikcon add 7xHoa hồng đỏ (old: 6) lydo: Nhặt từ map at 03/11/2023 5:35 AM
+BAG:bipikcon add 8xHoa hồng xanh (old: 7) lydo: Nhặt từ map at 03/11/2023 5:35 AM
+BAG:bipikcon add 9xHoa hồng vàng (old: 8) lydo: Nhặt từ map at 03/11/2023 5:35 AM
+BAG:bipikcon add 9xHoa hồng xanh (old: 8) lydo: Nhặt từ map at 03/11/2023 5:36 AM
+BAG:bipikcon add 12xHồn linh thú (old: 11) lydo: Nhặt từ map at 03/11/2023 5:36 AM
+BAG:bipikcon add 10xHoa hồng xanh (old: 9) lydo: Nhặt từ map at 03/11/2023 5:36 AM
+BAG:bipikcon add 13xHồn linh thú (old: 12) lydo: Nhặt từ map at 03/11/2023 5:36 AM
+BAG:bipikcon add 10xHoa hồng vàng (old: 9) lydo: Nhặt từ map at 03/11/2023 5:36 AM
+BAG:bipikcon add 14xHồn linh thú (old: 13) lydo: Nhặt từ map at 03/11/2023 5:36 AM
+BAG:bipikcon add 11xHoa hồng vàng (old: 10) lydo: Nhặt từ map at 03/11/2023 5:37 AM
+BAG:bipikcon add 12xHoa hồng vàng (old: 11) lydo: Nhặt từ map at 03/11/2023 5:37 AM
+BAG:bipikcon add 8xHoa hồng đỏ (old: 7) lydo: Nhặt từ map at 03/11/2023 5:37 AM
+BAG:bipikcon add 11xHoa hồng xanh (old: 10) lydo: Nhặt từ map at 03/11/2023 5:38 AM
+BAG:bipikcon add 12xHoa hồng xanh (old: 11) lydo: Nhặt từ map at 03/11/2023 5:38 AM
+BAG:bipikcon add 9xHoa hồng đỏ (old: 8) lydo: Nhặt từ map at 03/11/2023 5:39 AM
+BAG:bipikcon add 10xHoa hồng đỏ (old: 9) lydo: Nhặt từ map at 03/11/2023 5:39 AM
+BAG:bipikcon add 13xHoa hồng xanh (old: 12) lydo: Nhặt từ map at 03/11/2023 5:39 AM
+BAG:bipikcon add 13xHoa hồng vàng (old: 12) lydo: Nhặt từ map at 03/11/2023 5:40 AM
+BAG:bipikcon add 11xHoa hồng đỏ (old: 10) lydo: Nhặt từ map at 03/11/2023 5:40 AM
+BAG:bipikcon add 14xHoa hồng xanh (old: 13) lydo: Nhặt từ map at 03/11/2023 5:40 AM
+BAG:bipikcon add 12xHoa hồng đỏ (old: 11) lydo: Nhặt từ map at 03/11/2023 5:40 AM
+BAG:bipikcon add 15xHồn linh thú (old: 14) lydo: Nhặt từ map at 03/11/2023 5:40 AM
+BAG:bipikcon add 16xHồn linh thú (old: 15) lydo: Nhặt từ map at 03/11/2023 5:40 AM
+BAG:bipikcon add 13xHoa hồng đỏ (old: 12) lydo: Nhặt từ map at 03/11/2023 5:40 AM
+BAG:bipikcon add 17xHồn linh thú (old: 16) lydo: Nhặt từ map at 03/11/2023 5:41 AM
+BAG:bipikcon add 14xHoa hồng đỏ (old: 13) lydo: Nhặt từ map at 03/11/2023 5:41 AM
+BAG:bipikcon add 15xHoa hồng xanh (old: 14) lydo: Nhặt từ map at 03/11/2023 5:41 AM
+BAG:bipikcon add 16xHoa hồng xanh (old: 15) lydo: Nhặt từ map at 03/11/2023 5:41 AM
+BAG:bipikcon add 9xNgọc Rồng 6 sao (old: 8) lydo: Nhặt từ map at 03/11/2023 5:42 AM
+BAG:bipikcon add 14xHoa hồng vàng (old: 13) lydo: Nhặt từ map at 03/11/2023 5:42 AM
+BAG:bipikcon add 15xHoa hồng vàng (old: 14) lydo: Nhặt từ map at 03/11/2023 5:42 AM
+BAG:bipikcon add 16xHoa hồng vàng (old: 15) lydo: Nhặt từ map at 03/11/2023 5:43 AM
+BAG:bipikcon add 10xNgọc Rồng 6 sao (old: 9) lydo: Nhặt từ map at 03/11/2023 5:43 AM
+BAG:bipikcon add 15xHoa hồng đỏ (old: 14) lydo: Nhặt từ map at 03/11/2023 5:43 AM
+BAG:bipikcon add 17xHoa hồng xanh (old: 16) lydo: Nhặt từ map at 03/11/2023 5:43 AM
+BAG:bipikcon add 17xHoa hồng vàng (old: 16) lydo: Nhặt từ map at 03/11/2023 5:43 AM
+BAG:bipikcon add 18xHồn linh thú (old: 17) lydo: Nhặt từ map at 03/11/2023 5:43 AM
+BAG:bipikcon add 18xHoa hồng vàng (old: 17) lydo: Nhặt từ map at 03/11/2023 5:44 AM
+BAG:bipikcon add 19xHoa hồng vàng (old: 18) lydo: Nhặt từ map at 03/11/2023 5:44 AM
+BAG:bipikcon add 16xHoa hồng đỏ (old: 15) lydo: Nhặt từ map at 03/11/2023 5:44 AM
+BAG:bipikcon add 20xHoa hồng vàng (old: 19) lydo: Nhặt từ map at 03/11/2023 5:45 AM
+BAG:bipikcon add 21xHoa hồng vàng (old: 20) lydo: Nhặt từ map at 03/11/2023 5:45 AM
+BAG:bipikcon add 17xHoa hồng đỏ (old: 16) lydo: Nhặt từ map at 03/11/2023 5:45 AM
+BAG:bipikcon add 22xHoa hồng vàng (old: 21) lydo: Nhặt từ map at 03/11/2023 5:45 AM
+BAG:bipikcon add 19xHồn linh thú (old: 18) lydo: Nhặt từ map at 03/11/2023 5:45 AM
+BAG:bipikcon add 23xHoa hồng vàng (old: 22) lydo: Nhặt từ map at 03/11/2023 5:46 AM
+BAG:bipikcon add 24xHoa hồng vàng (old: 23) lydo: Nhặt từ map at 03/11/2023 5:46 AM
+BAG:bipikcon add 18xHoa hồng đỏ (old: 17) lydo: Nhặt từ map at 03/11/2023 5:46 AM
+BAG:bipikcon add 3xNgọc Rồng 4 sao (old: 2) lydo: Nhặt từ map at 03/11/2023 5:46 AM
+BAG:bipikcon add 20xHồn linh thú (old: 19) lydo: Nhặt từ map at 03/11/2023 5:46 AM
+BAG:bipikcon add 19xHoa hồng đỏ (old: 18) lydo: Nhặt từ map at 03/11/2023 5:46 AM
+BAG:bipikcon add 20xHoa hồng đỏ (old: 19) lydo: Nhặt từ map at 03/11/2023 5:47 AM
+BAG:bipikcon add 18xHoa hồng xanh (old: 17) lydo: Nhặt từ map at 03/11/2023 5:47 AM
+BAG:bipikcon add 25xHoa hồng vàng (old: 24) lydo: Nhặt từ map at 03/11/2023 5:47 AM
+BAG:bipikcon add 21xHồn linh thú (old: 20) lydo: Nhặt từ map at 03/11/2023 5:47 AM
+BAG:bipikcon add 26xHoa hồng vàng (old: 25) lydo: Nhặt từ map at 03/11/2023 5:48 AM
+BAG:bipikcon add 4xNgọc Rồng 3 sao (old: 3) lydo: Nhặt từ map at 03/11/2023 5:48 AM
+BAG:bipikcon add 19xHoa hồng xanh (old: 18) lydo: Nhặt từ map at 03/11/2023 5:48 AM
+BAG:bipikcon add 20xHoa hồng xanh (old: 19) lydo: Nhặt từ map at 03/11/2023 5:48 AM
+BAG:bipikcon add 21xHoa hồng xanh (old: 20) lydo: Nhặt từ map at 03/11/2023 5:48 AM
+BAG:bipikcon add 21xHoa hồng đỏ (old: 20) lydo: Nhặt từ map at 03/11/2023 5:48 AM
+BAG:bipikcon add 22xHoa hồng xanh (old: 21) lydo: Nhặt từ map at 03/11/2023 5:49 AM
+BAG:bipikcon add 23xHoa hồng xanh (old: 22) lydo: Nhặt từ map at 03/11/2023 5:49 AM
+BAG:bipikcon add 24xHoa hồng xanh (old: 23) lydo: Nhặt từ map at 03/11/2023 5:49 AM
+BAG:bipikcon add 27xHoa hồng vàng (old: 26) lydo: Nhặt từ map at 03/11/2023 5:50 AM
+BAG:bipikcon add 22xHoa hồng đỏ (old: 21) lydo: Nhặt từ map at 03/11/2023 5:50 AM
+BAG:bipikcon add 22xHồn linh thú (old: 21) lydo: Nhặt từ map at 03/11/2023 5:50 AM
+BAG:bipikcon add 2xNgọc Rồng 5 sao (old: 1) lydo: Nhặt từ map at 03/11/2023 5:50 AM
+BAG:bipikcon add 28xHoa hồng vàng (old: 27) lydo: Nhặt từ map at 03/11/2023 5:50 AM
+BAG:bipikcon add 29xHoa hồng vàng (old: 28) lydo: Nhặt từ map at 03/11/2023 5:50 AM
+BAG:bipikcon add 23xHoa hồng đỏ (old: 22) lydo: Nhặt từ map at 03/11/2023 5:50 AM
+BAG:bipikcon add 24xHoa hồng đỏ (old: 23) lydo: Nhặt từ map at 03/11/2023 5:50 AM
+BAG:bipikcon add 25xHoa hồng đỏ (old: 24) lydo: Nhặt từ map at 03/11/2023 5:51 AM
+BAG:bipikcon add 11xNgọc Rồng 6 sao (old: 10) lydo: Nhặt từ map at 03/11/2023 5:51 AM
+BAG:bipikcon add 25xHoa hồng xanh (old: 24) lydo: Nhặt từ map at 03/11/2023 5:51 AM
+BAG:bipikcon add 12xNgọc Rồng 6 sao (old: 11) lydo: Nhặt từ map at 03/11/2023 5:52 AM
+BAG:bipikcon add 26xHoa hồng đỏ (old: 25) lydo: Nhặt từ map at 03/11/2023 5:52 AM
+BAG:bipikcon add 27xHoa hồng đỏ (old: 26) lydo: Nhặt từ map at 03/11/2023 5:52 AM
+BAG:bipikcon add 28xHoa hồng đỏ (old: 27) lydo: Nhặt từ map at 03/11/2023 5:52 AM
+BAG:bipikcon add 26xHoa hồng xanh (old: 25) lydo: Nhặt từ map at 03/11/2023 5:53 AM
+BAG:bipikcon add 27xHoa hồng xanh (old: 26) lydo: Nhặt từ map at 03/11/2023 5:53 AM
+BAG:bipikcon add 28xHoa hồng xanh (old: 27) lydo: Nhặt từ map at 03/11/2023 5:53 AM
+BAG:bipikcon add 3xNgọc Rồng 5 sao (old: 2) lydo: Nhặt từ map at 03/11/2023 5:53 AM
+BAG:bipikcon add 29xHoa hồng đỏ (old: 28) lydo: Nhặt từ map at 03/11/2023 5:53 AM
+BAG:bipikcon add 29xHoa hồng xanh (old: 28) lydo: Nhặt từ map at 03/11/2023 5:53 AM
+BAG:bipikcon add 30xHoa hồng vàng (old: 29) lydo: Nhặt từ map at 03/11/2023 5:53 AM
+BAG:bipikcon add 23xHồn linh thú (old: 22) lydo: Nhặt từ map at 03/11/2023 5:54 AM
+BAG:bipikcon add 24xHồn linh thú (old: 23) lydo: Nhặt từ map at 03/11/2023 5:54 AM
+BAG:bipikcon add 30xHoa hồng đỏ (old: 29) lydo: Nhặt từ map at 03/11/2023 5:55 AM
+BAG:bipikcon add 31xHoa hồng vàng (old: 30) lydo: Nhặt từ map at 03/11/2023 5:55 AM
+BAG:bipikcon add 31xHoa hồng đỏ (old: 30) lydo: Nhặt từ map at 03/11/2023 5:55 AM
+BAG:bipikcon add 25xHồn linh thú (old: 24) lydo: Nhặt từ map at 03/11/2023 5:55 AM
+BAG:bipikcon add 32xHoa hồng vàng (old: 31) lydo: Nhặt từ map at 03/11/2023 5:56 AM
+BAG:bipikcon add 1xHoa hồng xanh lydo: Nhặt từ map at 03/11/2023 5:57 AM
+BAG:bipikcon add 1xHoa hồng vàng lydo: Nhặt từ map at 03/11/2023 5:57 AM
+BAG:bipikcon add 4xNgọc Rồng 4 sao (old: 3) lydo: Nhặt từ map at 03/11/2023 5:57 AM
+BAG:bipikcon add 2xHoa hồng xanh (old: 1) lydo: Nhặt từ map at 03/11/2023 5:57 AM
+BAG:bipikcon add 2xHoa hồng vàng (old: 1) lydo: Nhặt từ map at 03/11/2023 5:57 AM
+BAG:bipikcon add 1xHoa hồng đỏ lydo: Nhặt từ map at 03/11/2023 5:58 AM
+BAG:bipikcon add 3xHoa hồng xanh (old: 2) lydo: Nhặt từ map at 03/11/2023 5:58 AM
+BAG:bipikcon add 3xHoa hồng vàng (old: 2) lydo: Nhặt từ map at 03/11/2023 5:58 AM
+BAG:bipikcon add 4xHoa hồng xanh (old: 3) lydo: Nhặt từ map at 03/11/2023 5:58 AM
+BAG:bipikcon add 2xHoa hồng đỏ (old: 1) lydo: Nhặt từ map at 03/11/2023 5:58 AM
+BAG:bipikcon add 1xGăng lưỡng long lydo: Nhặt từ map at 03/11/2023 5:59 AM
+BAG:bipikcon add 26xHồn linh thú (old: 25) lydo: Nhặt từ map at 03/11/2023 5:59 AM
+BAG:bipikcon add 27xHồn linh thú (old: 26) lydo: Nhặt từ map at 03/11/2023 5:59 AM
+BAG:bipikcon add 4xHoa hồng vàng (old: 3) lydo: Nhặt từ map at 03/11/2023 5:59 AM
+BAG:bipikcon add 28xHồn linh thú (old: 27) lydo: Nhặt từ map at 03/11/2023 5:59 AM
+BAG:bipikcon add 3xHoa hồng đỏ (old: 2) lydo: Nhặt từ map at 03/11/2023 6:00 AM
+BAG:bipikcon add 4xHoa hồng đỏ (old: 3) lydo: Nhặt từ map at 03/11/2023 6:00 AM
+BAG:bipikcon add 29xHồn linh thú (old: 28) lydo: Nhặt từ map at 03/11/2023 6:00 AM
+BAG:bipikcon add 5xHoa hồng đỏ (old: 4) lydo: Nhặt từ map at 03/11/2023 6:01 AM
+BAG:bipikcon add 6xHoa hồng đỏ (old: 5) lydo: Nhặt từ map at 03/11/2023 6:01 AM
+BAG:bipikcon add 5xHoa hồng vàng (old: 4) lydo: Nhặt từ map at 03/11/2023 6:01 AM
+BAG:bipikcon add 6xHoa hồng vàng (old: 5) lydo: Nhặt từ map at 03/11/2023 6:01 AM
+BAG:bipikcon add 5xHoa hồng xanh (old: 4) lydo: Nhặt từ map at 03/11/2023 6:01 AM
+BAG:bipikcon add 7xHoa hồng đỏ (old: 6) lydo: Nhặt từ map at 03/11/2023 6:01 AM
+BAG:bipikcon add 8xHoa hồng đỏ (old: 7) lydo: Nhặt từ map at 03/11/2023 6:01 AM
+BAG:bipikcon add 9xHoa hồng đỏ (old: 8) lydo: Nhặt từ map at 03/11/2023 6:02 AM
+BAG:bipikcon add 10xHoa hồng đỏ (old: 9) lydo: Nhặt từ map at 03/11/2023 6:02 AM
+BAG:bipikcon add 7xHoa hồng vàng (old: 6) lydo: Nhặt từ map at 03/11/2023 6:02 AM
+BAG:bipikcon add 8xHoa hồng vàng (old: 7) lydo: Nhặt từ map at 03/11/2023 6:03 AM
+BAG:bipikcon add 6xHoa hồng xanh (old: 5) lydo: Nhặt từ map at 03/11/2023 6:03 AM
+BAG:bipikcon add 5xNgọc Rồng 3 sao (old: 4) lydo: Nhặt từ map at 03/11/2023 6:03 AM
+BAG:bipikcon add 11xHoa hồng đỏ (old: 10) lydo: Nhặt từ map at 03/11/2023 6:03 AM
+BAG:bipikcon add 12xHoa hồng đỏ (old: 11) lydo: Nhặt từ map at 03/11/2023 6:04 AM
+BAG:bipikcon add 9xHoa hồng vàng (old: 8) lydo: Nhặt từ map at 03/11/2023 6:04 AM
+BAG:bipikcon add 10xHoa hồng vàng (old: 9) lydo: Nhặt từ map at 03/11/2023 6:04 AM
+BAG:bipikcon add 30xHồn linh thú (old: 29) lydo: Nhặt từ map at 03/11/2023 6:05 AM
+BAG:bipikcon add 7xHoa hồng xanh (old: 6) lydo: Nhặt từ map at 03/11/2023 6:05 AM
+BAG:bipikcon add 8xHoa hồng xanh (old: 7) lydo: Nhặt từ map at 03/11/2023 6:05 AM
+BAG:bipikcon add 11xHoa hồng vàng (old: 10) lydo: Nhặt từ map at 03/11/2023 6:05 AM
+BAG:bipikcon add 31xHồn linh thú (old: 30) lydo: Nhặt từ map at 03/11/2023 6:05 AM
+BAG:bipikcon add 12xHoa hồng vàng (old: 11) lydo: Nhặt từ map at 03/11/2023 6:05 AM
+BAG:bipikcon add 13xHoa hồng vàng (old: 12) lydo: Nhặt từ map at 03/11/2023 6:05 AM
+BAG:bipikcon add 14xHoa hồng vàng (old: 13) lydo: Nhặt từ map at 03/11/2023 6:06 AM
+BAG:bipikcon add 15xHoa hồng vàng (old: 14) lydo: Nhặt từ map at 03/11/2023 6:07 AM
+BAG:bipikcon add 9xHoa hồng xanh (old: 8) lydo: Nhặt từ map at 03/11/2023 6:07 AM
+BAG:bipikcon add 13xHoa hồng đỏ (old: 12) lydo: Nhặt từ map at 03/11/2023 6:07 AM
+BAG:bipikcon add 10xHoa hồng xanh (old: 9) lydo: Nhặt từ map at 03/11/2023 6:07 AM
+BAG:bipikcon add 14xHoa hồng đỏ (old: 13) lydo: Nhặt từ map at 03/11/2023 6:08 AM
+BAG:bipikcon add 16xHoa hồng vàng (old: 15) lydo: Nhặt từ map at 03/11/2023 6:08 AM
+BAG:bipikcon add 32xHồn linh thú (old: 31) lydo: Nhặt từ map at 03/11/2023 6:08 AM
+BAG:bipikcon add 17xHoa hồng vàng (old: 16) lydo: Nhặt từ map at 03/11/2023 6:08 AM
+BAG:bipikcon add 13xNgọc Rồng 6 sao (old: 12) lydo: Nhặt từ map at 03/11/2023 6:08 AM
+BAG:bipikcon add 11xHoa hồng xanh (old: 10) lydo: Nhặt từ map at 03/11/2023 6:09 AM
+BAG:bipikcon add 12xHoa hồng xanh (old: 11) lydo: Nhặt từ map at 03/11/2023 6:09 AM
+BAG:bipikcon add 13xHoa hồng xanh (old: 12) lydo: Nhặt từ map at 03/11/2023 6:09 AM
+BAG:bipikcon add 15xHoa hồng đỏ (old: 14) lydo: Nhặt từ map at 03/11/2023 6:09 AM
+BAG:bipikcon add 14xHoa hồng xanh (old: 13) lydo: Nhặt từ map at 03/11/2023 6:09 AM
+BAG:bipikcon add 18xHoa hồng vàng (old: 17) lydo: Nhặt từ map at 03/11/2023 6:09 AM
+BAG:bipikcon add 16xHoa hồng đỏ (old: 15) lydo: Nhặt từ map at 03/11/2023 6:09 AM
+BAG:bipikcon add 14xNgọc Rồng 6 sao (old: 13) lydo: Nhặt từ map at 03/11/2023 6:09 AM
+BAG:bipikcon add 17xHoa hồng đỏ (old: 16) lydo: Nhặt từ map at 03/11/2023 6:09 AM
+BAG:bipikcon add 15xHoa hồng xanh (old: 14) lydo: Nhặt từ map at 03/11/2023 6:10 AM
+BAG:bipikcon add 4xNgọc Rồng 5 sao (old: 3) lydo: Nhặt từ map at 03/11/2023 6:10 AM
+BAG:bipikcon add 19xHoa hồng vàng (old: 18) lydo: Nhặt từ map at 03/11/2023 6:10 AM
+BAG:bipikcon add 16xHoa hồng xanh (old: 15) lydo: Nhặt từ map at 03/11/2023 6:10 AM
+BAG:bipikcon add 20xHoa hồng vàng (old: 19) lydo: Nhặt từ map at 03/11/2023 6:10 AM
+BAG:bipikcon add 17xHoa hồng xanh (old: 16) lydo: Nhặt từ map at 03/11/2023 6:11 AM
+BAG:bipikcon add 33xHồn linh thú (old: 32) lydo: Nhặt từ map at 03/11/2023 6:11 AM
+BAG:bipikcon add 18xHoa hồng xanh (old: 17) lydo: Nhặt từ map at 03/11/2023 6:11 AM
+BAG:bipikcon add 21xHoa hồng vàng (old: 20) lydo: Nhặt từ map at 03/11/2023 6:11 AM
+BAG:bipikcon add 22xHoa hồng vàng (old: 21) lydo: Nhặt từ map at 03/11/2023 6:11 AM
+BAG:bipikcon add 19xHoa hồng xanh (old: 18) lydo: Nhặt từ map at 03/11/2023 6:11 AM
+BAG:bipikcon add 20xHoa hồng xanh (old: 19) lydo: Nhặt từ map at 03/11/2023 6:12 AM
+BAG:bipikcon add 18xHoa hồng đỏ (old: 17) lydo: Nhặt từ map at 03/11/2023 6:12 AM
+BAG:bipikcon add 34xHồn linh thú (old: 33) lydo: Nhặt từ map at 03/11/2023 6:12 AM
+BAG:bipikcon add 21xHoa hồng xanh (old: 20) lydo: Nhặt từ map at 03/11/2023 6:12 AM
+BAG:bipikcon add 23xHoa hồng vàng (old: 22) lydo: Nhặt từ map at 03/11/2023 6:12 AM
+BAG:bipikcon add 24xHoa hồng vàng (old: 23) lydo: Nhặt từ map at 03/11/2023 6:12 AM
+BAG:bipikcon add 15xNgọc Rồng 6 sao (old: 14) lydo: Nhặt từ map at 03/11/2023 6:12 AM
+BAG:bipikcon add 16xNgọc Rồng 6 sao (old: 15) lydo: Nhặt từ map at 03/11/2023 6:13 AM
+BAG:bipikcon add 35xHồn linh thú (old: 34) lydo: Nhặt từ map at 03/11/2023 6:13 AM
+BAG:bipikcon add 25xHoa hồng vàng (old: 24) lydo: Nhặt từ map at 03/11/2023 6:13 AM
+BAG:bipikcon add 19xHoa hồng đỏ (old: 18) lydo: Nhặt từ map at 03/11/2023 6:14 AM
+BAG:bipikcon add 20xHoa hồng đỏ (old: 19) lydo: Nhặt từ map at 03/11/2023 6:14 AM
+BAG:bipikcon add 21xHoa hồng đỏ (old: 20) lydo: Nhặt từ map at 03/11/2023 6:15 AM
+BAG:bipikcon add 22xHoa hồng đỏ (old: 21) lydo: Nhặt từ map at 03/11/2023 6:15 AM
+BAG:bipikcon add 23xHoa hồng đỏ (old: 22) lydo: Nhặt từ map at 03/11/2023 6:15 AM
+BAG:bipikcon add 26xHoa hồng vàng (old: 25) lydo: Nhặt từ map at 03/11/2023 6:15 AM
+BAG:bipikcon add 36xHồn linh thú (old: 35) lydo: Nhặt từ map at 03/11/2023 6:16 AM
+BAG:bipikcon add 22xHoa hồng xanh (old: 21) lydo: Nhặt từ map at 03/11/2023 6:16 AM
+BAG:bipikcon add 23xHoa hồng xanh (old: 22) lydo: Nhặt từ map at 03/11/2023 6:16 AM
+BAG:bipikcon add 37xHồn linh thú (old: 36) lydo: Nhặt từ map at 03/11/2023 6:16 AM
+BAG:bipikcon add 27xHoa hồng vàng (old: 26) lydo: Nhặt từ map at 03/11/2023 6:16 AM
+BAG:bipikcon add 24xHoa hồng đỏ (old: 23) lydo: Nhặt từ map at 03/11/2023 6:16 AM
+BAG:bipikcon add 24xHoa hồng xanh (old: 23) lydo: Nhặt từ map at 03/11/2023 6:17 AM
+BAG:bipikcon add 5xNgọc Rồng 5 sao (old: 4) lydo: Nhặt từ map at 03/11/2023 6:17 AM
+BAG:bipikcon add 25xHoa hồng xanh (old: 24) lydo: Nhặt từ map at 03/11/2023 6:17 AM
+BAG:bipikcon add 25xHoa hồng đỏ (old: 24) lydo: Nhặt từ map at 03/11/2023 6:17 AM
+BAG:bipikcon add 26xHoa hồng xanh (old: 25) lydo: Nhặt từ map at 03/11/2023 6:18 AM
+BAG:bipikcon add 27xHoa hồng xanh (old: 26) lydo: Nhặt từ map at 03/11/2023 6:18 AM
+BAG:bipikcon add 28xHoa hồng vàng (old: 27) lydo: Nhặt từ map at 03/11/2023 6:18 AM
+BAG:bipikcon add 26xHoa hồng đỏ (old: 25) lydo: Nhặt từ map at 03/11/2023 6:18 AM
+BAG:bipikcon add 5xNgọc Rồng 4 sao (old: 4) lydo: Nhặt từ map at 03/11/2023 6:19 AM
+BAG:bipikcon add 27xHoa hồng đỏ (old: 26) lydo: Nhặt từ map at 03/11/2023 6:19 AM
+BAG:bipikcon add 29xHoa hồng vàng (old: 28) lydo: Nhặt từ map at 03/11/2023 6:19 AM
+BAG:bipikcon add 6xNgọc Rồng 4 sao (old: 5) lydo: Nhặt từ map at 03/11/2023 6:19 AM
+BAG:bipikcon add 38xHồn linh thú (old: 37) lydo: Nhặt từ map at 03/11/2023 6:19 AM
+BAG:bipikcon add 30xHoa hồng vàng (old: 29) lydo: Nhặt từ map at 03/11/2023 6:19 AM
+BAG:bipikcon add 28xHoa hồng xanh (old: 27) lydo: Nhặt từ map at 03/11/2023 6:20 AM
+BAG:bipikcon add 29xHoa hồng xanh (old: 28) lydo: Nhặt từ map at 03/11/2023 6:20 AM
+BAG:bipikcon add 30xHoa hồng xanh (old: 29) lydo: Nhặt từ map at 03/11/2023 6:20 AM
+BAG:bipikcon add 31xHoa hồng xanh (old: 30) lydo: Nhặt từ map at 03/11/2023 6:20 AM
+BAG:bipikcon add 31xHoa hồng vàng (old: 30) lydo: Nhặt từ map at 03/11/2023 6:20 AM
+BAG:bipikcon add 39xHồn linh thú (old: 38) lydo: Nhặt từ map at 03/11/2023 6:20 AM
+BAG:bipikcon add 32xHoa hồng xanh (old: 31) lydo: Nhặt từ map at 03/11/2023 6:20 AM
+BAG:bipikcon add 33xHoa hồng xanh (old: 32) lydo: Nhặt từ map at 03/11/2023 6:20 AM
+BAG:bipikcon add 34xHoa hồng xanh (old: 33) lydo: Nhặt từ map at 03/11/2023 6:20 AM
+BAG:bipikcon add 35xHoa hồng xanh (old: 34) lydo: Nhặt từ map at 03/11/2023 6:20 AM
+BAG:bipikcon add 6xNgọc Rồng 5 sao (old: 5) lydo: Nhặt từ map at 03/11/2023 6:21 AM
+BAG:bipikcon add 32xHoa hồng vàng (old: 31) lydo: Nhặt từ map at 03/11/2023 6:21 AM
+BAG:bipikcon add 36xHoa hồng xanh (old: 35) lydo: Nhặt từ map at 03/11/2023 6:22 AM
+BAG:bipikcon add 7xNgọc Rồng 4 sao (old: 6) lydo: Nhặt từ map at 03/11/2023 6:22 AM
+BAG:bipikcon add 28xHoa hồng đỏ (old: 27) lydo: Nhặt từ map at 03/11/2023 6:22 AM
+BAG:bipikcon add 33xHoa hồng vàng (old: 32) lydo: Nhặt từ map at 03/11/2023 6:22 AM
+BAG:bipikcon add 37xHoa hồng xanh (old: 36) lydo: Nhặt từ map at 03/11/2023 6:22 AM
+BAG:bipikcon add 34xHoa hồng vàng (old: 33) lydo: Nhặt từ map at 03/11/2023 6:22 AM
+BAG:bipikcon add 35xHoa hồng vàng (old: 34) lydo: Nhặt từ map at 03/11/2023 6:22 AM
+BAG:bipikcon add 29xHoa hồng đỏ (old: 28) lydo: Nhặt từ map at 03/11/2023 6:23 AM
+BAG:bipikcon add 38xHoa hồng xanh (old: 37) lydo: Nhặt từ map at 03/11/2023 6:23 AM
+BAG:bipikcon add 36xHoa hồng vàng (old: 35) lydo: Nhặt từ map at 03/11/2023 6:23 AM
+BAG:bipikcon add 7xNgọc Rồng 5 sao (old: 6) lydo: Nhặt từ map at 03/11/2023 6:23 AM
+BAG:bipikcon add 37xHoa hồng vàng (old: 36) lydo: Nhặt từ map at 03/11/2023 6:23 AM
+BAG:bipikcon add 38xHoa hồng vàng (old: 37) lydo: Nhặt từ map at 03/11/2023 6:23 AM
+BAG:bipikcon add 39xHoa hồng xanh (old: 38) lydo: Nhặt từ map at 03/11/2023 6:23 AM
+BAG:bipikcon add 39xHoa hồng vàng (old: 38) lydo: Nhặt từ map at 03/11/2023 6:24 AM
+BAG:bipikcon add 40xHoa hồng xanh (old: 39) lydo: Nhặt từ map at 03/11/2023 6:24 AM
+BAG:bipikcon add 40xHồn linh thú (old: 39) lydo: Nhặt từ map at 03/11/2023 6:24 AM
+BAG:bipikcon add 40xHoa hồng vàng (old: 39) lydo: Nhặt từ map at 03/11/2023 6:24 AM
+BAG:bipikcon add 41xHoa hồng vàng (old: 40) lydo: Nhặt từ map at 03/11/2023 6:24 AM
+BAG:bipikcon add 42xHoa hồng vàng (old: 41) lydo: Nhặt từ map at 03/11/2023 6:24 AM
+BAG:bipikcon add 41xHồn linh thú (old: 40) lydo: Nhặt từ map at 03/11/2023 6:24 AM
+BAG:bipikcon add 43xHoa hồng vàng (old: 42) lydo: Nhặt từ map at 03/11/2023 6:25 AM
+BAG:bipikcon add 41xHoa hồng xanh (old: 40) lydo: Nhặt từ map at 03/11/2023 6:25 AM
+BAG:bipikcon add 44xHoa hồng vàng (old: 43) lydo: Nhặt từ map at 03/11/2023 6:25 AM
+BAG:bipikcon add 17xNgọc Rồng 6 sao (old: 16) lydo: Nhặt từ map at 03/11/2023 6:26 AM
+BAG:bipikcon add 45xHoa hồng vàng (old: 44) lydo: Nhặt từ map at 03/11/2023 6:26 AM
+BAG:bipikcon add 42xHoa hồng xanh (old: 41) lydo: Nhặt từ map at 03/11/2023 6:26 AM
+BAG:bipikcon add 46xHoa hồng vàng (old: 45) lydo: Nhặt từ map at 03/11/2023 6:27 AM
+BAG:bipikcon add 18xNgọc Rồng 6 sao (old: 17) lydo: Nhặt từ map at 03/11/2023 6:27 AM
+BAG:bipikcon add 42xHồn linh thú (old: 41) lydo: Nhặt từ map at 03/11/2023 6:27 AM
+BAG:bipikcon add 47xHoa hồng vàng (old: 46) lydo: Nhặt từ map at 03/11/2023 6:28 AM
+BAG:bipikcon add 48xHoa hồng vàng (old: 47) lydo: Nhặt từ map at 03/11/2023 6:28 AM
+BAG:bipikcon add 49xHoa hồng vàng (old: 48) lydo: Nhặt từ map at 03/11/2023 6:28 AM
+BAG:bipikcon add 50xHoa hồng vàng (old: 49) lydo: Nhặt từ map at 03/11/2023 6:28 AM
+BAG:bipikcon add 43xHồn linh thú (old: 42) lydo: Nhặt từ map at 03/11/2023 6:28 AM
+BAG:bipikcon add 51xHoa hồng vàng (old: 50) lydo: Nhặt từ map at 03/11/2023 6:29 AM
+BAG:bipikcon add 43xHoa hồng xanh (old: 42) lydo: Nhặt từ map at 03/11/2023 6:29 AM
+BAG:bipikcon add 30xHoa hồng đỏ (old: 29) lydo: Nhặt từ map at 03/11/2023 6:29 AM
+BAG:bipikcon add 44xHoa hồng xanh (old: 43) lydo: Nhặt từ map at 03/11/2023 6:30 AM
+BAG:bipikcon add 52xHoa hồng vàng (old: 51) lydo: Nhặt từ map at 03/11/2023 6:30 AM
+BAG:bipikcon add 53xHoa hồng vàng (old: 52) lydo: Nhặt từ map at 03/11/2023 6:30 AM
+BAG:bipikcon add 31xHoa hồng đỏ (old: 30) lydo: Nhặt từ map at 03/11/2023 6:30 AM
+BAG:bipikcon add 54xHoa hồng vàng (old: 53) lydo: Nhặt từ map at 03/11/2023 6:30 AM
+BAG:bipikcon add 55xHoa hồng vàng (old: 54) lydo: Nhặt từ map at 03/11/2023 6:30 AM
+BAG:bipikcon add 32xHoa hồng đỏ (old: 31) lydo: Nhặt từ map at 03/11/2023 6:30 AM
+BAG:bipikcon add 56xHoa hồng vàng (old: 55) lydo: Nhặt từ map at 03/11/2023 6:31 AM
+BAG:bipikcon add 33xHoa hồng đỏ (old: 32) lydo: Nhặt từ map at 03/11/2023 6:31 AM
+BAG:bipikcon add 34xHoa hồng đỏ (old: 33) lydo: Nhặt từ map at 03/11/2023 6:31 AM
+BAG:bipikcon add 44xHồn linh thú (old: 43) lydo: Nhặt từ map at 03/11/2023 6:31 AM
+BAG:bipikcon add 57xHoa hồng vàng (old: 56) lydo: Nhặt từ map at 03/11/2023 6:31 AM
+BAG:bipikcon add 58xHoa hồng vàng (old: 57) lydo: Nhặt từ map at 03/11/2023 6:32 AM
+BAG:bipikcon add 59xHoa hồng vàng (old: 58) lydo: Nhặt từ map at 03/11/2023 6:32 AM
+BAG:bipikcon add 35xHoa hồng đỏ (old: 34) lydo: Nhặt từ map at 03/11/2023 6:32 AM
+BAG:bipikcon add 36xHoa hồng đỏ (old: 35) lydo: Nhặt từ map at 03/11/2023 6:32 AM
+BAG:bipikcon add 1xHoa hồng vàng lydo: Nhặt từ map at 03/11/2023 6:32 AM
+BAG:bipikcon add 1xHoa hồng xanh lydo: Nhặt từ map at 03/11/2023 6:33 AM
+BAG:bipikcon add 1xHoa hồng đỏ lydo: Nhặt từ map at 03/11/2023 6:33 AM
+BAG:bipikcon add 45xHồn linh thú (old: 44) lydo: Nhặt từ map at 03/11/2023 6:33 AM
+BAG:bipikcon add 1xHoa hồng vàng lydo: Nhặt từ map at 03/11/2023 6:33 AM
+BAG:bipikcon add 2xHoa hồng đỏ (old: 1) lydo: Nhặt từ map at 03/11/2023 6:33 AM
+BAG:bipikcon add 2xHoa hồng vàng (old: 1) lydo: Nhặt từ map at 03/11/2023 6:34 AM
+BAG:bipikcon add 1xHoa hồng xanh lydo: Nhặt từ map at 03/11/2023 6:34 AM
+BAG:bipikcon add 3xHoa hồng vàng (old: 2) lydo: Nhặt từ map at 03/11/2023 6:34 AM
+BAG:bipikcon add 2xHoa hồng xanh (old: 1) lydo: Nhặt từ map at 03/11/2023 6:34 AM
+BAG:bipikcon add 3xHoa hồng xanh (old: 2) lydo: Nhặt từ map at 03/11/2023 6:34 AM
+BAG:bipikcon add 3xHoa hồng đỏ (old: 2) lydo: Nhặt từ map at 03/11/2023 6:34 AM
+BAG:bipikcon add 4xHoa hồng đỏ (old: 3) lydo: Nhặt từ map at 03/11/2023 6:35 AM
+BAG:bipikcon add 4xHoa hồng xanh (old: 3) lydo: Nhặt từ map at 03/11/2023 6:35 AM
+BAG:bipikcon add 4xHoa hồng vàng (old: 3) lydo: Nhặt từ map at 03/11/2023 6:35 AM
+BAG:bipikcon add 5xHoa hồng đỏ (old: 4) lydo: Nhặt từ map at 03/11/2023 6:35 AM
+BAG:bipikcon add 6xHoa hồng đỏ (old: 5) lydo: Nhặt từ map at 03/11/2023 6:35 AM
+BAG:bipikcon add 5xHoa hồng vàng (old: 4) lydo: Nhặt từ map at 03/11/2023 6:36 AM
+BAG:bipikcon add 5xHoa hồng xanh (old: 4) lydo: Nhặt từ map at 03/11/2023 6:36 AM
+BAG:bipikcon add 6xHoa hồng vàng (old: 5) lydo: Nhặt từ map at 03/11/2023 6:36 AM
+BAG:bipikcon add 7xHoa hồng đỏ (old: 6) lydo: Nhặt từ map at 03/11/2023 6:37 AM
+BAG:bipikcon add 7xHoa hồng vàng (old: 6) lydo: Nhặt từ map at 03/11/2023 6:37 AM
+BAG:bipikcon add 6xHoa hồng xanh (old: 5) lydo: Nhặt từ map at 03/11/2023 6:37 AM
+BAG:bipikcon add 46xHồn linh thú (old: 45) lydo: Nhặt từ map at 03/11/2023 6:37 AM
+BAG:bipikcon add 7xHoa hồng xanh (old: 6) lydo: Nhặt từ map at 03/11/2023 6:37 AM
+BAG:bipikcon add 8xHoa hồng xanh (old: 7) lydo: Nhặt từ map at 03/11/2023 6:38 AM
+BAG:bipikcon add 9xHoa hồng xanh (old: 8) lydo: Nhặt từ map at 03/11/2023 6:38 AM
+BAG:bipikcon add 8xHoa hồng vàng (old: 7) lydo: Nhặt từ map at 03/11/2023 6:38 AM
+BAG:bipikcon add 10xHoa hồng xanh (old: 9) lydo: Nhặt từ map at 03/11/2023 6:38 AM
+BAG:bipikcon add 9xHoa hồng vàng (old: 8) lydo: Nhặt từ map at 03/11/2023 6:39 AM
+BAG:bipikcon add 47xHồn linh thú (old: 46) lydo: Nhặt từ map at 03/11/2023 6:39 AM
+BAG:bipikcon add 6xNgọc Rồng 3 sao (old: 5) lydo: Nhặt từ map at 03/11/2023 6:39 AM
+BAG:bipikcon add 48xHồn linh thú (old: 47) lydo: Nhặt từ map at 03/11/2023 6:39 AM
+BAG:bipikcon add 8xNgọc Rồng 5 sao (old: 7) lydo: Nhặt từ map at 03/11/2023 6:40 AM
+BAG:bipikcon add 49xHồn linh thú (old: 48) lydo: Nhặt từ map at 03/11/2023 6:40 AM
+BAG:bipikcon add 19xNgọc Rồng 6 sao (old: 18) lydo: Nhặt từ map at 03/11/2023 6:40 AM
+BAG:bipikcon add 11xHoa hồng xanh (old: 10) lydo: Nhặt từ map at 03/11/2023 6:40 AM
+BAG:bipikcon add 10xHoa hồng vàng (old: 9) lydo: Nhặt từ map at 03/11/2023 6:40 AM
+BAG:bipikcon add 12xHoa hồng xanh (old: 11) lydo: Nhặt từ map at 03/11/2023 6:40 AM
+BAG:bipikcon add 20xNgọc Rồng 6 sao (old: 19) lydo: Nhặt từ map at 03/11/2023 6:40 AM
+BAG:bipikcon add 11xHoa hồng vàng (old: 10) lydo: Nhặt từ map at 03/11/2023 6:41 AM
+BAG:bipikcon add 12xHoa hồng vàng (old: 11) lydo: Nhặt từ map at 03/11/2023 6:41 AM
+BAG:bipikcon add 8xHoa hồng đỏ (old: 7) lydo: Nhặt từ map at 03/11/2023 6:41 AM
+BAG:bipikcon add 9xHoa hồng đỏ (old: 8) lydo: Nhặt từ map at 03/11/2023 6:41 AM
+BAG:bipikcon add 13xHoa hồng vàng (old: 12) lydo: Nhặt từ map at 03/11/2023 6:42 AM
+BAG:bipikcon add 10xHoa hồng đỏ (old: 9) lydo: Nhặt từ map at 03/11/2023 6:42 AM
+BAG:bipikcon add 14xHoa hồng vàng (old: 13) lydo: Nhặt từ map at 03/11/2023 6:42 AM
+BAG:bipikcon add 11xHoa hồng đỏ (old: 10) lydo: Nhặt từ map at 03/11/2023 6:42 AM
+BAG:bipikcon add 12xHoa hồng đỏ (old: 11) lydo: Nhặt từ map at 03/11/2023 6:42 AM
+BAG:bipikcon add 50xHồn linh thú (old: 49) lydo: Nhặt từ map at 03/11/2023 6:42 AM
+BAG:bipikcon add 21xNgọc Rồng 6 sao (old: 20) lydo: Nhặt từ map at 03/11/2023 6:42 AM
+BAG:bipikcon add 13xHoa hồng đỏ (old: 12) lydo: Nhặt từ map at 03/11/2023 6:42 AM
+BAG:bipikcon add 13xHoa hồng xanh (old: 12) lydo: Nhặt từ map at 03/11/2023 6:43 AM
+BAG:bipikcon add 15xHoa hồng vàng (old: 14) lydo: Nhặt từ map at 03/11/2023 6:43 AM
+BAG:bipikcon add 22xNgọc Rồng 6 sao (old: 21) lydo: Nhặt từ map at 03/11/2023 6:43 AM
+BAG:bipikcon add 16xHoa hồng vàng (old: 15) lydo: Nhặt từ map at 03/11/2023 6:43 AM
+BAG:bipikcon add 17xHoa hồng vàng (old: 16) lydo: Nhặt từ map at 03/11/2023 6:43 AM
+BAG:bipikcon add 14xHoa hồng xanh (old: 13) lydo: Nhặt từ map at 03/11/2023 6:44 AM
+BAG:bipikcon add 18xHoa hồng vàng (old: 17) lydo: Nhặt từ map at 03/11/2023 6:44 AM
+BAG:bipikcon add 15xHoa hồng xanh (old: 14) lydo: Nhặt từ map at 03/11/2023 6:44 AM
+BAG:bipikcon add 19xHoa hồng vàng (old: 18) lydo: Nhặt từ map at 03/11/2023 6:44 AM
+BAG:bipikcon add 7xNgọc Rồng 3 sao (old: 6) lydo: Nhặt từ map at 03/11/2023 6:45 AM
+BAG:bipikcon add 14xHoa hồng đỏ (old: 13) lydo: Nhặt từ map at 03/11/2023 6:45 AM
+BAG:bipikcon add 20xHoa hồng vàng (old: 19) lydo: Nhặt từ map at 03/11/2023 6:45 AM
+BAG:bipikcon add 21xHoa hồng vàng (old: 20) lydo: Nhặt từ map at 03/11/2023 6:45 AM
+BAG:bipikcon add 22xHoa hồng vàng (old: 21) lydo: Nhặt từ map at 03/11/2023 6:45 AM
+BAG:bipikcon add 23xHoa hồng vàng (old: 22) lydo: Nhặt từ map at 03/11/2023 6:46 AM
+BAG:bipikcon add 15xHoa hồng đỏ (old: 14) lydo: Nhặt từ map at 03/11/2023 6:46 AM
+BAG:bipikcon add 16xHoa hồng đỏ (old: 15) lydo: Nhặt từ map at 03/11/2023 6:46 AM
+BAG:bipikcon add 17xHoa hồng đỏ (old: 16) lydo: Nhặt từ map at 03/11/2023 6:46 AM
+BAG:bipikcon add 24xHoa hồng vàng (old: 23) lydo: Nhặt từ map at 03/11/2023 6:47 AM
+BAG:bipikcon add 25xHoa hồng vàng (old: 24) lydo: Nhặt từ map at 03/11/2023 6:47 AM
+BAG:bipikcon add 26xHoa hồng vàng (old: 25) lydo: Nhặt từ map at 03/11/2023 6:47 AM
+BAG:bipikcon add 16xHoa hồng xanh (old: 15) lydo: Nhặt từ map at 03/11/2023 6:47 AM
+BAG:bipikcon add 51xHồn linh thú (old: 50) lydo: Nhặt từ map at 03/11/2023 6:47 AM
+BAG:bipikcon add 18xHoa hồng đỏ (old: 17) lydo: Nhặt từ map at 03/11/2023 6:47 AM
+BAG:bipikcon add 52xHồn linh thú (old: 51) lydo: Nhặt từ map at 03/11/2023 6:48 AM
+BAG:bipikcon add 53xHồn linh thú (old: 52) lydo: Nhặt từ map at 03/11/2023 6:48 AM
+BAG:bipikcon add 8xNgọc Rồng 4 sao (old: 7) lydo: Nhặt từ map at 03/11/2023 6:48 AM
+BAG:bipikcon add 17xHoa hồng xanh (old: 16) lydo: Nhặt từ map at 03/11/2023 6:48 AM
+BAG:bipikcon add 27xHoa hồng vàng (old: 26) lydo: Nhặt từ map at 03/11/2023 6:49 AM
+BAG:bipikcon add 19xHoa hồng đỏ (old: 18) lydo: Nhặt từ map at 03/11/2023 6:49 AM
+BAG:bipikcon add 20xHoa hồng đỏ (old: 19) lydo: Nhặt từ map at 03/11/2023 6:49 AM
+BAG:bipikcon add 28xHoa hồng vàng (old: 27) lydo: Nhặt từ map at 03/11/2023 6:50 AM
+BAG:bipikcon add 29xHoa hồng vàng (old: 28) lydo: Nhặt từ map at 03/11/2023 6:50 AM
+BAG:bipikcon add 54xHồn linh thú (old: 53) lydo: Nhặt từ map at 03/11/2023 6:50 AM
+BAG:bipikcon add 30xHoa hồng vàng (old: 29) lydo: Nhặt từ map at 03/11/2023 6:50 AM
+BAG:bipikcon add 31xHoa hồng vàng (old: 30) lydo: Nhặt từ map at 03/11/2023 6:50 AM
+BAG:bipikcon add 55xHồn linh thú (old: 54) lydo: Nhặt từ map at 03/11/2023 6:50 AM
+BAG:bipikcon add 56xHồn linh thú (old: 55) lydo: Nhặt từ map at 03/11/2023 6:50 AM
+BAG:bipikcon add 57xHồn linh thú (old: 56) lydo: Nhặt từ map at 03/11/2023 6:50 AM
+BAG:bipikcon add 32xHoa hồng vàng (old: 31) lydo: Nhặt từ map at 03/11/2023 6:51 AM
+BAG:bipikcon add 33xHoa hồng vàng (old: 32) lydo: Nhặt từ map at 03/11/2023 6:51 AM
+BAG:bipikcon add 34xHoa hồng vàng (old: 33) lydo: Nhặt từ map at 03/11/2023 6:51 AM
+BAG:bipikcon add 18xHoa hồng xanh (old: 17) lydo: Nhặt từ map at 03/11/2023 6:51 AM
+BAG:bipikcon add 58xHồn linh thú (old: 57) lydo: Nhặt từ map at 03/11/2023 6:51 AM
+BAG:bipikcon add 35xHoa hồng vàng (old: 34) lydo: Nhặt từ map at 03/11/2023 6:51 AM
+BAG:bipikcon add 36xHoa hồng vàng (old: 35) lydo: Nhặt từ map at 03/11/2023 6:52 AM
+BAG:bipikcon add 21xHoa hồng đỏ (old: 20) lydo: Nhặt từ map at 03/11/2023 6:52 AM
+BAG:bipikcon add 19xHoa hồng xanh (old: 18) lydo: Nhặt từ map at 03/11/2023 6:52 AM
+BAG:bipikcon add 22xHoa hồng đỏ (old: 21) lydo: Nhặt từ map at 03/11/2023 6:52 AM
+BAG:bipikcon add 20xHoa hồng xanh (old: 19) lydo: Nhặt từ map at 03/11/2023 6:52 AM
+BAG:bipikcon add 37xHoa hồng vàng (old: 36) lydo: Nhặt từ map at 03/11/2023 6:52 AM
+BAG:bipikcon add 23xNgọc Rồng 6 sao (old: 22) lydo: Nhặt từ map at 03/11/2023 6:52 AM
+BAG:bipikcon add 23xHoa hồng đỏ (old: 22) lydo: Nhặt từ map at 03/11/2023 6:53 AM
+BAG:bipikcon add 21xHoa hồng xanh (old: 20) lydo: Nhặt từ map at 03/11/2023 6:53 AM
+BAG:bipikcon add 22xHoa hồng xanh (old: 21) lydo: Nhặt từ map at 03/11/2023 6:53 AM
+BAG:bipikcon add 23xHoa hồng xanh (old: 22) lydo: Nhặt từ map at 03/11/2023 6:53 AM
+BAG:bipikcon add 24xHoa hồng xanh (old: 23) lydo: Nhặt từ map at 03/11/2023 6:53 AM
+BAG:bipikcon add 24xHoa hồng đỏ (old: 23) lydo: Nhặt từ map at 03/11/2023 6:54 AM
+BAG:bipikcon add 25xHoa hồng xanh (old: 24) lydo: Nhặt từ map at 03/11/2023 6:54 AM
+BAG:bipikcon add 25xHoa hồng đỏ (old: 24) lydo: Nhặt từ map at 03/11/2023 6:54 AM
+BAG:bipikcon add 59xHồn linh thú (old: 58) lydo: Nhặt từ map at 03/11/2023 6:54 AM
+BAG:bipikcon add 26xHoa hồng đỏ (old: 25) lydo: Nhặt từ map at 03/11/2023 6:55 AM
+BAG:bipikcon add 38xHoa hồng vàng (old: 37) lydo: Nhặt từ map at 03/11/2023 6:55 AM
+BAG:bipikcon add 26xHoa hồng xanh (old: 25) lydo: Nhặt từ map at 03/11/2023 6:55 AM
+BAG:bipikcon add 27xHoa hồng đỏ (old: 26) lydo: Nhặt từ map at 03/11/2023 6:55 AM
+BAG:bipikcon add 27xHoa hồng xanh (old: 26) lydo: Nhặt từ map at 03/11/2023 6:55 AM
+BAG:bipikcon add 28xHoa hồng xanh (old: 27) lydo: Nhặt từ map at 03/11/2023 6:56 AM
+BAG:bipikcon add 39xHoa hồng vàng (old: 38) lydo: Nhặt từ map at 03/11/2023 6:56 AM
+BAG:bipikcon add 40xHoa hồng vàng (old: 39) lydo: Nhặt từ map at 03/11/2023 6:56 AM
+BAG:bipikcon add 41xHoa hồng vàng (old: 40) lydo: Nhặt từ map at 03/11/2023 6:56 AM
+BAG:bipikcon add 60xHồn linh thú (old: 59) lydo: Nhặt từ map at 03/11/2023 6:56 AM
+BAG:bipikcon add 28xHoa hồng đỏ (old: 27) lydo: Nhặt từ map at 03/11/2023 6:56 AM
+BAG:bipikcon add 42xHoa hồng vàng (old: 41) lydo: Nhặt từ map at 03/11/2023 6:57 AM
+BAG:bipikcon add 43xHoa hồng vàng (old: 42) lydo: Nhặt từ map at 03/11/2023 6:57 AM
+BAG:bipikcon add 44xHoa hồng vàng (old: 43) lydo: Nhặt từ map at 03/11/2023 6:57 AM
+BAG:bipikcon add 45xHoa hồng vàng (old: 44) lydo: Nhặt từ map at 03/11/2023 6:57 AM
+BAG:bipikcon add 46xHoa hồng vàng (old: 45) lydo: Nhặt từ map at 03/11/2023 6:57 AM
+BAG:bipikcon add 29xHoa hồng xanh (old: 28) lydo: Nhặt từ map at 03/11/2023 6:57 AM
+BAG:bipikcon add 30xHoa hồng xanh (old: 29) lydo: Nhặt từ map at 03/11/2023 6:58 AM
+BAG:bipikcon add 31xHoa hồng xanh (old: 30) lydo: Nhặt từ map at 03/11/2023 6:58 AM
+BAG:bipikcon add 47xHoa hồng vàng (old: 46) lydo: Nhặt từ map at 03/11/2023 6:58 AM
+BAG:bipikcon add 61xHồn linh thú (old: 60) lydo: Nhặt từ map at 03/11/2023 6:58 AM
+BAG:bipikcon add 29xHoa hồng đỏ (old: 28) lydo: Nhặt từ map at 03/11/2023 6:58 AM
+BAG:bipikcon add 30xHoa hồng đỏ (old: 29) lydo: Nhặt từ map at 03/11/2023 6:58 AM
+BAG:bipikcon add 48xHoa hồng vàng (old: 47) lydo: Nhặt từ map at 03/11/2023 6:58 AM
+BAG:bipikcon add 49xHoa hồng vàng (old: 48) lydo: Nhặt từ map at 03/11/2023 6:58 AM
+BAG:bipikcon add 50xHoa hồng vàng (old: 49) lydo: Nhặt từ map at 03/11/2023 6:59 AM
+BAG:bipikcon add 32xHoa hồng xanh (old: 31) lydo: Nhặt từ map at 03/11/2023 6:59 AM
+BAG:bipikcon add 51xHoa hồng vàng (old: 50) lydo: Nhặt từ map at 03/11/2023 6:59 AM
+BAG:bipikcon add 33xHoa hồng xanh (old: 32) lydo: Nhặt từ map at 03/11/2023 6:59 AM
+BAG:bipikcon add 31xHoa hồng đỏ (old: 30) lydo: Nhặt từ map at 03/11/2023 6:59 AM
+BAG:bipikcon add 52xHoa hồng vàng (old: 51) lydo: Nhặt từ map at 03/11/2023 6:59 AM
+BAG:bipikcon add 53xHoa hồng vàng (old: 52) lydo: Nhặt từ map at 03/11/2023 6:59 AM
+BAG:bipikcon add 32xHoa hồng đỏ (old: 31) lydo: Nhặt từ map at 03/11/2023 6:59 AM
+BAG:bipikcon add 34xHoa hồng xanh (old: 33) lydo: Nhặt từ map at 03/11/2023 7:00 AM
+BAG:bipikcon add 33xHoa hồng đỏ (old: 32) lydo: Nhặt từ map at 03/11/2023 7:00 AM
+BAG:bipikcon add 34xHoa hồng đỏ (old: 33) lydo: Nhặt từ map at 03/11/2023 7:00 AM
+BAG:bipikcon add 35xHoa hồng đỏ (old: 34) lydo: Nhặt từ map at 03/11/2023 7:00 AM
+BAG:bipikcon add 35xHoa hồng xanh (old: 34) lydo: Nhặt từ map at 03/11/2023 7:00 AM
+BAG:bipikcon add 36xHoa hồng xanh (old: 35) lydo: Nhặt từ map at 03/11/2023 7:01 AM
+BAG:bipikcon add 37xHoa hồng xanh (old: 36) lydo: Nhặt từ map at 03/11/2023 7:01 AM
+BAG:bipikcon add 38xHoa hồng xanh (old: 37) lydo: Nhặt từ map at 03/11/2023 7:01 AM
+BAG:bipikcon add 36xHoa hồng đỏ (old: 35) lydo: Nhặt từ map at 03/11/2023 7:01 AM
+BAG:bipikcon add 39xHoa hồng xanh (old: 38) lydo: Nhặt từ map at 03/11/2023 7:01 AM
+BAG:bipikcon add 24xNgọc Rồng 6 sao (old: 23) lydo: Nhặt từ map at 03/11/2023 7:01 AM
+BAG:bipikcon add 25xNgọc Rồng 6 sao (old: 24) lydo: Nhặt từ map at 03/11/2023 7:01 AM
+BAG:bipikcon add 40xHoa hồng xanh (old: 39) lydo: Nhặt từ map at 03/11/2023 7:02 AM
+BAG:bipikcon add 41xHoa hồng xanh (old: 40) lydo: Nhặt từ map at 03/11/2023 7:02 AM
+BAG:bipikcon add 37xHoa hồng đỏ (old: 36) lydo: Nhặt từ map at 03/11/2023 7:02 AM
+BAG:bipikcon add 62xHồn linh thú (old: 61) lydo: Nhặt từ map at 03/11/2023 7:02 AM
+BAG:bipikcon add 42xHoa hồng xanh (old: 41) lydo: Nhặt từ map at 03/11/2023 7:03 AM
+BAG:bipikcon add 43xHoa hồng xanh (old: 42) lydo: Nhặt từ map at 03/11/2023 7:03 AM
+BAG:bipikcon add 44xHoa hồng xanh (old: 43) lydo: Nhặt từ map at 03/11/2023 7:03 AM
+BAG:bipikcon add 45xHoa hồng xanh (old: 44) lydo: Nhặt từ map at 03/11/2023 7:03 AM
+BAG:bipikcon add 46xHoa hồng xanh (old: 45) lydo: Nhặt từ map at 03/11/2023 7:03 AM
+BAG:bipikcon add 38xHoa hồng đỏ (old: 37) lydo: Nhặt từ map at 03/11/2023 7:04 AM
+BAG:bipikcon add 47xHoa hồng xanh (old: 46) lydo: Nhặt từ map at 03/11/2023 7:05 AM
+BAG:bipikcon add 54xHoa hồng vàng (old: 53) lydo: Nhặt từ map at 03/11/2023 7:05 AM
+BAG:bipikcon add 55xHoa hồng vàng (old: 54) lydo: Nhặt từ map at 03/11/2023 7:05 AM
+BAG:bipikcon add 63xHồn linh thú (old: 62) lydo: Nhặt từ map at 03/11/2023 7:05 AM
+BAG:bipikcon add 39xHoa hồng đỏ (old: 38) lydo: Nhặt từ map at 03/11/2023 7:05 AM
+BAG:bipikcon add 56xHoa hồng vàng (old: 55) lydo: Nhặt từ map at 03/11/2023 7:05 AM
+BAG:bipikcon add 48xHoa hồng xanh (old: 47) lydo: Nhặt từ map at 03/11/2023 7:06 AM
+BAG:bipikcon add 64xHồn linh thú (old: 63) lydo: Nhặt từ map at 03/11/2023 7:06 AM
+BAG:bipikcon add 49xHoa hồng xanh (old: 48) lydo: Nhặt từ map at 03/11/2023 7:06 AM
+BAG:bipikcon add 40xHoa hồng đỏ (old: 39) lydo: Nhặt từ map at 03/11/2023 7:06 AM
+BAG:bipikcon add 41xHoa hồng đỏ (old: 40) lydo: Nhặt từ map at 03/11/2023 7:07 AM
+BAG:bipikcon add 42xHoa hồng đỏ (old: 41) lydo: Nhặt từ map at 03/11/2023 7:07 AM
+BAG:bipikcon add 57xHoa hồng vàng (old: 56) lydo: Nhặt từ map at 03/11/2023 7:07 AM
+BAG:bipikcon add 65xHồn linh thú (old: 64) lydo: Nhặt từ map at 03/11/2023 7:07 AM
+BAG:bipikcon add 43xHoa hồng đỏ (old: 42) lydo: Nhặt từ map at 03/11/2023 7:07 AM
+BAG:bipikcon add 58xHoa hồng vàng (old: 57) lydo: Nhặt từ map at 03/11/2023 7:08 AM
+BAG:bipikcon add 50xHoa hồng xanh (old: 49) lydo: Nhặt từ map at 03/11/2023 7:08 AM
+BAG:bipikcon add 51xHoa hồng xanh (old: 50) lydo: Nhặt từ map at 03/11/2023 7:08 AM
+BAG:bipikcon add 52xHoa hồng xanh (old: 51) lydo: Nhặt từ map at 03/11/2023 7:08 AM
+BAG:bipikcon add 53xHoa hồng xanh (old: 52) lydo: Nhặt từ map at 03/11/2023 7:08 AM
+BAG:bipikcon add 59xHoa hồng vàng (old: 58) lydo: Nhặt từ map at 03/11/2023 7:08 AM
+BAG:bipikcon add 44xHoa hồng đỏ (old: 43) lydo: Nhặt từ map at 03/11/2023 7:08 AM
+BAG:bipikcon add 45xHoa hồng đỏ (old: 44) lydo: Nhặt từ map at 03/11/2023 7:09 AM
+BAG:bipikcon add 66xHồn linh thú (old: 65) lydo: Nhặt từ map at 03/11/2023 7:09 AM
+BAG:bipikcon add 46xHoa hồng đỏ (old: 45) lydo: Nhặt từ map at 03/11/2023 7:09 AM
+BAG:bipikcon add 54xHoa hồng xanh (old: 53) lydo: Nhặt từ map at 03/11/2023 7:10 AM
+BAG:bipikcon add 60xHoa hồng vàng (old: 59) lydo: Nhặt từ map at 03/11/2023 7:10 AM
+BAG:bipikcon add 47xHoa hồng đỏ (old: 46) lydo: Nhặt từ map at 03/11/2023 7:10 AM
+BAG:bipikcon add 55xHoa hồng xanh (old: 54) lydo: Nhặt từ map at 03/11/2023 7:10 AM
+BAG:bipikcon add 48xHoa hồng đỏ (old: 47) lydo: Nhặt từ map at 03/11/2023 7:10 AM
+BAG:bipikcon add 56xHoa hồng xanh (old: 55) lydo: Nhặt từ map at 03/11/2023 7:10 AM
+BAG:bipikcon add 49xHoa hồng đỏ (old: 48) lydo: Nhặt từ map at 03/11/2023 7:10 AM
+BAG:bipikcon add 50xHoa hồng đỏ (old: 49) lydo: Nhặt từ map at 03/11/2023 7:11 AM
+BAG:bipikcon add 57xHoa hồng xanh (old: 56) lydo: Nhặt từ map at 03/11/2023 7:11 AM
+BAG:bipikcon add 51xHoa hồng đỏ (old: 50) lydo: Nhặt từ map at 03/11/2023 7:11 AM
+BAG:bipikcon add 52xHoa hồng đỏ (old: 51) lydo: Nhặt từ map at 03/11/2023 7:11 AM
+BAG:bipikcon add 58xHoa hồng xanh (old: 57) lydo: Nhặt từ map at 03/11/2023 7:11 AM
+BAG:bipikcon add 61xHoa hồng vàng (old: 60) lydo: Nhặt từ map at 03/11/2023 7:11 AM
+BAG:bipikcon add 62xHoa hồng vàng (old: 61) lydo: Nhặt từ map at 03/11/2023 7:11 AM
+BAG:bipikcon add 53xHoa hồng đỏ (old: 52) lydo: Nhặt từ map at 03/11/2023 7:11 AM
+BAG:bipikcon add 54xHoa hồng đỏ (old: 53) lydo: Nhặt từ map at 03/11/2023 7:11 AM
+BAG:bipikcon add 55xHoa hồng đỏ (old: 54) lydo: Nhặt từ map at 03/11/2023 7:11 AM
+BAG:bipikcon add 67xHồn linh thú (old: 66) lydo: Nhặt từ map at 03/11/2023 7:12 AM
+BAG:bipikcon add 56xHoa hồng đỏ (old: 55) lydo: Nhặt từ map at 03/11/2023 7:12 AM
+BAG:bipikcon add 63xHoa hồng vàng (old: 62) lydo: Nhặt từ map at 03/11/2023 7:12 AM
+BAG:bipikcon add 57xHoa hồng đỏ (old: 56) lydo: Nhặt từ map at 03/11/2023 7:13 AM
+BAG:bipikcon add 68xHồn linh thú (old: 67) lydo: Nhặt từ map at 03/11/2023 7:13 AM
+BAG:bipikcon add 59xHoa hồng xanh (old: 58) lydo: Nhặt từ map at 03/11/2023 7:13 AM
+BAG:bipikcon add 8xNgọc Rồng 3 sao (old: 7) lydo: Nhặt từ map at 03/11/2023 7:13 AM
+BAG:bipikcon add 69xHồn linh thú (old: 68) lydo: Nhặt từ map at 03/11/2023 7:14 AM
+BAG:bipikcon add 58xHoa hồng đỏ (old: 57) lydo: Nhặt từ map at 03/11/2023 7:14 AM
+BAG:bipikcon add 64xHoa hồng vàng (old: 63) lydo: Nhặt từ map at 03/11/2023 7:14 AM
+BAG:bipikcon add 65xHoa hồng vàng (old: 64) lydo: Nhặt từ map at 03/11/2023 7:14 AM
+BAG:bipikcon add 59xHoa hồng đỏ (old: 58) lydo: Nhặt từ map at 03/11/2023 7:14 AM
+BAG:bipikcon add 70xHồn linh thú (old: 69) lydo: Nhặt từ map at 03/11/2023 7:14 AM
+BAG:bipikcon add 71xHồn linh thú (old: 70) lydo: Nhặt từ map at 03/11/2023 7:15 AM
+BAG:bipikcon add 60xHoa hồng xanh (old: 59) lydo: Nhặt từ map at 03/11/2023 7:15 AM
+BAG:bipikcon add 66xHoa hồng vàng (old: 65) lydo: Nhặt từ map at 03/11/2023 7:15 AM
+BAG:bipikcon add 1xÁo jean Calic lydo: Nhặt từ map at 03/11/2023 7:15 AM
+BAG:bipikcon add 72xHồn linh thú (old: 71) lydo: Nhặt từ map at 03/11/2023 7:15 AM
+BAG:bipikcon add 9xNgọc Rồng 5 sao (old: 8) lydo: Nhặt từ map at 03/11/2023 7:16 AM
+BAG:bipikcon add 60xHoa hồng đỏ (old: 59) lydo: Nhặt từ map at 03/11/2023 7:16 AM
+BAG:bipikcon add 61xHoa hồng xanh (old: 60) lydo: Nhặt từ map at 03/11/2023 7:16 AM
+BAG:bipikcon add 73xHồn linh thú (old: 72) lydo: Nhặt từ map at 03/11/2023 7:16 AM
+BAG:bipikcon add 1xHoa hồng vàng lydo: Nhặt từ map at 03/11/2023 7:17 AM
+BAG:bipikcon add 2xHoa hồng vàng (old: 1) lydo: Nhặt từ map at 03/11/2023 7:17 AM
+BAG:bipikcon add 3xHoa hồng vàng (old: 2) lydo: Nhặt từ map at 03/11/2023 7:17 AM
+BAG:bipikcon add 4xHoa hồng vàng (old: 3) lydo: Nhặt từ map at 03/11/2023 7:18 AM
+BAG:bipikcon add 5xHoa hồng vàng (old: 4) lydo: Nhặt từ map at 03/11/2023 7:18 AM
+BAG:bipikcon add 62xHoa hồng xanh (old: 61) lydo: Nhặt từ map at 03/11/2023 7:18 AM
+BAG:bipikcon add 6xHoa hồng vàng (old: 5) lydo: Nhặt từ map at 03/11/2023 7:18 AM
+BAG:bipikcon add 61xHoa hồng đỏ (old: 60) lydo: Nhặt từ map at 03/11/2023 7:18 AM
+BAG:bipikcon add 7xHoa hồng vàng (old: 6) lydo: Nhặt từ map at 03/11/2023 7:19 AM
+BAG:bipikcon add 8xHoa hồng vàng (old: 7) lydo: Nhặt từ map at 03/11/2023 7:19 AM
+BAG:bipikcon add 9xHoa hồng vàng (old: 8) lydo: Nhặt từ map at 03/11/2023 7:19 AM
+BAG:bipikcon add 63xHoa hồng xanh (old: 62) lydo: Nhặt từ map at 03/11/2023 7:19 AM
+BAG:bipikcon add 26xNgọc Rồng 6 sao (old: 25) lydo: Nhặt từ map at 03/11/2023 7:19 AM
+BAG:bipikcon add 10xHoa hồng vàng (old: 9) lydo: Nhặt từ map at 03/11/2023 7:20 AM
+BAG:bipikcon add 62xHoa hồng đỏ (old: 61) lydo: Nhặt từ map at 03/11/2023 7:20 AM
+BAG:bipikcon add 63xHoa hồng đỏ (old: 62) lydo: Nhặt từ map at 03/11/2023 7:20 AM
+BAG:bipikcon add 74xHồn linh thú (old: 73) lydo: Nhặt từ map at 03/11/2023 7:20 AM
+BAG:bipikcon add 64xHoa hồng xanh (old: 63) lydo: Nhặt từ map at 03/11/2023 7:21 AM
+BAG:bipikcon add 27xNgọc Rồng 6 sao (old: 26) lydo: Nhặt từ map at 03/11/2023 7:21 AM
+BAG:bipikcon add 65xHoa hồng xanh (old: 64) lydo: Nhặt từ map at 03/11/2023 7:21 AM
+BAG:bipikcon add 11xHoa hồng vàng (old: 10) lydo: Nhặt từ map at 03/11/2023 7:21 AM
+BAG:bipikcon add 66xHoa hồng xanh (old: 65) lydo: Nhặt từ map at 03/11/2023 7:21 AM
+BAG:bipikcon add 67xHoa hồng xanh (old: 66) lydo: Nhặt từ map at 03/11/2023 7:22 AM
+BAG:bipikcon add 64xHoa hồng đỏ (old: 63) lydo: Nhặt từ map at 03/11/2023 7:22 AM
+BAG:bipikcon add 12xHoa hồng vàng (old: 11) lydo: Nhặt từ map at 03/11/2023 7:22 AM
+BAG:bipikcon add 65xHoa hồng đỏ (old: 64) lydo: Nhặt từ map at 03/11/2023 7:22 AM
+BAG:bipikcon add 68xHoa hồng xanh (old: 67) lydo: Nhặt từ map at 03/11/2023 7:22 AM
+BAG:bipikcon add 66xHoa hồng đỏ (old: 65) lydo: Nhặt từ map at 03/11/2023 7:23 AM
+BAG:bipikcon add 67xHoa hồng đỏ (old: 66) lydo: Nhặt từ map at 03/11/2023 7:23 AM
+BAG:bipikcon add 69xHoa hồng xanh (old: 68) lydo: Nhặt từ map at 03/11/2023 7:23 AM
+BAG:bipikcon add 10xNgọc Rồng 5 sao (old: 9) lydo: Nhặt từ map at 03/11/2023 7:23 AM
+BAG:bipikcon add 70xHoa hồng xanh (old: 69) lydo: Nhặt từ map at 03/11/2023 7:23 AM
+BAG:bipikcon add 71xHoa hồng xanh (old: 70) lydo: Nhặt từ map at 03/11/2023 7:23 AM
+BAG:bipikcon add 68xHoa hồng đỏ (old: 67) lydo: Nhặt từ map at 03/11/2023 7:23 AM
+BAG:bipikcon add 72xHoa hồng xanh (old: 71) lydo: Nhặt từ map at 03/11/2023 7:23 AM
+BAG:bipikcon add 75xHồn linh thú (old: 74) lydo: Nhặt từ map at 03/11/2023 7:24 AM
+BAG:bipikcon add 76xHồn linh thú (old: 75) lydo: Nhặt từ map at 03/11/2023 7:24 AM
+BAG:bipikcon add 13xHoa hồng vàng (old: 12) lydo: Nhặt từ map at 03/11/2023 7:24 AM
+BAG:bipikcon add 73xHoa hồng xanh (old: 72) lydo: Nhặt từ map at 03/11/2023 7:24 AM
+BAG:bipikcon add 77xHồn linh thú (old: 76) lydo: Nhặt từ map at 03/11/2023 7:25 AM
+BAG:bipikcon add 14xHoa hồng vàng (old: 13) lydo: Nhặt từ map at 03/11/2023 7:25 AM
+BAG:bipikcon add 15xHoa hồng vàng (old: 14) lydo: Nhặt từ map at 03/11/2023 7:25 AM
+BAG:bipikcon add 74xHoa hồng xanh (old: 73) lydo: Nhặt từ map at 03/11/2023 7:25 AM
+BAG:bipikcon add 75xHoa hồng xanh (old: 74) lydo: Nhặt từ map at 03/11/2023 7:25 AM
+BAG:bipikcon add 76xHoa hồng xanh (old: 75) lydo: Nhặt từ map at 03/11/2023 7:25 AM
+BAG:bipikcon add 11xNgọc Rồng 5 sao (old: 10) lydo: Nhặt từ map at 03/11/2023 7:25 AM
+BAG:bipikcon add 77xHoa hồng xanh (old: 76) lydo: Nhặt từ map at 03/11/2023 7:26 AM
+BAG:bipikcon add 78xHồn linh thú (old: 77) lydo: Nhặt từ map at 03/11/2023 7:26 AM
+BAG:bipikcon add 79xHồn linh thú (old: 78) lydo: Nhặt từ map at 03/11/2023 7:26 AM
+BAG:bipikcon add 16xHoa hồng vàng (old: 15) lydo: Nhặt từ map at 03/11/2023 7:26 AM
+BAG:bipikcon add 17xHoa hồng vàng (old: 16) lydo: Nhặt từ map at 03/11/2023 7:26 AM
+BAG:bipikcon add 69xHoa hồng đỏ (old: 68) lydo: Nhặt từ map at 03/11/2023 7:26 AM
+BAG:bipikcon add 28xNgọc Rồng 6 sao (old: 27) lydo: Nhặt từ map at 03/11/2023 7:27 AM
+BAG:bipikcon add 78xHoa hồng xanh (old: 77) lydo: Nhặt từ map at 03/11/2023 7:27 AM
+BAG:bipikcon add 18xHoa hồng vàng (old: 17) lydo: Nhặt từ map at 03/11/2023 7:27 AM
+BAG:bipikcon add 19xHoa hồng vàng (old: 18) lydo: Nhặt từ map at 03/11/2023 7:27 AM
+BAG:bipikcon add 79xHoa hồng xanh (old: 78) lydo: Nhặt từ map at 03/11/2023 7:27 AM
+BAG:bipikcon add 70xHoa hồng đỏ (old: 69) lydo: Nhặt từ map at 03/11/2023 7:27 AM
+BAG:bipikcon add 20xHoa hồng vàng (old: 19) lydo: Nhặt từ map at 03/11/2023 7:28 AM
+BAG:bipikcon add 29xNgọc Rồng 6 sao (old: 28) lydo: Nhặt từ map at 03/11/2023 7:28 AM
+BAG:bipikcon add 71xHoa hồng đỏ (old: 70) lydo: Nhặt từ map at 03/11/2023 7:28 AM
+BAG:bipikcon add 72xHoa hồng đỏ (old: 71) lydo: Nhặt từ map at 03/11/2023 7:28 AM
+BAG:bipikcon add 21xHoa hồng vàng (old: 20) lydo: Nhặt từ map at 03/11/2023 7:28 AM
+BAG:bipikcon add 22xHoa hồng vàng (old: 21) lydo: Nhặt từ map at 03/11/2023 7:28 AM
+BAG:bipikcon add 9xNgọc Rồng 4 sao (old: 8) lydo: Nhặt từ map at 03/11/2023 7:28 AM
+BAG:bipikcon add 73xHoa hồng đỏ (old: 72) lydo: Nhặt từ map at 03/11/2023 7:28 AM
+BAG:bipikcon add 23xHoa hồng vàng (old: 22) lydo: Nhặt từ map at 03/11/2023 7:29 AM
+BAG:bipikcon add 80xHồn linh thú (old: 79) lydo: Nhặt từ map at 03/11/2023 7:29 AM
+BAG:bipikcon add 80xHoa hồng xanh (old: 79) lydo: Nhặt từ map at 03/11/2023 7:29 AM
+BAG:bipikcon add 24xHoa hồng vàng (old: 23) lydo: Nhặt từ map at 03/11/2023 7:29 AM
+BAG:bipikcon add 25xHoa hồng vàng (old: 24) lydo: Nhặt từ map at 03/11/2023 7:29 AM
+BAG:bipikcon add 26xHoa hồng vàng (old: 25) lydo: Nhặt từ map at 03/11/2023 7:29 AM
+BAG:bipikcon add 81xHoa hồng xanh (old: 80) lydo: Nhặt từ map at 03/11/2023 7:30 AM
+BAG:bipikcon add 74xHoa hồng đỏ (old: 73) lydo: Nhặt từ map at 03/11/2023 7:30 AM
+BAG:bipikcon add 27xHoa hồng vàng (old: 26) lydo: Nhặt từ map at 03/11/2023 7:30 AM
+BAG:bipikcon add 82xHoa hồng xanh (old: 81) lydo: Nhặt từ map at 03/11/2023 7:31 AM
+BAG:bipikcon add 75xHoa hồng đỏ (old: 74) lydo: Nhặt từ map at 03/11/2023 7:31 AM
+BAG:bipikcon add 83xHoa hồng xanh (old: 82) lydo: Nhặt từ map at 03/11/2023 7:31 AM
+BAG:bipikcon add 28xHoa hồng vàng (old: 27) lydo: Nhặt từ map at 03/11/2023 7:31 AM
+BAG:bipikcon add 84xHoa hồng xanh (old: 83) lydo: Nhặt từ map at 03/11/2023 7:32 AM
+BAG:bipikcon add 29xHoa hồng vàng (old: 28) lydo: Nhặt từ map at 03/11/2023 7:32 AM
+BAG:bipikcon add 76xHoa hồng đỏ (old: 75) lydo: Nhặt từ map at 03/11/2023 7:32 AM
+BAG:bipikcon add 30xHoa hồng vàng (old: 29) lydo: Nhặt từ map at 03/11/2023 7:32 AM
+BAG:bipikcon add 85xHoa hồng xanh (old: 84) lydo: Nhặt từ map at 03/11/2023 7:32 AM
+BAG:bipikcon add 77xHoa hồng đỏ (old: 76) lydo: Nhặt từ map at 03/11/2023 7:33 AM
+BAG:bipikcon add 31xHoa hồng vàng (old: 30) lydo: Nhặt từ map at 03/11/2023 7:33 AM
+BAG:bipikcon add 32xHoa hồng vàng (old: 31) lydo: Nhặt từ map at 03/11/2023 7:33 AM
+BAG:bipikcon add 33xHoa hồng vàng (old: 32) lydo: Nhặt từ map at 03/11/2023 7:33 AM
+BAG:bipikcon add 81xHồn linh thú (old: 80) lydo: Nhặt từ map at 03/11/2023 7:34 AM
+BAG:bipikcon add 86xHoa hồng xanh (old: 85) lydo: Nhặt từ map at 03/11/2023 7:34 AM
+BAG:bipikcon add 87xHoa hồng xanh (old: 86) lydo: Nhặt từ map at 03/11/2023 7:34 AM
+BAG:bipikcon add 34xHoa hồng vàng (old: 33) lydo: Nhặt từ map at 03/11/2023 7:34 AM
+BAG:bipikcon add 35xHoa hồng vàng (old: 34) lydo: Nhặt từ map at 03/11/2023 7:34 AM
+BAG:bipikcon add 82xHồn linh thú (old: 81) lydo: Nhặt từ map at 03/11/2023 7:35 AM
+BAG:bipikcon add 88xHoa hồng xanh (old: 87) lydo: Nhặt từ map at 03/11/2023 7:35 AM
+BAG:bipikcon add 89xHoa hồng xanh (old: 88) lydo: Nhặt từ map at 03/11/2023 7:35 AM
+BAG:bipikcon add 90xHoa hồng xanh (old: 89) lydo: Nhặt từ map at 03/11/2023 7:35 AM
+BAG:bipikcon add 78xHoa hồng đỏ (old: 77) lydo: Nhặt từ map at 03/11/2023 7:36 AM
+BAG:bipikcon add 79xHoa hồng đỏ (old: 78) lydo: Nhặt từ map at 03/11/2023 7:36 AM
+BAG:bipikcon add 80xHoa hồng đỏ (old: 79) lydo: Nhặt từ map at 03/11/2023 7:36 AM
+BAG:bipikcon add 91xHoa hồng xanh (old: 90) lydo: Nhặt từ map at 03/11/2023 7:36 AM
+BAG:bipikcon add 36xHoa hồng vàng (old: 35) lydo: Nhặt từ map at 03/11/2023 7:36 AM
+BAG:bipikcon add 37xHoa hồng vàng (old: 36) lydo: Nhặt từ map at 03/11/2023 7:36 AM
+BAG:bipikcon add 81xHoa hồng đỏ (old: 80) lydo: Nhặt từ map at 03/11/2023 7:36 AM
+BAG:bipikcon add 82xHoa hồng đỏ (old: 81) lydo: Nhặt từ map at 03/11/2023 7:37 AM
+BAG:bipikcon add 38xHoa hồng vàng (old: 37) lydo: Nhặt từ map at 03/11/2023 7:37 AM
+BAG:bipikcon add 83xHoa hồng đỏ (old: 82) lydo: Nhặt từ map at 03/11/2023 7:37 AM
+BAG:bipikcon add 39xHoa hồng vàng (old: 38) lydo: Nhặt từ map at 03/11/2023 7:37 AM
+BAG:bipikcon add 40xHoa hồng vàng (old: 39) lydo: Nhặt từ map at 03/11/2023 7:38 AM
+BAG:bipikcon add 84xHoa hồng đỏ (old: 83) lydo: Nhặt từ map at 03/11/2023 7:38 AM
+BAG:bipikcon add 92xHoa hồng xanh (old: 91) lydo: Nhặt từ map at 03/11/2023 7:38 AM
+BAG:bipikcon add 41xHoa hồng vàng (old: 40) lydo: Nhặt từ map at 03/11/2023 7:38 AM
+BAG:bipikcon add 93xHoa hồng xanh (old: 92) lydo: Nhặt từ map at 03/11/2023 7:38 AM
+BAG:bipikcon add 1xÁo vàng Zealot lydo: Nhặt từ map at 03/11/2023 7:39 AM
+BAG:bipikcon add 9xNgọc Rồng 3 sao (old: 8) lydo: Nhặt từ map at 03/11/2023 7:39 AM
+BAG:bipikcon add 42xHoa hồng vàng (old: 41) lydo: Nhặt từ map at 03/11/2023 7:39 AM
+BAG:bipikcon add 85xHoa hồng đỏ (old: 84) lydo: Nhặt từ map at 03/11/2023 7:39 AM
+BAG:bipikcon add 86xHoa hồng đỏ (old: 85) lydo: Nhặt từ map at 03/11/2023 7:39 AM
+BAG:bipikcon add 87xHoa hồng đỏ (old: 86) lydo: Nhặt từ map at 03/11/2023 7:39 AM
+BAG:bipikcon add 94xHoa hồng xanh (old: 93) lydo: Nhặt từ map at 03/11/2023 7:40 AM
+BAG:bipikcon add 43xHoa hồng vàng (old: 42) lydo: Nhặt từ map at 03/11/2023 7:40 AM
+BAG:bipikcon add 83xHồn linh thú (old: 82) lydo: Nhặt từ map at 03/11/2023 7:40 AM
+BAG:bipikcon add 44xHoa hồng vàng (old: 43) lydo: Nhặt từ map at 03/11/2023 7:41 AM
+BAG:bipikcon add 88xHoa hồng đỏ (old: 87) lydo: Nhặt từ map at 03/11/2023 7:41 AM
+BAG:bipikcon add 84xHồn linh thú (old: 83) lydo: Nhặt từ map at 03/11/2023 7:41 AM
+BAG:bipikcon add 10xNgọc Rồng 3 sao (old: 9) lydo: Nhặt từ map at 03/11/2023 7:41 AM
+BAG:bipikcon add 89xHoa hồng đỏ (old: 88) lydo: Nhặt từ map at 03/11/2023 7:41 AM
+BAG:bipikcon add 45xHoa hồng vàng (old: 44) lydo: Nhặt từ map at 03/11/2023 7:41 AM
+BAG:bipikcon add 95xHoa hồng xanh (old: 94) lydo: Nhặt từ map at 03/11/2023 7:42 AM
+BAG:bipikcon add 46xHoa hồng vàng (old: 45) lydo: Nhặt từ map at 03/11/2023 7:42 AM
+BAG:bipikcon add 47xHoa hồng vàng (old: 46) lydo: Nhặt từ map at 03/11/2023 7:42 AM
+BAG:bipikcon add 90xHoa hồng đỏ (old: 89) lydo: Nhặt từ map at 03/11/2023 7:42 AM
+BAG:bipikcon add 91xHoa hồng đỏ (old: 90) lydo: Nhặt từ map at 03/11/2023 7:42 AM
+BAG:bipikcon add 48xHoa hồng vàng (old: 47) lydo: Nhặt từ map at 03/11/2023 7:42 AM
+BAG:bipikcon add 12xNgọc Rồng 5 sao (old: 11) lydo: Nhặt từ map at 03/11/2023 7:42 AM
+BAG:bipikcon add 49xHoa hồng vàng (old: 48) lydo: Nhặt từ map at 03/11/2023 7:43 AM
+BAG:bipikcon add 96xHoa hồng xanh (old: 95) lydo: Nhặt từ map at 03/11/2023 7:43 AM
+BAG:bipikcon add 97xHoa hồng xanh (old: 96) lydo: Nhặt từ map at 03/11/2023 7:43 AM
+BAG:bipikcon add 98xHoa hồng xanh (old: 97) lydo: Nhặt từ map at 03/11/2023 7:43 AM
+BAG:bipikcon add 50xHoa hồng vàng (old: 49) lydo: Nhặt từ map at 03/11/2023 7:43 AM
+BAG:bipikcon add 85xHồn linh thú (old: 84) lydo: Nhặt từ map at 03/11/2023 7:43 AM
+BAG:bipikcon add 86xHồn linh thú (old: 85) lydo: Nhặt từ map at 03/11/2023 7:43 AM
+BAG:bipikcon add 99xHoa hồng xanh (old: 98) lydo: Nhặt từ map at 03/11/2023 7:43 AM
+BAG:bipikcon add 87xHồn linh thú (old: 86) lydo: Nhặt từ map at 03/11/2023 7:43 AM
+BAG:bipikcon add 51xHoa hồng vàng (old: 50) lydo: Nhặt từ map at 03/11/2023 7:44 AM
+BAG:bipikcon add 30xNgọc Rồng 6 sao (old: 29) lydo: Nhặt từ map at 03/11/2023 7:44 AM
+BAG:bipikcon add 92xHoa hồng đỏ (old: 91) lydo: Nhặt từ map at 03/11/2023 7:44 AM
+BAG:bipikcon add 100xHoa hồng xanh (old: 99) lydo: Nhặt từ map at 03/11/2023 7:44 AM
+BAG:bipikcon add 52xHoa hồng vàng (old: 51) lydo: Nhặt từ map at 03/11/2023 7:45 AM
+BAG:bipikcon add 93xHoa hồng đỏ (old: 92) lydo: Nhặt từ map at 03/11/2023 7:45 AM
+BAG:bipikcon add 94xHoa hồng đỏ (old: 93) lydo: Nhặt từ map at 03/11/2023 7:45 AM
+BAG:bipikcon add 13xNgọc Rồng 5 sao (old: 12) lydo: Nhặt từ map at 03/11/2023 7:45 AM
+BAG:bipikcon add 53xHoa hồng vàng (old: 52) lydo: Nhặt từ map at 03/11/2023 7:45 AM
+BAG:bipikcon add 101xHoa hồng xanh (old: 100) lydo: Nhặt từ map at 03/11/2023 7:45 AM
+BAG:bipikcon add 95xHoa hồng đỏ (old: 94) lydo: Nhặt từ map at 03/11/2023 7:45 AM
+BAG:bipikcon add 102xHoa hồng xanh (old: 101) lydo: Nhặt từ map at 03/11/2023 7:45 AM
+BAG:bipikcon add 88xHồn linh thú (old: 87) lydo: Nhặt từ map at 03/11/2023 7:45 AM
+BAG:bipikcon add 89xHồn linh thú (old: 88) lydo: Nhặt từ map at 03/11/2023 7:45 AM
+BAG:bipikcon add 96xHoa hồng đỏ (old: 95) lydo: Nhặt từ map at 03/11/2023 7:46 AM
+BAG:bipikcon add 103xHoa hồng xanh (old: 102) lydo: Nhặt từ map at 03/11/2023 7:46 AM
+BAG:bipikcon add 54xHoa hồng vàng (old: 53) lydo: Nhặt từ map at 03/11/2023 7:46 AM
+BAG:bipikcon add 55xHoa hồng vàng (old: 54) lydo: Nhặt từ map at 03/11/2023 7:47 AM
+BAG:bipikcon add 56xHoa hồng vàng (old: 55) lydo: Nhặt từ map at 03/11/2023 7:47 AM
+BAG:bipikcon add 57xHoa hồng vàng (old: 56) lydo: Nhặt từ map at 03/11/2023 7:47 AM
+BAG:bipikcon add 58xHoa hồng vàng (old: 57) lydo: Nhặt từ map at 03/11/2023 7:47 AM
+BAG:bipikcon add 59xHoa hồng vàng (old: 58) lydo: Nhặt từ map at 03/11/2023 7:47 AM
+BAG:bipikcon add 97xHoa hồng đỏ (old: 96) lydo: Nhặt từ map at 03/11/2023 7:47 AM
+BAG:bipikcon add 60xHoa hồng vàng (old: 59) lydo: Nhặt từ map at 03/11/2023 7:47 AM
+BAG:bipikcon add 61xHoa hồng vàng (old: 60) lydo: Nhặt từ map at 03/11/2023 7:47 AM
+BAG:bipikcon add 104xHoa hồng xanh (old: 103) lydo: Nhặt từ map at 03/11/2023 7:47 AM
+BAG:bipikcon add 105xHoa hồng xanh (old: 104) lydo: Nhặt từ map at 03/11/2023 7:48 AM
+BAG:bipikcon add 106xHoa hồng xanh (old: 105) lydo: Nhặt từ map at 03/11/2023 7:48 AM
+BAG:bipikcon add 107xHoa hồng xanh (old: 106) lydo: Nhặt từ map at 03/11/2023 7:48 AM
+BAG:bipikcon add 62xHoa hồng vàng (old: 61) lydo: Nhặt từ map at 03/11/2023 7:48 AM
+BAG:bipikcon add 98xHoa hồng đỏ (old: 97) lydo: Nhặt từ map at 03/11/2023 7:48 AM
+BAG:bipikcon add 108xHoa hồng xanh (old: 107) lydo: Nhặt từ map at 03/11/2023 7:49 AM
+BAG:bipikcon add 63xHoa hồng vàng (old: 62) lydo: Nhặt từ map at 03/11/2023 7:49 AM
+BAG:bipikcon add 64xHoa hồng vàng (old: 63) lydo: Nhặt từ map at 03/11/2023 7:49 AM
+BAG:bipikcon add 109xHoa hồng xanh (old: 108) lydo: Nhặt từ map at 03/11/2023 7:49 AM
+BAG:bipikcon add 110xHoa hồng xanh (old: 109) lydo: Nhặt từ map at 03/11/2023 7:49 AM
+BAG:bipikcon add 111xHoa hồng xanh (old: 110) lydo: Nhặt từ map at 03/11/2023 7:50 AM
+BAG:bipikcon add 112xHoa hồng xanh (old: 111) lydo: Nhặt từ map at 03/11/2023 7:50 AM
+BAG:bipikcon add 113xHoa hồng xanh (old: 112) lydo: Nhặt từ map at 03/11/2023 7:50 AM
+BAG:bipikcon add 99xHoa hồng đỏ (old: 98) lydo: Nhặt từ map at 03/11/2023 7:50 AM
+BAG:bipikcon add 65xHoa hồng vàng (old: 64) lydo: Nhặt từ map at 03/11/2023 7:50 AM
+BAG:bipikcon add 114xHoa hồng xanh (old: 113) lydo: Nhặt từ map at 03/11/2023 7:51 AM
+BAG:bipikcon add 100xHoa hồng đỏ (old: 99) lydo: Nhặt từ map at 03/11/2023 7:51 AM
+BAG:bipikcon add 101xHoa hồng đỏ (old: 100) lydo: Nhặt từ map at 03/11/2023 7:51 AM
+BAG:bipikcon add 115xHoa hồng xanh (old: 114) lydo: Nhặt từ map at 03/11/2023 7:51 AM
+BAG:bipikcon add 102xHoa hồng đỏ (old: 101) lydo: Nhặt từ map at 03/11/2023 7:51 AM
+BAG:bipikcon add 14xNgọc Rồng 5 sao (old: 13) lydo: Nhặt từ map at 03/11/2023 7:51 AM
+BAG:bipikcon add 116xHoa hồng xanh (old: 115) lydo: Nhặt từ map at 03/11/2023 7:51 AM
+BAG:bipikcon add 90xHồn linh thú (old: 89) lydo: Nhặt từ map at 03/11/2023 7:51 AM
+BAG:bipikcon add 103xHoa hồng đỏ (old: 102) lydo: Nhặt từ map at 03/11/2023 7:52 AM
+BAG:bipikcon add 66xHoa hồng vàng (old: 65) lydo: Nhặt từ map at 03/11/2023 7:52 AM
+BAG:bipikcon add 67xHoa hồng vàng (old: 66) lydo: Nhặt từ map at 03/11/2023 7:52 AM
+BAG:bipikcon add 117xHoa hồng xanh (old: 116) lydo: Nhặt từ map at 03/11/2023 7:52 AM
+BAG:bipikcon add 68xHoa hồng vàng (old: 67) lydo: Nhặt từ map at 03/11/2023 7:53 AM
+BAG:bipikcon add 69xHoa hồng vàng (old: 68) lydo: Nhặt từ map at 03/11/2023 7:53 AM
+BAG:bipikcon add 104xHoa hồng đỏ (old: 103) lydo: Nhặt từ map at 03/11/2023 7:53 AM
+BAG:bipikcon add 31xNgọc Rồng 6 sao (old: 30) lydo: Nhặt từ map at 03/11/2023 7:53 AM
+BAG:bipikcon add 118xHoa hồng xanh (old: 117) lydo: Nhặt từ map at 03/11/2023 7:53 AM
+BAG:bipikcon add 119xHoa hồng xanh (old: 118) lydo: Nhặt từ map at 03/11/2023 7:53 AM
+BAG:bipikcon add 91xHồn linh thú (old: 90) lydo: Nhặt từ map at 03/11/2023 7:53 AM
+BAG:bipikcon add 105xHoa hồng đỏ (old: 104) lydo: Nhặt từ map at 03/11/2023 7:54 AM
+BAG:bipikcon add 70xHoa hồng vàng (old: 69) lydo: Nhặt từ map at 03/11/2023 7:54 AM
+BAG:bipikcon add 120xHoa hồng xanh (old: 119) lydo: Nhặt từ map at 03/11/2023 7:54 AM
+BAG:bipikcon add 71xHoa hồng vàng (old: 70) lydo: Nhặt từ map at 03/11/2023 7:54 AM
+BAG:bipikcon add 72xHoa hồng vàng (old: 71) lydo: Nhặt từ map at 03/11/2023 7:54 AM
+BAG:bipikcon add 73xHoa hồng vàng (old: 72) lydo: Nhặt từ map at 03/11/2023 7:54 AM
+BAG:bipikcon add 74xHoa hồng vàng (old: 73) lydo: Nhặt từ map at 03/11/2023 7:54 AM
+BAG:bipikcon add 106xHoa hồng đỏ (old: 105) lydo: Nhặt từ map at 03/11/2023 7:55 AM
+BAG:bipikcon add 107xHoa hồng đỏ (old: 106) lydo: Nhặt từ map at 03/11/2023 7:55 AM
+BAG:bipikcon add 75xHoa hồng vàng (old: 74) lydo: Nhặt từ map at 03/11/2023 7:56 AM
+BAG:bipikcon add 108xHoa hồng đỏ (old: 107) lydo: Nhặt từ map at 03/11/2023 7:56 AM
+BAG:bipikcon add 121xHoa hồng xanh (old: 120) lydo: Nhặt từ map at 03/11/2023 7:56 AM
+BAG:bipikcon add 76xHoa hồng vàng (old: 75) lydo: Nhặt từ map at 03/11/2023 7:56 AM
+BAG:bipikcon add 109xHoa hồng đỏ (old: 108) lydo: Nhặt từ map at 03/11/2023 7:57 AM
+BAG:bipikcon add 110xHoa hồng đỏ (old: 109) lydo: Nhặt từ map at 03/11/2023 7:57 AM
+BAG:bipikcon add 92xHồn linh thú (old: 91) lydo: Nhặt từ map at 03/11/2023 7:57 AM
+BAG:bipikcon add 77xHoa hồng vàng (old: 76) lydo: Nhặt từ map at 03/11/2023 7:57 AM
+BAG:bipikcon add 111xHoa hồng đỏ (old: 110) lydo: Nhặt từ map at 03/11/2023 7:57 AM
+BAG:bipikcon add 78xHoa hồng vàng (old: 77) lydo: Nhặt từ map at 03/11/2023 7:58 AM
+BAG:bipikcon add 79xHoa hồng vàng (old: 78) lydo: Nhặt từ map at 03/11/2023 7:58 AM
+BAG:bipikcon add 80xHoa hồng vàng (old: 79) lydo: Nhặt từ map at 03/11/2023 7:58 AM
+BAG:bipikcon add 81xHoa hồng vàng (old: 80) lydo: Nhặt từ map at 03/11/2023 7:58 AM
+BAG:bipikcon add 112xHoa hồng đỏ (old: 111) lydo: Nhặt từ map at 03/11/2023 7:59 AM
+BAG:bipikcon add 82xHoa hồng vàng (old: 81) lydo: Nhặt từ map at 03/11/2023 7:59 AM
+BAG:bipikcon add 122xHoa hồng xanh (old: 121) lydo: Nhặt từ map at 03/11/2023 7:59 AM
+BAG:bipikcon add 15xNgọc Rồng 5 sao (old: 14) lydo: Nhặt từ map at 03/11/2023 7:59 AM
+BAG:bipikcon add 123xHoa hồng xanh (old: 122) lydo: Nhặt từ map at 03/11/2023 7:59 AM
+BAG:bipikcon add 124xHoa hồng xanh (old: 123) lydo: Nhặt từ map at 03/11/2023 8:00 AM
+BAG:bipikcon add 83xHoa hồng vàng (old: 82) lydo: Nhặt từ map at 03/11/2023 8:00 AM
+BAG:bipikcon add 93xHồn linh thú (old: 92) lydo: Nhặt từ map at 03/11/2023 8:00 AM
+BAG:bipikcon add 125xHoa hồng xanh (old: 124) lydo: Nhặt từ map at 03/11/2023 8:00 AM
+BAG:bipikcon add 113xHoa hồng đỏ (old: 112) lydo: Nhặt từ map at 03/11/2023 8:00 AM
+BAG:bipikcon add 114xHoa hồng đỏ (old: 113) lydo: Nhặt từ map at 03/11/2023 8:01 AM
+BAG:bipikcon add 115xHoa hồng đỏ (old: 114) lydo: Nhặt từ map at 03/11/2023 8:01 AM
+BAG:bipikcon add 84xHoa hồng vàng (old: 83) lydo: Nhặt từ map at 03/11/2023 8:01 AM
+BAG:bipikcon add 85xHoa hồng vàng (old: 84) lydo: Nhặt từ map at 03/11/2023 8:01 AM
+BAG:bipikcon add 86xHoa hồng vàng (old: 85) lydo: Nhặt từ map at 03/11/2023 8:01 AM
+BAG:bipikcon add 87xHoa hồng vàng (old: 86) lydo: Nhặt từ map at 03/11/2023 8:01 AM
+BAG:bipikcon add 88xHoa hồng vàng (old: 87) lydo: Nhặt từ map at 03/11/2023 8:01 AM
+BAG:bipikcon add 126xHoa hồng xanh (old: 125) lydo: Nhặt từ map at 03/11/2023 8:02 AM
+BAG:bipikcon add 127xHoa hồng xanh (old: 126) lydo: Nhặt từ map at 03/11/2023 8:02 AM
+BAG:bipikcon add 89xHoa hồng vàng (old: 88) lydo: Nhặt từ map at 03/11/2023 8:03 AM
+BAG:bipikcon add 116xHoa hồng đỏ (old: 115) lydo: Nhặt từ map at 03/11/2023 8:03 AM
+BAG:bipikcon add 128xHoa hồng xanh (old: 127) lydo: Nhặt từ map at 03/11/2023 8:03 AM
+BAG:bipikcon add 129xHoa hồng xanh (old: 128) lydo: Nhặt từ map at 03/11/2023 8:03 AM
+BAG:bipikcon add 130xHoa hồng xanh (old: 129) lydo: Nhặt từ map at 03/11/2023 8:03 AM
+BAG:bipikcon add 131xHoa hồng xanh (old: 130) lydo: Nhặt từ map at 03/11/2023 8:03 AM
+BAG:bipikcon add 117xHoa hồng đỏ (old: 116) lydo: Nhặt từ map at 03/11/2023 8:03 AM
+BAG:bipikcon add 94xHồn linh thú (old: 93) lydo: Nhặt từ map at 03/11/2023 8:04 AM
+BAG:bipikcon add 11xNgọc Rồng 3 sao (old: 10) lydo: Nhặt từ map at 03/11/2023 8:04 AM
+BAG:bipikcon add 1xHoa hồng xanh lydo: Nhặt từ map at 03/11/2023 8:04 AM
+BAG:bipikcon add 1xHoa hồng đỏ lydo: Nhặt từ map at 03/11/2023 8:05 AM
+BAG:bipikcon add 2xHoa hồng đỏ (old: 1) lydo: Nhặt từ map at 03/11/2023 8:05 AM
+BAG:bipikcon add 1xHoa hồng vàng lydo: Nhặt từ map at 03/11/2023 8:05 AM
+BAG:bipikcon add 3xHoa hồng đỏ (old: 2) lydo: Nhặt từ map at 03/11/2023 8:05 AM
+BAG:bipikcon add 12xNgọc Rồng 3 sao (old: 11) lydo: Nhặt từ map at 03/11/2023 8:05 AM
+BAG:bipikcon add 10xNgọc Rồng 4 sao (old: 9) lydo: Nhặt từ map at 03/11/2023 8:06 AM
+BAG:bipikcon add 2xHoa hồng vàng (old: 1) lydo: Nhặt từ map at 03/11/2023 8:06 AM
+BAG:bipikcon add 2xHoa hồng xanh (old: 1) lydo: Nhặt từ map at 03/11/2023 8:06 AM
+BAG:bipikcon add 3xHoa hồng vàng (old: 2) lydo: Nhặt từ map at 03/11/2023 8:06 AM
+BAG:bipikcon add 4xHoa hồng vàng (old: 3) lydo: Nhặt từ map at 03/11/2023 8:06 AM
+BAG:bipikcon add 1xCải Trang Glaxy lydo: Lấy từ body vào hành trang at 03/11/2023 8:07 AM
+BAG:bipikcon add 3xHoa hồng xanh (old: 2) lydo: Nhặt từ map at 03/11/2023 8:07 AM
+BAG:bipikcon add 4xHoa hồng đỏ (old: 3) lydo: Nhặt từ map at 03/11/2023 8:38 AM
+BAG:bipikcon add 5xHoa hồng đỏ (old: 4) lydo: Nhặt từ map at 03/11/2023 8:39 AM
+BAG:bipikcon add 5xHoa hồng vàng (old: 4) lydo: Nhặt từ map at 03/11/2023 8:40 AM
+BAG:bipikcon add 10xĐậu thần cấp 10 lydo: Thu hoạch đậu at 03/11/2023 11:16 AM
+BAG:bipikcon add 30xĐậu thần cấp 10 (old: 10) lydo: Lấy từ rương qua người at 03/11/2023 11:16 AM
+BAG:bipikcon add 11xNgọc Rồng 4 sao (old: 10) lydo: Nhặt từ map at 03/11/2023 11:25 AM
+BAG:bipikcon add 6xHoa hồng đỏ (old: 5) lydo: Nhặt từ map at 03/11/2023 11:28 AM
+BAG:bipikcon add 6xHoa hồng vàng (old: 5) lydo: Nhặt từ map at 03/11/2023 11:40 AM
+BAG:bipikcon add 4xHoa hồng xanh (old: 3) lydo: Nhặt từ map at 03/11/2023 11:41 AM
+BAG:bipikcon add 7xHoa hồng vàng (old: 6) lydo: Nhặt từ map at 03/11/2023 11:41 AM
+BAG:bipikcon add 7xHoa hồng đỏ (old: 6) lydo: Nhặt từ map at 03/11/2023 11:42 AM
+BAG:bipikcon add 5xHoa hồng xanh (old: 4) lydo: Nhặt từ map at 03/11/2023 11:42 AM
+BAG:bipikcon add 8xHoa hồng đỏ (old: 7) lydo: Nhặt từ map at 03/11/2023 11:43 AM
+BAG:bipikcon add 9xHoa hồng đỏ (old: 8) lydo: Nhặt từ map at 03/11/2023 11:43 AM
+BAG:bipikcon add 10xHoa hồng đỏ (old: 9) lydo: Nhặt từ map at 03/11/2023 11:44 AM
+BAG:bipikcon add 11xHoa hồng đỏ (old: 10) lydo: Nhặt từ map at 03/11/2023 11:44 AM
+BAG:bipikcon add 95xHồn linh thú (old: 94) lydo: Nhặt từ map at 03/11/2023 11:45 AM
+BAG:bipikcon add 96xHồn linh thú (old: 95) lydo: Nhặt từ map at 03/11/2023 11:46 AM
+BAG:bipikcon add 32xNgọc Rồng 6 sao (old: 31) lydo: Nhặt từ map at 03/11/2023 11:47 AM
+BAG:bipikcon add 12xHoa hồng đỏ (old: 11) lydo: Nhặt từ map at 03/11/2023 11:48 AM
+BAG:bipikcon add 6xHoa hồng xanh (old: 5) lydo: Nhặt từ map at 03/11/2023 11:51 AM
+BAG:bipikcon add 7xHoa hồng xanh (old: 6) lydo: Nhặt từ map at 03/11/2023 11:51 AM
+BAG:bipikcon add 8xHoa hồng vàng (old: 7) lydo: Nhặt từ map at 03/11/2023 11:52 AM
+BAG:bipikcon add 9xHoa hồng vàng (old: 8) lydo: Nhặt từ map at 03/11/2023 11:52 AM
+BAG:bipikcon add 10xHoa hồng vàng (old: 9) lydo: Nhặt từ map at 03/11/2023 11:52 AM
+BAG:bipikcon add 11xHoa hồng vàng (old: 10) lydo: Nhặt từ map at 03/11/2023 11:54 AM
+BAG:bipikcon add 8xHoa hồng xanh (old: 7) lydo: Nhặt từ map at 03/11/2023 11:55 AM
+BAG:bipikcon add 13xHoa hồng đỏ (old: 12) lydo: Nhặt từ map at 03/11/2023 11:58 AM
+BAG:bipikcon add 14xHoa hồng đỏ (old: 13) lydo: Nhặt từ map at 03/11/2023 11:59 AM
+BAG:bipikcon add 12xHoa hồng vàng (old: 11) lydo: Nhặt từ map at 03/11/2023 12:02 PM
+BAG:bipikcon add 9xHoa hồng xanh (old: 8) lydo: Nhặt từ map at 03/11/2023 12:05 PM
+BAG:bipikcon add 13xHoa hồng vàng (old: 12) lydo: Nhặt từ map at 03/11/2023 12:10 PM
+BAG:bipikcon add 1xGăng Thần Namếc lydo: Lấy từ body đệ vào hành trang at 03/11/2023 12:11 PM
+BAG:bipikcon add 10xHoa hồng xanh (old: 9) lydo: Nhặt từ map at 03/11/2023 12:28 PM
+BAG:bipikcon add 12xNgọc Rồng 4 sao (old: 11) lydo: Nhặt từ map at 03/11/2023 12:29 PM
+BAG:bipikcon add 11xHoa hồng xanh (old: 10) lydo: Nhặt từ map at 03/11/2023 12:31 PM
+BAG:bipikcon add 12xHoa hồng xanh (old: 11) lydo: Nhặt từ map at 03/11/2023 12:31 PM
+BAG:bipikcon add 14xHoa hồng vàng (old: 13) lydo: Nhặt từ map at 03/11/2023 12:31 PM
+BAG:bipikcon add 15xHoa hồng đỏ (old: 14) lydo: Nhặt từ map at 03/11/2023 12:32 PM
+BAG:bipikcon add 15xHoa hồng vàng (old: 14) lydo: Nhặt từ map at 03/11/2023 12:32 PM
+BAG:bipikcon add 13xHoa hồng xanh (old: 12) lydo: Nhặt từ map at 03/11/2023 12:33 PM
+BAG:bipikcon add 16xHoa hồng đỏ (old: 15) lydo: Nhặt từ map at 03/11/2023 12:34 PM
+BAG:bipikcon add 17xHoa hồng đỏ (old: 16) lydo: Nhặt từ map at 03/11/2023 12:35 PM
+BAG:bipikcon add 14xHoa hồng xanh (old: 13) lydo: Nhặt từ map at 03/11/2023 12:36 PM
+BAG:bipikcon add 18xHoa hồng đỏ (old: 17) lydo: Nhặt từ map at 03/11/2023 12:37 PM
+BAG:bipikcon add 16xHoa hồng vàng (old: 15) lydo: Nhặt từ map at 03/11/2023 12:37 PM
+BAG:bipikcon add 19xHoa hồng đỏ (old: 18) lydo: Nhặt từ map at 03/11/2023 12:38 PM
+BAG:bipikcon add 20xHoa hồng đỏ (old: 19) lydo: Nhặt từ map at 03/11/2023 12:38 PM
+BAG:bipikcon add 21xHoa hồng đỏ (old: 20) lydo: Nhặt từ map at 03/11/2023 12:38 PM
+BAG:bipikcon add 17xHoa hồng vàng (old: 16) lydo: Nhặt từ map at 03/11/2023 12:38 PM
+BAG:bipikcon add 22xHoa hồng đỏ (old: 21) lydo: Nhặt từ map at 03/11/2023 12:38 PM
+BAG:bipikcon add 15xHoa hồng xanh (old: 14) lydo: Nhặt từ map at 03/11/2023 12:38 PM
+BAG:bipikcon add 23xHoa hồng đỏ (old: 22) lydo: Nhặt từ map at 03/11/2023 12:38 PM
+BAG:bipikcon add 18xHoa hồng vàng (old: 17) lydo: Nhặt từ map at 03/11/2023 12:41 PM
+BAG:bipikcon add 19xHoa hồng vàng (old: 18) lydo: Nhặt từ map at 03/11/2023 12:41 PM
+BAG:bipikcon add 16xHoa hồng xanh (old: 15) lydo: Nhặt từ map at 03/11/2023 12:42 PM
+BAG:bipikcon add 17xHoa hồng xanh (old: 16) lydo: Nhặt từ map at 03/11/2023 12:42 PM
+BAG:bipikcon add 18xHoa hồng xanh (old: 17) lydo: Nhặt từ map at 03/11/2023 12:43 PM
+BAG:bipikcon add 20xHoa hồng vàng (old: 19) lydo: Nhặt từ map at 03/11/2023 12:46 PM
+BAG:bipikcon add 21xHoa hồng vàng (old: 20) lydo: Nhặt từ map at 03/11/2023 12:47 PM
+BAG:bipikcon add 19xHoa hồng xanh (old: 18) lydo: Nhặt từ map at 03/11/2023 12:47 PM
+BAG:bipikcon add 20xHoa hồng xanh (old: 19) lydo: Nhặt từ map at 03/11/2023 12:47 PM
+BAG:bipikcon add 21xHoa hồng xanh (old: 20) lydo: Nhặt từ map at 03/11/2023 12:47 PM
+BAG:bipikcon add 22xHoa hồng xanh (old: 21) lydo: Nhặt từ map at 03/11/2023 12:48 PM
+BAG:bipikcon add 22xHoa hồng vàng (old: 21) lydo: Nhặt từ map at 03/11/2023 12:48 PM
+BAG:bipikcon add 23xHoa hồng vàng (old: 22) lydo: Nhặt từ map at 03/11/2023 12:50 PM
+BAG:bipikcon add 23xHoa hồng xanh (old: 22) lydo: Nhặt từ map at 03/11/2023 12:51 PM
+BAG:bipikcon add 24xHoa hồng đỏ (old: 23) lydo: Nhặt từ map at 03/11/2023 12:51 PM
+BAG:bipikcon add 24xHoa hồng xanh (old: 23) lydo: Nhặt từ map at 03/11/2023 12:52 PM
+BAG:bipikcon add 33xNgọc Rồng 6 sao (old: 32) lydo: Nhặt từ map at 03/11/2023 12:52 PM
+BAG:bipikcon add 25xHoa hồng xanh (old: 24) lydo: Nhặt từ map at 03/11/2023 12:52 PM
+BAG:bipikcon add 24xHoa hồng vàng (old: 23) lydo: Nhặt từ map at 03/11/2023 12:53 PM
+BAG:bipikcon add 25xHoa hồng đỏ (old: 24) lydo: Nhặt từ map at 03/11/2023 12:53 PM
+BAG:bipikcon add 26xHoa hồng xanh (old: 25) lydo: Nhặt từ map at 03/11/2023 12:53 PM
+BAG:bipikcon add 27xHoa hồng xanh (old: 26) lydo: Nhặt từ map at 03/11/2023 12:54 PM
+BAG:bipikcon add 25xHoa hồng vàng (old: 24) lydo: Nhặt từ map at 03/11/2023 12:55 PM
+BAG:bipikcon add 26xHoa hồng đỏ (old: 25) lydo: Nhặt từ map at 03/11/2023 12:56 PM
+BAG:bipikcon add 28xHoa hồng xanh (old: 27) lydo: Nhặt từ map at 03/11/2023 12:56 PM
+BAG:bipikcon add 27xHoa hồng đỏ (old: 26) lydo: Nhặt từ map at 03/11/2023 12:57 PM
+BAG:bipikcon add 1xGăng Thần Namếc lydo: Lấy từ body đệ vào hành trang at 03/11/2023 12:57 PM
+BAG:bipikcon add 26xHoa hồng vàng (old: 25) lydo: Nhặt từ map at 03/11/2023 12:57 PM
+BAG:bipikcon add 29xHoa hồng xanh (old: 28) lydo: Nhặt từ map at 03/11/2023 12:59 PM
+BAG:bipikcon add 30xHoa hồng xanh (old: 29) lydo: Nhặt từ map at 03/11/2023 1:00 PM
+BAG:bipikcon add 27xHoa hồng vàng (old: 26) lydo: Nhặt từ map at 03/11/2023 1:00 PM
+BAG:bipikcon add 34xNgọc Rồng 6 sao (old: 33) lydo: Nhặt từ map at 03/11/2023 1:01 PM
+BAG:bipikcon add 28xHoa hồng đỏ (old: 27) lydo: Nhặt từ map at 03/11/2023 1:01 PM
+BAG:bipikcon add 31xHoa hồng xanh (old: 30) lydo: Nhặt từ map at 03/11/2023 1:01 PM
+BAG:bipikcon add 29xHoa hồng đỏ (old: 28) lydo: Nhặt từ map at 03/11/2023 1:01 PM
+BAG:bipikcon add 35xNgọc Rồng 6 sao (old: 34) lydo: Nhặt từ map at 03/11/2023 1:02 PM
+BAG:bipikcon add 97xHồn linh thú (old: 96) lydo: Nhặt từ map at 03/11/2023 1:02 PM
+BAG:bipikcon add 32xHoa hồng xanh (old: 31) lydo: Nhặt từ map at 03/11/2023 1:03 PM
+BAG:bipikcon add 30xHoa hồng đỏ (old: 29) lydo: Nhặt từ map at 03/11/2023 1:03 PM
+BAG:bipikcon add 33xHoa hồng xanh (old: 32) lydo: Nhặt từ map at 03/11/2023 1:04 PM
+BAG:bipikcon add 31xHoa hồng đỏ (old: 30) lydo: Nhặt từ map at 03/11/2023 1:05 PM
+BAG:bipikcon add 32xHoa hồng đỏ (old: 31) lydo: Nhặt từ map at 03/11/2023 1:05 PM
+BAG:bipikcon add 28xHoa hồng vàng (old: 27) lydo: Nhặt từ map at 03/11/2023 1:05 PM
+BAG:bipikcon add 34xHoa hồng xanh (old: 33) lydo: Nhặt từ map at 03/11/2023 1:05 PM
+BAG:bipikcon add 33xHoa hồng đỏ (old: 32) lydo: Nhặt từ map at 03/11/2023 1:06 PM
+BAG:bipikcon add 29xHoa hồng vàng (old: 28) lydo: Nhặt từ map at 03/11/2023 1:07 PM
+BAG:bipikcon add 30xHoa hồng vàng (old: 29) lydo: Nhặt từ map at 03/11/2023 1:07 PM
+BAG:bipikcon add 35xHoa hồng xanh (old: 34) lydo: Nhặt từ map at 03/11/2023 1:07 PM
+BAG:bipikcon add 98xHồn linh thú (old: 97) lydo: Nhặt từ map at 03/11/2023 8:05 PM

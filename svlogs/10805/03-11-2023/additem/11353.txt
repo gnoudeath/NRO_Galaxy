@@ -1,0 +1,52 @@
+BAG:goku6464646 add 1xGăng vải đen lydo: Nhặt từ map at 03/11/2023 3:47 AM
+BAG:goku6464646 add 1xSách đấm Dragon lv4 lydo: Mua từ cửa hàng at 03/11/2023 3:48 AM
+BAG:goku6464646 add 1xSách đấm Dragon lv5 lydo: Mua từ cửa hàng at 03/11/2023 3:48 AM
+BAG:goku6464646 add 1xGăng vải đen lydo: Nhặt từ map at 03/11/2023 4:11 AM
+BAG:goku6464646 add 1xNâng cấp kỹ năng 1 đệ tử lydo: Mua từ cửa hàng at 03/11/2023 4:13 AM
+BAG:goku6464646 add 10xĐậu thần cấp 1 (old: 8) lydo: Thu hoạch đậu at 03/11/2023 4:23 AM
+BAG:goku6464646 add 10xĐậu thần cấp 1 (old: 9) lydo: Thu hoạch đậu at 03/11/2023 4:24 AM
+BAG:goku6464646 add 1xQuần vải đen lydo: Nhặt từ map at 03/11/2023 4:26 AM
+BAG:goku6464646 add 1xQuần vải đen lydo: Nhặt từ map at 03/11/2023 4:26 AM
+BAG:goku6464646 add 1xÁo vải 3 lỗ lydo: Nhặt từ map at 03/11/2023 4:27 AM
+BAG:goku6464646 add 1xHoa hồng vàng lydo: Nhặt từ map at 03/11/2023 4:30 AM
+BAG:goku6464646 add 5xĐậu thần cấp 1 lydo: Thu hoạch đậu at 03/11/2023 4:33 AM
+BAG:goku6464646 add 10xĐậu thần cấp 1 (old: 5) lydo: Thu hoạch đậu at 03/11/2023 4:33 AM
+BAG:goku6464646 add 5xĐậu thần cấp 1 lydo: Thu hoạch đậu at 03/11/2023 4:41 AM
+BAG:goku6464646 add 10xĐậu thần cấp 1 (old: 5) lydo: Thu hoạch đậu at 03/11/2023 4:41 AM
+BAG:goku6464646 add 30xĐậu thần cấp 1 (old: 10) lydo: Lấy từ rương qua người at 03/11/2023 4:41 AM
+BAG:goku6464646 add 40xĐậu thần cấp 1 (old: 30) lydo: Lấy từ rương qua người at 03/11/2023 4:42 AM
+BAG:goku6464646 add 60xĐậu thần cấp 1 (old: 40) lydo: Lấy từ rương qua người at 03/11/2023 4:42 AM
+BAG:goku6464646 add 65xĐậu thần cấp 1 (old: 60) lydo: Lấy từ rương qua người at 03/11/2023 4:42 AM
+BAG:goku6464646 add 70xĐậu thần cấp 1 (old: 65) lydo: Lấy từ rương qua người at 03/11/2023 4:42 AM
+BAG:goku6464646 add 2xHoa hồng vàng (old: 1) lydo: Nhặt từ map at 03/11/2023 4:52 AM
+BAG:goku6464646 add 3xHoa hồng vàng (old: 2) lydo: Nhặt từ map at 03/11/2023 4:58 AM
+BAG:goku6464646 add 4xHoa hồng vàng (old: 3) lydo: Nhặt từ map at 03/11/2023 5:03 AM
+BAG:goku6464646 add 3xHoa hồng xanh (old: 2) lydo: Nhặt từ map at 03/11/2023 5:07 AM
+BAG:goku6464646 add 5xHoa hồng vàng (old: 4) lydo: Nhặt từ map at 03/11/2023 6:19 AM
+BAG:goku6464646 add 10xĐậu thần cấp 1 (old: 8) lydo: Thu hoạch đậu at 03/11/2023 6:26 AM
+BAG:goku6464646 add 6xHoa hồng vàng (old: 5) lydo: Nhặt từ map at 03/11/2023 6:28 AM
+BAG:goku6464646 add 35xĐậu thần cấp 1 (old: 5) lydo: Mua từ cửa hàng at 03/11/2023 6:28 AM
+BAG:goku6464646 add 1xHoa hồng đỏ lydo: Nhặt từ map at 03/11/2023 6:29 AM
+BAG:goku6464646 add 4xHoa hồng xanh (old: 3) lydo: Nhặt từ map at 03/11/2023 6:30 AM
+BAG:goku6464646 add 2xHoa hồng đỏ (old: 1) lydo: Nhặt từ map at 03/11/2023 6:30 AM
+BAG:goku6464646 add 1xĐá Saphia lydo: Nhặt từ map at 03/11/2023 6:30 AM
+BAG:goku6464646 add 1xĐá lục bảo lydo: Nhặt từ map at 03/11/2023 6:31 AM
+BAG:goku6464646 add 5xHoa hồng xanh (old: 4) lydo: Nhặt từ map at 03/11/2023 6:32 AM
+BAG:goku6464646 add 6xHoa hồng xanh (old: 5) lydo: Nhặt từ map at 03/11/2023 6:33 AM
+BAG:goku6464646 add 1xBông tai Porata lydo: Mua từ cửa hàng at 03/11/2023 7:44 AM
+BAG:goku6464646 add 7xHoa hồng vàng (old: 6) lydo: Nhặt từ map at 03/11/2023 7:44 AM
+BAG:goku6464646 add 7xHoa hồng xanh (old: 6) lydo: Nhặt từ map at 03/11/2023 7:45 AM
+BAG:goku6464646 add 1xBông tai Porata lydo: Mua từ cửa hàng at 03/11/2023 7:46 AM
+BAG:goku6464646 add 1xĐá xanh lam lydo: Mua từ cửa hàng at 03/11/2023 7:46 AM
+BAG:goku6464646 add 1xQuần vải đen lydo: Nhặt từ map at 03/11/2023 7:48 AM
+BAG:goku6464646 add 1xÁo vải 3 lỗ lydo: Nhặt từ map at 03/11/2023 7:48 AM
+BAG:goku6464646 add 1xQuần vải đen lydo: Nhặt từ map at 03/11/2023 7:48 AM
+BAG:goku6464646 add 3xHoa hồng đỏ (old: 2) lydo: Nhặt từ map at 03/11/2023 7:48 AM
+BAG:goku6464646 add 8xHoa hồng vàng (old: 7) lydo: Nhặt từ map at 03/11/2023 7:49 AM
+BAG:goku6464646 add 1xRada cấp 1 lydo: Nhặt từ map at 03/11/2023 8:49 AM
+BAG:goku6464646 add 1xHoa hồng vàng lydo: Nhặt từ map at 03/11/2023 8:50 AM
+BAG:goku6464646 add 1xSách đấm Dragon lv6 lydo: Mua từ cửa hàng at 03/11/2023 8:50 AM
+BAG:goku6464646 add 1xSách đấm Dragon lv7 lydo: Mua từ cửa hàng at 03/11/2023 8:51 AM
+BAG:goku6464646 add 1xHoa hồng xanh lydo: Nhặt từ map at 03/11/2023 8:52 AM
+BAG:goku6464646 add 1xHoa hồng đỏ lydo: Nhặt từ map at 03/11/2023 10:38 AM
+BAG:goku6464646 add 1xÁo vải 3 lỗ lydo: Nhặt từ map at 03/11/2023 10:39 AM

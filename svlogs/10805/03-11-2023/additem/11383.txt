@@ -1,0 +1,89 @@
+BAG:kedendui add 150xThỏi vàng (old: 50) lydo: Giftcode at 03/11/2023 1:35 PM
+BAG:kedendui add 2xĐá Ruby (old: 1) lydo: Nhặt từ map at 03/11/2023 1:35 PM
+BAG:kedendui add 11xHoa hồng đỏ (old: 10) lydo: Nhặt từ map at 03/11/2023 1:35 PM
+BAG:kedendui add 14xHoa hồng vàng (old: 13) lydo: Nhặt từ map at 03/11/2023 1:35 PM
+BAG:kedendui add 12xHoa hồng xanh (old: 11) lydo: Nhặt từ map at 03/11/2023 1:35 PM
+BAG:kedendui add 1xGăng vải đen lydo: Nhặt từ map at 03/11/2023 1:35 PM
+BAG:kedendui add 3xĐá Saphia (old: 2) lydo: Nhặt từ map at 03/11/2023 1:35 PM
+BAG:kedendui add 12xHoa hồng đỏ (old: 11) lydo: Nhặt từ map at 03/11/2023 1:36 PM
+BAG:kedendui add 13xHoa hồng xanh (old: 12) lydo: Nhặt từ map at 03/11/2023 1:36 PM
+BAG:kedendui add 1xRada cấp 1 lydo: Nhặt từ map at 03/11/2023 1:36 PM
+BAG:kedendui add 1xRada cấp 1 lydo: Nhặt từ map at 03/11/2023 1:36 PM
+BAG:kedendui add 13xHoa hồng đỏ (old: 12) lydo: Nhặt từ map at 03/11/2023 1:36 PM
+BAG:kedendui add 15xHoa hồng vàng (old: 14) lydo: Nhặt từ map at 03/11/2023 1:36 PM
+BAG:kedendui add 16xHoa hồng vàng (old: 15) lydo: Nhặt từ map at 03/11/2023 1:36 PM
+BAG:kedendui add 14xHoa hồng xanh (old: 13) lydo: Nhặt từ map at 03/11/2023 1:36 PM
+BAG:kedendui add 1xQuần vải đen lydo: Lấy từ body vào hành trang at 03/11/2023 1:37 PM
+BAG:kedendui add 1xÁo vải 3 lỗ lydo: Nhặt từ map at 03/11/2023 1:37 PM
+BAG:kedendui add 17xHoa hồng vàng (old: 16) lydo: Nhặt từ map at 03/11/2023 1:38 PM
+BAG:kedendui add 1xGăng vải đen lydo: Nhặt từ map at 03/11/2023 1:38 PM
+BAG:kedendui add 1xCân đẩu vân VIP lydo: Mua từ cửa hàng at 03/11/2023 1:38 PM
+BAG:kedendui add 1xÁo vải 3 lỗ lydo: Nhặt từ map at 03/11/2023 1:39 PM
+BAG:kedendui add 1xMảnh Thằn lằn bay lydo: Nhặt từ map at 03/11/2023 1:39 PM
+BAG:kedendui add 18xHoa hồng vàng (old: 17) lydo: Nhặt từ map at 03/11/2023 1:39 PM
+BAG:kedendui add 19xHoa hồng vàng (old: 18) lydo: Nhặt từ map at 03/11/2023 1:39 PM
+BAG:kedendui add 1xQuần vải đen lydo: Nhặt từ map at 03/11/2023 1:40 PM
+BAG:kedendui add 15xHoa hồng xanh (old: 14) lydo: Nhặt từ map at 03/11/2023 1:40 PM
+BAG:kedendui add 16xHoa hồng xanh (old: 15) lydo: Nhặt từ map at 03/11/2023 1:40 PM
+BAG:kedendui add 2xĐá lục bảo (old: 1) lydo: Nhặt từ map at 03/11/2023 1:41 PM
+BAG:kedendui add 4xĐá thạch anh tím (old: 3) lydo: Nhặt từ map at 03/11/2023 1:41 PM
+BAG:kedendui add 14xHoa hồng đỏ (old: 13) lydo: Nhặt từ map at 03/11/2023 1:41 PM
+BAG:kedendui add 1xÁo vải 3 lỗ lydo: Nhặt từ map at 03/11/2023 1:42 PM
+BAG:kedendui add 53xĐậu thần cấp 10 (old: 33) lydo: Lấy từ rương qua người at 03/11/2023 1:43 PM
+BAG:kedendui add 1xViên Capsule đặc biệt lydo: Mua từ cửa hàng at 03/11/2023 1:43 PM
+BAG:kedendui add 1xTự động luyện tập lydo: Mua TDTL từ cửa hàng at 03/11/2023 1:46 PM
+BAG:kedendui add 1xĐổi đệ tử lydo: Mua từ cửa hàng at 03/11/2023 1:46 PM
+BAG:kedendui add 2xĐổi đệ tử (old: 1) lydo: Mua từ cửa hàng at 03/11/2023 1:46 PM
+BAG:kedendui add 3xĐổi đệ tử (old: 2) lydo: Mua từ cửa hàng at 03/11/2023 1:46 PM
+BAG:kedendui add 17xHoa hồng xanh (old: 16) lydo: Nhặt từ map at 03/11/2023 1:47 PM
+BAG:kedendui add 1xÁo vải 3 lỗ lydo: Nhặt từ map at 03/11/2023 1:48 PM
+BAG:kedendui add 1xQuần vải đen lydo: Nhặt từ map at 03/11/2023 1:48 PM
+BAG:kedendui add 18xHoa hồng xanh (old: 17) lydo: Nhặt từ map at 03/11/2023 1:48 PM
+BAG:kedendui add 20xHoa hồng vàng (old: 19) lydo: Nhặt từ map at 03/11/2023 1:48 PM
+BAG:kedendui add 19xHoa hồng xanh (old: 18) lydo: Nhặt từ map at 03/11/2023 1:48 PM
+BAG:kedendui add 15xHoa hồng đỏ (old: 14) lydo: Nhặt từ map at 03/11/2023 1:48 PM
+BAG:kedendui add 20xHoa hồng xanh (old: 19) lydo: Nhặt từ map at 03/11/2023 1:48 PM
+BAG:kedendui add 5xĐá thạch anh tím (old: 4) lydo: Nhặt từ map at 03/11/2023 1:48 PM
+BAG:kedendui add 1xGiầy nhựa lydo: Nhặt từ map at 03/11/2023 1:48 PM
+BAG:kedendui add 1xRada cấp 1 lydo: Nhặt từ map at 03/11/2023 1:49 PM
+BAG:kedendui add 1xQuần vải đen lydo: Nhặt từ map at 03/11/2023 1:49 PM
+BAG:kedendui add 21xHoa hồng xanh (old: 20) lydo: Nhặt từ map at 03/11/2023 1:49 PM
+BAG:kedendui add 21xHoa hồng vàng (old: 20) lydo: Nhặt từ map at 03/11/2023 1:49 PM
+BAG:kedendui add 1xGiầy nhựa lydo: Nhặt từ map at 03/11/2023 1:49 PM
+BAG:kedendui add 1xQuần vải đen lydo: Nhặt từ map at 03/11/2023 1:49 PM
+BAG:kedendui add 1xQuần vải đen lydo: Nhặt từ map at 03/11/2023 1:49 PM
+BAG:kedendui add 16xHoa hồng đỏ (old: 15) lydo: Nhặt từ map at 03/11/2023 1:49 PM
+BAG:kedendui add 17xHoa hồng đỏ (old: 16) lydo: Nhặt từ map at 03/11/2023 1:49 PM
+BAG:kedendui add 22xHoa hồng vàng (old: 21) lydo: Nhặt từ map at 03/11/2023 1:49 PM
+BAG:kedendui add 22xHoa hồng xanh (old: 21) lydo: Nhặt từ map at 03/11/2023 1:49 PM
+BAG:kedendui add 4xĐổi đệ tử (old: 3) lydo: Mua từ cửa hàng at 03/11/2023 1:50 PM
+BAG:kedendui add 5xĐổi đệ tử (old: 4) lydo: Mua từ cửa hàng at 03/11/2023 1:50 PM
+BAG:kedendui add 6xĐổi đệ tử (old: 5) lydo: Mua từ cửa hàng at 03/11/2023 1:50 PM
+BAG:kedendui add 7xĐổi đệ tử (old: 6) lydo: Mua từ cửa hàng at 03/11/2023 1:50 PM
+BAG:kedendui add 8xĐổi đệ tử (old: 7) lydo: Mua từ cửa hàng at 03/11/2023 1:50 PM
+BAG:kedendui add 9xĐổi đệ tử (old: 8) lydo: Mua từ cửa hàng at 03/11/2023 1:50 PM
+BAG:kedendui add 10xĐổi đệ tử (old: 9) lydo: Mua từ cửa hàng at 03/11/2023 1:50 PM
+BAG:kedendui add 11xĐổi đệ tử (old: 10) lydo: Mua từ cửa hàng at 03/11/2023 1:50 PM
+BAG:kedendui add 12xĐổi đệ tử (old: 11) lydo: Mua từ cửa hàng at 03/11/2023 1:50 PM
+BAG:kedendui add 13xĐổi đệ tử (old: 12) lydo: Mua từ cửa hàng at 03/11/2023 1:50 PM
+BAG:kedendui add 14xĐổi đệ tử (old: 13) lydo: Mua từ cửa hàng at 03/11/2023 1:50 PM
+BAG:kedendui add 1xRada cấp 1 lydo: Lấy từ body đệ vào hành trang at 03/11/2023 1:51 PM
+BAG:kedendui add 30xĐậu thần cấp 9 lydo: Mua từ cửa hàng at 03/11/2023 1:54 PM
+BAG:kedendui add 60xĐậu thần cấp 9 (old: 30) lydo: Mua từ cửa hàng at 03/11/2023 1:54 PM
+BAG:kedendui add 90xĐậu thần cấp 9 (old: 60) lydo: Mua từ cửa hàng at 03/11/2023 1:54 PM
+BAG:kedendui add 21xĐậu thần cấp 9 lydo: Mua từ cửa hàng at 03/11/2023 1:54 PM
+BAG:kedendui add 99xĐậu thần cấp 9 (old: 90) lydo: Mua từ cửa hàng at 03/11/2023 1:54 PM
+BAG:kedendui add 51xĐậu thần cấp 9 (old: 21) lydo: Mua từ cửa hàng at 03/11/2023 1:54 PM
+BAG:kedendui add 81xĐậu thần cấp 9 (old: 51) lydo: Mua từ cửa hàng at 03/11/2023 1:54 PM
+BAG:kedendui add 12xĐậu thần cấp 9 lydo: Mua từ cửa hàng at 03/11/2023 1:54 PM
+BAG:kedendui add 99xĐậu thần cấp 9 (old: 81) lydo: Mua từ cửa hàng at 03/11/2023 1:54 PM
+BAG:kedendui add 42xĐậu thần cấp 9 (old: 12) lydo: Mua từ cửa hàng at 03/11/2023 1:54 PM
+BAG:kedendui add 72xĐậu thần cấp 9 (old: 42) lydo: Mua từ cửa hàng at 03/11/2023 1:54 PM
+BAG:kedendui add 3xĐậu thần cấp 9 lydo: Mua từ cửa hàng at 03/11/2023 1:54 PM
+BAG:kedendui add 99xĐậu thần cấp 9 (old: 72) lydo: Mua từ cửa hàng at 03/11/2023 1:54 PM
+BAG:kedendui add 33xĐậu thần cấp 9 (old: 3) lydo: Mua từ cửa hàng at 03/11/2023 1:54 PM
+BAG:kedendui add 63xĐậu thần cấp 9 (old: 33) lydo: Mua từ cửa hàng at 03/11/2023 1:54 PM
+BAG:kedendui add 93xĐậu thần cấp 9 (old: 63) lydo: Mua từ cửa hàng at 03/11/2023 1:54 PM
+BAG:kedendui add 1xÁo vải 3 lỗ lydo: Lấy từ body vào hành trang at 03/11/2023 7:08 PM
+BAG:kedendui add 18xHoa hồng đỏ (old: 17) lydo: Nhặt từ map at 03/11/2023 7:09 PM
+BAG:kedendui add 19xHoa hồng đỏ (old: 18) lydo: Nhặt từ map at 03/11/2023 7:09 PM

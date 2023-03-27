@@ -1,0 +1,11 @@
+BAG:admin1 add 1xRada cấp 1 lydo: Nhặt từ map at 03/12/2023 7:54 AM
+BAG:admin1 add 1xQuần vải đen lydo: Nhặt từ map at 03/12/2023 7:54 AM
+BAG:admin1 add 1xĐá Saphia lydo: Nhặt từ map at 03/12/2023 8:01 AM
+BAG:admin1 add 1xHoa hồng vàng lydo: Nhặt từ map at 03/12/2023 8:01 AM
+BAG:admin1 add 1xHoa hồng xanh lydo: Nhặt từ map at 03/12/2023 8:01 AM
+BAG:admin1 add 2xHoa hồng vàng (old: 1) lydo: Nhặt từ map at 03/12/2023 8:02 AM
+BAG:admin1 add 2xHoa hồng xanh (old: 1) lydo: Nhặt từ map at 03/12/2023 8:03 AM
+BAG:admin1 add 3xHoa hồng xanh (old: 2) lydo: Nhặt từ map at 03/12/2023 8:03 AM
+BAG:admin1 add 1xHoa hồng đỏ lydo: Nhặt từ map at 03/12/2023 8:03 AM
+BAG:admin1 add 1xQuần sợi len lydo: Lấy từ body vào hành trang at 03/12/2023 8:04 AM
+BAG:admin1 add 2xĐá Saphia (old: 1) lydo: Nhặt từ map at 03/12/2023 8:05 AM

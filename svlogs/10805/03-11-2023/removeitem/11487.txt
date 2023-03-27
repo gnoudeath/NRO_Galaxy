@@ -1,0 +1,196 @@
+BAG:tuilekoramw remove Rada cấp 1 lydo: Mặc vào người at 03/11/2023 2:41 PM
+BAG:tuilekoramw remove Áo vải thô lydo: Tự Xóa vật phẩm at 03/11/2023 3:11 PM
+BAG:tuilekoramw remove Quần vải thô lydo: Tự Xóa vật phẩm at 03/11/2023 3:11 PM
+BAG:tuilekoramw remove Rada cấp 1 lydo: Tự Xóa vật phẩm at 03/11/2023 3:11 PM
+BAG:tuilekoramw remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/11/2023 3:12 PM
+BAG:tuilekoramw remove Quần vải thô lydo: Tự Xóa vật phẩm at 03/11/2023 3:13 PM
+BAG:tuilekoramw remove Áo vải thô lydo: Tự Xóa vật phẩm at 03/11/2023 3:13 PM
+BAG:tuilekoramw remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/11/2023 3:13 PM
+BAG:tuilekoramw remove Rada cấp 1 lydo: Tự Xóa vật phẩm at 03/11/2023 3:14 PM
+BAG:tuilekoramw remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/11/2023 3:14 PM
+BAG:tuilekoramw remove Giầy vải thô lydo: Mặc cho đệ tử at 03/11/2023 3:15 PM
+BAG:tuilekoramw remove Găng vải thô lydo: Mặc cho đệ tử at 03/11/2023 3:15 PM
+BAG:tuilekoramw remove Quần vải thô lydo: Mặc cho đệ tử at 03/11/2023 3:15 PM
+BAG:tuilekoramw remove Áo vải thô lydo: Mặc cho đệ tử at 03/11/2023 3:16 PM
+BAG:tuilekoramw remove Áo vải thô lydo: Cất vào rương at 03/11/2023 3:16 PM
+BAG:tuilekoramw remove Quần vải thô lydo: Cất vào rương at 03/11/2023 3:16 PM
+BAG:tuilekoramw remove Găng vải thô lydo: Cất vào rương at 03/11/2023 3:16 PM
+BAG:tuilekoramw remove Rada cấp 1 lydo: Cất vào rương at 03/11/2023 3:16 PM
+BAG:tuilekoramw remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/11/2023 3:17 PM
+BAG:tuilekoramw remove Áo sợi len lydo: Tự Xóa vật phẩm at 03/11/2023 3:17 PM
+BAG:tuilekoramw remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/11/2023 3:17 PM
+BAG:tuilekoramw remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/11/2023 3:17 PM
+BAG:tuilekoramw remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/11/2023 3:17 PM
+BAG:tuilekoramw remove 1xGăng vải thô lydo: Bán cho shop at 03/11/2023 3:18 PM
+BAG:tuilekoramw remove 1xGiầy vải thô lydo: Bán cho shop at 03/11/2023 3:18 PM
+BAG:tuilekoramw remove 1xGiầy vải thô lydo: Bán cho shop at 03/11/2023 3:18 PM
+BAG:tuilekoramw remove 1xGăng vải thô lydo: Bán cho shop at 03/11/2023 3:18 PM
+BAG:tuilekoramw remove 1xGăng vải thô lydo: Bán cho shop at 03/11/2023 3:18 PM
+BAG:tuilekoramw remove 1xQuần vải thô lydo: Bán cho shop at 03/11/2023 3:18 PM
+BAG:tuilekoramw remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/11/2023 3:18 PM
+BAG:tuilekoramw remove Quần vải thô lydo: Tự Xóa vật phẩm at 03/11/2023 3:19 PM
+BAG:tuilekoramw remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/11/2023 3:19 PM
+BAG:tuilekoramw remove Giầy vải thô lydo: Tự Xóa vật phẩm at 03/11/2023 3:19 PM
+BAG:tuilekoramw remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/11/2023 3:19 PM
+BAG:tuilekoramw remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/11/2023 3:20 PM
+BAG:tuilekoramw remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/11/2023 3:20 PM
+BAG:tuilekoramw remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/11/2023 3:20 PM
+BAG:tuilekoramw remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/11/2023 3:20 PM
+BAG:tuilekoramw remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/11/2023 3:20 PM
+BAG:tuilekoramw remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/11/2023 3:21 PM
+BAG:tuilekoramw remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/11/2023 3:21 PM
+BAG:tuilekoramw remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/11/2023 3:21 PM
+BAG:tuilekoramw remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/11/2023 3:22 PM
+BAG:tuilekoramw remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/11/2023 3:22 PM
+BAG:tuilekoramw remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/11/2023 3:22 PM
+BAG:tuilekoramw remove Rada cấp 1 lydo: Tự Xóa vật phẩm at 03/11/2023 3:22 PM
+BAG:tuilekoramw remove Quần vải thô lydo: Tự Xóa vật phẩm at 03/11/2023 3:22 PM
+BAG:tuilekoramw remove Quần vải thô lydo: Tự Xóa vật phẩm at 03/11/2023 3:22 PM
+BAG:tuilekoramw remove Mảnh Quỷ đất lydo: Tự Xóa vật phẩm at 03/11/2023 3:22 PM
+BAG:tuilekoramw remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/11/2023 3:22 PM
+BAG:tuilekoramw remove Quần vải thô lydo: Tự Xóa vật phẩm at 03/11/2023 3:23 PM
+BAG:tuilekoramw remove Giầy vải thô lydo: Tự Xóa vật phẩm at 03/11/2023 3:23 PM
+BAG:tuilekoramw remove Rada cấp 1 lydo: Tự Xóa vật phẩm at 03/11/2023 3:23 PM
+BAG:tuilekoramw remove Giầy vải thô lydo: Tự Xóa vật phẩm at 03/11/2023 3:23 PM
+BAG:tuilekoramw remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/11/2023 3:23 PM
+BAG:tuilekoramw remove Áo vải thô lydo: Tự Xóa vật phẩm at 03/11/2023 3:23 PM
+BAG:tuilekoramw remove Giầy vải thô lydo: Tự Xóa vật phẩm at 03/11/2023 3:23 PM
+BAG:tuilekoramw remove Giầy vải thô lydo: Tự Xóa vật phẩm at 03/11/2023 3:23 PM
+BAG:tuilekoramw remove Áo vải thô lydo: Tự Xóa vật phẩm at 03/11/2023 3:23 PM
+BAG:tuilekoramw remove Áo vải thô lydo: Tự Xóa vật phẩm at 03/11/2023 3:23 PM
+BAG:tuilekoramw remove Rada cấp 1 lydo: Mặc cho đệ tử at 03/11/2023 3:23 PM
+BAG:tuilekoramw remove Quần vải thô lydo: Tự Xóa vật phẩm at 03/11/2023 3:23 PM
+BAG:tuilekoramw remove Áo vải thô lydo: Tự Xóa vật phẩm at 03/11/2023 3:23 PM
+BAG:tuilekoramw remove Rada cấp 1 lydo: Tự Xóa vật phẩm at 03/11/2023 3:23 PM
+BAG:tuilekoramw remove Giầy vải thô lydo: Tự Xóa vật phẩm at 03/11/2023 3:23 PM
+BAG:tuilekoramw remove Găng vải thô lydo: Tự Xóa vật phẩm at 03/11/2023 3:23 PM
+BAG:tuilekoramw remove Rada cấp 1 lydo: Tự Xóa vật phẩm at 03/11/2023 3:23 PM
+BAG:tuilekoramw remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/11/2023 3:23 PM
+BAG:tuilekoramw remove Quần vải thô lydo: Tự Xóa vật phẩm at 03/11/2023 3:24 PM
+BAG:tuilekoramw remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/11/2023 3:24 PM
+BAG:tuilekoramw remove Giầy vải thô lydo: Tự Xóa vật phẩm at 03/11/2023 3:24 PM
+BAG:tuilekoramw remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/11/2023 3:24 PM
+BAG:tuilekoramw remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/11/2023 3:26 PM
+BAG:tuilekoramw remove Cải trang Chill cấp 2 lydo: Mặc vào người at 03/11/2023 3:27 PM
+BAG:tuilekoramw remove Cải trang Chill cấp 2 lydo: Mặc cho đệ tử at 03/11/2023 3:27 PM
+BAG:tuilekoramw remove Cải trang Chill cấp 2 lydo: Mặc vào người at 03/11/2023 3:28 PM
+BAG:tuilekoramw remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/11/2023 3:28 PM
+BAG:tuilekoramw remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/11/2023 3:28 PM
+BAG:tuilekoramw remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/11/2023 3:29 PM
+BAG:tuilekoramw remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/11/2023 3:31 PM
+BAG:tuilekoramw remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/11/2023 3:38 PM
+BAG:tuilekoramw remove Quần vải thô lydo: Tự Xóa vật phẩm at 03/11/2023 3:39 PM
+BAG:tuilekoramw remove Sách đấm Galick lv2 lydo: Sách kĩ năng at 03/11/2023 3:40 PM
+BAG:tuilekoramw remove Sách đấm Galick lv3 lydo: Sách kĩ năng at 03/11/2023 3:40 PM
+BAG:tuilekoramw remove Sách đấm Galick lv4 lydo: Sách kĩ năng at 03/11/2023 3:40 PM
+BAG:tuilekoramw remove Sách đấm Galick lv5 lydo: Sách kĩ năng at 03/11/2023 3:40 PM
+BAG:tuilekoramw remove Sách đấm Galick lv6 lydo: Sách kĩ năng at 03/11/2023 3:40 PM
+BAG:tuilekoramw remove Sách đấm Galick lv7 lydo: Sách kĩ năng at 03/11/2023 3:40 PM
+BAG:tuilekoramw remove Sách Antomic lv1 lydo: Sách kĩ năng at 03/11/2023 3:40 PM
+BAG:tuilekoramw remove Sách Antomic lv2 lydo: Sách kĩ năng at 03/11/2023 3:40 PM
+BAG:tuilekoramw remove Sách Antomic lv3 lydo: Sách kĩ năng at 03/11/2023 3:40 PM
+BAG:tuilekoramw remove Sách Antomic lv4 lydo: Sách kĩ năng at 03/11/2023 3:40 PM
+BAG:tuilekoramw remove Sách Antomic lv5 lydo: Sách kĩ năng at 03/11/2023 3:40 PM
+BAG:tuilekoramw remove Sách Antomic lv6 lydo: Sách kĩ năng at 03/11/2023 3:40 PM
+BAG:tuilekoramw remove Sách Antomic lv7 lydo: Sách kĩ năng at 03/11/2023 3:40 PM
+BAG:tuilekoramw remove Tái tạo năng lượng lv1 lydo: Sách kĩ năng at 03/11/2023 3:41 PM
+BAG:tuilekoramw remove Tái tạo năng lượng lv2 lydo: Sách kĩ năng at 03/11/2023 3:41 PM
+BAG:tuilekoramw remove Tái tạo năng lượng lv3 lydo: Sách kĩ năng at 03/11/2023 3:41 PM
+BAG:tuilekoramw remove Tái tạo năng lượng lv4 lydo: Sách kĩ năng at 03/11/2023 3:41 PM
+BAG:tuilekoramw remove Tái tạo năng lượng lv5 lydo: Sách kĩ năng at 03/11/2023 3:41 PM
+BAG:tuilekoramw remove Tái tạo năng lượng lv6 lydo: Sách kĩ năng at 03/11/2023 3:41 PM
+BAG:tuilekoramw remove Tái tạo năng lượng lv7 lydo: Sách kĩ năng at 03/11/2023 3:41 PM
+BAG:tuilekoramw remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/11/2023 3:41 PM
+BAG:tuilekoramw remove 1xThỏi vàng lydo: Bán cho shop at 03/11/2023 3:51 PM
+BAG:tuilekoramw remove 1xThỏi vàng lydo: Bán cho shop at 03/11/2023 3:51 PM
+BAG:tuilekoramw remove 1xThỏi vàng lydo: Bán cho shop at 03/11/2023 3:51 PM
+BAG:tuilekoramw remove 1xThỏi vàng lydo: Bán cho shop at 03/11/2023 3:51 PM
+BAG:tuilekoramw remove 1xThỏi vàng lydo: Bán cho shop at 03/11/2023 3:51 PM
+BAG:tuilekoramw remove 1xThỏi vàng lydo: Bán cho shop at 03/11/2023 3:51 PM
+BAG:tuilekoramw remove 1xThỏi vàng lydo: Bán cho shop at 03/11/2023 3:51 PM
+BAG:tuilekoramw remove 1xThỏi vàng lydo: Bán cho shop at 03/11/2023 3:51 PM
+BAG:tuilekoramw remove 1xThỏi vàng lydo: Bán cho shop at 03/11/2023 3:51 PM
+BAG:tuilekoramw remove 1xThỏi vàng lydo: Bán cho shop at 03/11/2023 3:52 PM
+BAG:tuilekoramw remove 1xThỏi vàng lydo: Bán cho shop at 03/11/2023 3:52 PM
+BAG:tuilekoramw remove 1xThỏi vàng lydo: Bán cho shop at 03/11/2023 3:52 PM
+BAG:tuilekoramw remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 03/11/2023 3:52 PM
+BAG:tuilekoramw remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 03/11/2023 3:53 PM
+BAG:tuilekoramw remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 03/11/2023 3:53 PM
+BAG:tuilekoramw remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 03/11/2023 3:53 PM
+BAG:tuilekoramw remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 03/11/2023 3:53 PM
+BAG:tuilekoramw remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 03/11/2023 3:54 PM
+BAG:tuilekoramw remove Áo vải thô lydo: Mặc vào người at 03/11/2023 3:54 PM
+BAG:tuilekoramw remove 100xThỏi vàng lydo: Mua đồ hủy diệt at 03/11/2023 3:55 PM
+BAG:tuilekoramw remove 10xHoa hồng đỏ lydo: Đổi hoa at 03/11/2023 3:55 PM
+BAG:tuilekoramw remove 10xHoa hồng xanh lydo: Đổi hoa at 03/11/2023 3:55 PM
+BAG:tuilekoramw remove 10xHoa hồng vàng lydo: Đổi hoa at 03/11/2023 3:55 PM
+BAG:tuilekoramw remove 2xThỏi vàng lydo: Mua đồ hủy diệt at 03/11/2023 3:56 PM
+BAG:tuilekoramw remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/11/2023 3:56 PM
+BAG:tuilekoramw remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/11/2023 3:57 PM
+BAG:tuilekoramw remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/11/2023 3:57 PM
+BAG:tuilekoramw remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/11/2023 3:58 PM
+BAG:tuilekoramw remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/11/2023 3:59 PM
+BAG:tuilekoramw remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/11/2023 4:00 PM
+BAG:tuilekoramw remove 1xThỏi vàng lydo: Bán cho shop at 03/11/2023 4:04 PM
+BAG:tuilekoramw remove 1xThỏi vàng lydo: Bán cho shop at 03/11/2023 4:04 PM
+BAG:tuilekoramw remove 1xThỏi vàng lydo: Bán cho shop at 03/11/2023 4:04 PM
+BAG:tuilekoramw remove 1xThỏi vàng lydo: Bán cho shop at 03/11/2023 4:05 PM
+BAG:tuilekoramw remove 1xThỏi vàng lydo: Bán cho shop at 03/11/2023 4:05 PM
+BAG:tuilekoramw remove 1xThỏi vàng lydo: Bán cho shop at 03/11/2023 4:05 PM
+BAG:tuilekoramw remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 03/11/2023 4:06 PM
+BAG:tuilekoramw remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 03/11/2023 4:06 PM
+BAG:tuilekoramw remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 03/11/2023 4:06 PM
+BAG:tuilekoramw remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 03/11/2023 4:07 PM
+BAG:tuilekoramw remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 03/11/2023 4:07 PM
+BAG:tuilekoramw remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 03/11/2023 4:07 PM
+BAG:tuilekoramw remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 03/11/2023 4:07 PM
+BAG:tuilekoramw remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 03/11/2023 4:07 PM
+BAG:tuilekoramw remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 03/11/2023 4:08 PM
+BAG:tuilekoramw remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 03/11/2023 4:08 PM
+BAG:tuilekoramw remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 03/11/2023 4:08 PM
+BAG:tuilekoramw remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 03/11/2023 4:08 PM
+BAG:tuilekoramw remove Găng vải thô lydo: Mặc vào người at 03/11/2023 4:09 PM
+BAG:tuilekoramw remove Quần vải thô lydo: Mặc vào người at 03/11/2023 4:09 PM
+BAG:tuilekoramw remove 1xThỏi vàng lydo: Bán cho shop at 03/11/2023 4:10 PM
+BAG:tuilekoramw remove 1xThỏi vàng lydo: Bán cho shop at 03/11/2023 4:10 PM
+BAG:tuilekoramw remove 1xThỏi vàng lydo: Bán cho shop at 03/11/2023 4:10 PM
+BAG:tuilekoramw remove 1xThỏi vàng lydo: Bán cho shop at 03/11/2023 4:10 PM
+BAG:tuilekoramw remove 1xThỏi vàng lydo: Bán cho shop at 03/11/2023 4:10 PM
+BAG:tuilekoramw remove 1xThỏi vàng lydo: Bán cho shop at 03/11/2023 4:10 PM
+BAG:tuilekoramw remove 1xThỏi vàng lydo: Bán cho shop at 03/11/2023 4:11 PM
+BAG:tuilekoramw remove 1xThỏi vàng lydo: Bán cho shop at 03/11/2023 4:11 PM
+BAG:tuilekoramw remove 1xThỏi vàng lydo: Bán cho shop at 03/11/2023 4:11 PM
+BAG:tuilekoramw remove 1xThỏi vàng lydo: Bán cho shop at 03/11/2023 4:11 PM
+BAG:tuilekoramw remove 1xThỏi vàng lydo: Bán cho shop at 03/11/2023 4:11 PM
+BAG:tuilekoramw remove 1xThỏi vàng lydo: Bán cho shop at 03/11/2023 4:11 PM
+BAG:tuilekoramw remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 03/11/2023 4:12 PM
+BAG:tuilekoramw remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 03/11/2023 4:12 PM
+BAG:tuilekoramw remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 03/11/2023 4:12 PM
+BAG:tuilekoramw remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 03/11/2023 4:13 PM
+BAG:tuilekoramw remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 03/11/2023 4:13 PM
+BAG:tuilekoramw remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 03/11/2023 4:13 PM
+BAG:tuilekoramw remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 03/11/2023 4:13 PM
+BAG:tuilekoramw remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 03/11/2023 4:13 PM
+BAG:tuilekoramw remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 03/11/2023 4:14 PM
+BAG:tuilekoramw remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 03/11/2023 4:14 PM
+BAG:tuilekoramw remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 03/11/2023 4:14 PM
+BAG:tuilekoramw remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 03/11/2023 4:14 PM
+BAG:tuilekoramw remove Giầy vải thô lydo: Mặc vào người at 03/11/2023 4:14 PM
+BAG:tuilekoramw remove Rada cấp 1 lydo: Mặc vào người at 03/11/2023 4:14 PM
+BAG:tuilekoramw remove 7xNgọc Rồng 3 sao lydo: Nhập ngọc at 03/11/2023 4:15 PM
+BAG:tuilekoramw remove 7xNgọc Rồng 3 sao lydo: Nhập ngọc at 03/11/2023 4:15 PM
+BAG:tuilekoramw remove 7xNgọc Rồng 3 sao lydo: Nhập ngọc at 03/11/2023 4:15 PM
+BAG:tuilekoramw remove 7xNgọc Rồng 3 sao lydo: Nhập ngọc at 03/11/2023 4:15 PM
+BAG:tuilekoramw remove 7xNgọc Rồng 3 sao lydo: Nhập ngọc at 03/11/2023 4:15 PM
+BAG:tuilekoramw remove 7xNgọc Rồng 3 sao lydo: Nhập ngọc at 03/11/2023 4:15 PM
+BAG:tuilekoramw remove 7xNgọc Rồng 3 sao lydo: Nhập ngọc at 03/11/2023 4:15 PM
+BAG:tuilekoramw remove 7xNgọc Rồng 3 sao lydo: Nhập ngọc at 03/11/2023 4:15 PM
+BAG:tuilekoramw remove 7xNgọc Rồng 3 sao lydo: Nhập ngọc at 03/11/2023 4:15 PM
+BAG:tuilekoramw remove 7xNgọc Rồng 2 sao lydo: Nhập ngọc at 03/11/2023 4:16 PM
+BAG:tuilekoramw remove Ngọc Rồng 3 sao lydo: Cất vào rương at 03/11/2023 4:16 PM
+BAG:tuilekoramw remove Ngọc Rồng 2 sao lydo: Cất vào rương at 03/11/2023 4:16 PM
+BAG:tuilekoramw remove Ngọc Rồng 1 sao lydo: Cất vào rương at 03/11/2023 4:16 PM
+BAG:tuilekoramw remove 2xThỏi vàng lydo: Mua đồ hủy diệt at 03/11/2023 4:16 PM
+BAG:tuilekoramw remove 2xThỏi vàng lydo: Mua đồ hủy diệt at 03/11/2023 4:16 PM
+BAG:tuilekoramw remove 1xBông tai Porata lydo: Bán cho shop at 03/11/2023 4:19 PM
+BAG:tuilekoramw remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/11/2023 4:21 PM

@@ -1,0 +1,43 @@
+BAG:chienthan1 remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/12/2023 8:06 AM
+BAG:chienthan1 remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/12/2023 8:07 AM
+BAG:chienthan1 remove 1xVệ tinh trí tuệ lydo: Dùng vệ tinh at 03/12/2023 8:07 AM
+BAG:chienthan1 remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/12/2023 8:08 AM
+BAG:chienthan1 remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/12/2023 8:09 AM
+BAG:chienthan1 remove Rada cấp 1 lydo: Cất vào rương at 03/12/2023 8:10 AM
+BAG:chienthan1 remove Quần vải đen lydo: Cất vào rương at 03/12/2023 8:10 AM
+BAG:chienthan1 remove Áo vải 3 lỗ lydo: Cất vào rương at 03/12/2023 8:10 AM
+BAG:chienthan1 remove Giầy nhựa lydo: Cất vào rương at 03/12/2023 8:10 AM
+BAG:chienthan1 remove Áo vải 3 lỗ lydo: Cất vào rương at 03/12/2023 8:10 AM
+BAG:chienthan1 remove Găng vải đen lydo: Cất vào rương at 03/12/2023 8:10 AM
+BAG:chienthan1 remove Áo vải 3 lỗ lydo: Cất vào rương at 03/12/2023 8:10 AM
+BAG:chienthan1 remove Găng vải đen lydo: Cất vào rương at 03/12/2023 8:10 AM
+BAG:chienthan1 remove Giầy nhựa lydo: Cất vào rương at 03/12/2023 8:10 AM
+BAG:chienthan1 remove Rada cấp 1 lydo: Cất vào rương at 03/12/2023 8:10 AM
+BAG:chienthan1 remove Giầy nhựa lydo: Cất vào rương at 03/12/2023 8:10 AM
+BAG:chienthan1 remove Quần vải đen lydo: Cất vào rương at 03/12/2023 8:10 AM
+BAG:chienthan1 remove Rada cấp 1 lydo: Cất vào rương at 03/12/2023 8:10 AM
+BAG:chienthan1 remove Rada cấp 1 lydo: Cất vào rương at 03/12/2023 8:10 AM
+BAG:chienthan1 remove Áo vải 3 lỗ lydo: Cất vào rương at 03/12/2023 8:10 AM
+BAG:chienthan1 remove Đá thạch anh tím lydo: Cất vào rương at 03/12/2023 8:10 AM
+BAG:chienthan1 remove Sách đấm Dragon lv2 lydo: Sách kĩ năng at 03/12/2023 8:12 AM
+BAG:chienthan1 remove Sách đấm Dragon lv3 lydo: Sách kĩ năng at 03/12/2023 8:12 AM
+BAG:chienthan1 remove Sách đấm Dragon lv4 lydo: Sách kĩ năng at 03/12/2023 8:12 AM
+BAG:chienthan1 remove Sách đấm Dragon lv5 lydo: Sách kĩ năng at 03/12/2023 8:12 AM
+BAG:chienthan1 remove Sách đấm Dragon lv6 lydo: Sách kĩ năng at 03/12/2023 8:12 AM
+BAG:chienthan1 remove Sách đấm Dragon lv7 lydo: Sách kĩ năng at 03/12/2023 8:12 AM
+BAG:chienthan1 remove Sách Kamejoko lv1 lydo: Sách kĩ năng at 03/12/2023 8:13 AM
+BAG:chienthan1 remove Sách Kamejoko lv2 lydo: Sách kĩ năng at 03/12/2023 8:13 AM
+BAG:chienthan1 remove Sách Kamejoko lv3 lydo: Sách kĩ năng at 03/12/2023 8:13 AM
+BAG:chienthan1 remove Sách Kamejoko lv4 lydo: Sách kĩ năng at 03/12/2023 8:13 AM
+BAG:chienthan1 remove Sách Kamejoko lv5 lydo: Sách kĩ năng at 03/12/2023 8:13 AM
+BAG:chienthan1 remove Sách Kamejoko lv6 lydo: Sách kĩ năng at 03/12/2023 8:13 AM
+BAG:chienthan1 remove Sách Kamejoko lv7 lydo: Sách kĩ năng at 03/12/2023 8:13 AM
+BAG:chienthan1 remove Thái Dương Hạ San lv1 lydo: Sách kĩ năng at 03/12/2023 8:14 AM
+BAG:chienthan1 remove Thái Dương Hạ San lv2 lydo: Sách kĩ năng at 03/12/2023 8:14 AM
+BAG:chienthan1 remove Thái Dương Hạ San lv3 lydo: Sách kĩ năng at 03/12/2023 8:14 AM
+BAG:chienthan1 remove Thái Dương Hạ San lv4 lydo: Sách kĩ năng at 03/12/2023 8:14 AM
+BAG:chienthan1 remove Thái Dương Hạ San lv5 lydo: Sách kĩ năng at 03/12/2023 8:14 AM
+BAG:chienthan1 remove Thái Dương Hạ San lv6 lydo: Sách kĩ năng at 03/12/2023 8:14 AM
+BAG:chienthan1 remove Thái Dương Hạ San lv7 lydo: Sách kĩ năng at 03/12/2023 8:14 AM
+BAG:chienthan1 remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/12/2023 8:15 AM
+BAG:chienthan1 remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/12/2023 8:15 AM

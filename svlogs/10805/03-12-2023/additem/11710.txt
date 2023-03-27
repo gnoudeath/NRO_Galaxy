@@ -1,0 +1,377 @@
+BAG:phattesthp add 1xRada cấp 1 lydo: Lấy từ rương qua người at 03/12/2023 10:13 PM
+BAG:phattesthp add 150xThỏi vàng lydo: Giftcode at 03/12/2023 10:13 PM
+BAG:phattesthp add 99xNgọc Rồng 3 sao lydo: Giftcode at 03/12/2023 10:13 PM
+BAG:phattesthp add 9xĐậu thần cấp 3 lydo: Thu hoạch đậu at 03/12/2023 10:16 PM
+BAG:phattesthp add 1xĐậu thần cấp 6 lydo: Thu hoạch đậu at 03/12/2023 10:16 PM
+BAG:phattesthp add 15xĐậu thần cấp 6 (old: 1) lydo: Lấy từ rương qua người at 03/12/2023 10:17 PM
+BAG:phattesthp add 6xĐậu thần cấp 10 lydo: Lấy từ rương qua người at 03/12/2023 10:17 PM
+BAG:phattesthp add 26xĐậu thần cấp 10 (old: 6) lydo: Lấy từ rương qua người at 03/12/2023 10:18 PM
+BAG:phattesthp add 46xĐậu thần cấp 10 (old: 26) lydo: Lấy từ rương qua người at 03/12/2023 10:18 PM
+BAG:phattesthp add 66xĐậu thần cấp 10 (old: 46) lydo: Lấy từ rương qua người at 03/12/2023 10:18 PM
+BAG:phattesthp add 1xHoa hồng xanh lydo: Nhặt từ map at 03/12/2023 10:21 PM
+BAG:phattesthp add 1xĐá lục bảo lydo: Nhặt từ map at 03/12/2023 10:21 PM
+BAG:phattesthp add 1xĐá Saphia lydo: Nhặt từ map at 03/12/2023 10:21 PM
+BAG:phattesthp add 1xGăng vải thô lydo: Nhặt từ map at 03/12/2023 10:21 PM
+BAG:phattesthp add 1xÁo vải thô lydo: Nhặt từ map at 03/12/2023 10:22 PM
+BAG:phattesthp add 2xHoa hồng xanh (old: 1) lydo: Nhặt từ map at 03/12/2023 10:22 PM
+BAG:phattesthp add 1xQuần vải thô lydo: Nhặt từ map at 03/12/2023 10:22 PM
+BAG:phattesthp add 3xHoa hồng xanh (old: 2) lydo: Nhặt từ map at 03/12/2023 10:22 PM
+BAG:phattesthp add 1xQuần vải thô lydo: Nhặt từ map at 03/12/2023 10:22 PM
+BAG:phattesthp add 1xRada cấp 1 lydo: Nhặt từ map at 03/12/2023 10:22 PM
+BAG:phattesthp add 1xHoa hồng vàng lydo: Nhặt từ map at 03/12/2023 10:22 PM
+BAG:phattesthp add 1xGăng vải thô lydo: Nhặt từ map at 03/12/2023 10:22 PM
+BAG:phattesthp add 1xGăng vải thô lydo: Nhặt từ map at 03/12/2023 10:22 PM
+BAG:phattesthp add 4xHoa hồng xanh (old: 3) lydo: Nhặt từ map at 03/12/2023 10:22 PM
+BAG:phattesthp add 1xHoa hồng đỏ lydo: Nhặt từ map at 03/12/2023 10:22 PM
+BAG:phattesthp add 1xGăng vải thô lydo: Nhặt từ map at 03/12/2023 10:22 PM
+BAG:phattesthp add 2xHoa hồng vàng (old: 1) lydo: Nhặt từ map at 03/12/2023 10:22 PM
+BAG:phattesthp add 1xRada cấp 1 lydo: Nhặt từ map at 03/12/2023 10:22 PM
+BAG:phattesthp add 1xNgọc Rồng 6 sao lydo: Nhặt từ map at 03/12/2023 10:22 PM
+BAG:phattesthp add 3xHoa hồng vàng (old: 2) lydo: Nhặt từ map at 03/12/2023 10:22 PM
+BAG:phattesthp add 4xHoa hồng vàng (old: 3) lydo: Nhặt từ map at 03/12/2023 10:22 PM
+BAG:phattesthp add 5xHoa hồng xanh (old: 4) lydo: Nhặt từ map at 03/12/2023 10:22 PM
+BAG:phattesthp add 2xHoa hồng đỏ (old: 1) lydo: Nhặt từ map at 03/12/2023 10:22 PM
+BAG:phattesthp add 3xHoa hồng đỏ (old: 2) lydo: Nhặt từ map at 03/12/2023 10:23 PM
+BAG:phattesthp add 4xHoa hồng đỏ (old: 3) lydo: Nhặt từ map at 03/12/2023 10:23 PM
+BAG:phattesthp add 1xGiầy vải thô lydo: Nhặt từ map at 03/12/2023 10:23 PM
+BAG:phattesthp add 5xHoa hồng vàng (old: 4) lydo: Nhặt từ map at 03/12/2023 10:23 PM
+BAG:phattesthp add 1xGăng vải thô lydo: Nhặt từ map at 03/12/2023 10:25 PM
+BAG:phattesthp add 5xHoa hồng đỏ (old: 4) lydo: Nhặt từ map at 03/12/2023 10:25 PM
+BAG:phattesthp add 6xHoa hồng đỏ (old: 5) lydo: Nhặt từ map at 03/12/2023 10:25 PM
+BAG:phattesthp add 1xGăng vải thô lydo: Nhặt từ map at 03/12/2023 10:25 PM
+BAG:phattesthp add 1xÁo vải thô lydo: Nhặt từ map at 03/12/2023 10:25 PM
+BAG:phattesthp add 6xHoa hồng xanh (old: 5) lydo: Nhặt từ map at 03/12/2023 10:26 PM
+BAG:phattesthp add 1xGăng vải thô lydo: Nhặt từ map at 03/12/2023 10:26 PM
+BAG:phattesthp add 6xHoa hồng vàng (old: 5) lydo: Nhặt từ map at 03/12/2023 10:26 PM
+BAG:phattesthp add 1xĐá Titan lydo: Nhặt từ map at 03/12/2023 10:26 PM
+BAG:phattesthp add 7xHoa hồng xanh (old: 6) lydo: Nhặt từ map at 03/12/2023 10:26 PM
+BAG:phattesthp add 7xHoa hồng vàng (old: 6) lydo: Nhặt từ map at 03/12/2023 10:26 PM
+BAG:phattesthp add 1xMảnh Quỷ đất lydo: Nhặt từ map at 03/12/2023 10:26 PM
+BAG:phattesthp add 1xQuần vải thô lydo: Nhặt từ map at 03/12/2023 10:26 PM
+BAG:phattesthp add 8xHoa hồng xanh (old: 7) lydo: Nhặt từ map at 03/12/2023 10:26 PM
+BAG:phattesthp add 9xHoa hồng xanh (old: 8) lydo: Nhặt từ map at 03/12/2023 10:26 PM
+BAG:phattesthp add 8xHoa hồng vàng (old: 7) lydo: Nhặt từ map at 03/12/2023 10:26 PM
+BAG:phattesthp add 10xHoa hồng xanh (old: 9) lydo: Nhặt từ map at 03/12/2023 10:26 PM
+BAG:phattesthp add 7xHoa hồng đỏ (old: 6) lydo: Nhặt từ map at 03/12/2023 10:26 PM
+BAG:phattesthp add 1xGăng vải thô lydo: Nhặt từ map at 03/12/2023 10:26 PM
+BAG:phattesthp add 9xHoa hồng vàng (old: 8) lydo: Nhặt từ map at 03/12/2023 10:26 PM
+BAG:phattesthp add 1xĐá Ruby lydo: Nhặt từ map at 03/12/2023 10:26 PM
+BAG:phattesthp add 1xGăng vải thô lydo: Nhặt từ map at 03/12/2023 10:26 PM
+BAG:phattesthp add 11xHoa hồng xanh (old: 10) lydo: Nhặt từ map at 03/12/2023 10:26 PM
+BAG:phattesthp add 1xQuần vải thô lydo: Lấy từ body vào hành trang at 03/12/2023 10:26 PM
+BAG:phattesthp add 1xRada cấp 1 lydo: Lấy từ body vào hành trang at 03/12/2023 10:26 PM
+BAG:phattesthp add 12xHoa hồng xanh (old: 11) lydo: Nhặt từ map at 03/12/2023 10:26 PM
+BAG:phattesthp add 10xHoa hồng vàng (old: 9) lydo: Nhặt từ map at 03/12/2023 10:27 PM
+BAG:phattesthp add 13xHoa hồng xanh (old: 12) lydo: Nhặt từ map at 03/12/2023 10:27 PM
+BAG:phattesthp add 8xHoa hồng đỏ (old: 7) lydo: Nhặt từ map at 03/12/2023 10:27 PM
+BAG:phattesthp add 11xHoa hồng vàng (old: 10) lydo: Nhặt từ map at 03/12/2023 10:27 PM
+BAG:phattesthp add 12xHoa hồng vàng (old: 11) lydo: Nhặt từ map at 03/12/2023 10:27 PM
+BAG:phattesthp add 9xHoa hồng đỏ (old: 8) lydo: Nhặt từ map at 03/12/2023 10:27 PM
+BAG:phattesthp add 14xHoa hồng xanh (old: 13) lydo: Nhặt từ map at 03/12/2023 10:27 PM
+BAG:phattesthp add 1xÁo vải thô lydo: Nhặt từ map at 03/12/2023 10:27 PM
+BAG:phattesthp add 1xÁo vải thô lydo: Nhặt từ map at 03/12/2023 10:27 PM
+BAG:phattesthp add 1xRada cấp 1 lydo: Nhặt từ map at 03/12/2023 10:27 PM
+BAG:phattesthp add 1xGăng vải thô lydo: Nhặt từ map at 03/12/2023 10:27 PM
+BAG:phattesthp add 13xHoa hồng vàng (old: 12) lydo: Nhặt từ map at 03/12/2023 10:27 PM
+BAG:phattesthp add 10xHoa hồng đỏ (old: 9) lydo: Nhặt từ map at 03/12/2023 10:27 PM
+BAG:phattesthp add 15xHoa hồng xanh (old: 14) lydo: Nhặt từ map at 03/12/2023 10:27 PM
+BAG:phattesthp add 16xHoa hồng xanh (old: 15) lydo: Nhặt từ map at 03/12/2023 10:27 PM
+BAG:phattesthp add 1xRada cấp 1 lydo: Nhặt từ map at 03/12/2023 10:27 PM
+BAG:phattesthp add 2xĐá lục bảo (old: 1) lydo: Nhặt từ map at 03/12/2023 10:27 PM
+BAG:phattesthp add 14xHoa hồng vàng (old: 13) lydo: Nhặt từ map at 03/12/2023 10:28 PM
+BAG:phattesthp add 11xHoa hồng đỏ (old: 10) lydo: Nhặt từ map at 03/12/2023 10:28 PM
+BAG:phattesthp add 15xHoa hồng vàng (old: 14) lydo: Nhặt từ map at 03/12/2023 10:28 PM
+BAG:phattesthp add 12xHoa hồng đỏ (old: 11) lydo: Nhặt từ map at 03/12/2023 10:28 PM
+BAG:phattesthp add 1xGiầy vải thô lydo: Nhặt từ map at 03/12/2023 10:28 PM
+BAG:phattesthp add 2xĐá Titan (old: 1) lydo: Nhặt từ map at 03/12/2023 10:28 PM
+BAG:phattesthp add 2xĐá Ruby (old: 1) lydo: Nhặt từ map at 03/12/2023 10:28 PM
+BAG:phattesthp add 16xHoa hồng vàng (old: 15) lydo: Nhặt từ map at 03/12/2023 10:28 PM
+BAG:phattesthp add 1xRada cấp 1 lydo: Nhặt từ map at 03/12/2023 10:28 PM
+BAG:phattesthp add 17xHoa hồng vàng (old: 16) lydo: Nhặt từ map at 03/12/2023 10:28 PM
+BAG:phattesthp add 1xGiầy vải thô lydo: Nhặt từ map at 03/12/2023 10:28 PM
+BAG:phattesthp add 17xHoa hồng xanh (old: 16) lydo: Nhặt từ map at 03/12/2023 10:28 PM
+BAG:phattesthp add 18xHoa hồng xanh (old: 17) lydo: Nhặt từ map at 03/12/2023 10:28 PM
+BAG:phattesthp add 18xHoa hồng vàng (old: 17) lydo: Nhặt từ map at 03/12/2023 10:28 PM
+BAG:phattesthp add 1xĐá Saphia lydo: Nhặt từ map at 03/12/2023 10:29 PM
+BAG:phattesthp add 19xHoa hồng vàng (old: 18) lydo: Nhặt từ map at 03/12/2023 10:29 PM
+BAG:phattesthp add 1xÁo vải thô lydo: Nhặt từ map at 03/12/2023 10:29 PM
+BAG:phattesthp add 19xHoa hồng xanh (old: 18) lydo: Nhặt từ map at 03/12/2023 10:29 PM
+BAG:phattesthp add 1xQuần vải thô lydo: Lấy từ body vào hành trang at 03/12/2023 10:29 PM
+BAG:phattesthp add 1xRada cấp 1 lydo: Nhặt từ map at 03/12/2023 10:29 PM
+BAG:phattesthp add 13xHoa hồng đỏ (old: 12) lydo: Nhặt từ map at 03/12/2023 10:29 PM
+BAG:phattesthp add 1xGăng vải thô lydo: Nhặt từ map at 03/12/2023 10:29 PM
+BAG:phattesthp add 1xGiầy vải thô lydo: Nhặt từ map at 03/12/2023 10:29 PM
+BAG:phattesthp add 14xHoa hồng đỏ (old: 13) lydo: Nhặt từ map at 03/12/2023 10:29 PM
+BAG:phattesthp add 20xHoa hồng vàng (old: 19) lydo: Nhặt từ map at 03/12/2023 10:29 PM
+BAG:phattesthp add 1xÁo vải thô lydo: Nhặt từ map at 03/12/2023 10:29 PM
+BAG:phattesthp add 1xÁo vải thô lydo: Nhặt từ map at 03/12/2023 10:29 PM
+BAG:phattesthp add 1xGiầy vải thô lydo: Nhặt từ map at 03/12/2023 10:29 PM
+BAG:phattesthp add 1xRada cấp 1 lydo: Nhặt từ map at 03/12/2023 10:29 PM
+BAG:phattesthp add 1xMảnh Quỷ đất lydo: Nhặt từ map at 03/12/2023 10:29 PM
+BAG:phattesthp add 21xHoa hồng vàng (old: 20) lydo: Nhặt từ map at 03/12/2023 10:29 PM
+BAG:phattesthp add 22xHoa hồng vàng (old: 21) lydo: Nhặt từ map at 03/12/2023 10:29 PM
+BAG:phattesthp add 2xĐá Saphia (old: 1) lydo: Nhặt từ map at 03/12/2023 10:29 PM
+BAG:phattesthp add 1xGăng vải thô lydo: Nhặt từ map at 03/12/2023 10:29 PM
+BAG:phattesthp add 1xGiầy vải thô lydo: Nhặt từ map at 03/12/2023 10:29 PM
+BAG:phattesthp add 1xÁo vải thô lydo: Nhặt từ map at 03/12/2023 10:30 PM
+BAG:phattesthp add 20xHoa hồng xanh (old: 19) lydo: Nhặt từ map at 03/12/2023 10:30 PM
+BAG:phattesthp add 1xĐá lục bảo lydo: Nhặt từ map at 03/12/2023 10:30 PM
+BAG:phattesthp add 23xHoa hồng vàng (old: 22) lydo: Nhặt từ map at 03/12/2023 10:30 PM
+BAG:phattesthp add 24xHoa hồng vàng (old: 23) lydo: Nhặt từ map at 03/12/2023 10:30 PM
+BAG:phattesthp add 1xQuần vải thô lydo: Nhặt từ map at 03/12/2023 10:30 PM
+BAG:phattesthp add 1xĐá thạch anh tím lydo: Nhặt từ map at 03/12/2023 10:30 PM
+BAG:phattesthp add 1xÁo vải thô lydo: Nhặt từ map at 03/12/2023 10:30 PM
+BAG:phattesthp add 15xHoa hồng đỏ (old: 14) lydo: Nhặt từ map at 03/12/2023 10:30 PM
+BAG:phattesthp add 3xĐá Saphia (old: 2) lydo: Nhặt từ map at 03/12/2023 10:30 PM
+BAG:phattesthp add 4xĐá Saphia (old: 3) lydo: Nhặt từ map at 03/12/2023 10:30 PM
+BAG:phattesthp add 1xRada cấp 1 lydo: Nhặt từ map at 03/12/2023 10:30 PM
+BAG:phattesthp add 1xQuần vải thô lydo: Nhặt từ map at 03/12/2023 10:30 PM
+BAG:phattesthp add 1xÁo vải thô lydo: Nhặt từ map at 03/12/2023 10:30 PM
+BAG:phattesthp add 25xHoa hồng vàng (old: 24) lydo: Nhặt từ map at 03/12/2023 10:30 PM
+BAG:phattesthp add 16xHoa hồng đỏ (old: 15) lydo: Nhặt từ map at 03/12/2023 10:30 PM
+BAG:phattesthp add 1xÁo vải thô lydo: Nhặt từ map at 03/12/2023 10:31 PM
+BAG:phattesthp add 1xÁo vải thô lydo: Nhặt từ map at 03/12/2023 10:31 PM
+BAG:phattesthp add 2xĐá lục bảo (old: 1) lydo: Nhặt từ map at 03/12/2023 10:31 PM
+BAG:phattesthp add 5xĐá Saphia (old: 4) lydo: Nhặt từ map at 03/12/2023 10:31 PM
+BAG:phattesthp add 1xQuần vải thô lydo: Nhặt từ map at 03/12/2023 10:31 PM
+BAG:phattesthp add 3xĐá Ruby (old: 2) lydo: Nhặt từ map at 03/12/2023 10:31 PM
+BAG:phattesthp add 1xRada cấp 1 lydo: Nhặt từ map at 03/12/2023 10:31 PM
+BAG:phattesthp add 4xĐá Ruby (old: 3) lydo: Nhặt từ map at 03/12/2023 10:31 PM
+BAG:phattesthp add 1xRada cấp 1 lydo: Nhặt từ map at 03/12/2023 10:31 PM
+BAG:phattesthp add 1xÁo vải thô lydo: Nhặt từ map at 03/12/2023 10:31 PM
+BAG:phattesthp add 1xÁo vải thô lydo: Nhặt từ map at 03/12/2023 10:31 PM
+BAG:phattesthp add 1xGăng vải thô lydo: Nhặt từ map at 03/12/2023 10:31 PM
+BAG:phattesthp add 26xHoa hồng vàng (old: 25) lydo: Nhặt từ map at 03/12/2023 10:31 PM
+BAG:phattesthp add 2xMảnh Quỷ đất (old: 1) lydo: Nhặt từ map at 03/12/2023 10:31 PM
+BAG:phattesthp add 27xHoa hồng vàng (old: 26) lydo: Nhặt từ map at 03/12/2023 10:31 PM
+BAG:phattesthp add 1xQuần vải thô lydo: Lấy từ body vào hành trang at 03/12/2023 10:31 PM
+BAG:phattesthp add 17xHoa hồng đỏ (old: 16) lydo: Nhặt từ map at 03/12/2023 10:31 PM
+BAG:phattesthp add 1xNgọc Rồng 5 sao lydo: Nhặt từ map at 03/12/2023 10:31 PM
+BAG:phattesthp add 21xHoa hồng xanh (old: 20) lydo: Nhặt từ map at 03/12/2023 10:31 PM
+BAG:phattesthp add 22xHoa hồng xanh (old: 21) lydo: Nhặt từ map at 03/12/2023 10:32 PM
+BAG:phattesthp add 1xĐá Titan lydo: Nhặt từ map at 03/12/2023 10:32 PM
+BAG:phattesthp add 18xHoa hồng đỏ (old: 17) lydo: Nhặt từ map at 03/12/2023 10:32 PM
+BAG:phattesthp add 28xHoa hồng vàng (old: 27) lydo: Nhặt từ map at 03/12/2023 10:32 PM
+BAG:phattesthp add 1xÁo vải thô lydo: Nhặt từ map at 03/12/2023 10:32 PM
+BAG:phattesthp add 23xHoa hồng xanh (old: 22) lydo: Nhặt từ map at 03/12/2023 10:32 PM
+BAG:phattesthp add 19xHoa hồng đỏ (old: 18) lydo: Nhặt từ map at 03/12/2023 10:32 PM
+BAG:phattesthp add 24xHoa hồng xanh (old: 23) lydo: Nhặt từ map at 03/12/2023 10:32 PM
+BAG:phattesthp add 1xQuần vải thô lydo: Lấy từ body vào hành trang at 03/12/2023 10:32 PM
+BAG:phattesthp add 20xHoa hồng đỏ (old: 19) lydo: Nhặt từ map at 03/12/2023 10:32 PM
+BAG:phattesthp add 1xGiầy vải thô lydo: Nhặt từ map at 03/12/2023 10:33 PM
+BAG:phattesthp add 5xĐá Ruby (old: 4) lydo: Nhặt từ map at 03/12/2023 10:33 PM
+BAG:phattesthp add 1xQuần vải thô lydo: Lấy từ body vào hành trang at 03/12/2023 10:33 PM
+BAG:phattesthp add 29xHoa hồng vàng (old: 28) lydo: Nhặt từ map at 03/12/2023 10:33 PM
+BAG:phattesthp add 30xHoa hồng vàng (old: 29) lydo: Nhặt từ map at 03/12/2023 10:33 PM
+BAG:phattesthp add 1xĐá Titan lydo: Nhặt từ map at 03/12/2023 10:33 PM
+BAG:phattesthp add 31xHoa hồng vàng (old: 30) lydo: Nhặt từ map at 03/12/2023 10:33 PM
+BAG:phattesthp add 32xHoa hồng vàng (old: 31) lydo: Nhặt từ map at 03/12/2023 10:33 PM
+BAG:phattesthp add 1xÁo vải thô lydo: Nhặt từ map at 03/12/2023 10:33 PM
+BAG:phattesthp add 21xHoa hồng đỏ (old: 20) lydo: Nhặt từ map at 03/12/2023 10:33 PM
+BAG:phattesthp add 25xHoa hồng xanh (old: 24) lydo: Nhặt từ map at 03/12/2023 10:33 PM
+BAG:phattesthp add 26xHoa hồng xanh (old: 25) lydo: Nhặt từ map at 03/12/2023 10:34 PM
+BAG:phattesthp add 27xHoa hồng xanh (old: 26) lydo: Nhặt từ map at 03/12/2023 10:34 PM
+BAG:phattesthp add 33xHoa hồng vàng (old: 32) lydo: Nhặt từ map at 03/12/2023 10:34 PM
+BAG:phattesthp add 22xHoa hồng đỏ (old: 21) lydo: Nhặt từ map at 03/12/2023 10:34 PM
+BAG:phattesthp add 28xHoa hồng xanh (old: 27) lydo: Nhặt từ map at 03/12/2023 10:34 PM
+BAG:phattesthp add 1xGiầy vải thô lydo: Nhặt từ map at 03/12/2023 10:34 PM
+BAG:phattesthp add 29xHoa hồng xanh (old: 28) lydo: Nhặt từ map at 03/12/2023 10:34 PM
+BAG:phattesthp add 30xHoa hồng xanh (old: 29) lydo: Nhặt từ map at 03/12/2023 10:34 PM
+BAG:phattesthp add 31xHoa hồng xanh (old: 30) lydo: Nhặt từ map at 03/12/2023 10:34 PM
+BAG:phattesthp add 1xRada cấp 1 lydo: Nhặt từ map at 03/12/2023 10:34 PM
+BAG:phattesthp add 1xRada cấp 1 lydo: Nhặt từ map at 03/12/2023 10:34 PM
+BAG:phattesthp add 34xHoa hồng vàng (old: 33) lydo: Nhặt từ map at 03/12/2023 10:34 PM
+BAG:phattesthp add 23xHoa hồng đỏ (old: 22) lydo: Nhặt từ map at 03/12/2023 10:34 PM
+BAG:phattesthp add 35xHoa hồng vàng (old: 34) lydo: Nhặt từ map at 03/12/2023 10:34 PM
+BAG:phattesthp add 1xMảnh Quỷ đất lydo: Nhặt từ map at 03/12/2023 10:34 PM
+BAG:phattesthp add 36xHoa hồng vàng (old: 35) lydo: Nhặt từ map at 03/12/2023 10:34 PM
+BAG:phattesthp add 37xHoa hồng vàng (old: 36) lydo: Nhặt từ map at 03/12/2023 10:35 PM
+BAG:phattesthp add 38xHoa hồng vàng (old: 37) lydo: Nhặt từ map at 03/12/2023 10:35 PM
+BAG:phattesthp add 24xHoa hồng đỏ (old: 23) lydo: Nhặt từ map at 03/12/2023 10:35 PM
+BAG:phattesthp add 25xHoa hồng đỏ (old: 24) lydo: Nhặt từ map at 03/12/2023 10:35 PM
+BAG:phattesthp add 32xHoa hồng xanh (old: 31) lydo: Nhặt từ map at 03/12/2023 10:35 PM
+BAG:phattesthp add 1xGiầy vải thô lydo: Nhặt từ map at 03/12/2023 10:35 PM
+BAG:phattesthp add 39xHoa hồng vàng (old: 38) lydo: Nhặt từ map at 03/12/2023 10:35 PM
+BAG:phattesthp add 40xHoa hồng vàng (old: 39) lydo: Nhặt từ map at 03/12/2023 10:35 PM
+BAG:phattesthp add 33xHoa hồng xanh (old: 32) lydo: Nhặt từ map at 03/12/2023 10:35 PM
+BAG:phattesthp add 1xRada cấp 1 lydo: Nhặt từ map at 03/12/2023 10:35 PM
+BAG:phattesthp add 1xGiầy vải thô lydo: Nhặt từ map at 03/12/2023 10:35 PM
+BAG:phattesthp add 34xHoa hồng xanh (old: 33) lydo: Nhặt từ map at 03/12/2023 10:35 PM
+BAG:phattesthp add 1xÁo vải thô lydo: Nhặt từ map at 03/12/2023 10:35 PM
+BAG:phattesthp add 3xĐá lục bảo (old: 2) lydo: Nhặt từ map at 03/12/2023 10:35 PM
+BAG:phattesthp add 41xHoa hồng vàng (old: 40) lydo: Nhặt từ map at 03/12/2023 10:35 PM
+BAG:phattesthp add 42xHoa hồng vàng (old: 41) lydo: Nhặt từ map at 03/12/2023 10:35 PM
+BAG:phattesthp add 35xHoa hồng xanh (old: 34) lydo: Nhặt từ map at 03/12/2023 10:36 PM
+BAG:phattesthp add 1xQuần vải thô lydo: Lấy từ body vào hành trang at 03/12/2023 10:36 PM
+BAG:phattesthp add 26xHoa hồng đỏ (old: 25) lydo: Nhặt từ map at 03/12/2023 10:36 PM
+BAG:phattesthp add 43xHoa hồng vàng (old: 42) lydo: Nhặt từ map at 03/12/2023 10:36 PM
+BAG:phattesthp add 44xHoa hồng vàng (old: 43) lydo: Nhặt từ map at 03/12/2023 10:36 PM
+BAG:phattesthp add 36xHoa hồng xanh (old: 35) lydo: Nhặt từ map at 03/12/2023 10:36 PM
+BAG:phattesthp add 4xĐá lục bảo (old: 3) lydo: Nhặt từ map at 03/12/2023 10:36 PM
+BAG:phattesthp add 45xHoa hồng vàng (old: 44) lydo: Nhặt từ map at 03/12/2023 10:36 PM
+BAG:phattesthp add 1xGiầy vải thô lydo: Nhặt từ map at 03/12/2023 10:36 PM
+BAG:phattesthp add 1xGăng vải thô lydo: Nhặt từ map at 03/12/2023 10:36 PM
+BAG:phattesthp add 1xGăng vải thô lydo: Nhặt từ map at 03/12/2023 10:36 PM
+BAG:phattesthp add 5xĐá lục bảo (old: 4) lydo: Nhặt từ map at 03/12/2023 10:36 PM
+BAG:phattesthp add 27xHoa hồng đỏ (old: 26) lydo: Nhặt từ map at 03/12/2023 10:36 PM
+BAG:phattesthp add 1xÁo vải thô lydo: Nhặt từ map at 03/12/2023 10:36 PM
+BAG:phattesthp add 37xHoa hồng xanh (old: 36) lydo: Nhặt từ map at 03/12/2023 10:36 PM
+BAG:phattesthp add 46xHoa hồng vàng (old: 45) lydo: Nhặt từ map at 03/12/2023 10:36 PM
+BAG:phattesthp add 47xHoa hồng vàng (old: 46) lydo: Nhặt từ map at 03/12/2023 10:36 PM
+BAG:phattesthp add 1xGiầy vải thô lydo: Nhặt từ map at 03/12/2023 10:37 PM
+BAG:phattesthp add 48xHoa hồng vàng (old: 47) lydo: Nhặt từ map at 03/12/2023 10:37 PM
+BAG:phattesthp add 49xHoa hồng vàng (old: 48) lydo: Nhặt từ map at 03/12/2023 10:37 PM
+BAG:phattesthp add 50xHoa hồng vàng (old: 49) lydo: Nhặt từ map at 03/12/2023 10:37 PM
+BAG:phattesthp add 28xHoa hồng đỏ (old: 27) lydo: Nhặt từ map at 03/12/2023 10:37 PM
+BAG:phattesthp add 1xQuần vải thô lydo: Lấy từ body vào hành trang at 03/12/2023 10:37 PM
+BAG:phattesthp add 6xĐá Saphia (old: 5) lydo: Nhặt từ map at 03/12/2023 10:37 PM
+BAG:phattesthp add 51xHoa hồng vàng (old: 50) lydo: Nhặt từ map at 03/12/2023 10:37 PM
+BAG:phattesthp add 29xHoa hồng đỏ (old: 28) lydo: Nhặt từ map at 03/12/2023 10:37 PM
+BAG:phattesthp add 1xGăng vải thô lydo: Nhặt từ map at 03/12/2023 10:37 PM
+BAG:phattesthp add 52xHoa hồng vàng (old: 51) lydo: Nhặt từ map at 03/12/2023 10:37 PM
+BAG:phattesthp add 7xĐá Saphia (old: 6) lydo: Nhặt từ map at 03/12/2023 10:37 PM
+BAG:phattesthp add 53xHoa hồng vàng (old: 52) lydo: Nhặt từ map at 03/12/2023 10:37 PM
+BAG:phattesthp add 38xHoa hồng xanh (old: 37) lydo: Nhặt từ map at 03/12/2023 10:38 PM
+BAG:phattesthp add 39xHoa hồng xanh (old: 38) lydo: Nhặt từ map at 03/12/2023 10:38 PM
+BAG:phattesthp add 1xRada cấp 1 lydo: Nhặt từ map at 03/12/2023 10:38 PM
+BAG:phattesthp add 30xHoa hồng đỏ (old: 29) lydo: Nhặt từ map at 03/12/2023 10:38 PM
+BAG:phattesthp add 1xQuần vải thô lydo: Lấy từ body vào hành trang at 03/12/2023 10:38 PM
+BAG:phattesthp add 1xÁo vải thô lydo: Nhặt từ map at 03/12/2023 10:38 PM
+BAG:phattesthp add 1xGăng vải thô lydo: Nhặt từ map at 03/12/2023 10:38 PM
+BAG:phattesthp add 40xHoa hồng xanh (old: 39) lydo: Nhặt từ map at 03/12/2023 10:38 PM
+BAG:phattesthp add 31xHoa hồng đỏ (old: 30) lydo: Nhặt từ map at 03/12/2023 10:38 PM
+BAG:phattesthp add 54xHoa hồng vàng (old: 53) lydo: Nhặt từ map at 03/12/2023 10:38 PM
+BAG:phattesthp add 1xGăng vải thô lydo: Nhặt từ map at 03/12/2023 10:38 PM
+BAG:phattesthp add 8xĐá Saphia (old: 7) lydo: Nhặt từ map at 03/12/2023 10:38 PM
+BAG:phattesthp add 1xGiầy vải thô lydo: Nhặt từ map at 03/12/2023 10:38 PM
+BAG:phattesthp add 1xGiầy vải thô lydo: Nhặt từ map at 03/12/2023 10:38 PM
+BAG:phattesthp add 1xQuần vải thô lydo: Nhặt từ map at 03/12/2023 10:38 PM
+BAG:phattesthp add 1xÁo vải thô lydo: Nhặt từ map at 03/12/2023 10:38 PM
+BAG:phattesthp add 41xHoa hồng xanh (old: 40) lydo: Nhặt từ map at 03/12/2023 10:38 PM
+BAG:phattesthp add 9xĐá Saphia (old: 8) lydo: Nhặt từ map at 03/12/2023 10:38 PM
+BAG:phattesthp add 32xHoa hồng đỏ (old: 31) lydo: Nhặt từ map at 03/12/2023 10:39 PM
+BAG:phattesthp add 2xĐá Titan (old: 1) lydo: Nhặt từ map at 03/12/2023 10:39 PM
+BAG:phattesthp add 1xÁo vải thô lydo: Nhặt từ map at 03/12/2023 10:39 PM
+BAG:phattesthp add 33xHoa hồng đỏ (old: 32) lydo: Nhặt từ map at 03/12/2023 10:39 PM
+BAG:phattesthp add 55xHoa hồng vàng (old: 54) lydo: Nhặt từ map at 03/12/2023 10:39 PM
+BAG:phattesthp add 56xHoa hồng vàng (old: 55) lydo: Nhặt từ map at 03/12/2023 10:39 PM
+BAG:phattesthp add 1xGiầy vải thô lydo: Nhặt từ map at 03/12/2023 10:39 PM
+BAG:phattesthp add 2xĐá thạch anh tím (old: 1) lydo: Nhặt từ map at 03/12/2023 10:39 PM
+BAG:phattesthp add 2xMảnh Quỷ đất (old: 1) lydo: Nhặt từ map at 03/12/2023 10:39 PM
+BAG:phattesthp add 1xGiầy vải thô lydo: Nhặt từ map at 03/12/2023 10:39 PM
+BAG:phattesthp add 10xĐá Saphia (old: 9) lydo: Nhặt từ map at 03/12/2023 10:39 PM
+BAG:phattesthp add 1xQuần vải thô lydo: Nhặt từ map at 03/12/2023 10:39 PM
+BAG:phattesthp add 57xHoa hồng vàng (old: 56) lydo: Nhặt từ map at 03/12/2023 10:39 PM
+BAG:phattesthp add 6xĐá lục bảo (old: 5) lydo: Nhặt từ map at 03/12/2023 10:39 PM
+BAG:phattesthp add 1xQuần vải thô lydo: Nhặt từ map at 03/12/2023 10:39 PM
+BAG:phattesthp add 11xĐá Saphia (old: 10) lydo: Nhặt từ map at 03/12/2023 10:39 PM
+BAG:phattesthp add 1xRada cấp 1 lydo: Nhặt từ map at 03/12/2023 10:39 PM
+BAG:phattesthp add 34xHoa hồng đỏ (old: 33) lydo: Nhặt từ map at 03/12/2023 10:39 PM
+BAG:phattesthp add 81xĐậu thần cấp 10 (old: 61) lydo: Lấy từ rương qua người at 03/12/2023 10:40 PM
+BAG:phattesthp add 2xĐậu thần cấp 10 lydo: Lấy từ rương qua người at 03/12/2023 10:40 PM
+BAG:phattesthp add 99xĐậu thần cấp 10 (old: 81) lydo: Lấy từ rương qua người at 03/12/2023 10:40 PM
+BAG:phattesthp add 58xHoa hồng vàng (old: 57) lydo: Nhặt từ map at 03/12/2023 10:41 PM
+BAG:phattesthp add 42xHoa hồng xanh (old: 41) lydo: Nhặt từ map at 03/12/2023 10:41 PM
+BAG:phattesthp add 43xHoa hồng xanh (old: 42) lydo: Nhặt từ map at 03/12/2023 10:41 PM
+BAG:phattesthp add 35xHoa hồng đỏ (old: 34) lydo: Nhặt từ map at 03/12/2023 10:43 PM
+BAG:phattesthp add 59xHoa hồng vàng (old: 58) lydo: Nhặt từ map at 03/12/2023 10:44 PM
+BAG:phattesthp add 36xHoa hồng đỏ (old: 35) lydo: Nhặt từ map at 03/12/2023 10:45 PM
+BAG:phattesthp add 44xHoa hồng xanh (old: 43) lydo: Nhặt từ map at 03/12/2023 10:45 PM
+BAG:phattesthp add 45xHoa hồng xanh (old: 44) lydo: Nhặt từ map at 03/12/2023 10:46 PM
+BAG:phattesthp add 37xHoa hồng đỏ (old: 36) lydo: Nhặt từ map at 03/12/2023 10:48 PM
+BAG:phattesthp add 46xHoa hồng xanh (old: 45) lydo: Nhặt từ map at 03/12/2023 10:48 PM
+BAG:phattesthp add 60xHoa hồng vàng (old: 59) lydo: Nhặt từ map at 03/12/2023 10:48 PM
+BAG:phattesthp add 38xHoa hồng đỏ (old: 37) lydo: Nhặt từ map at 03/12/2023 10:49 PM
+BAG:phattesthp add 47xHoa hồng xanh (old: 46) lydo: Nhặt từ map at 03/12/2023 10:49 PM
+BAG:phattesthp add 39xHoa hồng đỏ (old: 38) lydo: Nhặt từ map at 03/12/2023 10:50 PM
+BAG:phattesthp add 61xHoa hồng vàng (old: 60) lydo: Nhặt từ map at 03/12/2023 10:52 PM
+BAG:phattesthp add 62xHoa hồng vàng (old: 61) lydo: Nhặt từ map at 03/12/2023 10:53 PM
+BAG:phattesthp add 40xHoa hồng đỏ (old: 39) lydo: Nhặt từ map at 03/12/2023 10:53 PM
+BAG:phattesthp add 63xHoa hồng vàng (old: 62) lydo: Nhặt từ map at 03/12/2023 10:53 PM
+BAG:phattesthp add 48xHoa hồng xanh (old: 47) lydo: Nhặt từ map at 03/12/2023 10:54 PM
+BAG:phattesthp add 41xHoa hồng đỏ (old: 40) lydo: Nhặt từ map at 03/12/2023 10:57 PM
+BAG:phattesthp add 42xHoa hồng đỏ (old: 41) lydo: Nhặt từ map at 03/12/2023 10:58 PM
+BAG:phattesthp add 64xHoa hồng vàng (old: 63) lydo: Nhặt từ map at 03/12/2023 11:00 PM
+BAG:phattesthp add 49xHoa hồng xanh (old: 48) lydo: Nhặt từ map at 03/12/2023 11:00 PM
+BAG:phattesthp add 50xHoa hồng xanh (old: 49) lydo: Nhặt từ map at 03/12/2023 11:00 PM
+BAG:phattesthp add 43xHoa hồng đỏ (old: 42) lydo: Nhặt từ map at 03/12/2023 11:01 PM
+BAG:phattesthp add 51xHoa hồng xanh (old: 50) lydo: Nhặt từ map at 03/12/2023 11:02 PM
+BAG:phattesthp add 65xHoa hồng vàng (old: 64) lydo: Nhặt từ map at 03/12/2023 11:02 PM
+BAG:phattesthp add 52xHoa hồng xanh (old: 51) lydo: Nhặt từ map at 03/12/2023 11:03 PM
+BAG:phattesthp add 44xHoa hồng đỏ (old: 43) lydo: Nhặt từ map at 03/12/2023 11:03 PM
+BAG:phattesthp add 12xĐá Saphia (old: 11) lydo: Nhặt từ map at 03/12/2023 11:04 PM
+BAG:phattesthp add 6xĐá Ruby (old: 5) lydo: Nhặt từ map at 03/12/2023 11:05 PM
+BAG:phattesthp add 13xĐá Saphia (old: 12) lydo: Nhặt từ map at 03/12/2023 11:05 PM
+BAG:phattesthp add 53xHoa hồng xanh (old: 52) lydo: Nhặt từ map at 03/12/2023 11:07 PM
+BAG:phattesthp add 45xHoa hồng đỏ (old: 44) lydo: Nhặt từ map at 03/12/2023 11:07 PM
+BAG:phattesthp add 66xHoa hồng vàng (old: 65) lydo: Nhặt từ map at 03/12/2023 11:07 PM
+BAG:phattesthp add 54xHoa hồng xanh (old: 53) lydo: Nhặt từ map at 03/12/2023 11:08 PM
+BAG:phattesthp add 67xHoa hồng vàng (old: 66) lydo: Nhặt từ map at 03/12/2023 11:11 PM
+BAG:phattesthp add 46xHoa hồng đỏ (old: 45) lydo: Nhặt từ map at 03/12/2023 11:11 PM
+BAG:phattesthp add 55xHoa hồng xanh (old: 54) lydo: Nhặt từ map at 03/12/2023 11:13 PM
+BAG:phattesthp add 68xHoa hồng vàng (old: 67) lydo: Nhặt từ map at 03/12/2023 11:13 PM
+BAG:phattesthp add 3xĐá Titan (old: 2) lydo: Nhặt từ map at 03/12/2023 11:14 PM
+BAG:phattesthp add 69xHoa hồng vàng (old: 68) lydo: Nhặt từ map at 03/12/2023 11:15 PM
+BAG:phattesthp add 70xHoa hồng vàng (old: 69) lydo: Nhặt từ map at 03/12/2023 11:15 PM
+BAG:phattesthp add 56xHoa hồng xanh (old: 55) lydo: Nhặt từ map at 03/12/2023 11:16 PM
+BAG:phattesthp add 57xHoa hồng xanh (old: 56) lydo: Nhặt từ map at 03/12/2023 11:17 PM
+BAG:phattesthp add 58xHoa hồng xanh (old: 57) lydo: Nhặt từ map at 03/12/2023 11:17 PM
+BAG:phattesthp add 71xHoa hồng vàng (old: 70) lydo: Nhặt từ map at 03/12/2023 11:18 PM
+BAG:phattesthp add 47xHoa hồng đỏ (old: 46) lydo: Nhặt từ map at 03/12/2023 11:19 PM
+BAG:phattesthp add 72xHoa hồng vàng (old: 71) lydo: Nhặt từ map at 03/12/2023 11:19 PM
+BAG:phattesthp add 59xHoa hồng xanh (old: 58) lydo: Nhặt từ map at 03/12/2023 11:20 PM
+BAG:phattesthp add 73xHoa hồng vàng (old: 72) lydo: Nhặt từ map at 03/12/2023 11:22 PM
+BAG:phattesthp add 74xHoa hồng vàng (old: 73) lydo: Nhặt từ map at 03/12/2023 11:23 PM
+BAG:phattesthp add 60xHoa hồng xanh (old: 59) lydo: Nhặt từ map at 03/12/2023 11:24 PM
+BAG:phattesthp add 7xĐá Ruby (old: 6) lydo: Nhặt từ map at 03/12/2023 11:25 PM
+BAG:phattesthp add 75xHoa hồng vàng (old: 74) lydo: Nhặt từ map at 03/12/2023 11:25 PM
+BAG:phattesthp add 4xĐá Titan (old: 3) lydo: Nhặt từ map at 03/12/2023 11:26 PM
+BAG:phattesthp add 61xHoa hồng xanh (old: 60) lydo: Nhặt từ map at 03/12/2023 11:26 PM
+BAG:phattesthp add 62xHoa hồng xanh (old: 61) lydo: Nhặt từ map at 03/12/2023 11:26 PM
+BAG:phattesthp add 76xHoa hồng vàng (old: 75) lydo: Nhặt từ map at 03/12/2023 11:27 PM
+BAG:phattesthp add 77xHoa hồng vàng (old: 76) lydo: Nhặt từ map at 03/12/2023 11:28 PM
+BAG:phattesthp add 48xHoa hồng đỏ (old: 47) lydo: Nhặt từ map at 03/12/2023 11:29 PM
+BAG:phattesthp add 63xHoa hồng xanh (old: 62) lydo: Nhặt từ map at 03/12/2023 11:29 PM
+BAG:phattesthp add 49xHoa hồng đỏ (old: 48) lydo: Nhặt từ map at 03/12/2023 11:29 PM
+BAG:phattesthp add 78xHoa hồng vàng (old: 77) lydo: Nhặt từ map at 03/12/2023 11:29 PM
+BAG:phattesthp add 50xHoa hồng đỏ (old: 49) lydo: Nhặt từ map at 03/12/2023 11:30 PM
+BAG:phattesthp add 79xHoa hồng vàng (old: 78) lydo: Nhặt từ map at 03/12/2023 11:31 PM
+BAG:phattesthp add 1xNgọc Rồng 6 sao lydo: Nhặt từ map at 03/12/2023 11:31 PM
+BAG:phattesthp add 51xHoa hồng đỏ (old: 50) lydo: Nhặt từ map at 03/12/2023 11:32 PM
+BAG:phattesthp add 80xHoa hồng vàng (old: 79) lydo: Nhặt từ map at 03/12/2023 11:34 PM
+BAG:phattesthp add 3xĐá thạch anh tím (old: 2) lydo: Nhặt từ map at 03/12/2023 11:34 PM
+BAG:phattesthp add 81xHoa hồng vàng (old: 80) lydo: Nhặt từ map at 03/12/2023 11:35 PM
+BAG:phattesthp add 52xHoa hồng đỏ (old: 51) lydo: Nhặt từ map at 03/12/2023 11:35 PM
+BAG:phattesthp add 7xĐá lục bảo (old: 6) lydo: Nhặt từ map at 03/12/2023 11:35 PM
+BAG:phattesthp add 53xHoa hồng đỏ (old: 52) lydo: Nhặt từ map at 03/12/2023 11:36 PM
+BAG:phattesthp add 82xHoa hồng vàng (old: 81) lydo: Nhặt từ map at 03/12/2023 11:37 PM
+BAG:phattesthp add 83xHoa hồng vàng (old: 82) lydo: Nhặt từ map at 03/12/2023 11:38 PM
+BAG:phattesthp add 64xHoa hồng xanh (old: 63) lydo: Nhặt từ map at 03/12/2023 11:42 PM
+BAG:phattesthp add 84xHoa hồng vàng (old: 83) lydo: Nhặt từ map at 03/12/2023 11:43 PM
+BAG:phattesthp add 65xHoa hồng xanh (old: 64) lydo: Nhặt từ map at 03/12/2023 11:43 PM
+BAG:phattesthp add 85xHoa hồng vàng (old: 84) lydo: Nhặt từ map at 03/12/2023 11:43 PM
+BAG:phattesthp add 86xHoa hồng vàng (old: 85) lydo: Nhặt từ map at 03/12/2023 11:44 PM
+BAG:phattesthp add 87xHoa hồng vàng (old: 86) lydo: Nhặt từ map at 03/12/2023 11:44 PM
+BAG:phattesthp add 66xHoa hồng xanh (old: 65) lydo: Nhặt từ map at 03/12/2023 11:44 PM
+BAG:phattesthp add 8xĐá lục bảo (old: 7) lydo: Nhặt từ map at 03/12/2023 11:45 PM
+BAG:phattesthp add 8xĐá Ruby (old: 7) lydo: Nhặt từ map at 03/12/2023 11:45 PM
+BAG:phattesthp add 54xHoa hồng đỏ (old: 53) lydo: Nhặt từ map at 03/12/2023 11:46 PM
+BAG:phattesthp add 88xHoa hồng vàng (old: 87) lydo: Nhặt từ map at 03/12/2023 11:47 PM
+BAG:phattesthp add 55xHoa hồng đỏ (old: 54) lydo: Nhặt từ map at 03/12/2023 11:48 PM
+BAG:phattesthp add 89xHoa hồng vàng (old: 88) lydo: Nhặt từ map at 03/12/2023 11:49 PM
+BAG:phattesthp add 14xĐá Saphia (old: 13) lydo: Nhặt từ map at 03/12/2023 11:50 PM
+BAG:phattesthp add 56xHoa hồng đỏ (old: 55) lydo: Nhặt từ map at 03/12/2023 11:50 PM
+BAG:phattesthp add 90xHoa hồng vàng (old: 89) lydo: Nhặt từ map at 03/12/2023 11:51 PM
+BAG:phattesthp add 15xĐá Saphia (old: 14) lydo: Nhặt từ map at 03/12/2023 11:51 PM
+BAG:phattesthp add 67xHoa hồng xanh (old: 66) lydo: Nhặt từ map at 03/12/2023 11:52 PM
+BAG:phattesthp add 57xHoa hồng đỏ (old: 56) lydo: Nhặt từ map at 03/12/2023 11:54 PM
+BAG:phattesthp add 91xHoa hồng vàng (old: 90) lydo: Nhặt từ map at 03/12/2023 11:55 PM
+BAG:phattesthp add 58xHoa hồng đỏ (old: 57) lydo: Nhặt từ map at 03/12/2023 11:55 PM
+BAG:phattesthp add 59xHoa hồng đỏ (old: 58) lydo: Nhặt từ map at 03/12/2023 11:56 PM
+BAG:phattesthp add 5xĐá Titan (old: 4) lydo: Nhặt từ map at 03/12/2023 11:56 PM
+BAG:phattesthp add 9xĐá lục bảo (old: 8) lydo: Nhặt từ map at 03/12/2023 11:56 PM
+BAG:phattesthp add 6xĐá Titan (old: 5) lydo: Nhặt từ map at 03/12/2023 11:56 PM
+BAG:phattesthp add 68xHoa hồng xanh (old: 67) lydo: Nhặt từ map at 03/12/2023 11:57 PM
+BAG:phattesthp add 69xHoa hồng xanh (old: 68) lydo: Nhặt từ map at 03/12/2023 11:57 PM
+BAG:phattesthp add 60xHoa hồng đỏ (old: 59) lydo: Nhặt từ map at 03/12/2023 11:58 PM
+BAG:phattesthp add 92xHoa hồng vàng (old: 91) lydo: Nhặt từ map at 03/12/2023 11:58 PM

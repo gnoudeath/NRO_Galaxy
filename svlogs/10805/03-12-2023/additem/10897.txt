@@ -1,0 +1,102 @@
+BAG:pnott add 328xHoa hồng đỏ (old: 327) lydo: Nhặt từ map at 03/12/2023 6:55 AM
+BAG:pnott add 283xHoa hồng xanh (old: 282) lydo: Nhặt từ map at 03/12/2023 6:55 AM
+BAG:pnott add 284xHoa hồng xanh (old: 283) lydo: Nhặt từ map at 03/12/2023 6:56 AM
+BAG:pnott add 417xHoa hồng vàng (old: 416) lydo: Nhặt từ map at 03/12/2023 6:56 AM
+BAG:pnott add 14xSao pha lê (old: 13) lydo: Nhặt từ map at 03/12/2023 6:56 AM
+BAG:pnott add 418xHoa hồng vàng (old: 417) lydo: Nhặt từ map at 03/12/2023 6:56 AM
+BAG:pnott add 419xHoa hồng vàng (old: 418) lydo: Nhặt từ map at 03/12/2023 6:57 AM
+BAG:pnott add 329xHoa hồng đỏ (old: 328) lydo: Nhặt từ map at 03/12/2023 6:57 AM
+BAG:pnott add 330xHoa hồng đỏ (old: 329) lydo: Nhặt từ map at 03/12/2023 6:57 AM
+BAG:pnott add 30xSao pha lê (old: 29) lydo: Nhặt từ map at 03/12/2023 7:01 AM
+BAG:pnott add 1xTự động luyện tập lydo: Mua TDTL từ cửa hàng at 03/12/2023 7:01 AM
+BAG:pnott add 331xHoa hồng đỏ (old: 330) lydo: Nhặt từ map at 03/12/2023 7:03 AM
+BAG:pnott add 62xĐá thạch anh tím (old: 61) lydo: Nhặt từ map at 03/12/2023 7:03 AM
+BAG:pnott add 3xNgọc Rồng 6 sao (old: 2) lydo: Nhặt từ map at 03/12/2023 7:03 AM
+BAG:pnott add 332xHoa hồng đỏ (old: 331) lydo: Nhặt từ map at 03/12/2023 7:03 AM
+BAG:pnott add 333xHoa hồng đỏ (old: 332) lydo: Nhặt từ map at 03/12/2023 7:03 AM
+BAG:pnott add 68xĐá Titan (old: 67) lydo: Nhặt từ map at 03/12/2023 7:03 AM
+BAG:pnott add 420xHoa hồng vàng (old: 419) lydo: Nhặt từ map at 03/12/2023 7:03 AM
+BAG:pnott add 31xSao pha lê (old: 30) lydo: Nhặt từ map at 03/12/2023 7:03 AM
+BAG:pnott add 69xĐá Titan (old: 68) lydo: Nhặt từ map at 03/12/2023 7:04 AM
+BAG:pnott add 421xHoa hồng vàng (old: 420) lydo: Nhặt từ map at 03/12/2023 7:04 AM
+BAG:pnott add 422xHoa hồng vàng (old: 421) lydo: Nhặt từ map at 03/12/2023 7:04 AM
+BAG:pnott add 32xSao pha lê (old: 31) lydo: Nhặt từ map at 03/12/2023 7:04 AM
+BAG:pnott add 20xSao pha lê (old: 19) lydo: Nhặt từ map at 03/12/2023 7:04 AM
+BAG:pnott add 285xHoa hồng xanh (old: 284) lydo: Nhặt từ map at 03/12/2023 7:05 AM
+BAG:pnott add 423xHoa hồng vàng (old: 422) lydo: Nhặt từ map at 03/12/2023 7:05 AM
+BAG:pnott add 17xSao pha lê (old: 16) lydo: Nhặt từ map at 03/12/2023 7:05 AM
+BAG:pnott add 424xHoa hồng vàng (old: 423) lydo: Nhặt từ map at 03/12/2023 7:05 AM
+BAG:pnott add 21xSao pha lê (old: 20) lydo: Nhặt từ map at 03/12/2023 7:05 AM
+BAG:pnott add 425xHoa hồng vàng (old: 424) lydo: Nhặt từ map at 03/12/2023 7:05 AM
+BAG:pnott add 72xĐá Ruby (old: 71) lydo: Nhặt từ map at 03/12/2023 7:05 AM
+BAG:pnott add 286xHoa hồng xanh (old: 285) lydo: Nhặt từ map at 03/12/2023 7:05 AM
+BAG:pnott add 426xHoa hồng vàng (old: 425) lydo: Nhặt từ map at 03/12/2023 7:05 AM
+BAG:pnott add 334xHoa hồng đỏ (old: 333) lydo: Nhặt từ map at 03/12/2023 7:06 AM
+BAG:pnott add 22xSao pha lê (old: 21) lydo: Nhặt từ map at 03/12/2023 7:06 AM
+BAG:pnott add 427xHoa hồng vàng (old: 426) lydo: Nhặt từ map at 03/12/2023 7:06 AM
+BAG:pnott add 335xHoa hồng đỏ (old: 334) lydo: Nhặt từ map at 03/12/2023 7:06 AM
+BAG:pnott add 31xSao pha lê (old: 30) lydo: Nhặt từ map at 03/12/2023 7:06 AM
+BAG:pnott add 70xĐá Titan (old: 69) lydo: Nhặt từ map at 03/12/2023 7:07 AM
+BAG:pnott add 428xHoa hồng vàng (old: 427) lydo: Nhặt từ map at 03/12/2023 7:07 AM
+BAG:pnott add 429xHoa hồng vàng (old: 428) lydo: Nhặt từ map at 03/12/2023 7:07 AM
+BAG:pnott add 287xHoa hồng xanh (old: 286) lydo: Nhặt từ map at 03/12/2023 7:07 AM
+BAG:pnott add 33xSao pha lê (old: 32) lydo: Nhặt từ map at 03/12/2023 7:07 AM
+BAG:pnott add 336xHoa hồng đỏ (old: 335) lydo: Nhặt từ map at 03/12/2023 7:08 AM
+BAG:pnott add 430xHoa hồng vàng (old: 429) lydo: Nhặt từ map at 03/12/2023 7:08 AM
+BAG:pnott add 31xSao pha lê (old: 30) lydo: Nhặt từ map at 03/12/2023 7:08 AM
+BAG:pnott add 18xSao pha lê (old: 17) lydo: Nhặt từ map at 03/12/2023 7:09 AM
+BAG:pnott add 288xHoa hồng xanh (old: 287) lydo: Nhặt từ map at 03/12/2023 7:09 AM
+BAG:pnott add 289xHoa hồng xanh (old: 288) lydo: Nhặt từ map at 03/12/2023 7:09 AM
+BAG:pnott add 23xSao pha lê (old: 22) lydo: Nhặt từ map at 03/12/2023 7:09 AM
+BAG:pnott add 337xHoa hồng đỏ (old: 336) lydo: Nhặt từ map at 03/12/2023 7:09 AM
+BAG:pnott add 24xSao pha lê (old: 23) lydo: Nhặt từ map at 03/12/2023 7:09 AM
+BAG:pnott add 290xHoa hồng xanh (old: 289) lydo: Nhặt từ map at 03/12/2023 7:09 AM
+BAG:pnott add 431xHoa hồng vàng (old: 430) lydo: Nhặt từ map at 03/12/2023 7:09 AM
+BAG:pnott add 63xĐá thạch anh tím (old: 62) lydo: Nhặt từ map at 03/12/2023 7:09 AM
+BAG:pnott add 15xSao pha lê (old: 14) lydo: Nhặt từ map at 03/12/2023 7:10 AM
+BAG:pnott add 432xHoa hồng vàng (old: 431) lydo: Nhặt từ map at 03/12/2023 7:10 AM
+BAG:pnott add 16xSao pha lê (old: 15) lydo: Nhặt từ map at 03/12/2023 7:11 AM
+BAG:pnott add 338xHoa hồng đỏ (old: 337) lydo: Nhặt từ map at 03/12/2023 7:11 AM
+BAG:pnott add 1xÁo lông đỏ lydo: Lấy từ body vào hành trang at 03/12/2023 7:11 AM
+BAG:pnott add 99xThỏi vàng lydo: Tách thỏi vàng at 03/12/2023 7:15 AM
+BAG:pnott add 1xQuần lông đỏ lydo: Lấy từ body vào hành trang at 03/12/2023 7:22 AM
+BAG:pnott add 1xGăng da Xayda lydo: Lấy từ body vào hành trang at 03/12/2023 7:32 AM
+BAG:pnott add 1xGiày lông đỏ lydo: Lấy từ body vào hành trang at 03/12/2023 7:41 AM
+BAG:pnott add 1xGiày siêu Xayda lydo: Mua từ cửa hàng at 03/12/2023 7:43 AM
+BAG:pnott add 1xGiày siêu Xayda lydo: Lấy từ body vào hành trang at 03/12/2023 7:44 AM
+BAG:pnott add 1xRada cấp 10 lydo: Lấy từ body vào hành trang at 03/12/2023 7:51 AM
+BAG:pnott add 71xĐá Titan (old: 70) lydo: Nhặt từ map at 03/12/2023 8:03 AM
+BAG:pnott add 291xHoa hồng xanh (old: 290) lydo: Nhặt từ map at 03/12/2023 8:03 AM
+BAG:pnott add 292xHoa hồng xanh (old: 291) lydo: Nhặt từ map at 03/12/2023 8:03 AM
+BAG:pnott add 64xĐá thạch anh tím (old: 63) lydo: Nhặt từ map at 03/12/2023 8:03 AM
+BAG:pnott add 433xHoa hồng vàng (old: 432) lydo: Nhặt từ map at 03/12/2023 8:03 AM
+BAG:pnott add 19xSao pha lê (old: 18) lydo: Nhặt từ map at 03/12/2023 8:03 AM
+BAG:pnott add 339xHoa hồng đỏ (old: 338) lydo: Nhặt từ map at 03/12/2023 8:03 AM
+BAG:pnott add 340xHoa hồng đỏ (old: 339) lydo: Nhặt từ map at 03/12/2023 8:03 AM
+BAG:pnott add 341xHoa hồng đỏ (old: 340) lydo: Nhặt từ map at 03/12/2023 8:03 AM
+BAG:pnott add 293xHoa hồng xanh (old: 292) lydo: Nhặt từ map at 03/12/2023 8:03 AM
+BAG:pnott add 294xHoa hồng xanh (old: 293) lydo: Nhặt từ map at 03/12/2023 8:03 AM
+BAG:pnott add 342xHoa hồng đỏ (old: 341) lydo: Nhặt từ map at 03/12/2023 8:03 AM
+BAG:pnott add 34xSao pha lê (old: 33) lydo: Nhặt từ map at 03/12/2023 8:03 AM
+BAG:pnott add 434xHoa hồng vàng (old: 433) lydo: Nhặt từ map at 03/12/2023 8:03 AM
+BAG:pnott add 295xHoa hồng xanh (old: 294) lydo: Nhặt từ map at 03/12/2023 8:04 AM
+BAG:pnott add 73xĐá Ruby (old: 72) lydo: Nhặt từ map at 03/12/2023 8:04 AM
+BAG:pnott add 343xHoa hồng đỏ (old: 342) lydo: Nhặt từ map at 03/12/2023 8:04 AM
+BAG:pnott add 74xĐá Ruby (old: 73) lydo: Nhặt từ map at 03/12/2023 8:04 AM
+BAG:pnott add 65xĐá thạch anh tím (old: 64) lydo: Nhặt từ map at 03/12/2023 8:04 AM
+BAG:pnott add 344xHoa hồng đỏ (old: 343) lydo: Nhặt từ map at 03/12/2023 8:04 AM
+BAG:pnott add 435xHoa hồng vàng (old: 434) lydo: Nhặt từ map at 03/12/2023 8:04 AM
+BAG:pnott add 80xĐá Saphia (old: 79) lydo: Nhặt từ map at 03/12/2023 8:04 AM
+BAG:pnott add 14xSao pha lê (old: 13) lydo: Nhặt từ map at 03/12/2023 8:04 AM
+BAG:pnott add 345xHoa hồng đỏ (old: 344) lydo: Nhặt từ map at 03/12/2023 8:04 AM
+BAG:pnott add 20xSao pha lê (old: 19) lydo: Nhặt từ map at 03/12/2023 8:04 AM
+BAG:pnott add 15xSao pha lê (old: 14) lydo: Nhặt từ map at 03/12/2023 8:05 AM
+BAG:pnott add 81xĐá Saphia (old: 80) lydo: Nhặt từ map at 03/12/2023 8:05 AM
+BAG:pnott add 296xHoa hồng xanh (old: 295) lydo: Nhặt từ map at 03/12/2023 8:05 AM
+BAG:pnott add 436xHoa hồng vàng (old: 435) lydo: Nhặt từ map at 03/12/2023 8:06 AM
+BAG:pnott add 297xHoa hồng xanh (old: 296) lydo: Nhặt từ map at 03/12/2023 8:07 AM
+BAG:pnott add 64xĐá lục bảo (old: 63) lydo: Nhặt từ map at 03/12/2023 8:07 AM
+BAG:pnott add 72xĐá Titan (old: 71) lydo: Nhặt từ map at 03/12/2023 8:07 AM
+BAG:pnott add 346xHoa hồng đỏ (old: 345) lydo: Nhặt từ map at 03/12/2023 8:08 AM
+BAG:pnott add 32xSao pha lê (old: 31) lydo: Nhặt từ map at 03/12/2023 8:08 AM
+BAG:pnott add 10xĐậu thần cấp 10 lydo: Thu hoạch đậu at 03/12/2023 9:06 AM

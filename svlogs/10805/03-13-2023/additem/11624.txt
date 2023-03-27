@@ -1,0 +1,15 @@
+BAG:meotihon add 15xHoa hồng đỏ (old: 14) lydo: Nhặt từ map at 03/13/2023 2:42 AM
+BAG:meotihon add 7xĐậu thần cấp 5 lydo: Thu hoạch đậu at 03/13/2023 2:43 AM
+BAG:meotihon add 1xViên Capsule đặc biệt lydo: Mua từ cửa hàng at 03/13/2023 2:44 AM
+BAG:meotihon add 1xÁo vải thô lydo: Lấy từ rương qua người at 03/13/2023 2:46 AM
+BAG:meotihon add 1xGăng vải thô lydo: Lấy từ rương qua người at 03/13/2023 2:46 AM
+BAG:meotihon add 1xRada cấp 1 lydo: Lấy từ rương qua người at 03/13/2023 2:46 AM
+BAG:meotihon add 25xĐậu thần cấp 5 (old: 7) lydo: Lấy từ rương qua người at 03/13/2023 2:46 AM
+BAG:meotihon add 1xGiầy vải thô lydo: Lấy từ rương qua người at 03/13/2023 2:46 AM
+BAG:meotihon add 29xHoa hồng vàng (old: 28) lydo: Nhặt từ map at 03/13/2023 2:54 AM
+BAG:meotihon add 30xHoa hồng vàng (old: 29) lydo: Nhặt từ map at 03/13/2023 2:55 AM
+BAG:meotihon add 19xHoa hồng xanh (old: 18) lydo: Nhặt từ map at 03/13/2023 2:55 AM
+BAG:meotihon add 31xHoa hồng vàng (old: 30) lydo: Nhặt từ map at 03/13/2023 2:57 AM
+BAG:meotihon add 32xHoa hồng vàng (old: 31) lydo: Nhặt từ map at 03/13/2023 2:57 AM
+BAG:meotihon add 16xHoa hồng đỏ (old: 15) lydo: Nhặt từ map at 03/13/2023 2:58 AM
+BAG:meotihon add 17xHoa hồng đỏ (old: 16) lydo: Nhặt từ map at 03/13/2023 2:58 AM

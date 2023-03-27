@@ -1,0 +1,712 @@
+BAG:taitrumgalaxy add 1xHoa hồng vàng lydo: Nhặt từ map at 03/13/2023 12:02 AM
+BAG:taitrumgalaxy add 1xHoa hồng xanh lydo: Nhặt từ map at 03/13/2023 12:02 AM
+BAG:taitrumgalaxy add 1xĐá Titan lydo: Nhặt từ map at 03/13/2023 12:02 AM
+BAG:taitrumgalaxy add 5xViên Capsule kì bí (old: 4) lydo: Nhặt từ map at 03/13/2023 12:02 AM
+BAG:taitrumgalaxy add 6xViên Capsule kì bí (old: 5) lydo: Nhặt từ map at 03/13/2023 12:02 AM
+BAG:taitrumgalaxy add 2xHoa hồng xanh (old: 1) lydo: Nhặt từ map at 03/13/2023 12:02 AM
+BAG:taitrumgalaxy add 3xHoa hồng xanh (old: 2) lydo: Nhặt từ map at 03/13/2023 12:02 AM
+BAG:taitrumgalaxy add 2xHoa hồng vàng (old: 1) lydo: Nhặt từ map at 03/13/2023 12:02 AM
+BAG:taitrumgalaxy add 4xHoa hồng xanh (old: 3) lydo: Nhặt từ map at 03/13/2023 12:02 AM
+BAG:taitrumgalaxy add 3xHoa hồng vàng (old: 2) lydo: Nhặt từ map at 03/13/2023 12:02 AM
+BAG:taitrumgalaxy add 5xHoa hồng xanh (old: 4) lydo: Nhặt từ map at 03/13/2023 12:02 AM
+BAG:taitrumgalaxy add 7xViên Capsule kì bí (old: 6) lydo: Nhặt từ map at 03/13/2023 12:02 AM
+BAG:taitrumgalaxy add 4xHoa hồng vàng (old: 3) lydo: Nhặt từ map at 03/13/2023 12:02 AM
+BAG:taitrumgalaxy add 8xViên Capsule kì bí (old: 7) lydo: Nhặt từ map at 03/13/2023 12:03 AM
+BAG:taitrumgalaxy add 9xViên Capsule kì bí (old: 8) lydo: Nhặt từ map at 03/13/2023 12:03 AM
+BAG:taitrumgalaxy add 10xViên Capsule kì bí (old: 9) lydo: Nhặt từ map at 03/13/2023 12:03 AM
+BAG:taitrumgalaxy add 11xViên Capsule kì bí (old: 10) lydo: Nhặt từ map at 03/13/2023 12:03 AM
+BAG:taitrumgalaxy add 1xHoa hồng đỏ lydo: Nhặt từ map at 03/13/2023 12:03 AM
+BAG:taitrumgalaxy add 12xViên Capsule kì bí (old: 11) lydo: Nhặt từ map at 03/13/2023 12:03 AM
+BAG:taitrumgalaxy add 13xViên Capsule kì bí (old: 12) lydo: Nhặt từ map at 03/13/2023 12:03 AM
+BAG:taitrumgalaxy add 2xHoa hồng đỏ (old: 1) lydo: Nhặt từ map at 03/13/2023 12:03 AM
+BAG:taitrumgalaxy add 14xViên Capsule kì bí (old: 13) lydo: Nhặt từ map at 03/13/2023 12:03 AM
+BAG:taitrumgalaxy add 15xViên Capsule kì bí (old: 14) lydo: Nhặt từ map at 03/13/2023 12:03 AM
+BAG:taitrumgalaxy add 16xViên Capsule kì bí (old: 15) lydo: Nhặt từ map at 03/13/2023 12:03 AM
+BAG:taitrumgalaxy add 17xViên Capsule kì bí (old: 16) lydo: Nhặt từ map at 03/13/2023 12:03 AM
+BAG:taitrumgalaxy add 18xViên Capsule kì bí (old: 17) lydo: Nhặt từ map at 03/13/2023 12:04 AM
+BAG:taitrumgalaxy add 19xViên Capsule kì bí (old: 18) lydo: Nhặt từ map at 03/13/2023 12:04 AM
+BAG:taitrumgalaxy add 6xHoa hồng xanh (old: 5) lydo: Nhặt từ map at 03/13/2023 12:04 AM
+BAG:taitrumgalaxy add 2xĐá Titan (old: 1) lydo: Nhặt từ map at 03/13/2023 12:04 AM
+BAG:taitrumgalaxy add 5xHoa hồng vàng (old: 4) lydo: Nhặt từ map at 03/13/2023 12:04 AM
+BAG:taitrumgalaxy add 3xHoa hồng đỏ (old: 2) lydo: Nhặt từ map at 03/13/2023 12:04 AM
+BAG:taitrumgalaxy add 6xHoa hồng vàng (old: 5) lydo: Nhặt từ map at 03/13/2023 12:04 AM
+BAG:taitrumgalaxy add 20xViên Capsule kì bí (old: 19) lydo: Nhặt từ map at 03/13/2023 12:04 AM
+BAG:taitrumgalaxy add 4xHoa hồng đỏ (old: 3) lydo: Nhặt từ map at 03/13/2023 12:04 AM
+BAG:taitrumgalaxy add 7xHoa hồng vàng (old: 6) lydo: Nhặt từ map at 03/13/2023 12:04 AM
+BAG:taitrumgalaxy add 8xHoa hồng vàng (old: 7) lydo: Nhặt từ map at 03/13/2023 12:04 AM
+BAG:taitrumgalaxy add 9xHoa hồng vàng (old: 8) lydo: Nhặt từ map at 03/13/2023 12:04 AM
+BAG:taitrumgalaxy add 7xHoa hồng xanh (old: 6) lydo: Nhặt từ map at 03/13/2023 12:04 AM
+BAG:taitrumgalaxy add 5xHoa hồng đỏ (old: 4) lydo: Nhặt từ map at 03/13/2023 12:04 AM
+BAG:taitrumgalaxy add 10xHoa hồng vàng (old: 9) lydo: Nhặt từ map at 03/13/2023 12:04 AM
+BAG:taitrumgalaxy add 21xViên Capsule kì bí (old: 20) lydo: Nhặt từ map at 03/13/2023 12:04 AM
+BAG:taitrumgalaxy add 22xViên Capsule kì bí (old: 21) lydo: Nhặt từ map at 03/13/2023 12:04 AM
+BAG:taitrumgalaxy add 23xViên Capsule kì bí (old: 22) lydo: Nhặt từ map at 03/13/2023 12:04 AM
+BAG:taitrumgalaxy add 8xHoa hồng xanh (old: 7) lydo: Nhặt từ map at 03/13/2023 12:05 AM
+BAG:taitrumgalaxy add 24xViên Capsule kì bí (old: 23) lydo: Nhặt từ map at 03/13/2023 12:05 AM
+BAG:taitrumgalaxy add 9xHoa hồng xanh (old: 8) lydo: Nhặt từ map at 03/13/2023 12:05 AM
+BAG:taitrumgalaxy add 25xViên Capsule kì bí (old: 24) lydo: Nhặt từ map at 03/13/2023 12:05 AM
+BAG:taitrumgalaxy add 10xHoa hồng xanh (old: 9) lydo: Nhặt từ map at 03/13/2023 12:05 AM
+BAG:taitrumgalaxy add 26xViên Capsule kì bí (old: 25) lydo: Nhặt từ map at 03/13/2023 12:05 AM
+BAG:taitrumgalaxy add 27xViên Capsule kì bí (old: 26) lydo: Nhặt từ map at 03/13/2023 12:05 AM
+BAG:taitrumgalaxy add 28xViên Capsule kì bí (old: 27) lydo: Nhặt từ map at 03/13/2023 12:05 AM
+BAG:taitrumgalaxy add 29xViên Capsule kì bí (old: 28) lydo: Nhặt từ map at 03/13/2023 12:05 AM
+BAG:taitrumgalaxy add 30xViên Capsule kì bí (old: 29) lydo: Nhặt từ map at 03/13/2023 12:05 AM
+BAG:taitrumgalaxy add 11xHoa hồng xanh (old: 10) lydo: Nhặt từ map at 03/13/2023 12:05 AM
+BAG:taitrumgalaxy add 11xHoa hồng vàng (old: 10) lydo: Nhặt từ map at 03/13/2023 12:05 AM
+BAG:taitrumgalaxy add 12xHoa hồng vàng (old: 11) lydo: Nhặt từ map at 03/13/2023 12:05 AM
+BAG:taitrumgalaxy add 13xHoa hồng vàng (old: 12) lydo: Nhặt từ map at 03/13/2023 12:05 AM
+BAG:taitrumgalaxy add 12xHoa hồng xanh (old: 11) lydo: Nhặt từ map at 03/13/2023 12:05 AM
+BAG:taitrumgalaxy add 14xHoa hồng vàng (old: 13) lydo: Nhặt từ map at 03/13/2023 12:05 AM
+BAG:taitrumgalaxy add 13xHoa hồng xanh (old: 12) lydo: Nhặt từ map at 03/13/2023 12:05 AM
+BAG:taitrumgalaxy add 31xViên Capsule kì bí (old: 30) lydo: Nhặt từ map at 03/13/2023 12:05 AM
+BAG:taitrumgalaxy add 15xHoa hồng vàng (old: 14) lydo: Nhặt từ map at 03/13/2023 12:05 AM
+BAG:taitrumgalaxy add 32xViên Capsule kì bí (old: 31) lydo: Nhặt từ map at 03/13/2023 12:05 AM
+BAG:taitrumgalaxy add 33xViên Capsule kì bí (old: 32) lydo: Nhặt từ map at 03/13/2023 12:05 AM
+BAG:taitrumgalaxy add 3xĐá Titan (old: 2) lydo: Nhặt từ map at 03/13/2023 12:05 AM
+BAG:taitrumgalaxy add 34xViên Capsule kì bí (old: 33) lydo: Nhặt từ map at 03/13/2023 12:05 AM
+BAG:taitrumgalaxy add 6xHoa hồng đỏ (old: 5) lydo: Nhặt từ map at 03/13/2023 12:05 AM
+BAG:taitrumgalaxy add 7xHoa hồng đỏ (old: 6) lydo: Nhặt từ map at 03/13/2023 12:05 AM
+BAG:taitrumgalaxy add 35xViên Capsule kì bí (old: 34) lydo: Nhặt từ map at 03/13/2023 12:05 AM
+BAG:taitrumgalaxy add 36xViên Capsule kì bí (old: 35) lydo: Nhặt từ map at 03/13/2023 12:06 AM
+BAG:taitrumgalaxy add 37xViên Capsule kì bí (old: 36) lydo: Nhặt từ map at 03/13/2023 12:06 AM
+BAG:taitrumgalaxy add 8xHoa hồng đỏ (old: 7) lydo: Nhặt từ map at 03/13/2023 12:06 AM
+BAG:taitrumgalaxy add 9xHoa hồng đỏ (old: 8) lydo: Nhặt từ map at 03/13/2023 12:06 AM
+BAG:taitrumgalaxy add 14xHoa hồng xanh (old: 13) lydo: Nhặt từ map at 03/13/2023 12:06 AM
+BAG:taitrumgalaxy add 38xViên Capsule kì bí (old: 37) lydo: Nhặt từ map at 03/13/2023 12:06 AM
+BAG:taitrumgalaxy add 39xViên Capsule kì bí (old: 38) lydo: Nhặt từ map at 03/13/2023 12:06 AM
+BAG:taitrumgalaxy add 15xHoa hồng xanh (old: 14) lydo: Nhặt từ map at 03/13/2023 12:06 AM
+BAG:taitrumgalaxy add 16xHoa hồng xanh (old: 15) lydo: Nhặt từ map at 03/13/2023 12:06 AM
+BAG:taitrumgalaxy add 40xViên Capsule kì bí (old: 39) lydo: Nhặt từ map at 03/13/2023 12:06 AM
+BAG:taitrumgalaxy add 1xGiáp tập luyện cấp 3 lydo: Lấy từ body vào hành trang at 03/13/2023 12:07 AM
+BAG:taitrumgalaxy add 1xBổ khí lydo: CSKB at 03/13/2023 12:10 AM
+BAG:taitrumgalaxy add 1xẨn danh lydo: CSKB at 03/13/2023 12:10 AM
+BAG:taitrumgalaxy add 4xViên Capsule kì bí (old: 3) lydo: Nhặt từ map at 03/13/2023 12:10 AM
+BAG:taitrumgalaxy add 1xHoa hồng vàng lydo: Nhặt từ map at 03/13/2023 12:10 AM
+BAG:taitrumgalaxy add 5xViên Capsule kì bí (old: 4) lydo: Nhặt từ map at 03/13/2023 12:10 AM
+BAG:taitrumgalaxy add 2xHoa hồng vàng (old: 1) lydo: Nhặt từ map at 03/13/2023 12:10 AM
+BAG:taitrumgalaxy add 6xViên Capsule kì bí (old: 5) lydo: Nhặt từ map at 03/13/2023 12:10 AM
+BAG:taitrumgalaxy add 7xViên Capsule kì bí (old: 6) lydo: Nhặt từ map at 03/13/2023 12:10 AM
+BAG:taitrumgalaxy add 8xViên Capsule kì bí (old: 7) lydo: Nhặt từ map at 03/13/2023 12:10 AM
+BAG:taitrumgalaxy add 9xViên Capsule kì bí (old: 8) lydo: Nhặt từ map at 03/13/2023 12:10 AM
+BAG:taitrumgalaxy add 1xHoa hồng đỏ lydo: Nhặt từ map at 03/13/2023 12:10 AM
+BAG:taitrumgalaxy add 10xViên Capsule kì bí (old: 9) lydo: Nhặt từ map at 03/13/2023 12:11 AM
+BAG:taitrumgalaxy add 3xHoa hồng vàng (old: 2) lydo: Nhặt từ map at 03/13/2023 12:11 AM
+BAG:taitrumgalaxy add 2xHoa hồng đỏ (old: 1) lydo: Nhặt từ map at 03/13/2023 12:11 AM
+BAG:taitrumgalaxy add 11xViên Capsule kì bí (old: 10) lydo: Nhặt từ map at 03/13/2023 12:11 AM
+BAG:taitrumgalaxy add 12xViên Capsule kì bí (old: 11) lydo: Nhặt từ map at 03/13/2023 12:11 AM
+BAG:taitrumgalaxy add 13xViên Capsule kì bí (old: 12) lydo: Nhặt từ map at 03/13/2023 12:11 AM
+BAG:taitrumgalaxy add 14xViên Capsule kì bí (old: 13) lydo: Nhặt từ map at 03/13/2023 12:11 AM
+BAG:taitrumgalaxy add 4xHoa hồng vàng (old: 3) lydo: Nhặt từ map at 03/13/2023 12:11 AM
+BAG:taitrumgalaxy add 5xHoa hồng vàng (old: 4) lydo: Nhặt từ map at 03/13/2023 12:11 AM
+BAG:taitrumgalaxy add 15xViên Capsule kì bí (old: 14) lydo: Nhặt từ map at 03/13/2023 12:11 AM
+BAG:taitrumgalaxy add 3xHoa hồng đỏ (old: 2) lydo: Nhặt từ map at 03/13/2023 12:11 AM
+BAG:taitrumgalaxy add 16xViên Capsule kì bí (old: 15) lydo: Nhặt từ map at 03/13/2023 12:11 AM
+BAG:taitrumgalaxy add 6xHoa hồng vàng (old: 5) lydo: Nhặt từ map at 03/13/2023 12:11 AM
+BAG:taitrumgalaxy add 4xHoa hồng đỏ (old: 3) lydo: Nhặt từ map at 03/13/2023 12:11 AM
+BAG:taitrumgalaxy add 17xViên Capsule kì bí (old: 16) lydo: Nhặt từ map at 03/13/2023 12:11 AM
+BAG:taitrumgalaxy add 18xViên Capsule kì bí (old: 17) lydo: Nhặt từ map at 03/13/2023 12:11 AM
+BAG:taitrumgalaxy add 5xHoa hồng đỏ (old: 4) lydo: Nhặt từ map at 03/13/2023 12:12 AM
+BAG:taitrumgalaxy add 19xViên Capsule kì bí (old: 18) lydo: Nhặt từ map at 03/13/2023 12:12 AM
+BAG:taitrumgalaxy add 7xHoa hồng vàng (old: 6) lydo: Nhặt từ map at 03/13/2023 12:12 AM
+BAG:taitrumgalaxy add 20xViên Capsule kì bí (old: 19) lydo: Nhặt từ map at 03/13/2023 12:12 AM
+BAG:taitrumgalaxy add 21xViên Capsule kì bí (old: 20) lydo: Nhặt từ map at 03/13/2023 12:12 AM
+BAG:taitrumgalaxy add 8xHoa hồng vàng (old: 7) lydo: Nhặt từ map at 03/13/2023 12:12 AM
+BAG:taitrumgalaxy add 22xViên Capsule kì bí (old: 21) lydo: Nhặt từ map at 03/13/2023 12:12 AM
+BAG:taitrumgalaxy add 23xViên Capsule kì bí (old: 22) lydo: Nhặt từ map at 03/13/2023 12:12 AM
+BAG:taitrumgalaxy add 9xHoa hồng vàng (old: 8) lydo: Nhặt từ map at 03/13/2023 12:12 AM
+BAG:taitrumgalaxy add 24xViên Capsule kì bí (old: 23) lydo: Nhặt từ map at 03/13/2023 12:12 AM
+BAG:taitrumgalaxy add 25xViên Capsule kì bí (old: 24) lydo: Nhặt từ map at 03/13/2023 12:12 AM
+BAG:taitrumgalaxy add 10xHoa hồng vàng (old: 9) lydo: Nhặt từ map at 03/13/2023 12:12 AM
+BAG:taitrumgalaxy add 26xViên Capsule kì bí (old: 25) lydo: Nhặt từ map at 03/13/2023 12:12 AM
+BAG:taitrumgalaxy add 27xViên Capsule kì bí (old: 26) lydo: Nhặt từ map at 03/13/2023 12:12 AM
+BAG:taitrumgalaxy add 6xHoa hồng đỏ (old: 5) lydo: Nhặt từ map at 03/13/2023 12:12 AM
+BAG:taitrumgalaxy add 11xHoa hồng vàng (old: 10) lydo: Nhặt từ map at 03/13/2023 12:12 AM
+BAG:taitrumgalaxy add 12xHoa hồng vàng (old: 11) lydo: Nhặt từ map at 03/13/2023 12:12 AM
+BAG:taitrumgalaxy add 28xViên Capsule kì bí (old: 27) lydo: Nhặt từ map at 03/13/2023 12:12 AM
+BAG:taitrumgalaxy add 7xHoa hồng đỏ (old: 6) lydo: Nhặt từ map at 03/13/2023 12:13 AM
+BAG:taitrumgalaxy add 29xViên Capsule kì bí (old: 28) lydo: Nhặt từ map at 03/13/2023 12:13 AM
+BAG:taitrumgalaxy add 30xViên Capsule kì bí (old: 29) lydo: Nhặt từ map at 03/13/2023 12:13 AM
+BAG:taitrumgalaxy add 8xHoa hồng đỏ (old: 7) lydo: Nhặt từ map at 03/13/2023 12:13 AM
+BAG:taitrumgalaxy add 31xViên Capsule kì bí (old: 30) lydo: Nhặt từ map at 03/13/2023 12:13 AM
+BAG:taitrumgalaxy add 13xHoa hồng vàng (old: 12) lydo: Nhặt từ map at 03/13/2023 12:13 AM
+BAG:taitrumgalaxy add 32xViên Capsule kì bí (old: 31) lydo: Nhặt từ map at 03/13/2023 12:13 AM
+BAG:taitrumgalaxy add 33xViên Capsule kì bí (old: 32) lydo: Nhặt từ map at 03/13/2023 12:13 AM
+BAG:taitrumgalaxy add 34xViên Capsule kì bí (old: 33) lydo: Nhặt từ map at 03/13/2023 12:14 AM
+BAG:taitrumgalaxy add 35xViên Capsule kì bí (old: 34) lydo: Nhặt từ map at 03/13/2023 12:14 AM
+BAG:taitrumgalaxy add 36xViên Capsule kì bí (old: 35) lydo: Nhặt từ map at 03/13/2023 12:14 AM
+BAG:taitrumgalaxy add 37xViên Capsule kì bí (old: 36) lydo: Nhặt từ map at 03/13/2023 12:14 AM
+BAG:taitrumgalaxy add 14xHoa hồng vàng (old: 13) lydo: Nhặt từ map at 03/13/2023 12:14 AM
+BAG:taitrumgalaxy add 38xViên Capsule kì bí (old: 37) lydo: Nhặt từ map at 03/13/2023 12:14 AM
+BAG:taitrumgalaxy add 39xViên Capsule kì bí (old: 38) lydo: Nhặt từ map at 03/13/2023 12:14 AM
+BAG:taitrumgalaxy add 40xViên Capsule kì bí (old: 39) lydo: Nhặt từ map at 03/13/2023 12:14 AM
+BAG:taitrumgalaxy add 15xHoa hồng vàng (old: 14) lydo: Nhặt từ map at 03/13/2023 12:14 AM
+BAG:taitrumgalaxy add 41xViên Capsule kì bí (old: 40) lydo: Nhặt từ map at 03/13/2023 12:14 AM
+BAG:taitrumgalaxy add 16xHoa hồng vàng (old: 15) lydo: Nhặt từ map at 03/13/2023 12:14 AM
+BAG:taitrumgalaxy add 42xViên Capsule kì bí (old: 41) lydo: Nhặt từ map at 03/13/2023 12:14 AM
+BAG:taitrumgalaxy add 43xViên Capsule kì bí (old: 42) lydo: Nhặt từ map at 03/13/2023 12:14 AM
+BAG:taitrumgalaxy add 9xHoa hồng đỏ (old: 8) lydo: Nhặt từ map at 03/13/2023 12:14 AM
+BAG:taitrumgalaxy add 10xHoa hồng đỏ (old: 9) lydo: Nhặt từ map at 03/13/2023 12:14 AM
+BAG:taitrumgalaxy add 17xHoa hồng vàng (old: 16) lydo: Nhặt từ map at 03/13/2023 12:15 AM
+BAG:taitrumgalaxy add 44xViên Capsule kì bí (old: 43) lydo: Nhặt từ map at 03/13/2023 12:15 AM
+BAG:taitrumgalaxy add 45xViên Capsule kì bí (old: 44) lydo: Nhặt từ map at 03/13/2023 12:15 AM
+BAG:taitrumgalaxy add 46xViên Capsule kì bí (old: 45) lydo: Nhặt từ map at 03/13/2023 12:15 AM
+BAG:taitrumgalaxy add 11xHoa hồng đỏ (old: 10) lydo: Nhặt từ map at 03/13/2023 12:15 AM
+BAG:taitrumgalaxy add 47xViên Capsule kì bí (old: 46) lydo: Nhặt từ map at 03/13/2023 12:15 AM
+BAG:taitrumgalaxy add 12xHoa hồng đỏ (old: 11) lydo: Nhặt từ map at 03/13/2023 12:15 AM
+BAG:taitrumgalaxy add 48xViên Capsule kì bí (old: 47) lydo: Nhặt từ map at 03/13/2023 12:15 AM
+BAG:taitrumgalaxy add 49xViên Capsule kì bí (old: 48) lydo: Nhặt từ map at 03/13/2023 12:15 AM
+BAG:taitrumgalaxy add 13xHoa hồng đỏ (old: 12) lydo: Nhặt từ map at 03/13/2023 12:15 AM
+BAG:taitrumgalaxy add 2xẨn danh (old: 1) lydo: CSKB at 03/13/2023 12:17 AM
+BAG:taitrumgalaxy add 3xẨn danh (old: 2) lydo: CSKB at 03/13/2023 12:17 AM
+BAG:taitrumgalaxy add 4xẨn danh (old: 3) lydo: CSKB at 03/13/2023 12:17 AM
+BAG:taitrumgalaxy add 2xBổ khí (old: 1) lydo: CSKB at 03/13/2023 12:17 AM
+BAG:taitrumgalaxy add 5xẨn danh (old: 4) lydo: CSKB at 03/13/2023 12:17 AM
+BAG:taitrumgalaxy add 1xCuồng nộ lydo: CSKB at 03/13/2023 12:17 AM
+BAG:taitrumgalaxy add 1xGiáp tập luyện cấp 3 lydo: Lấy từ body vào hành trang at 03/13/2023 12:17 AM
+BAG:taitrumgalaxy add 1xHoa hồng vàng lydo: Nhặt từ map at 03/13/2023 12:19 AM
+BAG:taitrumgalaxy add 2xHoa hồng vàng (old: 1) lydo: Nhặt từ map at 03/13/2023 12:19 AM
+BAG:taitrumgalaxy add 1xHoa hồng đỏ lydo: Nhặt từ map at 03/13/2023 12:19 AM
+BAG:taitrumgalaxy add 3xHoa hồng vàng (old: 2) lydo: Nhặt từ map at 03/13/2023 12:19 AM
+BAG:taitrumgalaxy add 8xViên Capsule kì bí (old: 7) lydo: Nhặt từ map at 03/13/2023 12:19 AM
+BAG:taitrumgalaxy add 9xViên Capsule kì bí (old: 8) lydo: Nhặt từ map at 03/13/2023 12:20 AM
+BAG:taitrumgalaxy add 4xHoa hồng vàng (old: 3) lydo: Nhặt từ map at 03/13/2023 12:20 AM
+BAG:taitrumgalaxy add 10xViên Capsule kì bí (old: 9) lydo: Nhặt từ map at 03/13/2023 12:20 AM
+BAG:taitrumgalaxy add 2xHoa hồng đỏ (old: 1) lydo: Nhặt từ map at 03/13/2023 12:20 AM
+BAG:taitrumgalaxy add 3xHoa hồng đỏ (old: 2) lydo: Nhặt từ map at 03/13/2023 12:20 AM
+BAG:taitrumgalaxy add 4xHoa hồng đỏ (old: 3) lydo: Nhặt từ map at 03/13/2023 12:20 AM
+BAG:taitrumgalaxy add 5xHoa hồng vàng (old: 4) lydo: Nhặt từ map at 03/13/2023 12:20 AM
+BAG:taitrumgalaxy add 5xHoa hồng đỏ (old: 4) lydo: Nhặt từ map at 03/13/2023 12:20 AM
+BAG:taitrumgalaxy add 11xViên Capsule kì bí (old: 10) lydo: Nhặt từ map at 03/13/2023 12:20 AM
+BAG:taitrumgalaxy add 12xViên Capsule kì bí (old: 11) lydo: Nhặt từ map at 03/13/2023 12:20 AM
+BAG:taitrumgalaxy add 13xViên Capsule kì bí (old: 12) lydo: Nhặt từ map at 03/13/2023 12:20 AM
+BAG:taitrumgalaxy add 14xViên Capsule kì bí (old: 13) lydo: Nhặt từ map at 03/13/2023 12:20 AM
+BAG:taitrumgalaxy add 15xViên Capsule kì bí (old: 14) lydo: Nhặt từ map at 03/13/2023 12:20 AM
+BAG:taitrumgalaxy add 16xViên Capsule kì bí (old: 15) lydo: Nhặt từ map at 03/13/2023 12:20 AM
+BAG:taitrumgalaxy add 17xViên Capsule kì bí (old: 16) lydo: Nhặt từ map at 03/13/2023 12:20 AM
+BAG:taitrumgalaxy add 18xViên Capsule kì bí (old: 17) lydo: Nhặt từ map at 03/13/2023 12:20 AM
+BAG:taitrumgalaxy add 6xHoa hồng vàng (old: 5) lydo: Nhặt từ map at 03/13/2023 12:20 AM
+BAG:taitrumgalaxy add 19xViên Capsule kì bí (old: 18) lydo: Nhặt từ map at 03/13/2023 12:21 AM
+BAG:taitrumgalaxy add 7xHoa hồng vàng (old: 6) lydo: Nhặt từ map at 03/13/2023 12:21 AM
+BAG:taitrumgalaxy add 20xViên Capsule kì bí (old: 19) lydo: Nhặt từ map at 03/13/2023 12:21 AM
+BAG:taitrumgalaxy add 21xViên Capsule kì bí (old: 20) lydo: Nhặt từ map at 03/13/2023 12:21 AM
+BAG:taitrumgalaxy add 8xHoa hồng vàng (old: 7) lydo: Nhặt từ map at 03/13/2023 12:21 AM
+BAG:taitrumgalaxy add 6xHoa hồng đỏ (old: 5) lydo: Nhặt từ map at 03/13/2023 12:21 AM
+BAG:taitrumgalaxy add 9xHoa hồng vàng (old: 8) lydo: Nhặt từ map at 03/13/2023 12:21 AM
+BAG:taitrumgalaxy add 22xViên Capsule kì bí (old: 21) lydo: Nhặt từ map at 03/13/2023 12:21 AM
+BAG:taitrumgalaxy add 7xHoa hồng đỏ (old: 6) lydo: Nhặt từ map at 03/13/2023 12:21 AM
+BAG:taitrumgalaxy add 10xHoa hồng vàng (old: 9) lydo: Nhặt từ map at 03/13/2023 12:21 AM
+BAG:taitrumgalaxy add 8xHoa hồng đỏ (old: 7) lydo: Nhặt từ map at 03/13/2023 12:21 AM
+BAG:taitrumgalaxy add 9xHoa hồng đỏ (old: 8) lydo: Nhặt từ map at 03/13/2023 12:21 AM
+BAG:taitrumgalaxy add 10xHoa hồng đỏ (old: 9) lydo: Nhặt từ map at 03/13/2023 12:21 AM
+BAG:taitrumgalaxy add 23xViên Capsule kì bí (old: 22) lydo: Nhặt từ map at 03/13/2023 12:21 AM
+BAG:taitrumgalaxy add 24xViên Capsule kì bí (old: 23) lydo: Nhặt từ map at 03/13/2023 12:21 AM
+BAG:taitrumgalaxy add 11xHoa hồng vàng (old: 10) lydo: Nhặt từ map at 03/13/2023 12:22 AM
+BAG:taitrumgalaxy add 25xViên Capsule kì bí (old: 24) lydo: Nhặt từ map at 03/13/2023 12:22 AM
+BAG:taitrumgalaxy add 26xViên Capsule kì bí (old: 25) lydo: Nhặt từ map at 03/13/2023 12:22 AM
+BAG:taitrumgalaxy add 27xViên Capsule kì bí (old: 26) lydo: Nhặt từ map at 03/13/2023 12:22 AM
+BAG:taitrumgalaxy add 12xHoa hồng vàng (old: 11) lydo: Nhặt từ map at 03/13/2023 12:22 AM
+BAG:taitrumgalaxy add 11xHoa hồng đỏ (old: 10) lydo: Nhặt từ map at 03/13/2023 12:22 AM
+BAG:taitrumgalaxy add 28xViên Capsule kì bí (old: 27) lydo: Nhặt từ map at 03/13/2023 12:22 AM
+BAG:taitrumgalaxy add 29xViên Capsule kì bí (old: 28) lydo: Nhặt từ map at 03/13/2023 12:22 AM
+BAG:taitrumgalaxy add 12xHoa hồng đỏ (old: 11) lydo: Nhặt từ map at 03/13/2023 12:22 AM
+BAG:taitrumgalaxy add 30xViên Capsule kì bí (old: 29) lydo: Nhặt từ map at 03/13/2023 12:22 AM
+BAG:taitrumgalaxy add 13xHoa hồng đỏ (old: 12) lydo: Nhặt từ map at 03/13/2023 12:22 AM
+BAG:taitrumgalaxy add 14xHoa hồng đỏ (old: 13) lydo: Nhặt từ map at 03/13/2023 12:22 AM
+BAG:taitrumgalaxy add 13xHoa hồng vàng (old: 12) lydo: Nhặt từ map at 03/13/2023 12:22 AM
+BAG:taitrumgalaxy add 31xViên Capsule kì bí (old: 30) lydo: Nhặt từ map at 03/13/2023 12:22 AM
+BAG:taitrumgalaxy add 32xViên Capsule kì bí (old: 31) lydo: Nhặt từ map at 03/13/2023 12:22 AM
+BAG:taitrumgalaxy add 33xViên Capsule kì bí (old: 32) lydo: Nhặt từ map at 03/13/2023 12:22 AM
+BAG:taitrumgalaxy add 34xViên Capsule kì bí (old: 33) lydo: Nhặt từ map at 03/13/2023 12:23 AM
+BAG:taitrumgalaxy add 35xViên Capsule kì bí (old: 34) lydo: Nhặt từ map at 03/13/2023 12:23 AM
+BAG:taitrumgalaxy add 36xViên Capsule kì bí (old: 35) lydo: Nhặt từ map at 03/13/2023 12:23 AM
+BAG:taitrumgalaxy add 14xHoa hồng vàng (old: 13) lydo: Nhặt từ map at 03/13/2023 12:23 AM
+BAG:taitrumgalaxy add 37xViên Capsule kì bí (old: 36) lydo: Nhặt từ map at 03/13/2023 12:23 AM
+BAG:taitrumgalaxy add 38xViên Capsule kì bí (old: 37) lydo: Nhặt từ map at 03/13/2023 12:23 AM
+BAG:taitrumgalaxy add 39xViên Capsule kì bí (old: 38) lydo: Nhặt từ map at 03/13/2023 12:23 AM
+BAG:taitrumgalaxy add 40xViên Capsule kì bí (old: 39) lydo: Nhặt từ map at 03/13/2023 12:23 AM
+BAG:taitrumgalaxy add 41xViên Capsule kì bí (old: 40) lydo: Nhặt từ map at 03/13/2023 12:23 AM
+BAG:taitrumgalaxy add 42xViên Capsule kì bí (old: 41) lydo: Nhặt từ map at 03/13/2023 12:23 AM
+BAG:taitrumgalaxy add 15xHoa hồng đỏ (old: 14) lydo: Nhặt từ map at 03/13/2023 12:23 AM
+BAG:taitrumgalaxy add 43xViên Capsule kì bí (old: 42) lydo: Nhặt từ map at 03/13/2023 12:24 AM
+BAG:taitrumgalaxy add 44xViên Capsule kì bí (old: 43) lydo: Nhặt từ map at 03/13/2023 12:24 AM
+BAG:taitrumgalaxy add 15xHoa hồng vàng (old: 14) lydo: Nhặt từ map at 03/13/2023 12:24 AM
+BAG:taitrumgalaxy add 45xViên Capsule kì bí (old: 44) lydo: Nhặt từ map at 03/13/2023 12:24 AM
+BAG:taitrumgalaxy add 46xViên Capsule kì bí (old: 45) lydo: Nhặt từ map at 03/13/2023 12:24 AM
+BAG:taitrumgalaxy add 47xViên Capsule kì bí (old: 46) lydo: Nhặt từ map at 03/13/2023 12:24 AM
+BAG:taitrumgalaxy add 16xHoa hồng đỏ (old: 15) lydo: Nhặt từ map at 03/13/2023 12:24 AM
+BAG:taitrumgalaxy add 17xHoa hồng đỏ (old: 16) lydo: Nhặt từ map at 03/13/2023 12:24 AM
+BAG:taitrumgalaxy add 1xGiáp tập luyện cấp 3 lydo: Lấy từ body vào hành trang at 03/13/2023 12:25 AM
+BAG:taitrumgalaxy add 1xHoa hồng đỏ lydo: Nhặt từ map at 03/13/2023 12:27 AM
+BAG:taitrumgalaxy add 16xHoa hồng vàng (old: 15) lydo: Nhặt từ map at 03/13/2023 12:27 AM
+BAG:taitrumgalaxy add 48xViên Capsule kì bí (old: 47) lydo: Nhặt từ map at 03/13/2023 12:27 AM
+BAG:taitrumgalaxy add 17xHoa hồng vàng (old: 16) lydo: Nhặt từ map at 03/13/2023 12:27 AM
+BAG:taitrumgalaxy add 18xHoa hồng vàng (old: 17) lydo: Nhặt từ map at 03/13/2023 12:27 AM
+BAG:taitrumgalaxy add 2xHoa hồng đỏ (old: 1) lydo: Nhặt từ map at 03/13/2023 12:27 AM
+BAG:taitrumgalaxy add 3xHoa hồng đỏ (old: 2) lydo: Nhặt từ map at 03/13/2023 12:27 AM
+BAG:taitrumgalaxy add 49xViên Capsule kì bí (old: 48) lydo: Nhặt từ map at 03/13/2023 12:28 AM
+BAG:taitrumgalaxy add 50xViên Capsule kì bí (old: 49) lydo: Nhặt từ map at 03/13/2023 12:28 AM
+BAG:taitrumgalaxy add 4xHoa hồng đỏ (old: 3) lydo: Nhặt từ map at 03/13/2023 12:28 AM
+BAG:taitrumgalaxy add 51xViên Capsule kì bí (old: 50) lydo: Nhặt từ map at 03/13/2023 12:28 AM
+BAG:taitrumgalaxy add 19xHoa hồng vàng (old: 18) lydo: Nhặt từ map at 03/13/2023 12:28 AM
+BAG:taitrumgalaxy add 52xViên Capsule kì bí (old: 51) lydo: Nhặt từ map at 03/13/2023 12:28 AM
+BAG:taitrumgalaxy add 5xHoa hồng đỏ (old: 4) lydo: Nhặt từ map at 03/13/2023 12:28 AM
+BAG:taitrumgalaxy add 53xViên Capsule kì bí (old: 52) lydo: Nhặt từ map at 03/13/2023 12:28 AM
+BAG:taitrumgalaxy add 54xViên Capsule kì bí (old: 53) lydo: Nhặt từ map at 03/13/2023 12:28 AM
+BAG:taitrumgalaxy add 20xHoa hồng vàng (old: 19) lydo: Nhặt từ map at 03/13/2023 12:28 AM
+BAG:taitrumgalaxy add 55xViên Capsule kì bí (old: 54) lydo: Nhặt từ map at 03/13/2023 12:28 AM
+BAG:taitrumgalaxy add 56xViên Capsule kì bí (old: 55) lydo: Nhặt từ map at 03/13/2023 12:28 AM
+BAG:taitrumgalaxy add 6xẨn danh (old: 5) lydo: CSKB at 03/13/2023 12:28 AM
+BAG:taitrumgalaxy add 53xViên Capsule kì bí (old: 52) lydo: Nhặt từ map at 03/13/2023 12:28 AM
+BAG:taitrumgalaxy add 43xViên Capsule kì bí (old: 42) lydo: Nhặt từ map at 03/13/2023 12:28 AM
+BAG:taitrumgalaxy add 1xCuồng nộ lydo: CSKB at 03/13/2023 12:28 AM
+BAG:taitrumgalaxy add 7xẨn danh (old: 6) lydo: CSKB at 03/13/2023 12:28 AM
+BAG:taitrumgalaxy add 8xẨn danh (old: 7) lydo: CSKB at 03/13/2023 12:28 AM
+BAG:taitrumgalaxy add 2xCuồng nộ (old: 1) lydo: CSKB at 03/13/2023 12:28 AM
+BAG:taitrumgalaxy add 68xNgọc Rồng 4 sao (old: 67) lydo: Nhặt từ map at 03/13/2023 12:28 AM
+BAG:taitrumgalaxy add 3xCuồng nộ (old: 2) lydo: CSKB at 03/13/2023 12:28 AM
+BAG:taitrumgalaxy add 3xBổ khí (old: 2) lydo: CSKB at 03/13/2023 12:28 AM
+BAG:taitrumgalaxy add 2xBổ huyết (old: 1) lydo: CSKB at 03/13/2023 12:28 AM
+BAG:taitrumgalaxy add 1xHoa hồng đỏ lydo: Nhặt từ map at 03/13/2023 12:28 AM
+BAG:taitrumgalaxy add 9xẨn danh (old: 8) lydo: CSKB at 03/13/2023 12:28 AM
+BAG:taitrumgalaxy add 2xViên Capsule kì bí (old: 1) lydo: Nhặt từ map at 03/13/2023 12:29 AM
+BAG:taitrumgalaxy add 3xViên Capsule kì bí (old: 2) lydo: Nhặt từ map at 03/13/2023 12:29 AM
+BAG:taitrumgalaxy add 2xHoa hồng đỏ (old: 1) lydo: Nhặt từ map at 03/13/2023 12:29 AM
+BAG:taitrumgalaxy add 4xViên Capsule kì bí (old: 3) lydo: Nhặt từ map at 03/13/2023 12:29 AM
+BAG:taitrumgalaxy add 5xViên Capsule kì bí (old: 4) lydo: Nhặt từ map at 03/13/2023 12:29 AM
+BAG:taitrumgalaxy add 6xViên Capsule kì bí (old: 5) lydo: Nhặt từ map at 03/13/2023 12:29 AM
+BAG:taitrumgalaxy add 7xViên Capsule kì bí (old: 6) lydo: Nhặt từ map at 03/13/2023 12:29 AM
+BAG:taitrumgalaxy add 3xHoa hồng đỏ (old: 2) lydo: Nhặt từ map at 03/13/2023 12:29 AM
+BAG:taitrumgalaxy add 8xViên Capsule kì bí (old: 7) lydo: Nhặt từ map at 03/13/2023 12:29 AM
+BAG:taitrumgalaxy add 9xViên Capsule kì bí (old: 8) lydo: Nhặt từ map at 03/13/2023 12:29 AM
+BAG:taitrumgalaxy add 10xViên Capsule kì bí (old: 9) lydo: Nhặt từ map at 03/13/2023 12:29 AM
+BAG:taitrumgalaxy add 11xViên Capsule kì bí (old: 10) lydo: Nhặt từ map at 03/13/2023 12:29 AM
+BAG:taitrumgalaxy add 12xViên Capsule kì bí (old: 11) lydo: Nhặt từ map at 03/13/2023 12:29 AM
+BAG:taitrumgalaxy add 4xHoa hồng đỏ (old: 3) lydo: Nhặt từ map at 03/13/2023 12:29 AM
+BAG:taitrumgalaxy add 13xViên Capsule kì bí (old: 12) lydo: Nhặt từ map at 03/13/2023 12:29 AM
+BAG:taitrumgalaxy add 14xViên Capsule kì bí (old: 13) lydo: Nhặt từ map at 03/13/2023 12:30 AM
+BAG:taitrumgalaxy add 5xHoa hồng đỏ (old: 4) lydo: Nhặt từ map at 03/13/2023 12:30 AM
+BAG:taitrumgalaxy add 15xViên Capsule kì bí (old: 14) lydo: Nhặt từ map at 03/13/2023 12:30 AM
+BAG:taitrumgalaxy add 16xViên Capsule kì bí (old: 15) lydo: Nhặt từ map at 03/13/2023 12:30 AM
+BAG:taitrumgalaxy add 17xViên Capsule kì bí (old: 16) lydo: Nhặt từ map at 03/13/2023 12:30 AM
+BAG:taitrumgalaxy add 6xHoa hồng đỏ (old: 5) lydo: Nhặt từ map at 03/13/2023 12:30 AM
+BAG:taitrumgalaxy add 18xViên Capsule kì bí (old: 17) lydo: Nhặt từ map at 03/13/2023 12:30 AM
+BAG:taitrumgalaxy add 19xViên Capsule kì bí (old: 18) lydo: Nhặt từ map at 03/13/2023 12:30 AM
+BAG:taitrumgalaxy add 20xViên Capsule kì bí (old: 19) lydo: Nhặt từ map at 03/13/2023 12:30 AM
+BAG:taitrumgalaxy add 21xViên Capsule kì bí (old: 20) lydo: Nhặt từ map at 03/13/2023 12:30 AM
+BAG:taitrumgalaxy add 22xViên Capsule kì bí (old: 21) lydo: Nhặt từ map at 03/13/2023 12:31 AM
+BAG:taitrumgalaxy add 23xViên Capsule kì bí (old: 22) lydo: Nhặt từ map at 03/13/2023 12:31 AM
+BAG:taitrumgalaxy add 24xViên Capsule kì bí (old: 23) lydo: Nhặt từ map at 03/13/2023 12:31 AM
+BAG:taitrumgalaxy add 25xViên Capsule kì bí (old: 24) lydo: Nhặt từ map at 03/13/2023 12:31 AM
+BAG:taitrumgalaxy add 7xHoa hồng đỏ (old: 6) lydo: Nhặt từ map at 03/13/2023 12:31 AM
+BAG:taitrumgalaxy add 8xHoa hồng đỏ (old: 7) lydo: Nhặt từ map at 03/13/2023 12:31 AM
+BAG:taitrumgalaxy add 26xViên Capsule kì bí (old: 25) lydo: Nhặt từ map at 03/13/2023 12:31 AM
+BAG:taitrumgalaxy add 27xViên Capsule kì bí (old: 26) lydo: Nhặt từ map at 03/13/2023 12:31 AM
+BAG:taitrumgalaxy add 28xViên Capsule kì bí (old: 27) lydo: Nhặt từ map at 03/13/2023 12:31 AM
+BAG:taitrumgalaxy add 10xẨn danh (old: 9) lydo: CSKB at 03/13/2023 12:31 AM
+BAG:taitrumgalaxy add 20xViên Capsule kì bí (old: 19) lydo: Nhặt từ map at 03/13/2023 12:31 AM
+BAG:taitrumgalaxy add 11xẨn danh (old: 10) lydo: CSKB at 03/13/2023 12:31 AM
+BAG:taitrumgalaxy add 3xViên Capsule kì bí (old: 2) lydo: Nhặt từ map at 03/13/2023 12:31 AM
+BAG:taitrumgalaxy add 1xGiáp tập luyện cấp 3 lydo: Lấy từ body vào hành trang at 03/13/2023 12:32 AM
+BAG:taitrumgalaxy add 1xHoa hồng xanh lydo: Nhặt từ map at 03/13/2023 12:34 AM
+BAG:taitrumgalaxy add 2xHoa hồng xanh (old: 1) lydo: Nhặt từ map at 03/13/2023 12:35 AM
+BAG:taitrumgalaxy add 3xHoa hồng xanh (old: 2) lydo: Nhặt từ map at 03/13/2023 12:35 AM
+BAG:taitrumgalaxy add 4xHoa hồng xanh (old: 3) lydo: Nhặt từ map at 03/13/2023 12:35 AM
+BAG:taitrumgalaxy add 5xHoa hồng xanh (old: 4) lydo: Nhặt từ map at 03/13/2023 12:35 AM
+BAG:taitrumgalaxy add 6xHoa hồng xanh (old: 5) lydo: Nhặt từ map at 03/13/2023 12:36 AM
+BAG:taitrumgalaxy add 69xNgọc Rồng 4 sao (old: 68) lydo: Nhặt từ map at 03/13/2023 12:36 AM
+BAG:taitrumgalaxy add 7xHoa hồng xanh (old: 6) lydo: Nhặt từ map at 03/13/2023 12:36 AM
+BAG:taitrumgalaxy add 70xNgọc Rồng 4 sao (old: 69) lydo: Nhặt từ map at 03/13/2023 12:37 AM
+BAG:taitrumgalaxy add 8xHoa hồng xanh (old: 7) lydo: Nhặt từ map at 03/13/2023 12:38 AM
+BAG:taitrumgalaxy add 9xHoa hồng xanh (old: 8) lydo: Nhặt từ map at 03/13/2023 12:38 AM
+BAG:taitrumgalaxy add 10xHoa hồng xanh (old: 9) lydo: Nhặt từ map at 03/13/2023 12:38 AM
+BAG:taitrumgalaxy add 11xHoa hồng xanh (old: 10) lydo: Nhặt từ map at 03/13/2023 12:38 AM
+BAG:taitrumgalaxy add 4xViên Capsule kì bí (old: 3) lydo: Nhặt từ map at 03/13/2023 12:39 AM
+BAG:taitrumgalaxy add 12xHoa hồng xanh (old: 11) lydo: Nhặt từ map at 03/13/2023 12:39 AM
+BAG:taitrumgalaxy add 5xViên Capsule kì bí (old: 4) lydo: Nhặt từ map at 03/13/2023 12:39 AM
+BAG:taitrumgalaxy add 13xHoa hồng xanh (old: 12) lydo: Nhặt từ map at 03/13/2023 12:39 AM
+BAG:taitrumgalaxy add 6xViên Capsule kì bí (old: 5) lydo: Nhặt từ map at 03/13/2023 12:39 AM
+BAG:taitrumgalaxy add 71xNgọc Rồng 4 sao (old: 70) lydo: Nhặt từ map at 03/13/2023 12:39 AM
+BAG:taitrumgalaxy add 7xViên Capsule kì bí (old: 6) lydo: Nhặt từ map at 03/13/2023 12:39 AM
+BAG:taitrumgalaxy add 14xHoa hồng xanh (old: 13) lydo: Nhặt từ map at 03/13/2023 12:39 AM
+BAG:taitrumgalaxy add 15xHoa hồng xanh (old: 14) lydo: Nhặt từ map at 03/13/2023 12:39 AM
+BAG:taitrumgalaxy add 1xGiáp tập luyện cấp 3 lydo: Lấy từ body vào hành trang at 03/13/2023 12:40 AM
+BAG:taitrumgalaxy add 1xHoa hồng vàng lydo: Nhặt từ map at 03/13/2023 12:42 AM
+BAG:taitrumgalaxy add 8xViên Capsule kì bí (old: 7) lydo: Nhặt từ map at 03/13/2023 12:42 AM
+BAG:taitrumgalaxy add 9xViên Capsule kì bí (old: 8) lydo: Nhặt từ map at 03/13/2023 12:42 AM
+BAG:taitrumgalaxy add 2xHoa hồng vàng (old: 1) lydo: Nhặt từ map at 03/13/2023 12:42 AM
+BAG:taitrumgalaxy add 3xHoa hồng vàng (old: 2) lydo: Nhặt từ map at 03/13/2023 12:43 AM
+BAG:taitrumgalaxy add 10xViên Capsule kì bí (old: 9) lydo: Nhặt từ map at 03/13/2023 12:43 AM
+BAG:taitrumgalaxy add 11xViên Capsule kì bí (old: 10) lydo: Nhặt từ map at 03/13/2023 12:43 AM
+BAG:taitrumgalaxy add 12xViên Capsule kì bí (old: 11) lydo: Nhặt từ map at 03/13/2023 12:43 AM
+BAG:taitrumgalaxy add 4xHoa hồng vàng (old: 3) lydo: Nhặt từ map at 03/13/2023 12:43 AM
+BAG:taitrumgalaxy add 5xHoa hồng vàng (old: 4) lydo: Nhặt từ map at 03/13/2023 12:43 AM
+BAG:taitrumgalaxy add 6xHoa hồng vàng (old: 5) lydo: Nhặt từ map at 03/13/2023 12:43 AM
+BAG:taitrumgalaxy add 13xViên Capsule kì bí (old: 12) lydo: Nhặt từ map at 03/13/2023 12:43 AM
+BAG:taitrumgalaxy add 7xHoa hồng vàng (old: 6) lydo: Nhặt từ map at 03/13/2023 12:43 AM
+BAG:taitrumgalaxy add 14xViên Capsule kì bí (old: 13) lydo: Nhặt từ map at 03/13/2023 12:43 AM
+BAG:taitrumgalaxy add 15xViên Capsule kì bí (old: 14) lydo: Nhặt từ map at 03/13/2023 12:43 AM
+BAG:taitrumgalaxy add 8xHoa hồng vàng (old: 7) lydo: Nhặt từ map at 03/13/2023 12:43 AM
+BAG:taitrumgalaxy add 16xViên Capsule kì bí (old: 15) lydo: Nhặt từ map at 03/13/2023 12:43 AM
+BAG:taitrumgalaxy add 17xViên Capsule kì bí (old: 16) lydo: Nhặt từ map at 03/13/2023 12:43 AM
+BAG:taitrumgalaxy add 18xViên Capsule kì bí (old: 17) lydo: Nhặt từ map at 03/13/2023 12:43 AM
+BAG:taitrumgalaxy add 19xViên Capsule kì bí (old: 18) lydo: Nhặt từ map at 03/13/2023 12:43 AM
+BAG:taitrumgalaxy add 20xViên Capsule kì bí (old: 19) lydo: Nhặt từ map at 03/13/2023 12:43 AM
+BAG:taitrumgalaxy add 9xHoa hồng vàng (old: 8) lydo: Nhặt từ map at 03/13/2023 12:44 AM
+BAG:taitrumgalaxy add 10xHoa hồng vàng (old: 9) lydo: Nhặt từ map at 03/13/2023 12:44 AM
+BAG:taitrumgalaxy add 11xHoa hồng vàng (old: 10) lydo: Nhặt từ map at 03/13/2023 12:44 AM
+BAG:taitrumgalaxy add 21xViên Capsule kì bí (old: 20) lydo: Nhặt từ map at 03/13/2023 12:44 AM
+BAG:taitrumgalaxy add 22xViên Capsule kì bí (old: 21) lydo: Nhặt từ map at 03/13/2023 12:44 AM
+BAG:taitrumgalaxy add 23xViên Capsule kì bí (old: 22) lydo: Nhặt từ map at 03/13/2023 12:44 AM
+BAG:taitrumgalaxy add 24xViên Capsule kì bí (old: 23) lydo: Nhặt từ map at 03/13/2023 12:44 AM
+BAG:taitrumgalaxy add 25xViên Capsule kì bí (old: 24) lydo: Nhặt từ map at 03/13/2023 12:44 AM
+BAG:taitrumgalaxy add 26xViên Capsule kì bí (old: 25) lydo: Nhặt từ map at 03/13/2023 12:44 AM
+BAG:taitrumgalaxy add 27xViên Capsule kì bí (old: 26) lydo: Nhặt từ map at 03/13/2023 12:44 AM
+BAG:taitrumgalaxy add 28xViên Capsule kì bí (old: 27) lydo: Nhặt từ map at 03/13/2023 12:44 AM
+BAG:taitrumgalaxy add 29xViên Capsule kì bí (old: 28) lydo: Nhặt từ map at 03/13/2023 12:44 AM
+BAG:taitrumgalaxy add 30xViên Capsule kì bí (old: 29) lydo: Nhặt từ map at 03/13/2023 12:44 AM
+BAG:taitrumgalaxy add 31xViên Capsule kì bí (old: 30) lydo: Nhặt từ map at 03/13/2023 12:44 AM
+BAG:taitrumgalaxy add 32xViên Capsule kì bí (old: 31) lydo: Nhặt từ map at 03/13/2023 12:44 AM
+BAG:taitrumgalaxy add 72xNgọc Rồng 4 sao (old: 71) lydo: Nhặt từ map at 03/13/2023 12:44 AM
+BAG:taitrumgalaxy add 33xViên Capsule kì bí (old: 32) lydo: Nhặt từ map at 03/13/2023 12:45 AM
+BAG:taitrumgalaxy add 34xViên Capsule kì bí (old: 33) lydo: Nhặt từ map at 03/13/2023 12:45 AM
+BAG:taitrumgalaxy add 35xViên Capsule kì bí (old: 34) lydo: Nhặt từ map at 03/13/2023 12:45 AM
+BAG:taitrumgalaxy add 12xHoa hồng vàng (old: 11) lydo: Nhặt từ map at 03/13/2023 12:45 AM
+BAG:taitrumgalaxy add 73xNgọc Rồng 4 sao (old: 72) lydo: Nhặt từ map at 03/13/2023 12:45 AM
+BAG:taitrumgalaxy add 36xViên Capsule kì bí (old: 35) lydo: Nhặt từ map at 03/13/2023 12:45 AM
+BAG:taitrumgalaxy add 28xViên Capsule kì bí (old: 27) lydo: Nhặt từ map at 03/13/2023 12:45 AM
+BAG:taitrumgalaxy add 3xBổ huyết (old: 2) lydo: CSKB at 03/13/2023 12:45 AM
+BAG:taitrumgalaxy add 4xBổ huyết (old: 3) lydo: CSKB at 03/13/2023 12:45 AM
+BAG:taitrumgalaxy add 3xCuồng nộ (old: 2) lydo: CSKB at 03/13/2023 12:45 AM
+BAG:taitrumgalaxy add 4xViên Capsule kì bí (old: 3) lydo: Nhặt từ map at 03/13/2023 12:46 AM
+BAG:taitrumgalaxy add 5xViên Capsule kì bí (old: 4) lydo: Nhặt từ map at 03/13/2023 12:46 AM
+BAG:taitrumgalaxy add 6xViên Capsule kì bí (old: 5) lydo: Nhặt từ map at 03/13/2023 12:46 AM
+BAG:taitrumgalaxy add 7xViên Capsule kì bí (old: 6) lydo: Nhặt từ map at 03/13/2023 12:46 AM
+BAG:taitrumgalaxy add 8xViên Capsule kì bí (old: 7) lydo: Nhặt từ map at 03/13/2023 12:46 AM
+BAG:taitrumgalaxy add 9xViên Capsule kì bí (old: 8) lydo: Nhặt từ map at 03/13/2023 12:46 AM
+BAG:taitrumgalaxy add 10xViên Capsule kì bí (old: 9) lydo: Nhặt từ map at 03/13/2023 12:46 AM
+BAG:taitrumgalaxy add 11xViên Capsule kì bí (old: 10) lydo: Nhặt từ map at 03/13/2023 12:46 AM
+BAG:taitrumgalaxy add 12xViên Capsule kì bí (old: 11) lydo: Nhặt từ map at 03/13/2023 12:46 AM
+BAG:taitrumgalaxy add 13xViên Capsule kì bí (old: 12) lydo: Nhặt từ map at 03/13/2023 12:46 AM
+BAG:taitrumgalaxy add 14xViên Capsule kì bí (old: 13) lydo: Nhặt từ map at 03/13/2023 12:46 AM
+BAG:taitrumgalaxy add 15xViên Capsule kì bí (old: 14) lydo: Nhặt từ map at 03/13/2023 12:46 AM
+BAG:taitrumgalaxy add 16xViên Capsule kì bí (old: 15) lydo: Nhặt từ map at 03/13/2023 12:46 AM
+BAG:taitrumgalaxy add 17xViên Capsule kì bí (old: 16) lydo: Nhặt từ map at 03/13/2023 12:47 AM
+BAG:taitrumgalaxy add 18xViên Capsule kì bí (old: 17) lydo: Nhặt từ map at 03/13/2023 12:47 AM
+BAG:taitrumgalaxy add 19xViên Capsule kì bí (old: 18) lydo: Nhặt từ map at 03/13/2023 12:47 AM
+BAG:taitrumgalaxy add 20xViên Capsule kì bí (old: 19) lydo: Nhặt từ map at 03/13/2023 12:47 AM
+BAG:taitrumgalaxy add 13xHoa hồng vàng (old: 12) lydo: Nhặt từ map at 03/13/2023 12:47 AM
+BAG:taitrumgalaxy add 21xViên Capsule kì bí (old: 20) lydo: Nhặt từ map at 03/13/2023 12:47 AM
+BAG:taitrumgalaxy add 1xGiáp tập luyện cấp 3 lydo: Lấy từ body vào hành trang at 03/13/2023 12:48 AM
+BAG:taitrumgalaxy add 1xHoa hồng vàng lydo: Nhặt từ map at 03/13/2023 12:50 AM
+BAG:taitrumgalaxy add 2xHoa hồng vàng (old: 1) lydo: Nhặt từ map at 03/13/2023 12:50 AM
+BAG:taitrumgalaxy add 3xHoa hồng vàng (old: 2) lydo: Nhặt từ map at 03/13/2023 12:50 AM
+BAG:taitrumgalaxy add 22xViên Capsule kì bí (old: 21) lydo: Nhặt từ map at 03/13/2023 12:50 AM
+BAG:taitrumgalaxy add 23xViên Capsule kì bí (old: 22) lydo: Nhặt từ map at 03/13/2023 12:50 AM
+BAG:taitrumgalaxy add 4xHoa hồng vàng (old: 3) lydo: Nhặt từ map at 03/13/2023 12:50 AM
+BAG:taitrumgalaxy add 24xViên Capsule kì bí (old: 23) lydo: Nhặt từ map at 03/13/2023 12:50 AM
+BAG:taitrumgalaxy add 5xHoa hồng vàng (old: 4) lydo: Nhặt từ map at 03/13/2023 12:50 AM
+BAG:taitrumgalaxy add 25xViên Capsule kì bí (old: 24) lydo: Nhặt từ map at 03/13/2023 12:50 AM
+BAG:taitrumgalaxy add 6xHoa hồng vàng (old: 5) lydo: Nhặt từ map at 03/13/2023 12:51 AM
+BAG:taitrumgalaxy add 26xViên Capsule kì bí (old: 25) lydo: Nhặt từ map at 03/13/2023 12:51 AM
+BAG:taitrumgalaxy add 27xViên Capsule kì bí (old: 26) lydo: Nhặt từ map at 03/13/2023 12:51 AM
+BAG:taitrumgalaxy add 7xHoa hồng vàng (old: 6) lydo: Nhặt từ map at 03/13/2023 12:51 AM
+BAG:taitrumgalaxy add 28xViên Capsule kì bí (old: 27) lydo: Nhặt từ map at 03/13/2023 12:51 AM
+BAG:taitrumgalaxy add 8xHoa hồng vàng (old: 7) lydo: Nhặt từ map at 03/13/2023 12:51 AM
+BAG:taitrumgalaxy add 9xHoa hồng vàng (old: 8) lydo: Nhặt từ map at 03/13/2023 12:51 AM
+BAG:taitrumgalaxy add 29xViên Capsule kì bí (old: 28) lydo: Nhặt từ map at 03/13/2023 12:51 AM
+BAG:taitrumgalaxy add 10xHoa hồng vàng (old: 9) lydo: Nhặt từ map at 03/13/2023 12:51 AM
+BAG:taitrumgalaxy add 11xHoa hồng vàng (old: 10) lydo: Nhặt từ map at 03/13/2023 12:51 AM
+BAG:taitrumgalaxy add 30xViên Capsule kì bí (old: 29) lydo: Nhặt từ map at 03/13/2023 12:51 AM
+BAG:taitrumgalaxy add 31xViên Capsule kì bí (old: 30) lydo: Nhặt từ map at 03/13/2023 12:52 AM
+BAG:taitrumgalaxy add 12xHoa hồng vàng (old: 11) lydo: Nhặt từ map at 03/13/2023 12:52 AM
+BAG:taitrumgalaxy add 32xViên Capsule kì bí (old: 31) lydo: Nhặt từ map at 03/13/2023 12:52 AM
+BAG:taitrumgalaxy add 13xHoa hồng vàng (old: 12) lydo: Nhặt từ map at 03/13/2023 12:52 AM
+BAG:taitrumgalaxy add 14xHoa hồng vàng (old: 13) lydo: Nhặt từ map at 03/13/2023 12:52 AM
+BAG:taitrumgalaxy add 33xViên Capsule kì bí (old: 32) lydo: Nhặt từ map at 03/13/2023 12:52 AM
+BAG:taitrumgalaxy add 34xViên Capsule kì bí (old: 33) lydo: Nhặt từ map at 03/13/2023 12:52 AM
+BAG:taitrumgalaxy add 35xViên Capsule kì bí (old: 34) lydo: Nhặt từ map at 03/13/2023 12:52 AM
+BAG:taitrumgalaxy add 15xHoa hồng vàng (old: 14) lydo: Nhặt từ map at 03/13/2023 12:52 AM
+BAG:taitrumgalaxy add 36xViên Capsule kì bí (old: 35) lydo: Nhặt từ map at 03/13/2023 12:52 AM
+BAG:taitrumgalaxy add 37xViên Capsule kì bí (old: 36) lydo: Nhặt từ map at 03/13/2023 12:52 AM
+BAG:taitrumgalaxy add 38xViên Capsule kì bí (old: 37) lydo: Nhặt từ map at 03/13/2023 12:53 AM
+BAG:taitrumgalaxy add 16xHoa hồng vàng (old: 15) lydo: Nhặt từ map at 03/13/2023 12:53 AM
+BAG:taitrumgalaxy add 17xHoa hồng vàng (old: 16) lydo: Nhặt từ map at 03/13/2023 12:53 AM
+BAG:taitrumgalaxy add 39xViên Capsule kì bí (old: 38) lydo: Nhặt từ map at 03/13/2023 12:53 AM
+BAG:taitrumgalaxy add 40xViên Capsule kì bí (old: 39) lydo: Nhặt từ map at 03/13/2023 12:53 AM
+BAG:taitrumgalaxy add 74xNgọc Rồng 4 sao (old: 73) lydo: Nhặt từ map at 03/13/2023 12:53 AM
+BAG:taitrumgalaxy add 18xHoa hồng vàng (old: 17) lydo: Nhặt từ map at 03/13/2023 12:53 AM
+BAG:taitrumgalaxy add 41xViên Capsule kì bí (old: 40) lydo: Nhặt từ map at 03/13/2023 12:53 AM
+BAG:taitrumgalaxy add 19xHoa hồng vàng (old: 18) lydo: Nhặt từ map at 03/13/2023 12:53 AM
+BAG:taitrumgalaxy add 42xViên Capsule kì bí (old: 41) lydo: Nhặt từ map at 03/13/2023 12:53 AM
+BAG:taitrumgalaxy add 20xHoa hồng vàng (old: 19) lydo: Nhặt từ map at 03/13/2023 12:53 AM
+BAG:taitrumgalaxy add 43xViên Capsule kì bí (old: 42) lydo: Nhặt từ map at 03/13/2023 12:53 AM
+BAG:taitrumgalaxy add 44xViên Capsule kì bí (old: 43) lydo: Nhặt từ map at 03/13/2023 12:53 AM
+BAG:taitrumgalaxy add 45xViên Capsule kì bí (old: 44) lydo: Nhặt từ map at 03/13/2023 12:53 AM
+BAG:taitrumgalaxy add 46xViên Capsule kì bí (old: 45) lydo: Nhặt từ map at 03/13/2023 12:54 AM
+BAG:taitrumgalaxy add 21xHoa hồng vàng (old: 20) lydo: Nhặt từ map at 03/13/2023 12:54 AM
+BAG:taitrumgalaxy add 22xHoa hồng vàng (old: 21) lydo: Nhặt từ map at 03/13/2023 12:54 AM
+BAG:taitrumgalaxy add 47xViên Capsule kì bí (old: 46) lydo: Nhặt từ map at 03/13/2023 12:54 AM
+BAG:taitrumgalaxy add 48xViên Capsule kì bí (old: 47) lydo: Nhặt từ map at 03/13/2023 12:54 AM
+BAG:taitrumgalaxy add 49xViên Capsule kì bí (old: 48) lydo: Nhặt từ map at 03/13/2023 12:54 AM
+BAG:taitrumgalaxy add 75xNgọc Rồng 4 sao (old: 74) lydo: Nhặt từ map at 03/13/2023 12:54 AM
+BAG:taitrumgalaxy add 50xViên Capsule kì bí (old: 49) lydo: Nhặt từ map at 03/13/2023 12:54 AM
+BAG:taitrumgalaxy add 51xViên Capsule kì bí (old: 50) lydo: Nhặt từ map at 03/13/2023 12:54 AM
+BAG:taitrumgalaxy add 23xHoa hồng vàng (old: 22) lydo: Nhặt từ map at 03/13/2023 12:54 AM
+BAG:taitrumgalaxy add 24xHoa hồng vàng (old: 23) lydo: Nhặt từ map at 03/13/2023 12:54 AM
+BAG:taitrumgalaxy add 52xViên Capsule kì bí (old: 51) lydo: Nhặt từ map at 03/13/2023 12:54 AM
+BAG:taitrumgalaxy add 53xViên Capsule kì bí (old: 52) lydo: Nhặt từ map at 03/13/2023 12:55 AM
+BAG:taitrumgalaxy add 54xViên Capsule kì bí (old: 53) lydo: Nhặt từ map at 03/13/2023 12:55 AM
+BAG:taitrumgalaxy add 76xNgọc Rồng 4 sao (old: 75) lydo: Nhặt từ map at 03/13/2023 12:55 AM
+BAG:taitrumgalaxy add 1xGiáp tập luyện cấp 3 lydo: Lấy từ body vào hành trang at 03/13/2023 12:56 AM
+BAG:taitrumgalaxy add 55xViên Capsule kì bí (old: 54) lydo: Nhặt từ map at 03/13/2023 12:58 AM
+BAG:taitrumgalaxy add 1xHoa hồng vàng lydo: Nhặt từ map at 03/13/2023 12:58 AM
+BAG:taitrumgalaxy add 56xViên Capsule kì bí (old: 55) lydo: Nhặt từ map at 03/13/2023 12:58 AM
+BAG:taitrumgalaxy add 57xViên Capsule kì bí (old: 56) lydo: Nhặt từ map at 03/13/2023 12:58 AM
+BAG:taitrumgalaxy add 58xViên Capsule kì bí (old: 57) lydo: Nhặt từ map at 03/13/2023 12:58 AM
+BAG:taitrumgalaxy add 59xViên Capsule kì bí (old: 58) lydo: Nhặt từ map at 03/13/2023 12:58 AM
+BAG:taitrumgalaxy add 2xHoa hồng vàng (old: 1) lydo: Nhặt từ map at 03/13/2023 12:59 AM
+BAG:taitrumgalaxy add 60xViên Capsule kì bí (old: 59) lydo: Nhặt từ map at 03/13/2023 12:59 AM
+BAG:taitrumgalaxy add 3xHoa hồng vàng (old: 2) lydo: Nhặt từ map at 03/13/2023 12:59 AM
+BAG:taitrumgalaxy add 61xViên Capsule kì bí (old: 60) lydo: Nhặt từ map at 03/13/2023 12:59 AM
+BAG:taitrumgalaxy add 4xHoa hồng vàng (old: 3) lydo: Nhặt từ map at 03/13/2023 12:59 AM
+BAG:taitrumgalaxy add 62xViên Capsule kì bí (old: 61) lydo: Nhặt từ map at 03/13/2023 12:59 AM
+BAG:taitrumgalaxy add 63xViên Capsule kì bí (old: 62) lydo: Nhặt từ map at 03/13/2023 12:59 AM
+BAG:taitrumgalaxy add 5xHoa hồng vàng (old: 4) lydo: Nhặt từ map at 03/13/2023 12:59 AM
+BAG:taitrumgalaxy add 6xHoa hồng vàng (old: 5) lydo: Nhặt từ map at 03/13/2023 1:00 AM
+BAG:taitrumgalaxy add 64xViên Capsule kì bí (old: 63) lydo: Nhặt từ map at 03/13/2023 1:00 AM
+BAG:taitrumgalaxy add 65xViên Capsule kì bí (old: 64) lydo: Nhặt từ map at 03/13/2023 1:00 AM
+BAG:taitrumgalaxy add 7xHoa hồng vàng (old: 6) lydo: Nhặt từ map at 03/13/2023 1:00 AM
+BAG:taitrumgalaxy add 77xNgọc Rồng 4 sao (old: 76) lydo: Nhặt từ map at 03/13/2023 1:01 AM
+BAG:taitrumgalaxy add 66xViên Capsule kì bí (old: 65) lydo: Nhặt từ map at 03/13/2023 1:01 AM
+BAG:taitrumgalaxy add 8xHoa hồng vàng (old: 7) lydo: Nhặt từ map at 03/13/2023 1:01 AM
+BAG:taitrumgalaxy add 67xViên Capsule kì bí (old: 66) lydo: Nhặt từ map at 03/13/2023 1:01 AM
+BAG:taitrumgalaxy add 9xHoa hồng vàng (old: 8) lydo: Nhặt từ map at 03/13/2023 1:01 AM
+BAG:taitrumgalaxy add 78xNgọc Rồng 4 sao (old: 77) lydo: Nhặt từ map at 03/13/2023 1:01 AM
+BAG:taitrumgalaxy add 68xViên Capsule kì bí (old: 67) lydo: Nhặt từ map at 03/13/2023 1:01 AM
+BAG:taitrumgalaxy add 69xViên Capsule kì bí (old: 68) lydo: Nhặt từ map at 03/13/2023 1:01 AM
+BAG:taitrumgalaxy add 12xẨn danh (old: 11) lydo: CSKB at 03/13/2023 1:02 AM
+BAG:taitrumgalaxy add 13xẨn danh (old: 12) lydo: CSKB at 03/13/2023 1:02 AM
+BAG:taitrumgalaxy add 3xCuồng nộ (old: 2) lydo: CSKB at 03/13/2023 1:02 AM
+BAG:taitrumgalaxy add 14xẨn danh (old: 13) lydo: CSKB at 03/13/2023 1:02 AM
+BAG:taitrumgalaxy add 15xẨn danh (old: 14) lydo: CSKB at 03/13/2023 1:02 AM
+BAG:taitrumgalaxy add 16xẨn danh (old: 15) lydo: CSKB at 03/13/2023 1:02 AM
+BAG:taitrumgalaxy add 4xCuồng nộ (old: 3) lydo: CSKB at 03/13/2023 1:02 AM
+BAG:taitrumgalaxy add 17xẨn danh (old: 16) lydo: CSKB at 03/13/2023 1:02 AM
+BAG:taitrumgalaxy add 3xViên Capsule kì bí (old: 2) lydo: Nhặt từ map at 03/13/2023 1:02 AM
+BAG:taitrumgalaxy add 4xViên Capsule kì bí (old: 3) lydo: Nhặt từ map at 03/13/2023 1:03 AM
+BAG:taitrumgalaxy add 5xViên Capsule kì bí (old: 4) lydo: Nhặt từ map at 03/13/2023 1:03 AM
+BAG:taitrumgalaxy add 6xViên Capsule kì bí (old: 5) lydo: Nhặt từ map at 03/13/2023 1:03 AM
+BAG:taitrumgalaxy add 1xGiáp tập luyện cấp 3 lydo: Lấy từ body vào hành trang at 03/13/2023 1:04 AM
+BAG:taitrumgalaxy add 1xHoa hồng vàng lydo: Nhặt từ map at 03/13/2023 1:06 AM
+BAG:taitrumgalaxy add 2xHoa hồng vàng (old: 1) lydo: Nhặt từ map at 03/13/2023 1:06 AM
+BAG:taitrumgalaxy add 3xHoa hồng vàng (old: 2) lydo: Nhặt từ map at 03/13/2023 1:06 AM
+BAG:taitrumgalaxy add 7xViên Capsule kì bí (old: 6) lydo: Nhặt từ map at 03/13/2023 1:06 AM
+BAG:taitrumgalaxy add 4xHoa hồng vàng (old: 3) lydo: Nhặt từ map at 03/13/2023 1:06 AM
+BAG:taitrumgalaxy add 5xHoa hồng vàng (old: 4) lydo: Nhặt từ map at 03/13/2023 1:06 AM
+BAG:taitrumgalaxy add 6xHoa hồng vàng (old: 5) lydo: Nhặt từ map at 03/13/2023 1:06 AM
+BAG:taitrumgalaxy add 7xHoa hồng vàng (old: 6) lydo: Nhặt từ map at 03/13/2023 1:06 AM
+BAG:taitrumgalaxy add 8xViên Capsule kì bí (old: 7) lydo: Nhặt từ map at 03/13/2023 1:06 AM
+BAG:taitrumgalaxy add 8xHoa hồng vàng (old: 7) lydo: Nhặt từ map at 03/13/2023 1:06 AM
+BAG:taitrumgalaxy add 9xHoa hồng vàng (old: 8) lydo: Nhặt từ map at 03/13/2023 1:06 AM
+BAG:taitrumgalaxy add 9xViên Capsule kì bí (old: 8) lydo: Nhặt từ map at 03/13/2023 1:07 AM
+BAG:taitrumgalaxy add 10xViên Capsule kì bí (old: 9) lydo: Nhặt từ map at 03/13/2023 1:07 AM
+BAG:taitrumgalaxy add 10xHoa hồng vàng (old: 9) lydo: Nhặt từ map at 03/13/2023 1:07 AM
+BAG:taitrumgalaxy add 11xHoa hồng vàng (old: 10) lydo: Nhặt từ map at 03/13/2023 1:07 AM
+BAG:taitrumgalaxy add 11xViên Capsule kì bí (old: 10) lydo: Nhặt từ map at 03/13/2023 1:07 AM
+BAG:taitrumgalaxy add 12xViên Capsule kì bí (old: 11) lydo: Nhặt từ map at 03/13/2023 1:07 AM
+BAG:taitrumgalaxy add 12xHoa hồng vàng (old: 11) lydo: Nhặt từ map at 03/13/2023 1:07 AM
+BAG:taitrumgalaxy add 13xViên Capsule kì bí (old: 12) lydo: Nhặt từ map at 03/13/2023 1:07 AM
+BAG:taitrumgalaxy add 14xViên Capsule kì bí (old: 13) lydo: Nhặt từ map at 03/13/2023 1:07 AM
+BAG:taitrumgalaxy add 13xHoa hồng vàng (old: 12) lydo: Nhặt từ map at 03/13/2023 1:07 AM
+BAG:taitrumgalaxy add 15xViên Capsule kì bí (old: 14) lydo: Nhặt từ map at 03/13/2023 1:07 AM
+BAG:taitrumgalaxy add 14xHoa hồng vàng (old: 13) lydo: Nhặt từ map at 03/13/2023 1:07 AM
+BAG:taitrumgalaxy add 16xViên Capsule kì bí (old: 15) lydo: Nhặt từ map at 03/13/2023 1:08 AM
+BAG:taitrumgalaxy add 17xViên Capsule kì bí (old: 16) lydo: Nhặt từ map at 03/13/2023 1:08 AM
+BAG:taitrumgalaxy add 15xHoa hồng vàng (old: 14) lydo: Nhặt từ map at 03/13/2023 1:08 AM
+BAG:taitrumgalaxy add 16xHoa hồng vàng (old: 15) lydo: Nhặt từ map at 03/13/2023 1:08 AM
+BAG:taitrumgalaxy add 18xViên Capsule kì bí (old: 17) lydo: Nhặt từ map at 03/13/2023 1:08 AM
+BAG:taitrumgalaxy add 17xHoa hồng vàng (old: 16) lydo: Nhặt từ map at 03/13/2023 1:08 AM
+BAG:taitrumgalaxy add 79xNgọc Rồng 4 sao (old: 78) lydo: Nhặt từ map at 03/13/2023 1:08 AM
+BAG:taitrumgalaxy add 18xHoa hồng vàng (old: 17) lydo: Nhặt từ map at 03/13/2023 1:08 AM
+BAG:taitrumgalaxy add 19xViên Capsule kì bí (old: 18) lydo: Nhặt từ map at 03/13/2023 1:08 AM
+BAG:taitrumgalaxy add 20xViên Capsule kì bí (old: 19) lydo: Nhặt từ map at 03/13/2023 1:09 AM
+BAG:taitrumgalaxy add 19xHoa hồng vàng (old: 18) lydo: Nhặt từ map at 03/13/2023 1:09 AM
+BAG:taitrumgalaxy add 20xHoa hồng vàng (old: 19) lydo: Nhặt từ map at 03/13/2023 1:09 AM
+BAG:taitrumgalaxy add 21xHoa hồng vàng (old: 20) lydo: Nhặt từ map at 03/13/2023 1:09 AM
+BAG:taitrumgalaxy add 22xHoa hồng vàng (old: 21) lydo: Nhặt từ map at 03/13/2023 1:09 AM
+BAG:taitrumgalaxy add 23xHoa hồng vàng (old: 22) lydo: Nhặt từ map at 03/13/2023 1:10 AM
+BAG:taitrumgalaxy add 24xHoa hồng vàng (old: 23) lydo: Nhặt từ map at 03/13/2023 1:10 AM
+BAG:taitrumgalaxy add 25xHoa hồng vàng (old: 24) lydo: Nhặt từ map at 03/13/2023 1:10 AM
+BAG:taitrumgalaxy add 80xNgọc Rồng 4 sao (old: 79) lydo: Nhặt từ map at 03/13/2023 1:10 AM
+BAG:taitrumgalaxy add 26xHoa hồng vàng (old: 25) lydo: Nhặt từ map at 03/13/2023 1:10 AM
+BAG:taitrumgalaxy add 27xHoa hồng vàng (old: 26) lydo: Nhặt từ map at 03/13/2023 1:11 AM
+BAG:taitrumgalaxy add 28xHoa hồng vàng (old: 27) lydo: Nhặt từ map at 03/13/2023 1:11 AM
+BAG:taitrumgalaxy add 29xHoa hồng vàng (old: 28) lydo: Nhặt từ map at 03/13/2023 1:11 AM
+BAG:taitrumgalaxy add 30xHoa hồng vàng (old: 29) lydo: Nhặt từ map at 03/13/2023 1:11 AM
+BAG:taitrumgalaxy add 1xGiáp tập luyện cấp 3 lydo: Lấy từ body vào hành trang at 03/13/2023 1:12 AM
+BAG:taitrumgalaxy add 1xGiáp tập luyện cấp 3 lydo: Lấy từ body vào hành trang at 03/13/2023 1:33 AM
+BAG:taitrumgalaxy add 1xTự động luyện tập lydo: Mua TDTL từ cửa hàng at 03/13/2023 1:35 AM
+BAG:taitrumgalaxy add 18xẨn danh (old: 17) lydo: CSKB at 03/13/2023 1:36 AM
+BAG:taitrumgalaxy add 19xẨn danh (old: 18) lydo: CSKB at 03/13/2023 1:36 AM
+BAG:taitrumgalaxy add 20xẨn danh (old: 19) lydo: CSKB at 03/13/2023 1:36 AM
+BAG:taitrumgalaxy add 1xGiáp tập luyện cấp 3 lydo: Lấy từ body vào hành trang at 03/13/2023 1:37 AM
+BAG:taitrumgalaxy add 1xGiáp tập luyện cấp 3 lydo: Lấy từ body vào hành trang at 03/13/2023 1:48 AM
+BAG:taitrumgalaxy add 1xGiáp tập luyện cấp 3 lydo: Lấy từ body vào hành trang at 03/13/2023 2:17 AM
+BAG:taitrumgalaxy add 1xHoa hồng xanh lydo: Nhặt từ map at 03/13/2023 2:19 AM
+BAG:taitrumgalaxy add 2xViên Capsule kì bí (old: 1) lydo: Nhặt từ map at 03/13/2023 2:19 AM
+BAG:taitrumgalaxy add 3xViên Capsule kì bí (old: 2) lydo: Nhặt từ map at 03/13/2023 2:19 AM
+BAG:taitrumgalaxy add 4xViên Capsule kì bí (old: 3) lydo: Nhặt từ map at 03/13/2023 2:19 AM
+BAG:taitrumgalaxy add 5xViên Capsule kì bí (old: 4) lydo: Nhặt từ map at 03/13/2023 2:19 AM
+BAG:taitrumgalaxy add 1xHoa hồng vàng lydo: Nhặt từ map at 03/13/2023 2:19 AM
+BAG:taitrumgalaxy add 1xHoa hồng đỏ lydo: Nhặt từ map at 03/13/2023 2:19 AM
+BAG:taitrumgalaxy add 6xViên Capsule kì bí (old: 5) lydo: Nhặt từ map at 03/13/2023 2:19 AM
+BAG:taitrumgalaxy add 2xHoa hồng đỏ (old: 1) lydo: Nhặt từ map at 03/13/2023 2:19 AM
+BAG:taitrumgalaxy add 7xViên Capsule kì bí (old: 6) lydo: Nhặt từ map at 03/13/2023 2:19 AM
+BAG:taitrumgalaxy add 2xHoa hồng vàng (old: 1) lydo: Nhặt từ map at 03/13/2023 2:20 AM
+BAG:taitrumgalaxy add 8xViên Capsule kì bí (old: 7) lydo: Nhặt từ map at 03/13/2023 2:20 AM
+BAG:taitrumgalaxy add 9xViên Capsule kì bí (old: 8) lydo: Nhặt từ map at 03/13/2023 2:20 AM
+BAG:taitrumgalaxy add 3xHoa hồng vàng (old: 2) lydo: Nhặt từ map at 03/13/2023 2:20 AM
+BAG:taitrumgalaxy add 4xHoa hồng vàng (old: 3) lydo: Nhặt từ map at 03/13/2023 2:20 AM
+BAG:taitrumgalaxy add 10xViên Capsule kì bí (old: 9) lydo: Nhặt từ map at 03/13/2023 2:20 AM
+BAG:taitrumgalaxy add 3xHoa hồng đỏ (old: 2) lydo: Nhặt từ map at 03/13/2023 2:20 AM
+BAG:taitrumgalaxy add 1xĐá Titan lydo: Nhặt từ map at 03/13/2023 2:20 AM
+BAG:taitrumgalaxy add 11xViên Capsule kì bí (old: 10) lydo: Nhặt từ map at 03/13/2023 2:20 AM
+BAG:taitrumgalaxy add 2xHoa hồng xanh (old: 1) lydo: Nhặt từ map at 03/13/2023 2:20 AM
+BAG:taitrumgalaxy add 4xHoa hồng đỏ (old: 3) lydo: Nhặt từ map at 03/13/2023 2:20 AM
+BAG:taitrumgalaxy add 12xViên Capsule kì bí (old: 11) lydo: Nhặt từ map at 03/13/2023 2:20 AM
+BAG:taitrumgalaxy add 5xHoa hồng vàng (old: 4) lydo: Nhặt từ map at 03/13/2023 2:21 AM
+BAG:taitrumgalaxy add 13xViên Capsule kì bí (old: 12) lydo: Nhặt từ map at 03/13/2023 2:21 AM
+BAG:taitrumgalaxy add 14xViên Capsule kì bí (old: 13) lydo: Nhặt từ map at 03/13/2023 2:21 AM
+BAG:taitrumgalaxy add 5xHoa hồng đỏ (old: 4) lydo: Nhặt từ map at 03/13/2023 2:21 AM
+BAG:taitrumgalaxy add 15xViên Capsule kì bí (old: 14) lydo: Nhặt từ map at 03/13/2023 2:21 AM
+BAG:taitrumgalaxy add 16xViên Capsule kì bí (old: 15) lydo: Nhặt từ map at 03/13/2023 2:21 AM
+BAG:taitrumgalaxy add 6xHoa hồng đỏ (old: 5) lydo: Nhặt từ map at 03/13/2023 2:21 AM
+BAG:taitrumgalaxy add 7xHoa hồng đỏ (old: 6) lydo: Nhặt từ map at 03/13/2023 2:21 AM
+BAG:taitrumgalaxy add 17xViên Capsule kì bí (old: 16) lydo: Nhặt từ map at 03/13/2023 2:21 AM
+BAG:taitrumgalaxy add 18xViên Capsule kì bí (old: 17) lydo: Nhặt từ map at 03/13/2023 2:21 AM
+BAG:taitrumgalaxy add 6xHoa hồng vàng (old: 5) lydo: Nhặt từ map at 03/13/2023 2:21 AM
+BAG:taitrumgalaxy add 3xHoa hồng xanh (old: 2) lydo: Nhặt từ map at 03/13/2023 2:21 AM
+BAG:taitrumgalaxy add 19xViên Capsule kì bí (old: 18) lydo: Nhặt từ map at 03/13/2023 2:21 AM
+BAG:taitrumgalaxy add 7xHoa hồng vàng (old: 6) lydo: Nhặt từ map at 03/13/2023 2:21 AM
+BAG:taitrumgalaxy add 8xHoa hồng vàng (old: 7) lydo: Nhặt từ map at 03/13/2023 2:21 AM
+BAG:taitrumgalaxy add 4xHoa hồng xanh (old: 3) lydo: Nhặt từ map at 03/13/2023 2:21 AM
+BAG:taitrumgalaxy add 81xNgọc Rồng 4 sao (old: 80) lydo: Nhặt từ map at 03/13/2023 2:21 AM
+BAG:taitrumgalaxy add 8xHoa hồng đỏ (old: 7) lydo: Nhặt từ map at 03/13/2023 2:21 AM
+BAG:taitrumgalaxy add 5xHoa hồng xanh (old: 4) lydo: Nhặt từ map at 03/13/2023 2:21 AM
+BAG:taitrumgalaxy add 20xViên Capsule kì bí (old: 19) lydo: Nhặt từ map at 03/13/2023 2:21 AM
+BAG:taitrumgalaxy add 6xHoa hồng xanh (old: 5) lydo: Nhặt từ map at 03/13/2023 2:21 AM
+BAG:taitrumgalaxy add 21xViên Capsule kì bí (old: 20) lydo: Nhặt từ map at 03/13/2023 2:22 AM
+BAG:taitrumgalaxy add 9xHoa hồng đỏ (old: 8) lydo: Nhặt từ map at 03/13/2023 2:22 AM
+BAG:taitrumgalaxy add 7xHoa hồng xanh (old: 6) lydo: Nhặt từ map at 03/13/2023 2:22 AM
+BAG:taitrumgalaxy add 9xHoa hồng vàng (old: 8) lydo: Nhặt từ map at 03/13/2023 2:22 AM
+BAG:taitrumgalaxy add 10xHoa hồng đỏ (old: 9) lydo: Nhặt từ map at 03/13/2023 2:22 AM
+BAG:taitrumgalaxy add 22xViên Capsule kì bí (old: 21) lydo: Nhặt từ map at 03/13/2023 2:22 AM
+BAG:taitrumgalaxy add 23xViên Capsule kì bí (old: 22) lydo: Nhặt từ map at 03/13/2023 2:22 AM
+BAG:taitrumgalaxy add 8xHoa hồng xanh (old: 7) lydo: Nhặt từ map at 03/13/2023 2:22 AM
+BAG:taitrumgalaxy add 24xViên Capsule kì bí (old: 23) lydo: Nhặt từ map at 03/13/2023 2:22 AM
+BAG:taitrumgalaxy add 2xĐá Titan (old: 1) lydo: Nhặt từ map at 03/13/2023 2:22 AM
+BAG:taitrumgalaxy add 11xHoa hồng đỏ (old: 10) lydo: Nhặt từ map at 03/13/2023 2:22 AM
+BAG:taitrumgalaxy add 25xViên Capsule kì bí (old: 24) lydo: Nhặt từ map at 03/13/2023 2:22 AM
+BAG:taitrumgalaxy add 10xHoa hồng vàng (old: 9) lydo: Nhặt từ map at 03/13/2023 2:22 AM
+BAG:taitrumgalaxy add 26xViên Capsule kì bí (old: 25) lydo: Nhặt từ map at 03/13/2023 2:22 AM
+BAG:taitrumgalaxy add 9xHoa hồng xanh (old: 8) lydo: Nhặt từ map at 03/13/2023 2:22 AM
+BAG:taitrumgalaxy add 12xHoa hồng đỏ (old: 11) lydo: Nhặt từ map at 03/13/2023 2:23 AM
+BAG:taitrumgalaxy add 27xViên Capsule kì bí (old: 26) lydo: Nhặt từ map at 03/13/2023 2:23 AM
+BAG:taitrumgalaxy add 28xViên Capsule kì bí (old: 27) lydo: Nhặt từ map at 03/13/2023 2:23 AM
+BAG:taitrumgalaxy add 11xHoa hồng vàng (old: 10) lydo: Nhặt từ map at 03/13/2023 2:23 AM
+BAG:taitrumgalaxy add 12xHoa hồng vàng (old: 11) lydo: Nhặt từ map at 03/13/2023 2:23 AM
+BAG:taitrumgalaxy add 29xViên Capsule kì bí (old: 28) lydo: Nhặt từ map at 03/13/2023 2:23 AM
+BAG:taitrumgalaxy add 10xHoa hồng xanh (old: 9) lydo: Nhặt từ map at 03/13/2023 2:23 AM
+BAG:taitrumgalaxy add 13xHoa hồng đỏ (old: 12) lydo: Nhặt từ map at 03/13/2023 2:23 AM
+BAG:taitrumgalaxy add 30xViên Capsule kì bí (old: 29) lydo: Nhặt từ map at 03/13/2023 2:23 AM
+BAG:taitrumgalaxy add 11xHoa hồng xanh (old: 10) lydo: Nhặt từ map at 03/13/2023 2:23 AM
+BAG:taitrumgalaxy add 12xHoa hồng xanh (old: 11) lydo: Nhặt từ map at 03/13/2023 2:23 AM
+BAG:taitrumgalaxy add 31xViên Capsule kì bí (old: 30) lydo: Nhặt từ map at 03/13/2023 2:23 AM
+BAG:taitrumgalaxy add 32xViên Capsule kì bí (old: 31) lydo: Nhặt từ map at 03/13/2023 2:23 AM
+BAG:taitrumgalaxy add 14xHoa hồng đỏ (old: 13) lydo: Nhặt từ map at 03/13/2023 2:23 AM
+BAG:taitrumgalaxy add 13xHoa hồng xanh (old: 12) lydo: Nhặt từ map at 03/13/2023 2:23 AM
+BAG:taitrumgalaxy add 33xViên Capsule kì bí (old: 32) lydo: Nhặt từ map at 03/13/2023 2:24 AM
+BAG:taitrumgalaxy add 15xHoa hồng đỏ (old: 14) lydo: Nhặt từ map at 03/13/2023 2:24 AM
+BAG:taitrumgalaxy add 34xViên Capsule kì bí (old: 33) lydo: Nhặt từ map at 03/13/2023 2:24 AM
+BAG:taitrumgalaxy add 16xHoa hồng đỏ (old: 15) lydo: Nhặt từ map at 03/13/2023 2:24 AM
+BAG:taitrumgalaxy add 17xHoa hồng đỏ (old: 16) lydo: Nhặt từ map at 03/13/2023 2:24 AM
+BAG:taitrumgalaxy add 1xGiáp tập luyện cấp 3 lydo: Lấy từ body vào hành trang at 03/13/2023 2:25 AM
+BAG:taitrumgalaxy add 1xẨn danh lydo: CSKB at 03/13/2023 2:27 AM
+BAG:taitrumgalaxy add 2xẨn danh (old: 1) lydo: CSKB at 03/13/2023 2:27 AM
+BAG:taitrumgalaxy add 1xCuồng nộ lydo: CSKB at 03/13/2023 2:27 AM
+BAG:taitrumgalaxy add 5xBổ huyết (old: 4) lydo: CSKB at 03/13/2023 2:27 AM
+BAG:taitrumgalaxy add 3xẨn danh (old: 2) lydo: CSKB at 03/13/2023 2:27 AM
+BAG:taitrumgalaxy add 4xẨn danh (old: 3) lydo: CSKB at 03/13/2023 2:27 AM
+BAG:taitrumgalaxy add 1xBổ khí lydo: CSKB at 03/13/2023 2:27 AM
+BAG:taitrumgalaxy add 1xĐá Titan lydo: Nhặt từ map at 03/13/2023 2:27 AM
+BAG:taitrumgalaxy add 3xViên Capsule kì bí (old: 2) lydo: Nhặt từ map at 03/13/2023 2:27 AM
+BAG:taitrumgalaxy add 4xViên Capsule kì bí (old: 3) lydo: Nhặt từ map at 03/13/2023 2:27 AM
+BAG:taitrumgalaxy add 5xViên Capsule kì bí (old: 4) lydo: Nhặt từ map at 03/13/2023 2:27 AM
+BAG:taitrumgalaxy add 6xViên Capsule kì bí (old: 5) lydo: Nhặt từ map at 03/13/2023 2:27 AM
+BAG:taitrumgalaxy add 7xViên Capsule kì bí (old: 6) lydo: Nhặt từ map at 03/13/2023 2:27 AM
+BAG:taitrumgalaxy add 8xViên Capsule kì bí (old: 7) lydo: Nhặt từ map at 03/13/2023 2:28 AM
+BAG:taitrumgalaxy add 82xNgọc Rồng 4 sao (old: 81) lydo: Nhặt từ map at 03/13/2023 2:28 AM
+BAG:taitrumgalaxy add 9xViên Capsule kì bí (old: 8) lydo: Nhặt từ map at 03/13/2023 2:29 AM
+BAG:taitrumgalaxy add 10xViên Capsule kì bí (old: 9) lydo: Nhặt từ map at 03/13/2023 2:29 AM
+BAG:taitrumgalaxy add 11xViên Capsule kì bí (old: 10) lydo: Nhặt từ map at 03/13/2023 2:29 AM
+BAG:taitrumgalaxy add 2xCuồng nộ (old: 1) lydo: CSKB at 03/13/2023 2:30 AM
+BAG:taitrumgalaxy add 7xViên Capsule kì bí (old: 6) lydo: Nhặt từ map at 03/13/2023 2:30 AM
+BAG:taitrumgalaxy add 5xẨn danh (old: 4) lydo: CSKB at 03/13/2023 2:30 AM
+BAG:taitrumgalaxy add 6xẨn danh (old: 5) lydo: CSKB at 03/13/2023 2:30 AM
+BAG:taitrumgalaxy add 5xViên Capsule kì bí (old: 4) lydo: Nhặt từ map at 03/13/2023 2:30 AM
+BAG:taitrumgalaxy add 83xNgọc Rồng 4 sao (old: 82) lydo: Nhặt từ map at 03/13/2023 2:30 AM
+BAG:taitrumgalaxy add 6xViên Capsule kì bí (old: 5) lydo: Nhặt từ map at 03/13/2023 2:30 AM
+BAG:taitrumgalaxy add 7xViên Capsule kì bí (old: 6) lydo: Nhặt từ map at 03/13/2023 2:31 AM
+BAG:taitrumgalaxy add 8xViên Capsule kì bí (old: 7) lydo: Nhặt từ map at 03/13/2023 2:31 AM
+BAG:taitrumgalaxy add 9xViên Capsule kì bí (old: 8) lydo: Nhặt từ map at 03/13/2023 2:32 AM
+BAG:taitrumgalaxy add 84xNgọc Rồng 4 sao (old: 83) lydo: Nhặt từ map at 03/13/2023 2:32 AM
+BAG:taitrumgalaxy add 10xViên Capsule kì bí (old: 9) lydo: Nhặt từ map at 03/13/2023 2:32 AM
+BAG:taitrumgalaxy add 11xViên Capsule kì bí (old: 10) lydo: Nhặt từ map at 03/13/2023 2:32 AM
+BAG:taitrumgalaxy add 12xViên Capsule kì bí (old: 11) lydo: Nhặt từ map at 03/13/2023 2:32 AM
+BAG:taitrumgalaxy add 13xViên Capsule kì bí (old: 12) lydo: Nhặt từ map at 03/13/2023 2:33 AM
+BAG:taitrumgalaxy add 2xBổ khí (old: 1) lydo: CSKB at 03/13/2023 2:33 AM
+BAG:taitrumgalaxy add 3xCuồng nộ (old: 2) lydo: CSKB at 03/13/2023 2:33 AM
+BAG:taitrumgalaxy add 4xCuồng nộ (old: 3) lydo: CSKB at 03/13/2023 2:34 AM
+BAG:taitrumgalaxy add 3xViên Capsule kì bí (old: 2) lydo: Nhặt từ map at 03/13/2023 2:34 AM
+BAG:taitrumgalaxy add 4xViên Capsule kì bí (old: 3) lydo: Nhặt từ map at 03/13/2023 2:34 AM
+BAG:taitrumgalaxy add 5xViên Capsule kì bí (old: 4) lydo: Nhặt từ map at 03/13/2023 2:34 AM
+BAG:taitrumgalaxy add 6xViên Capsule kì bí (old: 5) lydo: Nhặt từ map at 03/13/2023 2:34 AM
+BAG:taitrumgalaxy add 7xViên Capsule kì bí (old: 6) lydo: Nhặt từ map at 03/13/2023 2:34 AM
+BAG:taitrumgalaxy add 8xViên Capsule kì bí (old: 7) lydo: Nhặt từ map at 03/13/2023 2:35 AM
+BAG:taitrumgalaxy add 9xViên Capsule kì bí (old: 8) lydo: Nhặt từ map at 03/13/2023 2:35 AM
+BAG:taitrumgalaxy add 10xViên Capsule kì bí (old: 9) lydo: Nhặt từ map at 03/13/2023 2:35 AM
+BAG:taitrumgalaxy add 11xViên Capsule kì bí (old: 10) lydo: Nhặt từ map at 03/13/2023 2:36 AM
+BAG:taitrumgalaxy add 5xCuồng nộ (old: 4) lydo: CSKB at 03/13/2023 2:36 AM
+BAG:taitrumgalaxy add 3xBổ khí (old: 2) lydo: CSKB at 03/13/2023 2:36 AM
+BAG:taitrumgalaxy add 5xViên Capsule kì bí (old: 4) lydo: Nhặt từ map at 03/13/2023 2:36 AM
+BAG:taitrumgalaxy add 3xViên Capsule kì bí (old: 2) lydo: Nhặt từ map at 03/13/2023 2:36 AM
+BAG:taitrumgalaxy add 4xViên Capsule kì bí (old: 3) lydo: Nhặt từ map at 03/13/2023 2:36 AM
+BAG:taitrumgalaxy add 5xViên Capsule kì bí (old: 4) lydo: Nhặt từ map at 03/13/2023 2:37 AM
+BAG:taitrumgalaxy add 6xViên Capsule kì bí (old: 5) lydo: Nhặt từ map at 03/13/2023 2:37 AM
+BAG:taitrumgalaxy add 7xViên Capsule kì bí (old: 6) lydo: Nhặt từ map at 03/13/2023 2:37 AM
+BAG:taitrumgalaxy add 8xViên Capsule kì bí (old: 7) lydo: Nhặt từ map at 03/13/2023 2:37 AM
+BAG:taitrumgalaxy add 9xViên Capsule kì bí (old: 8) lydo: Nhặt từ map at 03/13/2023 2:37 AM
+BAG:taitrumgalaxy add 10xViên Capsule kì bí (old: 9) lydo: Nhặt từ map at 03/13/2023 2:37 AM
+BAG:taitrumgalaxy add 11xViên Capsule kì bí (old: 10) lydo: Nhặt từ map at 03/13/2023 2:38 AM
+BAG:taitrumgalaxy add 12xViên Capsule kì bí (old: 11) lydo: Nhặt từ map at 03/13/2023 2:38 AM
+BAG:taitrumgalaxy add 13xViên Capsule kì bí (old: 12) lydo: Nhặt từ map at 03/13/2023 2:38 AM
+BAG:taitrumgalaxy add 14xViên Capsule kì bí (old: 13) lydo: Nhặt từ map at 03/13/2023 2:39 AM
+BAG:taitrumgalaxy add 85xNgọc Rồng 4 sao (old: 84) lydo: Nhặt từ map at 03/13/2023 2:39 AM
+BAG:taitrumgalaxy add 15xViên Capsule kì bí (old: 14) lydo: Nhặt từ map at 03/13/2023 2:39 AM
+BAG:taitrumgalaxy add 86xNgọc Rồng 4 sao (old: 85) lydo: Nhặt từ map at 03/13/2023 2:39 AM
+BAG:taitrumgalaxy add 16xViên Capsule kì bí (old: 15) lydo: Nhặt từ map at 03/13/2023 2:39 AM
+BAG:taitrumgalaxy add 17xViên Capsule kì bí (old: 16) lydo: Nhặt từ map at 03/13/2023 2:39 AM
+BAG:taitrumgalaxy add 18xViên Capsule kì bí (old: 17) lydo: Nhặt từ map at 03/13/2023 2:39 AM
+BAG:taitrumgalaxy add 19xViên Capsule kì bí (old: 18) lydo: Nhặt từ map at 03/13/2023 2:39 AM
+BAG:taitrumgalaxy add 20xViên Capsule kì bí (old: 19) lydo: Nhặt từ map at 03/13/2023 2:40 AM
+BAG:taitrumgalaxy add 21xViên Capsule kì bí (old: 20) lydo: Nhặt từ map at 03/13/2023 2:40 AM
+BAG:taitrumgalaxy add 22xViên Capsule kì bí (old: 21) lydo: Nhặt từ map at 03/13/2023 2:40 AM
+BAG:taitrumgalaxy add 23xViên Capsule kì bí (old: 22) lydo: Nhặt từ map at 03/13/2023 2:40 AM
+BAG:taitrumgalaxy add 24xViên Capsule kì bí (old: 23) lydo: Nhặt từ map at 03/13/2023 2:40 AM
+BAG:taitrumgalaxy add 25xViên Capsule kì bí (old: 24) lydo: Nhặt từ map at 03/13/2023 2:40 AM
+BAG:taitrumgalaxy add 26xViên Capsule kì bí (old: 25) lydo: Nhặt từ map at 03/13/2023 2:40 AM
+BAG:taitrumgalaxy add 27xViên Capsule kì bí (old: 26) lydo: Nhặt từ map at 03/13/2023 2:41 AM
+BAG:taitrumgalaxy add 28xViên Capsule kì bí (old: 27) lydo: Nhặt từ map at 03/13/2023 2:41 AM
+BAG:taitrumgalaxy add 4xBổ khí (old: 3) lydo: CSKB at 03/13/2023 2:41 AM
+BAG:taitrumgalaxy add 7xẨn danh (old: 6) lydo: CSKB at 03/13/2023 2:41 AM
+BAG:taitrumgalaxy add 4xViên Capsule kì bí (old: 3) lydo: Nhặt từ map at 03/13/2023 2:41 AM

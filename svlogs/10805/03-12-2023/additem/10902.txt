@@ -1,0 +1,128 @@
+BAG:poloooo add 5xĐậu thần cấp 10 (old: 4) lydo: Clan cho đậu at 03/12/2023 6:47 AM
+BAG:poloooo add 6xĐậu thần cấp 10 (old: 5) lydo: Clan cho đậu at 03/12/2023 6:47 AM
+BAG:poloooo add 7xĐậu thần cấp 10 (old: 6) lydo: Clan cho đậu at 03/12/2023 6:47 AM
+BAG:poloooo add 8xĐậu thần cấp 10 (old: 7) lydo: Clan cho đậu at 03/12/2023 6:47 AM
+BAG:poloooo add 9xĐậu thần cấp 10 (old: 8) lydo: Clan cho đậu at 03/12/2023 6:47 AM
+BAG:poloooo add 1xÁo vàng Zealot lydo: Lấy từ body vào hành trang at 03/12/2023 7:00 AM
+BAG:poloooo add 1xQuần vàng Zealot lydo: Lấy từ body vào hành trang at 03/12/2023 7:00 AM
+BAG:poloooo add 1xGiày vàng Zealot lydo: Lấy từ body vào hành trang at 03/12/2023 7:00 AM
+BAG:poloooo add 1xGăng vàng Zealot lydo: Lấy từ body vào hành trang at 03/12/2023 7:23 AM
+BAG:poloooo add 1xRada cấp 11 lydo: Lấy từ body vào hành trang at 03/12/2023 7:23 AM
+BAG:poloooo add 270xHoa hồng đỏ (old: 269) lydo: Nhặt từ map at 03/12/2023 7:30 AM
+BAG:poloooo add 1xÁo sợi len lydo: Lấy từ body vào hành trang at 03/12/2023 7:31 AM
+BAG:poloooo add 1xRada cấp 1 lydo: Lấy từ body vào hành trang at 03/12/2023 7:34 AM
+BAG:poloooo add 1xGiầy sợi len lydo: Lấy từ body vào hành trang at 03/12/2023 7:34 AM
+BAG:poloooo add 1xGăng sợi len lydo: Lấy từ body vào hành trang at 03/12/2023 7:34 AM
+BAG:poloooo add 2xĐá thạch anh tím (old: 1) lydo: Nhặt từ map at 03/12/2023 3:26 PM
+BAG:poloooo add 1xĐá Ruby lydo: Nhặt từ map at 03/12/2023 3:26 PM
+BAG:poloooo add 271xHoa hồng đỏ (old: 270) lydo: Nhặt từ map at 03/12/2023 3:26 PM
+BAG:poloooo add 2xĐá Ruby (old: 1) lydo: Nhặt từ map at 03/12/2023 3:27 PM
+BAG:poloooo add 272xHoa hồng đỏ (old: 271) lydo: Nhặt từ map at 03/12/2023 3:27 PM
+BAG:poloooo add 1xNgọc Rồng 5 sao lydo: Nhặt từ map at 03/12/2023 3:27 PM
+BAG:poloooo add 359xHoa hồng vàng (old: 358) lydo: Nhặt từ map at 03/12/2023 3:27 PM
+BAG:poloooo add 273xHoa hồng đỏ (old: 272) lydo: Nhặt từ map at 03/12/2023 3:27 PM
+BAG:poloooo add 3xĐá Ruby (old: 2) lydo: Nhặt từ map at 03/12/2023 3:27 PM
+BAG:poloooo add 2xĐá lục bảo (old: 1) lydo: Nhặt từ map at 03/12/2023 3:28 PM
+BAG:poloooo add 256xHoa hồng xanh (old: 255) lydo: Nhặt từ map at 03/12/2023 3:28 PM
+BAG:poloooo add 257xHoa hồng xanh (old: 256) lydo: Nhặt từ map at 03/12/2023 3:28 PM
+BAG:poloooo add 360xHoa hồng vàng (old: 359) lydo: Nhặt từ map at 03/12/2023 3:28 PM
+BAG:poloooo add 274xHoa hồng đỏ (old: 273) lydo: Nhặt từ map at 03/12/2023 3:28 PM
+BAG:poloooo add 361xHoa hồng vàng (old: 360) lydo: Nhặt từ map at 03/12/2023 3:28 PM
+BAG:poloooo add 275xHoa hồng đỏ (old: 274) lydo: Nhặt từ map at 03/12/2023 3:29 PM
+BAG:poloooo add 1xNgọc Rồng 4 sao lydo: Nhặt từ map at 03/12/2023 3:29 PM
+BAG:poloooo add 258xHoa hồng xanh (old: 257) lydo: Nhặt từ map at 03/12/2023 3:29 PM
+BAG:poloooo add 3xĐá lục bảo (old: 2) lydo: Nhặt từ map at 03/12/2023 3:30 PM
+BAG:poloooo add 362xHoa hồng vàng (old: 361) lydo: Nhặt từ map at 03/12/2023 3:30 PM
+BAG:poloooo add 276xHoa hồng đỏ (old: 275) lydo: Nhặt từ map at 03/12/2023 3:30 PM
+BAG:poloooo add 363xHoa hồng vàng (old: 362) lydo: Nhặt từ map at 03/12/2023 3:30 PM
+BAG:poloooo add 364xHoa hồng vàng (old: 363) lydo: Nhặt từ map at 03/12/2023 3:30 PM
+BAG:poloooo add 3xĐá thạch anh tím (old: 2) lydo: Nhặt từ map at 03/12/2023 3:31 PM
+BAG:poloooo add 259xHoa hồng xanh (old: 258) lydo: Nhặt từ map at 03/12/2023 3:31 PM
+BAG:poloooo add 277xHoa hồng đỏ (old: 276) lydo: Nhặt từ map at 03/12/2023 3:31 PM
+BAG:poloooo add 1xĐá Titan lydo: Nhặt từ map at 03/12/2023 3:32 PM
+BAG:poloooo add 278xHoa hồng đỏ (old: 277) lydo: Nhặt từ map at 03/12/2023 3:32 PM
+BAG:poloooo add 1xNgọc Rồng 6 sao lydo: Nhặt từ map at 03/12/2023 3:32 PM
+BAG:poloooo add 260xHoa hồng xanh (old: 259) lydo: Nhặt từ map at 03/12/2023 3:32 PM
+BAG:poloooo add 279xHoa hồng đỏ (old: 278) lydo: Nhặt từ map at 03/12/2023 3:32 PM
+BAG:poloooo add 4xĐá lục bảo (old: 3) lydo: Nhặt từ map at 03/12/2023 3:33 PM
+BAG:poloooo add 1xGiáp tập luyện cấp 3 lydo: Lấy từ body vào hành trang at 03/12/2023 3:33 PM
+BAG:poloooo add 261xHoa hồng xanh (old: 260) lydo: Nhặt từ map at 03/12/2023 3:33 PM
+BAG:poloooo add 280xHoa hồng đỏ (old: 279) lydo: Nhặt từ map at 03/12/2023 3:33 PM
+BAG:poloooo add 365xHoa hồng vàng (old: 364) lydo: Nhặt từ map at 03/12/2023 3:34 PM
+BAG:poloooo add 1xĐá Saphia lydo: Nhặt từ map at 03/12/2023 3:34 PM
+BAG:poloooo add 366xHoa hồng vàng (old: 365) lydo: Nhặt từ map at 03/12/2023 3:34 PM
+BAG:poloooo add 367xHoa hồng vàng (old: 366) lydo: Nhặt từ map at 03/12/2023 3:34 PM
+BAG:poloooo add 368xHoa hồng vàng (old: 367) lydo: Nhặt từ map at 03/12/2023 3:34 PM
+BAG:poloooo add 262xHoa hồng xanh (old: 261) lydo: Nhặt từ map at 03/12/2023 3:35 PM
+BAG:poloooo add 281xHoa hồng đỏ (old: 280) lydo: Nhặt từ map at 03/12/2023 3:35 PM
+BAG:poloooo add 282xHoa hồng đỏ (old: 281) lydo: Nhặt từ map at 03/12/2023 3:35 PM
+BAG:poloooo add 369xHoa hồng vàng (old: 368) lydo: Nhặt từ map at 03/12/2023 3:35 PM
+BAG:poloooo add 263xHoa hồng xanh (old: 262) lydo: Nhặt từ map at 03/12/2023 3:35 PM
+BAG:poloooo add 283xHoa hồng đỏ (old: 282) lydo: Nhặt từ map at 03/12/2023 3:35 PM
+BAG:poloooo add 1xGiáp tập luyện cấp 3 lydo: Lấy từ body vào hành trang at 03/12/2023 3:35 PM
+BAG:poloooo add 4xĐá Ruby (old: 3) lydo: Nhặt từ map at 03/12/2023 3:36 PM
+BAG:poloooo add 1xĐá Saphia lydo: Nhặt từ map at 03/12/2023 3:36 PM
+BAG:poloooo add 284xHoa hồng đỏ (old: 283) lydo: Nhặt từ map at 03/12/2023 3:36 PM
+BAG:poloooo add 264xHoa hồng xanh (old: 263) lydo: Nhặt từ map at 03/12/2023 3:36 PM
+BAG:poloooo add 285xHoa hồng đỏ (old: 284) lydo: Nhặt từ map at 03/12/2023 3:36 PM
+BAG:poloooo add 286xHoa hồng đỏ (old: 285) lydo: Nhặt từ map at 03/12/2023 3:37 PM
+BAG:poloooo add 265xHoa hồng xanh (old: 264) lydo: Nhặt từ map at 03/12/2023 3:37 PM
+BAG:poloooo add 287xHoa hồng đỏ (old: 286) lydo: Nhặt từ map at 03/12/2023 3:37 PM
+BAG:poloooo add 266xHoa hồng xanh (old: 265) lydo: Nhặt từ map at 03/12/2023 3:37 PM
+BAG:poloooo add 5xĐá Ruby (old: 4) lydo: Nhặt từ map at 03/12/2023 3:38 PM
+BAG:poloooo add 2xNgọc Rồng 4 sao (old: 1) lydo: Nhặt từ map at 03/12/2023 3:38 PM
+BAG:poloooo add 267xHoa hồng xanh (old: 266) lydo: Nhặt từ map at 03/12/2023 3:38 PM
+BAG:poloooo add 370xHoa hồng vàng (old: 369) lydo: Nhặt từ map at 03/12/2023 3:39 PM
+BAG:poloooo add 6xĐá Ruby (old: 5) lydo: Nhặt từ map at 03/12/2023 3:39 PM
+BAG:poloooo add 3xNgọc Rồng 4 sao (old: 2) lydo: Nhặt từ map at 03/12/2023 3:39 PM
+BAG:poloooo add 371xHoa hồng vàng (old: 370) lydo: Nhặt từ map at 03/12/2023 3:39 PM
+BAG:poloooo add 268xHoa hồng xanh (old: 267) lydo: Nhặt từ map at 03/12/2023 3:40 PM
+BAG:poloooo add 372xHoa hồng vàng (old: 371) lydo: Nhặt từ map at 03/12/2023 3:40 PM
+BAG:poloooo add 2xNgọc Rồng 5 sao (old: 1) lydo: Nhặt từ map at 03/12/2023 3:40 PM
+BAG:poloooo add 373xHoa hồng vàng (old: 372) lydo: Nhặt từ map at 03/12/2023 3:40 PM
+BAG:poloooo add 374xHoa hồng vàng (old: 373) lydo: Nhặt từ map at 03/12/2023 3:40 PM
+BAG:poloooo add 269xHoa hồng xanh (old: 268) lydo: Nhặt từ map at 03/12/2023 3:41 PM
+BAG:poloooo add 270xHoa hồng xanh (old: 269) lydo: Nhặt từ map at 03/12/2023 3:41 PM
+BAG:poloooo add 271xHoa hồng xanh (old: 270) lydo: Nhặt từ map at 03/12/2023 3:41 PM
+BAG:poloooo add 375xHoa hồng vàng (old: 374) lydo: Nhặt từ map at 03/12/2023 3:41 PM
+BAG:poloooo add 376xHoa hồng vàng (old: 375) lydo: Nhặt từ map at 03/12/2023 3:41 PM
+BAG:poloooo add 7xĐá Ruby (old: 6) lydo: Nhặt từ map at 03/12/2023 3:41 PM
+BAG:poloooo add 4xNgọc Rồng 4 sao (old: 3) lydo: Nhặt từ map at 03/12/2023 3:41 PM
+BAG:poloooo add 5xNgọc Rồng 4 sao (old: 4) lydo: Nhặt từ map at 03/12/2023 3:41 PM
+BAG:poloooo add 272xHoa hồng xanh (old: 271) lydo: Nhặt từ map at 03/12/2023 3:42 PM
+BAG:poloooo add 5xĐá lục bảo (old: 4) lydo: Nhặt từ map at 03/12/2023 3:42 PM
+BAG:poloooo add 377xHoa hồng vàng (old: 376) lydo: Nhặt từ map at 03/12/2023 3:42 PM
+BAG:poloooo add 288xHoa hồng đỏ (old: 287) lydo: Nhặt từ map at 03/12/2023 3:42 PM
+BAG:poloooo add 289xHoa hồng đỏ (old: 288) lydo: Nhặt từ map at 03/12/2023 3:43 PM
+BAG:poloooo add 6xNgọc Rồng 4 sao (old: 5) lydo: Nhặt từ map at 03/12/2023 3:43 PM
+BAG:poloooo add 4xĐá thạch anh tím (old: 3) lydo: Nhặt từ map at 03/12/2023 3:43 PM
+BAG:poloooo add 273xHoa hồng xanh (old: 272) lydo: Nhặt từ map at 03/12/2023 3:43 PM
+BAG:poloooo add 8xĐá Ruby (old: 7) lydo: Nhặt từ map at 03/12/2023 3:43 PM
+BAG:poloooo add 2xNgọc Rồng 6 sao (old: 1) lydo: Nhặt từ map at 03/12/2023 3:43 PM
+BAG:poloooo add 274xHoa hồng xanh (old: 273) lydo: Nhặt từ map at 03/12/2023 3:44 PM
+BAG:poloooo add 5xĐá thạch anh tím (old: 4) lydo: Nhặt từ map at 03/12/2023 3:44 PM
+BAG:poloooo add 290xHoa hồng đỏ (old: 289) lydo: Nhặt từ map at 03/12/2023 3:44 PM
+BAG:poloooo add 9xĐá Ruby (old: 8) lydo: Nhặt từ map at 03/12/2023 3:44 PM
+BAG:poloooo add 275xHoa hồng xanh (old: 274) lydo: Nhặt từ map at 03/12/2023 3:44 PM
+BAG:poloooo add 378xHoa hồng vàng (old: 377) lydo: Nhặt từ map at 03/12/2023 3:45 PM
+BAG:poloooo add 379xHoa hồng vàng (old: 378) lydo: Nhặt từ map at 03/12/2023 3:45 PM
+BAG:poloooo add 7xNgọc Rồng 4 sao (old: 6) lydo: Nhặt từ map at 03/12/2023 3:45 PM
+BAG:poloooo add 380xHoa hồng vàng (old: 379) lydo: Nhặt từ map at 03/12/2023 3:45 PM
+BAG:poloooo add 276xHoa hồng xanh (old: 275) lydo: Nhặt từ map at 03/12/2023 3:45 PM
+BAG:poloooo add 277xHoa hồng xanh (old: 276) lydo: Nhặt từ map at 03/12/2023 3:45 PM
+BAG:poloooo add 3xNgọc Rồng 5 sao (old: 2) lydo: Nhặt từ map at 03/12/2023 3:46 PM
+BAG:poloooo add 291xHoa hồng đỏ (old: 290) lydo: Nhặt từ map at 03/12/2023 3:46 PM
+BAG:poloooo add 6xĐá thạch anh tím (old: 5) lydo: Nhặt từ map at 03/12/2023 3:46 PM
+BAG:poloooo add 6xĐá lục bảo (old: 5) lydo: Nhặt từ map at 03/12/2023 3:47 PM
+BAG:poloooo add 2xĐá Saphia (old: 1) lydo: Nhặt từ map at 03/12/2023 3:47 PM
+BAG:poloooo add 278xHoa hồng xanh (old: 277) lydo: Nhặt từ map at 03/12/2023 3:47 PM
+BAG:poloooo add 381xHoa hồng vàng (old: 380) lydo: Nhặt từ map at 03/12/2023 3:48 PM
+BAG:poloooo add 382xHoa hồng vàng (old: 381) lydo: Nhặt từ map at 03/12/2023 3:48 PM
+BAG:poloooo add 279xHoa hồng xanh (old: 278) lydo: Nhặt từ map at 03/12/2023 3:48 PM
+BAG:poloooo add 383xHoa hồng vàng (old: 382) lydo: Nhặt từ map at 03/12/2023 3:48 PM
+BAG:poloooo add 280xHoa hồng xanh (old: 279) lydo: Nhặt từ map at 03/12/2023 3:48 PM
+BAG:poloooo add 3xNgọc Rồng 6 sao (old: 2) lydo: Nhặt từ map at 03/12/2023 3:48 PM
+BAG:poloooo add 8xNgọc Rồng 4 sao (old: 7) lydo: Nhặt từ map at 03/12/2023 3:48 PM
+BAG:poloooo add 384xHoa hồng vàng (old: 383) lydo: Nhặt từ map at 03/12/2023 3:48 PM
+BAG:poloooo add 385xHoa hồng vàng (old: 384) lydo: Nhặt từ map at 03/12/2023 3:49 PM
+BAG:poloooo add 292xHoa hồng đỏ (old: 291) lydo: Nhặt từ map at 03/12/2023 3:49 PM

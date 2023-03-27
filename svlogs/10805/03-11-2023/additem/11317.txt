@@ -1,0 +1,44 @@
+BAG:fancung add 1xBông tai Porata lydo: Mua từ cửa hàng at 03/11/2023 11:05 AM
+BAG:fancung add 1xGăng vải đen lydo: Lấy từ body vào hành trang at 03/11/2023 11:06 AM
+BAG:fancung add 1xGăng vải đen lydo: Lấy từ rương qua người at 03/11/2023 11:07 AM
+BAG:fancung add 1xÁo vải 3 lỗ lydo: Lấy từ rương qua người at 03/11/2023 11:07 AM
+BAG:fancung add 1xQuần vải đen lydo: Lấy từ rương qua người at 03/11/2023 11:07 AM
+BAG:fancung add 1xGiầy nhựa lydo: Lấy từ rương qua người at 03/11/2023 11:08 AM
+BAG:fancung add 1xGăng vải đen lydo: Lấy từ rương qua người at 03/11/2023 11:08 AM
+BAG:fancung add 1xRada cấp 1 lydo: Lấy từ rương qua người at 03/11/2023 11:08 AM
+BAG:fancung add 1xGăng vải đen lydo: Lấy từ body vào hành trang at 03/11/2023 11:13 AM
+BAG:fancung add 99xNgọc Rồng 3 sao lydo: Lấy từ rương qua người at 03/11/2023 11:17 AM
+BAG:fancung add 1xSách Kamejoko lv1 lydo: Mua từ cửa hàng at 03/11/2023 11:29 AM
+BAG:fancung add 1xSách Kamejoko lv2 lydo: Mua từ cửa hàng at 03/11/2023 11:29 AM
+BAG:fancung add 1xSách Kamejoko lv3 lydo: Mua từ cửa hàng at 03/11/2023 11:29 AM
+BAG:fancung add 1xSách Kamejoko lv4 lydo: Mua từ cửa hàng at 03/11/2023 11:29 AM
+BAG:fancung add 1xSách Kamejoko lv5 lydo: Mua từ cửa hàng at 03/11/2023 11:29 AM
+BAG:fancung add 1xSách Kamejoko lv6 lydo: Mua từ cửa hàng at 03/11/2023 11:29 AM
+BAG:fancung add 1xSách Kamejoko lv7 lydo: Mua từ cửa hàng at 03/11/2023 11:29 AM
+BAG:fancung add 1xHoa hồng xanh lydo: Nhặt từ map at 03/11/2023 11:29 AM
+BAG:fancung add 10xĐậu thần cấp 10 lydo: Thu hoạch đậu at 03/11/2023 11:30 AM
+BAG:fancung add 1xHoa hồng vàng lydo: Nhặt từ map at 03/11/2023 11:32 AM
+BAG:fancung add 10xĐậu thần cấp 10 (old: 6) lydo: Thu hoạch đậu at 03/11/2023 11:34 AM
+BAG:fancung add 1xHoa hồng đỏ lydo: Nhặt từ map at 03/11/2023 11:37 AM
+BAG:fancung add 1xHoa hồng xanh lydo: Nhặt từ map at 03/11/2023 11:41 AM
+BAG:fancung add 2xHoa hồng đỏ (old: 1) lydo: Nhặt từ map at 03/11/2023 11:41 AM
+BAG:fancung add 2xHoa hồng xanh (old: 1) lydo: Nhặt từ map at 03/11/2023 11:43 AM
+BAG:fancung add 1xHoa hồng vàng lydo: Nhặt từ map at 03/11/2023 11:45 AM
+BAG:fancung add 3xHoa hồng xanh (old: 2) lydo: Nhặt từ map at 03/11/2023 11:47 AM
+BAG:fancung add 2xHoa hồng vàng (old: 1) lydo: Nhặt từ map at 03/11/2023 11:49 AM
+BAG:fancung add 3xHoa hồng vàng (old: 2) lydo: Nhặt từ map at 03/11/2023 11:50 AM
+BAG:fancung add 4xHoa hồng xanh (old: 3) lydo: Nhặt từ map at 03/11/2023 11:51 AM
+BAG:fancung add 1xĐá Titan lydo: Nhặt từ map at 03/11/2023 11:52 AM
+BAG:fancung add 4xHoa hồng vàng (old: 3) lydo: Nhặt từ map at 03/11/2023 11:53 AM
+BAG:fancung add 3xHoa hồng đỏ (old: 2) lydo: Nhặt từ map at 03/11/2023 11:56 AM
+BAG:fancung add 5xHoa hồng vàng (old: 4) lydo: Nhặt từ map at 03/11/2023 11:58 AM
+BAG:fancung add 4xHoa hồng đỏ (old: 3) lydo: Nhặt từ map at 03/11/2023 11:59 AM
+BAG:fancung add 6xHoa hồng vàng (old: 5) lydo: Nhặt từ map at 03/11/2023 12:00 PM
+BAG:fancung add 5xHoa hồng đỏ (old: 4) lydo: Nhặt từ map at 03/11/2023 12:01 PM
+BAG:fancung add 7xHoa hồng vàng (old: 6) lydo: Nhặt từ map at 03/11/2023 12:03 PM
+BAG:fancung add 8xHoa hồng vàng (old: 7) lydo: Nhặt từ map at 03/11/2023 12:05 PM
+BAG:fancung add 9xHoa hồng vàng (old: 8) lydo: Nhặt từ map at 03/11/2023 12:07 PM
+BAG:fancung add 10xHoa hồng vàng (old: 9) lydo: Nhặt từ map at 03/11/2023 12:08 PM
+BAG:fancung add 11xHoa hồng vàng (old: 10) lydo: Nhặt từ map at 03/11/2023 12:09 PM
+BAG:fancung add 12xHoa hồng vàng (old: 11) lydo: Nhặt từ map at 03/11/2023 12:09 PM
+BAG:fancung add 13xHoa hồng vàng (old: 12) lydo: Nhặt từ map at 03/11/2023 12:10 PM

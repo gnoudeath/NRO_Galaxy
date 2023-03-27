@@ -1,0 +1,447 @@
+BAG:luakiasona remove Rada cấp 1 lydo: Cất vào rương at 03/12/2023 9:56 AM
+BAG:luakiasona remove Giầy vải thô lydo: Cất vào rương at 03/12/2023 9:57 AM
+BAG:luakiasona remove Áo vải thô lydo: Tự Xóa vật phẩm at 03/12/2023 9:57 AM
+BAG:luakiasona remove Rada cấp 1 lydo: Tự Xóa vật phẩm at 03/12/2023 9:57 AM
+BAG:luakiasona remove Áo vải thô lydo: Tự Xóa vật phẩm at 03/12/2023 9:57 AM
+BAG:luakiasona remove Áo vải thô lydo: Tự Xóa vật phẩm at 03/12/2023 9:57 AM
+BAG:luakiasona remove Quần vải thô lydo: Tự Xóa vật phẩm at 03/12/2023 9:57 AM
+BAG:luakiasona remove Mảnh Quỷ đất lydo: Tự Xóa vật phẩm at 03/12/2023 9:57 AM
+BAG:luakiasona remove Hoa hồng vàng lydo: Tự Xóa vật phẩm at 03/12/2023 9:57 AM
+BAG:luakiasona remove Rada cấp 1 lydo: Tự Xóa vật phẩm at 03/12/2023 9:58 AM
+BAG:luakiasona remove Áo vải thô lydo: Tự Xóa vật phẩm at 03/12/2023 9:58 AM
+BAG:luakiasona remove Rada cấp 1 lydo: Tự Xóa vật phẩm at 03/12/2023 9:59 AM
+BAG:luakiasona remove Áo vải thô lydo: Tự Xóa vật phẩm at 03/12/2023 9:59 AM
+BAG:luakiasona remove Đậu thần cấp 2 lydo: Tự Xóa vật phẩm at 03/12/2023 10:06 AM
+BAG:luakiasona remove Đá Titan lydo: Tự Xóa vật phẩm at 03/12/2023 10:06 AM
+BAG:luakiasona remove Đá Ruby lydo: Tự Xóa vật phẩm at 03/12/2023 10:06 AM
+BAG:luakiasona remove Đá Saphia lydo: Tự Xóa vật phẩm at 03/12/2023 10:06 AM
+BAG:luakiasona remove Hoa hồng vàng lydo: Tự Xóa vật phẩm at 03/12/2023 10:06 AM
+BAG:luakiasona remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/12/2023 10:06 AM
+BAG:luakiasona remove Quần vải thô lydo: Tự Xóa vật phẩm at 03/12/2023 10:07 AM
+BAG:luakiasona remove Rada cấp 1 lydo: Cất vào rương at 03/12/2023 10:08 AM
+BAG:luakiasona remove Áo vải thô lydo: Cất vào rương at 03/12/2023 10:08 AM
+BAG:luakiasona remove Giầy vải thô lydo: Cất vào rương at 03/12/2023 10:08 AM
+BAG:luakiasona remove Giầy vải thô lydo: Cất vào rương at 03/12/2023 10:08 AM
+BAG:luakiasona remove Rada cấp 1 lydo: Tự Xóa vật phẩm at 03/12/2023 10:10 AM
+BAG:luakiasona remove Rada cấp 1 lydo: Tự Xóa vật phẩm at 03/12/2023 10:10 AM
+BAG:luakiasona remove Găng vải thô lydo: Tự Xóa vật phẩm at 03/12/2023 10:10 AM
+BAG:luakiasona remove Găng vải thô lydo: Tự Xóa vật phẩm at 03/12/2023 10:10 AM
+BAG:luakiasona remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/12/2023 10:12 AM
+BAG:luakiasona remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/12/2023 10:13 AM
+BAG:luakiasona remove Áo vải thô lydo: Tự Xóa vật phẩm at 03/12/2023 10:13 AM
+BAG:luakiasona remove Quần vải thô lydo: Tự Xóa vật phẩm at 03/12/2023 10:13 AM
+BAG:luakiasona remove Găng vải thô lydo: Tự Xóa vật phẩm at 03/12/2023 10:13 AM
+BAG:luakiasona remove Quần vải thô lydo: Tự Xóa vật phẩm at 03/12/2023 10:13 AM
+BAG:luakiasona remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/12/2023 10:14 AM
+BAG:luakiasona remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/12/2023 10:17 AM
+BAG:luakiasona remove Áo vải thô lydo: Cất vào rương at 03/12/2023 10:19 AM
+BAG:luakiasona remove Giầy vải thô lydo: Cất vào rương at 03/12/2023 10:19 AM
+BAG:luakiasona remove Quần vải thô lydo: Cất vào rương at 03/12/2023 10:20 AM
+BAG:luakiasona remove Rada cấp 1 lydo: Cất vào rương at 03/12/2023 10:20 AM
+BAG:luakiasona remove Giầy vải thô lydo: Cất vào rương at 03/12/2023 10:21 AM
+BAG:luakiasona remove Rada cấp 1 lydo: Cất vào rương at 03/12/2023 10:21 AM
+BAG:luakiasona remove Quần vải thô lydo: Cất vào rương at 03/12/2023 10:21 AM
+BAG:luakiasona remove Áo vải thô lydo: Cất vào rương at 03/12/2023 10:21 AM
+BAG:luakiasona remove Giầy vải thô lydo: Tự Xóa vật phẩm at 03/12/2023 10:21 AM
+BAG:luakiasona remove Áo vải thô lydo: Tự Xóa vật phẩm at 03/12/2023 10:21 AM
+BAG:luakiasona remove Áo vải thô lydo: Tự Xóa vật phẩm at 03/12/2023 10:22 AM
+BAG:luakiasona remove Giầy vải thô lydo: Tự Xóa vật phẩm at 03/12/2023 10:22 AM
+BAG:luakiasona remove Quần vải thô lydo: Tự Xóa vật phẩm at 03/12/2023 10:22 AM
+BAG:luakiasona remove Rada cấp 1 lydo: Tự Xóa vật phẩm at 03/12/2023 10:25 AM
+BAG:luakiasona remove Áo vải thô lydo: Tự Xóa vật phẩm at 03/12/2023 10:25 AM
+BAG:luakiasona remove Rada cấp 1 lydo: Tự Xóa vật phẩm at 03/12/2023 10:26 AM
+BAG:luakiasona remove Áo vải thô lydo: Tự Xóa vật phẩm at 03/12/2023 10:26 AM
+BAG:luakiasona remove Găng vải thô lydo: Tự Xóa vật phẩm at 03/12/2023 10:26 AM
+BAG:luakiasona remove Quần vải thô lydo: Mặc vào người at 03/12/2023 10:26 AM
+BAG:luakiasona remove Áo vải thô lydo: Tự Xóa vật phẩm at 03/12/2023 10:26 AM
+BAG:luakiasona remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/12/2023 10:26 AM
+BAG:luakiasona remove Rada cấp 1 lydo: Tự Xóa vật phẩm at 03/12/2023 10:28 AM
+BAG:luakiasona remove Rada cấp 1 lydo: Tự Xóa vật phẩm at 03/12/2023 10:28 AM
+BAG:luakiasona remove Giầy vải thô lydo: Tự Xóa vật phẩm at 03/12/2023 10:28 AM
+BAG:luakiasona remove Áo vải thô lydo: Tự Xóa vật phẩm at 03/12/2023 10:28 AM
+BAG:luakiasona remove Quần vải thô lydo: Tự Xóa vật phẩm at 03/12/2023 10:28 AM
+BAG:luakiasona remove 1xÁo vải thô lydo: Bán cho shop at 03/12/2023 10:36 AM
+BAG:luakiasona remove 1xRada cấp 1 lydo: Bán cho shop at 03/12/2023 10:36 AM
+BAG:luakiasona remove 1xRada cấp 1 lydo: Bán cho shop at 03/12/2023 10:36 AM
+BAG:luakiasona remove Sách đấm Galick lv2 lydo: Sách kĩ năng at 03/12/2023 10:36 AM
+BAG:luakiasona remove Sách đấm Galick lv3 lydo: Sách kĩ năng at 03/12/2023 10:36 AM
+BAG:luakiasona remove Sách đấm Galick lv4 lydo: Sách kĩ năng at 03/12/2023 10:36 AM
+BAG:luakiasona remove Sách đấm Galick lv5 lydo: Sách kĩ năng at 03/12/2023 10:36 AM
+BAG:luakiasona remove Sách đấm Galick lv6 lydo: Sách kĩ năng at 03/12/2023 10:36 AM
+BAG:luakiasona remove Sách đấm Galick lv7 lydo: Sách kĩ năng at 03/12/2023 10:36 AM
+BAG:luakiasona remove Tái tạo năng lượng lv1 lydo: Sách kĩ năng at 03/12/2023 10:37 AM
+BAG:luakiasona remove Avatar lydo: Mặc vào người at 03/12/2023 10:37 AM
+BAG:luakiasona remove Tái tạo năng lượng lv2 lydo: Sách kĩ năng at 03/12/2023 10:37 AM
+BAG:luakiasona remove Tái tạo năng lượng lv3 lydo: Sách kĩ năng at 03/12/2023 10:37 AM
+BAG:luakiasona remove Tái tạo năng lượng lv4 lydo: Sách kĩ năng at 03/12/2023 10:37 AM
+BAG:luakiasona remove Tái tạo năng lượng lv5 lydo: Sách kĩ năng at 03/12/2023 10:37 AM
+BAG:luakiasona remove Tái tạo năng lượng lv6 lydo: Sách kĩ năng at 03/12/2023 10:37 AM
+BAG:luakiasona remove Tái tạo năng lượng lv7 lydo: Sách kĩ năng at 03/12/2023 10:37 AM
+BAG:luakiasona remove Găng vải thô lydo: Cất vào rương at 03/12/2023 10:38 AM
+BAG:luakiasona remove Găng vải thô lydo: Cất vào rương at 03/12/2023 10:38 AM
+BAG:luakiasona remove 50xThỏi vàng lydo: Mua đồ hủy diệt at 03/12/2023 10:39 AM
+BAG:luakiasona remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/12/2023 10:41 AM
+BAG:luakiasona remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/12/2023 10:41 AM
+BAG:luakiasona remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/12/2023 10:42 AM
+BAG:luakiasona remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/12/2023 10:42 AM
+BAG:luakiasona remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/12/2023 10:44 AM
+BAG:luakiasona remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/12/2023 10:45 AM
+BAG:luakiasona remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/12/2023 10:46 AM
+BAG:luakiasona remove Áo vải thô lydo: Tự Xóa vật phẩm at 03/12/2023 10:46 AM
+BAG:luakiasona remove Quần vải thô lydo: Tự Xóa vật phẩm at 03/12/2023 10:46 AM
+BAG:luakiasona remove Giầy vải thô lydo: Tự Xóa vật phẩm at 03/12/2023 10:46 AM
+BAG:luakiasona remove Giầy vải thô lydo: Tự Xóa vật phẩm at 03/12/2023 10:46 AM
+BAG:luakiasona remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/12/2023 10:46 AM
+BAG:luakiasona remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/12/2023 10:47 AM
+BAG:luakiasona remove Quần vải thô lydo: Tự Xóa vật phẩm at 03/12/2023 10:47 AM
+BAG:luakiasona remove Quần vải thô lydo: Tự Xóa vật phẩm at 03/12/2023 10:47 AM
+BAG:luakiasona remove Găng vải thô lydo: Tự Xóa vật phẩm at 03/12/2023 10:47 AM
+BAG:luakiasona remove Găng vải thô lydo: Tự Xóa vật phẩm at 03/12/2023 10:48 AM
+BAG:luakiasona remove Rada cấp 1 lydo: Tự Xóa vật phẩm at 03/12/2023 10:48 AM
+BAG:luakiasona remove Rada cấp 1 lydo: Tự Xóa vật phẩm at 03/12/2023 10:48 AM
+BAG:luakiasona remove Rada cấp 1 lydo: Tự Xóa vật phẩm at 03/12/2023 10:48 AM
+BAG:luakiasona remove Avatar lydo: Tự Xóa vật phẩm at 03/12/2023 10:48 AM
+BAG:luakiasona remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/12/2023 10:48 AM
+BAG:luakiasona remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/12/2023 10:48 AM
+BAG:luakiasona remove Quần vải thô lydo: Tự Xóa vật phẩm at 03/12/2023 10:50 AM
+BAG:luakiasona remove Áo vải thô lydo: Tự Xóa vật phẩm at 03/12/2023 10:50 AM
+BAG:luakiasona remove Găng vải thô lydo: Tự Xóa vật phẩm at 03/12/2023 10:50 AM
+BAG:luakiasona remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/12/2023 10:50 AM
+BAG:luakiasona remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/12/2023 10:50 AM
+BAG:luakiasona remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/12/2023 10:51 AM
+BAG:luakiasona remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/12/2023 10:51 AM
+BAG:luakiasona remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/12/2023 10:53 AM
+BAG:luakiasona remove 1xĐổi đệ tử lydo: Dùng đổi đệ tử at 03/12/2023 11:00 AM
+BAG:luakiasona remove 1xĐổi đệ tử lydo: Dùng đổi đệ tử at 03/12/2023 11:00 AM
+BAG:luakiasona remove 1xĐổi đệ tử lydo: Dùng đổi đệ tử at 03/12/2023 11:01 AM
+BAG:luakiasona remove 1xĐổi đệ tử lydo: Dùng đổi đệ tử at 03/12/2023 11:01 AM
+BAG:luakiasona remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/12/2023 11:22 AM
+BAG:luakiasona remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/12/2023 11:39 AM
+BAG:luakiasona remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/12/2023 11:56 AM
+BAG:luakiasona remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/12/2023 12:13 PM
+BAG:luakiasona remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/12/2023 12:29 PM
+BAG:luakiasona remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/12/2023 12:46 PM
+BAG:luakiasona remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/12/2023 1:03 PM
+BAG:luakiasona remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/12/2023 1:20 PM
+BAG:luakiasona remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/12/2023 1:37 PM
+BAG:luakiasona remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/12/2023 1:54 PM
+BAG:luakiasona remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/12/2023 2:10 PM
+BAG:luakiasona remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/12/2023 2:27 PM
+BAG:luakiasona remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/12/2023 2:44 PM
+BAG:luakiasona remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/12/2023 3:01 PM
+BAG:luakiasona remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/12/2023 3:18 PM
+BAG:luakiasona remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/12/2023 3:35 PM
+BAG:luakiasona remove 1xNâng cấp kỹ năng 1 đệ tử lydo: Dùng sách kĩ năng đệ tử at 03/12/2023 3:42 PM
+BAG:luakiasona remove 1xNâng cấp kỹ năng 1 đệ tử lydo: Dùng sách kĩ năng đệ tử at 03/12/2023 3:42 PM
+BAG:luakiasona remove 1xNâng cấp kỹ năng 1 đệ tử lydo: Dùng sách kĩ năng đệ tử at 03/12/2023 3:42 PM
+BAG:luakiasona remove 1xNâng cấp kỹ năng 1 đệ tử lydo: Dùng sách kĩ năng đệ tử at 03/12/2023 3:43 PM
+BAG:luakiasona remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/12/2023 3:58 PM
+BAG:luakiasona remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/12/2023 4:03 PM
+BAG:luakiasona remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/12/2023 4:06 PM
+BAG:luakiasona remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/12/2023 4:07 PM
+BAG:luakiasona remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/12/2023 4:10 PM
+BAG:luakiasona remove 3xMảnh Quỷ đất lydo: Bán cho shop at 03/12/2023 4:13 PM
+BAG:luakiasona remove 227xHoa hồng vàng lydo: Bán cho shop at 03/12/2023 4:26 PM
+BAG:luakiasona remove 167xHoa hồng xanh lydo: Bán cho shop at 03/12/2023 4:26 PM
+BAG:luakiasona remove 175xHoa hồng đỏ lydo: Bán cho shop at 03/12/2023 4:26 PM
+BAG:luakiasona remove 1xTái tạo năng lượng lv1 lydo: Bán cho shop at 03/12/2023 4:26 PM
+BAG:luakiasona remove 1xTái tạo năng lượng lv2 lydo: Bán cho shop at 03/12/2023 4:26 PM
+BAG:luakiasona remove 1xTái tạo năng lượng lv3 lydo: Bán cho shop at 03/12/2023 4:26 PM
+BAG:luakiasona remove 1xTái tạo năng lượng lv4 lydo: Bán cho shop at 03/12/2023 4:26 PM
+BAG:luakiasona remove 1xTái tạo năng lượng lv5 lydo: Bán cho shop at 03/12/2023 4:26 PM
+BAG:luakiasona remove 1xTái tạo năng lượng lv6 lydo: Bán cho shop at 03/12/2023 4:26 PM
+BAG:luakiasona remove 1xSách Antomic lv3 lydo: Bán cho shop at 03/12/2023 4:27 PM
+BAG:luakiasona remove 1xSách Antomic lv6 lydo: Bán cho shop at 03/12/2023 4:27 PM
+BAG:luakiasona remove Sách Antomic lv1 lydo: Sách kĩ năng at 03/12/2023 4:27 PM
+BAG:luakiasona remove Sách Antomic lv2 lydo: Sách kĩ năng at 03/12/2023 4:27 PM
+BAG:luakiasona remove Sách Antomic lv3 lydo: Sách kĩ năng at 03/12/2023 4:28 PM
+BAG:luakiasona remove Sách Antomic lv4 lydo: Sách kĩ năng at 03/12/2023 4:28 PM
+BAG:luakiasona remove Sách Antomic lv5 lydo: Sách kĩ năng at 03/12/2023 4:28 PM
+BAG:luakiasona remove Sách Antomic lv6 lydo: Sách kĩ năng at 03/12/2023 4:28 PM
+BAG:luakiasona remove Sách Antomic lv7 lydo: Sách kĩ năng at 03/12/2023 4:28 PM
+BAG:luakiasona remove Bom hi sinh lv1 lydo: Sách kĩ năng at 03/12/2023 4:28 PM
+BAG:luakiasona remove Bom hi sinh lv2 lydo: Sách kĩ năng at 03/12/2023 4:28 PM
+BAG:luakiasona remove Bom hi sinh lv3 lydo: Sách kĩ năng at 03/12/2023 4:28 PM
+BAG:luakiasona remove Bom hi sinh lv4 lydo: Sách kĩ năng at 03/12/2023 4:28 PM
+BAG:luakiasona remove Bom hi sinh lv5 lydo: Sách kĩ năng at 03/12/2023 4:28 PM
+BAG:luakiasona remove 1xBom hi sinh lv7 lydo: Bán cho shop at 03/12/2023 4:28 PM
+BAG:luakiasona remove Hóa khỉ khổng lồ lv1 lydo: Sách kĩ năng at 03/12/2023 4:28 PM
+BAG:luakiasona remove Hóa khỉ khổng lồ lv2 lydo: Sách kĩ năng at 03/12/2023 4:28 PM
+BAG:luakiasona remove Hóa khỉ khổng lồ lv3 lydo: Sách kĩ năng at 03/12/2023 4:28 PM
+BAG:luakiasona remove Hóa khỉ khổng lồ lv4 lydo: Sách kĩ năng at 03/12/2023 4:29 PM
+BAG:luakiasona remove Hóa khỉ khổng lồ lv5 lydo: Sách kĩ năng at 03/12/2023 4:29 PM
+BAG:luakiasona remove Hóa khỉ khổng lồ lv6 lydo: Sách kĩ năng at 03/12/2023 4:29 PM
+BAG:luakiasona remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/12/2023 4:38 PM
+BAG:luakiasona remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/12/2023 4:44 PM
+BAG:luakiasona remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/12/2023 4:45 PM
+BAG:luakiasona remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/12/2023 4:46 PM
+BAG:luakiasona remove Giáp tập luyện cấp 1 lydo: Mặc vào người at 03/12/2023 5:19 PM
+BAG:luakiasona remove 88xHoa hồng xanh lydo: Bán cho shop at 03/12/2023 5:49 PM
+BAG:luakiasona remove 89xHoa hồng đỏ lydo: Bán cho shop at 03/12/2023 5:49 PM
+BAG:luakiasona remove Khiên năng lượng lv1 lydo: Sách kĩ năng at 03/12/2023 6:35 PM
+BAG:luakiasona remove Khiên năng lượng lv2 lydo: Sách kĩ năng at 03/12/2023 6:35 PM
+BAG:luakiasona remove Khiên năng lượng lv3 lydo: Sách kĩ năng at 03/12/2023 6:35 PM
+BAG:luakiasona remove Khiên năng lượng lv4 lydo: Sách kĩ năng at 03/12/2023 6:35 PM
+BAG:luakiasona remove Khiên năng lượng lv5 lydo: Sách kĩ năng at 03/12/2023 6:35 PM
+BAG:luakiasona remove Khiên năng lượng lv6 lydo: Sách kĩ năng at 03/12/2023 6:35 PM
+BAG:luakiasona remove Khiên năng lượng lv7 lydo: Sách kĩ năng at 03/12/2023 6:35 PM
+BAG:luakiasona remove 1xSách Huýt Sáo lv1 lydo: Bán cho shop at 03/12/2023 6:35 PM
+BAG:luakiasona remove 1xSách Huýt Sáo lv2 lydo: Bán cho shop at 03/12/2023 6:35 PM
+BAG:luakiasona remove 1xSách Huýt Sáo lv1 lydo: Bán cho shop at 03/12/2023 6:36 PM
+BAG:luakiasona remove 1xSách Huýt Sáo lv3 lydo: Bán cho shop at 03/12/2023 6:36 PM
+BAG:luakiasona remove Hóa khỉ khổng lồ lv7 lydo: Sách kĩ năng at 03/12/2023 6:36 PM
+BAG:luakiasona remove Sách Huýt Sáo lv1 lydo: Sách kĩ năng at 03/12/2023 6:36 PM
+BAG:luakiasona remove Sách Huýt Sáo lv2 lydo: Sách kĩ năng at 03/12/2023 6:36 PM
+BAG:luakiasona remove Sách Huýt Sáo lv3 lydo: Sách kĩ năng at 03/12/2023 6:36 PM
+BAG:luakiasona remove Sách Huýt Sáo lv4 lydo: Sách kĩ năng at 03/12/2023 6:36 PM
+BAG:luakiasona remove Sách Huýt Sáo lv5 lydo: Sách kĩ năng at 03/12/2023 6:36 PM
+BAG:luakiasona remove Sách Huýt Sáo lv6 lydo: Sách kĩ năng at 03/12/2023 6:36 PM
+BAG:luakiasona remove Sách Huýt Sáo lv7 lydo: Sách kĩ năng at 03/12/2023 6:36 PM
+BAG:luakiasona remove Bom hi sinh lv6 lydo: Sách kĩ năng at 03/12/2023 6:37 PM
+BAG:luakiasona remove Bom hi sinh lv7 lydo: Sách kĩ năng at 03/12/2023 6:37 PM
+BAG:luakiasona remove Sách Trói lv1 lydo: Sách kĩ năng at 03/12/2023 6:38 PM
+BAG:luakiasona remove Sách Trói lv2 lydo: Sách kĩ năng at 03/12/2023 6:38 PM
+BAG:luakiasona remove Sách Trói lv3 lydo: Sách kĩ năng at 03/12/2023 6:38 PM
+BAG:luakiasona remove Sách Trói lv4 lydo: Sách kĩ năng at 03/12/2023 6:38 PM
+BAG:luakiasona remove Sách Trói lv5 lydo: Sách kĩ năng at 03/12/2023 6:38 PM
+BAG:luakiasona remove Sách Trói lv6 lydo: Sách kĩ năng at 03/12/2023 6:38 PM
+BAG:luakiasona remove Sách Trói lv7 lydo: Sách kĩ năng at 03/12/2023 6:38 PM
+BAG:luakiasona remove 1xĐổi đệ tử lydo: Dùng đổi đệ tử at 03/12/2023 6:58 PM
+BAG:luakiasona remove 1xĐổi đệ tử lydo: Dùng đổi đệ tử at 03/12/2023 6:58 PM
+BAG:luakiasona remove Giầy vải thô lydo: Mặc cho đệ tử at 03/12/2023 6:58 PM
+BAG:luakiasona remove 1xĐổi đệ tử lydo: Bán cho shop at 03/12/2023 6:58 PM
+BAG:luakiasona remove Găng vải thô lydo: Cất vào rương at 03/12/2023 6:59 PM
+BAG:luakiasona remove Giầy vải thô lydo: Mặc vào người at 03/12/2023 6:59 PM
+BAG:luakiasona remove Ngọc Rồng 5 sao lydo: Cất vào rương at 03/12/2023 6:59 PM
+BAG:luakiasona remove Ngọc Rồng 4 sao lydo: Cất vào rương at 03/12/2023 6:59 PM
+BAG:luakiasona remove Ngọc Rồng 6 sao lydo: Cất vào rương at 03/12/2023 6:59 PM
+BAG:luakiasona remove 50xThỏi vàng lydo: Mua đồ hủy diệt at 03/12/2023 7:00 PM
+BAG:luakiasona remove 1xThỏi vàng lydo: Bán cho shop at 03/12/2023 7:03 PM
+BAG:luakiasona remove 1xThỏi vàng lydo: Bán cho shop at 03/12/2023 7:03 PM
+BAG:luakiasona remove 1xThỏi vàng lydo: Bán cho shop at 03/12/2023 7:03 PM
+BAG:luakiasona remove 1xThỏi vàng lydo: Bán cho shop at 03/12/2023 7:04 PM
+BAG:luakiasona remove 1xThỏi vàng lydo: Bán cho shop at 03/12/2023 7:04 PM
+BAG:luakiasona remove 1xThỏi vàng lydo: Bán cho shop at 03/12/2023 7:04 PM
+BAG:luakiasona remove 1xThỏi vàng lydo: Bán cho shop at 03/12/2023 7:05 PM
+BAG:luakiasona remove 1xThỏi vàng lydo: Bán cho shop at 03/12/2023 7:06 PM
+BAG:luakiasona remove 1xThỏi vàng lydo: Bán cho shop at 03/12/2023 7:06 PM
+BAG:luakiasona remove 1xThỏi vàng lydo: Bán cho shop at 03/12/2023 7:07 PM
+BAG:luakiasona remove 1xThỏi vàng lydo: Bán cho shop at 03/12/2023 7:07 PM
+BAG:luakiasona remove 1xThỏi vàng lydo: Bán cho shop at 03/12/2023 7:07 PM
+BAG:luakiasona remove 1xThỏi vàng lydo: Bán cho shop at 03/12/2023 7:08 PM
+BAG:luakiasona remove 1xThỏi vàng lydo: Bán cho shop at 03/12/2023 7:08 PM
+BAG:luakiasona remove 1xThỏi vàng lydo: Bán cho shop at 03/12/2023 7:08 PM
+BAG:luakiasona remove 1xThỏi vàng lydo: Bán cho shop at 03/12/2023 7:09 PM
+BAG:luakiasona remove 1xThỏi vàng lydo: Bán cho shop at 03/12/2023 7:09 PM
+BAG:luakiasona remove 1xThỏi vàng lydo: Bán cho shop at 03/12/2023 7:09 PM
+BAG:luakiasona remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 03/12/2023 7:11 PM
+BAG:luakiasona remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 03/12/2023 7:11 PM
+BAG:luakiasona remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 03/12/2023 7:11 PM
+BAG:luakiasona remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 03/12/2023 7:12 PM
+BAG:luakiasona remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 03/12/2023 7:12 PM
+BAG:luakiasona remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 03/12/2023 7:12 PM
+BAG:luakiasona remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 03/12/2023 7:12 PM
+BAG:luakiasona remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 03/12/2023 7:12 PM
+BAG:luakiasona remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 03/12/2023 7:13 PM
+BAG:luakiasona remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 03/12/2023 7:13 PM
+BAG:luakiasona remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 03/12/2023 7:13 PM
+BAG:luakiasona remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 03/12/2023 7:13 PM
+BAG:luakiasona remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 03/12/2023 7:13 PM
+BAG:luakiasona remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 03/12/2023 7:14 PM
+BAG:luakiasona remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 03/12/2023 7:14 PM
+BAG:luakiasona remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 03/12/2023 7:14 PM
+BAG:luakiasona remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 03/12/2023 7:14 PM
+BAG:luakiasona remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 03/12/2023 7:14 PM
+BAG:luakiasona remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 03/12/2023 7:15 PM
+BAG:luakiasona remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 03/12/2023 7:15 PM
+BAG:luakiasona remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 03/12/2023 7:15 PM
+BAG:luakiasona remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 03/12/2023 7:15 PM
+BAG:luakiasona remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 03/12/2023 7:15 PM
+BAG:luakiasona remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 03/12/2023 7:16 PM
+BAG:luakiasona remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 03/12/2023 7:16 PM
+BAG:luakiasona remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 03/12/2023 7:16 PM
+BAG:luakiasona remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 03/12/2023 7:16 PM
+BAG:luakiasona remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 03/12/2023 7:16 PM
+BAG:luakiasona remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 03/12/2023 7:16 PM
+BAG:luakiasona remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 03/12/2023 7:17 PM
+BAG:luakiasona remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 03/12/2023 7:17 PM
+BAG:luakiasona remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 03/12/2023 7:17 PM
+BAG:luakiasona remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 03/12/2023 7:17 PM
+BAG:luakiasona remove Giầy vải thô lydo: Mặc cho đệ tử at 03/12/2023 7:17 PM
+BAG:luakiasona remove Quần vải thô lydo: Mặc cho đệ tử at 03/12/2023 7:18 PM
+BAG:luakiasona remove Rada cấp 1 lydo: Mặc cho đệ tử at 03/12/2023 7:18 PM
+BAG:luakiasona remove Áo vải thô lydo: Mặc cho đệ tử at 03/12/2023 7:18 PM
+BAG:luakiasona remove Găng vải thô lydo: Mặc cho đệ tử at 03/12/2023 7:18 PM
+BAG:luakiasona remove Nezuko lydo: Mặc cho đệ tử at 03/12/2023 7:18 PM
+BAG:luakiasona remove 1xHoa hồng đỏ lydo: Bán cho shop at 03/12/2023 7:19 PM
+BAG:luakiasona remove 1xThỏi vàng lydo: Bán cho shop at 03/12/2023 7:19 PM
+BAG:luakiasona remove 1xThỏi vàng lydo: Bán cho shop at 03/12/2023 7:19 PM
+BAG:luakiasona remove 1xThỏi vàng lydo: Bán cho shop at 03/12/2023 7:19 PM
+BAG:luakiasona remove 1xThỏi vàng lydo: Bán cho shop at 03/12/2023 7:20 PM
+BAG:luakiasona remove 1xThỏi vàng lydo: Bán cho shop at 03/12/2023 7:20 PM
+BAG:luakiasona remove 1xThỏi vàng lydo: Bán cho shop at 03/12/2023 7:20 PM
+BAG:luakiasona remove 1xThỏi vàng lydo: Bán cho shop at 03/12/2023 7:21 PM
+BAG:luakiasona remove 1xThỏi vàng lydo: Bán cho shop at 03/12/2023 7:21 PM
+BAG:luakiasona remove 1xThỏi vàng lydo: Bán cho shop at 03/12/2023 7:21 PM
+BAG:luakiasona remove 1xThỏi vàng lydo: Bán cho shop at 03/12/2023 7:22 PM
+BAG:luakiasona remove 1xThỏi vàng lydo: Bán cho shop at 03/12/2023 7:22 PM
+BAG:luakiasona remove 1xThỏi vàng lydo: Bán cho shop at 03/12/2023 7:22 PM
+BAG:luakiasona remove 1xThỏi vàng lydo: Bán cho shop at 03/12/2023 7:24 PM
+BAG:luakiasona remove 1xThỏi vàng lydo: Bán cho shop at 03/12/2023 7:24 PM
+BAG:luakiasona remove 1xThỏi vàng lydo: Bán cho shop at 03/12/2023 7:24 PM
+BAG:luakiasona remove 1xThỏi vàng lydo: Bán cho shop at 03/12/2023 7:25 PM
+BAG:luakiasona remove 1xThỏi vàng lydo: Bán cho shop at 03/12/2023 7:25 PM
+BAG:luakiasona remove 1xThỏi vàng lydo: Bán cho shop at 03/12/2023 7:25 PM
+BAG:luakiasona remove 1xThỏi vàng lydo: Bán cho shop at 03/12/2023 7:26 PM
+BAG:luakiasona remove 1xThỏi vàng lydo: Bán cho shop at 03/12/2023 7:26 PM
+BAG:luakiasona remove 1xThỏi vàng lydo: Bán cho shop at 03/12/2023 7:27 PM
+BAG:luakiasona remove 1xThỏi vàng lydo: Bán cho shop at 03/12/2023 7:27 PM
+BAG:luakiasona remove 1xThỏi vàng lydo: Bán cho shop at 03/12/2023 7:28 PM
+BAG:luakiasona remove 1xThỏi vàng lydo: Bán cho shop at 03/12/2023 7:28 PM
+BAG:luakiasona remove 1xThỏi vàng lydo: Bán cho shop at 03/12/2023 7:28 PM
+BAG:luakiasona remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 03/12/2023 7:29 PM
+BAG:luakiasona remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 03/12/2023 7:29 PM
+BAG:luakiasona remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 03/12/2023 7:29 PM
+BAG:luakiasona remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 03/12/2023 7:29 PM
+BAG:luakiasona remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 03/12/2023 7:29 PM
+BAG:luakiasona remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 03/12/2023 7:29 PM
+BAG:luakiasona remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 03/12/2023 7:30 PM
+BAG:luakiasona remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 03/12/2023 7:30 PM
+BAG:luakiasona remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 03/12/2023 7:30 PM
+BAG:luakiasona remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 03/12/2023 7:30 PM
+BAG:luakiasona remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 03/12/2023 7:31 PM
+BAG:luakiasona remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 03/12/2023 7:31 PM
+BAG:luakiasona remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 03/12/2023 7:31 PM
+BAG:luakiasona remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 03/12/2023 7:31 PM
+BAG:luakiasona remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 03/12/2023 7:31 PM
+BAG:luakiasona remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 03/12/2023 7:32 PM
+BAG:luakiasona remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 03/12/2023 7:32 PM
+BAG:luakiasona remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 03/12/2023 7:32 PM
+BAG:luakiasona remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 03/12/2023 7:32 PM
+BAG:luakiasona remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 03/12/2023 7:32 PM
+BAG:luakiasona remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 03/12/2023 7:32 PM
+BAG:luakiasona remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 03/12/2023 7:33 PM
+BAG:luakiasona remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 03/12/2023 7:33 PM
+BAG:luakiasona remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 03/12/2023 7:33 PM
+BAG:luakiasona remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 03/12/2023 7:33 PM
+BAG:luakiasona remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 03/12/2023 7:33 PM
+BAG:luakiasona remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 03/12/2023 7:33 PM
+BAG:luakiasona remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 03/12/2023 7:34 PM
+BAG:luakiasona remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 03/12/2023 7:34 PM
+BAG:luakiasona remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 03/12/2023 7:34 PM
+BAG:luakiasona remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 03/12/2023 7:34 PM
+BAG:luakiasona remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 03/12/2023 7:34 PM
+BAG:luakiasona remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 03/12/2023 7:34 PM
+BAG:luakiasona remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 03/12/2023 7:35 PM
+BAG:luakiasona remove Rada cấp 1 lydo: Mặc vào người at 03/12/2023 7:35 PM
+BAG:luakiasona remove Tanjiro lydo: Mặc vào người at 03/12/2023 7:35 PM
+BAG:luakiasona remove Giầy vải thô lydo: Mặc vào người at 03/12/2023 7:35 PM
+BAG:luakiasona remove Găng vải thô lydo: Mặc vào người at 03/12/2023 7:35 PM
+BAG:luakiasona remove Quần vải thô lydo: Mặc vào người at 03/12/2023 7:35 PM
+BAG:luakiasona remove Áo vải thô lydo: Mặc vào người at 03/12/2023 7:35 PM
+BAG:luakiasona remove Giáp tập luyện cấp 1 lydo: Tự Xóa vật phẩm at 03/12/2023 7:35 PM
+BAG:luakiasona remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 03/12/2023 7:36 PM
+BAG:luakiasona remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 03/12/2023 7:36 PM
+BAG:luakiasona remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 03/12/2023 7:36 PM
+BAG:luakiasona remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 03/12/2023 7:36 PM
+BAG:luakiasona remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 03/12/2023 7:36 PM
+BAG:luakiasona remove Giáp tập luyện cấp 1 lydo: Mặc cho đệ tử at 03/12/2023 7:37 PM
+BAG:luakiasona remove Giáp tập luyện cấp 3 lydo: Mặc vào người at 03/12/2023 7:37 PM
+BAG:luakiasona remove 1xThỏi vàng lydo: Bán cho shop at 03/12/2023 7:37 PM
+BAG:luakiasona remove 1xThỏi vàng lydo: Bán cho shop at 03/12/2023 7:38 PM
+BAG:luakiasona remove 1xThỏi vàng lydo: Bán cho shop at 03/12/2023 7:38 PM
+BAG:luakiasona remove 1xThỏi vàng lydo: Bán cho shop at 03/12/2023 7:39 PM
+BAG:luakiasona remove 1xThỏi vàng lydo: Bán cho shop at 03/12/2023 7:39 PM
+BAG:luakiasona remove 1xThỏi vàng lydo: Bán cho shop at 03/12/2023 7:39 PM
+BAG:luakiasona remove 1xThỏi vàng lydo: Bán cho shop at 03/12/2023 7:40 PM
+BAG:luakiasona remove 1xThỏi vàng lydo: Bán cho shop at 03/12/2023 7:40 PM
+BAG:luakiasona remove 1xThỏi vàng lydo: Bán cho shop at 03/12/2023 7:40 PM
+BAG:luakiasona remove 1xThỏi vàng lydo: Bán cho shop at 03/12/2023 7:43 PM
+BAG:luakiasona remove 1xThỏi vàng lydo: Bán cho shop at 03/12/2023 7:43 PM
+BAG:luakiasona remove 1xThỏi vàng lydo: Bán cho shop at 03/12/2023 7:43 PM
+BAG:luakiasona remove 1xHoa hồng xanh lydo: Bán cho shop at 03/12/2023 7:45 PM
+BAG:luakiasona remove 4xHoa hồng đỏ lydo: Bán cho shop at 03/12/2023 7:45 PM
+BAG:luakiasona remove 42xĐá lục bảo lydo: Bán cho shop at 03/12/2023 7:45 PM
+BAG:luakiasona remove 44xĐá Titan lydo: Bán cho shop at 03/12/2023 7:45 PM
+BAG:luakiasona remove 47xĐá Saphia lydo: Bán cho shop at 03/12/2023 7:45 PM
+BAG:luakiasona remove 34xĐá Ruby lydo: Bán cho shop at 03/12/2023 7:45 PM
+BAG:luakiasona remove 45xĐá thạch anh tím lydo: Bán cho shop at 03/12/2023 7:45 PM
+BAG:luakiasona remove 1xThỏi vàng lydo: Bán cho shop at 03/12/2023 7:46 PM
+BAG:luakiasona remove 1xThỏi vàng lydo: Bán cho shop at 03/12/2023 7:46 PM
+BAG:luakiasona remove 1xThỏi vàng lydo: Bán cho shop at 03/12/2023 7:46 PM
+BAG:luakiasona remove 1xThỏi vàng lydo: Bán cho shop at 03/12/2023 7:47 PM
+BAG:luakiasona remove 1xThỏi vàng lydo: Bán cho shop at 03/12/2023 7:47 PM
+BAG:luakiasona remove 1xThỏi vàng lydo: Bán cho shop at 03/12/2023 7:47 PM
+BAG:luakiasona remove Cải trang Hatchiyack lydo: Cất vào rương at 03/12/2023 7:48 PM
+BAG:luakiasona remove Cải trang mồn lèo lydo: Cất vào rương at 03/12/2023 7:48 PM
+BAG:luakiasona remove Hoa hồng xanh lydo: Cất vào rương at 03/12/2023 7:48 PM
+BAG:luakiasona remove Cải trang mồn lèo lydo: Cất vào rương at 03/12/2023 7:52 PM
+BAG:luakiasona remove Cải trang mồn lèo lydo: Cất vào rương at 03/12/2023 7:52 PM
+BAG:luakiasona remove 7xSao pha lê lydo: Bán cho shop at 03/12/2023 7:52 PM
+BAG:luakiasona remove 9xSao pha lê lydo: Bán cho shop at 03/12/2023 7:53 PM
+BAG:luakiasona remove 8xSao pha lê lydo: Bán cho shop at 03/12/2023 7:53 PM
+BAG:luakiasona remove 1xSao pha lê lydo: Bán cho shop at 03/12/2023 7:53 PM
+BAG:luakiasona remove 1xSao pha lê lydo: Bán cho shop at 03/12/2023 7:53 PM
+BAG:luakiasona remove 2xSao pha lê lydo: Bán cho shop at 03/12/2023 7:53 PM
+BAG:luakiasona remove 4xSao pha lê lydo: Bán cho shop at 03/12/2023 7:53 PM
+BAG:luakiasona remove 1xSao pha lê lydo: Ép ngọc rồng at 03/12/2023 7:54 PM
+BAG:luakiasona remove 1xSao pha lê lydo: Ép ngọc rồng at 03/12/2023 7:54 PM
+BAG:luakiasona remove 1xSao pha lê lydo: Ép ngọc rồng at 03/12/2023 7:54 PM
+BAG:luakiasona remove 1xSao pha lê lydo: Ép ngọc rồng at 03/12/2023 7:54 PM
+BAG:luakiasona remove 1xSao pha lê lydo: Ép ngọc rồng at 03/12/2023 7:54 PM
+BAG:luakiasona remove 1xSao pha lê lydo: Ép ngọc rồng at 03/12/2023 7:55 PM
+BAG:luakiasona remove 1xHoa hồng đỏ lydo: Bán cho shop at 03/12/2023 7:58 PM
+BAG:luakiasona remove 1xSao pha lê lydo: Bán cho shop at 03/12/2023 7:58 PM
+BAG:luakiasona remove Cải trang mồn lèo lydo: Tự Xóa vật phẩm at 03/12/2023 7:58 PM
+BAG:luakiasona remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/12/2023 8:01 PM
+BAG:luakiasona remove Áo vải thô lydo: Mặc vào người at 03/12/2023 8:02 PM
+BAG:luakiasona remove Hoa hồng vàng lydo: Tự Xóa vật phẩm at 03/12/2023 8:02 PM
+BAG:luakiasona remove Vệ tinh sinh lực lydo: Tự Xóa vật phẩm at 03/12/2023 8:03 PM
+BAG:luakiasona remove Vệ tinh phòng thủ lydo: Tự Xóa vật phẩm at 03/12/2023 8:03 PM
+BAG:luakiasona remove Vệ tinh trí lực lydo: Tự Xóa vật phẩm at 03/12/2023 8:03 PM
+BAG:luakiasona remove Sao pha lê lydo: Tự Xóa vật phẩm at 03/12/2023 8:03 PM
+BAG:luakiasona remove Hoa hồng xanh lydo: Tự Xóa vật phẩm at 03/12/2023 8:03 PM
+BAG:luakiasona remove Đá Saphia lydo: Tự Xóa vật phẩm at 03/12/2023 8:03 PM
+BAG:luakiasona remove Đá Titan lydo: Tự Xóa vật phẩm at 03/12/2023 8:03 PM
+BAG:luakiasona remove Đá thạch anh tím lydo: Tự Xóa vật phẩm at 03/12/2023 8:03 PM
+BAG:luakiasona remove Hoa hồng đỏ lydo: Tự Xóa vật phẩm at 03/12/2023 8:03 PM
+BAG:luakiasona remove Áo vải thô lydo: Mặc cho đệ tử at 03/12/2023 8:05 PM
+BAG:luakiasona remove Giầy vải thô lydo: Mặc cho đệ tử at 03/12/2023 8:05 PM
+BAG:luakiasona remove Quần vải thô lydo: Mặc cho đệ tử at 03/12/2023 8:05 PM
+BAG:luakiasona remove Găng vải thô lydo: Mặc cho đệ tử at 03/12/2023 8:05 PM
+BAG:luakiasona remove Rada cấp 1 lydo: Mặc cho đệ tử at 03/12/2023 8:05 PM
+BAG:luakiasona remove Áo vải thô lydo: Mặc vào người at 03/12/2023 8:05 PM
+BAG:luakiasona remove Quần vải thô lydo: Mặc vào người at 03/12/2023 8:05 PM
+BAG:luakiasona remove Găng vải thô lydo: Mặc vào người at 03/12/2023 8:05 PM
+BAG:luakiasona remove Giầy vải thô lydo: Mặc vào người at 03/12/2023 8:05 PM
+BAG:luakiasona remove Rada cấp 1 lydo: Mặc vào người at 03/12/2023 8:05 PM
+BAG:luakiasona remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/12/2023 8:09 PM
+BAG:luakiasona remove 1xVệ tinh trí tuệ lydo: Dùng vệ tinh at 03/12/2023 8:13 PM
+BAG:luakiasona remove 1xVệ tinh trí tuệ lydo: Dùng vệ tinh at 03/12/2023 8:13 PM
+BAG:luakiasona remove 1xVệ tinh trí tuệ lydo: Dùng vệ tinh at 03/12/2023 8:13 PM
+BAG:luakiasona remove 1xVệ tinh trí tuệ lydo: Dùng vệ tinh at 03/12/2023 8:13 PM
+BAG:luakiasona remove 1xVệ tinh trí tuệ lydo: Dùng vệ tinh at 03/12/2023 8:13 PM
+BAG:luakiasona remove 1xVệ tinh trí tuệ lydo: Dùng vệ tinh at 03/12/2023 8:13 PM
+BAG:luakiasona remove 1xVệ tinh trí tuệ lydo: Dùng vệ tinh at 03/12/2023 8:13 PM
+BAG:luakiasona remove 1xVệ tinh trí tuệ lydo: Dùng vệ tinh at 03/12/2023 8:13 PM
+BAG:luakiasona remove 1xVệ tinh trí tuệ lydo: Dùng vệ tinh at 03/12/2023 8:13 PM
+BAG:luakiasona remove 1xVệ tinh trí tuệ lydo: Dùng vệ tinh at 03/12/2023 8:13 PM
+BAG:luakiasona remove 1xVệ tinh trí tuệ lydo: Dùng vệ tinh at 03/12/2023 8:13 PM
+BAG:luakiasona remove 1xVệ tinh trí tuệ lydo: Dùng vệ tinh at 03/12/2023 8:13 PM
+BAG:luakiasona remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/12/2023 8:14 PM
+BAG:luakiasona remove 1xNâng cấp kỹ năng 1 đệ tử lydo: Dùng sách kĩ năng đệ tử at 03/12/2023 8:19 PM
+BAG:luakiasona remove 1xNâng cấp kỹ năng 1 đệ tử lydo: Dùng sách kĩ năng đệ tử at 03/12/2023 8:20 PM
+BAG:luakiasona remove 1xNâng cấp kỹ năng 1 đệ tử lydo: Dùng sách kĩ năng đệ tử at 03/12/2023 8:20 PM
+BAG:luakiasona remove 1xNâng cấp kỹ năng 1 đệ tử lydo: Dùng sách kĩ năng đệ tử at 03/12/2023 8:20 PM
+BAG:luakiasona remove 1xNâng cấp kỹ năng 1 đệ tử lydo: Dùng sách kĩ năng đệ tử at 03/12/2023 8:20 PM
+BAG:luakiasona remove 1xNâng cấp kỹ năng 1 đệ tử lydo: Dùng sách kĩ năng đệ tử at 03/12/2023 8:20 PM
+BAG:luakiasona remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/12/2023 8:21 PM
+BAG:luakiasona remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/12/2023 8:23 PM
+BAG:luakiasona remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/12/2023 8:24 PM
+BAG:luakiasona remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/12/2023 8:25 PM
+BAG:luakiasona remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/12/2023 8:25 PM
+BAG:luakiasona remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/12/2023 8:26 PM
+BAG:luakiasona remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/12/2023 8:27 PM
+BAG:luakiasona remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/12/2023 8:29 PM
+BAG:luakiasona remove Tanjiro lydo: Mặc vào người at 03/12/2023 8:31 PM
+BAG:luakiasona remove Giáp tập luyện cấp 1 lydo: Mặc vào người at 03/12/2023 8:43 PM

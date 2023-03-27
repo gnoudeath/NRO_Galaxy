@@ -1,0 +1,35 @@
+BAG:khnang2007 add 1xRada cấp 1 lydo: Lấy từ rương qua người at 03/11/2023 9:21 PM
+BAG:khnang2007 add 150xThỏi vàng lydo: Giftcode at 03/11/2023 9:22 PM
+BAG:khnang2007 add 99xNgọc Rồng 3 sao lydo: Giftcode at 03/11/2023 9:22 PM
+BAG:khnang2007 add 10xĐậu thần cấp 7 lydo: Thu hoạch đậu at 03/11/2023 9:23 PM
+BAG:khnang2007 add 30xĐậu thần cấp 7 (old: 10) lydo: Lấy từ rương qua người at 03/11/2023 9:23 PM
+BAG:khnang2007 add 1xHoa hồng đỏ lydo: Nhặt từ map at 03/11/2023 9:28 PM
+BAG:khnang2007 add 1xHoa hồng vàng lydo: Nhặt từ map at 03/11/2023 9:28 PM
+BAG:khnang2007 add 2xHoa hồng vàng (old: 1) lydo: Nhặt từ map at 03/11/2023 9:28 PM
+BAG:khnang2007 add 3xHoa hồng vàng (old: 2) lydo: Nhặt từ map at 03/11/2023 9:28 PM
+BAG:khnang2007 add 2xHoa hồng đỏ (old: 1) lydo: Nhặt từ map at 03/11/2023 9:28 PM
+BAG:khnang2007 add 3xHoa hồng đỏ (old: 2) lydo: Nhặt từ map at 03/11/2023 9:28 PM
+BAG:khnang2007 add 4xHoa hồng đỏ (old: 3) lydo: Nhặt từ map at 03/11/2023 9:28 PM
+BAG:khnang2007 add 1xNgọc Rồng 5 sao lydo: Nhặt từ map at 03/11/2023 9:28 PM
+BAG:khnang2007 add 4xHoa hồng vàng (old: 3) lydo: Nhặt từ map at 03/11/2023 9:28 PM
+BAG:khnang2007 add 1xHoa hồng xanh lydo: Nhặt từ map at 03/11/2023 9:28 PM
+BAG:khnang2007 add 2xHoa hồng xanh (old: 1) lydo: Nhặt từ map at 03/11/2023 9:28 PM
+BAG:khnang2007 add 5xHoa hồng vàng (old: 4) lydo: Nhặt từ map at 03/11/2023 9:28 PM
+BAG:khnang2007 add 3xHoa hồng xanh (old: 2) lydo: Nhặt từ map at 03/11/2023 9:28 PM
+BAG:khnang2007 add 5xHoa hồng đỏ (old: 4) lydo: Nhặt từ map at 03/11/2023 9:29 PM
+BAG:khnang2007 add 6xHoa hồng đỏ (old: 5) lydo: Nhặt từ map at 03/11/2023 9:29 PM
+BAG:khnang2007 add 4xHoa hồng xanh (old: 3) lydo: Nhặt từ map at 03/11/2023 9:29 PM
+BAG:khnang2007 add 7xHoa hồng đỏ (old: 6) lydo: Nhặt từ map at 03/11/2023 9:29 PM
+BAG:khnang2007 add 8xHoa hồng đỏ (old: 7) lydo: Nhặt từ map at 03/11/2023 9:29 PM
+BAG:khnang2007 add 1xĐá thạch anh tím lydo: Nhặt từ map at 03/11/2023 9:32 PM
+BAG:khnang2007 add 6xHoa hồng vàng (old: 5) lydo: Nhặt từ map at 03/11/2023 9:32 PM
+BAG:khnang2007 add 9xHoa hồng đỏ (old: 8) lydo: Nhặt từ map at 03/11/2023 9:32 PM
+BAG:khnang2007 add 5xHoa hồng xanh (old: 4) lydo: Nhặt từ map at 03/11/2023 9:32 PM
+BAG:khnang2007 add 6xHoa hồng xanh (old: 5) lydo: Nhặt từ map at 03/11/2023 9:33 PM
+BAG:khnang2007 add 7xHoa hồng vàng (old: 6) lydo: Nhặt từ map at 03/11/2023 9:33 PM
+BAG:khnang2007 add 7xHoa hồng xanh (old: 6) lydo: Nhặt từ map at 03/11/2023 9:33 PM
+BAG:khnang2007 add 8xHoa hồng vàng (old: 7) lydo: Nhặt từ map at 03/11/2023 9:33 PM
+BAG:khnang2007 add 9xHoa hồng vàng (old: 8) lydo: Nhặt từ map at 03/11/2023 9:34 PM
+BAG:khnang2007 add 10xHoa hồng vàng (old: 9) lydo: Nhặt từ map at 03/11/2023 9:34 PM
+BAG:khnang2007 add 1xRada cấp 1 lydo: Nhặt từ map at 03/11/2023 9:35 PM
+BAG:khnang2007 add 1xTự động luyện tập lydo: Mua TDTL từ cửa hàng at 03/11/2023 9:39 PM

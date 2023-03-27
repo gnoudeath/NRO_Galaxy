@@ -1,0 +1,114 @@
+BAG:taitrumglx remove Giáp tập luyện cấp 3 lydo: Mặc vào người at 03/11/2023 1:01 AM
+BAG:taitrumglx remove Thái Dương Hạ San lv5 lydo: Sách kĩ năng at 03/11/2023 1:04 AM
+BAG:taitrumglx remove Thái Dương Hạ San lv6 lydo: Sách kĩ năng at 03/11/2023 1:04 AM
+BAG:taitrumglx remove Thái Dương Hạ San lv7 lydo: Sách kĩ năng at 03/11/2023 1:04 AM
+BAG:taitrumglx remove 1xViên Capsule kì bí lydo: CSKB at 03/11/2023 1:04 AM
+BAG:taitrumglx remove 1xCuồng nộ lydo: Dùng buff at 03/11/2023 2:06 AM
+BAG:taitrumglx remove Giáp tập luyện cấp 3 lydo: Mặc vào người at 03/11/2023 2:07 AM
+BAG:taitrumglx remove Đá Saphia lydo: Tự Xóa vật phẩm at 03/11/2023 7:21 AM
+BAG:taitrumglx remove Đá Titan lydo: Tự Xóa vật phẩm at 03/11/2023 7:21 AM
+BAG:taitrumglx remove Hoa hồng xanh lydo: Tự Xóa vật phẩm at 03/11/2023 7:21 AM
+BAG:taitrumglx remove Hoa hồng đỏ lydo: Tự Xóa vật phẩm at 03/11/2023 7:22 AM
+BAG:taitrumglx remove Giáp tập luyện cấp 3 lydo: Mặc vào người at 03/11/2023 7:22 AM
+BAG:taitrumglx remove Hoa hồng xanh lydo: Cất vào rương at 03/11/2023 10:40 AM
+BAG:taitrumglx remove Đá Ruby lydo: Cất vào rương at 03/11/2023 10:40 AM
+BAG:taitrumglx remove Đá Titan lydo: Cất vào rương at 03/11/2023 10:40 AM
+BAG:taitrumglx remove Đá thạch anh tím lydo: Cất vào rương at 03/11/2023 10:40 AM
+BAG:taitrumglx remove Khiên năng lượng lv1 lydo: Sách kĩ năng at 03/11/2023 10:47 AM
+BAG:taitrumglx remove Khiên năng lượng lv2 lydo: Sách kĩ năng at 03/11/2023 10:47 AM
+BAG:taitrumglx remove Khiên năng lượng lv3 lydo: Sách kĩ năng at 03/11/2023 10:47 AM
+BAG:taitrumglx remove 1xCuồng nộ lydo: Dùng buff at 03/11/2023 10:47 AM
+BAG:taitrumglx remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/11/2023 10:48 AM
+BAG:taitrumglx remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/11/2023 10:48 AM
+BAG:taitrumglx remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/11/2023 10:49 AM
+BAG:taitrumglx remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/11/2023 10:49 AM
+BAG:taitrumglx remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/11/2023 10:50 AM
+BAG:taitrumglx remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/11/2023 10:50 AM
+BAG:taitrumglx remove Giáp tập luyện cấp 3 lydo: Mặc vào người at 03/11/2023 12:38 PM
+BAG:taitrumglx remove Hoa hồng xanh lydo: Tự Xóa vật phẩm at 03/11/2023 12:38 PM
+BAG:taitrumglx remove Hoa hồng đỏ lydo: Tự Xóa vật phẩm at 03/11/2023 12:38 PM
+BAG:taitrumglx remove 1xThỏi vàng lydo: Bán cho shop at 03/11/2023 12:38 PM
+BAG:taitrumglx remove 1xThỏi vàng lydo: Bán cho shop at 03/11/2023 12:38 PM
+BAG:taitrumglx remove 1xThỏi vàng lydo: Bán cho shop at 03/11/2023 12:39 PM
+BAG:taitrumglx remove 1xThỏi vàng lydo: Bán cho shop at 03/11/2023 12:39 PM
+BAG:taitrumglx remove 1xThỏi vàng lydo: Bán cho shop at 03/11/2023 12:39 PM
+BAG:taitrumglx remove 101xHoa hồng vàng lydo: Bán cho shop at 03/11/2023 12:39 PM
+BAG:taitrumglx remove Găng vải đen lydo: Mặc vào người at 03/11/2023 12:40 PM
+BAG:taitrumglx remove 1xThỏi vàng lydo: Bán cho shop at 03/11/2023 12:42 PM
+BAG:taitrumglx remove 1xThỏi vàng lydo: Bán cho shop at 03/11/2023 12:42 PM
+BAG:taitrumglx remove 1xThỏi vàng lydo: Bán cho shop at 03/11/2023 12:42 PM
+BAG:taitrumglx remove 1xThỏi vàng lydo: Bán cho shop at 03/11/2023 12:43 PM
+BAG:taitrumglx remove 1xThỏi vàng lydo: Bán cho shop at 03/11/2023 12:44 PM
+BAG:taitrumglx remove 1xThỏi vàng lydo: Bán cho shop at 03/11/2023 12:44 PM
+BAG:taitrumglx remove 1xThỏi vàng lydo: Bán cho shop at 03/11/2023 12:44 PM
+BAG:taitrumglx remove 1xThỏi vàng lydo: Bán cho shop at 03/11/2023 12:44 PM
+BAG:taitrumglx remove 1xThỏi vàng lydo: Bán cho shop at 03/11/2023 12:45 PM
+BAG:taitrumglx remove 1xThỏi vàng lydo: Bán cho shop at 03/11/2023 12:45 PM
+BAG:taitrumglx remove 1xThỏi vàng lydo: Bán cho shop at 03/11/2023 12:45 PM
+BAG:taitrumglx remove 1xThỏi vàng lydo: Bán cho shop at 03/11/2023 12:46 PM
+BAG:taitrumglx remove 1xThỏi vàng lydo: Bán cho shop at 03/11/2023 12:46 PM
+BAG:taitrumglx remove 1xThỏi vàng lydo: Bán cho shop at 03/11/2023 12:46 PM
+BAG:taitrumglx remove 1xThỏi vàng lydo: Bán cho shop at 03/11/2023 12:46 PM
+BAG:taitrumglx remove 1xThỏi vàng lydo: Bán cho shop at 03/11/2023 12:47 PM
+BAG:taitrumglx remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 03/11/2023 12:48 PM
+BAG:taitrumglx remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 03/11/2023 12:48 PM
+BAG:taitrumglx remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 03/11/2023 12:49 PM
+BAG:taitrumglx remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 03/11/2023 12:49 PM
+BAG:taitrumglx remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 03/11/2023 12:49 PM
+BAG:taitrumglx remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 03/11/2023 12:49 PM
+BAG:taitrumglx remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 03/11/2023 12:50 PM
+BAG:taitrumglx remove Găng vải đen lydo: Mặc vào người at 03/11/2023 12:50 PM
+BAG:taitrumglx remove Cải Trang Thần Zeno Trái Đất lydo: Mặc vào người at 03/11/2023 12:50 PM
+BAG:taitrumglx remove Giáp tập luyện cấp 3 lydo: Mặc vào người at 03/11/2023 12:50 PM
+BAG:taitrumglx remove Tự động luyện tập lydo: Tự Xóa vật phẩm at 03/11/2023 12:50 PM
+BAG:taitrumglx remove Hoa hồng vàng lydo: Tự Xóa vật phẩm at 03/11/2023 12:53 PM
+BAG:taitrumglx remove 1xMáy dò Capsule kì bí lydo: Dùng máy dò at 03/11/2023 12:54 PM
+BAG:taitrumglx remove 1xĐá lục bảo lydo: Bán cho shop at 03/11/2023 12:55 PM
+BAG:taitrumglx remove Cải Trang Thần Zeno Trái Đất lydo: Mặc cho đệ tử at 03/11/2023 12:56 PM
+BAG:taitrumglx remove Rada cấp 1 lydo: Mặc cho đệ tử at 03/11/2023 12:56 PM
+BAG:taitrumglx remove Giầy nhựa lydo: Mặc cho đệ tử at 03/11/2023 12:56 PM
+BAG:taitrumglx remove Găng Thần Linh lydo: Mặc cho đệ tử at 03/11/2023 12:56 PM
+BAG:taitrumglx remove Quần vải đen lydo: Mặc cho đệ tử at 03/11/2023 12:56 PM
+BAG:taitrumglx remove Áo vải 3 lỗ lydo: Mặc cho đệ tử at 03/11/2023 12:56 PM
+BAG:taitrumglx remove Ngọc Rồng 2 sao lydo: Cất vào rương at 03/11/2023 12:58 PM
+BAG:taitrumglx remove Ngọc Rồng 3 sao lydo: Cất vào rương at 03/11/2023 12:58 PM
+BAG:taitrumglx remove Ngọc Rồng 4 sao lydo: Cất vào rương at 03/11/2023 12:58 PM
+BAG:taitrumglx remove Ngọc Rồng 5 sao lydo: Cất vào rương at 03/11/2023 12:58 PM
+BAG:taitrumglx remove Ngọc Rồng 6 sao lydo: Cất vào rương at 03/11/2023 12:58 PM
+BAG:taitrumglx remove Hoa hồng đỏ lydo: Cất vào rương at 03/11/2023 12:58 PM
+BAG:taitrumglx remove Hoa hồng xanh lydo: Cất vào rương at 03/11/2023 12:58 PM
+BAG:taitrumglx remove Quần Thần Xayda lydo: Cất vào rương at 03/11/2023 12:58 PM
+BAG:taitrumglx remove Găng bạc Goku lydo: Cất vào rương at 03/11/2023 12:58 PM
+BAG:taitrumglx remove Hồn linh thú lydo: Tự Xóa vật phẩm at 03/11/2023 1:01 PM
+BAG:taitrumglx remove Hồn linh thú lydo: Tự Xóa vật phẩm at 03/11/2023 1:01 PM
+BAG:taitrumglx remove 1xMáy dò Capsule kì bí lydo: Dùng máy dò at 03/11/2023 1:06 PM
+BAG:taitrumglx remove 1xViên Capsule kì bí lydo: CSKB at 03/11/2023 1:08 PM
+BAG:taitrumglx remove 1xViên Capsule kì bí lydo: CSKB at 03/11/2023 1:08 PM
+BAG:taitrumglx remove 1xViên Capsule kì bí lydo: CSKB at 03/11/2023 1:08 PM
+BAG:taitrumglx remove 1xViên Capsule kì bí lydo: CSKB at 03/11/2023 1:08 PM
+BAG:taitrumglx remove 1xViên Capsule kì bí lydo: CSKB at 03/11/2023 1:08 PM
+BAG:taitrumglx remove 1xViên Capsule kì bí lydo: CSKB at 03/11/2023 1:08 PM
+BAG:taitrumglx remove 1xViên Capsule kì bí lydo: CSKB at 03/11/2023 1:08 PM
+BAG:taitrumglx remove 1xViên Capsule kì bí lydo: CSKB at 03/11/2023 1:08 PM
+BAG:taitrumglx remove 1xViên Capsule kì bí lydo: CSKB at 03/11/2023 1:08 PM
+BAG:taitrumglx remove 1xViên Capsule kì bí lydo: CSKB at 03/11/2023 1:08 PM
+BAG:taitrumglx remove 1xBổ khí lydo: Dùng buff at 03/11/2023 1:08 PM
+BAG:taitrumglx remove 1xẨn danh lydo: Dùng buff at 03/11/2023 1:08 PM
+BAG:taitrumglx remove 1xViên Capsule kì bí lydo: CSKB at 03/11/2023 1:11 PM
+BAG:taitrumglx remove 1xViên Capsule kì bí lydo: CSKB at 03/11/2023 1:11 PM
+BAG:taitrumglx remove 1xViên Capsule kì bí lydo: CSKB at 03/11/2023 1:11 PM
+BAG:taitrumglx remove 1xViên Capsule kì bí lydo: CSKB at 03/11/2023 1:11 PM
+BAG:taitrumglx remove 1xViên Capsule kì bí lydo: CSKB at 03/11/2023 1:11 PM
+BAG:taitrumglx remove 1xViên Capsule kì bí lydo: CSKB at 03/11/2023 1:11 PM
+BAG:taitrumglx remove 1xViên Capsule kì bí lydo: CSKB at 03/11/2023 1:11 PM
+BAG:taitrumglx remove 1xViên Capsule kì bí lydo: CSKB at 03/11/2023 1:11 PM
+BAG:taitrumglx remove 1xViên Capsule kì bí lydo: CSKB at 03/11/2023 1:11 PM
+BAG:taitrumglx remove 1xẨn danh lydo: Dùng buff at 03/11/2023 1:11 PM
+BAG:taitrumglx remove 1xMáy dò Capsule kì bí lydo: Dùng máy dò at 03/11/2023 7:49 PM
+BAG:taitrumglx remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/11/2023 7:57 PM
+BAG:taitrumglx remove Hoa hồng đỏ lydo: Tự Xóa vật phẩm at 03/11/2023 7:58 PM
+BAG:taitrumglx remove Hoa hồng xanh lydo: Tự Xóa vật phẩm at 03/11/2023 7:58 PM
+BAG:taitrumglx remove Hoa hồng đỏ lydo: Tự Xóa vật phẩm at 03/11/2023 8:10 PM
+BAG:taitrumglx remove Hoa hồng xanh lydo: Tự Xóa vật phẩm at 03/11/2023 8:10 PM
+BAG:taitrumglx remove Hoa hồng vàng lydo: Tự Xóa vật phẩm at 03/11/2023 8:10 PM
+BAG:taitrumglx remove Hoa hồng đỏ lydo: Tự Xóa vật phẩm at 03/11/2023 8:10 PM

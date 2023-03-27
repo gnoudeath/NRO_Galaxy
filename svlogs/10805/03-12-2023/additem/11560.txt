@@ -1,0 +1,11 @@
+BAG:vnamnb1 add 995xHoa hồng vàng (old: 994) lydo: Nhặt từ map at 03/12/2023 6:18 AM
+BAG:vnamnb1 add 996xHoa hồng vàng (old: 995) lydo: Nhặt từ map at 03/12/2023 6:18 AM
+BAG:vnamnb1 add 760xHoa hồng xanh (old: 759) lydo: Nhặt từ map at 03/12/2023 6:19 AM
+BAG:vnamnb1 add 765xHoa hồng đỏ (old: 764) lydo: Nhặt từ map at 03/12/2023 6:19 AM
+BAG:vnamnb1 add 997xHoa hồng vàng (old: 996) lydo: Nhặt từ map at 03/12/2023 6:19 AM
+BAG:vnamnb1 add 766xHoa hồng đỏ (old: 765) lydo: Nhặt từ map at 03/12/2023 6:19 AM
+BAG:vnamnb1 add 1xÁo choàng len lydo: Mua từ cửa hàng at 03/12/2023 6:20 AM
+BAG:vnamnb1 add 1xQuần vải mềm Pico lydo: Mua từ cửa hàng at 03/12/2023 6:21 AM
+BAG:vnamnb1 add 1xÁo vải Pico lydo: Mua từ cửa hàng at 03/12/2023 6:21 AM
+BAG:vnamnb1 add 1xGăng thun cứng lydo: Mua từ cửa hàng at 03/12/2023 6:21 AM
+BAG:vnamnb1 add 1xGiày sắt Pico lydo: Mua từ cửa hàng at 03/12/2023 6:22 AM

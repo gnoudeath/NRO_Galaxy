@@ -1,0 +1,54 @@
+BAG:lienhoangalaxy add 214xHoa hồng xanh (old: 213) lydo: Nhặt từ map at 03/13/2023 12:18 AM
+BAG:lienhoangalaxy add 1xÁo sợi len lydo: Lấy từ body đệ vào hành trang at 03/13/2023 12:50 AM
+BAG:lienhoangalaxy add 1xQuần sợi len lydo: Lấy từ body đệ vào hành trang at 03/13/2023 12:50 AM
+BAG:lienhoangalaxy add 1xGăng sắt Tron lydo: Lấy từ body đệ vào hành trang at 03/13/2023 12:50 AM
+BAG:lienhoangalaxy add 1xGiầy sợi len lydo: Lấy từ body đệ vào hành trang at 03/13/2023 12:50 AM
+BAG:lienhoangalaxy add 1xRada cấp 1 lydo: Lấy từ body đệ vào hành trang at 03/13/2023 12:50 AM
+BAG:lienhoangalaxy add 1xCải Trang Glaxy lydo: Lấy từ body đệ vào hành trang at 03/13/2023 12:50 AM
+BAG:lienhoangalaxy add 1xGiáp tập luyện cấp 1 lydo: Lấy từ body đệ vào hành trang at 03/13/2023 12:50 AM
+BAG:lienhoangalaxy add 1xNâng cấp kỹ năng 1 đệ tử lydo: Mua từ cửa hàng at 03/13/2023 12:52 AM
+BAG:lienhoangalaxy add 2xNâng cấp kỹ năng 1 đệ tử (old: 1) lydo: Mua từ cửa hàng at 03/13/2023 12:52 AM
+BAG:lienhoangalaxy add 3xNâng cấp kỹ năng 1 đệ tử (old: 2) lydo: Mua từ cửa hàng at 03/13/2023 12:52 AM
+BAG:lienhoangalaxy add 4xNâng cấp kỹ năng 1 đệ tử (old: 3) lydo: Mua từ cửa hàng at 03/13/2023 12:52 AM
+BAG:lienhoangalaxy add 5xNâng cấp kỹ năng 1 đệ tử (old: 4) lydo: Mua từ cửa hàng at 03/13/2023 12:52 AM
+BAG:lienhoangalaxy add 6xNâng cấp kỹ năng 1 đệ tử (old: 5) lydo: Mua từ cửa hàng at 03/13/2023 12:52 AM
+BAG:lienhoangalaxy add 7xNâng cấp kỹ năng 1 đệ tử (old: 6) lydo: Mua từ cửa hàng at 03/13/2023 12:55 AM
+BAG:lienhoangalaxy add 1xGăng sợi len lydo: Lấy từ body vào hành trang at 03/13/2023 12:55 AM
+BAG:lienhoangalaxy add 534xHoa hồng vàng (old: 533) lydo: Nhặt từ map at 03/13/2023 1:20 AM
+BAG:lienhoangalaxy add 7xĐá Saphia (old: 6) lydo: Nhặt từ map at 03/13/2023 1:33 AM
+BAG:lienhoangalaxy add 1xĐặt tên đệ tử lydo: Mua từ cửa hàng at 03/13/2023 1:33 AM
+BAG:lienhoangalaxy add 1xNâng cấp kỹ năng 2 đệ tử lydo: Mua từ cửa hàng at 03/13/2023 1:33 AM
+BAG:lienhoangalaxy add 2xNâng cấp kỹ năng 2 đệ tử (old: 1) lydo: Mua từ cửa hàng at 03/13/2023 1:33 AM
+BAG:lienhoangalaxy add 3xNâng cấp kỹ năng 2 đệ tử (old: 2) lydo: Mua từ cửa hàng at 03/13/2023 1:33 AM
+BAG:lienhoangalaxy add 4xNâng cấp kỹ năng 2 đệ tử (old: 3) lydo: Mua từ cửa hàng at 03/13/2023 1:33 AM
+BAG:lienhoangalaxy add 5xNâng cấp kỹ năng 2 đệ tử (old: 4) lydo: Mua từ cửa hàng at 03/13/2023 1:33 AM
+BAG:lienhoangalaxy add 6xNâng cấp kỹ năng 2 đệ tử (old: 5) lydo: Mua từ cửa hàng at 03/13/2023 1:33 AM
+BAG:lienhoangalaxy add 1xNâng cấp kỹ năng 3 đệ tử lydo: Mua từ cửa hàng at 03/13/2023 1:33 AM
+BAG:lienhoangalaxy add 2xNâng cấp kỹ năng 3 đệ tử (old: 1) lydo: Mua từ cửa hàng at 03/13/2023 1:33 AM
+BAG:lienhoangalaxy add 3xNâng cấp kỹ năng 3 đệ tử (old: 2) lydo: Mua từ cửa hàng at 03/13/2023 1:33 AM
+BAG:lienhoangalaxy add 4xNâng cấp kỹ năng 3 đệ tử (old: 3) lydo: Mua từ cửa hàng at 03/13/2023 1:34 AM
+BAG:lienhoangalaxy add 5xNâng cấp kỹ năng 3 đệ tử (old: 4) lydo: Mua từ cửa hàng at 03/13/2023 1:34 AM
+BAG:lienhoangalaxy add 6xNâng cấp kỹ năng 3 đệ tử (old: 5) lydo: Mua từ cửa hàng at 03/13/2023 1:34 AM
+BAG:lienhoangalaxy add 1xNâng cấp kỹ năng 4 đệ tử lydo: Mua từ cửa hàng at 03/13/2023 1:34 AM
+BAG:lienhoangalaxy add 2xNâng cấp kỹ năng 4 đệ tử (old: 1) lydo: Mua từ cửa hàng at 03/13/2023 1:34 AM
+BAG:lienhoangalaxy add 3xNâng cấp kỹ năng 4 đệ tử (old: 2) lydo: Mua từ cửa hàng at 03/13/2023 1:34 AM
+BAG:lienhoangalaxy add 4xNâng cấp kỹ năng 4 đệ tử (old: 3) lydo: Mua từ cửa hàng at 03/13/2023 1:34 AM
+BAG:lienhoangalaxy add 5xNâng cấp kỹ năng 4 đệ tử (old: 4) lydo: Mua từ cửa hàng at 03/13/2023 1:34 AM
+BAG:lienhoangalaxy add 6xNâng cấp kỹ năng 4 đệ tử (old: 5) lydo: Mua từ cửa hàng at 03/13/2023 1:34 AM
+BAG:lienhoangalaxy add 1xCải trang lydo: Mua từ cửa hàng at 03/13/2023 1:35 AM
+BAG:lienhoangalaxy add 535xHoa hồng vàng (old: 534) lydo: Nhặt từ map at 03/13/2023 1:54 AM
+BAG:lienhoangalaxy add 1xĐá lục bảo lydo: Nhặt từ map at 03/13/2023 1:57 AM
+BAG:lienhoangalaxy add 536xHoa hồng vàng (old: 535) lydo: Nhặt từ map at 03/13/2023 1:58 AM
+BAG:lienhoangalaxy add 220xHoa hồng đỏ (old: 219) lydo: Nhặt từ map at 03/13/2023 1:58 AM
+BAG:lienhoangalaxy add 82xĐậu thần cấp 10 (old: 62) lydo: Lấy từ rương qua người at 03/13/2023 2:00 AM
+BAG:lienhoangalaxy add 1xGăng bạc Zealot lydo: Mua từ cửa hàng at 03/13/2023 2:01 AM
+BAG:lienhoangalaxy add 1xGăng vàng Zealot lydo: Mua từ cửa hàng at 03/13/2023 2:01 AM
+BAG:lienhoangalaxy add 537xHoa hồng vàng (old: 536) lydo: Nhặt từ map at 03/13/2023 2:02 AM
+BAG:lienhoangalaxy add 215xHoa hồng xanh (old: 214) lydo: Nhặt từ map at 03/13/2023 2:02 AM
+BAG:lienhoangalaxy add 2xĐá lục bảo (old: 1) lydo: Nhặt từ map at 03/13/2023 2:03 AM
+BAG:lienhoangalaxy add 221xHoa hồng đỏ (old: 220) lydo: Nhặt từ map at 03/13/2023 2:03 AM
+BAG:lienhoangalaxy add 216xHoa hồng xanh (old: 215) lydo: Nhặt từ map at 03/13/2023 2:03 AM
+BAG:lienhoangalaxy add 538xHoa hồng vàng (old: 537) lydo: Nhặt từ map at 03/13/2023 2:04 AM
+BAG:lienhoangalaxy add 539xHoa hồng vàng (old: 538) lydo: Nhặt từ map at 03/13/2023 2:04 AM
+BAG:lienhoangalaxy add 1xĐá Saphia lydo: Nhặt từ map at 03/13/2023 2:05 AM
+BAG:lienhoangalaxy add 1xGiáp tập luyện cấp 3 lydo: Lấy từ body vào hành trang at 03/13/2023 2:46 AM

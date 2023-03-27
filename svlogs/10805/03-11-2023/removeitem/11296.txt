@@ -1,0 +1,37 @@
+BAG:meosenseii remove 5xHoa hồng đỏ lydo: Bán cho shop at 03/11/2023 6:05 AM
+BAG:meosenseii remove 15xHoa hồng vàng lydo: Bán cho shop at 03/11/2023 6:05 AM
+BAG:meosenseii remove 1xRada cấp 1 lydo: Bán cho shop at 03/11/2023 6:05 AM
+BAG:meosenseii remove 1xRada cấp 1 lydo: Bán cho shop at 03/11/2023 6:05 AM
+BAG:meosenseii remove 1xÁo vải thô lydo: Bán cho shop at 03/11/2023 6:05 AM
+BAG:meosenseii remove Quần vải thô lydo: Tự Xóa vật phẩm at 03/11/2023 6:05 AM
+BAG:meosenseii remove Rada cấp 1 lydo: Tự Xóa vật phẩm at 03/11/2023 6:05 AM
+BAG:meosenseii remove Đá Ruby lydo: Cất vào rương at 03/11/2023 6:06 AM
+BAG:meosenseii remove Đá lục bảo lydo: Cất vào rương at 03/11/2023 6:06 AM
+BAG:meosenseii remove Đá Titan lydo: Cất vào rương at 03/11/2023 6:06 AM
+BAG:meosenseii remove Đá Saphia lydo: Cất vào rương at 03/11/2023 6:06 AM
+BAG:meosenseii remove Đá thạch anh tím lydo: Cất vào rương at 03/11/2023 6:06 AM
+BAG:meosenseii remove Đậu thần cấp 10 lydo: Tự Xóa vật phẩm at 03/11/2023 6:06 AM
+BAG:meosenseii remove 1xĐổi đệ tử lydo: Dùng đổi đệ tử at 03/11/2023 6:08 AM
+BAG:meosenseii remove 1xĐổi đệ tử lydo: Dùng đổi đệ tử at 03/11/2023 6:08 AM
+BAG:meosenseii remove 1xĐổi đệ tử lydo: Dùng đổi đệ tử at 03/11/2023 6:09 AM
+BAG:meosenseii remove Đổi đệ tử lydo: Tự Xóa vật phẩm at 03/11/2023 6:19 AM
+BAG:meosenseii remove Hoa hồng xanh lydo: Tự Xóa vật phẩm at 03/11/2023 6:19 AM
+BAG:meosenseii remove 1xNâng cấp kỹ năng 1 đệ tử lydo: Dùng sách kĩ năng đệ tử at 03/11/2023 6:19 AM
+BAG:meosenseii remove 1xNâng cấp kỹ năng 1 đệ tử lydo: Dùng sách kĩ năng đệ tử at 03/11/2023 6:19 AM
+BAG:meosenseii remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/11/2023 6:24 AM
+BAG:meosenseii remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/11/2023 6:25 AM
+BAG:meosenseii remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/11/2023 11:32 AM
+BAG:meosenseii remove Hoa hồng đỏ lydo: Tự Xóa vật phẩm at 03/11/2023 11:38 AM
+BAG:meosenseii remove Hoa hồng xanh lydo: Tự Xóa vật phẩm at 03/11/2023 11:38 AM
+BAG:meosenseii remove Hoa hồng vàng lydo: Tự Xóa vật phẩm at 03/11/2023 11:38 AM
+BAG:meosenseii remove Hoa hồng đỏ lydo: Tự Xóa vật phẩm at 03/11/2023 11:39 AM
+BAG:meosenseii remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/11/2023 11:39 AM
+BAG:meosenseii remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/11/2023 11:48 AM
+BAG:meosenseii remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/11/2023 11:57 AM
+BAG:meosenseii remove Áo vải thô lydo: Mặc cho đệ tử at 03/11/2023 12:06 PM
+BAG:meosenseii remove Quần vải thô lydo: Mặc cho đệ tử at 03/11/2023 12:06 PM
+BAG:meosenseii remove Giầy vải thô lydo: Mặc cho đệ tử at 03/11/2023 12:06 PM
+BAG:meosenseii remove Găng vải thô lydo: Mặc cho đệ tử at 03/11/2023 12:06 PM
+BAG:meosenseii remove Rada cấp 1 lydo: Mặc cho đệ tử at 03/11/2023 12:06 PM
+BAG:meosenseii remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/11/2023 12:06 PM
+BAG:meosenseii remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/11/2023 12:17 PM

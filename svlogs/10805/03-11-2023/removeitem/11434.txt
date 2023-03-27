@@ -1,0 +1,27 @@
+BAG:melody remove 100xThỏi vàng lydo: Mua đồ hủy diệt at 03/11/2023 9:46 AM
+BAG:melody remove Cải Trang Thần Zeno Trái Đất lydo: Mặc vào người at 03/11/2023 9:46 AM
+BAG:melody remove Thỏi vàng lydo: Cất vào rương at 03/11/2023 9:47 AM
+BAG:melody remove Ngọc Rồng 3 sao lydo: Cất vào rương at 03/11/2023 9:47 AM
+BAG:melody remove Áo vải 3 lỗ lydo: Tự Xóa vật phẩm at 03/11/2023 10:00 AM
+BAG:melody remove 1xMảnh Khủng long lydo: Dùng thẻ sưu tầm at 03/11/2023 10:07 AM
+BAG:melody remove 1xMảnh Khủng long lydo: Dùng thẻ sưu tầm at 03/11/2023 10:07 AM
+BAG:melody remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/11/2023 10:09 AM
+BAG:melody remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/11/2023 10:11 AM
+BAG:melody remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/11/2023 10:15 AM
+BAG:melody remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/11/2023 10:16 AM
+BAG:melody remove 10xHoa hồng đỏ lydo: Đổi hoa at 03/11/2023 10:18 AM
+BAG:melody remove 1xMảnh Khủng long lydo: Dùng thẻ sưu tầm at 03/11/2023 10:18 AM
+BAG:melody remove Mảnh Thằn lằn bay lydo: Tự Xóa vật phẩm at 03/11/2023 10:18 AM
+BAG:melody remove 10xHoa hồng xanh lydo: Đổi hoa at 03/11/2023 10:18 AM
+BAG:melody remove 10xHoa hồng vàng lydo: Đổi hoa at 03/11/2023 10:18 AM
+BAG:melody remove Áo vải 3 lỗ lydo: Tự Xóa vật phẩm at 03/11/2023 10:20 AM
+BAG:melody remove 1xNâng cấp kỹ năng 1 đệ tử lydo: Dùng sách kĩ năng đệ tử at 03/11/2023 10:22 AM
+BAG:melody remove 1xNâng cấp kỹ năng 1 đệ tử lydo: Dùng sách kĩ năng đệ tử at 03/11/2023 10:22 AM
+BAG:melody remove 1xThỏi vàng lydo: Bán cho shop at 03/11/2023 10:24 AM
+BAG:melody remove 3xĐá lục bảo lydo: Bán cho shop at 03/11/2023 10:31 AM
+BAG:melody remove 2xĐá Titan lydo: Bán cho shop at 03/11/2023 10:31 AM
+BAG:melody remove 1xÁo vải 3 lỗ lydo: Bán cho shop at 03/11/2023 10:31 AM
+BAG:melody remove Giáp tập luyện cấp 1 lydo: Mặc vào người at 03/11/2023 10:32 AM
+BAG:melody remove Giáp tập luyện cấp 1 lydo: Tự Xóa vật phẩm at 03/11/2023 10:32 AM
+BAG:melody remove Đá xanh lam lydo: Tự Xóa vật phẩm at 03/11/2023 10:32 AM
+BAG:melody remove 4xĐá xanh lam lydo: Bán cho shop at 03/11/2023 10:33 AM

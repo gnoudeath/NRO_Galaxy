@@ -1,0 +1,165 @@
+BAG:belenba add 235xThỏi vàng (old: 135) lydo: Giftcode at 03/11/2023 6:55 AM
+BAG:belenba add 1xGiầy nhựa lydo: Lấy từ body vào hành trang at 03/11/2023 8:36 AM
+BAG:belenba add 1xÁo vải 3 lỗ lydo: Lấy từ body vào hành trang at 03/11/2023 9:45 AM
+BAG:belenba add 1xQuần vải đen lydo: Lấy từ body vào hành trang at 03/11/2023 9:45 AM
+BAG:belenba add 1xGăng vải đen lydo: Lấy từ body vào hành trang at 03/11/2023 9:45 AM
+BAG:belenba add 1xRada cấp 1 lydo: Lấy từ body vào hành trang at 03/11/2023 9:45 AM
+BAG:belenba add 1xGiáp tập luyện cấp 3 lydo: Lấy từ body vào hành trang at 03/11/2023 9:46 AM
+BAG:belenba add 138xHoa hồng vàng (old: 137) lydo: Nhặt từ map at 03/11/2023 9:46 AM
+BAG:belenba add 1xTanjiro lydo: Lấy từ rương qua người at 03/11/2023 9:46 AM
+BAG:belenba add 1xÁo vải 3 lỗ lydo: Lấy từ body vào hành trang at 03/11/2023 9:51 AM
+BAG:belenba add 1xQuần vải đen lydo: Lấy từ body vào hành trang at 03/11/2023 9:51 AM
+BAG:belenba add 1xGiầy nhựa lydo: Lấy từ body vào hành trang at 03/11/2023 9:51 AM
+BAG:belenba add 1xGăng vải đen lydo: Lấy từ body vào hành trang at 03/11/2023 9:51 AM
+BAG:belenba add 99xThỏi vàng lydo: Tách thỏi vàng at 03/11/2023 9:57 AM
+BAG:belenba add 1xÁo vải 3 lỗ lydo: Lấy từ body đệ vào hành trang at 03/11/2023 10:36 AM
+BAG:belenba add 1xQuần vải đen lydo: Lấy từ body đệ vào hành trang at 03/11/2023 10:36 AM
+BAG:belenba add 1xCải trang Hatchiyack lydo: Lấy từ body đệ vào hành trang at 03/11/2023 10:36 AM
+BAG:belenba add 1xRada cấp 1 lydo: Lấy từ body đệ vào hành trang at 03/11/2023 10:36 AM
+BAG:belenba add 1xGiáp tập luyện cấp 1 lydo: Mua từ cửa hàng at 03/11/2023 10:37 AM
+BAG:belenba add 1xGăng jean Calic lydo: Mua từ cửa hàng at 03/11/2023 10:37 AM
+BAG:belenba add 1xÁo vải 3 lỗ lydo: Lấy từ body vào hành trang at 03/11/2023 10:50 AM
+BAG:belenba add 1xGiáp tập luyện cấp 3 lydo: Lấy từ body vào hành trang at 03/11/2023 10:55 AM
+BAG:belenba add 1xGiáp tập luyện cấp 1 lydo: Lấy từ body đệ vào hành trang at 03/11/2023 10:56 AM
+BAG:belenba add 1xĐá Ruby lydo: Nhặt từ map at 03/11/2023 1:52 PM
+BAG:belenba add 121xHoa hồng xanh (old: 120) lydo: Nhặt từ map at 03/11/2023 2:14 PM
+BAG:belenba add 39xHoa hồng đỏ (old: 38) lydo: Nhặt từ map at 03/11/2023 2:18 PM
+BAG:belenba add 40xHoa hồng đỏ (old: 39) lydo: Nhặt từ map at 03/11/2023 2:22 PM
+BAG:belenba add 41xHoa hồng đỏ (old: 40) lydo: Nhặt từ map at 03/11/2023 2:24 PM
+BAG:belenba add 42xHoa hồng đỏ (old: 41) lydo: Nhặt từ map at 03/11/2023 2:29 PM
+BAG:belenba add 1xNâng cấp kỹ năng 3 đệ tử lydo: Mua từ cửa hàng at 03/11/2023 2:34 PM
+BAG:belenba add 2xNâng cấp kỹ năng 3 đệ tử (old: 1) lydo: Mua từ cửa hàng at 03/11/2023 2:34 PM
+BAG:belenba add 3xNâng cấp kỹ năng 3 đệ tử (old: 2) lydo: Mua từ cửa hàng at 03/11/2023 2:34 PM
+BAG:belenba add 4xNâng cấp kỹ năng 3 đệ tử (old: 3) lydo: Mua từ cửa hàng at 03/11/2023 2:34 PM
+BAG:belenba add 5xNâng cấp kỹ năng 3 đệ tử (old: 4) lydo: Mua từ cửa hàng at 03/11/2023 2:34 PM
+BAG:belenba add 6xNâng cấp kỹ năng 3 đệ tử (old: 5) lydo: Mua từ cửa hàng at 03/11/2023 2:34 PM
+BAG:belenba add 1xNâng cấp kỹ năng 4 đệ tử lydo: Mua từ cửa hàng at 03/11/2023 2:34 PM
+BAG:belenba add 2xNâng cấp kỹ năng 4 đệ tử (old: 1) lydo: Mua từ cửa hàng at 03/11/2023 2:34 PM
+BAG:belenba add 3xNâng cấp kỹ năng 4 đệ tử (old: 2) lydo: Mua từ cửa hàng at 03/11/2023 2:34 PM
+BAG:belenba add 4xNâng cấp kỹ năng 4 đệ tử (old: 3) lydo: Mua từ cửa hàng at 03/11/2023 2:34 PM
+BAG:belenba add 5xNâng cấp kỹ năng 4 đệ tử (old: 4) lydo: Mua từ cửa hàng at 03/11/2023 2:34 PM
+BAG:belenba add 6xNâng cấp kỹ năng 4 đệ tử (old: 5) lydo: Mua từ cửa hàng at 03/11/2023 2:34 PM
+BAG:belenba add 2xĐá Ruby (old: 1) lydo: Nhặt từ map at 03/11/2023 2:37 PM
+BAG:belenba add 1xĐá Saphia lydo: Nhặt từ map at 03/11/2023 2:42 PM
+BAG:belenba add 139xHoa hồng vàng (old: 138) lydo: Nhặt từ map at 03/11/2023 2:44 PM
+BAG:belenba add 140xHoa hồng vàng (old: 139) lydo: Nhặt từ map at 03/11/2023 2:51 PM
+BAG:belenba add 3xNgọc Rồng 6 sao (old: 2) lydo: Nhặt từ map at 03/11/2023 2:57 PM
+BAG:belenba add 43xHoa hồng đỏ (old: 42) lydo: Nhặt từ map at 03/11/2023 3:02 PM
+BAG:belenba add 44xHoa hồng đỏ (old: 43) lydo: Nhặt từ map at 03/11/2023 3:24 PM
+BAG:belenba add 122xHoa hồng xanh (old: 121) lydo: Nhặt từ map at 03/11/2023 3:25 PM
+BAG:belenba add 2xĐá Saphia (old: 1) lydo: Nhặt từ map at 03/11/2023 3:29 PM
+BAG:belenba add 141xHoa hồng vàng (old: 140) lydo: Nhặt từ map at 03/11/2023 3:36 PM
+BAG:belenba add 3xĐá Ruby (old: 2) lydo: Nhặt từ map at 03/11/2023 3:45 PM
+BAG:belenba add 45xHoa hồng đỏ (old: 44) lydo: Nhặt từ map at 03/11/2023 3:50 PM
+BAG:belenba add 142xHoa hồng vàng (old: 141) lydo: Nhặt từ map at 03/11/2023 3:54 PM
+BAG:belenba add 46xHoa hồng đỏ (old: 45) lydo: Nhặt từ map at 03/11/2023 4:05 PM
+BAG:belenba add 16xĐá thạch anh tím (old: 15) lydo: Nhặt từ map at 03/11/2023 4:07 PM
+BAG:belenba add 5xNgọc Rồng 5 sao (old: 4) lydo: Nhặt từ map at 03/11/2023 4:08 PM
+BAG:belenba add 143xHoa hồng vàng (old: 142) lydo: Nhặt từ map at 03/11/2023 4:14 PM
+BAG:belenba add 47xHoa hồng đỏ (old: 46) lydo: Nhặt từ map at 03/11/2023 4:16 PM
+BAG:belenba add 144xHoa hồng vàng (old: 143) lydo: Nhặt từ map at 03/11/2023 4:22 PM
+BAG:belenba add 145xHoa hồng vàng (old: 144) lydo: Nhặt từ map at 03/11/2023 4:28 PM
+BAG:belenba add 48xHoa hồng đỏ (old: 47) lydo: Nhặt từ map at 03/11/2023 4:29 PM
+BAG:belenba add 4xĐá Ruby (old: 3) lydo: Nhặt từ map at 03/11/2023 4:31 PM
+BAG:belenba add 123xHoa hồng xanh (old: 122) lydo: Nhặt từ map at 03/11/2023 4:38 PM
+BAG:belenba add 124xHoa hồng xanh (old: 123) lydo: Nhặt từ map at 03/11/2023 4:39 PM
+BAG:belenba add 125xHoa hồng xanh (old: 124) lydo: Nhặt từ map at 03/11/2023 4:43 PM
+BAG:belenba add 5xĐá Ruby (old: 4) lydo: Nhặt từ map at 03/11/2023 4:48 PM
+BAG:belenba add 49xHoa hồng đỏ (old: 48) lydo: Nhặt từ map at 03/11/2023 4:51 PM
+BAG:belenba add 126xHoa hồng xanh (old: 125) lydo: Nhặt từ map at 03/11/2023 4:58 PM
+BAG:belenba add 146xHoa hồng vàng (old: 145) lydo: Nhặt từ map at 03/11/2023 4:59 PM
+BAG:belenba add 147xHoa hồng vàng (old: 146) lydo: Nhặt từ map at 03/11/2023 5:04 PM
+BAG:belenba add 148xHoa hồng vàng (old: 147) lydo: Nhặt từ map at 03/11/2023 5:06 PM
+BAG:belenba add 127xHoa hồng xanh (old: 126) lydo: Nhặt từ map at 03/11/2023 5:09 PM
+BAG:belenba add 128xHoa hồng xanh (old: 127) lydo: Nhặt từ map at 03/11/2023 5:16 PM
+BAG:belenba add 149xHoa hồng vàng (old: 148) lydo: Nhặt từ map at 03/11/2023 5:17 PM
+BAG:belenba add 150xHoa hồng vàng (old: 149) lydo: Nhặt từ map at 03/11/2023 5:26 PM
+BAG:belenba add 50xHoa hồng đỏ (old: 49) lydo: Nhặt từ map at 03/11/2023 5:28 PM
+BAG:belenba add 6xNgọc Rồng 5 sao (old: 5) lydo: Nhặt từ map at 03/11/2023 5:30 PM
+BAG:belenba add 129xHoa hồng xanh (old: 128) lydo: Nhặt từ map at 03/11/2023 5:32 PM
+BAG:belenba add 130xHoa hồng xanh (old: 129) lydo: Nhặt từ map at 03/11/2023 5:35 PM
+BAG:belenba add 51xHoa hồng đỏ (old: 50) lydo: Nhặt từ map at 03/11/2023 5:41 PM
+BAG:belenba add 131xHoa hồng xanh (old: 130) lydo: Nhặt từ map at 03/11/2023 5:42 PM
+BAG:belenba add 6xĐá Ruby (old: 5) lydo: Nhặt từ map at 03/11/2023 5:44 PM
+BAG:belenba add 151xHoa hồng vàng (old: 150) lydo: Nhặt từ map at 03/11/2023 5:46 PM
+BAG:belenba add 132xHoa hồng xanh (old: 131) lydo: Nhặt từ map at 03/11/2023 5:47 PM
+BAG:belenba add 152xHoa hồng vàng (old: 151) lydo: Nhặt từ map at 03/11/2023 5:51 PM
+BAG:belenba add 153xHoa hồng vàng (old: 152) lydo: Nhặt từ map at 03/11/2023 5:53 PM
+BAG:belenba add 52xHoa hồng đỏ (old: 51) lydo: Nhặt từ map at 03/11/2023 5:56 PM
+BAG:belenba add 154xHoa hồng vàng (old: 153) lydo: Nhặt từ map at 03/11/2023 5:58 PM
+BAG:belenba add 133xHoa hồng xanh (old: 132) lydo: Nhặt từ map at 03/11/2023 6:08 PM
+BAG:belenba add 155xHoa hồng vàng (old: 154) lydo: Nhặt từ map at 03/11/2023 6:09 PM
+BAG:belenba add 53xHoa hồng đỏ (old: 52) lydo: Nhặt từ map at 03/11/2023 6:10 PM
+BAG:belenba add 3xĐá Saphia (old: 2) lydo: Nhặt từ map at 03/11/2023 6:12 PM
+BAG:belenba add 4xĐá Saphia (old: 3) lydo: Nhặt từ map at 03/11/2023 6:17 PM
+BAG:belenba add 7xĐá Ruby (old: 6) lydo: Nhặt từ map at 03/11/2023 6:22 PM
+BAG:belenba add 1xĐá lục bảo lydo: Nhặt từ map at 03/11/2023 6:25 PM
+BAG:belenba add 134xHoa hồng xanh (old: 133) lydo: Nhặt từ map at 03/11/2023 6:27 PM
+BAG:belenba add 135xHoa hồng xanh (old: 134) lydo: Nhặt từ map at 03/11/2023 6:28 PM
+BAG:belenba add 54xHoa hồng đỏ (old: 53) lydo: Nhặt từ map at 03/11/2023 6:29 PM
+BAG:belenba add 136xHoa hồng xanh (old: 135) lydo: Nhặt từ map at 03/11/2023 6:30 PM
+BAG:belenba add 17xĐá thạch anh tím (old: 16) lydo: Nhặt từ map at 03/11/2023 6:31 PM
+BAG:belenba add 18xĐá thạch anh tím (old: 17) lydo: Nhặt từ map at 03/11/2023 6:32 PM
+BAG:belenba add 156xHoa hồng vàng (old: 155) lydo: Nhặt từ map at 03/11/2023 6:37 PM
+BAG:belenba add 157xHoa hồng vàng (old: 156) lydo: Nhặt từ map at 03/11/2023 6:41 PM
+BAG:belenba add 55xHoa hồng đỏ (old: 54) lydo: Nhặt từ map at 03/11/2023 6:42 PM
+BAG:belenba add 137xHoa hồng xanh (old: 136) lydo: Nhặt từ map at 03/11/2023 6:46 PM
+BAG:belenba add 158xHoa hồng vàng (old: 157) lydo: Nhặt từ map at 03/11/2023 6:47 PM
+BAG:belenba add 159xHoa hồng vàng (old: 158) lydo: Nhặt từ map at 03/11/2023 7:34 PM
+BAG:belenba add 19xĐá thạch anh tím (old: 18) lydo: Nhặt từ map at 03/11/2023 7:37 PM
+BAG:belenba add 160xHoa hồng vàng (old: 159) lydo: Nhặt từ map at 03/11/2023 7:39 PM
+BAG:belenba add 1xNgọc Rồng 4 sao lydo: Nhặt từ map at 03/11/2023 7:40 PM
+BAG:belenba add 5xĐá Saphia (old: 4) lydo: Nhặt từ map at 03/11/2023 7:42 PM
+BAG:belenba add 161xHoa hồng vàng (old: 160) lydo: Nhặt từ map at 03/11/2023 7:43 PM
+BAG:belenba add 2xNgọc Rồng 4 sao (old: 1) lydo: Nhặt từ map at 03/11/2023 7:43 PM
+BAG:belenba add 6xĐá Saphia (old: 5) lydo: Nhặt từ map at 03/11/2023 7:45 PM
+BAG:belenba add 1xĐá Titan lydo: Nhặt từ map at 03/11/2023 7:45 PM
+BAG:belenba add 56xHoa hồng đỏ (old: 55) lydo: Nhặt từ map at 03/11/2023 7:46 PM
+BAG:belenba add 57xHoa hồng đỏ (old: 56) lydo: Nhặt từ map at 03/11/2023 7:53 PM
+BAG:belenba add 162xHoa hồng vàng (old: 161) lydo: Nhặt từ map at 03/11/2023 7:55 PM
+BAG:belenba add 58xHoa hồng đỏ (old: 57) lydo: Nhặt từ map at 03/11/2023 7:58 PM
+BAG:belenba add 163xHoa hồng vàng (old: 162) lydo: Nhặt từ map at 03/11/2023 8:03 PM
+BAG:belenba add 59xHoa hồng đỏ (old: 58) lydo: Nhặt từ map at 03/11/2023 8:03 PM
+BAG:belenba add 60xHoa hồng đỏ (old: 59) lydo: Nhặt từ map at 03/11/2023 8:05 PM
+BAG:belenba add 61xHoa hồng đỏ (old: 60) lydo: Nhặt từ map at 03/11/2023 8:07 PM
+BAG:belenba add 164xHoa hồng vàng (old: 163) lydo: Nhặt từ map at 03/11/2023 8:13 PM
+BAG:belenba add 165xHoa hồng vàng (old: 164) lydo: Nhặt từ map at 03/11/2023 8:15 PM
+BAG:belenba add 166xHoa hồng vàng (old: 165) lydo: Nhặt từ map at 03/11/2023 8:18 PM
+BAG:belenba add 3xNgọc Rồng 4 sao (old: 2) lydo: Nhặt từ map at 03/11/2023 8:20 PM
+BAG:belenba add 62xHoa hồng đỏ (old: 61) lydo: Nhặt từ map at 03/11/2023 8:24 PM
+BAG:belenba add 4xNgọc Rồng 4 sao (old: 3) lydo: Nhặt từ map at 03/11/2023 8:26 PM
+BAG:belenba add 138xHoa hồng xanh (old: 137) lydo: Nhặt từ map at 03/11/2023 8:26 PM
+BAG:belenba add 167xHoa hồng vàng (old: 166) lydo: Nhặt từ map at 03/11/2023 8:31 PM
+BAG:belenba add 4xNgọc Rồng 6 sao (old: 3) lydo: Nhặt từ map at 03/11/2023 8:33 PM
+BAG:belenba add 168xHoa hồng vàng (old: 167) lydo: Nhặt từ map at 03/11/2023 8:38 PM
+BAG:belenba add 169xHoa hồng vàng (old: 168) lydo: Nhặt từ map at 03/11/2023 8:40 PM
+BAG:belenba add 7xĐá Saphia (old: 6) lydo: Nhặt từ map at 03/11/2023 8:44 PM
+BAG:belenba add 8xĐá Ruby (old: 7) lydo: Nhặt từ map at 03/11/2023 8:46 PM
+BAG:belenba add 139xHoa hồng xanh (old: 138) lydo: Nhặt từ map at 03/11/2023 8:46 PM
+BAG:belenba add 63xHoa hồng đỏ (old: 62) lydo: Nhặt từ map at 03/11/2023 8:47 PM
+BAG:belenba add 140xHoa hồng xanh (old: 139) lydo: Nhặt từ map at 03/11/2023 8:47 PM
+BAG:belenba add 64xHoa hồng đỏ (old: 63) lydo: Nhặt từ map at 03/11/2023 8:47 PM
+BAG:belenba add 170xHoa hồng vàng (old: 169) lydo: Nhặt từ map at 03/11/2023 8:50 PM
+BAG:belenba add 9xĐá Ruby (old: 8) lydo: Nhặt từ map at 03/11/2023 8:56 PM
+BAG:belenba add 5xNgọc Rồng 4 sao (old: 4) lydo: Nhặt từ map at 03/11/2023 8:58 PM
+BAG:belenba add 171xHoa hồng vàng (old: 170) lydo: Nhặt từ map at 03/11/2023 9:03 PM
+BAG:belenba add 172xHoa hồng vàng (old: 171) lydo: Nhặt từ map at 03/11/2023 9:04 PM
+BAG:belenba add 65xHoa hồng đỏ (old: 64) lydo: Nhặt từ map at 03/11/2023 9:06 PM
+BAG:belenba add 20xĐá thạch anh tím (old: 19) lydo: Nhặt từ map at 03/11/2023 9:07 PM
+BAG:belenba add 173xHoa hồng vàng (old: 172) lydo: Nhặt từ map at 03/11/2023 9:08 PM
+BAG:belenba add 141xHoa hồng xanh (old: 140) lydo: Nhặt từ map at 03/11/2023 9:11 PM
+BAG:belenba add 2xĐá Titan (old: 1) lydo: Nhặt từ map at 03/11/2023 9:16 PM
+BAG:belenba add 66xHoa hồng đỏ (old: 65) lydo: Nhặt từ map at 03/11/2023 9:20 PM
+BAG:belenba add 142xHoa hồng xanh (old: 141) lydo: Nhặt từ map at 03/11/2023 9:23 PM
+BAG:belenba add 174xHoa hồng vàng (old: 173) lydo: Nhặt từ map at 03/11/2023 9:23 PM
+BAG:belenba add 5xNgọc Rồng 6 sao (old: 4) lydo: Nhặt từ map at 03/11/2023 9:28 PM
+BAG:belenba add 175xHoa hồng vàng (old: 174) lydo: Nhặt từ map at 03/11/2023 9:29 PM
+BAG:belenba add 67xHoa hồng đỏ (old: 66) lydo: Nhặt từ map at 03/11/2023 9:33 PM
+BAG:belenba add 8xĐá Saphia (old: 7) lydo: Nhặt từ map at 03/11/2023 9:35 PM
+BAG:belenba add 68xHoa hồng đỏ (old: 67) lydo: Nhặt từ map at 03/11/2023 9:36 PM
+BAG:belenba add 176xHoa hồng vàng (old: 175) lydo: Nhặt từ map at 03/11/2023 9:36 PM
+BAG:belenba add 143xHoa hồng xanh (old: 142) lydo: Nhặt từ map at 03/11/2023 9:37 PM
+BAG:belenba add 6xNgọc Rồng 4 sao (old: 5) lydo: Nhặt từ map at 03/11/2023 9:38 PM
+BAG:belenba add 9xĐá Saphia (old: 8) lydo: Nhặt từ map at 03/11/2023 9:38 PM
+BAG:belenba add 21xĐá thạch anh tím (old: 20) lydo: Nhặt từ map at 03/11/2023 9:41 PM
+BAG:belenba add 69xHoa hồng đỏ (old: 68) lydo: Nhặt từ map at 03/11/2023 9:42 PM

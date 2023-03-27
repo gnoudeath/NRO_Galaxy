@@ -1,0 +1,27 @@
+BAG:chienthan1 add 1xHoa hồng vàng lydo: Nhặt từ map at 03/12/2023 8:06 AM
+BAG:chienthan1 add 1xRada cấp 1 lydo: Nhặt từ map at 03/12/2023 8:07 AM
+BAG:chienthan1 add 1xÁo vải 3 lỗ lydo: Nhặt từ map at 03/12/2023 8:08 AM
+BAG:chienthan1 add 1xĐá thạch anh tím lydo: Nhặt từ map at 03/12/2023 8:09 AM
+BAG:chienthan1 add 1xNho tím lydo: Mua từ cửa hàng at 03/12/2023 8:11 AM
+BAG:chienthan1 add 1xViên Capsule đặc biệt lydo: Mua từ cửa hàng at 03/12/2023 8:11 AM
+BAG:chienthan1 add 1xSách đấm Dragon lv2 lydo: Mua từ cửa hàng at 03/12/2023 8:12 AM
+BAG:chienthan1 add 1xSách đấm Dragon lv3 lydo: Mua từ cửa hàng at 03/12/2023 8:12 AM
+BAG:chienthan1 add 1xSách đấm Dragon lv4 lydo: Mua từ cửa hàng at 03/12/2023 8:12 AM
+BAG:chienthan1 add 1xSách đấm Dragon lv5 lydo: Mua từ cửa hàng at 03/12/2023 8:12 AM
+BAG:chienthan1 add 1xSách đấm Dragon lv6 lydo: Mua từ cửa hàng at 03/12/2023 8:12 AM
+BAG:chienthan1 add 1xSách đấm Dragon lv7 lydo: Mua từ cửa hàng at 03/12/2023 8:12 AM
+BAG:chienthan1 add 1xSách Kamejoko lv1 lydo: Mua từ cửa hàng at 03/12/2023 8:12 AM
+BAG:chienthan1 add 1xSách Kamejoko lv2 lydo: Mua từ cửa hàng at 03/12/2023 8:13 AM
+BAG:chienthan1 add 1xSách Kamejoko lv3 lydo: Mua từ cửa hàng at 03/12/2023 8:13 AM
+BAG:chienthan1 add 1xSách Kamejoko lv4 lydo: Mua từ cửa hàng at 03/12/2023 8:13 AM
+BAG:chienthan1 add 1xSách Kamejoko lv5 lydo: Mua từ cửa hàng at 03/12/2023 8:13 AM
+BAG:chienthan1 add 1xSách Kamejoko lv6 lydo: Mua từ cửa hàng at 03/12/2023 8:13 AM
+BAG:chienthan1 add 1xSách Kamejoko lv7 lydo: Mua từ cửa hàng at 03/12/2023 8:13 AM
+BAG:chienthan1 add 1xThái Dương Hạ San lv1 lydo: Mua từ cửa hàng at 03/12/2023 8:14 AM
+BAG:chienthan1 add 1xThái Dương Hạ San lv2 lydo: Mua từ cửa hàng at 03/12/2023 8:14 AM
+BAG:chienthan1 add 1xThái Dương Hạ San lv3 lydo: Mua từ cửa hàng at 03/12/2023 8:14 AM
+BAG:chienthan1 add 1xThái Dương Hạ San lv4 lydo: Mua từ cửa hàng at 03/12/2023 8:14 AM
+BAG:chienthan1 add 1xThái Dương Hạ San lv5 lydo: Mua từ cửa hàng at 03/12/2023 8:14 AM
+BAG:chienthan1 add 1xThái Dương Hạ San lv7 lydo: Mua từ cửa hàng at 03/12/2023 8:14 AM
+BAG:chienthan1 add 1xThái Dương Hạ San lv6 lydo: Mua từ cửa hàng at 03/12/2023 8:14 AM
+BAG:chienthan1 add 10xĐậu thần cấp 10 lydo: Thu hoạch đậu at 03/12/2023 8:15 AM

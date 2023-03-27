@@ -1,0 +1,12 @@
+BAG:thanhgia add 3xĐá Saphia (old: 2) lydo: Nhặt từ map at 03/11/2023 1:45 PM
+BAG:thanhgia add 35xHoa hồng đỏ (old: 34) lydo: Nhặt từ map at 03/11/2023 1:47 PM
+BAG:thanhgia add 38xHoa hồng vàng (old: 37) lydo: Nhặt từ map at 03/11/2023 5:37 PM
+BAG:thanhgia add 36xHoa hồng đỏ (old: 35) lydo: Nhặt từ map at 03/11/2023 5:37 PM
+BAG:thanhgia add 37xHoa hồng đỏ (old: 36) lydo: Nhặt từ map at 03/11/2023 5:37 PM
+BAG:thanhgia add 39xHoa hồng vàng (old: 38) lydo: Nhặt từ map at 03/11/2023 5:37 PM
+BAG:thanhgia add 40xHoa hồng vàng (old: 39) lydo: Nhặt từ map at 03/11/2023 5:37 PM
+BAG:thanhgia add 1xSách đấm Galick lv2 lydo: Mua từ cửa hàng at 03/11/2023 5:40 PM
+BAG:thanhgia add 1xSách đấm Galick lv3 lydo: Mua từ cửa hàng at 03/11/2023 5:40 PM
+BAG:thanhgia add 5xĐậu thần cấp 5 lydo: Thu hoạch đậu at 03/11/2023 5:40 PM
+BAG:thanhgia add 38xHoa hồng đỏ (old: 37) lydo: Nhặt từ map at 03/11/2023 5:41 PM
+BAG:thanhgia add 39xHoa hồng xanh (old: 38) lydo: Nhặt từ map at 03/11/2023 5:41 PM

@@ -1,0 +1,25 @@
+BAG:khanh add 5xĐậu thần cấp 1 lydo: Thu hoạch đậu at 03/11/2023 5:51 PM
+BAG:khanh add 5xĐậu thần cấp 3 lydo: Thu hoạch đậu at 03/11/2023 5:51 PM
+BAG:khanh add 150xThỏi vàng lydo: Giftcode at 03/11/2023 5:54 PM
+BAG:khanh add 99xNgọc Rồng 3 sao lydo: Giftcode at 03/11/2023 5:54 PM
+BAG:khanh add 10xĐậu thần cấp 10 lydo: Thu hoạch đậu at 03/11/2023 5:57 PM
+BAG:khanh add 26xĐậu thần cấp 10 (old: 10) lydo: Lấy từ rương qua người at 03/11/2023 5:57 PM
+BAG:khanh add 4xĐậu thần cấp 3 lydo: Lấy từ rương qua người at 03/11/2023 5:57 PM
+BAG:khanh add 1xRada cấp 1 lydo: Lấy từ rương qua người at 03/11/2023 5:57 PM
+BAG:khanh add 46xĐậu thần cấp 10 (old: 26) lydo: Lấy từ rương qua người at 03/11/2023 5:57 PM
+BAG:khanh add 66xĐậu thần cấp 10 (old: 46) lydo: Lấy từ rương qua người at 03/11/2023 5:57 PM
+BAG:khanh add 86xĐậu thần cấp 10 (old: 66) lydo: Lấy từ rương qua người at 03/11/2023 5:58 PM
+BAG:khanh add 1xĐá Ruby lydo: Nhặt từ map at 03/11/2023 5:59 PM
+BAG:khanh add 1xHoa hồng xanh lydo: Nhặt từ map at 03/11/2023 6:00 PM
+BAG:khanh add 2xHoa hồng xanh (old: 1) lydo: Nhặt từ map at 03/11/2023 6:00 PM
+BAG:khanh add 1xRada cấp 1 lydo: Nhặt từ map at 03/11/2023 6:00 PM
+BAG:khanh add 3xHoa hồng xanh (old: 2) lydo: Nhặt từ map at 03/11/2023 6:00 PM
+BAG:khanh add 1xHoa hồng vàng lydo: Nhặt từ map at 03/11/2023 6:00 PM
+BAG:khanh add 1xHoa hồng đỏ lydo: Nhặt từ map at 03/11/2023 6:01 PM
+BAG:khanh add 4xHoa hồng xanh (old: 3) lydo: Nhặt từ map at 03/11/2023 6:01 PM
+BAG:khanh add 5xHoa hồng xanh (old: 4) lydo: Nhặt từ map at 03/11/2023 6:01 PM
+BAG:khanh add 2xHoa hồng vàng (old: 1) lydo: Nhặt từ map at 03/11/2023 6:01 PM
+BAG:khanh add 3xHoa hồng vàng (old: 2) lydo: Nhặt từ map at 03/11/2023 6:01 PM
+BAG:khanh add 7xĐậu thần cấp 10 lydo: Lấy từ rương qua người at 03/11/2023 6:02 PM
+BAG:khanh add 99xĐậu thần cấp 10 (old: 86) lydo: Lấy từ rương qua người at 03/11/2023 6:02 PM
+BAG:khanh add 1xĐá lục bảo lydo: Nhặt từ map at 03/11/2023 6:03 PM

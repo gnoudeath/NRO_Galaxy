@@ -1,0 +1,428 @@
+BAG:taitrumglx remove Giáp tập luyện cấp 3 lydo: Mặc vào người at 03/12/2023 6:30 PM
+BAG:taitrumglx remove 1xCuồng nộ lydo: Dùng buff at 03/12/2023 6:41 PM
+BAG:taitrumglx remove Giáp tập luyện cấp 3 lydo: Mặc vào người at 03/12/2023 6:41 PM
+BAG:taitrumglx remove Giáp tập luyện cấp 3 lydo: Mặc vào người at 03/12/2023 6:49 PM
+BAG:taitrumglx remove 2xHoa hồng đỏ lydo: Bán cho shop at 03/12/2023 6:50 PM
+BAG:taitrumglx remove 1xMáy dò Capsule kì bí lydo: Dùng máy dò at 03/12/2023 6:51 PM
+BAG:taitrumglx remove Hoa hồng đỏ lydo: Tự Xóa vật phẩm at 03/12/2023 6:51 PM
+BAG:taitrumglx remove Đá lục bảo lydo: Tự Xóa vật phẩm at 03/12/2023 6:51 PM
+BAG:taitrumglx remove Đá Titan lydo: Tự Xóa vật phẩm at 03/12/2023 6:51 PM
+BAG:taitrumglx remove Hoa hồng vàng lydo: Tự Xóa vật phẩm at 03/12/2023 6:55 PM
+BAG:taitrumglx remove Hoa hồng xanh lydo: Tự Xóa vật phẩm at 03/12/2023 6:55 PM
+BAG:taitrumglx remove 1xCuồng nộ lydo: Dùng buff at 03/12/2023 6:56 PM
+BAG:taitrumglx remove Giáp tập luyện cấp 3 lydo: Mặc vào người at 03/12/2023 6:57 PM
+BAG:taitrumglx remove Hoa hồng đỏ lydo: Tự Xóa vật phẩm at 03/12/2023 7:05 PM
+BAG:taitrumglx remove Giáp tập luyện cấp 3 lydo: Mặc vào người at 03/12/2023 7:07 PM
+BAG:taitrumglx remove Giáp tập luyện cấp 3 lydo: Mặc vào người at 03/12/2023 7:09 PM
+BAG:taitrumglx remove Hoa hồng đỏ lydo: Tự Xóa vật phẩm at 03/12/2023 7:11 PM
+BAG:taitrumglx remove Hoa hồng vàng lydo: Tự Xóa vật phẩm at 03/12/2023 7:14 PM
+BAG:taitrumglx remove 1xCuồng nộ lydo: Dùng buff at 03/12/2023 7:15 PM
+BAG:taitrumglx remove Giáp tập luyện cấp 3 lydo: Mặc vào người at 03/12/2023 7:15 PM
+BAG:taitrumglx remove Ngọc Rồng 6 sao lydo: Tự Xóa vật phẩm at 03/12/2023 7:22 PM
+BAG:taitrumglx remove Đá Ruby lydo: Tự Xóa vật phẩm at 03/12/2023 7:22 PM
+BAG:taitrumglx remove Đá Saphia lydo: Tự Xóa vật phẩm at 03/12/2023 7:22 PM
+BAG:taitrumglx remove Giáp tập luyện cấp 3 lydo: Mặc vào người at 03/12/2023 7:24 PM
+BAG:taitrumglx remove Giáp tập luyện cấp 3 lydo: Mặc vào người at 03/12/2023 7:33 PM
+BAG:taitrumglx remove 1xCuồng nộ lydo: Dùng buff at 03/12/2023 7:34 PM
+BAG:taitrumglx remove Giáp tập luyện cấp 3 lydo: Mặc vào người at 03/12/2023 7:36 PM
+BAG:taitrumglx remove Giáp tập luyện cấp 3 lydo: Mặc vào người at 03/12/2023 7:37 PM
+BAG:taitrumglx remove Giáp tập luyện cấp 3 lydo: Mặc vào người at 03/12/2023 7:40 PM
+BAG:taitrumglx remove Đá ngũ sắc lydo: Cất vào rương at 03/12/2023 7:42 PM
+BAG:taitrumglx remove Thiệp chúc mừng xanh lydo: Cất vào rương at 03/12/2023 7:42 PM
+BAG:taitrumglx remove Thiệp chúc mừng xanh lydo: Cất vào rương at 03/12/2023 7:42 PM
+BAG:taitrumglx remove Hộp bánh Trung Thu lydo: Cất vào rương at 03/12/2023 7:42 PM
+BAG:taitrumglx remove Giáp tập luyện cấp 3 lydo: Mặc vào người at 03/12/2023 7:47 PM
+BAG:taitrumglx remove Giáp tập luyện cấp 3 lydo: Mặc vào người at 03/12/2023 7:48 PM
+BAG:taitrumglx remove Giáp tập luyện cấp 3 lydo: Mặc vào người at 03/12/2023 7:54 PM
+BAG:taitrumglx remove Giáp tập luyện cấp 3 lydo: Mặc vào người at 03/12/2023 7:55 PM
+BAG:taitrumglx remove Giáp tập luyện cấp 3 lydo: Mặc vào người at 03/12/2023 7:56 PM
+BAG:taitrumglx remove 1xCuồng nộ lydo: Dùng buff at 03/12/2023 8:04 PM
+BAG:taitrumglx remove Giáp tập luyện cấp 3 lydo: Mặc vào người at 03/12/2023 8:05 PM
+BAG:taitrumglx remove Đá Vĩnh Hằng lydo: Cất vào rương at 03/12/2023 8:09 PM
+BAG:taitrumglx remove Đá Hắc Hóa lydo: Cất vào rương at 03/12/2023 8:09 PM
+BAG:taitrumglx remove 1xCuồng nộ lydo: Dùng buff at 03/12/2023 8:15 PM
+BAG:taitrumglx remove Giáp tập luyện cấp 3 lydo: Mặc vào người at 03/12/2023 8:16 PM
+BAG:taitrumglx remove 5xCuồng nộ lydo: Giao dịch với songonku at 03/12/2023 8:19 PM
+BAG:taitrumglx remove 1xCuồng nộ lydo: Dùng buff at 03/12/2023 8:22 PM
+BAG:taitrumglx remove Giáp tập luyện cấp 3 lydo: Mặc vào người at 03/12/2023 8:23 PM
+BAG:taitrumglx remove 1xMáy dò Capsule kì bí lydo: Dùng máy dò at 03/12/2023 8:26 PM
+BAG:taitrumglx remove Đá Titan lydo: Tự Xóa vật phẩm at 03/12/2023 8:31 PM
+BAG:taitrumglx remove Hoa hồng đỏ lydo: Tự Xóa vật phẩm at 03/12/2023 8:32 PM
+BAG:taitrumglx remove Giáp tập luyện cấp 3 lydo: Mặc vào người at 03/12/2023 8:32 PM
+BAG:taitrumglx remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 8:34 PM
+BAG:taitrumglx remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 8:34 PM
+BAG:taitrumglx remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 8:34 PM
+BAG:taitrumglx remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 8:34 PM
+BAG:taitrumglx remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 8:34 PM
+BAG:taitrumglx remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 8:34 PM
+BAG:taitrumglx remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 8:34 PM
+BAG:taitrumglx remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 8:34 PM
+BAG:taitrumglx remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 8:34 PM
+BAG:taitrumglx remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 8:34 PM
+BAG:taitrumglx remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 8:34 PM
+BAG:taitrumglx remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 8:34 PM
+BAG:taitrumglx remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 8:34 PM
+BAG:taitrumglx remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 8:34 PM
+BAG:taitrumglx remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 8:34 PM
+BAG:taitrumglx remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 8:34 PM
+BAG:taitrumglx remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 8:34 PM
+BAG:taitrumglx remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 8:34 PM
+BAG:taitrumglx remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 8:34 PM
+BAG:taitrumglx remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 8:34 PM
+BAG:taitrumglx remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 8:34 PM
+BAG:taitrumglx remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 8:34 PM
+BAG:taitrumglx remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 8:34 PM
+BAG:taitrumglx remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 8:34 PM
+BAG:taitrumglx remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 8:34 PM
+BAG:taitrumglx remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 8:34 PM
+BAG:taitrumglx remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 8:34 PM
+BAG:taitrumglx remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 8:34 PM
+BAG:taitrumglx remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 8:34 PM
+BAG:taitrumglx remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 8:34 PM
+BAG:taitrumglx remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 8:34 PM
+BAG:taitrumglx remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 8:34 PM
+BAG:taitrumglx remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 8:34 PM
+BAG:taitrumglx remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 8:34 PM
+BAG:taitrumglx remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 8:34 PM
+BAG:taitrumglx remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 8:34 PM
+BAG:taitrumglx remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 8:34 PM
+BAG:taitrumglx remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 8:34 PM
+BAG:taitrumglx remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 8:34 PM
+BAG:taitrumglx remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 8:34 PM
+BAG:taitrumglx remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 8:34 PM
+BAG:taitrumglx remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 8:34 PM
+BAG:taitrumglx remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 8:34 PM
+BAG:taitrumglx remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 8:34 PM
+BAG:taitrumglx remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 8:34 PM
+BAG:taitrumglx remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 8:34 PM
+BAG:taitrumglx remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 8:34 PM
+BAG:taitrumglx remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 8:34 PM
+BAG:taitrumglx remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 8:34 PM
+BAG:taitrumglx remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 8:34 PM
+BAG:taitrumglx remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 8:34 PM
+BAG:taitrumglx remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 8:34 PM
+BAG:taitrumglx remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 8:34 PM
+BAG:taitrumglx remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 8:34 PM
+BAG:taitrumglx remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 8:34 PM
+BAG:taitrumglx remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 8:34 PM
+BAG:taitrumglx remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 8:34 PM
+BAG:taitrumglx remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 8:35 PM
+BAG:taitrumglx remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 8:35 PM
+BAG:taitrumglx remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 8:35 PM
+BAG:taitrumglx remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 8:35 PM
+BAG:taitrumglx remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 8:35 PM
+BAG:taitrumglx remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 8:35 PM
+BAG:taitrumglx remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 8:35 PM
+BAG:taitrumglx remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 8:35 PM
+BAG:taitrumglx remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 8:35 PM
+BAG:taitrumglx remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 8:35 PM
+BAG:taitrumglx remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 8:35 PM
+BAG:taitrumglx remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 8:35 PM
+BAG:taitrumglx remove Đá lục bảo lydo: Tự Xóa vật phẩm at 03/12/2023 8:48 PM
+BAG:taitrumglx remove 1xCuồng nộ lydo: Dùng buff at 03/12/2023 8:50 PM
+BAG:taitrumglx remove 1xMáy dò Capsule kì bí lydo: Dùng máy dò at 03/12/2023 8:57 PM
+BAG:taitrumglx remove Giáp tập luyện cấp 3 lydo: Mặc vào người at 03/12/2023 8:57 PM
+BAG:taitrumglx remove Giáp tập luyện cấp 3 lydo: Mặc vào người at 03/12/2023 9:00 PM
+BAG:taitrumglx remove 1xCuồng nộ lydo: Dùng buff at 03/12/2023 9:10 PM
+BAG:taitrumglx remove Giáp tập luyện cấp 3 lydo: Mặc vào người at 03/12/2023 9:14 PM
+BAG:taitrumglx remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 9:14 PM
+BAG:taitrumglx remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 9:14 PM
+BAG:taitrumglx remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 9:14 PM
+BAG:taitrumglx remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 9:14 PM
+BAG:taitrumglx remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 9:14 PM
+BAG:taitrumglx remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 9:14 PM
+BAG:taitrumglx remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 9:14 PM
+BAG:taitrumglx remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 9:14 PM
+BAG:taitrumglx remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 9:14 PM
+BAG:taitrumglx remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 9:14 PM
+BAG:taitrumglx remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 9:14 PM
+BAG:taitrumglx remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 9:14 PM
+BAG:taitrumglx remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 9:14 PM
+BAG:taitrumglx remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 9:14 PM
+BAG:taitrumglx remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 9:14 PM
+BAG:taitrumglx remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 9:14 PM
+BAG:taitrumglx remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 9:14 PM
+BAG:taitrumglx remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 9:14 PM
+BAG:taitrumglx remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 9:14 PM
+BAG:taitrumglx remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 9:14 PM
+BAG:taitrumglx remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 9:14 PM
+BAG:taitrumglx remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 9:14 PM
+BAG:taitrumglx remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 9:14 PM
+BAG:taitrumglx remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 9:14 PM
+BAG:taitrumglx remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 9:14 PM
+BAG:taitrumglx remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 9:14 PM
+BAG:taitrumglx remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 9:14 PM
+BAG:taitrumglx remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 9:14 PM
+BAG:taitrumglx remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 9:14 PM
+BAG:taitrumglx remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 9:14 PM
+BAG:taitrumglx remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 9:14 PM
+BAG:taitrumglx remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 9:14 PM
+BAG:taitrumglx remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 9:14 PM
+BAG:taitrumglx remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 9:14 PM
+BAG:taitrumglx remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 9:14 PM
+BAG:taitrumglx remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 9:14 PM
+BAG:taitrumglx remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 9:14 PM
+BAG:taitrumglx remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 9:14 PM
+BAG:taitrumglx remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 9:14 PM
+BAG:taitrumglx remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 9:14 PM
+BAG:taitrumglx remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 9:14 PM
+BAG:taitrumglx remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 9:14 PM
+BAG:taitrumglx remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 9:14 PM
+BAG:taitrumglx remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 9:14 PM
+BAG:taitrumglx remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 9:14 PM
+BAG:taitrumglx remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 9:14 PM
+BAG:taitrumglx remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 9:14 PM
+BAG:taitrumglx remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 9:14 PM
+BAG:taitrumglx remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 9:14 PM
+BAG:taitrumglx remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 9:14 PM
+BAG:taitrumglx remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 9:14 PM
+BAG:taitrumglx remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 9:14 PM
+BAG:taitrumglx remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 9:14 PM
+BAG:taitrumglx remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 9:14 PM
+BAG:taitrumglx remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 9:14 PM
+BAG:taitrumglx remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 9:14 PM
+BAG:taitrumglx remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 9:14 PM
+BAG:taitrumglx remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 9:14 PM
+BAG:taitrumglx remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 9:14 PM
+BAG:taitrumglx remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 9:14 PM
+BAG:taitrumglx remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 9:14 PM
+BAG:taitrumglx remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 9:14 PM
+BAG:taitrumglx remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 9:14 PM
+BAG:taitrumglx remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 9:14 PM
+BAG:taitrumglx remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 9:14 PM
+BAG:taitrumglx remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 9:14 PM
+BAG:taitrumglx remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 9:14 PM
+BAG:taitrumglx remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 9:14 PM
+BAG:taitrumglx remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 9:14 PM
+BAG:taitrumglx remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 9:14 PM
+BAG:taitrumglx remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 9:14 PM
+BAG:taitrumglx remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 9:14 PM
+BAG:taitrumglx remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 9:14 PM
+BAG:taitrumglx remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 9:14 PM
+BAG:taitrumglx remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 9:14 PM
+BAG:taitrumglx remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 9:14 PM
+BAG:taitrumglx remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 9:14 PM
+BAG:taitrumglx remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 9:14 PM
+BAG:taitrumglx remove 1xMáy dò Capsule kì bí lydo: Dùng máy dò at 03/12/2023 9:14 PM
+BAG:taitrumglx remove Tự động luyện tập lydo: Tự Xóa vật phẩm at 03/12/2023 9:15 PM
+BAG:taitrumglx remove Ẩn danh lydo: Tự Xóa vật phẩm at 03/12/2023 9:17 PM
+BAG:taitrumglx remove Giáp tập luyện cấp 3 lydo: Mặc vào người at 03/12/2023 9:18 PM
+BAG:taitrumglx remove Hoa hồng đỏ lydo: Tự Xóa vật phẩm at 03/12/2023 9:38 PM
+BAG:taitrumglx remove Tự động luyện tập lydo: Tự Xóa vật phẩm at 03/12/2023 9:38 PM
+BAG:taitrumglx remove Hoa hồng đỏ lydo: Tự Xóa vật phẩm at 03/12/2023 9:40 PM
+BAG:taitrumglx remove Hoa hồng đỏ lydo: Tự Xóa vật phẩm at 03/12/2023 9:46 PM
+BAG:taitrumglx remove Giáp tập luyện cấp 3 lydo: Mặc vào người at 03/12/2023 9:47 PM
+BAG:taitrumglx remove Hoa hồng đỏ lydo: Tự Xóa vật phẩm at 03/12/2023 9:51 PM
+BAG:taitrumglx remove 1xGiầy Thần Xayda lydo: Giao dịch với lh100hp at 03/12/2023 9:51 PM
+BAG:taitrumglx remove 1xÁo Thần Xayda lydo: Giao dịch với lh100hp at 03/12/2023 9:51 PM
+BAG:taitrumglx remove 1xQuần Thần Xayda lydo: Giao dịch với lh100hp at 03/12/2023 9:51 PM
+BAG:taitrumglx remove Đá Ruby lydo: Tự Xóa vật phẩm at 03/12/2023 10:05 PM
+BAG:taitrumglx remove Giáp tập luyện cấp 3 lydo: Mặc vào người at 03/12/2023 10:06 PM
+BAG:taitrumglx remove Giáp tập luyện cấp 3 lydo: Mặc vào người at 03/12/2023 10:08 PM
+BAG:taitrumglx remove Hoa hồng xanh lydo: Tự Xóa vật phẩm at 03/12/2023 10:09 PM
+BAG:taitrumglx remove 1xCuồng nộ lydo: Dùng buff at 03/12/2023 10:09 PM
+BAG:taitrumglx remove Giáp tập luyện cấp 3 lydo: Mặc vào người at 03/12/2023 10:12 PM
+BAG:taitrumglx remove 1xCuồng nộ lydo: Dùng buff at 03/12/2023 10:19 PM
+BAG:taitrumglx remove Giáp tập luyện cấp 3 lydo: Mặc vào người at 03/12/2023 10:19 PM
+BAG:taitrumglx remove 1xMáy dò Capsule kì bí lydo: Dùng máy dò at 03/12/2023 10:25 PM
+BAG:taitrumglx remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 10:25 PM
+BAG:taitrumglx remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 10:25 PM
+BAG:taitrumglx remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 10:25 PM
+BAG:taitrumglx remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 10:25 PM
+BAG:taitrumglx remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 10:25 PM
+BAG:taitrumglx remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 10:25 PM
+BAG:taitrumglx remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 10:26 PM
+BAG:taitrumglx remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 10:26 PM
+BAG:taitrumglx remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 10:26 PM
+BAG:taitrumglx remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 10:26 PM
+BAG:taitrumglx remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 10:26 PM
+BAG:taitrumglx remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 10:26 PM
+BAG:taitrumglx remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 10:26 PM
+BAG:taitrumglx remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 10:26 PM
+BAG:taitrumglx remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 10:26 PM
+BAG:taitrumglx remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 10:26 PM
+BAG:taitrumglx remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 10:26 PM
+BAG:taitrumglx remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 10:26 PM
+BAG:taitrumglx remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 10:26 PM
+BAG:taitrumglx remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 10:26 PM
+BAG:taitrumglx remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 10:26 PM
+BAG:taitrumglx remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 10:26 PM
+BAG:taitrumglx remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 10:26 PM
+BAG:taitrumglx remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 10:26 PM
+BAG:taitrumglx remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 10:26 PM
+BAG:taitrumglx remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 10:26 PM
+BAG:taitrumglx remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 10:26 PM
+BAG:taitrumglx remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 10:26 PM
+BAG:taitrumglx remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 10:26 PM
+BAG:taitrumglx remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 10:26 PM
+BAG:taitrumglx remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 10:26 PM
+BAG:taitrumglx remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 10:26 PM
+BAG:taitrumglx remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 10:26 PM
+BAG:taitrumglx remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 10:26 PM
+BAG:taitrumglx remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 10:26 PM
+BAG:taitrumglx remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 10:26 PM
+BAG:taitrumglx remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 10:26 PM
+BAG:taitrumglx remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 10:26 PM
+BAG:taitrumglx remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 10:26 PM
+BAG:taitrumglx remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 10:26 PM
+BAG:taitrumglx remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 10:26 PM
+BAG:taitrumglx remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 10:26 PM
+BAG:taitrumglx remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 10:26 PM
+BAG:taitrumglx remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 10:26 PM
+BAG:taitrumglx remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 10:26 PM
+BAG:taitrumglx remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 10:26 PM
+BAG:taitrumglx remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 10:26 PM
+BAG:taitrumglx remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 10:26 PM
+BAG:taitrumglx remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 10:26 PM
+BAG:taitrumglx remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 10:26 PM
+BAG:taitrumglx remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 10:26 PM
+BAG:taitrumglx remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 10:26 PM
+BAG:taitrumglx remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 10:26 PM
+BAG:taitrumglx remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 10:26 PM
+BAG:taitrumglx remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 10:26 PM
+BAG:taitrumglx remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 10:26 PM
+BAG:taitrumglx remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 10:26 PM
+BAG:taitrumglx remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 10:26 PM
+BAG:taitrumglx remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 10:26 PM
+BAG:taitrumglx remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 10:26 PM
+BAG:taitrumglx remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 10:26 PM
+BAG:taitrumglx remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 10:26 PM
+BAG:taitrumglx remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 10:26 PM
+BAG:taitrumglx remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 10:26 PM
+BAG:taitrumglx remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 10:26 PM
+BAG:taitrumglx remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 10:26 PM
+BAG:taitrumglx remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 10:26 PM
+BAG:taitrumglx remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 10:26 PM
+BAG:taitrumglx remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 10:26 PM
+BAG:taitrumglx remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 10:26 PM
+BAG:taitrumglx remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 10:26 PM
+BAG:taitrumglx remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 10:26 PM
+BAG:taitrumglx remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 10:26 PM
+BAG:taitrumglx remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 10:26 PM
+BAG:taitrumglx remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 10:26 PM
+BAG:taitrumglx remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 10:26 PM
+BAG:taitrumglx remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 10:26 PM
+BAG:taitrumglx remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 10:26 PM
+BAG:taitrumglx remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 10:26 PM
+BAG:taitrumglx remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 10:26 PM
+BAG:taitrumglx remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 10:26 PM
+BAG:taitrumglx remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 10:26 PM
+BAG:taitrumglx remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 10:26 PM
+BAG:taitrumglx remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 10:26 PM
+BAG:taitrumglx remove Đá lục bảo lydo: Tự Xóa vật phẩm at 03/12/2023 10:32 PM
+BAG:taitrumglx remove Giáp tập luyện cấp 3 lydo: Mặc vào người at 03/12/2023 10:32 PM
+BAG:taitrumglx remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 10:40 PM
+BAG:taitrumglx remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 10:40 PM
+BAG:taitrumglx remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 10:40 PM
+BAG:taitrumglx remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 10:40 PM
+BAG:taitrumglx remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 10:40 PM
+BAG:taitrumglx remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 10:40 PM
+BAG:taitrumglx remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 10:40 PM
+BAG:taitrumglx remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 10:40 PM
+BAG:taitrumglx remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 10:40 PM
+BAG:taitrumglx remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 10:40 PM
+BAG:taitrumglx remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 10:40 PM
+BAG:taitrumglx remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 10:40 PM
+BAG:taitrumglx remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 10:40 PM
+BAG:taitrumglx remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 10:40 PM
+BAG:taitrumglx remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 10:40 PM
+BAG:taitrumglx remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 10:40 PM
+BAG:taitrumglx remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 10:40 PM
+BAG:taitrumglx remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 10:40 PM
+BAG:taitrumglx remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 10:40 PM
+BAG:taitrumglx remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 10:40 PM
+BAG:taitrumglx remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 10:40 PM
+BAG:taitrumglx remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 10:40 PM
+BAG:taitrumglx remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 10:40 PM
+BAG:taitrumglx remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 10:40 PM
+BAG:taitrumglx remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 10:40 PM
+BAG:taitrumglx remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 10:40 PM
+BAG:taitrumglx remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 10:40 PM
+BAG:taitrumglx remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 10:40 PM
+BAG:taitrumglx remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 10:40 PM
+BAG:taitrumglx remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 10:40 PM
+BAG:taitrumglx remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 10:40 PM
+BAG:taitrumglx remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 10:40 PM
+BAG:taitrumglx remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 10:40 PM
+BAG:taitrumglx remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 10:40 PM
+BAG:taitrumglx remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 10:40 PM
+BAG:taitrumglx remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 10:40 PM
+BAG:taitrumglx remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 10:40 PM
+BAG:taitrumglx remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 10:40 PM
+BAG:taitrumglx remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 10:40 PM
+BAG:taitrumglx remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 10:40 PM
+BAG:taitrumglx remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 10:40 PM
+BAG:taitrumglx remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 10:40 PM
+BAG:taitrumglx remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 10:40 PM
+BAG:taitrumglx remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 10:40 PM
+BAG:taitrumglx remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 10:40 PM
+BAG:taitrumglx remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 10:40 PM
+BAG:taitrumglx remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 10:40 PM
+BAG:taitrumglx remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 10:40 PM
+BAG:taitrumglx remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 10:40 PM
+BAG:taitrumglx remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 10:40 PM
+BAG:taitrumglx remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 10:40 PM
+BAG:taitrumglx remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 10:40 PM
+BAG:taitrumglx remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 10:40 PM
+BAG:taitrumglx remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 10:40 PM
+BAG:taitrumglx remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 10:40 PM
+BAG:taitrumglx remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 10:40 PM
+BAG:taitrumglx remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 10:40 PM
+BAG:taitrumglx remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 10:40 PM
+BAG:taitrumglx remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 10:40 PM
+BAG:taitrumglx remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 10:40 PM
+BAG:taitrumglx remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 10:40 PM
+BAG:taitrumglx remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 10:40 PM
+BAG:taitrumglx remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 10:40 PM
+BAG:taitrumglx remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 10:40 PM
+BAG:taitrumglx remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 10:40 PM
+BAG:taitrumglx remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 10:40 PM
+BAG:taitrumglx remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 10:40 PM
+BAG:taitrumglx remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 10:40 PM
+BAG:taitrumglx remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 10:40 PM
+BAG:taitrumglx remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 10:40 PM
+BAG:taitrumglx remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 10:40 PM
+BAG:taitrumglx remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 10:40 PM
+BAG:taitrumglx remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 10:40 PM
+BAG:taitrumglx remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 10:40 PM
+BAG:taitrumglx remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 10:40 PM
+BAG:taitrumglx remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 10:40 PM
+BAG:taitrumglx remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 10:40 PM
+BAG:taitrumglx remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 10:40 PM
+BAG:taitrumglx remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 10:40 PM
+BAG:taitrumglx remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 10:40 PM
+BAG:taitrumglx remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 10:40 PM
+BAG:taitrumglx remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 10:40 PM
+BAG:taitrumglx remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 10:40 PM
+BAG:taitrumglx remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 10:40 PM
+BAG:taitrumglx remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 10:40 PM
+BAG:taitrumglx remove Hoa hồng xanh lydo: Tự Xóa vật phẩm at 03/12/2023 10:45 PM
+BAG:taitrumglx remove 1xCuồng nộ lydo: Dùng buff at 03/12/2023 10:48 PM
+BAG:taitrumglx remove Giáp tập luyện cấp 3 lydo: Mặc vào người at 03/12/2023 10:49 PM
+BAG:taitrumglx remove 1xMáy dò Capsule kì bí lydo: Dùng máy dò at 03/12/2023 10:49 PM
+BAG:taitrumglx remove 1xCuồng nộ lydo: Dùng buff at 03/12/2023 10:55 PM
+BAG:taitrumglx remove Giáp tập luyện cấp 3 lydo: Mặc vào người at 03/12/2023 11:00 PM
+BAG:taitrumglx remove Giáp tập luyện cấp 3 lydo: Mặc vào người at 03/12/2023 11:00 PM
+BAG:taitrumglx remove Đá ngũ sắc lydo: Cất vào rương at 03/12/2023 11:03 PM
+BAG:taitrumglx remove Ngọc Rồng 2 sao lydo: Cất vào rương at 03/12/2023 11:03 PM
+BAG:taitrumglx remove 1xCuồng nộ lydo: Dùng buff at 03/12/2023 11:19 PM
+BAG:taitrumglx remove Giáp tập luyện cấp 3 lydo: Mặc vào người at 03/12/2023 11:20 PM
+BAG:taitrumglx remove Giáp tập luyện cấp 3 lydo: Mặc vào người at 03/12/2023 11:22 PM
+BAG:taitrumglx remove 7xNgọc Rồng 2 sao lydo: Giao dịch với toitenbuonn at 03/12/2023 11:22 PM
+BAG:taitrumglx remove Giáp tập luyện cấp 3 lydo: Mặc vào người at 03/12/2023 11:23 PM
+BAG:taitrumglx remove Đá ngũ sắc lydo: Cất vào rương at 03/12/2023 11:25 PM
+BAG:taitrumglx remove 1xCuồng nộ lydo: Dùng buff at 03/12/2023 11:32 PM
+BAG:taitrumglx remove Giáp tập luyện cấp 3 lydo: Mặc vào người at 03/12/2023 11:32 PM
+BAG:taitrumglx remove Giáp tập luyện cấp 3 lydo: Mặc vào người at 03/12/2023 11:40 PM
+BAG:taitrumglx remove Hoa hồng đỏ lydo: Tự Xóa vật phẩm at 03/12/2023 11:42 PM
+BAG:taitrumglx remove Đậu thần cấp 10 lydo: Tự Xóa vật phẩm at 03/12/2023 11:42 PM
+BAG:taitrumglx remove 1xĐá ngũ sắc lydo: Mua đồ hủy diệt at 03/12/2023 11:42 PM
+BAG:taitrumglx remove Đá ngũ sắc lydo: Cất vào rương at 03/12/2023 11:42 PM
+BAG:taitrumglx remove Nhẫn Thần Linh lydo: Cất vào rương at 03/12/2023 11:42 PM
+BAG:taitrumglx remove Giày Thần Linh lydo: Cất vào rương at 03/12/2023 11:42 PM
+BAG:taitrumglx remove 1xCuồng nộ lydo: Dùng buff at 03/12/2023 11:44 PM
+BAG:taitrumglx remove Giáp tập luyện cấp 3 lydo: Mặc vào người at 03/12/2023 11:50 PM
+BAG:taitrumglx remove Giáp tập luyện cấp 3 lydo: Mặc vào người at 03/12/2023 11:54 PM
+BAG:taitrumglx remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 11:59 PM
+BAG:taitrumglx remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 11:59 PM
+BAG:taitrumglx remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 11:59 PM

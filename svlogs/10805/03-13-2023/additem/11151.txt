@@ -1,0 +1,25 @@
+BAG:kakalotglx add 120xHoa hồng vàng (old: 119) lydo: Nhặt từ map at 03/13/2023 12:00 AM
+BAG:kakalotglx add 121xHoa hồng vàng (old: 120) lydo: Nhặt từ map at 03/13/2023 12:00 AM
+BAG:kakalotglx add 25xHoa hồng xanh (old: 24) lydo: Nhặt từ map at 03/13/2023 12:00 AM
+BAG:kakalotglx add 122xHoa hồng vàng (old: 121) lydo: Nhặt từ map at 03/13/2023 12:00 AM
+BAG:kakalotglx add 123xHoa hồng vàng (old: 122) lydo: Nhặt từ map at 03/13/2023 12:01 AM
+BAG:kakalotglx add 1xCải Trang Glaxy lydo: Lấy từ rương qua người at 03/13/2023 12:03 AM
+BAG:kakalotglx add 124xHoa hồng vàng (old: 123) lydo: Nhặt từ map at 03/13/2023 2:03 AM
+BAG:kakalotglx add 125xHoa hồng vàng (old: 124) lydo: Nhặt từ map at 03/13/2023 2:04 AM
+BAG:kakalotglx add 126xHoa hồng vàng (old: 125) lydo: Nhặt từ map at 03/13/2023 2:04 AM
+BAG:kakalotglx add 26xHoa hồng xanh (old: 25) lydo: Nhặt từ map at 03/13/2023 2:04 AM
+BAG:kakalotglx add 101xHoa hồng đỏ (old: 100) lydo: Nhặt từ map at 03/13/2023 2:04 AM
+BAG:kakalotglx add 127xHoa hồng vàng (old: 126) lydo: Nhặt từ map at 03/13/2023 2:10 AM
+BAG:kakalotglx add 1xNâng cấp kỹ năng 3 đệ tử lydo: Mua từ cửa hàng at 03/13/2023 2:10 AM
+BAG:kakalotglx add 2xNâng cấp kỹ năng 3 đệ tử (old: 1) lydo: Mua từ cửa hàng at 03/13/2023 2:10 AM
+BAG:kakalotglx add 3xNâng cấp kỹ năng 3 đệ tử (old: 2) lydo: Mua từ cửa hàng at 03/13/2023 2:10 AM
+BAG:kakalotglx add 4xNâng cấp kỹ năng 3 đệ tử (old: 3) lydo: Mua từ cửa hàng at 03/13/2023 2:10 AM
+BAG:kakalotglx add 5xNâng cấp kỹ năng 3 đệ tử (old: 4) lydo: Mua từ cửa hàng at 03/13/2023 2:10 AM
+BAG:kakalotglx add 6xNâng cấp kỹ năng 3 đệ tử (old: 5) lydo: Mua từ cửa hàng at 03/13/2023 2:10 AM
+BAG:kakalotglx add 1xNâng cấp kỹ năng 4 đệ tử lydo: Mua từ cửa hàng at 03/13/2023 2:11 AM
+BAG:kakalotglx add 2xNâng cấp kỹ năng 4 đệ tử (old: 1) lydo: Mua từ cửa hàng at 03/13/2023 2:11 AM
+BAG:kakalotglx add 3xNâng cấp kỹ năng 4 đệ tử (old: 2) lydo: Mua từ cửa hàng at 03/13/2023 2:11 AM
+BAG:kakalotglx add 4xNâng cấp kỹ năng 4 đệ tử (old: 3) lydo: Mua từ cửa hàng at 03/13/2023 2:11 AM
+BAG:kakalotglx add 5xNâng cấp kỹ năng 4 đệ tử (old: 4) lydo: Mua từ cửa hàng at 03/13/2023 2:11 AM
+BAG:kakalotglx add 6xNâng cấp kỹ năng 4 đệ tử (old: 5) lydo: Mua từ cửa hàng at 03/13/2023 2:11 AM
+BAG:kakalotglx add 1xNâng cấp kỹ năng 4 đệ tử lydo: Mua từ cửa hàng at 03/13/2023 2:12 AM

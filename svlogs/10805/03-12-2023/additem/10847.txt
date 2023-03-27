@@ -1,0 +1,25 @@
+BAG:gohansiu add 1xRada cấp 1 lydo: Lấy từ rương qua người at 03/12/2023 7:24 AM
+BAG:gohansiu add 1xSao pha lê lydo: Lấy từ lucky box at 03/12/2023 7:27 AM
+BAG:gohansiu add 2xSao pha lê (old: 1) lydo: Lấy từ lucky box at 03/12/2023 7:27 AM
+BAG:gohansiu add 1xVệ tinh trí tuệ lydo: Lấy từ lucky box at 03/12/2023 7:27 AM
+BAG:gohansiu add 1xCải trang Hatchiyack lydo: Lấy từ lucky box at 03/12/2023 7:27 AM
+BAG:gohansiu add 2xVệ tinh trí tuệ (old: 1) lydo: Lấy từ lucky box at 03/12/2023 7:27 AM
+BAG:gohansiu add 1xGiầy nhựa lydo: Lấy từ body vào hành trang at 03/12/2023 7:47 AM
+BAG:gohansiu add 1xĐổi đệ tử lydo: Mua từ cửa hàng at 03/12/2023 7:47 AM
+BAG:gohansiu add 1xĐổi đệ tử lydo: Mua từ cửa hàng at 03/12/2023 7:47 AM
+BAG:gohansiu add 1xĐổi đệ tử lydo: Mua từ cửa hàng at 03/12/2023 7:47 AM
+BAG:gohansiu add 1xGiầy nhựa lydo: Lấy từ body đệ vào hành trang at 03/12/2023 7:47 AM
+BAG:gohansiu add 1xÁo vải 3 lỗ lydo: Mua từ cửa hàng at 03/12/2023 7:48 AM
+BAG:gohansiu add 1xQuần vải đen lydo: Mua từ cửa hàng at 03/12/2023 7:48 AM
+BAG:gohansiu add 1xGiầy nhựa lydo: Mua từ cửa hàng at 03/12/2023 7:48 AM
+BAG:gohansiu add 1xRada cấp 1 lydo: Mua từ cửa hàng at 03/12/2023 7:48 AM
+BAG:gohansiu add 1xCải Trang Thần Zeno Trái Đất lydo: Lấy từ body vào hành trang at 03/12/2023 7:49 AM
+BAG:gohansiu add 1xGiáp tập luyện cấp 1 lydo: Mua từ cửa hàng at 03/12/2023 8:02 AM
+BAG:gohansiu add 1xÁo vải 3 lỗ lydo: Lấy từ body vào hành trang at 03/12/2023 8:04 AM
+BAG:gohansiu add 1xQuần vải đen lydo: Lấy từ body vào hành trang at 03/12/2023 8:04 AM
+BAG:gohansiu add 1xGăng vải đen lydo: Lấy từ body vào hành trang at 03/12/2023 8:04 AM
+BAG:gohansiu add 1xRada cấp 1 lydo: Lấy từ body vào hành trang at 03/12/2023 8:04 AM
+BAG:gohansiu add 1xGiầy nhựa lydo: Lấy từ body vào hành trang at 03/12/2023 8:04 AM
+BAG:gohansiu add 20xHoa hồng xanh (old: 19) lydo: Nhặt từ map at 03/12/2023 8:32 AM
+BAG:gohansiu add 1xQuần vải đen lydo: Lấy từ body vào hành trang at 03/12/2023 8:34 AM
+BAG:gohansiu add 1xGăng bạc Goku lydo: Mua từ cửa hàng at 03/12/2023 8:35 AM

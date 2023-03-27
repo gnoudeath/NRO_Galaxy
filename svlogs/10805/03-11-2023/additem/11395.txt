@@ -1,0 +1,6 @@
+BAG:harime add 1xRada cấp 1 lydo: Lấy từ rương qua người at 03/11/2023 1:07 AM
+BAG:harime add 7xĐậu thần cấp 2 lydo: Thu hoạch đậu at 03/11/2023 1:10 AM
+BAG:harime add 10xĐậu thần cấp 2 (old: 7) lydo: Thu hoạch đậu at 03/11/2023 1:11 AM
+BAG:harime add 1xHoa hồng xanh lydo: Nhặt từ map at 03/11/2023 1:11 AM
+BAG:harime add 1xĐá Titan lydo: Nhặt từ map at 03/11/2023 1:11 AM
+BAG:harime add 10xĐậu thần cấp 2 (old: 8) lydo: Thu hoạch đậu at 03/11/2023 1:21 AM

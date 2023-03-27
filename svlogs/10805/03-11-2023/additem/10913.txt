@@ -1,0 +1,63 @@
+BAG:rengoku add 1xSách Thôi Miên lv1 lydo: Mua từ cửa hàng at 03/11/2023 7:32 PM
+BAG:rengoku add 1xSách Thôi Miên lv2 lydo: Mua từ cửa hàng at 03/11/2023 7:32 PM
+BAG:rengoku add 1xSách Thôi Miên lv3 lydo: Mua từ cửa hàng at 03/11/2023 7:33 PM
+BAG:rengoku add 1xSách Thôi Miên lv4 lydo: Mua từ cửa hàng at 03/11/2023 7:37 PM
+BAG:rengoku add 1xSách Thôi Miên lv5 lydo: Mua từ cửa hàng at 03/11/2023 7:37 PM
+BAG:rengoku add 1xSách Thôi Miên lv6 lydo: Mua từ cửa hàng at 03/11/2023 7:37 PM
+BAG:rengoku add 1xSách Thôi Miên lv7 lydo: Mua từ cửa hàng at 03/11/2023 7:37 PM
+BAG:rengoku add 1xKaioken lv1 lydo: Mua từ cửa hàng at 03/11/2023 7:38 PM
+BAG:rengoku add 1xKaioken lv2 lydo: Mua từ cửa hàng at 03/11/2023 7:38 PM
+BAG:rengoku add 1xKaioken lv3 lydo: Mua từ cửa hàng at 03/11/2023 7:38 PM
+BAG:rengoku add 1xKaioken lv4 lydo: Mua từ cửa hàng at 03/11/2023 7:38 PM
+BAG:rengoku add 1xKaioken lv5 lydo: Mua từ cửa hàng at 03/11/2023 7:38 PM
+BAG:rengoku add 1xKaioken lv6 lydo: Mua từ cửa hàng at 03/11/2023 7:38 PM
+BAG:rengoku add 1xKaioken lv7 lydo: Mua từ cửa hàng at 03/11/2023 7:38 PM
+BAG:rengoku add 1xThái Dương Hạ San lv1 lydo: Mua từ cửa hàng at 03/11/2023 7:38 PM
+BAG:rengoku add 1xThái Dương Hạ San lv2 lydo: Mua từ cửa hàng at 03/11/2023 7:38 PM
+BAG:rengoku add 1xThái Dương Hạ San lv3 lydo: Mua từ cửa hàng at 03/11/2023 7:38 PM
+BAG:rengoku add 1xThái Dương Hạ San lv4 lydo: Mua từ cửa hàng at 03/11/2023 7:38 PM
+BAG:rengoku add 1xThái Dương Hạ San lv5 lydo: Mua từ cửa hàng at 03/11/2023 7:38 PM
+BAG:rengoku add 1xThái Dương Hạ San lv6 lydo: Mua từ cửa hàng at 03/11/2023 7:38 PM
+BAG:rengoku add 1xThái Dương Hạ San lv7 lydo: Mua từ cửa hàng at 03/11/2023 7:38 PM
+BAG:rengoku add 1xQuả cầu Kênh Khi lv1 lydo: Mua từ cửa hàng at 03/11/2023 7:39 PM
+BAG:rengoku add 1xQuả cầu Kênh Khi lv2 lydo: Mua từ cửa hàng at 03/11/2023 7:39 PM
+BAG:rengoku add 1xQuả cầu Kênh Khi lv3 lydo: Mua từ cửa hàng at 03/11/2023 7:39 PM
+BAG:rengoku add 1xQuả cầu Kênh Khi lv4 lydo: Mua từ cửa hàng at 03/11/2023 7:39 PM
+BAG:rengoku add 1xQuả cầu Kênh Khi lv5 lydo: Mua từ cửa hàng at 03/11/2023 7:39 PM
+BAG:rengoku add 1xQuả cầu Kênh Khi lv6 lydo: Mua từ cửa hàng at 03/11/2023 7:39 PM
+BAG:rengoku add 1xQuả cầu Kênh Khi lv7 lydo: Mua từ cửa hàng at 03/11/2023 7:39 PM
+BAG:rengoku add 1xSách Thôi Miên lv1 lydo: Mua từ cửa hàng at 03/11/2023 7:39 PM
+BAG:rengoku add 1xSách Thôi Miên lv2 lydo: Mua từ cửa hàng at 03/11/2023 7:39 PM
+BAG:rengoku add 1xSách Thôi Miên lv3 lydo: Mua từ cửa hàng at 03/11/2023 7:39 PM
+BAG:rengoku add 1xSách Thôi Miên lv4 lydo: Mua từ cửa hàng at 03/11/2023 7:39 PM
+BAG:rengoku add 1xSách Thôi Miên lv5 lydo: Mua từ cửa hàng at 03/11/2023 7:39 PM
+BAG:rengoku add 1xSách Thôi Miên lv6 lydo: Mua từ cửa hàng at 03/11/2023 7:39 PM
+BAG:rengoku add 1xSách Thôi Miên lv7 lydo: Mua từ cửa hàng at 03/11/2023 7:39 PM
+BAG:rengoku add 1xGiáp tập luyện cấp 3 lydo: Lấy từ body vào hành trang at 03/11/2023 7:40 PM
+BAG:rengoku add 43xHoa hồng đỏ (old: 42) lydo: Nhặt từ map at 03/11/2023 7:41 PM
+BAG:rengoku add 1xĐá lục bảo lydo: Nhặt từ map at 03/11/2023 7:42 PM
+BAG:rengoku add 1xCải trang Hatchiyack lydo: Lấy từ lucky box at 03/11/2023 7:44 PM
+BAG:rengoku add 1xSao pha lê lydo: Lấy từ lucky box at 03/11/2023 7:44 PM
+BAG:rengoku add 2xSao pha lê (old: 1) lydo: Lấy từ lucky box at 03/11/2023 7:44 PM
+BAG:rengoku add 1xVệ tinh trí tuệ lydo: Lấy từ lucky box at 03/11/2023 7:45 PM
+BAG:rengoku add 7xNgọc Rồng 4 sao (old: 6) lydo: Lấy từ lucky box at 03/11/2023 7:45 PM
+BAG:rengoku add 2xVệ tinh trí tuệ (old: 1) lydo: Lấy từ lucky box at 03/11/2023 7:47 PM
+BAG:rengoku add 3xVệ tinh trí tuệ (old: 2) lydo: Lấy từ lucky box at 03/11/2023 7:47 PM
+BAG:rengoku add 4xVệ tinh trí tuệ (old: 3) lydo: Lấy từ lucky box at 03/11/2023 7:47 PM
+BAG:rengoku add 3xSao pha lê (old: 2) lydo: Lấy từ lucky box at 03/11/2023 7:47 PM
+BAG:rengoku add 5xVệ tinh trí tuệ (old: 4) lydo: Lấy từ lucky box at 03/11/2023 7:48 PM
+BAG:rengoku add 4xSao pha lê (old: 3) lydo: Lấy từ lucky box at 03/11/2023 7:48 PM
+BAG:rengoku add 1xCT Genma 01 lydo: Lấy từ lucky box at 03/11/2023 7:50 PM
+BAG:rengoku add 6xVệ tinh trí tuệ (old: 5) lydo: Lấy từ lucky box at 03/11/2023 7:50 PM
+BAG:rengoku add 1xPhóng lợn lydo: Lấy từ lucky box at 03/11/2023 7:50 PM
+BAG:rengoku add 1xGiáp tập luyện cấp 3 lydo: Lấy từ body vào hành trang at 03/11/2023 8:48 PM
+BAG:rengoku add 44xHoa hồng đỏ (old: 43) lydo: Nhặt từ map at 03/11/2023 8:50 PM
+BAG:rengoku add 50xĐậu thần cấp 10 (old: 49) lydo: Clan cho đậu at 03/11/2023 8:50 PM
+BAG:rengoku add 51xĐậu thần cấp 10 (old: 50) lydo: Clan cho đậu at 03/11/2023 8:50 PM
+BAG:rengoku add 56xHoa hồng xanh (old: 55) lydo: Nhặt từ map at 03/11/2023 8:55 PM
+BAG:rengoku add 71xHoa hồng vàng (old: 70) lydo: Nhặt từ map at 03/11/2023 9:03 PM
+BAG:rengoku add 72xHoa hồng vàng (old: 71) lydo: Nhặt từ map at 03/11/2023 9:04 PM
+BAG:rengoku add 38xĐậu thần cấp 10 (old: 18) lydo: Lấy từ rương qua người at 03/11/2023 9:04 PM
+BAG:rengoku add 58xĐậu thần cấp 10 (old: 38) lydo: Lấy từ rương qua người at 03/11/2023 9:04 PM
+BAG:rengoku add 78xĐậu thần cấp 10 (old: 58) lydo: Lấy từ rương qua người at 03/11/2023 9:04 PM
+BAG:rengoku add 98xĐậu thần cấp 10 (old: 78) lydo: Lấy từ rương qua người at 03/11/2023 9:05 PM

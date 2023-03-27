@@ -1,0 +1,38 @@
+BAG:luluz09 add 1480xHoa hồng đỏ (old: 1479) lydo: Nhặt từ map at 03/13/2023 12:48 AM
+BAG:luluz09 add 1xNâng cấp kỹ năng 1 đệ tử lydo: Mua từ cửa hàng at 03/13/2023 12:49 AM
+BAG:luluz09 add 2xNâng cấp kỹ năng 1 đệ tử (old: 1) lydo: Mua từ cửa hàng at 03/13/2023 12:49 AM
+BAG:luluz09 add 10xĐậu thần cấp 10 (old: 3) lydo: Thu hoạch đậu at 03/13/2023 12:49 AM
+BAG:luluz09 add 1xSách đấm Dragon lv2 lydo: Mua từ cửa hàng at 03/13/2023 1:00 AM
+BAG:luluz09 add 1xSách đấm Dragon lv3 lydo: Mua từ cửa hàng at 03/13/2023 1:00 AM
+BAG:luluz09 add 1xSách đấm Dragon lv4 lydo: Mua từ cửa hàng at 03/13/2023 1:01 AM
+BAG:luluz09 add 1xSách đấm Dragon lv5 lydo: Mua từ cửa hàng at 03/13/2023 1:01 AM
+BAG:luluz09 add 1xSách đấm Dragon lv6 lydo: Mua từ cửa hàng at 03/13/2023 1:01 AM
+BAG:luluz09 add 1xSách đấm Dragon lv7 lydo: Mua từ cửa hàng at 03/13/2023 1:01 AM
+BAG:luluz09 add 1xQuả cầu Kênh Khi lv1 lydo: Mua từ cửa hàng at 03/13/2023 1:01 AM
+BAG:luluz09 add 1xQuả cầu Kênh Khi lv2 lydo: Mua từ cửa hàng at 03/13/2023 1:01 AM
+BAG:luluz09 add 1xQuả cầu Kênh Khi lv3 lydo: Mua từ cửa hàng at 03/13/2023 1:01 AM
+BAG:luluz09 add 1xQuả cầu Kênh Khi lv4 lydo: Mua từ cửa hàng at 03/13/2023 1:01 AM
+BAG:luluz09 add 1xQuả cầu Kênh Khi lv5 lydo: Mua từ cửa hàng at 03/13/2023 1:01 AM
+BAG:luluz09 add 1xQuả cầu Kênh Khi lv6 lydo: Mua từ cửa hàng at 03/13/2023 1:01 AM
+BAG:luluz09 add 1xQuả cầu Kênh Khi lv7 lydo: Mua từ cửa hàng at 03/13/2023 1:02 AM
+BAG:luluz09 add 1xSách Dịch Chuyển lv1 lydo: Mua từ cửa hàng at 03/13/2023 1:02 AM
+BAG:luluz09 add 1xSách Dịch Chuyển lv2 lydo: Mua từ cửa hàng at 03/13/2023 1:02 AM
+BAG:luluz09 add 1xSách Dịch Chuyển lv3 lydo: Mua từ cửa hàng at 03/13/2023 1:02 AM
+BAG:luluz09 add 1xSách Dịch Chuyển lv4 lydo: Mua từ cửa hàng at 03/13/2023 1:02 AM
+BAG:luluz09 add 1xSách Dịch Chuyển lv5 lydo: Mua từ cửa hàng at 03/13/2023 1:02 AM
+BAG:luluz09 add 1xSách Dịch Chuyển lv6 lydo: Mua từ cửa hàng at 03/13/2023 1:02 AM
+BAG:luluz09 add 1xSách Dịch Chuyển lv7 lydo: Mua từ cửa hàng at 03/13/2023 1:02 AM
+BAG:luluz09 add 78xĐá Saphia (old: 77) lydo: Nhặt từ map at 03/13/2023 1:07 AM
+BAG:luluz09 add 1xÁo vải 3 lỗ lydo: Lấy từ body đệ vào hành trang at 03/13/2023 1:12 AM
+BAG:luluz09 add 1xQuần vải đen lydo: Lấy từ body đệ vào hành trang at 03/13/2023 1:12 AM
+BAG:luluz09 add 1xGăng vải đen lydo: Lấy từ body đệ vào hành trang at 03/13/2023 1:12 AM
+BAG:luluz09 add 1xGiầy nhựa lydo: Lấy từ body đệ vào hành trang at 03/13/2023 1:12 AM
+BAG:luluz09 add 1xRada cấp 1 lydo: Lấy từ body đệ vào hành trang at 03/13/2023 1:12 AM
+BAG:luluz09 add 1xNezuko lydo: Lấy từ body đệ vào hành trang at 03/13/2023 1:12 AM
+BAG:luluz09 add 1xGiáp tập luyện cấp 1 lydo: Lấy từ body đệ vào hành trang at 03/13/2023 1:13 AM
+BAG:luluz09 add 89xNgọc Rồng 3 sao lydo: Lấy từ rương qua người at 03/13/2023 1:16 AM
+BAG:luluz09 add 1xÁo vải 3 lỗ lydo: Lấy từ body vào hành trang at 03/13/2023 1:18 AM
+BAG:luluz09 add 9xĐậu thần cấp 10 (old: 6) lydo: Thu hoạch đậu at 03/13/2023 1:19 AM
+BAG:luluz09 add 10xĐậu thần cấp 10 (old: 9) lydo: Thu hoạch đậu at 03/13/2023 1:19 AM
+BAG:luluz09 add 10xĐậu thần cấp 10 (old: 7) lydo: Thu hoạch đậu at 03/13/2023 1:45 AM
+BAG:luluz09 add 1941xHoa hồng vàng (old: 1940) lydo: Nhặt từ map at 03/13/2023 2:01 AM

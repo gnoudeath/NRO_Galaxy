@@ -1,0 +1,67 @@
+BAG:thienlien add 15xHoa hồng vàng (old: 14) lydo: Nhặt từ map at 03/11/2023 5:28 PM
+BAG:thienlien add 22xHoa hồng xanh (old: 21) lydo: Nhặt từ map at 03/11/2023 5:30 PM
+BAG:thienlien add 23xHoa hồng xanh (old: 22) lydo: Nhặt từ map at 03/11/2023 5:30 PM
+BAG:thienlien add 24xHoa hồng xanh (old: 23) lydo: Nhặt từ map at 03/11/2023 5:30 PM
+BAG:thienlien add 25xHoa hồng đỏ (old: 24) lydo: Nhặt từ map at 03/11/2023 5:30 PM
+BAG:thienlien add 5xĐá Ruby (old: 4) lydo: Nhặt từ map at 03/11/2023 5:30 PM
+BAG:thienlien add 25xHoa hồng xanh (old: 24) lydo: Nhặt từ map at 03/11/2023 5:31 PM
+BAG:thienlien add 2xĐá Titan (old: 1) lydo: Nhặt từ map at 03/11/2023 5:32 PM
+BAG:thienlien add 26xHoa hồng xanh (old: 25) lydo: Nhặt từ map at 03/11/2023 5:32 PM
+BAG:thienlien add 1xSách đấm Dragon lv2 lydo: Mua từ cửa hàng at 03/11/2023 5:33 PM
+BAG:thienlien add 1xSách đấm Dragon lv3 lydo: Mua từ cửa hàng at 03/11/2023 5:33 PM
+BAG:thienlien add 1xSách đấm Dragon lv4 lydo: Mua từ cửa hàng at 03/11/2023 5:33 PM
+BAG:thienlien add 1xSách đấm Dragon lv5 lydo: Mua từ cửa hàng at 03/11/2023 5:33 PM
+BAG:thienlien add 26xHoa hồng đỏ (old: 25) lydo: Nhặt từ map at 03/11/2023 5:33 PM
+BAG:thienlien add 27xHoa hồng đỏ (old: 26) lydo: Nhặt từ map at 03/11/2023 5:35 PM
+BAG:thienlien add 27xHoa hồng xanh (old: 26) lydo: Nhặt từ map at 03/11/2023 5:36 PM
+BAG:thienlien add 16xHoa hồng vàng (old: 15) lydo: Nhặt từ map at 03/11/2023 5:36 PM
+BAG:thienlien add 28xHoa hồng đỏ (old: 27) lydo: Nhặt từ map at 03/11/2023 5:36 PM
+BAG:thienlien add 28xHoa hồng xanh (old: 27) lydo: Nhặt từ map at 03/11/2023 5:36 PM
+BAG:thienlien add 29xHoa hồng đỏ (old: 28) lydo: Nhặt từ map at 03/11/2023 5:36 PM
+BAG:thienlien add 6xĐá thạch anh tím (old: 5) lydo: Nhặt từ map at 03/11/2023 5:36 PM
+BAG:thienlien add 29xHoa hồng xanh (old: 28) lydo: Nhặt từ map at 03/11/2023 5:36 PM
+BAG:thienlien add 17xHoa hồng vàng (old: 16) lydo: Nhặt từ map at 03/11/2023 5:36 PM
+BAG:thienlien add 3xĐá lục bảo (old: 2) lydo: Nhặt từ map at 03/11/2023 5:36 PM
+BAG:thienlien add 30xHoa hồng đỏ (old: 29) lydo: Nhặt từ map at 03/11/2023 5:36 PM
+BAG:thienlien add 6xĐá Ruby (old: 5) lydo: Nhặt từ map at 03/11/2023 5:37 PM
+BAG:thienlien add 18xHoa hồng vàng (old: 17) lydo: Nhặt từ map at 03/11/2023 5:37 PM
+BAG:thienlien add 19xHoa hồng vàng (old: 18) lydo: Nhặt từ map at 03/11/2023 5:37 PM
+BAG:thienlien add 20xHoa hồng vàng (old: 19) lydo: Nhặt từ map at 03/11/2023 5:37 PM
+BAG:thienlien add 21xHoa hồng vàng (old: 20) lydo: Nhặt từ map at 03/11/2023 5:37 PM
+BAG:thienlien add 22xHoa hồng vàng (old: 21) lydo: Nhặt từ map at 03/11/2023 5:37 PM
+BAG:thienlien add 23xHoa hồng vàng (old: 22) lydo: Nhặt từ map at 03/11/2023 5:37 PM
+BAG:thienlien add 24xHoa hồng vàng (old: 23) lydo: Nhặt từ map at 03/11/2023 5:38 PM
+BAG:thienlien add 30xHoa hồng xanh (old: 29) lydo: Nhặt từ map at 03/11/2023 5:38 PM
+BAG:thienlien add 31xHoa hồng đỏ (old: 30) lydo: Nhặt từ map at 03/11/2023 5:38 PM
+BAG:thienlien add 25xHoa hồng vàng (old: 24) lydo: Nhặt từ map at 03/11/2023 5:38 PM
+BAG:thienlien add 26xHoa hồng vàng (old: 25) lydo: Nhặt từ map at 03/11/2023 5:38 PM
+BAG:thienlien add 32xHoa hồng đỏ (old: 31) lydo: Nhặt từ map at 03/11/2023 5:38 PM
+BAG:thienlien add 31xHoa hồng xanh (old: 30) lydo: Nhặt từ map at 03/11/2023 5:38 PM
+BAG:thienlien add 33xHoa hồng đỏ (old: 32) lydo: Nhặt từ map at 03/11/2023 5:39 PM
+BAG:thienlien add 27xHoa hồng vàng (old: 26) lydo: Nhặt từ map at 03/11/2023 5:39 PM
+BAG:thienlien add 28xHoa hồng vàng (old: 27) lydo: Nhặt từ map at 03/11/2023 5:40 PM
+BAG:thienlien add 34xHoa hồng đỏ (old: 33) lydo: Nhặt từ map at 03/11/2023 5:40 PM
+BAG:thienlien add 35xHoa hồng đỏ (old: 34) lydo: Nhặt từ map at 03/11/2023 5:40 PM
+BAG:thienlien add 29xHoa hồng vàng (old: 28) lydo: Nhặt từ map at 03/11/2023 5:40 PM
+BAG:thienlien add 32xHoa hồng xanh (old: 31) lydo: Nhặt từ map at 03/11/2023 5:40 PM
+BAG:thienlien add 30xHoa hồng vàng (old: 29) lydo: Nhặt từ map at 03/11/2023 5:40 PM
+BAG:thienlien add 33xHoa hồng xanh (old: 32) lydo: Nhặt từ map at 03/11/2023 5:40 PM
+BAG:thienlien add 36xHoa hồng đỏ (old: 35) lydo: Nhặt từ map at 03/11/2023 5:40 PM
+BAG:thienlien add 37xHoa hồng đỏ (old: 36) lydo: Nhặt từ map at 03/11/2023 5:40 PM
+BAG:thienlien add 38xHoa hồng đỏ (old: 37) lydo: Nhặt từ map at 03/11/2023 5:40 PM
+BAG:thienlien add 39xHoa hồng đỏ (old: 38) lydo: Nhặt từ map at 03/11/2023 5:40 PM
+BAG:thienlien add 40xHoa hồng đỏ (old: 39) lydo: Nhặt từ map at 03/11/2023 5:41 PM
+BAG:thienlien add 41xHoa hồng đỏ (old: 40) lydo: Nhặt từ map at 03/11/2023 5:41 PM
+BAG:thienlien add 42xHoa hồng đỏ (old: 41) lydo: Nhặt từ map at 03/11/2023 5:41 PM
+BAG:thienlien add 31xHoa hồng vàng (old: 30) lydo: Nhặt từ map at 03/11/2023 5:41 PM
+BAG:thienlien add 43xHoa hồng đỏ (old: 42) lydo: Nhặt từ map at 03/11/2023 5:41 PM
+BAG:thienlien add 32xHoa hồng vàng (old: 31) lydo: Nhặt từ map at 03/11/2023 5:42 PM
+BAG:thienlien add 33xHoa hồng vàng (old: 32) lydo: Nhặt từ map at 03/11/2023 5:42 PM
+BAG:thienlien add 34xHoa hồng xanh (old: 33) lydo: Nhặt từ map at 03/11/2023 5:42 PM
+BAG:thienlien add 44xHoa hồng đỏ (old: 43) lydo: Nhặt từ map at 03/11/2023 5:42 PM
+BAG:thienlien add 34xHoa hồng vàng (old: 33) lydo: Nhặt từ map at 03/11/2023 5:42 PM
+BAG:thienlien add 35xHoa hồng vàng (old: 34) lydo: Nhặt từ map at 03/11/2023 5:42 PM
+BAG:thienlien add 1xÁo vải 3 lỗ lydo: Lấy từ body vào hành trang at 03/11/2023 5:43 PM
+BAG:thienlien add 45xHoa hồng đỏ (old: 44) lydo: Nhặt từ map at 03/11/2023 5:44 PM
+BAG:thienlien add 46xHoa hồng đỏ (old: 45) lydo: Nhặt từ map at 03/11/2023 5:44 PM
+BAG:thienlien add 36xHoa hồng vàng (old: 35) lydo: Nhặt từ map at 03/11/2023 5:44 PM

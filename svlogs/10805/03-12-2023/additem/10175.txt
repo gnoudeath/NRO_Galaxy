@@ -1,0 +1,22 @@
+BAG:pessi add 1xNhẫn thời không sai lệch lydo: Mua từ cửa hàng at 03/12/2023 1:31 PM
+BAG:pessi add 1xGăng Thiên Sứ lydo: Mua từ cửa hàng at 03/12/2023 4:22 PM
+BAG:pessi add 1xGăng Thiên Sứ lydo: Mua từ cửa hàng at 03/12/2023 4:22 PM
+BAG:pessi add 1xGăng Thiên Sứ lydo: Mua từ cửa hàng at 03/12/2023 4:22 PM
+BAG:pessi add 99xViên Capsule kì bí lydo: Mua từ cửa hàng at 03/12/2023 9:43 PM
+BAG:pessi add 1xẨn danh lydo: CSKB at 03/12/2023 9:46 PM
+BAG:pessi add 2xẨn danh (old: 1) lydo: CSKB at 03/12/2023 9:46 PM
+BAG:pessi add 3xẨn danh (old: 2) lydo: CSKB at 03/12/2023 9:46 PM
+BAG:pessi add 7xBổ huyết (old: 6) lydo: CSKB at 03/12/2023 9:46 PM
+BAG:pessi add 6xBổ khí (old: 5) lydo: CSKB at 03/12/2023 9:47 PM
+BAG:pessi add 4xẨn danh (old: 3) lydo: CSKB at 03/12/2023 9:47 PM
+BAG:pessi add 5xẨn danh (old: 4) lydo: CSKB at 03/12/2023 9:47 PM
+BAG:pessi add 8xBổ huyết (old: 7) lydo: CSKB at 03/12/2023 9:47 PM
+BAG:pessi add 6xẨn danh (old: 5) lydo: CSKB at 03/12/2023 9:47 PM
+BAG:pessi add 7xBổ khí (old: 6) lydo: CSKB at 03/12/2023 9:48 PM
+BAG:pessi add 7xẨn danh (old: 6) lydo: CSKB at 03/12/2023 9:48 PM
+BAG:pessi add 1xCuồng nộ lydo: CSKB at 03/12/2023 9:49 PM
+BAG:pessi add 8xẨn danh (old: 7) lydo: CSKB at 03/12/2023 9:50 PM
+BAG:pessi add 2xCuồng nộ (old: 1) lydo: CSKB at 03/12/2023 9:50 PM
+BAG:pessi add 9xẨn danh (old: 8) lydo: CSKB at 03/12/2023 9:50 PM
+BAG:pessi add 3xCuồng nộ (old: 2) lydo: CSKB at 03/12/2023 9:50 PM
+BAG:pessi add 10xẨn danh (old: 9) lydo: CSKB at 03/12/2023 9:50 PM

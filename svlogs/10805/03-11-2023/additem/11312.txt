@@ -1,0 +1,282 @@
+BAG:xipdjboy add 54xĐá thạch anh tím (old: 53) lydo: Nhặt từ map at 03/11/2023 5:03 AM
+BAG:xipdjboy add 369xHoa hồng vàng (old: 368) lydo: Nhặt từ map at 03/11/2023 5:03 AM
+BAG:xipdjboy add 296xHoa hồng đỏ (old: 295) lydo: Nhặt từ map at 03/11/2023 5:03 AM
+BAG:xipdjboy add 288xHoa hồng xanh (old: 287) lydo: Nhặt từ map at 03/11/2023 5:03 AM
+BAG:xipdjboy add 289xHoa hồng xanh (old: 288) lydo: Nhặt từ map at 03/11/2023 5:03 AM
+BAG:xipdjboy add 297xHoa hồng đỏ (old: 296) lydo: Nhặt từ map at 03/11/2023 5:03 AM
+BAG:xipdjboy add 47xĐá Saphia (old: 46) lydo: Nhặt từ map at 03/11/2023 5:05 AM
+BAG:xipdjboy add 370xHoa hồng vàng (old: 369) lydo: Nhặt từ map at 03/11/2023 5:05 AM
+BAG:xipdjboy add 55xĐá thạch anh tím (old: 54) lydo: Nhặt từ map at 03/11/2023 5:05 AM
+BAG:xipdjboy add 48xĐá Saphia (old: 47) lydo: Nhặt từ map at 03/11/2023 5:07 AM
+BAG:xipdjboy add 298xHoa hồng đỏ (old: 297) lydo: Nhặt từ map at 03/11/2023 5:07 AM
+BAG:xipdjboy add 371xHoa hồng vàng (old: 370) lydo: Nhặt từ map at 03/11/2023 5:08 AM
+BAG:xipdjboy add 1xBó hoa hồng đỏ lydo: Đổi bó hoa hồng đỏ at 03/11/2023 5:14 AM
+BAG:xipdjboy add 1xBó hoa hồng xanh lydo: Đổi bó hoa hồng xanh at 03/11/2023 5:14 AM
+BAG:xipdjboy add 1xBó hoa hồng vàng lydo: Đổi bó hoa hồng đỏ at 03/11/2023 5:14 AM
+BAG:xipdjboy add 2xBó hoa hồng vàng (old: 1) lydo: Đổi bó hoa hồng đỏ at 03/11/2023 5:15 AM
+BAG:xipdjboy add 2xBó hoa hồng đỏ (old: 1) lydo: Đổi bó hoa hồng đỏ at 03/11/2023 5:15 AM
+BAG:xipdjboy add 2xBó hoa hồng xanh (old: 1) lydo: Đổi bó hoa hồng xanh at 03/11/2023 5:16 AM
+BAG:xipdjboy add 3xBó hoa hồng đỏ (old: 2) lydo: Đổi bó hoa hồng đỏ at 03/11/2023 5:16 AM
+BAG:xipdjboy add 4xBó hoa hồng đỏ (old: 3) lydo: Đổi bó hoa hồng đỏ at 03/11/2023 5:17 AM
+BAG:xipdjboy add 5xBó hoa hồng đỏ (old: 4) lydo: Đổi bó hoa hồng đỏ at 03/11/2023 5:17 AM
+BAG:xipdjboy add 6xBó hoa hồng đỏ (old: 5) lydo: Đổi bó hoa hồng đỏ at 03/11/2023 5:17 AM
+BAG:xipdjboy add 7xBó hoa hồng đỏ (old: 6) lydo: Đổi bó hoa hồng đỏ at 03/11/2023 5:17 AM
+BAG:xipdjboy add 8xBó hoa hồng đỏ (old: 7) lydo: Đổi bó hoa hồng đỏ at 03/11/2023 5:17 AM
+BAG:xipdjboy add 9xBó hoa hồng đỏ (old: 8) lydo: Đổi bó hoa hồng đỏ at 03/11/2023 5:17 AM
+BAG:xipdjboy add 10xBó hoa hồng đỏ (old: 9) lydo: Đổi bó hoa hồng đỏ at 03/11/2023 5:17 AM
+BAG:xipdjboy add 3xBó hoa hồng xanh (old: 2) lydo: Đổi bó hoa hồng xanh at 03/11/2023 5:17 AM
+BAG:xipdjboy add 4xBó hoa hồng xanh (old: 3) lydo: Đổi bó hoa hồng xanh at 03/11/2023 5:17 AM
+BAG:xipdjboy add 5xBó hoa hồng xanh (old: 4) lydo: Đổi bó hoa hồng xanh at 03/11/2023 5:17 AM
+BAG:xipdjboy add 6xBó hoa hồng xanh (old: 5) lydo: Đổi bó hoa hồng xanh at 03/11/2023 5:17 AM
+BAG:xipdjboy add 7xBó hoa hồng xanh (old: 6) lydo: Đổi bó hoa hồng xanh at 03/11/2023 5:17 AM
+BAG:xipdjboy add 8xBó hoa hồng xanh (old: 7) lydo: Đổi bó hoa hồng xanh at 03/11/2023 5:17 AM
+BAG:xipdjboy add 9xBó hoa hồng xanh (old: 8) lydo: Đổi bó hoa hồng xanh at 03/11/2023 5:17 AM
+BAG:xipdjboy add 10xBó hoa hồng xanh (old: 9) lydo: Đổi bó hoa hồng xanh at 03/11/2023 5:18 AM
+BAG:xipdjboy add 3xBó hoa hồng vàng (old: 2) lydo: Đổi bó hoa hồng đỏ at 03/11/2023 5:18 AM
+BAG:xipdjboy add 4xBó hoa hồng vàng (old: 3) lydo: Đổi bó hoa hồng đỏ at 03/11/2023 5:18 AM
+BAG:xipdjboy add 5xBó hoa hồng vàng (old: 4) lydo: Đổi bó hoa hồng đỏ at 03/11/2023 5:18 AM
+BAG:xipdjboy add 6xBó hoa hồng vàng (old: 5) lydo: Đổi bó hoa hồng đỏ at 03/11/2023 5:18 AM
+BAG:xipdjboy add 7xBó hoa hồng vàng (old: 6) lydo: Đổi bó hoa hồng đỏ at 03/11/2023 5:18 AM
+BAG:xipdjboy add 8xBó hoa hồng vàng (old: 7) lydo: Đổi bó hoa hồng đỏ at 03/11/2023 5:18 AM
+BAG:xipdjboy add 9xBó hoa hồng vàng (old: 8) lydo: Đổi bó hoa hồng đỏ at 03/11/2023 5:18 AM
+BAG:xipdjboy add 10xBó hoa hồng vàng (old: 9) lydo: Đổi bó hoa hồng đỏ at 03/11/2023 5:18 AM
+BAG:xipdjboy add 1xRada cấp 1 lydo: Lấy từ body vào hành trang at 03/11/2023 5:26 AM
+BAG:xipdjboy add 1xGiầy sợi len lydo: Lấy từ body vào hành trang at 03/11/2023 5:26 AM
+BAG:xipdjboy add 1xGăng sợi len lydo: Lấy từ body vào hành trang at 03/11/2023 5:26 AM
+BAG:xipdjboy add 1xQuần sợi len lydo: Lấy từ body vào hành trang at 03/11/2023 5:26 AM
+BAG:xipdjboy add 1xÁo sợi len lydo: Lấy từ body vào hành trang at 03/11/2023 5:26 AM
+BAG:xipdjboy add 1xRada cấp 1 lydo: Lấy từ body đệ vào hành trang at 03/11/2023 5:26 AM
+BAG:xipdjboy add 1xCải trang Hatchiyack lydo: Lấy từ body đệ vào hành trang at 03/11/2023 5:26 AM
+BAG:xipdjboy add 1xĐổi đệ tử lydo: Mua từ cửa hàng at 03/11/2023 5:26 AM
+BAG:xipdjboy add 2xĐổi đệ tử (old: 1) lydo: Mua từ cửa hàng at 03/11/2023 5:29 AM
+BAG:xipdjboy add 3xĐổi đệ tử (old: 2) lydo: Mua từ cửa hàng at 03/11/2023 5:29 AM
+BAG:xipdjboy add 4xĐổi đệ tử (old: 3) lydo: Mua từ cửa hàng at 03/11/2023 5:29 AM
+BAG:xipdjboy add 5xĐổi đệ tử (old: 4) lydo: Mua từ cửa hàng at 03/11/2023 5:29 AM
+BAG:xipdjboy add 1xÁo sợi len lydo: Lấy từ body đệ vào hành trang at 03/11/2023 5:30 AM
+BAG:xipdjboy add 1xNâng cấp kỹ năng 1 đệ tử lydo: Mua từ cửa hàng at 03/11/2023 5:31 AM
+BAG:xipdjboy add 2xNâng cấp kỹ năng 1 đệ tử (old: 1) lydo: Mua từ cửa hàng at 03/11/2023 5:31 AM
+BAG:xipdjboy add 3xNâng cấp kỹ năng 1 đệ tử (old: 2) lydo: Mua từ cửa hàng at 03/11/2023 5:31 AM
+BAG:xipdjboy add 190xHoa hồng xanh (old: 189) lydo: Nhặt từ map at 03/11/2023 5:32 AM
+BAG:xipdjboy add 199xHoa hồng đỏ (old: 198) lydo: Nhặt từ map at 03/11/2023 5:34 AM
+BAG:xipdjboy add 200xHoa hồng đỏ (old: 199) lydo: Nhặt từ map at 03/11/2023 5:34 AM
+BAG:xipdjboy add 272xHoa hồng vàng (old: 271) lydo: Nhặt từ map at 03/11/2023 5:36 AM
+BAG:xipdjboy add 273xHoa hồng vàng (old: 272) lydo: Nhặt từ map at 03/11/2023 5:36 AM
+BAG:xipdjboy add 274xHoa hồng vàng (old: 273) lydo: Nhặt từ map at 03/11/2023 5:36 AM
+BAG:xipdjboy add 201xHoa hồng đỏ (old: 200) lydo: Nhặt từ map at 03/11/2023 5:37 AM
+BAG:xipdjboy add 275xHoa hồng vàng (old: 274) lydo: Nhặt từ map at 03/11/2023 5:38 AM
+BAG:xipdjboy add 1xĐá Titan lydo: Nhặt từ map at 03/11/2023 5:38 AM
+BAG:xipdjboy add 1xĐá Saphia lydo: Nhặt từ map at 03/11/2023 5:38 AM
+BAG:xipdjboy add 56xĐá thạch anh tím (old: 55) lydo: Nhặt từ map at 03/11/2023 5:38 AM
+BAG:xipdjboy add 276xHoa hồng vàng (old: 275) lydo: Nhặt từ map at 03/11/2023 5:40 AM
+BAG:xipdjboy add 191xHoa hồng xanh (old: 190) lydo: Nhặt từ map at 03/11/2023 5:41 AM
+BAG:xipdjboy add 277xHoa hồng vàng (old: 276) lydo: Nhặt từ map at 03/11/2023 5:42 AM
+BAG:xipdjboy add 278xHoa hồng vàng (old: 277) lydo: Nhặt từ map at 03/11/2023 5:42 AM
+BAG:xipdjboy add 1xĐá Ruby lydo: Nhặt từ map at 03/11/2023 5:42 AM
+BAG:xipdjboy add 192xHoa hồng xanh (old: 191) lydo: Nhặt từ map at 03/11/2023 5:42 AM
+BAG:xipdjboy add 202xHoa hồng đỏ (old: 201) lydo: Nhặt từ map at 03/11/2023 6:12 AM
+BAG:xipdjboy add 1xRada cấp 1 lydo: Lấy từ body vào hành trang at 03/11/2023 6:12 AM
+BAG:xipdjboy add 203xHoa hồng đỏ (old: 202) lydo: Nhặt từ map at 03/11/2023 6:12 AM
+BAG:xipdjboy add 279xHoa hồng vàng (old: 278) lydo: Nhặt từ map at 03/11/2023 6:13 AM
+BAG:xipdjboy add 204xHoa hồng đỏ (old: 203) lydo: Nhặt từ map at 03/11/2023 6:14 AM
+BAG:xipdjboy add 280xHoa hồng vàng (old: 279) lydo: Nhặt từ map at 03/11/2023 6:14 AM
+BAG:xipdjboy add 205xHoa hồng đỏ (old: 204) lydo: Nhặt từ map at 03/11/2023 6:15 AM
+BAG:xipdjboy add 206xHoa hồng đỏ (old: 205) lydo: Nhặt từ map at 03/11/2023 6:21 AM
+BAG:xipdjboy add 193xHoa hồng xanh (old: 192) lydo: Nhặt từ map at 03/11/2023 6:22 AM
+BAG:xipdjboy add 207xHoa hồng đỏ (old: 206) lydo: Nhặt từ map at 03/11/2023 6:24 AM
+BAG:xipdjboy add 281xHoa hồng vàng (old: 280) lydo: Nhặt từ map at 03/11/2023 6:24 AM
+BAG:xipdjboy add 194xHoa hồng xanh (old: 193) lydo: Nhặt từ map at 03/11/2023 6:26 AM
+BAG:xipdjboy add 208xHoa hồng đỏ (old: 207) lydo: Nhặt từ map at 03/11/2023 6:27 AM
+BAG:xipdjboy add 209xHoa hồng đỏ (old: 208) lydo: Nhặt từ map at 03/11/2023 6:28 AM
+BAG:xipdjboy add 210xHoa hồng đỏ (old: 209) lydo: Nhặt từ map at 03/11/2023 6:29 AM
+BAG:xipdjboy add 211xHoa hồng đỏ (old: 210) lydo: Nhặt từ map at 03/11/2023 6:29 AM
+BAG:xipdjboy add 195xHoa hồng xanh (old: 194) lydo: Nhặt từ map at 03/11/2023 6:32 AM
+BAG:xipdjboy add 212xHoa hồng đỏ (old: 211) lydo: Nhặt từ map at 03/11/2023 6:32 AM
+BAG:xipdjboy add 213xHoa hồng đỏ (old: 212) lydo: Nhặt từ map at 03/11/2023 6:33 AM
+BAG:xipdjboy add 214xHoa hồng đỏ (old: 213) lydo: Nhặt từ map at 03/11/2023 6:56 AM
+BAG:xipdjboy add 215xHoa hồng đỏ (old: 214) lydo: Nhặt từ map at 03/11/2023 6:57 AM
+BAG:xipdjboy add 1xĐá lục bảo lydo: Nhặt từ map at 03/11/2023 6:57 AM
+BAG:xipdjboy add 2xĐá Saphia (old: 1) lydo: Nhặt từ map at 03/11/2023 6:57 AM
+BAG:xipdjboy add 196xHoa hồng xanh (old: 195) lydo: Nhặt từ map at 03/11/2023 6:59 AM
+BAG:xipdjboy add 197xHoa hồng xanh (old: 196) lydo: Nhặt từ map at 03/11/2023 6:59 AM
+BAG:xipdjboy add 216xHoa hồng đỏ (old: 215) lydo: Nhặt từ map at 03/11/2023 6:59 AM
+BAG:xipdjboy add 198xHoa hồng xanh (old: 197) lydo: Nhặt từ map at 03/11/2023 6:59 AM
+BAG:xipdjboy add 282xHoa hồng vàng (old: 281) lydo: Nhặt từ map at 03/11/2023 6:59 AM
+BAG:xipdjboy add 283xHoa hồng vàng (old: 282) lydo: Nhặt từ map at 03/11/2023 7:00 AM
+BAG:xipdjboy add 199xHoa hồng xanh (old: 198) lydo: Nhặt từ map at 03/11/2023 7:01 AM
+BAG:xipdjboy add 284xHoa hồng vàng (old: 283) lydo: Nhặt từ map at 03/11/2023 7:01 AM
+BAG:xipdjboy add 285xHoa hồng vàng (old: 284) lydo: Nhặt từ map at 03/11/2023 7:01 AM
+BAG:xipdjboy add 286xHoa hồng vàng (old: 285) lydo: Nhặt từ map at 03/11/2023 7:01 AM
+BAG:xipdjboy add 57xĐá thạch anh tím (old: 56) lydo: Nhặt từ map at 03/11/2023 7:02 AM
+BAG:xipdjboy add 217xHoa hồng đỏ (old: 216) lydo: Nhặt từ map at 03/11/2023 7:03 AM
+BAG:xipdjboy add 287xHoa hồng vàng (old: 286) lydo: Nhặt từ map at 03/11/2023 7:03 AM
+BAG:xipdjboy add 218xHoa hồng đỏ (old: 217) lydo: Nhặt từ map at 03/11/2023 7:03 AM
+BAG:xipdjboy add 219xHoa hồng đỏ (old: 218) lydo: Nhặt từ map at 03/11/2023 7:04 AM
+BAG:xipdjboy add 200xHoa hồng xanh (old: 199) lydo: Nhặt từ map at 03/11/2023 7:04 AM
+BAG:xipdjboy add 288xHoa hồng vàng (old: 287) lydo: Nhặt từ map at 03/11/2023 7:05 AM
+BAG:xipdjboy add 289xHoa hồng vàng (old: 288) lydo: Nhặt từ map at 03/11/2023 7:06 AM
+BAG:xipdjboy add 3xĐá Saphia (old: 2) lydo: Nhặt từ map at 03/11/2023 7:06 AM
+BAG:xipdjboy add 58xĐá thạch anh tím (old: 57) lydo: Nhặt từ map at 03/11/2023 7:07 AM
+BAG:xipdjboy add 201xHoa hồng xanh (old: 200) lydo: Nhặt từ map at 03/11/2023 7:08 AM
+BAG:xipdjboy add 2xĐá Ruby (old: 1) lydo: Nhặt từ map at 03/11/2023 7:08 AM
+BAG:xipdjboy add 290xHoa hồng vàng (old: 289) lydo: Nhặt từ map at 03/11/2023 7:08 AM
+BAG:xipdjboy add 220xHoa hồng đỏ (old: 219) lydo: Nhặt từ map at 03/11/2023 7:09 AM
+BAG:xipdjboy add 221xHoa hồng đỏ (old: 220) lydo: Nhặt từ map at 03/11/2023 7:09 AM
+BAG:xipdjboy add 202xHoa hồng xanh (old: 201) lydo: Nhặt từ map at 03/11/2023 7:10 AM
+BAG:xipdjboy add 222xHoa hồng đỏ (old: 221) lydo: Nhặt từ map at 03/11/2023 7:10 AM
+BAG:xipdjboy add 291xHoa hồng vàng (old: 290) lydo: Nhặt từ map at 03/11/2023 7:10 AM
+BAG:xipdjboy add 292xHoa hồng vàng (old: 291) lydo: Nhặt từ map at 03/11/2023 7:10 AM
+BAG:xipdjboy add 2xĐá Titan (old: 1) lydo: Nhặt từ map at 03/11/2023 7:10 AM
+BAG:xipdjboy add 3xĐá Titan (old: 2) lydo: Nhặt từ map at 03/11/2023 7:11 AM
+BAG:xipdjboy add 203xHoa hồng xanh (old: 202) lydo: Nhặt từ map at 03/11/2023 7:11 AM
+BAG:xipdjboy add 223xHoa hồng đỏ (old: 222) lydo: Nhặt từ map at 03/11/2023 7:11 AM
+BAG:xipdjboy add 204xHoa hồng xanh (old: 203) lydo: Nhặt từ map at 03/11/2023 7:11 AM
+BAG:xipdjboy add 293xHoa hồng vàng (old: 292) lydo: Nhặt từ map at 03/11/2023 7:11 AM
+BAG:xipdjboy add 294xHoa hồng vàng (old: 293) lydo: Nhặt từ map at 03/11/2023 7:12 AM
+BAG:xipdjboy add 224xHoa hồng đỏ (old: 223) lydo: Nhặt từ map at 03/11/2023 7:12 AM
+BAG:xipdjboy add 295xHoa hồng vàng (old: 294) lydo: Nhặt từ map at 03/11/2023 7:12 AM
+BAG:xipdjboy add 205xHoa hồng xanh (old: 204) lydo: Nhặt từ map at 03/11/2023 7:12 AM
+BAG:xipdjboy add 59xĐá thạch anh tím (old: 58) lydo: Nhặt từ map at 03/11/2023 7:12 AM
+BAG:xipdjboy add 4xĐá Titan (old: 3) lydo: Nhặt từ map at 03/11/2023 7:13 AM
+BAG:xipdjboy add 225xHoa hồng đỏ (old: 224) lydo: Nhặt từ map at 03/11/2023 7:13 AM
+BAG:xipdjboy add 296xHoa hồng vàng (old: 295) lydo: Nhặt từ map at 03/11/2023 7:13 AM
+BAG:xipdjboy add 3xĐá Ruby (old: 2) lydo: Nhặt từ map at 03/11/2023 7:13 AM
+BAG:xipdjboy add 297xHoa hồng vàng (old: 296) lydo: Nhặt từ map at 03/11/2023 7:13 AM
+BAG:xipdjboy add 206xHoa hồng xanh (old: 205) lydo: Nhặt từ map at 03/11/2023 7:14 AM
+BAG:xipdjboy add 60xĐá thạch anh tím (old: 59) lydo: Nhặt từ map at 03/11/2023 7:14 AM
+BAG:xipdjboy add 207xHoa hồng xanh (old: 206) lydo: Nhặt từ map at 03/11/2023 7:16 AM
+BAG:xipdjboy add 208xHoa hồng xanh (old: 207) lydo: Nhặt từ map at 03/11/2023 7:17 AM
+BAG:xipdjboy add 226xHoa hồng đỏ (old: 225) lydo: Nhặt từ map at 03/11/2023 7:17 AM
+BAG:xipdjboy add 209xHoa hồng xanh (old: 208) lydo: Nhặt từ map at 03/11/2023 7:17 AM
+BAG:xipdjboy add 298xHoa hồng vàng (old: 297) lydo: Nhặt từ map at 03/11/2023 7:17 AM
+BAG:xipdjboy add 2xĐá lục bảo (old: 1) lydo: Nhặt từ map at 03/11/2023 7:18 AM
+BAG:xipdjboy add 227xHoa hồng đỏ (old: 226) lydo: Nhặt từ map at 03/11/2023 7:19 AM
+BAG:xipdjboy add 210xHoa hồng xanh (old: 209) lydo: Nhặt từ map at 03/11/2023 7:19 AM
+BAG:xipdjboy add 299xHoa hồng vàng (old: 298) lydo: Nhặt từ map at 03/11/2023 7:19 AM
+BAG:xipdjboy add 300xHoa hồng vàng (old: 299) lydo: Nhặt từ map at 03/11/2023 7:19 AM
+BAG:xipdjboy add 4xĐá Ruby (old: 3) lydo: Nhặt từ map at 03/11/2023 7:20 AM
+BAG:xipdjboy add 228xHoa hồng đỏ (old: 227) lydo: Nhặt từ map at 03/11/2023 7:20 AM
+BAG:xipdjboy add 5xĐá Ruby (old: 4) lydo: Nhặt từ map at 03/11/2023 7:20 AM
+BAG:xipdjboy add 301xHoa hồng vàng (old: 300) lydo: Nhặt từ map at 03/11/2023 7:20 AM
+BAG:xipdjboy add 229xHoa hồng đỏ (old: 228) lydo: Nhặt từ map at 03/11/2023 7:20 AM
+BAG:xipdjboy add 1xNgọc Rồng 6 sao lydo: Nhặt từ map at 03/11/2023 7:21 AM
+BAG:xipdjboy add 230xHoa hồng đỏ (old: 229) lydo: Nhặt từ map at 03/11/2023 7:21 AM
+BAG:xipdjboy add 3xĐá lục bảo (old: 2) lydo: Nhặt từ map at 03/11/2023 7:21 AM
+BAG:xipdjboy add 302xHoa hồng vàng (old: 301) lydo: Nhặt từ map at 03/11/2023 7:21 AM
+BAG:xipdjboy add 5xĐá Titan (old: 4) lydo: Nhặt từ map at 03/11/2023 7:21 AM
+BAG:xipdjboy add 211xHoa hồng xanh (old: 210) lydo: Nhặt từ map at 03/11/2023 7:22 AM
+BAG:xipdjboy add 231xHoa hồng đỏ (old: 230) lydo: Nhặt từ map at 03/11/2023 7:22 AM
+BAG:xipdjboy add 303xHoa hồng vàng (old: 302) lydo: Nhặt từ map at 03/11/2023 7:22 AM
+BAG:xipdjboy add 232xHoa hồng đỏ (old: 231) lydo: Nhặt từ map at 03/11/2023 7:23 AM
+BAG:xipdjboy add 212xHoa hồng xanh (old: 211) lydo: Nhặt từ map at 03/11/2023 7:23 AM
+BAG:xipdjboy add 304xHoa hồng vàng (old: 303) lydo: Nhặt từ map at 03/11/2023 8:11 AM
+BAG:xipdjboy add 213xHoa hồng xanh (old: 212) lydo: Nhặt từ map at 03/11/2023 8:11 AM
+BAG:xipdjboy add 233xHoa hồng đỏ (old: 232) lydo: Nhặt từ map at 03/11/2023 8:12 AM
+BAG:xipdjboy add 234xHoa hồng đỏ (old: 233) lydo: Nhặt từ map at 03/11/2023 8:12 AM
+BAG:xipdjboy add 2xNgọc Rồng 6 sao (old: 1) lydo: Nhặt từ map at 03/11/2023 8:12 AM
+BAG:xipdjboy add 305xHoa hồng vàng (old: 304) lydo: Nhặt từ map at 03/11/2023 8:13 AM
+BAG:xipdjboy add 235xHoa hồng đỏ (old: 234) lydo: Nhặt từ map at 03/11/2023 8:13 AM
+BAG:xipdjboy add 6xĐá Ruby (old: 5) lydo: Nhặt từ map at 03/11/2023 8:14 AM
+BAG:xipdjboy add 306xHoa hồng vàng (old: 305) lydo: Nhặt từ map at 03/11/2023 8:14 AM
+BAG:xipdjboy add 236xHoa hồng đỏ (old: 235) lydo: Nhặt từ map at 03/11/2023 8:14 AM
+BAG:xipdjboy add 214xHoa hồng xanh (old: 213) lydo: Nhặt từ map at 03/11/2023 8:15 AM
+BAG:xipdjboy add 307xHoa hồng vàng (old: 306) lydo: Nhặt từ map at 03/11/2023 8:15 AM
+BAG:xipdjboy add 215xHoa hồng xanh (old: 214) lydo: Nhặt từ map at 03/11/2023 8:15 AM
+BAG:xipdjboy add 216xHoa hồng xanh (old: 215) lydo: Nhặt từ map at 03/11/2023 8:15 AM
+BAG:xipdjboy add 217xHoa hồng xanh (old: 216) lydo: Nhặt từ map at 03/11/2023 8:15 AM
+BAG:xipdjboy add 308xHoa hồng vàng (old: 307) lydo: Nhặt từ map at 03/11/2023 8:15 AM
+BAG:xipdjboy add 237xHoa hồng đỏ (old: 236) lydo: Nhặt từ map at 03/11/2023 8:15 AM
+BAG:xipdjboy add 309xHoa hồng vàng (old: 308) lydo: Nhặt từ map at 03/11/2023 8:15 AM
+BAG:xipdjboy add 218xHoa hồng xanh (old: 217) lydo: Nhặt từ map at 03/11/2023 8:16 AM
+BAG:xipdjboy add 219xHoa hồng xanh (old: 218) lydo: Nhặt từ map at 03/11/2023 8:16 AM
+BAG:xipdjboy add 310xHoa hồng vàng (old: 309) lydo: Nhặt từ map at 03/11/2023 8:16 AM
+BAG:xipdjboy add 311xHoa hồng vàng (old: 310) lydo: Nhặt từ map at 03/11/2023 8:16 AM
+BAG:xipdjboy add 238xHoa hồng đỏ (old: 237) lydo: Nhặt từ map at 03/11/2023 8:16 AM
+BAG:xipdjboy add 312xHoa hồng vàng (old: 311) lydo: Nhặt từ map at 03/11/2023 8:16 AM
+BAG:xipdjboy add 220xHoa hồng xanh (old: 219) lydo: Nhặt từ map at 03/11/2023 8:16 AM
+BAG:xipdjboy add 221xHoa hồng xanh (old: 220) lydo: Nhặt từ map at 03/11/2023 8:17 AM
+BAG:xipdjboy add 239xHoa hồng đỏ (old: 238) lydo: Nhặt từ map at 03/11/2023 8:17 AM
+BAG:xipdjboy add 240xHoa hồng đỏ (old: 239) lydo: Nhặt từ map at 03/11/2023 8:17 AM
+BAG:xipdjboy add 222xHoa hồng xanh (old: 221) lydo: Nhặt từ map at 03/11/2023 8:17 AM
+BAG:xipdjboy add 223xHoa hồng xanh (old: 222) lydo: Nhặt từ map at 03/11/2023 8:17 AM
+BAG:xipdjboy add 241xHoa hồng đỏ (old: 240) lydo: Nhặt từ map at 03/11/2023 8:18 AM
+BAG:xipdjboy add 313xHoa hồng vàng (old: 312) lydo: Nhặt từ map at 03/11/2023 8:18 AM
+BAG:xipdjboy add 61xĐá thạch anh tím (old: 60) lydo: Nhặt từ map at 03/11/2023 8:18 AM
+BAG:xipdjboy add 7xĐá Ruby (old: 6) lydo: Nhặt từ map at 03/11/2023 8:18 AM
+BAG:xipdjboy add 314xHoa hồng vàng (old: 313) lydo: Nhặt từ map at 03/11/2023 8:19 AM
+BAG:xipdjboy add 242xHoa hồng đỏ (old: 241) lydo: Nhặt từ map at 03/11/2023 8:19 AM
+BAG:xipdjboy add 224xHoa hồng xanh (old: 223) lydo: Nhặt từ map at 03/11/2023 8:19 AM
+BAG:xipdjboy add 315xHoa hồng vàng (old: 314) lydo: Nhặt từ map at 03/11/2023 8:19 AM
+BAG:xipdjboy add 316xHoa hồng vàng (old: 315) lydo: Nhặt từ map at 03/11/2023 8:20 AM
+BAG:xipdjboy add 225xHoa hồng xanh (old: 224) lydo: Nhặt từ map at 03/11/2023 8:20 AM
+BAG:xipdjboy add 243xHoa hồng đỏ (old: 242) lydo: Nhặt từ map at 03/11/2023 8:21 AM
+BAG:xipdjboy add 317xHoa hồng vàng (old: 316) lydo: Nhặt từ map at 03/11/2023 8:21 AM
+BAG:xipdjboy add 318xHoa hồng vàng (old: 317) lydo: Nhặt từ map at 03/11/2023 8:21 AM
+BAG:xipdjboy add 244xHoa hồng đỏ (old: 243) lydo: Nhặt từ map at 03/11/2023 8:22 AM
+BAG:xipdjboy add 226xHoa hồng xanh (old: 225) lydo: Nhặt từ map at 03/11/2023 8:22 AM
+BAG:xipdjboy add 227xHoa hồng xanh (old: 226) lydo: Nhặt từ map at 03/11/2023 8:22 AM
+BAG:xipdjboy add 228xHoa hồng xanh (old: 227) lydo: Nhặt từ map at 03/11/2023 8:23 AM
+BAG:xipdjboy add 319xHoa hồng vàng (old: 318) lydo: Nhặt từ map at 03/11/2023 8:23 AM
+BAG:xipdjboy add 320xHoa hồng vàng (old: 319) lydo: Nhặt từ map at 03/11/2023 8:24 AM
+BAG:xipdjboy add 229xHoa hồng xanh (old: 228) lydo: Nhặt từ map at 03/11/2023 8:24 AM
+BAG:xipdjboy add 245xHoa hồng đỏ (old: 244) lydo: Nhặt từ map at 03/11/2023 8:25 AM
+BAG:xipdjboy add 321xHoa hồng vàng (old: 320) lydo: Nhặt từ map at 03/11/2023 8:25 AM
+BAG:xipdjboy add 230xHoa hồng xanh (old: 229) lydo: Nhặt từ map at 03/11/2023 8:25 AM
+BAG:xipdjboy add 231xHoa hồng xanh (old: 230) lydo: Nhặt từ map at 03/11/2023 8:25 AM
+BAG:xipdjboy add 62xĐá thạch anh tím (old: 61) lydo: Nhặt từ map at 03/11/2023 8:25 AM
+BAG:xipdjboy add 4xĐá lục bảo (old: 3) lydo: Nhặt từ map at 03/11/2023 8:26 AM
+BAG:xipdjboy add 322xHoa hồng vàng (old: 321) lydo: Nhặt từ map at 03/11/2023 8:26 AM
+BAG:xipdjboy add 323xHoa hồng vàng (old: 322) lydo: Nhặt từ map at 03/11/2023 8:26 AM
+BAG:xipdjboy add 246xHoa hồng đỏ (old: 245) lydo: Nhặt từ map at 03/11/2023 8:26 AM
+BAG:xipdjboy add 247xHoa hồng đỏ (old: 246) lydo: Nhặt từ map at 03/11/2023 8:27 AM
+BAG:xipdjboy add 324xHoa hồng vàng (old: 323) lydo: Nhặt từ map at 03/11/2023 8:27 AM
+BAG:xipdjboy add 232xHoa hồng xanh (old: 231) lydo: Nhặt từ map at 03/11/2023 8:27 AM
+BAG:xipdjboy add 325xHoa hồng vàng (old: 324) lydo: Nhặt từ map at 03/11/2023 8:27 AM
+BAG:xipdjboy add 248xHoa hồng đỏ (old: 247) lydo: Nhặt từ map at 03/11/2023 8:27 AM
+BAG:xipdjboy add 326xHoa hồng vàng (old: 325) lydo: Nhặt từ map at 03/11/2023 8:28 AM
+BAG:xipdjboy add 249xHoa hồng đỏ (old: 248) lydo: Nhặt từ map at 03/11/2023 8:28 AM
+BAG:xipdjboy add 327xHoa hồng vàng (old: 326) lydo: Nhặt từ map at 03/11/2023 8:29 AM
+BAG:xipdjboy add 233xHoa hồng xanh (old: 232) lydo: Nhặt từ map at 03/11/2023 8:29 AM
+BAG:xipdjboy add 234xHoa hồng xanh (old: 233) lydo: Nhặt từ map at 03/11/2023 8:29 AM
+BAG:xipdjboy add 328xHoa hồng vàng (old: 327) lydo: Nhặt từ map at 03/11/2023 8:30 AM
+BAG:xipdjboy add 250xHoa hồng đỏ (old: 249) lydo: Nhặt từ map at 03/11/2023 8:30 AM
+BAG:xipdjboy add 251xHoa hồng đỏ (old: 250) lydo: Nhặt từ map at 03/11/2023 8:30 AM
+BAG:xipdjboy add 252xHoa hồng đỏ (old: 251) lydo: Nhặt từ map at 03/11/2023 10:36 AM
+BAG:xipdjboy add 253xHoa hồng đỏ (old: 252) lydo: Nhặt từ map at 03/11/2023 10:36 AM
+BAG:xipdjboy add 5xĐá lục bảo (old: 4) lydo: Nhặt từ map at 03/11/2023 10:37 AM
+BAG:xipdjboy add 329xHoa hồng vàng (old: 328) lydo: Nhặt từ map at 03/11/2023 10:37 AM
+BAG:xipdjboy add 330xHoa hồng vàng (old: 329) lydo: Nhặt từ map at 03/11/2023 10:37 AM
+BAG:xipdjboy add 4xĐá Saphia (old: 3) lydo: Nhặt từ map at 03/11/2023 10:37 AM
+BAG:xipdjboy add 235xHoa hồng xanh (old: 234) lydo: Nhặt từ map at 03/11/2023 10:38 AM
+BAG:xipdjboy add 331xHoa hồng vàng (old: 330) lydo: Nhặt từ map at 03/11/2023 10:38 AM
+BAG:xipdjboy add 332xHoa hồng vàng (old: 331) lydo: Nhặt từ map at 03/11/2023 10:38 AM
+BAG:xipdjboy add 333xHoa hồng vàng (old: 332) lydo: Nhặt từ map at 03/11/2023 10:38 AM
+BAG:xipdjboy add 236xHoa hồng xanh (old: 235) lydo: Nhặt từ map at 03/11/2023 10:40 AM
+BAG:xipdjboy add 334xHoa hồng vàng (old: 333) lydo: Nhặt từ map at 03/11/2023 1:23 PM
+BAG:xipdjboy add 335xHoa hồng vàng (old: 334) lydo: Nhặt từ map at 03/11/2023 1:23 PM
+BAG:xipdjboy add 336xHoa hồng vàng (old: 335) lydo: Nhặt từ map at 03/11/2023 1:23 PM
+BAG:xipdjboy add 337xHoa hồng vàng (old: 336) lydo: Nhặt từ map at 03/11/2023 1:24 PM
+BAG:xipdjboy add 237xHoa hồng xanh (old: 236) lydo: Nhặt từ map at 03/11/2023 1:24 PM
+BAG:xipdjboy add 238xHoa hồng xanh (old: 237) lydo: Nhặt từ map at 03/11/2023 1:24 PM
+BAG:xipdjboy add 239xHoa hồng xanh (old: 238) lydo: Nhặt từ map at 03/11/2023 1:25 PM
+BAG:xipdjboy add 338xHoa hồng vàng (old: 337) lydo: Nhặt từ map at 03/11/2023 1:25 PM
+BAG:xipdjboy add 339xHoa hồng vàng (old: 338) lydo: Nhặt từ map at 03/11/2023 1:25 PM
+BAG:xipdjboy add 6xĐá lục bảo (old: 5) lydo: Nhặt từ map at 03/11/2023 1:25 PM
+BAG:xipdjboy add 340xHoa hồng vàng (old: 339) lydo: Nhặt từ map at 03/11/2023 1:25 PM
+BAG:xipdjboy add 341xHoa hồng vàng (old: 340) lydo: Nhặt từ map at 03/11/2023 1:25 PM
+BAG:xipdjboy add 254xHoa hồng đỏ (old: 253) lydo: Nhặt từ map at 03/11/2023 1:26 PM
+BAG:xipdjboy add 342xHoa hồng vàng (old: 341) lydo: Nhặt từ map at 03/11/2023 1:26 PM
+BAG:xipdjboy add 343xHoa hồng vàng (old: 342) lydo: Nhặt từ map at 03/11/2023 1:26 PM
+BAG:xipdjboy add 255xHoa hồng đỏ (old: 254) lydo: Nhặt từ map at 03/11/2023 1:26 PM
+BAG:xipdjboy add 344xHoa hồng vàng (old: 343) lydo: Nhặt từ map at 03/11/2023 1:26 PM
+BAG:xipdjboy add 8xĐá Ruby (old: 7) lydo: Nhặt từ map at 03/11/2023 1:27 PM
+BAG:xipdjboy add 5xĐá Saphia (old: 4) lydo: Nhặt từ map at 03/11/2023 1:27 PM
+BAG:xipdjboy add 240xHoa hồng xanh (old: 239) lydo: Nhặt từ map at 03/11/2023 1:27 PM
+BAG:xipdjboy add 241xHoa hồng xanh (old: 240) lydo: Nhặt từ map at 03/11/2023 1:27 PM
+BAG:xipdjboy add 242xHoa hồng xanh (old: 241) lydo: Nhặt từ map at 03/11/2023 1:28 PM
+BAG:xipdjboy add 345xHoa hồng vàng (old: 344) lydo: Nhặt từ map at 03/11/2023 1:28 PM
+BAG:xipdjboy add 346xHoa hồng vàng (old: 345) lydo: Nhặt từ map at 03/11/2023 1:30 PM
+BAG:xipdjboy add 256xHoa hồng đỏ (old: 255) lydo: Nhặt từ map at 03/11/2023 1:30 PM
+BAG:xipdjboy add 243xHoa hồng xanh (old: 242) lydo: Nhặt từ map at 03/11/2023 1:31 PM
+BAG:xipdjboy add 244xHoa hồng xanh (old: 243) lydo: Nhặt từ map at 03/11/2023 1:31 PM
+BAG:xipdjboy add 6xĐá Saphia (old: 5) lydo: Nhặt từ map at 03/11/2023 1:31 PM
+BAG:xipdjboy add 347xHoa hồng vàng (old: 346) lydo: Nhặt từ map at 03/11/2023 1:31 PM

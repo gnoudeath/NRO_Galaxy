@@ -1,0 +1,76 @@
+BAG:trumdream add 35xHoa hồng đỏ (old: 34) lydo: Nhặt từ map at 03/11/2023 11:07 AM
+BAG:trumdream add 86xĐậu thần cấp 10 (old: 66) lydo: Lấy từ rương qua người at 03/11/2023 11:08 AM
+BAG:trumdream add 7xĐậu thần cấp 10 lydo: Lấy từ rương qua người at 03/11/2023 11:08 AM
+BAG:trumdream add 99xĐậu thần cấp 10 (old: 86) lydo: Lấy từ rương qua người at 03/11/2023 11:08 AM
+BAG:trumdream add 32xHoa hồng xanh (old: 31) lydo: Nhặt từ map at 03/11/2023 11:09 AM
+BAG:trumdream add 84xHoa hồng vàng (old: 83) lydo: Nhặt từ map at 03/11/2023 11:09 AM
+BAG:trumdream add 33xHoa hồng xanh (old: 32) lydo: Nhặt từ map at 03/11/2023 11:09 AM
+BAG:trumdream add 85xHoa hồng vàng (old: 84) lydo: Nhặt từ map at 03/11/2023 11:10 AM
+BAG:trumdream add 36xHoa hồng đỏ (old: 35) lydo: Nhặt từ map at 03/11/2023 11:10 AM
+BAG:trumdream add 86xHoa hồng vàng (old: 85) lydo: Nhặt từ map at 03/11/2023 11:10 AM
+BAG:trumdream add 37xHoa hồng đỏ (old: 36) lydo: Nhặt từ map at 03/11/2023 11:10 AM
+BAG:trumdream add 38xHoa hồng đỏ (old: 37) lydo: Nhặt từ map at 03/11/2023 11:11 AM
+BAG:trumdream add 34xHoa hồng xanh (old: 33) lydo: Nhặt từ map at 03/11/2023 11:12 AM
+BAG:trumdream add 87xHoa hồng vàng (old: 86) lydo: Nhặt từ map at 03/11/2023 11:12 AM
+BAG:trumdream add 1xGăng thun cứng lydo: Mua từ cửa hàng at 03/11/2023 11:19 AM
+BAG:trumdream add 1xGăng vải Pico lydo: Mua từ cửa hàng at 03/11/2023 11:20 AM
+BAG:trumdream add 1xGăng da Pico lydo: Mua từ cửa hàng at 03/11/2023 11:20 AM
+BAG:trumdream add 1xCải Trang Thần Zeno Namec lydo: Lấy từ body vào hành trang at 03/11/2023 11:48 AM
+BAG:trumdream add 39xHoa hồng đỏ (old: 38) lydo: Nhặt từ map at 03/11/2023 11:54 AM
+BAG:trumdream add 35xHoa hồng xanh (old: 34) lydo: Nhặt từ map at 03/11/2023 12:22 PM
+BAG:trumdream add 1xNâng cấp kỹ năng 2 đệ tử lydo: Mua từ cửa hàng at 03/11/2023 12:55 PM
+BAG:trumdream add 2xNâng cấp kỹ năng 2 đệ tử (old: 1) lydo: Mua từ cửa hàng at 03/11/2023 12:55 PM
+BAG:trumdream add 3xNâng cấp kỹ năng 2 đệ tử (old: 2) lydo: Mua từ cửa hàng at 03/11/2023 12:55 PM
+BAG:trumdream add 4xNâng cấp kỹ năng 2 đệ tử (old: 3) lydo: Mua từ cửa hàng at 03/11/2023 12:55 PM
+BAG:trumdream add 5xNâng cấp kỹ năng 2 đệ tử (old: 4) lydo: Mua từ cửa hàng at 03/11/2023 12:55 PM
+BAG:trumdream add 6xNâng cấp kỹ năng 2 đệ tử (old: 5) lydo: Mua từ cửa hàng at 03/11/2023 12:55 PM
+BAG:trumdream add 1xGăng đồng Tron lydo: Mua từ cửa hàng at 03/11/2023 12:56 PM
+BAG:trumdream add 1xGăng sắt Tron lydo: Mua từ cửa hàng at 03/11/2023 12:56 PM
+BAG:trumdream add 1xSách Liên hoàn lv1 lydo: Mua từ cửa hàng at 03/11/2023 12:56 PM
+BAG:trumdream add 1xSách Liên hoàn lv2 lydo: Mua từ cửa hàng at 03/11/2023 12:56 PM
+BAG:trumdream add 1xSách Liên hoàn lv3 lydo: Mua từ cửa hàng at 03/11/2023 12:57 PM
+BAG:trumdream add 1xSách Liên hoàn lv4 lydo: Mua từ cửa hàng at 03/11/2023 12:57 PM
+BAG:trumdream add 1xSách Liên hoàn lv5 lydo: Mua từ cửa hàng at 03/11/2023 12:57 PM
+BAG:trumdream add 1xSách Liên hoàn lv6 lydo: Mua từ cửa hàng at 03/11/2023 12:57 PM
+BAG:trumdream add 1xSách Liên hoàn lv7 lydo: Mua từ cửa hàng at 03/11/2023 12:57 PM
+BAG:trumdream add 1xCải Trang Thần Zeno Namec lydo: Lấy từ body vào hành trang at 03/11/2023 12:59 PM
+BAG:trumdream add 1xÁo sợi len lydo: Lấy từ body đệ vào hành trang at 03/11/2023 1:03 PM
+BAG:trumdream add 1xQuần sợi len lydo: Lấy từ body đệ vào hành trang at 03/11/2023 1:03 PM
+BAG:trumdream add 1xGiầy sợi len lydo: Lấy từ body đệ vào hành trang at 03/11/2023 1:03 PM
+BAG:trumdream add 1xRada cấp 1 lydo: Lấy từ body đệ vào hành trang at 03/11/2023 1:03 PM
+BAG:trumdream add 1xGiáp tập luyện cấp 3 lydo: Mua từ cửa hàng at 03/11/2023 1:03 PM
+BAG:trumdream add 1xÁo sợi len lydo: Lấy từ body vào hành trang at 03/11/2023 1:05 PM
+BAG:trumdream add 1xQuần sợi len lydo: Lấy từ body vào hành trang at 03/11/2023 1:05 PM
+BAG:trumdream add 1xGiầy sợi len lydo: Lấy từ body vào hành trang at 03/11/2023 1:05 PM
+BAG:trumdream add 1xRada cấp 1 lydo: Lấy từ body vào hành trang at 03/11/2023 1:05 PM
+BAG:trumdream add 1xCải Trang Thần Zeno Namec lydo: Lấy từ body vào hành trang at 03/11/2023 1:12 PM
+BAG:trumdream add 88xHoa hồng vàng (old: 87) lydo: Nhặt từ map at 03/11/2023 1:14 PM
+BAG:trumdream add 40xHoa hồng đỏ (old: 39) lydo: Nhặt từ map at 03/11/2023 1:14 PM
+BAG:trumdream add 1xNezuko lydo: Lấy từ body đệ vào hành trang at 03/11/2023 1:14 PM
+BAG:trumdream add 1xGiáp tập luyện cấp 3 lydo: Lấy từ body vào hành trang at 03/11/2023 7:07 PM
+BAG:trumdream add 1xCải trang lydo: Mua từ cửa hàng at 03/11/2023 7:08 PM
+BAG:trumdream add 1xÁo sợi len lydo: Lấy từ body đệ vào hành trang at 03/11/2023 7:08 PM
+BAG:trumdream add 1xQuần sợi len lydo: Lấy từ body đệ vào hành trang at 03/11/2023 7:08 PM
+BAG:trumdream add 1xGiầy sợi len lydo: Lấy từ body đệ vào hành trang at 03/11/2023 7:08 PM
+BAG:trumdream add 1xRada cấp 1 lydo: Lấy từ body đệ vào hành trang at 03/11/2023 7:08 PM
+BAG:trumdream add 1xĐá lục bảo lydo: Nhặt từ map at 03/11/2023 7:09 PM
+BAG:trumdream add 36xHoa hồng xanh (old: 35) lydo: Nhặt từ map at 03/11/2023 7:09 PM
+BAG:trumdream add 1xĐá Titan lydo: Nhặt từ map at 03/11/2023 7:09 PM
+BAG:trumdream add 41xHoa hồng đỏ (old: 40) lydo: Nhặt từ map at 03/11/2023 7:09 PM
+BAG:trumdream add 1xĐẻ trứng lv1 lydo: Mua từ cửa hàng at 03/11/2023 7:11 PM
+BAG:trumdream add 1xĐẻ trứng lv2 lydo: Mua từ cửa hàng at 03/11/2023 7:11 PM
+BAG:trumdream add 1xĐẻ trứng lv3 lydo: Mua từ cửa hàng at 03/11/2023 7:11 PM
+BAG:trumdream add 1xĐẻ trứng lv4 lydo: Mua từ cửa hàng at 03/11/2023 7:12 PM
+BAG:trumdream add 1xĐẻ trứng lv5 lydo: Mua từ cửa hàng at 03/11/2023 7:12 PM
+BAG:trumdream add 1xĐẻ trứng lv6 lydo: Mua từ cửa hàng at 03/11/2023 7:12 PM
+BAG:trumdream add 1xĐẻ trứng lv7 lydo: Mua từ cửa hàng at 03/11/2023 7:12 PM
+BAG:trumdream add 1xKhiên năng lượng lv1 lydo: Mua từ cửa hàng at 03/11/2023 7:12 PM
+BAG:trumdream add 1xKhiên năng lượng lv2 lydo: Mua từ cửa hàng at 03/11/2023 7:12 PM
+BAG:trumdream add 1xKhiên năng lượng lv3 lydo: Mua từ cửa hàng at 03/11/2023 7:12 PM
+BAG:trumdream add 1xKhiên năng lượng lv5 lydo: Mua từ cửa hàng at 03/11/2023 7:12 PM
+BAG:trumdream add 1xKhiên năng lượng lv6 lydo: Mua từ cửa hàng at 03/11/2023 7:12 PM
+BAG:trumdream add 1xKhiên năng lượng lv4 lydo: Mua từ cửa hàng at 03/11/2023 7:12 PM
+BAG:trumdream add 1xKhiên năng lượng lv7 lydo: Mua từ cửa hàng at 03/11/2023 7:12 PM
+BAG:trumdream add 42xHoa hồng đỏ (old: 41) lydo: Nhặt từ map at 03/11/2023 7:14 PM
+BAG:trumdream add 43xHoa hồng đỏ (old: 42) lydo: Nhặt từ map at 03/11/2023 7:15 PM
+BAG:trumdream add 37xHoa hồng xanh (old: 36) lydo: Nhặt từ map at 03/11/2023 7:18 PM

@@ -1,0 +1,43 @@
+BAG:zzxukazz add 1xCải trang Chill cấp 2 lydo: Mua từ cửa hàng at 03/11/2023 7:04 AM
+BAG:zzxukazz add 1xHoa hồng xanh lydo: Nhặt từ map at 03/11/2023 10:25 AM
+BAG:zzxukazz add 2xHoa hồng đỏ (old: 1) lydo: Nhặt từ map at 03/11/2023 10:25 AM
+BAG:zzxukazz add 2xHoa hồng xanh (old: 1) lydo: Nhặt từ map at 03/11/2023 10:26 AM
+BAG:zzxukazz add 1xCải trang Chill cấp 2 lydo: Lấy từ body đệ vào hành trang at 03/11/2023 10:26 AM
+BAG:zzxukazz add 3xHoa hồng đỏ (old: 2) lydo: Nhặt từ map at 03/11/2023 10:27 AM
+BAG:zzxukazz add 1xRada cấp 1 lydo: Nhặt từ map at 03/11/2023 10:27 AM
+BAG:zzxukazz add 1xQuần vải thô lydo: Nhặt từ map at 03/11/2023 10:27 AM
+BAG:zzxukazz add 4xHoa hồng đỏ (old: 3) lydo: Nhặt từ map at 03/11/2023 10:27 AM
+BAG:zzxukazz add 1xĐá thạch anh tím lydo: Nhặt từ map at 03/11/2023 10:27 AM
+BAG:zzxukazz add 3xHoa hồng xanh (old: 2) lydo: Nhặt từ map at 03/11/2023 10:27 AM
+BAG:zzxukazz add 1xÁo vải thô lydo: Nhặt từ map at 03/11/2023 10:27 AM
+BAG:zzxukazz add 1xÁo vải thô lydo: Nhặt từ map at 03/11/2023 10:28 AM
+BAG:zzxukazz add 1xÁo vải thô lydo: Nhặt từ map at 03/11/2023 10:28 AM
+BAG:zzxukazz add 1xGăng vải thô lydo: Nhặt từ map at 03/11/2023 10:28 AM
+BAG:zzxukazz add 1xRada cấp 1 lydo: Lấy từ body vào hành trang at 03/11/2023 10:28 AM
+BAG:zzxukazz add 1xGăng vải thô lydo: Nhặt từ map at 03/11/2023 10:28 AM
+BAG:zzxukazz add 1xGiầy vải thô lydo: Nhặt từ map at 03/11/2023 10:28 AM
+BAG:zzxukazz add 1xGiầy vải thô lydo: Nhặt từ map at 03/11/2023 10:28 AM
+BAG:zzxukazz add 1xGăng vải thô lydo: Nhặt từ map at 03/11/2023 10:28 AM
+BAG:zzxukazz add 4xHoa hồng xanh (old: 3) lydo: Nhặt từ map at 03/11/2023 10:28 AM
+BAG:zzxukazz add 1xHoa hồng vàng lydo: Nhặt từ map at 03/11/2023 10:28 AM
+BAG:zzxukazz add 2xHoa hồng vàng (old: 1) lydo: Nhặt từ map at 03/11/2023 10:28 AM
+BAG:zzxukazz add 1xQuần vải thô lydo: Nhặt từ map at 03/11/2023 10:28 AM
+BAG:zzxukazz add 5xHoa hồng đỏ (old: 4) lydo: Nhặt từ map at 03/11/2023 10:28 AM
+BAG:zzxukazz add 3xHoa hồng vàng (old: 2) lydo: Nhặt từ map at 03/11/2023 10:28 AM
+BAG:zzxukazz add 1xQuần vải thô lydo: Nhặt từ map at 03/11/2023 10:29 AM
+BAG:zzxukazz add 4xHoa hồng vàng (old: 3) lydo: Nhặt từ map at 03/11/2023 10:29 AM
+BAG:zzxukazz add 5xHoa hồng xanh (old: 4) lydo: Nhặt từ map at 03/11/2023 10:29 AM
+BAG:zzxukazz add 6xHoa hồng xanh (old: 5) lydo: Nhặt từ map at 03/11/2023 10:29 AM
+BAG:zzxukazz add 1xGiầy vải thô lydo: Nhặt từ map at 03/11/2023 10:29 AM
+BAG:zzxukazz add 1xGăng vải thô lydo: Nhặt từ map at 03/11/2023 10:29 AM
+BAG:zzxukazz add 1xQuần vải thô lydo: Nhặt từ map at 03/11/2023 10:29 AM
+BAG:zzxukazz add 5xHoa hồng vàng (old: 4) lydo: Nhặt từ map at 03/11/2023 10:29 AM
+BAG:zzxukazz add 1xGăng vải thô lydo: Nhặt từ map at 03/11/2023 10:29 AM
+BAG:zzxukazz add 6xHoa hồng vàng (old: 5) lydo: Nhặt từ map at 03/11/2023 10:29 AM
+BAG:zzxukazz add 1xQuần vải thô lydo: Nhặt từ map at 03/11/2023 10:29 AM
+BAG:zzxukazz add 6xHoa hồng đỏ (old: 5) lydo: Nhặt từ map at 03/11/2023 10:29 AM
+BAG:zzxukazz add 1xĐá Saphia lydo: Nhặt từ map at 03/11/2023 10:29 AM
+BAG:zzxukazz add 7xHoa hồng đỏ (old: 6) lydo: Nhặt từ map at 03/11/2023 10:29 AM
+BAG:zzxukazz add 1xViên Capsule đặc biệt lydo: Mua từ cửa hàng at 03/11/2023 10:30 AM
+BAG:zzxukazz add 30xĐậu thần cấp 9 lydo: Mua từ cửa hàng at 03/11/2023 10:30 AM
+BAG:zzxukazz add 1xNgọc Rồng 6 sao lydo: Nhặt từ map at 03/11/2023 10:30 AM

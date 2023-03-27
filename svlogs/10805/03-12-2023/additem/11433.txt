@@ -1,0 +1,530 @@
+BAG:blackpink add 1xGăng lông đỏ lydo: Mua từ cửa hàng at 03/12/2023 6:43 AM
+BAG:blackpink add 10xĐậu thần cấp 5 (old: 1) lydo: Thu hoạch đậu at 03/12/2023 6:44 AM
+BAG:blackpink add 112xHoa hồng đỏ (old: 111) lydo: Nhặt từ map at 03/12/2023 7:02 AM
+BAG:blackpink add 145xHoa hồng vàng (old: 144) lydo: Nhặt từ map at 03/12/2023 7:03 AM
+BAG:blackpink add 113xHoa hồng đỏ (old: 112) lydo: Nhặt từ map at 03/12/2023 7:03 AM
+BAG:blackpink add 114xHoa hồng đỏ (old: 113) lydo: Nhặt từ map at 03/12/2023 7:03 AM
+BAG:blackpink add 146xHoa hồng vàng (old: 145) lydo: Nhặt từ map at 03/12/2023 7:03 AM
+BAG:blackpink add 1xĐá Saphia lydo: Nhặt từ map at 03/12/2023 7:03 AM
+BAG:blackpink add 11xĐá Titan (old: 10) lydo: Nhặt từ map at 03/12/2023 7:03 AM
+BAG:blackpink add 147xHoa hồng vàng (old: 146) lydo: Nhặt từ map at 03/12/2023 7:03 AM
+BAG:blackpink add 25xĐá lục bảo (old: 24) lydo: Nhặt từ map at 03/12/2023 7:03 AM
+BAG:blackpink add 22xĐá Ruby (old: 21) lydo: Nhặt từ map at 03/12/2023 7:03 AM
+BAG:blackpink add 115xHoa hồng đỏ (old: 114) lydo: Nhặt từ map at 03/12/2023 7:03 AM
+BAG:blackpink add 148xHoa hồng vàng (old: 147) lydo: Nhặt từ map at 03/12/2023 7:04 AM
+BAG:blackpink add 116xHoa hồng đỏ (old: 115) lydo: Nhặt từ map at 03/12/2023 7:04 AM
+BAG:blackpink add 149xHoa hồng vàng (old: 148) lydo: Nhặt từ map at 03/12/2023 7:04 AM
+BAG:blackpink add 26xĐá lục bảo (old: 25) lydo: Nhặt từ map at 03/12/2023 7:04 AM
+BAG:blackpink add 1xGăng Kaio lydo: Mua từ cửa hàng at 03/12/2023 7:05 AM
+BAG:blackpink add 1xNâng cấp kỹ năng 2 đệ tử lydo: Mua từ cửa hàng at 03/12/2023 7:05 AM
+BAG:blackpink add 2xNâng cấp kỹ năng 2 đệ tử (old: 1) lydo: Mua từ cửa hàng at 03/12/2023 7:05 AM
+BAG:blackpink add 3xNâng cấp kỹ năng 2 đệ tử (old: 2) lydo: Mua từ cửa hàng at 03/12/2023 7:05 AM
+BAG:blackpink add 4xNâng cấp kỹ năng 2 đệ tử (old: 3) lydo: Mua từ cửa hàng at 03/12/2023 7:05 AM
+BAG:blackpink add 5xNâng cấp kỹ năng 2 đệ tử (old: 4) lydo: Mua từ cửa hàng at 03/12/2023 7:05 AM
+BAG:blackpink add 6xNâng cấp kỹ năng 2 đệ tử (old: 5) lydo: Mua từ cửa hàng at 03/12/2023 7:05 AM
+BAG:blackpink add 10xĐậu thần cấp 7 lydo: Thu hoạch đậu at 03/12/2023 7:18 AM
+BAG:blackpink add 1xÁo vải thô lydo: Lấy từ body vào hành trang at 03/12/2023 7:20 AM
+BAG:blackpink add 1xQuần vải thô lydo: Lấy từ body vào hành trang at 03/12/2023 7:20 AM
+BAG:blackpink add 1xGiầy vải thô lydo: Lấy từ body vào hành trang at 03/12/2023 7:21 AM
+BAG:blackpink add 1xRada cấp 1 lydo: Lấy từ body vào hành trang at 03/12/2023 7:21 AM
+BAG:blackpink add 10xĐậu thần cấp 7 (old: 8) lydo: Thu hoạch đậu at 03/12/2023 7:26 AM
+BAG:blackpink add 1xGăng siêu Xayda lydo: Mua từ cửa hàng at 03/12/2023 7:26 AM
+BAG:blackpink add 1xÁo vải thô lydo: Lấy từ body vào hành trang at 03/12/2023 7:59 AM
+BAG:blackpink add 1xQuần vải thô lydo: Lấy từ body vào hành trang at 03/12/2023 7:59 AM
+BAG:blackpink add 1xRada cấp 1 lydo: Lấy từ body vào hành trang at 03/12/2023 7:59 AM
+BAG:blackpink add 1xGiầy vải thô lydo: Lấy từ body vào hành trang at 03/12/2023 7:59 AM
+BAG:blackpink add 101xHoa hồng xanh (old: 100) lydo: Nhặt từ map at 03/12/2023 8:35 AM
+BAG:blackpink add 102xHoa hồng xanh (old: 101) lydo: Nhặt từ map at 03/12/2023 8:35 AM
+BAG:blackpink add 150xHoa hồng vàng (old: 149) lydo: Nhặt từ map at 03/12/2023 8:35 AM
+BAG:blackpink add 27xĐá lục bảo (old: 26) lydo: Nhặt từ map at 03/12/2023 8:35 AM
+BAG:blackpink add 117xHoa hồng đỏ (old: 116) lydo: Nhặt từ map at 03/12/2023 8:35 AM
+BAG:blackpink add 151xHoa hồng vàng (old: 150) lydo: Nhặt từ map at 03/12/2023 8:35 AM
+BAG:blackpink add 22xĐá thạch anh tím (old: 21) lydo: Nhặt từ map at 03/12/2023 8:35 AM
+BAG:blackpink add 10xĐậu thần cấp 7 (old: 5) lydo: Thu hoạch đậu at 03/12/2023 8:36 AM
+BAG:blackpink add 1xGăng lưỡng long lydo: Mua từ cửa hàng at 03/12/2023 8:37 AM
+BAG:blackpink add 152xHoa hồng vàng (old: 151) lydo: Nhặt từ map at 03/12/2023 10:51 AM
+BAG:blackpink add 10xĐậu thần cấp 7 lydo: Thu hoạch đậu at 03/12/2023 10:51 AM
+BAG:blackpink add 1xÁo vải thô lydo: Mua từ cửa hàng at 03/12/2023 11:29 AM
+BAG:blackpink add 1xQuần vải thô lydo: Mua từ cửa hàng at 03/12/2023 11:29 AM
+BAG:blackpink add 1xGiầy vải thô lydo: Mua từ cửa hàng at 03/12/2023 11:29 AM
+BAG:blackpink add 1xRada cấp 1 lydo: Mua từ cửa hàng at 03/12/2023 11:29 AM
+BAG:blackpink add 1xGiáp tập luyện cấp 1 lydo: Mua từ cửa hàng at 03/12/2023 11:29 AM
+BAG:blackpink add 103xHoa hồng xanh (old: 102) lydo: Nhặt từ map at 03/12/2023 11:34 AM
+BAG:blackpink add 1xCT Genma 01 lydo: Lấy từ body vào hành trang at 03/12/2023 11:34 AM
+BAG:blackpink add 118xHoa hồng đỏ (old: 117) lydo: Nhặt từ map at 03/12/2023 11:34 AM
+BAG:blackpink add 119xHoa hồng đỏ (old: 118) lydo: Nhặt từ map at 03/12/2023 11:35 AM
+BAG:blackpink add 12xĐá Titan (old: 11) lydo: Nhặt từ map at 03/12/2023 11:35 AM
+BAG:blackpink add 1xGiáp tập luyện cấp 3 lydo: Lấy từ body vào hành trang at 03/12/2023 11:37 AM
+BAG:blackpink add 1xGăng lưỡng long lydo: Lấy từ body đệ vào hành trang at 03/12/2023 11:43 AM
+BAG:blackpink add 120xHoa hồng đỏ (old: 119) lydo: Nhặt từ map at 03/12/2023 11:47 AM
+BAG:blackpink add 153xHoa hồng vàng (old: 152) lydo: Nhặt từ map at 03/12/2023 11:47 AM
+BAG:blackpink add 154xHoa hồng vàng (old: 153) lydo: Nhặt từ map at 03/12/2023 11:47 AM
+BAG:blackpink add 1xGiáp tập luyện cấp 3 lydo: Lấy từ body vào hành trang at 03/12/2023 11:48 AM
+BAG:blackpink add 63xNgọc Rồng 3 sao lydo: Lấy từ rương qua người at 03/12/2023 11:52 AM
+BAG:blackpink add 1xGăng lưỡng long lydo: Lấy từ body đệ vào hành trang at 03/12/2023 11:57 AM
+BAG:blackpink add 1xTanjiro lydo: Lấy từ rương qua người at 03/12/2023 11:59 AM
+BAG:blackpink add 1xNgọc Rồng 6 sao lydo: Lấy từ rương qua người at 03/12/2023 11:59 AM
+BAG:blackpink add 1xCT Genma 02 lydo: Lấy từ rương qua người at 03/12/2023 11:59 AM
+BAG:blackpink add 1xCải trang mồn lèo lydo: Lấy từ rương qua người at 03/12/2023 11:59 AM
+BAG:blackpink add 13xĐá Titan (old: 12) lydo: Nhặt từ map at 03/12/2023 12:00 PM
+BAG:blackpink add 104xHoa hồng xanh (old: 103) lydo: Nhặt từ map at 03/12/2023 12:00 PM
+BAG:blackpink add 1xTanjiro lydo: Lấy từ body vào hành trang at 03/12/2023 12:00 PM
+BAG:blackpink add 1xÁo vải thô lydo: Lấy từ body vào hành trang at 03/12/2023 12:04 PM
+BAG:blackpink add 1xQuần vải thô lydo: Lấy từ body vào hành trang at 03/12/2023 12:04 PM
+BAG:blackpink add 121xHoa hồng đỏ (old: 120) lydo: Nhặt từ map at 03/12/2023 12:05 PM
+BAG:blackpink add 155xHoa hồng vàng (old: 154) lydo: Nhặt từ map at 03/12/2023 12:06 PM
+BAG:blackpink add 122xHoa hồng đỏ (old: 121) lydo: Nhặt từ map at 03/12/2023 12:06 PM
+BAG:blackpink add 123xHoa hồng đỏ (old: 122) lydo: Nhặt từ map at 03/12/2023 12:06 PM
+BAG:blackpink add 124xHoa hồng đỏ (old: 123) lydo: Nhặt từ map at 03/12/2023 12:06 PM
+BAG:blackpink add 1xGiáp tập luyện cấp 3 lydo: Lấy từ body vào hành trang at 03/12/2023 12:06 PM
+BAG:blackpink add 1xNgọc Rồng 6 sao lydo: Nhặt từ map at 03/12/2023 12:07 PM
+BAG:blackpink add 105xHoa hồng xanh (old: 104) lydo: Nhặt từ map at 03/12/2023 12:07 PM
+BAG:blackpink add 1xTanjiro lydo: Lấy từ body vào hành trang at 03/12/2023 1:08 PM
+BAG:blackpink add 10xĐậu thần cấp 7 (old: 1) lydo: Thu hoạch đậu at 03/12/2023 1:25 PM
+BAG:blackpink add 106xHoa hồng xanh (old: 105) lydo: Nhặt từ map at 03/12/2023 1:41 PM
+BAG:blackpink add 14xĐá Titan (old: 13) lydo: Nhặt từ map at 03/12/2023 2:10 PM
+BAG:blackpink add 15xĐá Titan (old: 14) lydo: Nhặt từ map at 03/12/2023 2:26 PM
+BAG:blackpink add 6xĐậu thần cấp 7 (old: 5) lydo: Clan cho đậu at 03/12/2023 2:35 PM
+BAG:blackpink add 7xĐậu thần cấp 7 (old: 6) lydo: Clan cho đậu at 03/12/2023 2:35 PM
+BAG:blackpink add 8xĐậu thần cấp 7 (old: 7) lydo: Clan cho đậu at 03/12/2023 2:35 PM
+BAG:blackpink add 9xĐậu thần cấp 7 (old: 8) lydo: Clan cho đậu at 03/12/2023 2:35 PM
+BAG:blackpink add 10xĐậu thần cấp 7 (old: 9) lydo: Clan cho đậu at 03/12/2023 2:35 PM
+BAG:blackpink add 107xHoa hồng xanh (old: 106) lydo: Nhặt từ map at 03/12/2023 2:46 PM
+BAG:blackpink add 19xNgọc Rồng 4 sao (old: 18) lydo: Nhặt từ map at 03/12/2023 3:02 PM
+BAG:blackpink add 156xHoa hồng vàng (old: 155) lydo: Nhặt từ map at 03/12/2023 3:05 PM
+BAG:blackpink add 125xHoa hồng đỏ (old: 124) lydo: Nhặt từ map at 03/12/2023 3:11 PM
+BAG:blackpink add 157xHoa hồng vàng (old: 156) lydo: Nhặt từ map at 03/12/2023 3:12 PM
+BAG:blackpink add 158xHoa hồng vàng (old: 157) lydo: Nhặt từ map at 03/12/2023 3:14 PM
+BAG:blackpink add 23xĐá Ruby (old: 22) lydo: Nhặt từ map at 03/12/2023 3:14 PM
+BAG:blackpink add 126xHoa hồng đỏ (old: 125) lydo: Nhặt từ map at 03/12/2023 3:14 PM
+BAG:blackpink add 159xHoa hồng vàng (old: 158) lydo: Nhặt từ map at 03/12/2023 3:14 PM
+BAG:blackpink add 160xHoa hồng vàng (old: 159) lydo: Nhặt từ map at 03/12/2023 3:14 PM
+BAG:blackpink add 161xHoa hồng vàng (old: 160) lydo: Nhặt từ map at 03/12/2023 3:14 PM
+BAG:blackpink add 1xĐá Saphia lydo: Nhặt từ map at 03/12/2023 3:14 PM
+BAG:blackpink add 28xĐá lục bảo (old: 27) lydo: Nhặt từ map at 03/12/2023 3:15 PM
+BAG:blackpink add 108xHoa hồng xanh (old: 107) lydo: Nhặt từ map at 03/12/2023 3:15 PM
+BAG:blackpink add 162xHoa hồng vàng (old: 161) lydo: Nhặt từ map at 03/12/2023 3:15 PM
+BAG:blackpink add 163xHoa hồng vàng (old: 162) lydo: Nhặt từ map at 03/12/2023 3:15 PM
+BAG:blackpink add 127xHoa hồng đỏ (old: 126) lydo: Nhặt từ map at 03/12/2023 3:16 PM
+BAG:blackpink add 164xHoa hồng vàng (old: 163) lydo: Nhặt từ map at 03/12/2023 3:17 PM
+BAG:blackpink add 128xHoa hồng đỏ (old: 127) lydo: Nhặt từ map at 03/12/2023 3:19 PM
+BAG:blackpink add 165xHoa hồng vàng (old: 164) lydo: Nhặt từ map at 03/12/2023 3:19 PM
+BAG:blackpink add 29xĐá lục bảo (old: 28) lydo: Nhặt từ map at 03/12/2023 3:34 PM
+BAG:blackpink add 23xĐá thạch anh tím (old: 22) lydo: Nhặt từ map at 03/12/2023 3:34 PM
+BAG:blackpink add 166xHoa hồng vàng (old: 165) lydo: Nhặt từ map at 03/12/2023 3:34 PM
+BAG:blackpink add 24xĐá Ruby (old: 23) lydo: Nhặt từ map at 03/12/2023 3:35 PM
+BAG:blackpink add 109xHoa hồng xanh (old: 108) lydo: Nhặt từ map at 03/12/2023 3:35 PM
+BAG:blackpink add 110xHoa hồng xanh (old: 109) lydo: Nhặt từ map at 03/12/2023 3:36 PM
+BAG:blackpink add 129xHoa hồng đỏ (old: 128) lydo: Nhặt từ map at 03/12/2023 3:37 PM
+BAG:blackpink add 25xĐá Ruby (old: 24) lydo: Nhặt từ map at 03/12/2023 3:37 PM
+BAG:blackpink add 167xHoa hồng vàng (old: 166) lydo: Nhặt từ map at 03/12/2023 3:40 PM
+BAG:blackpink add 10xĐậu thần cấp 7 (old: 8) lydo: Thu hoạch đậu at 03/12/2023 3:41 PM
+BAG:blackpink add 111xHoa hồng xanh (old: 110) lydo: Nhặt từ map at 03/12/2023 3:42 PM
+BAG:blackpink add 168xHoa hồng vàng (old: 167) lydo: Nhặt từ map at 03/12/2023 4:03 PM
+BAG:blackpink add 169xHoa hồng vàng (old: 168) lydo: Nhặt từ map at 03/12/2023 4:08 PM
+BAG:blackpink add 112xHoa hồng xanh (old: 111) lydo: Nhặt từ map at 03/12/2023 4:15 PM
+BAG:blackpink add 30xĐá lục bảo (old: 29) lydo: Nhặt từ map at 03/12/2023 4:18 PM
+BAG:blackpink add 170xHoa hồng vàng (old: 169) lydo: Nhặt từ map at 03/12/2023 4:25 PM
+BAG:blackpink add 171xHoa hồng vàng (old: 170) lydo: Nhặt từ map at 03/12/2023 4:46 PM
+BAG:blackpink add 130xHoa hồng đỏ (old: 129) lydo: Nhặt từ map at 03/12/2023 4:49 PM
+BAG:blackpink add 172xHoa hồng vàng (old: 171) lydo: Nhặt từ map at 03/12/2023 4:54 PM
+BAG:blackpink add 24xĐá thạch anh tím (old: 23) lydo: Nhặt từ map at 03/12/2023 5:01 PM
+BAG:blackpink add 113xHoa hồng xanh (old: 112) lydo: Nhặt từ map at 03/12/2023 5:06 PM
+BAG:blackpink add 114xHoa hồng xanh (old: 113) lydo: Nhặt từ map at 03/12/2023 5:16 PM
+BAG:blackpink add 10xĐậu thần cấp 7 (old: 3) lydo: Thu hoạch đậu at 03/12/2023 5:19 PM
+BAG:blackpink add 16xĐá Titan (old: 15) lydo: Nhặt từ map at 03/12/2023 6:04 PM
+BAG:blackpink add 173xHoa hồng vàng (old: 172) lydo: Nhặt từ map at 03/12/2023 6:04 PM
+BAG:blackpink add 174xHoa hồng vàng (old: 173) lydo: Nhặt từ map at 03/12/2023 6:04 PM
+BAG:blackpink add 175xHoa hồng vàng (old: 174) lydo: Nhặt từ map at 03/12/2023 6:04 PM
+BAG:blackpink add 25xĐá thạch anh tím (old: 24) lydo: Nhặt từ map at 03/12/2023 6:04 PM
+BAG:blackpink add 31xĐá lục bảo (old: 30) lydo: Nhặt từ map at 03/12/2023 6:04 PM
+BAG:blackpink add 20xNgọc Rồng 4 sao (old: 19) lydo: Nhặt từ map at 03/12/2023 6:04 PM
+BAG:blackpink add 176xHoa hồng vàng (old: 175) lydo: Nhặt từ map at 03/12/2023 6:04 PM
+BAG:blackpink add 131xHoa hồng đỏ (old: 130) lydo: Nhặt từ map at 03/12/2023 6:04 PM
+BAG:blackpink add 177xHoa hồng vàng (old: 176) lydo: Nhặt từ map at 03/12/2023 6:05 PM
+BAG:blackpink add 26xĐá thạch anh tím (old: 25) lydo: Nhặt từ map at 03/12/2023 6:05 PM
+BAG:blackpink add 115xHoa hồng xanh (old: 114) lydo: Nhặt từ map at 03/12/2023 6:05 PM
+BAG:blackpink add 1xGiáp tập luyện cấp 3 lydo: Lấy từ body vào hành trang at 03/12/2023 6:05 PM
+BAG:blackpink add 178xHoa hồng vàng (old: 177) lydo: Nhặt từ map at 03/12/2023 6:05 PM
+BAG:blackpink add 179xHoa hồng vàng (old: 178) lydo: Nhặt từ map at 03/12/2023 6:05 PM
+BAG:blackpink add 180xHoa hồng vàng (old: 179) lydo: Nhặt từ map at 03/12/2023 6:05 PM
+BAG:blackpink add 181xHoa hồng vàng (old: 180) lydo: Nhặt từ map at 03/12/2023 6:05 PM
+BAG:blackpink add 21xNgọc Rồng 4 sao (old: 20) lydo: Nhặt từ map at 03/12/2023 6:05 PM
+BAG:blackpink add 132xHoa hồng đỏ (old: 131) lydo: Nhặt từ map at 03/12/2023 6:05 PM
+BAG:blackpink add 26xĐá Ruby (old: 25) lydo: Nhặt từ map at 03/12/2023 6:06 PM
+BAG:blackpink add 182xHoa hồng vàng (old: 181) lydo: Nhặt từ map at 03/12/2023 6:07 PM
+BAG:blackpink add 32xĐá lục bảo (old: 31) lydo: Nhặt từ map at 03/12/2023 6:07 PM
+BAG:blackpink add 116xHoa hồng xanh (old: 115) lydo: Nhặt từ map at 03/12/2023 6:07 PM
+BAG:blackpink add 183xHoa hồng vàng (old: 182) lydo: Nhặt từ map at 03/12/2023 6:08 PM
+BAG:blackpink add 117xHoa hồng xanh (old: 116) lydo: Nhặt từ map at 03/12/2023 6:09 PM
+BAG:blackpink add 184xHoa hồng vàng (old: 183) lydo: Nhặt từ map at 03/12/2023 6:09 PM
+BAG:blackpink add 22xNgọc Rồng 4 sao (old: 21) lydo: Nhặt từ map at 03/12/2023 6:09 PM
+BAG:blackpink add 185xHoa hồng vàng (old: 184) lydo: Nhặt từ map at 03/12/2023 6:09 PM
+BAG:blackpink add 118xHoa hồng xanh (old: 117) lydo: Nhặt từ map at 03/12/2023 6:10 PM
+BAG:blackpink add 1xNgọc Rồng 5 sao lydo: Nhặt từ map at 03/12/2023 6:10 PM
+BAG:blackpink add 133xHoa hồng đỏ (old: 132) lydo: Nhặt từ map at 03/12/2023 6:10 PM
+BAG:blackpink add 33xĐá lục bảo (old: 32) lydo: Nhặt từ map at 03/12/2023 6:10 PM
+BAG:blackpink add 186xHoa hồng vàng (old: 185) lydo: Nhặt từ map at 03/12/2023 6:10 PM
+BAG:blackpink add 2xNgọc Rồng 5 sao (old: 1) lydo: Nhặt từ map at 03/12/2023 6:10 PM
+BAG:blackpink add 134xHoa hồng đỏ (old: 133) lydo: Nhặt từ map at 03/12/2023 6:10 PM
+BAG:blackpink add 27xĐá thạch anh tím (old: 26) lydo: Nhặt từ map at 03/12/2023 6:11 PM
+BAG:blackpink add 135xHoa hồng đỏ (old: 134) lydo: Nhặt từ map at 03/12/2023 6:11 PM
+BAG:blackpink add 23xNgọc Rồng 4 sao (old: 22) lydo: Nhặt từ map at 03/12/2023 6:11 PM
+BAG:blackpink add 187xHoa hồng vàng (old: 186) lydo: Nhặt từ map at 03/12/2023 6:11 PM
+BAG:blackpink add 188xHoa hồng vàng (old: 187) lydo: Nhặt từ map at 03/12/2023 6:11 PM
+BAG:blackpink add 27xĐá Ruby (old: 26) lydo: Nhặt từ map at 03/12/2023 6:11 PM
+BAG:blackpink add 119xHoa hồng xanh (old: 118) lydo: Nhặt từ map at 03/12/2023 6:11 PM
+BAG:blackpink add 189xHoa hồng vàng (old: 188) lydo: Nhặt từ map at 03/12/2023 6:11 PM
+BAG:blackpink add 120xHoa hồng xanh (old: 119) lydo: Nhặt từ map at 03/12/2023 6:12 PM
+BAG:blackpink add 136xHoa hồng đỏ (old: 135) lydo: Nhặt từ map at 03/12/2023 6:12 PM
+BAG:blackpink add 28xĐá thạch anh tím (old: 27) lydo: Nhặt từ map at 03/12/2023 6:13 PM
+BAG:blackpink add 137xHoa hồng đỏ (old: 136) lydo: Nhặt từ map at 03/12/2023 6:14 PM
+BAG:blackpink add 3xNgọc Rồng 5 sao (old: 2) lydo: Nhặt từ map at 03/12/2023 6:14 PM
+BAG:blackpink add 121xHoa hồng xanh (old: 120) lydo: Nhặt từ map at 03/12/2023 6:14 PM
+BAG:blackpink add 122xHoa hồng xanh (old: 121) lydo: Nhặt từ map at 03/12/2023 6:14 PM
+BAG:blackpink add 138xHoa hồng đỏ (old: 137) lydo: Nhặt từ map at 03/12/2023 6:14 PM
+BAG:blackpink add 190xHoa hồng vàng (old: 189) lydo: Nhặt từ map at 03/12/2023 6:14 PM
+BAG:blackpink add 191xHoa hồng vàng (old: 190) lydo: Nhặt từ map at 03/12/2023 6:14 PM
+BAG:blackpink add 28xĐá Ruby (old: 27) lydo: Nhặt từ map at 03/12/2023 6:15 PM
+BAG:blackpink add 192xHoa hồng vàng (old: 191) lydo: Nhặt từ map at 03/12/2023 6:15 PM
+BAG:blackpink add 139xHoa hồng đỏ (old: 138) lydo: Nhặt từ map at 03/12/2023 6:15 PM
+BAG:blackpink add 2xNgọc Rồng 6 sao (old: 1) lydo: Nhặt từ map at 03/12/2023 6:15 PM
+BAG:blackpink add 140xHoa hồng đỏ (old: 139) lydo: Nhặt từ map at 03/12/2023 6:15 PM
+BAG:blackpink add 29xĐá thạch anh tím (old: 28) lydo: Nhặt từ map at 03/12/2023 6:16 PM
+BAG:blackpink add 34xĐá lục bảo (old: 33) lydo: Nhặt từ map at 03/12/2023 6:16 PM
+BAG:blackpink add 193xHoa hồng vàng (old: 192) lydo: Nhặt từ map at 03/12/2023 6:16 PM
+BAG:blackpink add 194xHoa hồng vàng (old: 193) lydo: Nhặt từ map at 03/12/2023 6:16 PM
+BAG:blackpink add 123xHoa hồng xanh (old: 122) lydo: Nhặt từ map at 03/12/2023 6:17 PM
+BAG:blackpink add 195xHoa hồng vàng (old: 194) lydo: Nhặt từ map at 03/12/2023 6:17 PM
+BAG:blackpink add 124xHoa hồng xanh (old: 123) lydo: Nhặt từ map at 03/12/2023 6:17 PM
+BAG:blackpink add 141xHoa hồng đỏ (old: 140) lydo: Nhặt từ map at 03/12/2023 6:17 PM
+BAG:blackpink add 196xHoa hồng vàng (old: 195) lydo: Nhặt từ map at 03/12/2023 6:18 PM
+BAG:blackpink add 17xĐá Titan (old: 16) lydo: Nhặt từ map at 03/12/2023 6:18 PM
+BAG:blackpink add 125xHoa hồng xanh (old: 124) lydo: Nhặt từ map at 03/12/2023 6:19 PM
+BAG:blackpink add 24xNgọc Rồng 4 sao (old: 23) lydo: Nhặt từ map at 03/12/2023 6:19 PM
+BAG:blackpink add 142xHoa hồng đỏ (old: 141) lydo: Nhặt từ map at 03/12/2023 6:19 PM
+BAG:blackpink add 30xĐá thạch anh tím (old: 29) lydo: Nhặt từ map at 03/12/2023 6:19 PM
+BAG:blackpink add 35xĐá lục bảo (old: 34) lydo: Nhặt từ map at 03/12/2023 6:20 PM
+BAG:blackpink add 197xHoa hồng vàng (old: 196) lydo: Nhặt từ map at 03/12/2023 6:20 PM
+BAG:blackpink add 126xHoa hồng xanh (old: 125) lydo: Nhặt từ map at 03/12/2023 6:21 PM
+BAG:blackpink add 31xĐá thạch anh tím (old: 30) lydo: Nhặt từ map at 03/12/2023 6:21 PM
+BAG:blackpink add 143xHoa hồng đỏ (old: 142) lydo: Nhặt từ map at 03/12/2023 6:22 PM
+BAG:blackpink add 144xHoa hồng đỏ (old: 143) lydo: Nhặt từ map at 03/12/2023 6:33 PM
+BAG:blackpink add 1xGiáp tập luyện cấp 3 lydo: Lấy từ body vào hành trang at 03/12/2023 6:35 PM
+BAG:blackpink add 1xCT Genma 01 lydo: Lấy từ body vào hành trang at 03/12/2023 6:44 PM
+BAG:blackpink add 29xĐá Ruby (old: 28) lydo: Nhặt từ map at 03/12/2023 6:47 PM
+BAG:blackpink add 4xNgọc Rồng 5 sao (old: 3) lydo: Nhặt từ map at 03/12/2023 6:48 PM
+BAG:blackpink add 1xRada cấp 1 lydo: Nhặt từ map at 03/12/2023 6:48 PM
+BAG:blackpink add 36xĐá lục bảo (old: 35) lydo: Nhặt từ map at 03/12/2023 6:48 PM
+BAG:blackpink add 1xQuần vải thô lydo: Nhặt từ map at 03/12/2023 6:48 PM
+BAG:blackpink add 1xRada cấp 1 lydo: Nhặt từ map at 03/12/2023 6:48 PM
+BAG:blackpink add 37xĐá lục bảo (old: 36) lydo: Nhặt từ map at 03/12/2023 6:48 PM
+BAG:blackpink add 127xHoa hồng xanh (old: 126) lydo: Nhặt từ map at 03/12/2023 6:48 PM
+BAG:blackpink add 145xHoa hồng đỏ (old: 144) lydo: Nhặt từ map at 03/12/2023 6:48 PM
+BAG:blackpink add 128xHoa hồng xanh (old: 127) lydo: Nhặt từ map at 03/12/2023 6:48 PM
+BAG:blackpink add 30xĐá Ruby (old: 29) lydo: Nhặt từ map at 03/12/2023 6:48 PM
+BAG:blackpink add 146xHoa hồng đỏ (old: 145) lydo: Nhặt từ map at 03/12/2023 6:48 PM
+BAG:blackpink add 147xHoa hồng đỏ (old: 146) lydo: Nhặt từ map at 03/12/2023 6:48 PM
+BAG:blackpink add 129xHoa hồng xanh (old: 128) lydo: Nhặt từ map at 03/12/2023 6:48 PM
+BAG:blackpink add 130xHoa hồng xanh (old: 129) lydo: Nhặt từ map at 03/12/2023 6:48 PM
+BAG:blackpink add 131xHoa hồng xanh (old: 130) lydo: Nhặt từ map at 03/12/2023 6:48 PM
+BAG:blackpink add 1xQuần vải thô lydo: Nhặt từ map at 03/12/2023 6:48 PM
+BAG:blackpink add 148xHoa hồng đỏ (old: 147) lydo: Nhặt từ map at 03/12/2023 6:48 PM
+BAG:blackpink add 132xHoa hồng xanh (old: 131) lydo: Nhặt từ map at 03/12/2023 6:48 PM
+BAG:blackpink add 1xÁo vải thô lydo: Nhặt từ map at 03/12/2023 6:48 PM
+BAG:blackpink add 198xHoa hồng vàng (old: 197) lydo: Nhặt từ map at 03/12/2023 6:49 PM
+BAG:blackpink add 1xÁo vải thô lydo: Lấy từ rương qua người at 03/12/2023 6:49 PM
+BAG:blackpink add 1xQuần vải thô lydo: Lấy từ rương qua người at 03/12/2023 6:49 PM
+BAG:blackpink add 199xHoa hồng vàng (old: 198) lydo: Nhặt từ map at 03/12/2023 6:50 PM
+BAG:blackpink add 133xHoa hồng xanh (old: 132) lydo: Nhặt từ map at 03/12/2023 6:50 PM
+BAG:blackpink add 32xĐá thạch anh tím (old: 31) lydo: Nhặt từ map at 03/12/2023 6:50 PM
+BAG:blackpink add 1xGiầy vải thô lydo: Nhặt từ map at 03/12/2023 6:50 PM
+BAG:blackpink add 1xRada cấp 1 lydo: Nhặt từ map at 03/12/2023 6:50 PM
+BAG:blackpink add 200xHoa hồng vàng (old: 199) lydo: Nhặt từ map at 03/12/2023 6:50 PM
+BAG:blackpink add 134xHoa hồng xanh (old: 133) lydo: Nhặt từ map at 03/12/2023 6:50 PM
+BAG:blackpink add 135xHoa hồng xanh (old: 134) lydo: Nhặt từ map at 03/12/2023 6:50 PM
+BAG:blackpink add 1xQuần vải thô lydo: Nhặt từ map at 03/12/2023 6:50 PM
+BAG:blackpink add 1xĐá Saphia lydo: Nhặt từ map at 03/12/2023 6:50 PM
+BAG:blackpink add 33xĐá thạch anh tím (old: 32) lydo: Nhặt từ map at 03/12/2023 6:50 PM
+BAG:blackpink add 201xHoa hồng vàng (old: 200) lydo: Nhặt từ map at 03/12/2023 6:51 PM
+BAG:blackpink add 2xĐá Saphia (old: 1) lydo: Nhặt từ map at 03/12/2023 6:51 PM
+BAG:blackpink add 1xÁo vải thô lydo: Nhặt từ map at 03/12/2023 6:51 PM
+BAG:blackpink add 34xĐá thạch anh tím (old: 33) lydo: Nhặt từ map at 03/12/2023 6:51 PM
+BAG:blackpink add 1xRada cấp 1 lydo: Nhặt từ map at 03/12/2023 6:51 PM
+BAG:blackpink add 136xHoa hồng xanh (old: 135) lydo: Nhặt từ map at 03/12/2023 6:51 PM
+BAG:blackpink add 137xHoa hồng xanh (old: 136) lydo: Nhặt từ map at 03/12/2023 6:51 PM
+BAG:blackpink add 35xĐá thạch anh tím (old: 34) lydo: Nhặt từ map at 03/12/2023 6:51 PM
+BAG:blackpink add 1xÁo vải thô lydo: Nhặt từ map at 03/12/2023 6:51 PM
+BAG:blackpink add 202xHoa hồng vàng (old: 201) lydo: Nhặt từ map at 03/12/2023 6:51 PM
+BAG:blackpink add 203xHoa hồng vàng (old: 202) lydo: Nhặt từ map at 03/12/2023 6:51 PM
+BAG:blackpink add 149xHoa hồng đỏ (old: 148) lydo: Nhặt từ map at 03/12/2023 6:52 PM
+BAG:blackpink add 1xQuần vải thô lydo: Nhặt từ map at 03/12/2023 6:52 PM
+BAG:blackpink add 150xHoa hồng đỏ (old: 149) lydo: Nhặt từ map at 03/12/2023 6:52 PM
+BAG:blackpink add 1xGiầy vải thô lydo: Nhặt từ map at 03/12/2023 6:52 PM
+BAG:blackpink add 138xHoa hồng xanh (old: 137) lydo: Nhặt từ map at 03/12/2023 6:52 PM
+BAG:blackpink add 139xHoa hồng xanh (old: 138) lydo: Nhặt từ map at 03/12/2023 6:52 PM
+BAG:blackpink add 204xHoa hồng vàng (old: 203) lydo: Nhặt từ map at 03/12/2023 6:52 PM
+BAG:blackpink add 205xHoa hồng vàng (old: 204) lydo: Nhặt từ map at 03/12/2023 6:52 PM
+BAG:blackpink add 151xHoa hồng đỏ (old: 150) lydo: Nhặt từ map at 03/12/2023 6:52 PM
+BAG:blackpink add 140xHoa hồng xanh (old: 139) lydo: Nhặt từ map at 03/12/2023 6:52 PM
+BAG:blackpink add 141xHoa hồng xanh (old: 140) lydo: Nhặt từ map at 03/12/2023 6:53 PM
+BAG:blackpink add 31xĐá Ruby (old: 30) lydo: Nhặt từ map at 03/12/2023 6:53 PM
+BAG:blackpink add 1xGăng vải thô lydo: Nhặt từ map at 03/12/2023 6:53 PM
+BAG:blackpink add 1xQuần vải thô lydo: Nhặt từ map at 03/12/2023 6:53 PM
+BAG:blackpink add 206xHoa hồng vàng (old: 205) lydo: Nhặt từ map at 03/12/2023 6:53 PM
+BAG:blackpink add 32xĐá Ruby (old: 31) lydo: Nhặt từ map at 03/12/2023 6:53 PM
+BAG:blackpink add 207xHoa hồng vàng (old: 206) lydo: Nhặt từ map at 03/12/2023 6:53 PM
+BAG:blackpink add 3xĐá Saphia (old: 2) lydo: Nhặt từ map at 03/12/2023 6:53 PM
+BAG:blackpink add 152xHoa hồng đỏ (old: 151) lydo: Nhặt từ map at 03/12/2023 6:53 PM
+BAG:blackpink add 1xRada cấp 1 lydo: Nhặt từ map at 03/12/2023 6:53 PM
+BAG:blackpink add 153xHoa hồng đỏ (old: 152) lydo: Nhặt từ map at 03/12/2023 6:53 PM
+BAG:blackpink add 1xGăng vải thô lydo: Nhặt từ map at 03/12/2023 6:53 PM
+BAG:blackpink add 38xĐá lục bảo (old: 37) lydo: Nhặt từ map at 03/12/2023 6:53 PM
+BAG:blackpink add 154xHoa hồng đỏ (old: 153) lydo: Nhặt từ map at 03/12/2023 6:53 PM
+BAG:blackpink add 1xÁo vải thô lydo: Nhặt từ map at 03/12/2023 6:53 PM
+BAG:blackpink add 36xĐá thạch anh tím (old: 35) lydo: Nhặt từ map at 03/12/2023 6:53 PM
+BAG:blackpink add 155xHoa hồng đỏ (old: 154) lydo: Nhặt từ map at 03/12/2023 6:53 PM
+BAG:blackpink add 39xĐá lục bảo (old: 38) lydo: Nhặt từ map at 03/12/2023 6:53 PM
+BAG:blackpink add 1xMảnh Quỷ đất lydo: Nhặt từ map at 03/12/2023 6:53 PM
+BAG:blackpink add 208xHoa hồng vàng (old: 207) lydo: Nhặt từ map at 03/12/2023 6:54 PM
+BAG:blackpink add 1xQuần vải thô lydo: Nhặt từ map at 03/12/2023 6:54 PM
+BAG:blackpink add 142xHoa hồng xanh (old: 141) lydo: Nhặt từ map at 03/12/2023 6:54 PM
+BAG:blackpink add 156xHoa hồng đỏ (old: 155) lydo: Nhặt từ map at 03/12/2023 6:54 PM
+BAG:blackpink add 40xĐá lục bảo (old: 39) lydo: Nhặt từ map at 03/12/2023 6:54 PM
+BAG:blackpink add 4xĐá Saphia (old: 3) lydo: Nhặt từ map at 03/12/2023 6:54 PM
+BAG:blackpink add 1xGăng vải thô lydo: Nhặt từ map at 03/12/2023 6:54 PM
+BAG:blackpink add 18xĐá Titan (old: 17) lydo: Nhặt từ map at 03/12/2023 6:54 PM
+BAG:blackpink add 209xHoa hồng vàng (old: 208) lydo: Nhặt từ map at 03/12/2023 6:55 PM
+BAG:blackpink add 210xHoa hồng vàng (old: 209) lydo: Nhặt từ map at 03/12/2023 6:55 PM
+BAG:blackpink add 157xHoa hồng đỏ (old: 156) lydo: Nhặt từ map at 03/12/2023 6:56 PM
+BAG:blackpink add 143xHoa hồng xanh (old: 142) lydo: Nhặt từ map at 03/12/2023 6:56 PM
+BAG:blackpink add 158xHoa hồng đỏ (old: 157) lydo: Nhặt từ map at 03/12/2023 6:56 PM
+BAG:blackpink add 159xHoa hồng đỏ (old: 158) lydo: Nhặt từ map at 03/12/2023 6:56 PM
+BAG:blackpink add 211xHoa hồng vàng (old: 210) lydo: Nhặt từ map at 03/12/2023 6:56 PM
+BAG:blackpink add 1xTanjiro lydo: Lấy từ body vào hành trang at 03/12/2023 6:56 PM
+BAG:blackpink add 212xHoa hồng vàng (old: 211) lydo: Nhặt từ map at 03/12/2023 6:56 PM
+BAG:blackpink add 213xHoa hồng vàng (old: 212) lydo: Nhặt từ map at 03/12/2023 6:56 PM
+BAG:blackpink add 1xCT Genma 01 lydo: Lấy từ body vào hành trang at 03/12/2023 6:57 PM
+BAG:blackpink add 214xHoa hồng vàng (old: 213) lydo: Nhặt từ map at 03/12/2023 6:57 PM
+BAG:blackpink add 215xHoa hồng vàng (old: 214) lydo: Nhặt từ map at 03/12/2023 6:57 PM
+BAG:blackpink add 216xHoa hồng vàng (old: 215) lydo: Nhặt từ map at 03/12/2023 6:57 PM
+BAG:blackpink add 160xHoa hồng đỏ (old: 159) lydo: Nhặt từ map at 03/12/2023 6:57 PM
+BAG:blackpink add 144xHoa hồng xanh (old: 143) lydo: Nhặt từ map at 03/12/2023 6:57 PM
+BAG:blackpink add 161xHoa hồng đỏ (old: 160) lydo: Nhặt từ map at 03/12/2023 6:57 PM
+BAG:blackpink add 145xHoa hồng xanh (old: 144) lydo: Nhặt từ map at 03/12/2023 6:58 PM
+BAG:blackpink add 217xHoa hồng vàng (old: 216) lydo: Nhặt từ map at 03/12/2023 6:58 PM
+BAG:blackpink add 162xHoa hồng đỏ (old: 161) lydo: Nhặt từ map at 03/12/2023 6:58 PM
+BAG:blackpink add 163xHoa hồng đỏ (old: 162) lydo: Nhặt từ map at 03/12/2023 6:58 PM
+BAG:blackpink add 218xHoa hồng vàng (old: 217) lydo: Nhặt từ map at 03/12/2023 6:58 PM
+BAG:blackpink add 219xHoa hồng vàng (old: 218) lydo: Nhặt từ map at 03/12/2023 6:58 PM
+BAG:blackpink add 220xHoa hồng vàng (old: 219) lydo: Nhặt từ map at 03/12/2023 6:58 PM
+BAG:blackpink add 146xHoa hồng xanh (old: 145) lydo: Nhặt từ map at 03/12/2023 6:58 PM
+BAG:blackpink add 33xĐá Ruby (old: 32) lydo: Nhặt từ map at 03/12/2023 6:58 PM
+BAG:blackpink add 147xHoa hồng xanh (old: 146) lydo: Nhặt từ map at 03/12/2023 6:58 PM
+BAG:blackpink add 221xHoa hồng vàng (old: 220) lydo: Nhặt từ map at 03/12/2023 6:58 PM
+BAG:blackpink add 41xĐá lục bảo (old: 40) lydo: Nhặt từ map at 03/12/2023 6:58 PM
+BAG:blackpink add 222xHoa hồng vàng (old: 221) lydo: Nhặt từ map at 03/12/2023 6:59 PM
+BAG:blackpink add 1xĐá Saphia lydo: Nhặt từ map at 03/12/2023 6:59 PM
+BAG:blackpink add 148xHoa hồng xanh (old: 147) lydo: Nhặt từ map at 03/12/2023 6:59 PM
+BAG:blackpink add 37xĐá thạch anh tím (old: 36) lydo: Nhặt từ map at 03/12/2023 6:59 PM
+BAG:blackpink add 164xHoa hồng đỏ (old: 163) lydo: Nhặt từ map at 03/12/2023 6:59 PM
+BAG:blackpink add 42xĐá lục bảo (old: 41) lydo: Nhặt từ map at 03/12/2023 6:59 PM
+BAG:blackpink add 43xĐá lục bảo (old: 42) lydo: Nhặt từ map at 03/12/2023 6:59 PM
+BAG:blackpink add 149xHoa hồng xanh (old: 148) lydo: Nhặt từ map at 03/12/2023 7:00 PM
+BAG:blackpink add 223xHoa hồng vàng (old: 222) lydo: Nhặt từ map at 03/12/2023 7:00 PM
+BAG:blackpink add 150xHoa hồng xanh (old: 149) lydo: Nhặt từ map at 03/12/2023 7:00 PM
+BAG:blackpink add 165xHoa hồng đỏ (old: 164) lydo: Nhặt từ map at 03/12/2023 7:00 PM
+BAG:blackpink add 166xHoa hồng đỏ (old: 165) lydo: Nhặt từ map at 03/12/2023 7:00 PM
+BAG:blackpink add 25xNgọc Rồng 4 sao (old: 24) lydo: Nhặt từ map at 03/12/2023 7:00 PM
+BAG:blackpink add 26xNgọc Rồng 4 sao (old: 25) lydo: Nhặt từ map at 03/12/2023 7:00 PM
+BAG:blackpink add 151xHoa hồng xanh (old: 150) lydo: Nhặt từ map at 03/12/2023 7:00 PM
+BAG:blackpink add 38xĐá thạch anh tím (old: 37) lydo: Nhặt từ map at 03/12/2023 7:00 PM
+BAG:blackpink add 167xHoa hồng đỏ (old: 166) lydo: Nhặt từ map at 03/12/2023 7:00 PM
+BAG:blackpink add 168xHoa hồng đỏ (old: 167) lydo: Nhặt từ map at 03/12/2023 7:00 PM
+BAG:blackpink add 152xHoa hồng xanh (old: 151) lydo: Nhặt từ map at 03/12/2023 7:00 PM
+BAG:blackpink add 153xHoa hồng xanh (old: 152) lydo: Nhặt từ map at 03/12/2023 7:01 PM
+BAG:blackpink add 169xHoa hồng đỏ (old: 168) lydo: Nhặt từ map at 03/12/2023 7:01 PM
+BAG:blackpink add 224xHoa hồng vàng (old: 223) lydo: Nhặt từ map at 03/12/2023 7:01 PM
+BAG:blackpink add 27xNgọc Rồng 4 sao (old: 26) lydo: Nhặt từ map at 03/12/2023 7:01 PM
+BAG:blackpink add 28xNgọc Rồng 4 sao (old: 27) lydo: Nhặt từ map at 03/12/2023 7:10 PM
+BAG:blackpink add 225xHoa hồng vàng (old: 224) lydo: Nhặt từ map at 03/12/2023 7:11 PM
+BAG:blackpink add 29xNgọc Rồng 4 sao (old: 28) lydo: Nhặt từ map at 03/12/2023 7:14 PM
+BAG:blackpink add 226xHoa hồng vàng (old: 225) lydo: Nhặt từ map at 03/12/2023 7:16 PM
+BAG:blackpink add 154xHoa hồng xanh (old: 153) lydo: Nhặt từ map at 03/12/2023 7:19 PM
+BAG:blackpink add 155xHoa hồng xanh (old: 154) lydo: Nhặt từ map at 03/12/2023 7:24 PM
+BAG:blackpink add 156xHoa hồng xanh (old: 155) lydo: Nhặt từ map at 03/12/2023 7:24 PM
+BAG:blackpink add 157xHoa hồng xanh (old: 156) lydo: Nhặt từ map at 03/12/2023 7:25 PM
+BAG:blackpink add 158xHoa hồng xanh (old: 157) lydo: Nhặt từ map at 03/12/2023 7:26 PM
+BAG:blackpink add 2xĐá Saphia (old: 1) lydo: Nhặt từ map at 03/12/2023 7:29 PM
+BAG:blackpink add 159xHoa hồng xanh (old: 158) lydo: Nhặt từ map at 03/12/2023 7:31 PM
+BAG:blackpink add 227xHoa hồng vàng (old: 226) lydo: Nhặt từ map at 03/12/2023 7:31 PM
+BAG:blackpink add 160xHoa hồng xanh (old: 159) lydo: Nhặt từ map at 03/12/2023 7:34 PM
+BAG:blackpink add 30xNgọc Rồng 4 sao (old: 29) lydo: Nhặt từ map at 03/12/2023 7:36 PM
+BAG:blackpink add 170xHoa hồng đỏ (old: 169) lydo: Nhặt từ map at 03/12/2023 7:37 PM
+BAG:blackpink add 228xHoa hồng vàng (old: 227) lydo: Nhặt từ map at 03/12/2023 7:40 PM
+BAG:blackpink add 31xNgọc Rồng 4 sao (old: 30) lydo: Nhặt từ map at 03/12/2023 7:43 PM
+BAG:blackpink add 229xHoa hồng vàng (old: 228) lydo: Nhặt từ map at 03/12/2023 7:45 PM
+BAG:blackpink add 1xTanjiro lydo: Lấy từ body vào hành trang at 03/12/2023 7:46 PM
+BAG:blackpink add 1xGiáp tập luyện cấp 3 lydo: Lấy từ body vào hành trang at 03/12/2023 7:47 PM
+BAG:blackpink add 1xNgọc Rồng 7 sao lydo: Lấy từ lucky box at 03/12/2023 7:50 PM
+BAG:blackpink add 2xNgọc Rồng 7 sao (old: 1) lydo: Lấy từ lucky box at 03/12/2023 7:50 PM
+BAG:blackpink add 1xPhóng lợn lydo: Lấy từ lucky box at 03/12/2023 7:51 PM
+BAG:blackpink add 19xĐá Titan (old: 18) lydo: Nhặt từ map at 03/12/2023 7:52 PM
+BAG:blackpink add 39xĐá thạch anh tím (old: 38) lydo: Nhặt từ map at 03/12/2023 7:52 PM
+BAG:blackpink add 20xĐá Titan (old: 19) lydo: Nhặt từ map at 03/12/2023 7:52 PM
+BAG:blackpink add 161xHoa hồng xanh (old: 160) lydo: Nhặt từ map at 03/12/2023 7:52 PM
+BAG:blackpink add 171xHoa hồng đỏ (old: 170) lydo: Nhặt từ map at 03/12/2023 7:53 PM
+BAG:blackpink add 162xHoa hồng xanh (old: 161) lydo: Nhặt từ map at 03/12/2023 7:53 PM
+BAG:blackpink add 163xHoa hồng xanh (old: 162) lydo: Nhặt từ map at 03/12/2023 7:53 PM
+BAG:blackpink add 230xHoa hồng vàng (old: 229) lydo: Nhặt từ map at 03/12/2023 7:53 PM
+BAG:blackpink add 164xHoa hồng xanh (old: 163) lydo: Nhặt từ map at 03/12/2023 7:53 PM
+BAG:blackpink add 231xHoa hồng vàng (old: 230) lydo: Nhặt từ map at 03/12/2023 7:53 PM
+BAG:blackpink add 232xHoa hồng vàng (old: 231) lydo: Nhặt từ map at 03/12/2023 7:53 PM
+BAG:blackpink add 165xHoa hồng xanh (old: 164) lydo: Nhặt từ map at 03/12/2023 7:53 PM
+BAG:blackpink add 166xHoa hồng xanh (old: 165) lydo: Nhặt từ map at 03/12/2023 7:53 PM
+BAG:blackpink add 167xHoa hồng xanh (old: 166) lydo: Nhặt từ map at 03/12/2023 7:53 PM
+BAG:blackpink add 233xHoa hồng vàng (old: 232) lydo: Nhặt từ map at 03/12/2023 7:53 PM
+BAG:blackpink add 172xHoa hồng đỏ (old: 171) lydo: Nhặt từ map at 03/12/2023 7:53 PM
+BAG:blackpink add 173xHoa hồng đỏ (old: 172) lydo: Nhặt từ map at 03/12/2023 7:53 PM
+BAG:blackpink add 1xGiáp tập luyện cấp 3 lydo: Lấy từ body vào hành trang at 03/12/2023 7:56 PM
+BAG:blackpink add 1xCT Genma 01 lydo: Lấy từ body vào hành trang at 03/12/2023 7:57 PM
+BAG:blackpink add 1xTanjiro lydo: Lấy từ body vào hành trang at 03/12/2023 7:57 PM
+BAG:blackpink add 1xCT Genma 01 lydo: Lấy từ body vào hành trang at 03/12/2023 8:02 PM
+BAG:blackpink add 1xCT Genma 01 lydo: Lấy từ body đệ vào hành trang at 03/12/2023 8:03 PM
+BAG:blackpink add 234xHoa hồng vàng (old: 233) lydo: Nhặt từ map at 03/12/2023 8:05 PM
+BAG:blackpink add 235xHoa hồng vàng (old: 234) lydo: Nhặt từ map at 03/12/2023 8:06 PM
+BAG:blackpink add 1xTanjiro lydo: Lấy từ body vào hành trang at 03/12/2023 8:06 PM
+BAG:blackpink add 1xGiáp tập luyện cấp 3 lydo: Lấy từ body vào hành trang at 03/12/2023 8:08 PM
+BAG:blackpink add 1xCT Genma 01 lydo: Lấy từ body vào hành trang at 03/12/2023 8:10 PM
+BAG:blackpink add 21xĐá Titan (old: 20) lydo: Nhặt từ map at 03/12/2023 8:14 PM
+BAG:blackpink add 236xHoa hồng vàng (old: 235) lydo: Nhặt từ map at 03/12/2023 8:16 PM
+BAG:blackpink add 237xHoa hồng vàng (old: 236) lydo: Nhặt từ map at 03/12/2023 8:19 PM
+BAG:blackpink add 168xHoa hồng xanh (old: 167) lydo: Nhặt từ map at 03/12/2023 8:19 PM
+BAG:blackpink add 169xHoa hồng xanh (old: 168) lydo: Nhặt từ map at 03/12/2023 8:22 PM
+BAG:blackpink add 1xTanjiro lydo: Lấy từ body vào hành trang at 03/12/2023 8:30 PM
+BAG:blackpink add 174xHoa hồng đỏ (old: 173) lydo: Nhặt từ map at 03/12/2023 8:30 PM
+BAG:blackpink add 1xGiáp tập luyện cấp 3 lydo: Lấy từ body vào hành trang at 03/12/2023 8:30 PM
+BAG:blackpink add 1xCT Genma 01 lydo: Lấy từ body vào hành trang at 03/12/2023 8:33 PM
+BAG:blackpink add 175xHoa hồng đỏ (old: 174) lydo: Nhặt từ map at 03/12/2023 8:39 PM
+BAG:blackpink add 176xHoa hồng đỏ (old: 175) lydo: Nhặt từ map at 03/12/2023 8:40 PM
+BAG:blackpink add 1xTanjiro lydo: Lấy từ body vào hành trang at 03/12/2023 8:40 PM
+BAG:blackpink add 170xHoa hồng xanh (old: 169) lydo: Nhặt từ map at 03/12/2023 8:40 PM
+BAG:blackpink add 238xHoa hồng vàng (old: 237) lydo: Nhặt từ map at 03/12/2023 8:40 PM
+BAG:blackpink add 239xHoa hồng vàng (old: 238) lydo: Nhặt từ map at 03/12/2023 8:40 PM
+BAG:blackpink add 177xHoa hồng đỏ (old: 176) lydo: Nhặt từ map at 03/12/2023 8:40 PM
+BAG:blackpink add 1xGiáp tập luyện cấp 3 lydo: Lấy từ body vào hành trang at 03/12/2023 8:41 PM
+BAG:blackpink add 1xCT Genma 01 lydo: Lấy từ body vào hành trang at 03/12/2023 8:44 PM
+BAG:blackpink add 240xHoa hồng vàng (old: 239) lydo: Nhặt từ map at 03/12/2023 8:45 PM
+BAG:blackpink add 34xĐá Ruby (old: 33) lydo: Nhặt từ map at 03/12/2023 8:46 PM
+BAG:blackpink add 241xHoa hồng vàng (old: 240) lydo: Nhặt từ map at 03/12/2023 8:46 PM
+BAG:blackpink add 1xĐậu thần cấp 5 lydo: Clan cho đậu at 03/12/2023 8:48 PM
+BAG:blackpink add 2xĐậu thần cấp 5 (old: 1) lydo: Clan cho đậu at 03/12/2023 8:48 PM
+BAG:blackpink add 3xĐậu thần cấp 5 (old: 2) lydo: Clan cho đậu at 03/12/2023 8:48 PM
+BAG:blackpink add 4xĐậu thần cấp 5 (old: 3) lydo: Clan cho đậu at 03/12/2023 8:48 PM
+BAG:blackpink add 5xĐậu thần cấp 5 (old: 4) lydo: Clan cho đậu at 03/12/2023 8:48 PM
+BAG:blackpink add 32xNgọc Rồng 4 sao (old: 31) lydo: Nhặt từ map at 03/12/2023 8:51 PM
+BAG:blackpink add 178xHoa hồng đỏ (old: 177) lydo: Nhặt từ map at 03/12/2023 8:53 PM
+BAG:blackpink add 1xNgọc Rồng 6 sao lydo: Nhặt từ map at 03/12/2023 8:55 PM
+BAG:blackpink add 179xHoa hồng đỏ (old: 178) lydo: Nhặt từ map at 03/12/2023 8:58 PM
+BAG:blackpink add 171xHoa hồng xanh (old: 170) lydo: Nhặt từ map at 03/12/2023 9:00 PM
+BAG:blackpink add 180xHoa hồng đỏ (old: 179) lydo: Nhặt từ map at 03/12/2023 9:01 PM
+BAG:blackpink add 242xHoa hồng vàng (old: 241) lydo: Nhặt từ map at 03/12/2023 9:09 PM
+BAG:blackpink add 172xHoa hồng xanh (old: 171) lydo: Nhặt từ map at 03/12/2023 9:12 PM
+BAG:blackpink add 181xHoa hồng đỏ (old: 180) lydo: Nhặt từ map at 03/12/2023 9:16 PM
+BAG:blackpink add 243xHoa hồng vàng (old: 242) lydo: Nhặt từ map at 03/12/2023 9:17 PM
+BAG:blackpink add 244xHoa hồng vàng (old: 243) lydo: Nhặt từ map at 03/12/2023 9:19 PM
+BAG:blackpink add 173xHoa hồng xanh (old: 172) lydo: Nhặt từ map at 03/12/2023 9:57 PM
+BAG:blackpink add 245xHoa hồng vàng (old: 244) lydo: Nhặt từ map at 03/12/2023 9:58 PM
+BAG:blackpink add 182xHoa hồng đỏ (old: 181) lydo: Nhặt từ map at 03/12/2023 10:00 PM
+BAG:blackpink add 33xNgọc Rồng 4 sao (old: 32) lydo: Nhặt từ map at 03/12/2023 10:01 PM
+BAG:blackpink add 174xHoa hồng xanh (old: 173) lydo: Nhặt từ map at 03/12/2023 10:01 PM
+BAG:blackpink add 175xHoa hồng xanh (old: 174) lydo: Nhặt từ map at 03/12/2023 10:02 PM
+BAG:blackpink add 176xHoa hồng xanh (old: 175) lydo: Nhặt từ map at 03/12/2023 10:02 PM
+BAG:blackpink add 183xHoa hồng đỏ (old: 182) lydo: Nhặt từ map at 03/12/2023 10:05 PM
+BAG:blackpink add 177xHoa hồng xanh (old: 176) lydo: Nhặt từ map at 03/12/2023 10:06 PM
+BAG:blackpink add 184xHoa hồng đỏ (old: 183) lydo: Nhặt từ map at 03/12/2023 10:09 PM
+BAG:blackpink add 185xHoa hồng đỏ (old: 184) lydo: Nhặt từ map at 03/12/2023 10:10 PM
+BAG:blackpink add 34xNgọc Rồng 4 sao (old: 33) lydo: Nhặt từ map at 03/12/2023 10:14 PM
+BAG:blackpink add 35xNgọc Rồng 4 sao (old: 34) lydo: Nhặt từ map at 03/12/2023 10:17 PM
+BAG:blackpink add 1xĐá Saphia lydo: Nhặt từ map at 03/12/2023 10:20 PM
+BAG:blackpink add 246xHoa hồng vàng (old: 245) lydo: Nhặt từ map at 03/12/2023 10:23 PM
+BAG:blackpink add 6xĐậu thần cấp 5 (old: 5) lydo: Clan cho đậu at 03/12/2023 10:25 PM
+BAG:blackpink add 7xĐậu thần cấp 5 (old: 6) lydo: Clan cho đậu at 03/12/2023 10:25 PM
+BAG:blackpink add 8xĐậu thần cấp 5 (old: 7) lydo: Clan cho đậu at 03/12/2023 10:25 PM
+BAG:blackpink add 247xHoa hồng vàng (old: 246) lydo: Nhặt từ map at 03/12/2023 10:27 PM
+BAG:blackpink add 186xHoa hồng đỏ (old: 185) lydo: Nhặt từ map at 03/12/2023 10:32 PM
+BAG:blackpink add 22xĐá Titan (old: 21) lydo: Nhặt từ map at 03/12/2023 10:33 PM
+BAG:blackpink add 187xHoa hồng đỏ (old: 186) lydo: Nhặt từ map at 03/12/2023 10:37 PM
+BAG:blackpink add 188xHoa hồng đỏ (old: 187) lydo: Nhặt từ map at 03/12/2023 10:38 PM
+BAG:blackpink add 44xĐá lục bảo (old: 43) lydo: Nhặt từ map at 03/12/2023 10:39 PM
+BAG:blackpink add 248xHoa hồng vàng (old: 247) lydo: Nhặt từ map at 03/12/2023 10:39 PM
+BAG:blackpink add 40xĐá thạch anh tím (old: 39) lydo: Nhặt từ map at 03/12/2023 10:40 PM
+BAG:blackpink add 178xHoa hồng xanh (old: 177) lydo: Nhặt từ map at 03/12/2023 10:43 PM
+BAG:blackpink add 179xHoa hồng xanh (old: 178) lydo: Nhặt từ map at 03/12/2023 10:46 PM
+BAG:blackpink add 1xĐậu thần cấp 7 lydo: Clan cho đậu at 03/12/2023 10:48 PM
+BAG:blackpink add 2xĐậu thần cấp 7 (old: 1) lydo: Clan cho đậu at 03/12/2023 10:48 PM
+BAG:blackpink add 3xĐậu thần cấp 7 (old: 2) lydo: Clan cho đậu at 03/12/2023 10:48 PM
+BAG:blackpink add 4xĐậu thần cấp 7 (old: 3) lydo: Clan cho đậu at 03/12/2023 10:48 PM
+BAG:blackpink add 5xĐậu thần cấp 7 (old: 4) lydo: Clan cho đậu at 03/12/2023 10:48 PM
+BAG:blackpink add 249xHoa hồng vàng (old: 248) lydo: Nhặt từ map at 03/12/2023 10:49 PM
+BAG:blackpink add 180xHoa hồng xanh (old: 179) lydo: Nhặt từ map at 03/12/2023 10:49 PM
+BAG:blackpink add 181xHoa hồng xanh (old: 180) lydo: Nhặt từ map at 03/12/2023 10:50 PM
+BAG:blackpink add 250xHoa hồng vàng (old: 249) lydo: Nhặt từ map at 03/12/2023 10:52 PM
+BAG:blackpink add 251xHoa hồng vàng (old: 250) lydo: Nhặt từ map at 03/12/2023 10:52 PM
+BAG:blackpink add 189xHoa hồng đỏ (old: 188) lydo: Nhặt từ map at 03/12/2023 10:53 PM
+BAG:blackpink add 6xĐậu thần cấp 7 (old: 5) lydo: Clan cho đậu at 03/12/2023 10:53 PM
+BAG:blackpink add 7xĐậu thần cấp 7 (old: 6) lydo: Clan cho đậu at 03/12/2023 10:53 PM
+BAG:blackpink add 8xĐậu thần cấp 7 (old: 7) lydo: Clan cho đậu at 03/12/2023 10:53 PM
+BAG:blackpink add 9xĐậu thần cấp 7 (old: 8) lydo: Clan cho đậu at 03/12/2023 10:53 PM
+BAG:blackpink add 10xĐậu thần cấp 7 (old: 9) lydo: Clan cho đậu at 03/12/2023 10:53 PM
+BAG:blackpink add 252xHoa hồng vàng (old: 251) lydo: Nhặt từ map at 03/12/2023 10:54 PM
+BAG:blackpink add 41xĐá thạch anh tím (old: 40) lydo: Nhặt từ map at 03/12/2023 10:55 PM
+BAG:blackpink add 182xHoa hồng xanh (old: 181) lydo: Nhặt từ map at 03/12/2023 10:58 PM
+BAG:blackpink add 11xĐậu thần cấp 7 (old: 10) lydo: Clan cho đậu at 03/12/2023 10:59 PM
+BAG:blackpink add 12xĐậu thần cấp 7 (old: 11) lydo: Clan cho đậu at 03/12/2023 10:59 PM
+BAG:blackpink add 13xĐậu thần cấp 7 (old: 12) lydo: Clan cho đậu at 03/12/2023 10:59 PM
+BAG:blackpink add 14xĐậu thần cấp 7 (old: 13) lydo: Clan cho đậu at 03/12/2023 10:59 PM
+BAG:blackpink add 15xĐậu thần cấp 7 (old: 14) lydo: Clan cho đậu at 03/12/2023 10:59 PM
+BAG:blackpink add 190xHoa hồng đỏ (old: 189) lydo: Nhặt từ map at 03/12/2023 11:00 PM
+BAG:blackpink add 183xHoa hồng xanh (old: 182) lydo: Nhặt từ map at 03/12/2023 11:01 PM
+BAG:blackpink add 184xHoa hồng xanh (old: 183) lydo: Nhặt từ map at 03/12/2023 11:06 PM
+BAG:blackpink add 185xHoa hồng xanh (old: 184) lydo: Nhặt từ map at 03/12/2023 11:09 PM
+BAG:blackpink add 16xĐậu thần cấp 7 (old: 15) lydo: Clan cho đậu at 03/12/2023 11:10 PM
+BAG:blackpink add 17xĐậu thần cấp 7 (old: 16) lydo: Clan cho đậu at 03/12/2023 11:10 PM
+BAG:blackpink add 18xĐậu thần cấp 7 (old: 17) lydo: Clan cho đậu at 03/12/2023 11:10 PM
+BAG:blackpink add 19xĐậu thần cấp 7 (old: 18) lydo: Clan cho đậu at 03/12/2023 11:10 PM
+BAG:blackpink add 20xĐậu thần cấp 7 (old: 19) lydo: Clan cho đậu at 03/12/2023 11:10 PM
+BAG:blackpink add 253xHoa hồng vàng (old: 252) lydo: Nhặt từ map at 03/12/2023 11:11 PM
+BAG:blackpink add 254xHoa hồng vàng (old: 253) lydo: Nhặt từ map at 03/12/2023 11:12 PM
+BAG:blackpink add 255xHoa hồng vàng (old: 254) lydo: Nhặt từ map at 03/12/2023 11:13 PM
+BAG:blackpink add 186xHoa hồng xanh (old: 185) lydo: Nhặt từ map at 03/12/2023 11:14 PM
+BAG:blackpink add 45xĐá lục bảo (old: 44) lydo: Nhặt từ map at 03/12/2023 11:14 PM
+BAG:blackpink add 191xHoa hồng đỏ (old: 190) lydo: Nhặt từ map at 03/12/2023 11:15 PM
+BAG:blackpink add 1xNgọc Rồng 5 sao lydo: Nhặt từ map at 03/12/2023 11:16 PM
+BAG:blackpink add 256xHoa hồng vàng (old: 255) lydo: Nhặt từ map at 03/12/2023 11:16 PM
+BAG:blackpink add 192xHoa hồng đỏ (old: 191) lydo: Nhặt từ map at 03/12/2023 11:17 PM
+BAG:blackpink add 257xHoa hồng vàng (old: 256) lydo: Nhặt từ map at 03/12/2023 11:20 PM
+BAG:blackpink add 193xHoa hồng đỏ (old: 192) lydo: Nhặt từ map at 03/12/2023 11:28 PM
+BAG:blackpink add 23xĐá Titan (old: 22) lydo: Nhặt từ map at 03/12/2023 11:30 PM
+BAG:blackpink add 187xHoa hồng xanh (old: 186) lydo: Nhặt từ map at 03/12/2023 11:31 PM
+BAG:blackpink add 194xHoa hồng đỏ (old: 193) lydo: Nhặt từ map at 03/12/2023 11:33 PM
+BAG:blackpink add 188xHoa hồng xanh (old: 187) lydo: Nhặt từ map at 03/12/2023 11:33 PM
+BAG:blackpink add 258xHoa hồng vàng (old: 257) lydo: Nhặt từ map at 03/12/2023 11:36 PM
+BAG:blackpink add 259xHoa hồng vàng (old: 258) lydo: Nhặt từ map at 03/12/2023 11:36 PM
+BAG:blackpink add 260xHoa hồng vàng (old: 259) lydo: Nhặt từ map at 03/12/2023 11:38 PM
+BAG:blackpink add 261xHoa hồng vàng (old: 260) lydo: Nhặt từ map at 03/12/2023 11:39 PM
+BAG:blackpink add 46xĐá lục bảo (old: 45) lydo: Nhặt từ map at 03/12/2023 11:41 PM
+BAG:blackpink add 262xHoa hồng vàng (old: 261) lydo: Nhặt từ map at 03/12/2023 11:42 PM
+BAG:blackpink add 263xHoa hồng vàng (old: 262) lydo: Nhặt từ map at 03/12/2023 11:43 PM
+BAG:blackpink add 35xĐá Ruby (old: 34) lydo: Nhặt từ map at 03/12/2023 11:44 PM
+BAG:blackpink add 264xHoa hồng vàng (old: 263) lydo: Nhặt từ map at 03/12/2023 11:48 PM
+BAG:blackpink add 36xNgọc Rồng 4 sao (old: 35) lydo: Nhặt từ map at 03/12/2023 11:49 PM
+BAG:blackpink add 189xHoa hồng xanh (old: 188) lydo: Nhặt từ map at 03/12/2023 11:50 PM
+BAG:blackpink add 190xHoa hồng xanh (old: 189) lydo: Nhặt từ map at 03/12/2023 11:50 PM
+BAG:blackpink add 195xHoa hồng đỏ (old: 194) lydo: Nhặt từ map at 03/12/2023 11:52 PM
+BAG:blackpink add 37xNgọc Rồng 4 sao (old: 36) lydo: Nhặt từ map at 03/12/2023 11:52 PM
+BAG:blackpink add 191xHoa hồng xanh (old: 190) lydo: Nhặt từ map at 03/12/2023 11:53 PM
+BAG:blackpink add 1xĐá Saphia lydo: Nhặt từ map at 03/12/2023 11:55 PM
+BAG:blackpink add 192xHoa hồng xanh (old: 191) lydo: Nhặt từ map at 03/12/2023 11:56 PM
+BAG:blackpink add 196xHoa hồng đỏ (old: 195) lydo: Nhặt từ map at 03/12/2023 11:58 PM
+BAG:blackpink add 197xHoa hồng đỏ (old: 196) lydo: Nhặt từ map at 03/12/2023 11:58 PM

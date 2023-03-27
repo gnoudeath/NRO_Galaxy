@@ -1,0 +1,94 @@
+BAG:b0m1hp add 1xÁo vải thô lydo: Lấy từ rương qua người at 03/13/2023 12:40 AM
+BAG:b0m1hp add 1xQuần vải thô lydo: Lấy từ rương qua người at 03/13/2023 12:40 AM
+BAG:b0m1hp add 1xGăng vải thô lydo: Lấy từ rương qua người at 03/13/2023 12:40 AM
+BAG:b0m1hp add 1xGiầy vải thô lydo: Lấy từ rương qua người at 03/13/2023 12:40 AM
+BAG:b0m1hp add 1xRada cấp 1 lydo: Lấy từ rương qua người at 03/13/2023 12:40 AM
+BAG:b0m1hp add 1xHóa khỉ khổng lồ lv1 lydo: Mua từ cửa hàng at 03/13/2023 12:57 AM
+BAG:b0m1hp add 1xHóa khỉ khổng lồ lv2 lydo: Mua từ cửa hàng at 03/13/2023 12:57 AM
+BAG:b0m1hp add 1xHóa khỉ khổng lồ lv3 lydo: Mua từ cửa hàng at 03/13/2023 12:57 AM
+BAG:b0m1hp add 1xHóa khỉ khổng lồ lv4 lydo: Mua từ cửa hàng at 03/13/2023 12:57 AM
+BAG:b0m1hp add 1xHóa khỉ khổng lồ lv5 lydo: Mua từ cửa hàng at 03/13/2023 12:57 AM
+BAG:b0m1hp add 1xHóa khỉ khổng lồ lv6 lydo: Mua từ cửa hàng at 03/13/2023 12:57 AM
+BAG:b0m1hp add 1xHóa khỉ khổng lồ lv7 lydo: Mua từ cửa hàng at 03/13/2023 12:57 AM
+BAG:b0m1hp add 1xSách Trói lv1 lydo: Mua từ cửa hàng at 03/13/2023 12:57 AM
+BAG:b0m1hp add 1xSách Trói lv2 lydo: Mua từ cửa hàng at 03/13/2023 12:57 AM
+BAG:b0m1hp add 1xSách Trói lv3 lydo: Mua từ cửa hàng at 03/13/2023 12:57 AM
+BAG:b0m1hp add 1xSách Trói lv4 lydo: Mua từ cửa hàng at 03/13/2023 12:57 AM
+BAG:b0m1hp add 1xSách Trói lv5 lydo: Mua từ cửa hàng at 03/13/2023 12:57 AM
+BAG:b0m1hp add 1xSách Trói lv6 lydo: Mua từ cửa hàng at 03/13/2023 12:57 AM
+BAG:b0m1hp add 1xSách Trói lv7 lydo: Mua từ cửa hàng at 03/13/2023 12:58 AM
+BAG:b0m1hp add 1xBom hi sinh lv1 lydo: Mua từ cửa hàng at 03/13/2023 12:58 AM
+BAG:b0m1hp add 1xBom hi sinh lv2 lydo: Mua từ cửa hàng at 03/13/2023 12:58 AM
+BAG:b0m1hp add 1xBom hi sinh lv3 lydo: Mua từ cửa hàng at 03/13/2023 12:58 AM
+BAG:b0m1hp add 1xBom hi sinh lv4 lydo: Mua từ cửa hàng at 03/13/2023 12:58 AM
+BAG:b0m1hp add 1xBom hi sinh lv5 lydo: Mua từ cửa hàng at 03/13/2023 12:58 AM
+BAG:b0m1hp add 1xBom hi sinh lv6 lydo: Mua từ cửa hàng at 03/13/2023 12:58 AM
+BAG:b0m1hp add 1xBom hi sinh lv7 lydo: Mua từ cửa hàng at 03/13/2023 12:58 AM
+BAG:b0m1hp add 1xSách đấm Galick lv2 lydo: Mua từ cửa hàng at 03/13/2023 12:58 AM
+BAG:b0m1hp add 1xSách đấm Galick lv3 lydo: Mua từ cửa hàng at 03/13/2023 12:58 AM
+BAG:b0m1hp add 1xSách đấm Galick lv4 lydo: Mua từ cửa hàng at 03/13/2023 12:58 AM
+BAG:b0m1hp add 1xSách đấm Galick lv5 lydo: Mua từ cửa hàng at 03/13/2023 12:58 AM
+BAG:b0m1hp add 1xSách đấm Galick lv6 lydo: Mua từ cửa hàng at 03/13/2023 12:58 AM
+BAG:b0m1hp add 1xSách đấm Galick lv7 lydo: Mua từ cửa hàng at 03/13/2023 12:58 AM
+BAG:b0m1hp add 1xKhiên năng lượng lv1 lydo: Mua từ cửa hàng at 03/13/2023 12:58 AM
+BAG:b0m1hp add 1xKhiên năng lượng lv2 lydo: Mua từ cửa hàng at 03/13/2023 12:58 AM
+BAG:b0m1hp add 1xKhiên năng lượng lv3 lydo: Mua từ cửa hàng at 03/13/2023 12:58 AM
+BAG:b0m1hp add 1xKhiên năng lượng lv4 lydo: Mua từ cửa hàng at 03/13/2023 12:58 AM
+BAG:b0m1hp add 1xKhiên năng lượng lv5 lydo: Mua từ cửa hàng at 03/13/2023 12:58 AM
+BAG:b0m1hp add 1xKhiên năng lượng lv6 lydo: Mua từ cửa hàng at 03/13/2023 12:58 AM
+BAG:b0m1hp add 1xKhiên năng lượng lv7 lydo: Mua từ cửa hàng at 03/13/2023 12:58 AM
+BAG:b0m1hp add 1xSách Huýt Sáo lv1 lydo: Mua từ cửa hàng at 03/13/2023 12:59 AM
+BAG:b0m1hp add 1xSách Huýt Sáo lv2 lydo: Mua từ cửa hàng at 03/13/2023 12:59 AM
+BAG:b0m1hp add 1xSách Huýt Sáo lv3 lydo: Mua từ cửa hàng at 03/13/2023 12:59 AM
+BAG:b0m1hp add 1xSách Huýt Sáo lv4 lydo: Mua từ cửa hàng at 03/13/2023 12:59 AM
+BAG:b0m1hp add 1xSách Huýt Sáo lv5 lydo: Mua từ cửa hàng at 03/13/2023 12:59 AM
+BAG:b0m1hp add 1xSách Huýt Sáo lv6 lydo: Mua từ cửa hàng at 03/13/2023 12:59 AM
+BAG:b0m1hp add 1xSách Huýt Sáo lv7 lydo: Mua từ cửa hàng at 03/13/2023 12:59 AM
+BAG:b0m1hp add 1xSách Antomic lv1 lydo: Mua từ cửa hàng at 03/13/2023 12:59 AM
+BAG:b0m1hp add 1xTái tạo năng lượng lv1 lydo: Mua từ cửa hàng at 03/13/2023 12:59 AM
+BAG:b0m1hp add 1xTái tạo năng lượng lv2 lydo: Mua từ cửa hàng at 03/13/2023 12:59 AM
+BAG:b0m1hp add 1xTái tạo năng lượng lv3 lydo: Mua từ cửa hàng at 03/13/2023 12:59 AM
+BAG:b0m1hp add 1xTái tạo năng lượng lv4 lydo: Mua từ cửa hàng at 03/13/2023 12:59 AM
+BAG:b0m1hp add 1xTái tạo năng lượng lv5 lydo: Mua từ cửa hàng at 03/13/2023 1:00 AM
+BAG:b0m1hp add 1xTái tạo năng lượng lv6 lydo: Mua từ cửa hàng at 03/13/2023 1:00 AM
+BAG:b0m1hp add 1xTái tạo năng lượng lv7 lydo: Mua từ cửa hàng at 03/13/2023 1:00 AM
+BAG:b0m1hp add 1xHoa hồng xanh lydo: Nhặt từ map at 03/13/2023 1:15 AM
+BAG:b0m1hp add 2xHoa hồng xanh (old: 1) lydo: Nhặt từ map at 03/13/2023 1:15 AM
+BAG:b0m1hp add 1xHoa hồng vàng lydo: Nhặt từ map at 03/13/2023 1:15 AM
+BAG:b0m1hp add 1xHoa hồng đỏ lydo: Nhặt từ map at 03/13/2023 1:15 AM
+BAG:b0m1hp add 2xHoa hồng vàng (old: 1) lydo: Nhặt từ map at 03/13/2023 1:15 AM
+BAG:b0m1hp add 3xHoa hồng vàng (old: 2) lydo: Nhặt từ map at 03/13/2023 1:16 AM
+BAG:b0m1hp add 3xHoa hồng xanh (old: 2) lydo: Nhặt từ map at 03/13/2023 1:16 AM
+BAG:b0m1hp add 4xHoa hồng xanh (old: 3) lydo: Nhặt từ map at 03/13/2023 1:16 AM
+BAG:b0m1hp add 2xHoa hồng đỏ (old: 1) lydo: Nhặt từ map at 03/13/2023 1:16 AM
+BAG:b0m1hp add 4xHoa hồng vàng (old: 3) lydo: Nhặt từ map at 03/13/2023 1:16 AM
+BAG:b0m1hp add 5xHoa hồng xanh (old: 4) lydo: Nhặt từ map at 03/13/2023 1:16 AM
+BAG:b0m1hp add 5xHoa hồng vàng (old: 4) lydo: Nhặt từ map at 03/13/2023 1:16 AM
+BAG:b0m1hp add 6xHoa hồng xanh (old: 5) lydo: Nhặt từ map at 03/13/2023 1:16 AM
+BAG:b0m1hp add 3xHoa hồng đỏ (old: 2) lydo: Nhặt từ map at 03/13/2023 1:16 AM
+BAG:b0m1hp add 4xHoa hồng đỏ (old: 3) lydo: Nhặt từ map at 03/13/2023 1:16 AM
+BAG:b0m1hp add 6xHoa hồng vàng (old: 5) lydo: Nhặt từ map at 03/13/2023 1:17 AM
+BAG:b0m1hp add 7xHoa hồng vàng (old: 6) lydo: Nhặt từ map at 03/13/2023 1:17 AM
+BAG:b0m1hp add 8xHoa hồng vàng (old: 7) lydo: Nhặt từ map at 03/13/2023 1:17 AM
+BAG:b0m1hp add 5xHoa hồng đỏ (old: 4) lydo: Nhặt từ map at 03/13/2023 1:17 AM
+BAG:b0m1hp add 9xHoa hồng vàng (old: 8) lydo: Nhặt từ map at 03/13/2023 1:17 AM
+BAG:b0m1hp add 1xĐá Titan lydo: Nhặt từ map at 03/13/2023 1:17 AM
+BAG:b0m1hp add 7xHoa hồng xanh (old: 6) lydo: Nhặt từ map at 03/13/2023 1:17 AM
+BAG:b0m1hp add 10xHoa hồng vàng (old: 9) lydo: Nhặt từ map at 03/13/2023 1:18 AM
+BAG:b0m1hp add 6xHoa hồng đỏ (old: 5) lydo: Nhặt từ map at 03/13/2023 1:18 AM
+BAG:b0m1hp add 7xHoa hồng đỏ (old: 6) lydo: Nhặt từ map at 03/13/2023 1:18 AM
+BAG:b0m1hp add 11xHoa hồng vàng (old: 10) lydo: Nhặt từ map at 03/13/2023 1:18 AM
+BAG:b0m1hp add 8xHoa hồng xanh (old: 7) lydo: Nhặt từ map at 03/13/2023 1:18 AM
+BAG:b0m1hp add 9xHoa hồng xanh (old: 8) lydo: Nhặt từ map at 03/13/2023 1:19 AM
+BAG:b0m1hp add 2xĐá Titan (old: 1) lydo: Nhặt từ map at 03/13/2023 1:19 AM
+BAG:b0m1hp add 12xHoa hồng vàng (old: 11) lydo: Nhặt từ map at 03/13/2023 1:19 AM
+BAG:b0m1hp add 8xHoa hồng đỏ (old: 7) lydo: Nhặt từ map at 03/13/2023 1:20 AM
+BAG:b0m1hp add 13xHoa hồng vàng (old: 12) lydo: Nhặt từ map at 03/13/2023 1:20 AM
+BAG:b0m1hp add 14xHoa hồng vàng (old: 13) lydo: Nhặt từ map at 03/13/2023 1:20 AM
+BAG:b0m1hp add 10xHoa hồng xanh (old: 9) lydo: Nhặt từ map at 03/13/2023 1:20 AM
+BAG:b0m1hp add 9xHoa hồng đỏ (old: 8) lydo: Nhặt từ map at 03/13/2023 1:20 AM
+BAG:b0m1hp add 11xHoa hồng xanh (old: 10) lydo: Nhặt từ map at 03/13/2023 1:20 AM
+BAG:b0m1hp add 15xHoa hồng vàng (old: 14) lydo: Nhặt từ map at 03/13/2023 1:20 AM
+BAG:b0m1hp add 16xHoa hồng vàng (old: 15) lydo: Nhặt từ map at 03/13/2023 1:32 AM
+BAG:b0m1hp add 17xHoa hồng vàng (old: 16) lydo: Nhặt từ map at 03/13/2023 1:33 AM
+BAG:b0m1hp add 12xHoa hồng xanh (old: 11) lydo: Nhặt từ map at 03/13/2023 1:34 AM

@@ -1,0 +1,28 @@
+BAG:haimulet add 1xÁo vải thô lydo: Lấy từ body đệ vào hành trang at 03/12/2023 8:28 PM
+BAG:haimulet add 1xGăng lưỡng long lydo: Lấy từ body đệ vào hành trang at 03/12/2023 8:28 PM
+BAG:haimulet add 1xQuần vải thô lydo: Lấy từ body đệ vào hành trang at 03/12/2023 8:28 PM
+BAG:haimulet add 1xGiầy vải thô lydo: Lấy từ body đệ vào hành trang at 03/12/2023 8:28 PM
+BAG:haimulet add 1xRada cấp 1 lydo: Lấy từ body đệ vào hành trang at 03/12/2023 8:28 PM
+BAG:haimulet add 1xZenitsu lydo: Lấy từ body đệ vào hành trang at 03/12/2023 8:28 PM
+BAG:haimulet add 1xGiáp tập luyện cấp 1 lydo: Lấy từ body đệ vào hành trang at 03/12/2023 8:28 PM
+BAG:haimulet add 204xHoa hồng xanh (old: 203) lydo: Nhặt từ map at 03/12/2023 8:29 PM
+BAG:haimulet add 230xHoa hồng vàng (old: 229) lydo: Nhặt từ map at 03/12/2023 8:29 PM
+BAG:haimulet add 231xHoa hồng vàng (old: 230) lydo: Nhặt từ map at 03/12/2023 8:29 PM
+BAG:haimulet add 232xHoa hồng vàng (old: 231) lydo: Nhặt từ map at 03/12/2023 8:29 PM
+BAG:haimulet add 205xHoa hồng xanh (old: 204) lydo: Nhặt từ map at 03/12/2023 8:29 PM
+BAG:haimulet add 233xHoa hồng vàng (old: 232) lydo: Nhặt từ map at 03/12/2023 8:29 PM
+BAG:haimulet add 1xĐá thạch anh tím lydo: Nhặt từ map at 03/12/2023 8:29 PM
+BAG:haimulet add 234xHoa hồng vàng (old: 233) lydo: Nhặt từ map at 03/12/2023 8:29 PM
+BAG:haimulet add 206xHoa hồng xanh (old: 205) lydo: Nhặt từ map at 03/12/2023 8:30 PM
+BAG:haimulet add 203xHoa hồng đỏ (old: 202) lydo: Nhặt từ map at 03/12/2023 8:30 PM
+BAG:haimulet add 204xHoa hồng đỏ (old: 203) lydo: Nhặt từ map at 03/12/2023 8:30 PM
+BAG:haimulet add 205xHoa hồng đỏ (old: 204) lydo: Nhặt từ map at 03/12/2023 8:30 PM
+BAG:haimulet add 207xHoa hồng xanh (old: 206) lydo: Nhặt từ map at 03/12/2023 8:30 PM
+BAG:haimulet add 206xHoa hồng đỏ (old: 205) lydo: Nhặt từ map at 03/12/2023 8:30 PM
+BAG:haimulet add 235xHoa hồng vàng (old: 234) lydo: Nhặt từ map at 03/12/2023 8:30 PM
+BAG:haimulet add 236xHoa hồng vàng (old: 235) lydo: Nhặt từ map at 03/12/2023 8:31 PM
+BAG:haimulet add 207xHoa hồng đỏ (old: 206) lydo: Nhặt từ map at 03/12/2023 8:31 PM
+BAG:haimulet add 208xHoa hồng xanh (old: 207) lydo: Nhặt từ map at 03/12/2023 8:31 PM
+BAG:haimulet add 237xHoa hồng vàng (old: 236) lydo: Nhặt từ map at 03/12/2023 8:31 PM
+BAG:haimulet add 238xHoa hồng vàng (old: 237) lydo: Nhặt từ map at 03/12/2023 8:31 PM
+BAG:haimulet add 208xHoa hồng đỏ (old: 207) lydo: Nhặt từ map at 03/12/2023 8:31 PM

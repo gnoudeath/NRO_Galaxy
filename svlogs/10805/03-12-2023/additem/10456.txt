@@ -1,0 +1,54 @@
+BAG:tuvippro1 add 99xThỏi vàng lydo: (GD) Nhận từ tuvippro at 03/12/2023 6:54 AM
+BAG:tuvippro1 add 99xThỏi vàng lydo: (GD) Nhận từ tuvippro at 03/12/2023 6:55 AM
+BAG:tuvippro1 add 26xThỏi vàng lydo: (GD) Nhận từ tuvippro at 03/12/2023 6:56 AM
+BAG:tuvippro1 add 10xĐậu thần cấp 10 lydo: Thu hoạch đậu at 03/12/2023 6:58 AM
+BAG:tuvippro1 add 30xĐậu thần cấp 10 (old: 10) lydo: Lấy từ rương qua người at 03/12/2023 6:58 AM
+BAG:tuvippro1 add 50xĐậu thần cấp 10 (old: 30) lydo: Lấy từ rương qua người at 03/12/2023 6:58 AM
+BAG:tuvippro1 add 70xĐậu thần cấp 10 (old: 50) lydo: Lấy từ rương qua người at 03/12/2023 6:59 AM
+BAG:tuvippro1 add 1698xHoa hồng đỏ (old: 1697) lydo: Nhặt từ map at 03/12/2023 7:23 AM
+BAG:tuvippro1 add 1699xHoa hồng đỏ (old: 1698) lydo: Nhặt từ map at 03/12/2023 10:34 PM
+BAG:tuvippro1 add 1737xHoa hồng xanh (old: 1736) lydo: Nhặt từ map at 03/12/2023 10:41 PM
+BAG:tuvippro1 add 1700xHoa hồng đỏ (old: 1699) lydo: Nhặt từ map at 03/12/2023 10:57 PM
+BAG:tuvippro1 add 1xĐá Saphia lydo: Nhặt từ map at 03/12/2023 11:00 PM
+BAG:tuvippro1 add 1701xHoa hồng đỏ (old: 1700) lydo: Nhặt từ map at 03/12/2023 11:01 PM
+BAG:tuvippro1 add 1xĐá Titan lydo: Nhặt từ map at 03/12/2023 11:01 PM
+BAG:tuvippro1 add 2309xHoa hồng vàng (old: 2308) lydo: Nhặt từ map at 03/12/2023 11:01 PM
+BAG:tuvippro1 add 44xNgọc Rồng 4 sao (old: 43) lydo: Nhặt từ map at 03/12/2023 11:01 PM
+BAG:tuvippro1 add 1702xHoa hồng đỏ (old: 1701) lydo: Nhặt từ map at 03/12/2023 11:01 PM
+BAG:tuvippro1 add 1703xHoa hồng đỏ (old: 1702) lydo: Nhặt từ map at 03/12/2023 11:01 PM
+BAG:tuvippro1 add 96xNgọc Rồng 6 sao (old: 95) lydo: Nhặt từ map at 03/12/2023 11:01 PM
+BAG:tuvippro1 add 1704xHoa hồng đỏ (old: 1703) lydo: Nhặt từ map at 03/12/2023 11:01 PM
+BAG:tuvippro1 add 97xNgọc Rồng 6 sao (old: 96) lydo: Nhặt từ map at 03/12/2023 11:01 PM
+BAG:tuvippro1 add 1738xHoa hồng xanh (old: 1737) lydo: Nhặt từ map at 03/12/2023 11:01 PM
+BAG:tuvippro1 add 98xNgọc Rồng 6 sao (old: 97) lydo: Nhặt từ map at 03/12/2023 11:01 PM
+BAG:tuvippro1 add 2310xHoa hồng vàng (old: 2309) lydo: Nhặt từ map at 03/12/2023 11:01 PM
+BAG:tuvippro1 add 2xĐá Titan (old: 1) lydo: Nhặt từ map at 03/12/2023 11:01 PM
+BAG:tuvippro1 add 2311xHoa hồng vàng (old: 2310) lydo: Nhặt từ map at 03/12/2023 11:01 PM
+BAG:tuvippro1 add 1705xHoa hồng đỏ (old: 1704) lydo: Nhặt từ map at 03/12/2023 11:01 PM
+BAG:tuvippro1 add 2xĐá Saphia (old: 1) lydo: Nhặt từ map at 03/12/2023 11:01 PM
+BAG:tuvippro1 add 1739xHoa hồng xanh (old: 1738) lydo: Nhặt từ map at 03/12/2023 11:02 PM
+BAG:tuvippro1 add 1740xHoa hồng xanh (old: 1739) lydo: Nhặt từ map at 03/12/2023 11:02 PM
+BAG:tuvippro1 add 1741xHoa hồng xanh (old: 1740) lydo: Nhặt từ map at 03/12/2023 11:02 PM
+BAG:tuvippro1 add 1742xHoa hồng xanh (old: 1741) lydo: Nhặt từ map at 03/12/2023 11:02 PM
+BAG:tuvippro1 add 1743xHoa hồng xanh (old: 1742) lydo: Nhặt từ map at 03/12/2023 11:03 PM
+BAG:tuvippro1 add 1xĐá lục bảo lydo: Nhặt từ map at 03/12/2023 11:03 PM
+BAG:tuvippro1 add 99xNgọc Rồng 6 sao (old: 98) lydo: Nhặt từ map at 03/12/2023 11:03 PM
+BAG:tuvippro1 add 1744xHoa hồng xanh (old: 1743) lydo: Nhặt từ map at 03/12/2023 11:03 PM
+BAG:tuvippro1 add 1745xHoa hồng xanh (old: 1744) lydo: Nhặt từ map at 03/12/2023 11:03 PM
+BAG:tuvippro1 add 1706xHoa hồng đỏ (old: 1705) lydo: Nhặt từ map at 03/12/2023 11:03 PM
+BAG:tuvippro1 add 1746xHoa hồng xanh (old: 1745) lydo: Nhặt từ map at 03/12/2023 11:03 PM
+BAG:tuvippro1 add 1747xHoa hồng xanh (old: 1746) lydo: Nhặt từ map at 03/12/2023 11:04 PM
+BAG:tuvippro1 add 1748xHoa hồng xanh (old: 1747) lydo: Nhặt từ map at 03/12/2023 11:04 PM
+BAG:tuvippro1 add 1749xHoa hồng xanh (old: 1748) lydo: Nhặt từ map at 03/12/2023 11:04 PM
+BAG:tuvippro1 add 2312xHoa hồng vàng (old: 2311) lydo: Nhặt từ map at 03/12/2023 11:16 PM
+BAG:tuvippro1 add 14xNgọc Rồng 3 sao (old: 13) lydo: Nhặt từ map at 03/12/2023 11:18 PM
+BAG:tuvippro1 add 1707xHoa hồng đỏ (old: 1706) lydo: Nhặt từ map at 03/12/2023 11:27 PM
+BAG:tuvippro1 add 1708xHoa hồng đỏ (old: 1707) lydo: Nhặt từ map at 03/12/2023 11:30 PM
+BAG:tuvippro1 add 1750xHoa hồng xanh (old: 1749) lydo: Nhặt từ map at 03/12/2023 11:32 PM
+BAG:tuvippro1 add 11xNgọc Rồng 5 sao (old: 10) lydo: Nhặt từ map at 03/12/2023 11:33 PM
+BAG:tuvippro1 add 1751xHoa hồng xanh (old: 1750) lydo: Nhặt từ map at 03/12/2023 11:34 PM
+BAG:tuvippro1 add 1709xHoa hồng đỏ (old: 1708) lydo: Nhặt từ map at 03/12/2023 11:40 PM
+BAG:tuvippro1 add 2313xHoa hồng vàng (old: 2312) lydo: Nhặt từ map at 03/12/2023 11:44 PM
+BAG:tuvippro1 add 1xHồn linh thú lydo: Nhặt từ map at 03/12/2023 11:44 PM
+BAG:tuvippro1 add 2314xHoa hồng vàng (old: 2313) lydo: Nhặt từ map at 03/12/2023 11:46 PM
+BAG:tuvippro1 add 1752xHoa hồng xanh (old: 1751) lydo: Nhặt từ map at 03/12/2023 11:49 PM

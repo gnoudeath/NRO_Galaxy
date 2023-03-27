@@ -1,0 +1,148 @@
+BAG:dargon remove 1xMảnh Khủng long lydo: Dùng thẻ sưu tầm at 03/12/2023 7:33 AM
+BAG:dargon remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/12/2023 7:35 AM
+BAG:dargon remove 1xMảnh Khủng long lydo: Dùng thẻ sưu tầm at 03/12/2023 7:39 AM
+BAG:dargon remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/12/2023 7:43 AM
+BAG:dargon remove Quần vải đen lydo: Cất vào rương at 03/12/2023 9:24 AM
+BAG:dargon remove Giầy nhựa lydo: Cất vào rương at 03/12/2023 9:24 AM
+BAG:dargon remove Thỏi vàng lydo: Cất vào rương at 03/12/2023 9:25 AM
+BAG:dargon remove Găng vải đen lydo: Cất vào rương at 03/12/2023 9:25 AM
+BAG:dargon remove Ngọc Rồng 3 sao lydo: Cất vào rương at 03/12/2023 9:25 AM
+BAG:dargon remove Quần vải đen lydo: Cất vào rương at 03/12/2023 9:25 AM
+BAG:dargon remove Áo vải 3 lỗ lydo: Cất vào rương at 03/12/2023 9:25 AM
+BAG:dargon remove Rada cấp 1 lydo: Cất vào rương at 03/12/2023 9:25 AM
+BAG:dargon remove Ngọc Rồng 5 sao lydo: Cất vào rương at 03/12/2023 9:25 AM
+BAG:dargon remove Ngọc Rồng 6 sao lydo: Cất vào rương at 03/12/2023 9:25 AM
+BAG:dargon remove Mảnh Khủng long mẹ lydo: Cất vào rương at 03/12/2023 9:25 AM
+BAG:dargon remove Đá Saphia lydo: Cất vào rương at 03/12/2023 9:25 AM
+BAG:dargon remove Đá Titan lydo: Cất vào rương at 03/12/2023 9:25 AM
+BAG:dargon remove Đá lục bảo lydo: Cất vào rương at 03/12/2023 9:25 AM
+BAG:dargon remove Đá Ruby lydo: Cất vào rương at 03/12/2023 9:25 AM
+BAG:dargon remove Đá thạch anh tím lydo: Cất vào rương at 03/12/2023 9:25 AM
+BAG:dargon remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/12/2023 9:26 AM
+BAG:dargon remove Quần vải đen lydo: Cất vào rương at 03/12/2023 9:28 AM
+BAG:dargon remove Áo vải 3 lỗ lydo: Cất vào rương at 03/12/2023 9:28 AM
+BAG:dargon remove Quần vải đen lydo: Cất vào rương at 03/12/2023 9:28 AM
+BAG:dargon remove Găng vải đen lydo: Tự Xóa vật phẩm at 03/12/2023 9:29 AM
+BAG:dargon remove Quần vải đen lydo: Tự Xóa vật phẩm at 03/12/2023 9:29 AM
+BAG:dargon remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/12/2023 9:32 AM
+BAG:dargon remove Áo vải 3 lỗ lydo: Tự Xóa vật phẩm at 03/12/2023 9:32 AM
+BAG:dargon remove Rada cấp 1 lydo: Tự Xóa vật phẩm at 03/12/2023 9:32 AM
+BAG:dargon remove Rada cấp 1 lydo: Tự Xóa vật phẩm at 03/12/2023 9:32 AM
+BAG:dargon remove Quần vải đen lydo: Tự Xóa vật phẩm at 03/12/2023 9:32 AM
+BAG:dargon remove Áo vải 3 lỗ lydo: Tự Xóa vật phẩm at 03/12/2023 9:32 AM
+BAG:dargon remove Quần vải đen lydo: Tự Xóa vật phẩm at 03/12/2023 9:32 AM
+BAG:dargon remove Quần vải đen lydo: Tự Xóa vật phẩm at 03/12/2023 9:32 AM
+BAG:dargon remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/12/2023 9:33 AM
+BAG:dargon remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/12/2023 9:35 AM
+BAG:dargon remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/12/2023 9:39 AM
+BAG:dargon remove Cải trang Hit lydo: Mặc vào người at 03/12/2023 9:47 AM
+BAG:dargon remove 1xThỏi vàng lydo: Bán cho shop at 03/12/2023 9:57 AM
+BAG:dargon remove 1xThỏi vàng lydo: Bán cho shop at 03/12/2023 9:57 AM
+BAG:dargon remove 1xThỏi vàng lydo: Bán cho shop at 03/12/2023 9:58 AM
+BAG:dargon remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 03/12/2023 9:59 AM
+BAG:dargon remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 03/12/2023 10:00 AM
+BAG:dargon remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 03/12/2023 10:00 AM
+BAG:dargon remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 03/12/2023 10:01 AM
+BAG:dargon remove 1xThỏi vàng lydo: Bán cho shop at 03/12/2023 10:08 AM
+BAG:dargon remove 1xThỏi vàng lydo: Bán cho shop at 03/12/2023 10:08 AM
+BAG:dargon remove 1xThỏi vàng lydo: Bán cho shop at 03/12/2023 10:08 AM
+BAG:dargon remove 10xHoa hồng đỏ lydo: Đổi hoa at 03/12/2023 10:10 AM
+BAG:dargon remove Áo vải Kame lydo: Tự Xóa vật phẩm at 03/12/2023 10:15 AM
+BAG:dargon remove Áo vải 3 lỗ lydo: Tự Xóa vật phẩm at 03/12/2023 10:16 AM
+BAG:dargon remove Găng thun dày lydo: Tự Xóa vật phẩm at 03/12/2023 10:16 AM
+BAG:dargon remove Găng vải đen lydo: Tự Xóa vật phẩm at 03/12/2023 10:16 AM
+BAG:dargon remove Giầy nhựa lydo: Tự Xóa vật phẩm at 03/12/2023 10:16 AM
+BAG:dargon remove Găng vải đen lydo: Tự Xóa vật phẩm at 03/12/2023 10:16 AM
+BAG:dargon remove Găng vải đen lydo: Cất vào rương at 03/12/2023 10:16 AM
+BAG:dargon remove Ngọc Rồng 3 sao lydo: Cất vào rương at 03/12/2023 10:16 AM
+BAG:dargon remove Thỏi vàng lydo: Cất vào rương at 03/12/2023 10:17 AM
+BAG:dargon remove Bó hoa hồng đỏ lydo: Cất vào rương at 03/12/2023 10:17 AM
+BAG:dargon remove Rada cấp 5 lydo: Tự Xóa vật phẩm at 03/12/2023 10:17 AM
+BAG:dargon remove Găng vải đen lydo: Tự Xóa vật phẩm at 03/12/2023 10:19 AM
+BAG:dargon remove Rada cấp 1 lydo: Tự Xóa vật phẩm at 03/12/2023 10:19 AM
+BAG:dargon remove Quần vải đen lydo: Tự Xóa vật phẩm at 03/12/2023 10:19 AM
+BAG:dargon remove Quần vải đen lydo: Tự Xóa vật phẩm at 03/12/2023 10:19 AM
+BAG:dargon remove Áo vải 3 lỗ lydo: Tự Xóa vật phẩm at 03/12/2023 10:19 AM
+BAG:dargon remove Áo vải 3 lỗ lydo: Cất vào rương at 03/12/2023 10:20 AM
+BAG:dargon remove Rada cấp 1 lydo: Cất vào rương at 03/12/2023 10:20 AM
+BAG:dargon remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/12/2023 10:21 AM
+BAG:dargon remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/12/2023 10:23 AM
+BAG:dargon remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/12/2023 10:25 AM
+BAG:dargon remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/12/2023 10:26 AM
+BAG:dargon remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/12/2023 10:28 AM
+BAG:dargon remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/12/2023 10:29 AM
+BAG:dargon remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/12/2023 10:30 AM
+BAG:dargon remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/12/2023 10:32 AM
+BAG:dargon remove Sách đấm Dragon lv2 lydo: Sách kĩ năng at 03/12/2023 10:33 AM
+BAG:dargon remove Sách đấm Dragon lv3 lydo: Sách kĩ năng at 03/12/2023 10:33 AM
+BAG:dargon remove Sách đấm Dragon lv4 lydo: Sách kĩ năng at 03/12/2023 10:33 AM
+BAG:dargon remove Sách đấm Dragon lv5 lydo: Sách kĩ năng at 03/12/2023 10:33 AM
+BAG:dargon remove Sách đấm Dragon lv6 lydo: Sách kĩ năng at 03/12/2023 10:33 AM
+BAG:dargon remove Cải trang Hit lydo: Mặc cho đệ tử at 03/12/2023 10:43 AM
+BAG:dargon remove Quần vải đen lydo: Mặc cho đệ tử at 03/12/2023 10:43 AM
+BAG:dargon remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/12/2023 10:57 AM
+BAG:dargon remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/12/2023 11:21 AM
+BAG:dargon remove Cải trang lydo: Mặc vào người at 03/12/2023 11:33 AM
+BAG:dargon remove Quần vải đen lydo: Mặc vào người at 03/12/2023 11:36 AM
+BAG:dargon remove Giầy nhựa lydo: Mặc vào người at 03/12/2023 11:36 AM
+BAG:dargon remove Rada cấp 1 lydo: Mặc vào người at 03/12/2023 11:36 AM
+BAG:dargon remove Găng vải đen lydo: Mặc vào người at 03/12/2023 11:36 AM
+BAG:dargon remove Quần vải đen lydo: Cất vào rương at 03/12/2023 11:36 AM
+BAG:dargon remove Găng vải đen lydo: Cất vào rương at 03/12/2023 11:37 AM
+BAG:dargon remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/12/2023 11:38 AM
+BAG:dargon remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/12/2023 11:43 AM
+BAG:dargon remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/12/2023 11:45 AM
+BAG:dargon remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/12/2023 11:45 AM
+BAG:dargon remove 1xQuần võ Kame lydo: Bán cho shop at 03/12/2023 11:58 AM
+BAG:dargon remove 1xQuần võ Kame lydo: Bán cho shop at 03/12/2023 11:58 AM
+BAG:dargon remove 1xQuần võ Kame lydo: Bán cho shop at 03/12/2023 11:58 AM
+BAG:dargon remove 1xQuần võ Kame lydo: Bán cho shop at 03/12/2023 11:58 AM
+BAG:dargon remove 1xQuần võ Kame lydo: Bán cho shop at 03/12/2023 11:59 AM
+BAG:dargon remove Ngọc Rồng 5 sao lydo: Cất vào rương at 03/12/2023 12:00 PM
+BAG:dargon remove Ngọc Rồng 6 sao lydo: Cất vào rương at 03/12/2023 12:00 PM
+BAG:dargon remove Đá Ruby lydo: Cất vào rương at 03/12/2023 12:00 PM
+BAG:dargon remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/12/2023 12:01 PM
+BAG:dargon remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/12/2023 12:07 PM
+BAG:dargon remove 1xĐậu thần cấp 9 lydo: Ăn đậu at 03/12/2023 12:08 PM
+BAG:dargon remove 1xĐậu thần cấp 9 lydo: Ăn đậu at 03/12/2023 12:09 PM
+BAG:dargon remove 1xThỏi vàng lydo: Bán cho shop at 03/12/2023 12:12 PM
+BAG:dargon remove 1xThỏi vàng lydo: Bán cho shop at 03/12/2023 12:12 PM
+BAG:dargon remove 1xThỏi vàng lydo: Bán cho shop at 03/12/2023 12:12 PM
+BAG:dargon remove 1xQuần võ Kame lydo: Bán cho shop at 03/12/2023 12:14 PM
+BAG:dargon remove 1xQuần thun Kame lydo: Bán cho shop at 03/12/2023 12:14 PM
+BAG:dargon remove 1xÁo thun dày lydo: Bán cho shop at 03/12/2023 12:14 PM
+BAG:dargon remove 1xÁo thun dày lydo: Bán cho shop at 03/12/2023 12:14 PM
+BAG:dargon remove 1xÁo vải 3 lỗ lydo: Bán cho shop at 03/12/2023 12:15 PM
+BAG:dargon remove 1xÁo vải 3 lỗ lydo: Bán cho shop at 03/12/2023 12:15 PM
+BAG:dargon remove 1xÁo vải 3 lỗ lydo: Bán cho shop at 03/12/2023 12:15 PM
+BAG:dargon remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 03/12/2023 12:17 PM
+BAG:dargon remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 03/12/2023 12:18 PM
+BAG:dargon remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 03/12/2023 12:18 PM
+BAG:dargon remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 03/12/2023 12:19 PM
+BAG:dargon remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 03/12/2023 12:19 PM
+BAG:dargon remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 03/12/2023 12:20 PM
+BAG:dargon remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 03/12/2023 12:20 PM
+BAG:dargon remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 03/12/2023 12:21 PM
+BAG:dargon remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 03/12/2023 12:21 PM
+BAG:dargon remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 03/12/2023 12:22 PM
+BAG:dargon remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 03/12/2023 12:22 PM
+BAG:dargon remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 03/12/2023 12:23 PM
+BAG:dargon remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 03/12/2023 12:23 PM
+BAG:dargon remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 03/12/2023 12:25 PM
+BAG:dargon remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 03/12/2023 12:25 PM
+BAG:dargon remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 03/12/2023 12:25 PM
+BAG:dargon remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 03/12/2023 12:26 PM
+BAG:dargon remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 03/12/2023 12:26 PM
+BAG:dargon remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 03/12/2023 12:27 PM
+BAG:dargon remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 03/12/2023 12:27 PM
+BAG:dargon remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 03/12/2023 12:28 PM
+BAG:dargon remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 03/12/2023 12:28 PM
+BAG:dargon remove Găng vải đen lydo: Mặc cho đệ tử at 03/12/2023 12:28 PM
+BAG:dargon remove Rada cấp 1 lydo: Mặc cho đệ tử at 03/12/2023 12:29 PM
+BAG:dargon remove Giầy nhựa lydo: Mặc cho đệ tử at 03/12/2023 12:29 PM
+BAG:dargon remove Áo vải 3 lỗ lydo: Mặc cho đệ tử at 03/12/2023 12:29 PM
+BAG:dargon remove 1xNâng cấp kỹ năng 1 đệ tử lydo: Dùng sách kĩ năng đệ tử at 03/12/2023 12:30 PM
+BAG:dargon remove 1xNâng cấp kỹ năng 1 đệ tử lydo: Dùng sách kĩ năng đệ tử at 03/12/2023 12:30 PM
+BAG:dargon remove 1xNâng cấp kỹ năng 1 đệ tử lydo: Dùng sách kĩ năng đệ tử at 03/12/2023 12:30 PM
+BAG:dargon remove 1xĐậu thần cấp 9 lydo: Ăn đậu at 03/12/2023 12:36 PM
+BAG:dargon remove 50xThỏi vàng lydo: Mua đồ hủy diệt at 03/12/2023 12:41 PM

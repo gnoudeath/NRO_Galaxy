@@ -1,0 +1,362 @@
+BAG:neill add 191xHoa hồng đỏ (old: 190) lydo: Nhặt từ map at 03/13/2023 12:00 AM
+BAG:neill add 189xHoa hồng xanh (old: 188) lydo: Nhặt từ map at 03/13/2023 12:00 AM
+BAG:neill add 231xHoa hồng vàng (old: 230) lydo: Nhặt từ map at 03/13/2023 12:00 AM
+BAG:neill add 192xHoa hồng đỏ (old: 191) lydo: Nhặt từ map at 03/13/2023 12:00 AM
+BAG:neill add 190xHoa hồng xanh (old: 189) lydo: Nhặt từ map at 03/13/2023 12:00 AM
+BAG:neill add 193xHoa hồng đỏ (old: 192) lydo: Nhặt từ map at 03/13/2023 12:01 AM
+BAG:neill add 232xHoa hồng vàng (old: 231) lydo: Nhặt từ map at 03/13/2023 12:01 AM
+BAG:neill add 35xĐá thạch anh tím (old: 34) lydo: Nhặt từ map at 03/13/2023 12:02 AM
+BAG:neill add 194xHoa hồng đỏ (old: 193) lydo: Nhặt từ map at 03/13/2023 12:03 AM
+BAG:neill add 195xHoa hồng đỏ (old: 194) lydo: Nhặt từ map at 03/13/2023 12:04 AM
+BAG:neill add 233xHoa hồng vàng (old: 232) lydo: Nhặt từ map at 03/13/2023 12:04 AM
+BAG:neill add 234xHoa hồng vàng (old: 233) lydo: Nhặt từ map at 03/13/2023 12:04 AM
+BAG:neill add 191xHoa hồng xanh (old: 190) lydo: Nhặt từ map at 03/13/2023 12:04 AM
+BAG:neill add 192xHoa hồng xanh (old: 191) lydo: Nhặt từ map at 03/13/2023 12:05 AM
+BAG:neill add 193xHoa hồng xanh (old: 192) lydo: Nhặt từ map at 03/13/2023 12:05 AM
+BAG:neill add 194xHoa hồng xanh (old: 193) lydo: Nhặt từ map at 03/13/2023 12:05 AM
+BAG:neill add 196xHoa hồng đỏ (old: 195) lydo: Nhặt từ map at 03/13/2023 12:05 AM
+BAG:neill add 1xĐá Saphia lydo: Nhặt từ map at 03/13/2023 12:06 AM
+BAG:neill add 195xHoa hồng xanh (old: 194) lydo: Nhặt từ map at 03/13/2023 12:06 AM
+BAG:neill add 235xHoa hồng vàng (old: 234) lydo: Nhặt từ map at 03/13/2023 12:06 AM
+BAG:neill add 196xHoa hồng xanh (old: 195) lydo: Nhặt từ map at 03/13/2023 12:06 AM
+BAG:neill add 197xHoa hồng đỏ (old: 196) lydo: Nhặt từ map at 03/13/2023 12:07 AM
+BAG:neill add 197xHoa hồng xanh (old: 196) lydo: Nhặt từ map at 03/13/2023 12:07 AM
+BAG:neill add 2xĐá Saphia (old: 1) lydo: Nhặt từ map at 03/13/2023 12:07 AM
+BAG:neill add 198xHoa hồng xanh (old: 197) lydo: Nhặt từ map at 03/13/2023 12:08 AM
+BAG:neill add 199xHoa hồng xanh (old: 198) lydo: Nhặt từ map at 03/13/2023 12:08 AM
+BAG:neill add 198xHoa hồng đỏ (old: 197) lydo: Nhặt từ map at 03/13/2023 12:08 AM
+BAG:neill add 36xĐá thạch anh tím (old: 35) lydo: Nhặt từ map at 03/13/2023 12:09 AM
+BAG:neill add 200xHoa hồng xanh (old: 199) lydo: Nhặt từ map at 03/13/2023 12:10 AM
+BAG:neill add 236xHoa hồng vàng (old: 235) lydo: Nhặt từ map at 03/13/2023 12:11 AM
+BAG:neill add 237xHoa hồng vàng (old: 236) lydo: Nhặt từ map at 03/13/2023 12:11 AM
+BAG:neill add 3xĐá Saphia (old: 2) lydo: Nhặt từ map at 03/13/2023 12:11 AM
+BAG:neill add 201xHoa hồng xanh (old: 200) lydo: Nhặt từ map at 03/13/2023 12:11 AM
+BAG:neill add 238xHoa hồng vàng (old: 237) lydo: Nhặt từ map at 03/13/2023 12:11 AM
+BAG:neill add 239xHoa hồng vàng (old: 238) lydo: Nhặt từ map at 03/13/2023 12:11 AM
+BAG:neill add 202xHoa hồng xanh (old: 201) lydo: Nhặt từ map at 03/13/2023 12:12 AM
+BAG:neill add 199xHoa hồng đỏ (old: 198) lydo: Nhặt từ map at 03/13/2023 12:13 AM
+BAG:neill add 200xHoa hồng đỏ (old: 199) lydo: Nhặt từ map at 03/13/2023 12:13 AM
+BAG:neill add 203xHoa hồng xanh (old: 202) lydo: Nhặt từ map at 03/13/2023 12:13 AM
+BAG:neill add 240xHoa hồng vàng (old: 239) lydo: Nhặt từ map at 03/13/2023 12:14 AM
+BAG:neill add 201xHoa hồng đỏ (old: 200) lydo: Nhặt từ map at 03/13/2023 12:14 AM
+BAG:neill add 204xHoa hồng xanh (old: 203) lydo: Nhặt từ map at 03/13/2023 12:14 AM
+BAG:neill add 241xHoa hồng vàng (old: 240) lydo: Nhặt từ map at 03/13/2023 12:15 AM
+BAG:neill add 202xHoa hồng đỏ (old: 201) lydo: Nhặt từ map at 03/13/2023 12:15 AM
+BAG:neill add 205xHoa hồng xanh (old: 204) lydo: Nhặt từ map at 03/13/2023 12:15 AM
+BAG:neill add 242xHoa hồng vàng (old: 241) lydo: Nhặt từ map at 03/13/2023 12:15 AM
+BAG:neill add 243xHoa hồng vàng (old: 242) lydo: Nhặt từ map at 03/13/2023 12:16 AM
+BAG:neill add 206xHoa hồng xanh (old: 205) lydo: Nhặt từ map at 03/13/2023 12:16 AM
+BAG:neill add 244xHoa hồng vàng (old: 243) lydo: Nhặt từ map at 03/13/2023 12:17 AM
+BAG:neill add 2xNgọc Rồng 5 sao (old: 1) lydo: Nhặt từ map at 03/13/2023 12:17 AM
+BAG:neill add 207xHoa hồng xanh (old: 206) lydo: Nhặt từ map at 03/13/2023 12:17 AM
+BAG:neill add 203xHoa hồng đỏ (old: 202) lydo: Nhặt từ map at 03/13/2023 12:18 AM
+BAG:neill add 204xHoa hồng đỏ (old: 203) lydo: Nhặt từ map at 03/13/2023 12:18 AM
+BAG:neill add 245xHoa hồng vàng (old: 244) lydo: Nhặt từ map at 03/13/2023 12:19 AM
+BAG:neill add 205xHoa hồng đỏ (old: 204) lydo: Nhặt từ map at 03/13/2023 12:19 AM
+BAG:neill add 246xHoa hồng vàng (old: 245) lydo: Nhặt từ map at 03/13/2023 12:19 AM
+BAG:neill add 206xHoa hồng đỏ (old: 205) lydo: Nhặt từ map at 03/13/2023 12:19 AM
+BAG:neill add 247xHoa hồng vàng (old: 246) lydo: Nhặt từ map at 03/13/2023 12:19 AM
+BAG:neill add 208xHoa hồng xanh (old: 207) lydo: Nhặt từ map at 03/13/2023 12:20 AM
+BAG:neill add 209xHoa hồng xanh (old: 208) lydo: Nhặt từ map at 03/13/2023 12:20 AM
+BAG:neill add 210xHoa hồng xanh (old: 209) lydo: Nhặt từ map at 03/13/2023 12:20 AM
+BAG:neill add 211xHoa hồng xanh (old: 210) lydo: Nhặt từ map at 03/13/2023 12:21 AM
+BAG:neill add 207xHoa hồng đỏ (old: 206) lydo: Nhặt từ map at 03/13/2023 12:21 AM
+BAG:neill add 37xĐá thạch anh tím (old: 36) lydo: Nhặt từ map at 03/13/2023 12:21 AM
+BAG:neill add 248xHoa hồng vàng (old: 247) lydo: Nhặt từ map at 03/13/2023 12:21 AM
+BAG:neill add 249xHoa hồng vàng (old: 248) lydo: Nhặt từ map at 03/13/2023 12:22 AM
+BAG:neill add 208xHoa hồng đỏ (old: 207) lydo: Nhặt từ map at 03/13/2023 12:22 AM
+BAG:neill add 209xHoa hồng đỏ (old: 208) lydo: Nhặt từ map at 03/13/2023 12:22 AM
+BAG:neill add 212xHoa hồng xanh (old: 211) lydo: Nhặt từ map at 03/13/2023 12:22 AM
+BAG:neill add 250xHoa hồng vàng (old: 249) lydo: Nhặt từ map at 03/13/2023 12:22 AM
+BAG:neill add 213xHoa hồng xanh (old: 212) lydo: Nhặt từ map at 03/13/2023 12:23 AM
+BAG:neill add 251xHoa hồng vàng (old: 250) lydo: Nhặt từ map at 03/13/2023 12:23 AM
+BAG:neill add 214xHoa hồng xanh (old: 213) lydo: Nhặt từ map at 03/13/2023 12:24 AM
+BAG:neill add 215xHoa hồng xanh (old: 214) lydo: Nhặt từ map at 03/13/2023 12:24 AM
+BAG:neill add 210xHoa hồng đỏ (old: 209) lydo: Nhặt từ map at 03/13/2023 12:25 AM
+BAG:neill add 211xHoa hồng đỏ (old: 210) lydo: Nhặt từ map at 03/13/2023 12:25 AM
+BAG:neill add 38xĐá thạch anh tím (old: 37) lydo: Nhặt từ map at 03/13/2023 12:25 AM
+BAG:neill add 212xHoa hồng đỏ (old: 211) lydo: Nhặt từ map at 03/13/2023 12:25 AM
+BAG:neill add 216xHoa hồng xanh (old: 215) lydo: Nhặt từ map at 03/13/2023 12:26 AM
+BAG:neill add 252xHoa hồng vàng (old: 251) lydo: Nhặt từ map at 03/13/2023 12:26 AM
+BAG:neill add 213xHoa hồng đỏ (old: 212) lydo: Nhặt từ map at 03/13/2023 12:26 AM
+BAG:neill add 39xĐá thạch anh tím (old: 38) lydo: Nhặt từ map at 03/13/2023 12:26 AM
+BAG:neill add 214xHoa hồng đỏ (old: 213) lydo: Nhặt từ map at 03/13/2023 12:27 AM
+BAG:neill add 215xHoa hồng đỏ (old: 214) lydo: Nhặt từ map at 03/13/2023 12:27 AM
+BAG:neill add 216xHoa hồng đỏ (old: 215) lydo: Nhặt từ map at 03/13/2023 12:28 AM
+BAG:neill add 253xHoa hồng vàng (old: 252) lydo: Nhặt từ map at 03/13/2023 12:28 AM
+BAG:neill add 217xHoa hồng xanh (old: 216) lydo: Nhặt từ map at 03/13/2023 12:29 AM
+BAG:neill add 254xHoa hồng vàng (old: 253) lydo: Nhặt từ map at 03/13/2023 12:30 AM
+BAG:neill add 218xHoa hồng xanh (old: 217) lydo: Nhặt từ map at 03/13/2023 12:30 AM
+BAG:neill add 255xHoa hồng vàng (old: 254) lydo: Nhặt từ map at 03/13/2023 12:30 AM
+BAG:neill add 219xHoa hồng xanh (old: 218) lydo: Nhặt từ map at 03/13/2023 12:30 AM
+BAG:neill add 256xHoa hồng vàng (old: 255) lydo: Nhặt từ map at 03/13/2023 12:31 AM
+BAG:neill add 257xHoa hồng vàng (old: 256) lydo: Nhặt từ map at 03/13/2023 12:32 AM
+BAG:neill add 217xHoa hồng đỏ (old: 216) lydo: Nhặt từ map at 03/13/2023 12:32 AM
+BAG:neill add 258xHoa hồng vàng (old: 257) lydo: Nhặt từ map at 03/13/2023 12:32 AM
+BAG:neill add 218xHoa hồng đỏ (old: 217) lydo: Nhặt từ map at 03/13/2023 12:32 AM
+BAG:neill add 220xHoa hồng xanh (old: 219) lydo: Nhặt từ map at 03/13/2023 12:32 AM
+BAG:neill add 259xHoa hồng vàng (old: 258) lydo: Nhặt từ map at 03/13/2023 12:33 AM
+BAG:neill add 260xHoa hồng vàng (old: 259) lydo: Nhặt từ map at 03/13/2023 12:33 AM
+BAG:neill add 219xHoa hồng đỏ (old: 218) lydo: Nhặt từ map at 03/13/2023 12:33 AM
+BAG:neill add 220xHoa hồng đỏ (old: 219) lydo: Nhặt từ map at 03/13/2023 12:34 AM
+BAG:neill add 261xHoa hồng vàng (old: 260) lydo: Nhặt từ map at 03/13/2023 12:35 AM
+BAG:neill add 221xHoa hồng xanh (old: 220) lydo: Nhặt từ map at 03/13/2023 12:35 AM
+BAG:neill add 221xHoa hồng đỏ (old: 220) lydo: Nhặt từ map at 03/13/2023 12:36 AM
+BAG:neill add 262xHoa hồng vàng (old: 261) lydo: Nhặt từ map at 03/13/2023 12:36 AM
+BAG:neill add 222xHoa hồng đỏ (old: 221) lydo: Nhặt từ map at 03/13/2023 12:36 AM
+BAG:neill add 263xHoa hồng vàng (old: 262) lydo: Nhặt từ map at 03/13/2023 12:37 AM
+BAG:neill add 223xHoa hồng đỏ (old: 222) lydo: Nhặt từ map at 03/13/2023 12:38 AM
+BAG:neill add 264xHoa hồng vàng (old: 263) lydo: Nhặt từ map at 03/13/2023 12:38 AM
+BAG:neill add 224xHoa hồng đỏ (old: 223) lydo: Nhặt từ map at 03/13/2023 12:38 AM
+BAG:neill add 222xHoa hồng xanh (old: 221) lydo: Nhặt từ map at 03/13/2023 12:39 AM
+BAG:neill add 225xHoa hồng đỏ (old: 224) lydo: Nhặt từ map at 03/13/2023 12:39 AM
+BAG:neill add 226xHoa hồng đỏ (old: 225) lydo: Nhặt từ map at 03/13/2023 12:39 AM
+BAG:neill add 223xHoa hồng xanh (old: 222) lydo: Nhặt từ map at 03/13/2023 12:39 AM
+BAG:neill add 224xHoa hồng xanh (old: 223) lydo: Nhặt từ map at 03/13/2023 12:40 AM
+BAG:neill add 265xHoa hồng vàng (old: 264) lydo: Nhặt từ map at 03/13/2023 12:40 AM
+BAG:neill add 1xĐá Saphia lydo: Nhặt từ map at 03/13/2023 12:40 AM
+BAG:neill add 227xHoa hồng đỏ (old: 226) lydo: Nhặt từ map at 03/13/2023 12:40 AM
+BAG:neill add 228xHoa hồng đỏ (old: 227) lydo: Nhặt từ map at 03/13/2023 12:41 AM
+BAG:neill add 40xĐá thạch anh tím (old: 39) lydo: Nhặt từ map at 03/13/2023 12:41 AM
+BAG:neill add 266xHoa hồng vàng (old: 265) lydo: Nhặt từ map at 03/13/2023 12:41 AM
+BAG:neill add 267xHoa hồng vàng (old: 266) lydo: Nhặt từ map at 03/13/2023 12:42 AM
+BAG:neill add 1xĐá Titan lydo: Nhặt từ map at 03/13/2023 12:42 AM
+BAG:neill add 1xĐá lục bảo lydo: Nhặt từ map at 03/13/2023 12:43 AM
+BAG:neill add 229xHoa hồng đỏ (old: 228) lydo: Nhặt từ map at 03/13/2023 12:43 AM
+BAG:neill add 230xHoa hồng đỏ (old: 229) lydo: Nhặt từ map at 03/13/2023 12:43 AM
+BAG:neill add 225xHoa hồng xanh (old: 224) lydo: Nhặt từ map at 03/13/2023 12:43 AM
+BAG:neill add 226xHoa hồng xanh (old: 225) lydo: Nhặt từ map at 03/13/2023 12:43 AM
+BAG:neill add 7xNgọc Rồng 6 sao (old: 6) lydo: Nhặt từ map at 03/13/2023 12:43 AM
+BAG:neill add 231xHoa hồng đỏ (old: 230) lydo: Nhặt từ map at 03/13/2023 12:44 AM
+BAG:neill add 41xĐá thạch anh tím (old: 40) lydo: Nhặt từ map at 03/13/2023 12:45 AM
+BAG:neill add 232xHoa hồng đỏ (old: 231) lydo: Nhặt từ map at 03/13/2023 12:45 AM
+BAG:neill add 233xHoa hồng đỏ (old: 232) lydo: Nhặt từ map at 03/13/2023 12:45 AM
+BAG:neill add 234xHoa hồng đỏ (old: 233) lydo: Nhặt từ map at 03/13/2023 12:45 AM
+BAG:neill add 268xHoa hồng vàng (old: 267) lydo: Nhặt từ map at 03/13/2023 12:46 AM
+BAG:neill add 269xHoa hồng vàng (old: 268) lydo: Nhặt từ map at 03/13/2023 12:46 AM
+BAG:neill add 270xHoa hồng vàng (old: 269) lydo: Nhặt từ map at 03/13/2023 12:46 AM
+BAG:neill add 2xĐá lục bảo (old: 1) lydo: Nhặt từ map at 03/13/2023 12:47 AM
+BAG:neill add 271xHoa hồng vàng (old: 270) lydo: Nhặt từ map at 03/13/2023 12:47 AM
+BAG:neill add 2xĐá Titan (old: 1) lydo: Nhặt từ map at 03/13/2023 12:47 AM
+BAG:neill add 42xĐá thạch anh tím (old: 41) lydo: Nhặt từ map at 03/13/2023 12:47 AM
+BAG:neill add 227xHoa hồng xanh (old: 226) lydo: Nhặt từ map at 03/13/2023 12:47 AM
+BAG:neill add 235xHoa hồng đỏ (old: 234) lydo: Nhặt từ map at 03/13/2023 12:48 AM
+BAG:neill add 236xHoa hồng đỏ (old: 235) lydo: Nhặt từ map at 03/13/2023 12:48 AM
+BAG:neill add 237xHoa hồng đỏ (old: 236) lydo: Nhặt từ map at 03/13/2023 12:49 AM
+BAG:neill add 272xHoa hồng vàng (old: 271) lydo: Nhặt từ map at 03/13/2023 12:49 AM
+BAG:neill add 238xHoa hồng đỏ (old: 237) lydo: Nhặt từ map at 03/13/2023 12:50 AM
+BAG:neill add 239xHoa hồng đỏ (old: 238) lydo: Nhặt từ map at 03/13/2023 12:50 AM
+BAG:neill add 273xHoa hồng vàng (old: 272) lydo: Nhặt từ map at 03/13/2023 12:50 AM
+BAG:neill add 3xĐá lục bảo (old: 2) lydo: Nhặt từ map at 03/13/2023 12:50 AM
+BAG:neill add 240xHoa hồng đỏ (old: 239) lydo: Nhặt từ map at 03/13/2023 12:51 AM
+BAG:neill add 274xHoa hồng vàng (old: 273) lydo: Nhặt từ map at 03/13/2023 12:51 AM
+BAG:neill add 228xHoa hồng xanh (old: 227) lydo: Nhặt từ map at 03/13/2023 12:51 AM
+BAG:neill add 229xHoa hồng xanh (old: 228) lydo: Nhặt từ map at 03/13/2023 12:51 AM
+BAG:neill add 241xHoa hồng đỏ (old: 240) lydo: Nhặt từ map at 03/13/2023 12:51 AM
+BAG:neill add 230xHoa hồng xanh (old: 229) lydo: Nhặt từ map at 03/13/2023 12:52 AM
+BAG:neill add 275xHoa hồng vàng (old: 274) lydo: Nhặt từ map at 03/13/2023 12:52 AM
+BAG:neill add 276xHoa hồng vàng (old: 275) lydo: Nhặt từ map at 03/13/2023 12:53 AM
+BAG:neill add 242xHoa hồng đỏ (old: 241) lydo: Nhặt từ map at 03/13/2023 12:53 AM
+BAG:neill add 243xHoa hồng đỏ (old: 242) lydo: Nhặt từ map at 03/13/2023 12:53 AM
+BAG:neill add 231xHoa hồng xanh (old: 230) lydo: Nhặt từ map at 03/13/2023 12:53 AM
+BAG:neill add 277xHoa hồng vàng (old: 276) lydo: Nhặt từ map at 03/13/2023 12:55 AM
+BAG:neill add 244xHoa hồng đỏ (old: 243) lydo: Nhặt từ map at 03/13/2023 12:55 AM
+BAG:neill add 245xHoa hồng đỏ (old: 244) lydo: Nhặt từ map at 03/13/2023 12:55 AM
+BAG:neill add 246xHoa hồng đỏ (old: 245) lydo: Nhặt từ map at 03/13/2023 12:56 AM
+BAG:neill add 247xHoa hồng đỏ (old: 246) lydo: Nhặt từ map at 03/13/2023 12:56 AM
+BAG:neill add 232xHoa hồng xanh (old: 231) lydo: Nhặt từ map at 03/13/2023 12:56 AM
+BAG:neill add 3xĐá Titan (old: 2) lydo: Nhặt từ map at 03/13/2023 12:56 AM
+BAG:neill add 278xHoa hồng vàng (old: 277) lydo: Nhặt từ map at 03/13/2023 12:57 AM
+BAG:neill add 279xHoa hồng vàng (old: 278) lydo: Nhặt từ map at 03/13/2023 12:57 AM
+BAG:neill add 280xHoa hồng vàng (old: 279) lydo: Nhặt từ map at 03/13/2023 12:57 AM
+BAG:neill add 281xHoa hồng vàng (old: 280) lydo: Nhặt từ map at 03/13/2023 12:57 AM
+BAG:neill add 233xHoa hồng xanh (old: 232) lydo: Nhặt từ map at 03/13/2023 12:57 AM
+BAG:neill add 282xHoa hồng vàng (old: 281) lydo: Nhặt từ map at 03/13/2023 12:58 AM
+BAG:neill add 234xHoa hồng xanh (old: 233) lydo: Nhặt từ map at 03/13/2023 12:58 AM
+BAG:neill add 248xHoa hồng đỏ (old: 247) lydo: Nhặt từ map at 03/13/2023 12:58 AM
+BAG:neill add 283xHoa hồng vàng (old: 282) lydo: Nhặt từ map at 03/13/2023 1:00 AM
+BAG:neill add 235xHoa hồng xanh (old: 234) lydo: Nhặt từ map at 03/13/2023 1:00 AM
+BAG:neill add 3xNgọc Rồng 5 sao (old: 2) lydo: Nhặt từ map at 03/13/2023 1:00 AM
+BAG:neill add 284xHoa hồng vàng (old: 283) lydo: Nhặt từ map at 03/13/2023 1:01 AM
+BAG:neill add 285xHoa hồng vàng (old: 284) lydo: Nhặt từ map at 03/13/2023 1:01 AM
+BAG:neill add 286xHoa hồng vàng (old: 285) lydo: Nhặt từ map at 03/13/2023 1:01 AM
+BAG:neill add 287xHoa hồng vàng (old: 286) lydo: Nhặt từ map at 03/13/2023 1:01 AM
+BAG:neill add 249xHoa hồng đỏ (old: 248) lydo: Nhặt từ map at 03/13/2023 1:01 AM
+BAG:neill add 236xHoa hồng xanh (old: 235) lydo: Nhặt từ map at 03/13/2023 1:01 AM
+BAG:neill add 250xHoa hồng đỏ (old: 249) lydo: Nhặt từ map at 03/13/2023 1:02 AM
+BAG:neill add 4xĐá lục bảo (old: 3) lydo: Nhặt từ map at 03/13/2023 1:02 AM
+BAG:neill add 237xHoa hồng xanh (old: 236) lydo: Nhặt từ map at 03/13/2023 1:02 AM
+BAG:neill add 288xHoa hồng vàng (old: 287) lydo: Nhặt từ map at 03/13/2023 1:02 AM
+BAG:neill add 289xHoa hồng vàng (old: 288) lydo: Nhặt từ map at 03/13/2023 1:02 AM
+BAG:neill add 251xHoa hồng đỏ (old: 250) lydo: Nhặt từ map at 03/13/2023 1:02 AM
+BAG:neill add 290xHoa hồng vàng (old: 289) lydo: Nhặt từ map at 03/13/2023 1:03 AM
+BAG:neill add 238xHoa hồng xanh (old: 237) lydo: Nhặt từ map at 03/13/2023 1:03 AM
+BAG:neill add 291xHoa hồng vàng (old: 290) lydo: Nhặt từ map at 03/13/2023 1:03 AM
+BAG:neill add 292xHoa hồng vàng (old: 291) lydo: Nhặt từ map at 03/13/2023 1:03 AM
+BAG:neill add 239xHoa hồng xanh (old: 238) lydo: Nhặt từ map at 03/13/2023 1:04 AM
+BAG:neill add 293xHoa hồng vàng (old: 292) lydo: Nhặt từ map at 03/13/2023 1:05 AM
+BAG:neill add 240xHoa hồng xanh (old: 239) lydo: Nhặt từ map at 03/13/2023 1:05 AM
+BAG:neill add 294xHoa hồng vàng (old: 293) lydo: Nhặt từ map at 03/13/2023 1:06 AM
+BAG:neill add 241xHoa hồng xanh (old: 240) lydo: Nhặt từ map at 03/13/2023 1:06 AM
+BAG:neill add 4xĐá Titan (old: 3) lydo: Nhặt từ map at 03/13/2023 1:06 AM
+BAG:neill add 295xHoa hồng vàng (old: 294) lydo: Nhặt từ map at 03/13/2023 1:07 AM
+BAG:neill add 252xHoa hồng đỏ (old: 251) lydo: Nhặt từ map at 03/13/2023 1:07 AM
+BAG:neill add 242xHoa hồng xanh (old: 241) lydo: Nhặt từ map at 03/13/2023 1:07 AM
+BAG:neill add 296xHoa hồng vàng (old: 295) lydo: Nhặt từ map at 03/13/2023 1:08 AM
+BAG:neill add 5xĐá lục bảo (old: 4) lydo: Nhặt từ map at 03/13/2023 1:08 AM
+BAG:neill add 243xHoa hồng xanh (old: 242) lydo: Nhặt từ map at 03/13/2023 1:08 AM
+BAG:neill add 253xHoa hồng đỏ (old: 252) lydo: Nhặt từ map at 03/13/2023 1:09 AM
+BAG:neill add 297xHoa hồng vàng (old: 296) lydo: Nhặt từ map at 03/13/2023 1:09 AM
+BAG:neill add 298xHoa hồng vàng (old: 297) lydo: Nhặt từ map at 03/13/2023 1:09 AM
+BAG:neill add 299xHoa hồng vàng (old: 298) lydo: Nhặt từ map at 03/13/2023 1:09 AM
+BAG:neill add 300xHoa hồng vàng (old: 299) lydo: Nhặt từ map at 03/13/2023 1:10 AM
+BAG:neill add 254xHoa hồng đỏ (old: 253) lydo: Nhặt từ map at 03/13/2023 1:10 AM
+BAG:neill add 301xHoa hồng vàng (old: 300) lydo: Nhặt từ map at 03/13/2023 1:10 AM
+BAG:neill add 302xHoa hồng vàng (old: 301) lydo: Nhặt từ map at 03/13/2023 1:11 AM
+BAG:neill add 255xHoa hồng đỏ (old: 254) lydo: Nhặt từ map at 03/13/2023 1:12 AM
+BAG:neill add 244xHoa hồng xanh (old: 243) lydo: Nhặt từ map at 03/13/2023 1:13 AM
+BAG:neill add 245xHoa hồng xanh (old: 244) lydo: Nhặt từ map at 03/13/2023 1:13 AM
+BAG:neill add 246xHoa hồng xanh (old: 245) lydo: Nhặt từ map at 03/13/2023 1:14 AM
+BAG:neill add 247xHoa hồng xanh (old: 246) lydo: Nhặt từ map at 03/13/2023 1:14 AM
+BAG:neill add 303xHoa hồng vàng (old: 302) lydo: Nhặt từ map at 03/13/2023 1:14 AM
+BAG:neill add 248xHoa hồng xanh (old: 247) lydo: Nhặt từ map at 03/13/2023 1:14 AM
+BAG:neill add 304xHoa hồng vàng (old: 303) lydo: Nhặt từ map at 03/13/2023 1:15 AM
+BAG:neill add 305xHoa hồng vàng (old: 304) lydo: Nhặt từ map at 03/13/2023 1:15 AM
+BAG:neill add 5xĐá Titan (old: 4) lydo: Nhặt từ map at 03/13/2023 1:15 AM
+BAG:neill add 306xHoa hồng vàng (old: 305) lydo: Nhặt từ map at 03/13/2023 1:16 AM
+BAG:neill add 249xHoa hồng xanh (old: 248) lydo: Nhặt từ map at 03/13/2023 1:16 AM
+BAG:neill add 6xĐá Titan (old: 5) lydo: Nhặt từ map at 03/13/2023 1:16 AM
+BAG:neill add 250xHoa hồng xanh (old: 249) lydo: Nhặt từ map at 03/13/2023 1:16 AM
+BAG:neill add 256xHoa hồng đỏ (old: 255) lydo: Nhặt từ map at 03/13/2023 1:17 AM
+BAG:neill add 307xHoa hồng vàng (old: 306) lydo: Nhặt từ map at 03/13/2023 1:17 AM
+BAG:neill add 257xHoa hồng đỏ (old: 256) lydo: Nhặt từ map at 03/13/2023 1:17 AM
+BAG:neill add 251xHoa hồng xanh (old: 250) lydo: Nhặt từ map at 03/13/2023 1:17 AM
+BAG:neill add 258xHoa hồng đỏ (old: 257) lydo: Nhặt từ map at 03/13/2023 1:17 AM
+BAG:neill add 308xHoa hồng vàng (old: 307) lydo: Nhặt từ map at 03/13/2023 1:17 AM
+BAG:neill add 309xHoa hồng vàng (old: 308) lydo: Nhặt từ map at 03/13/2023 1:17 AM
+BAG:neill add 43xĐá thạch anh tím (old: 42) lydo: Nhặt từ map at 03/13/2023 1:18 AM
+BAG:neill add 259xHoa hồng đỏ (old: 258) lydo: Nhặt từ map at 03/13/2023 1:18 AM
+BAG:neill add 7xĐá Titan (old: 6) lydo: Nhặt từ map at 03/13/2023 1:18 AM
+BAG:neill add 252xHoa hồng xanh (old: 251) lydo: Nhặt từ map at 03/13/2023 1:18 AM
+BAG:neill add 253xHoa hồng xanh (old: 252) lydo: Nhặt từ map at 03/13/2023 1:18 AM
+BAG:neill add 254xHoa hồng xanh (old: 253) lydo: Nhặt từ map at 03/13/2023 1:19 AM
+BAG:neill add 260xHoa hồng đỏ (old: 259) lydo: Nhặt từ map at 03/13/2023 1:19 AM
+BAG:neill add 255xHoa hồng xanh (old: 254) lydo: Nhặt từ map at 03/13/2023 1:19 AM
+BAG:neill add 256xHoa hồng xanh (old: 255) lydo: Nhặt từ map at 03/13/2023 1:19 AM
+BAG:neill add 261xHoa hồng đỏ (old: 260) lydo: Nhặt từ map at 03/13/2023 1:19 AM
+BAG:neill add 262xHoa hồng đỏ (old: 261) lydo: Nhặt từ map at 03/13/2023 1:20 AM
+BAG:neill add 257xHoa hồng xanh (old: 256) lydo: Nhặt từ map at 03/13/2023 1:20 AM
+BAG:neill add 263xHoa hồng đỏ (old: 262) lydo: Nhặt từ map at 03/13/2023 1:20 AM
+BAG:neill add 310xHoa hồng vàng (old: 309) lydo: Nhặt từ map at 03/13/2023 1:20 AM
+BAG:neill add 311xHoa hồng vàng (old: 310) lydo: Nhặt từ map at 03/13/2023 1:20 AM
+BAG:neill add 8xĐá Titan (old: 7) lydo: Nhặt từ map at 03/13/2023 1:21 AM
+BAG:neill add 312xHoa hồng vàng (old: 311) lydo: Nhặt từ map at 03/13/2023 1:21 AM
+BAG:neill add 264xHoa hồng đỏ (old: 263) lydo: Nhặt từ map at 03/13/2023 1:21 AM
+BAG:neill add 258xHoa hồng xanh (old: 257) lydo: Nhặt từ map at 03/13/2023 1:21 AM
+BAG:neill add 313xHoa hồng vàng (old: 312) lydo: Nhặt từ map at 03/13/2023 1:21 AM
+BAG:neill add 265xHoa hồng đỏ (old: 264) lydo: Nhặt từ map at 03/13/2023 1:22 AM
+BAG:neill add 314xHoa hồng vàng (old: 313) lydo: Nhặt từ map at 03/13/2023 1:22 AM
+BAG:neill add 315xHoa hồng vàng (old: 314) lydo: Nhặt từ map at 03/13/2023 1:23 AM
+BAG:neill add 259xHoa hồng xanh (old: 258) lydo: Nhặt từ map at 03/13/2023 1:23 AM
+BAG:neill add 260xHoa hồng xanh (old: 259) lydo: Nhặt từ map at 03/13/2023 1:23 AM
+BAG:neill add 316xHoa hồng vàng (old: 315) lydo: Nhặt từ map at 03/13/2023 1:24 AM
+BAG:neill add 266xHoa hồng đỏ (old: 265) lydo: Nhặt từ map at 03/13/2023 1:24 AM
+BAG:neill add 267xHoa hồng đỏ (old: 266) lydo: Nhặt từ map at 03/13/2023 1:24 AM
+BAG:neill add 261xHoa hồng xanh (old: 260) lydo: Nhặt từ map at 03/13/2023 1:25 AM
+BAG:neill add 44xĐá thạch anh tím (old: 43) lydo: Nhặt từ map at 03/13/2023 1:25 AM
+BAG:neill add 268xHoa hồng đỏ (old: 267) lydo: Nhặt từ map at 03/13/2023 1:25 AM
+BAG:neill add 269xHoa hồng đỏ (old: 268) lydo: Nhặt từ map at 03/13/2023 1:25 AM
+BAG:neill add 317xHoa hồng vàng (old: 316) lydo: Nhặt từ map at 03/13/2023 1:26 AM
+BAG:neill add 270xHoa hồng đỏ (old: 269) lydo: Nhặt từ map at 03/13/2023 1:26 AM
+BAG:neill add 271xHoa hồng đỏ (old: 270) lydo: Nhặt từ map at 03/13/2023 1:27 AM
+BAG:neill add 262xHoa hồng xanh (old: 261) lydo: Nhặt từ map at 03/13/2023 1:27 AM
+BAG:neill add 272xHoa hồng đỏ (old: 271) lydo: Nhặt từ map at 03/13/2023 1:27 AM
+BAG:neill add 318xHoa hồng vàng (old: 317) lydo: Nhặt từ map at 03/13/2023 1:28 AM
+BAG:neill add 263xHoa hồng xanh (old: 262) lydo: Nhặt từ map at 03/13/2023 1:28 AM
+BAG:neill add 273xHoa hồng đỏ (old: 272) lydo: Nhặt từ map at 03/13/2023 1:28 AM
+BAG:neill add 9xĐá Titan (old: 8) lydo: Nhặt từ map at 03/13/2023 1:29 AM
+BAG:neill add 319xHoa hồng vàng (old: 318) lydo: Nhặt từ map at 03/13/2023 1:29 AM
+BAG:neill add 264xHoa hồng xanh (old: 263) lydo: Nhặt từ map at 03/13/2023 1:29 AM
+BAG:neill add 265xHoa hồng xanh (old: 264) lydo: Nhặt từ map at 03/13/2023 1:29 AM
+BAG:neill add 8xNgọc Rồng 6 sao (old: 7) lydo: Nhặt từ map at 03/13/2023 1:29 AM
+BAG:neill add 266xHoa hồng xanh (old: 265) lydo: Nhặt từ map at 03/13/2023 1:29 AM
+BAG:neill add 320xHoa hồng vàng (old: 319) lydo: Nhặt từ map at 03/13/2023 1:30 AM
+BAG:neill add 274xHoa hồng đỏ (old: 273) lydo: Nhặt từ map at 03/13/2023 1:30 AM
+BAG:neill add 321xHoa hồng vàng (old: 320) lydo: Nhặt từ map at 03/13/2023 1:30 AM
+BAG:neill add 267xHoa hồng xanh (old: 266) lydo: Nhặt từ map at 03/13/2023 1:30 AM
+BAG:neill add 268xHoa hồng xanh (old: 267) lydo: Nhặt từ map at 03/13/2023 1:31 AM
+BAG:neill add 322xHoa hồng vàng (old: 321) lydo: Nhặt từ map at 03/13/2023 1:31 AM
+BAG:neill add 323xHoa hồng vàng (old: 322) lydo: Nhặt từ map at 03/13/2023 1:31 AM
+BAG:neill add 269xHoa hồng xanh (old: 268) lydo: Nhặt từ map at 03/13/2023 1:31 AM
+BAG:neill add 270xHoa hồng xanh (old: 269) lydo: Nhặt từ map at 03/13/2023 1:31 AM
+BAG:neill add 324xHoa hồng vàng (old: 323) lydo: Nhặt từ map at 03/13/2023 1:31 AM
+BAG:neill add 275xHoa hồng đỏ (old: 274) lydo: Nhặt từ map at 03/13/2023 1:32 AM
+BAG:neill add 325xHoa hồng vàng (old: 324) lydo: Nhặt từ map at 03/13/2023 1:32 AM
+BAG:neill add 276xHoa hồng đỏ (old: 275) lydo: Nhặt từ map at 03/13/2023 1:32 AM
+BAG:neill add 326xHoa hồng vàng (old: 325) lydo: Nhặt từ map at 03/13/2023 1:32 AM
+BAG:neill add 327xHoa hồng vàng (old: 326) lydo: Nhặt từ map at 03/13/2023 1:33 AM
+BAG:neill add 277xHoa hồng đỏ (old: 276) lydo: Nhặt từ map at 03/13/2023 1:33 AM
+BAG:neill add 328xHoa hồng vàng (old: 327) lydo: Nhặt từ map at 03/13/2023 1:33 AM
+BAG:neill add 329xHoa hồng vàng (old: 328) lydo: Nhặt từ map at 03/13/2023 1:33 AM
+BAG:neill add 330xHoa hồng vàng (old: 329) lydo: Nhặt từ map at 03/13/2023 1:34 AM
+BAG:neill add 1xĐá Ruby lydo: Nhặt từ map at 03/13/2023 1:34 AM
+BAG:neill add 331xHoa hồng vàng (old: 330) lydo: Nhặt từ map at 03/13/2023 1:34 AM
+BAG:neill add 1xĐá Saphia lydo: Nhặt từ map at 03/13/2023 1:34 AM
+BAG:neill add 278xHoa hồng đỏ (old: 277) lydo: Nhặt từ map at 03/13/2023 1:34 AM
+BAG:neill add 271xHoa hồng xanh (old: 270) lydo: Nhặt từ map at 03/13/2023 1:35 AM
+BAG:neill add 272xHoa hồng xanh (old: 271) lydo: Nhặt từ map at 03/13/2023 1:36 AM
+BAG:neill add 273xHoa hồng xanh (old: 272) lydo: Nhặt từ map at 03/13/2023 1:36 AM
+BAG:neill add 332xHoa hồng vàng (old: 331) lydo: Nhặt từ map at 03/13/2023 1:36 AM
+BAG:neill add 333xHoa hồng vàng (old: 332) lydo: Nhặt từ map at 03/13/2023 1:36 AM
+BAG:neill add 334xHoa hồng vàng (old: 333) lydo: Nhặt từ map at 03/13/2023 1:37 AM
+BAG:neill add 279xHoa hồng đỏ (old: 278) lydo: Nhặt từ map at 03/13/2023 1:37 AM
+BAG:neill add 335xHoa hồng vàng (old: 334) lydo: Nhặt từ map at 03/13/2023 1:37 AM
+BAG:neill add 280xHoa hồng đỏ (old: 279) lydo: Nhặt từ map at 03/13/2023 1:38 AM
+BAG:neill add 281xHoa hồng đỏ (old: 280) lydo: Nhặt từ map at 03/13/2023 1:38 AM
+BAG:neill add 282xHoa hồng đỏ (old: 281) lydo: Nhặt từ map at 03/13/2023 1:38 AM
+BAG:neill add 274xHoa hồng xanh (old: 273) lydo: Nhặt từ map at 03/13/2023 1:39 AM
+BAG:neill add 283xHoa hồng đỏ (old: 282) lydo: Nhặt từ map at 03/13/2023 1:39 AM
+BAG:neill add 336xHoa hồng vàng (old: 335) lydo: Nhặt từ map at 03/13/2023 1:39 AM
+BAG:neill add 337xHoa hồng vàng (old: 336) lydo: Nhặt từ map at 03/13/2023 1:39 AM
+BAG:neill add 275xHoa hồng xanh (old: 274) lydo: Nhặt từ map at 03/13/2023 1:40 AM
+BAG:neill add 338xHoa hồng vàng (old: 337) lydo: Nhặt từ map at 03/13/2023 1:40 AM
+BAG:neill add 45xĐá thạch anh tím (old: 44) lydo: Nhặt từ map at 03/13/2023 1:41 AM
+BAG:neill add 339xHoa hồng vàng (old: 338) lydo: Nhặt từ map at 03/13/2023 1:41 AM
+BAG:neill add 276xHoa hồng xanh (old: 275) lydo: Nhặt từ map at 03/13/2023 1:41 AM
+BAG:neill add 46xĐá thạch anh tím (old: 45) lydo: Nhặt từ map at 03/13/2023 1:41 AM
+BAG:neill add 284xHoa hồng đỏ (old: 283) lydo: Nhặt từ map at 03/13/2023 1:42 AM
+BAG:neill add 285xHoa hồng đỏ (old: 284) lydo: Nhặt từ map at 03/13/2023 1:42 AM
+BAG:neill add 47xĐá thạch anh tím (old: 46) lydo: Nhặt từ map at 03/13/2023 1:42 AM
+BAG:neill add 340xHoa hồng vàng (old: 339) lydo: Nhặt từ map at 03/13/2023 1:43 AM
+BAG:neill add 341xHoa hồng vàng (old: 340) lydo: Nhặt từ map at 03/13/2023 1:43 AM
+BAG:neill add 277xHoa hồng xanh (old: 276) lydo: Nhặt từ map at 03/13/2023 1:43 AM
+BAG:neill add 342xHoa hồng vàng (old: 341) lydo: Nhặt từ map at 03/13/2023 1:43 AM
+BAG:neill add 278xHoa hồng xanh (old: 277) lydo: Nhặt từ map at 03/13/2023 1:44 AM
+BAG:neill add 48xĐá thạch anh tím (old: 47) lydo: Nhặt từ map at 03/13/2023 1:44 AM
+BAG:neill add 279xHoa hồng xanh (old: 278) lydo: Nhặt từ map at 03/13/2023 1:44 AM
+BAG:neill add 280xHoa hồng xanh (old: 279) lydo: Nhặt từ map at 03/13/2023 1:44 AM
+BAG:neill add 281xHoa hồng xanh (old: 280) lydo: Nhặt từ map at 03/13/2023 1:45 AM
+BAG:neill add 2xĐá Saphia (old: 1) lydo: Nhặt từ map at 03/13/2023 1:45 AM
+BAG:neill add 282xHoa hồng xanh (old: 281) lydo: Nhặt từ map at 03/13/2023 1:46 AM
+BAG:neill add 343xHoa hồng vàng (old: 342) lydo: Nhặt từ map at 03/13/2023 1:46 AM
+BAG:neill add 286xHoa hồng đỏ (old: 285) lydo: Nhặt từ map at 03/13/2023 1:47 AM
+BAG:neill add 287xHoa hồng đỏ (old: 286) lydo: Nhặt từ map at 03/13/2023 1:47 AM
+BAG:neill add 344xHoa hồng vàng (old: 343) lydo: Nhặt từ map at 03/13/2023 1:47 AM
+BAG:neill add 345xHoa hồng vàng (old: 344) lydo: Nhặt từ map at 03/13/2023 1:47 AM
+BAG:neill add 2xĐá Ruby (old: 1) lydo: Nhặt từ map at 03/13/2023 1:47 AM
+BAG:neill add 283xHoa hồng xanh (old: 282) lydo: Nhặt từ map at 03/13/2023 1:48 AM
+BAG:neill add 284xHoa hồng xanh (old: 283) lydo: Nhặt từ map at 03/13/2023 1:48 AM
+BAG:neill add 346xHoa hồng vàng (old: 345) lydo: Nhặt từ map at 03/13/2023 1:48 AM
+BAG:neill add 288xHoa hồng đỏ (old: 287) lydo: Nhặt từ map at 03/13/2023 1:49 AM
+BAG:neill add 347xHoa hồng vàng (old: 346) lydo: Nhặt từ map at 03/13/2023 1:49 AM
+BAG:neill add 289xHoa hồng đỏ (old: 288) lydo: Nhặt từ map at 03/13/2023 1:49 AM
+BAG:neill add 285xHoa hồng xanh (old: 284) lydo: Nhặt từ map at 03/13/2023 1:49 AM
+BAG:neill add 348xHoa hồng vàng (old: 347) lydo: Nhặt từ map at 03/13/2023 1:50 AM
+BAG:neill add 286xHoa hồng xanh (old: 285) lydo: Nhặt từ map at 03/13/2023 1:51 AM
+BAG:neill add 287xHoa hồng xanh (old: 286) lydo: Nhặt từ map at 03/13/2023 1:51 AM
+BAG:neill add 288xHoa hồng xanh (old: 287) lydo: Nhặt từ map at 03/13/2023 1:52 AM
+BAG:neill add 349xHoa hồng vàng (old: 348) lydo: Nhặt từ map at 03/13/2023 1:52 AM
+BAG:neill add 350xHoa hồng vàng (old: 349) lydo: Nhặt từ map at 03/13/2023 1:52 AM
+BAG:neill add 289xHoa hồng xanh (old: 288) lydo: Nhặt từ map at 03/13/2023 1:52 AM
+BAG:neill add 290xHoa hồng xanh (old: 289) lydo: Nhặt từ map at 03/13/2023 1:53 AM
+BAG:neill add 351xHoa hồng vàng (old: 350) lydo: Nhặt từ map at 03/13/2023 1:53 AM

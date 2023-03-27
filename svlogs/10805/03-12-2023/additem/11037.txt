@@ -1,0 +1,130 @@
+BAG:maquan add 48xHoa hồng xanh (old: 47) lydo: Nhặt từ map at 03/12/2023 8:56 PM
+BAG:maquan add 49xHoa hồng xanh (old: 48) lydo: Nhặt từ map at 03/12/2023 8:56 PM
+BAG:maquan add 2xĐá Ruby (old: 1) lydo: Nhặt từ map at 03/12/2023 8:56 PM
+BAG:maquan add 4xĐá lục bảo (old: 3) lydo: Nhặt từ map at 03/12/2023 8:57 PM
+BAG:maquan add 50xHoa hồng xanh (old: 49) lydo: Nhặt từ map at 03/12/2023 8:57 PM
+BAG:maquan add 51xHoa hồng xanh (old: 50) lydo: Nhặt từ map at 03/12/2023 8:57 PM
+BAG:maquan add 38xHoa hồng đỏ (old: 37) lydo: Nhặt từ map at 03/12/2023 8:57 PM
+BAG:maquan add 69xHoa hồng vàng (old: 68) lydo: Nhặt từ map at 03/12/2023 8:57 PM
+BAG:maquan add 39xHoa hồng đỏ (old: 38) lydo: Nhặt từ map at 03/12/2023 8:57 PM
+BAG:maquan add 40xHoa hồng đỏ (old: 39) lydo: Nhặt từ map at 03/12/2023 8:58 PM
+BAG:maquan add 70xHoa hồng vàng (old: 69) lydo: Nhặt từ map at 03/12/2023 8:58 PM
+BAG:maquan add 71xHoa hồng vàng (old: 70) lydo: Nhặt từ map at 03/12/2023 8:58 PM
+BAG:maquan add 72xHoa hồng vàng (old: 71) lydo: Nhặt từ map at 03/12/2023 8:58 PM
+BAG:maquan add 73xHoa hồng vàng (old: 72) lydo: Nhặt từ map at 03/12/2023 8:59 PM
+BAG:maquan add 41xHoa hồng đỏ (old: 40) lydo: Nhặt từ map at 03/12/2023 8:59 PM
+BAG:maquan add 52xHoa hồng xanh (old: 51) lydo: Nhặt từ map at 03/12/2023 8:59 PM
+BAG:maquan add 42xHoa hồng đỏ (old: 41) lydo: Nhặt từ map at 03/12/2023 8:59 PM
+BAG:maquan add 43xHoa hồng đỏ (old: 42) lydo: Nhặt từ map at 03/12/2023 8:59 PM
+BAG:maquan add 74xHoa hồng vàng (old: 73) lydo: Nhặt từ map at 03/12/2023 8:59 PM
+BAG:maquan add 5xĐá lục bảo (old: 4) lydo: Nhặt từ map at 03/12/2023 9:00 PM
+BAG:maquan add 44xHoa hồng đỏ (old: 43) lydo: Nhặt từ map at 03/12/2023 9:00 PM
+BAG:maquan add 45xHoa hồng đỏ (old: 44) lydo: Nhặt từ map at 03/12/2023 9:00 PM
+BAG:maquan add 3xĐá Ruby (old: 2) lydo: Nhặt từ map at 03/12/2023 9:00 PM
+BAG:maquan add 4xĐá Ruby (old: 3) lydo: Nhặt từ map at 03/12/2023 9:00 PM
+BAG:maquan add 17xĐá thạch anh tím (old: 16) lydo: Nhặt từ map at 03/12/2023 9:00 PM
+BAG:maquan add 75xHoa hồng vàng (old: 74) lydo: Nhặt từ map at 03/12/2023 9:01 PM
+BAG:maquan add 76xHoa hồng vàng (old: 75) lydo: Nhặt từ map at 03/12/2023 9:01 PM
+BAG:maquan add 77xHoa hồng vàng (old: 76) lydo: Nhặt từ map at 03/12/2023 9:01 PM
+BAG:maquan add 6xĐá lục bảo (old: 5) lydo: Nhặt từ map at 03/12/2023 9:01 PM
+BAG:maquan add 46xHoa hồng đỏ (old: 45) lydo: Nhặt từ map at 03/12/2023 9:01 PM
+BAG:maquan add 78xHoa hồng vàng (old: 77) lydo: Nhặt từ map at 03/12/2023 9:02 PM
+BAG:maquan add 3xĐá Titan (old: 2) lydo: Nhặt từ map at 03/12/2023 9:02 PM
+BAG:maquan add 4xĐá Titan (old: 3) lydo: Nhặt từ map at 03/12/2023 9:02 PM
+BAG:maquan add 47xHoa hồng đỏ (old: 46) lydo: Nhặt từ map at 03/12/2023 9:02 PM
+BAG:maquan add 48xHoa hồng đỏ (old: 47) lydo: Nhặt từ map at 03/12/2023 9:02 PM
+BAG:maquan add 49xHoa hồng đỏ (old: 48) lydo: Nhặt từ map at 03/12/2023 9:02 PM
+BAG:maquan add 79xHoa hồng vàng (old: 78) lydo: Nhặt từ map at 03/12/2023 9:02 PM
+BAG:maquan add 80xHoa hồng vàng (old: 79) lydo: Nhặt từ map at 03/12/2023 9:03 PM
+BAG:maquan add 5xĐá Titan (old: 4) lydo: Nhặt từ map at 03/12/2023 9:03 PM
+BAG:maquan add 53xHoa hồng xanh (old: 52) lydo: Nhặt từ map at 03/12/2023 9:03 PM
+BAG:maquan add 5xĐá Ruby (old: 4) lydo: Nhặt từ map at 03/12/2023 9:03 PM
+BAG:maquan add 81xHoa hồng vàng (old: 80) lydo: Nhặt từ map at 03/12/2023 9:03 PM
+BAG:maquan add 7xĐá lục bảo (old: 6) lydo: Nhặt từ map at 03/12/2023 9:03 PM
+BAG:maquan add 50xHoa hồng đỏ (old: 49) lydo: Nhặt từ map at 03/12/2023 9:03 PM
+BAG:maquan add 82xHoa hồng vàng (old: 81) lydo: Nhặt từ map at 03/12/2023 9:04 PM
+BAG:maquan add 83xHoa hồng vàng (old: 82) lydo: Nhặt từ map at 03/12/2023 9:04 PM
+BAG:maquan add 84xHoa hồng vàng (old: 83) lydo: Nhặt từ map at 03/12/2023 9:04 PM
+BAG:maquan add 51xHoa hồng đỏ (old: 50) lydo: Nhặt từ map at 03/12/2023 9:04 PM
+BAG:maquan add 52xHoa hồng đỏ (old: 51) lydo: Nhặt từ map at 03/12/2023 9:04 PM
+BAG:maquan add 54xHoa hồng xanh (old: 53) lydo: Nhặt từ map at 03/12/2023 9:05 PM
+BAG:maquan add 85xHoa hồng vàng (old: 84) lydo: Nhặt từ map at 03/12/2023 9:05 PM
+BAG:maquan add 53xHoa hồng đỏ (old: 52) lydo: Nhặt từ map at 03/12/2023 9:06 PM
+BAG:maquan add 54xHoa hồng đỏ (old: 53) lydo: Nhặt từ map at 03/12/2023 9:06 PM
+BAG:maquan add 86xHoa hồng vàng (old: 85) lydo: Nhặt từ map at 03/12/2023 9:06 PM
+BAG:maquan add 55xHoa hồng đỏ (old: 54) lydo: Nhặt từ map at 03/12/2023 9:06 PM
+BAG:maquan add 55xHoa hồng xanh (old: 54) lydo: Nhặt từ map at 03/12/2023 9:06 PM
+BAG:maquan add 87xHoa hồng vàng (old: 86) lydo: Nhặt từ map at 03/12/2023 9:07 PM
+BAG:maquan add 56xHoa hồng xanh (old: 55) lydo: Nhặt từ map at 03/12/2023 9:07 PM
+BAG:maquan add 56xHoa hồng đỏ (old: 55) lydo: Nhặt từ map at 03/12/2023 9:07 PM
+BAG:maquan add 18xĐá thạch anh tím (old: 17) lydo: Nhặt từ map at 03/12/2023 9:07 PM
+BAG:maquan add 57xHoa hồng đỏ (old: 56) lydo: Nhặt từ map at 03/12/2023 9:07 PM
+BAG:maquan add 57xHoa hồng xanh (old: 56) lydo: Nhặt từ map at 03/12/2023 9:08 PM
+BAG:maquan add 88xHoa hồng vàng (old: 87) lydo: Nhặt từ map at 03/12/2023 9:08 PM
+BAG:maquan add 89xHoa hồng vàng (old: 88) lydo: Nhặt từ map at 03/12/2023 9:08 PM
+BAG:maquan add 5xĐá Saphia (old: 4) lydo: Nhặt từ map at 03/12/2023 9:08 PM
+BAG:maquan add 90xHoa hồng vàng (old: 89) lydo: Nhặt từ map at 03/12/2023 9:08 PM
+BAG:maquan add 58xHoa hồng đỏ (old: 57) lydo: Nhặt từ map at 03/12/2023 9:08 PM
+BAG:maquan add 8xĐá lục bảo (old: 7) lydo: Nhặt từ map at 03/12/2023 9:09 PM
+BAG:maquan add 58xHoa hồng xanh (old: 57) lydo: Nhặt từ map at 03/12/2023 9:09 PM
+BAG:maquan add 59xHoa hồng đỏ (old: 58) lydo: Nhặt từ map at 03/12/2023 9:09 PM
+BAG:maquan add 9xĐá lục bảo (old: 8) lydo: Nhặt từ map at 03/12/2023 9:09 PM
+BAG:maquan add 59xHoa hồng xanh (old: 58) lydo: Nhặt từ map at 03/12/2023 9:10 PM
+BAG:maquan add 60xHoa hồng đỏ (old: 59) lydo: Nhặt từ map at 03/12/2023 9:10 PM
+BAG:maquan add 91xHoa hồng vàng (old: 90) lydo: Nhặt từ map at 03/12/2023 9:10 PM
+BAG:maquan add 92xHoa hồng vàng (old: 91) lydo: Nhặt từ map at 03/12/2023 9:10 PM
+BAG:maquan add 60xHoa hồng xanh (old: 59) lydo: Nhặt từ map at 03/12/2023 9:10 PM
+BAG:maquan add 61xHoa hồng đỏ (old: 60) lydo: Nhặt từ map at 03/12/2023 9:11 PM
+BAG:maquan add 62xHoa hồng đỏ (old: 61) lydo: Nhặt từ map at 03/12/2023 9:11 PM
+BAG:maquan add 63xHoa hồng đỏ (old: 62) lydo: Nhặt từ map at 03/12/2023 9:11 PM
+BAG:maquan add 19xĐá thạch anh tím (old: 18) lydo: Nhặt từ map at 03/12/2023 9:11 PM
+BAG:maquan add 61xHoa hồng xanh (old: 60) lydo: Nhặt từ map at 03/12/2023 9:11 PM
+BAG:maquan add 64xHoa hồng đỏ (old: 63) lydo: Nhặt từ map at 03/12/2023 9:11 PM
+BAG:maquan add 93xHoa hồng vàng (old: 92) lydo: Nhặt từ map at 03/12/2023 9:11 PM
+BAG:maquan add 62xHoa hồng xanh (old: 61) lydo: Nhặt từ map at 03/12/2023 9:12 PM
+BAG:maquan add 63xHoa hồng xanh (old: 62) lydo: Nhặt từ map at 03/12/2023 9:12 PM
+BAG:maquan add 94xHoa hồng vàng (old: 93) lydo: Nhặt từ map at 03/12/2023 9:12 PM
+BAG:maquan add 6xĐá Ruby (old: 5) lydo: Nhặt từ map at 03/12/2023 9:12 PM
+BAG:maquan add 20xĐá thạch anh tím (old: 19) lydo: Nhặt từ map at 03/12/2023 9:12 PM
+BAG:maquan add 95xHoa hồng vàng (old: 94) lydo: Nhặt từ map at 03/12/2023 9:12 PM
+BAG:maquan add 1xGiáp tập luyện cấp 3 lydo: Mua từ cửa hàng at 03/12/2023 9:12 PM
+BAG:maquan add 64xHoa hồng xanh (old: 63) lydo: Nhặt từ map at 03/12/2023 9:12 PM
+BAG:maquan add 96xHoa hồng vàng (old: 95) lydo: Nhặt từ map at 03/12/2023 9:13 PM
+BAG:maquan add 97xHoa hồng vàng (old: 96) lydo: Nhặt từ map at 03/12/2023 9:13 PM
+BAG:maquan add 65xHoa hồng đỏ (old: 64) lydo: Nhặt từ map at 03/12/2023 9:13 PM
+BAG:maquan add 65xHoa hồng xanh (old: 64) lydo: Nhặt từ map at 03/12/2023 9:13 PM
+BAG:maquan add 66xHoa hồng xanh (old: 65) lydo: Nhặt từ map at 03/12/2023 9:14 PM
+BAG:maquan add 67xHoa hồng xanh (old: 66) lydo: Nhặt từ map at 03/12/2023 9:14 PM
+BAG:maquan add 21xĐá thạch anh tím (old: 20) lydo: Nhặt từ map at 03/12/2023 9:14 PM
+BAG:maquan add 10xĐá lục bảo (old: 9) lydo: Nhặt từ map at 03/12/2023 9:14 PM
+BAG:maquan add 98xHoa hồng vàng (old: 97) lydo: Nhặt từ map at 03/12/2023 9:14 PM
+BAG:maquan add 99xHoa hồng vàng (old: 98) lydo: Nhặt từ map at 03/12/2023 9:14 PM
+BAG:maquan add 6xĐá Saphia (old: 5) lydo: Nhặt từ map at 03/12/2023 9:14 PM
+BAG:maquan add 11xĐá lục bảo (old: 10) lydo: Nhặt từ map at 03/12/2023 9:14 PM
+BAG:maquan add 68xHoa hồng xanh (old: 67) lydo: Nhặt từ map at 03/12/2023 9:14 PM
+BAG:maquan add 6xĐá Titan (old: 5) lydo: Nhặt từ map at 03/12/2023 9:15 PM
+BAG:maquan add 100xHoa hồng vàng (old: 99) lydo: Nhặt từ map at 03/12/2023 9:15 PM
+BAG:maquan add 69xHoa hồng xanh (old: 68) lydo: Nhặt từ map at 03/12/2023 9:15 PM
+BAG:maquan add 12xĐá lục bảo (old: 11) lydo: Nhặt từ map at 03/12/2023 9:15 PM
+BAG:maquan add 101xHoa hồng vàng (old: 100) lydo: Nhặt từ map at 03/12/2023 9:15 PM
+BAG:maquan add 7xĐá Saphia (old: 6) lydo: Nhặt từ map at 03/12/2023 9:15 PM
+BAG:maquan add 70xHoa hồng xanh (old: 69) lydo: Nhặt từ map at 03/12/2023 9:16 PM
+BAG:maquan add 66xHoa hồng đỏ (old: 65) lydo: Nhặt từ map at 03/12/2023 9:16 PM
+BAG:maquan add 102xHoa hồng vàng (old: 101) lydo: Nhặt từ map at 03/12/2023 9:16 PM
+BAG:maquan add 67xHoa hồng đỏ (old: 66) lydo: Nhặt từ map at 03/12/2023 9:16 PM
+BAG:maquan add 71xHoa hồng xanh (old: 70) lydo: Nhặt từ map at 03/12/2023 9:16 PM
+BAG:maquan add 13xĐá lục bảo (old: 12) lydo: Nhặt từ map at 03/12/2023 9:16 PM
+BAG:maquan add 72xHoa hồng xanh (old: 71) lydo: Nhặt từ map at 03/12/2023 9:17 PM
+BAG:maquan add 73xHoa hồng xanh (old: 72) lydo: Nhặt từ map at 03/12/2023 9:17 PM
+BAG:maquan add 68xHoa hồng đỏ (old: 67) lydo: Nhặt từ map at 03/12/2023 9:18 PM
+BAG:maquan add 103xHoa hồng vàng (old: 102) lydo: Nhặt từ map at 03/12/2023 9:18 PM
+BAG:maquan add 104xHoa hồng vàng (old: 103) lydo: Nhặt từ map at 03/12/2023 9:18 PM
+BAG:maquan add 69xHoa hồng đỏ (old: 68) lydo: Nhặt từ map at 03/12/2023 9:18 PM
+BAG:maquan add 105xHoa hồng vàng (old: 104) lydo: Nhặt từ map at 03/12/2023 9:19 PM
+BAG:maquan add 74xHoa hồng xanh (old: 73) lydo: Nhặt từ map at 03/12/2023 9:19 PM
+BAG:maquan add 75xHoa hồng xanh (old: 74) lydo: Nhặt từ map at 03/12/2023 9:19 PM
+BAG:maquan add 106xHoa hồng vàng (old: 105) lydo: Nhặt từ map at 03/12/2023 9:19 PM
+BAG:maquan add 70xHoa hồng đỏ (old: 69) lydo: Nhặt từ map at 03/12/2023 9:20 PM
+BAG:maquan add 7xĐá Ruby (old: 6) lydo: Nhặt từ map at 03/12/2023 9:20 PM
+BAG:maquan add 71xHoa hồng đỏ (old: 70) lydo: Nhặt từ map at 03/12/2023 9:20 PM
+BAG:maquan add 76xHoa hồng xanh (old: 75) lydo: Nhặt từ map at 03/12/2023 9:21 PM

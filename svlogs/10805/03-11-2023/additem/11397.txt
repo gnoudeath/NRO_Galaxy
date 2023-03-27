@@ -1,0 +1,134 @@
+BAG:namheooo add 1xRada cấp 1 lydo: Lấy từ rương qua người at 03/11/2023 1:23 PM
+BAG:namheooo add 150xThỏi vàng lydo: Giftcode at 03/11/2023 1:28 PM
+BAG:namheooo add 99xNgọc Rồng 3 sao lydo: Giftcode at 03/11/2023 1:28 PM
+BAG:namheooo add 5xĐậu thần cấp 1 lydo: Thu hoạch đậu at 03/11/2023 1:31 PM
+BAG:namheooo add 10xĐậu thần cấp 1 (old: 5) lydo: Thu hoạch đậu at 03/11/2023 1:31 PM
+BAG:namheooo add 10xĐậu thần cấp 1 (old: 5) lydo: Thu hoạch đậu at 03/11/2023 1:34 PM
+BAG:namheooo add 1xHoa hồng vàng lydo: Nhặt từ map at 03/11/2023 1:37 PM
+BAG:namheooo add 1xĐá thạch anh tím lydo: Nhặt từ map at 03/11/2023 1:37 PM
+BAG:namheooo add 1xÁo sợi len lydo: Nhặt từ map at 03/11/2023 1:38 PM
+BAG:namheooo add 1xHoa hồng đỏ lydo: Nhặt từ map at 03/11/2023 1:38 PM
+BAG:namheooo add 1xHoa hồng xanh lydo: Nhặt từ map at 03/11/2023 1:38 PM
+BAG:namheooo add 2xHoa hồng vàng (old: 1) lydo: Nhặt từ map at 03/11/2023 1:39 PM
+BAG:namheooo add 3xĐậu thần cấp 10 lydo: Thu hoạch đậu at 03/11/2023 1:41 PM
+BAG:namheooo add 23xĐậu thần cấp 10 (old: 3) lydo: Lấy từ rương qua người at 03/11/2023 1:41 PM
+BAG:namheooo add 43xĐậu thần cấp 10 (old: 23) lydo: Lấy từ rương qua người at 03/11/2023 1:41 PM
+BAG:namheooo add 63xĐậu thần cấp 10 (old: 43) lydo: Lấy từ rương qua người at 03/11/2023 1:41 PM
+BAG:namheooo add 3xHoa hồng vàng (old: 2) lydo: Nhặt từ map at 03/11/2023 1:42 PM
+BAG:namheooo add 1xĐá Ruby lydo: Nhặt từ map at 03/11/2023 1:43 PM
+BAG:namheooo add 4xHoa hồng vàng (old: 3) lydo: Nhặt từ map at 03/11/2023 1:43 PM
+BAG:namheooo add 1xĐá lục bảo lydo: Nhặt từ map at 03/11/2023 1:47 PM
+BAG:namheooo add 5xHoa hồng vàng (old: 4) lydo: Nhặt từ map at 03/11/2023 1:51 PM
+BAG:namheooo add 2xHoa hồng đỏ (old: 1) lydo: Nhặt từ map at 03/11/2023 1:52 PM
+BAG:namheooo add 2xHoa hồng xanh (old: 1) lydo: Nhặt từ map at 03/11/2023 1:52 PM
+BAG:namheooo add 3xHoa hồng xanh (old: 2) lydo: Nhặt từ map at 03/11/2023 1:52 PM
+BAG:namheooo add 6xHoa hồng vàng (old: 5) lydo: Nhặt từ map at 03/11/2023 1:53 PM
+BAG:namheooo add 7xHoa hồng vàng (old: 6) lydo: Nhặt từ map at 03/11/2023 1:53 PM
+BAG:namheooo add 8xHoa hồng vàng (old: 7) lydo: Nhặt từ map at 03/11/2023 1:54 PM
+BAG:namheooo add 1xBông tai Porata lydo: Mua từ cửa hàng at 03/11/2023 1:56 PM
+BAG:namheooo add 1xPhi Long VIP lydo: Mua từ cửa hàng at 03/11/2023 1:56 PM
+BAG:namheooo add 1xSách đấm Demon lv2 lydo: Mua từ cửa hàng at 03/11/2023 1:56 PM
+BAG:namheooo add 1xSách đấm Demon lv3 lydo: Mua từ cửa hàng at 03/11/2023 1:56 PM
+BAG:namheooo add 1xSách đấm Demon lv4 lydo: Mua từ cửa hàng at 03/11/2023 1:56 PM
+BAG:namheooo add 1xSách đấm Demon lv5 lydo: Mua từ cửa hàng at 03/11/2023 1:56 PM
+BAG:namheooo add 1xSách đấm Demon lv6 lydo: Mua từ cửa hàng at 03/11/2023 1:56 PM
+BAG:namheooo add 1xSách đấm Demon lv7 lydo: Mua từ cửa hàng at 03/11/2023 1:56 PM
+BAG:namheooo add 40xĐậu thần cấp 10 (old: 20) lydo: Lấy từ rương qua người at 03/11/2023 1:57 PM
+BAG:namheooo add 60xĐậu thần cấp 10 (old: 40) lydo: Lấy từ rương qua người at 03/11/2023 1:57 PM
+BAG:namheooo add 80xĐậu thần cấp 10 (old: 60) lydo: Lấy từ rương qua người at 03/11/2023 1:58 PM
+BAG:namheooo add 1xĐậu thần cấp 10 lydo: Lấy từ rương qua người at 03/11/2023 1:58 PM
+BAG:namheooo add 99xĐậu thần cấp 10 (old: 80) lydo: Lấy từ rương qua người at 03/11/2023 1:58 PM
+BAG:namheooo add 3xHoa hồng đỏ (old: 2) lydo: Nhặt từ map at 03/11/2023 1:59 PM
+BAG:namheooo add 2xĐá lục bảo (old: 1) lydo: Nhặt từ map at 03/11/2023 1:59 PM
+BAG:namheooo add 9xHoa hồng vàng (old: 8) lydo: Nhặt từ map at 03/11/2023 2:00 PM
+BAG:namheooo add 10xHoa hồng vàng (old: 9) lydo: Nhặt từ map at 03/11/2023 2:00 PM
+BAG:namheooo add 1xÁo choàng thun lydo: Mua từ cửa hàng at 03/11/2023 2:02 PM
+BAG:namheooo add 1xQuần thun cứng lydo: Mua từ cửa hàng at 03/11/2023 2:02 PM
+BAG:namheooo add 1xGăng len cứng lydo: Mua từ cửa hàng at 03/11/2023 2:02 PM
+BAG:namheooo add 1xGiày da Pico lydo: Mua từ cửa hàng at 03/11/2023 2:02 PM
+BAG:namheooo add 1xRada cấp 6 lydo: Mua từ cửa hàng at 03/11/2023 2:02 PM
+BAG:namheooo add 1xViên Capsule đặc biệt lydo: Mua từ cửa hàng at 03/11/2023 2:02 PM
+BAG:namheooo add 1xCải trang Chill lydo: Mua từ cửa hàng at 03/11/2023 2:04 PM
+BAG:namheooo add 1xTự động luyện tập lydo: Mua TDTL từ cửa hàng at 03/11/2023 2:04 PM
+BAG:namheooo add 4xHoa hồng đỏ (old: 3) lydo: Nhặt từ map at 03/11/2023 2:06 PM
+BAG:namheooo add 11xHoa hồng vàng (old: 10) lydo: Nhặt từ map at 03/11/2023 2:06 PM
+BAG:namheooo add 12xHoa hồng vàng (old: 11) lydo: Nhặt từ map at 03/11/2023 2:06 PM
+BAG:namheooo add 1xCải Trang Thần Zeno Xayda lydo: Mua từ bill at 03/11/2023 2:12 PM
+BAG:namheooo add 1xCải trang Chill lydo: Mua từ cửa hàng at 03/11/2023 2:13 PM
+BAG:namheooo add 1xSách học Trị thương lv1 lydo: Mua từ cửa hàng at 03/11/2023 2:14 PM
+BAG:namheooo add 1xSách học Trị thương lv2 lydo: Mua từ cửa hàng at 03/11/2023 2:14 PM
+BAG:namheooo add 1xSách học Trị thương lv3 lydo: Mua từ cửa hàng at 03/11/2023 2:14 PM
+BAG:namheooo add 1xSách học Trị thương lv4 lydo: Mua từ cửa hàng at 03/11/2023 2:14 PM
+BAG:namheooo add 1xSách học Trị thương lv5 lydo: Mua từ cửa hàng at 03/11/2023 2:14 PM
+BAG:namheooo add 1xSách học Trị thương lv6 lydo: Mua từ cửa hàng at 03/11/2023 2:14 PM
+BAG:namheooo add 5xHoa hồng đỏ (old: 4) lydo: Nhặt từ map at 03/11/2023 2:15 PM
+BAG:namheooo add 4xHoa hồng xanh (old: 3) lydo: Nhặt từ map at 03/11/2023 2:16 PM
+BAG:namheooo add 6xHoa hồng đỏ (old: 5) lydo: Nhặt từ map at 03/11/2023 2:16 PM
+BAG:namheooo add 1xCải trang Mabư Noel lydo: Mua từ cửa hàng at 03/11/2023 2:17 PM
+BAG:namheooo add 1xCải Trang Thần Zeno Xayda lydo: Lấy từ body vào hành trang at 03/11/2023 2:17 PM
+BAG:namheooo add 13xHoa hồng vàng (old: 12) lydo: Nhặt từ map at 03/11/2023 2:20 PM
+BAG:namheooo add 5xHoa hồng xanh (old: 4) lydo: Nhặt từ map at 03/11/2023 2:22 PM
+BAG:namheooo add 1xÁo choàng len lydo: Mua từ cửa hàng at 03/11/2023 2:22 PM
+BAG:namheooo add 1xQuần thun cứng lydo: Mua từ cửa hàng at 03/11/2023 2:22 PM
+BAG:namheooo add 1xQuần len cứng lydo: Mua từ cửa hàng at 03/11/2023 2:22 PM
+BAG:namheooo add 1xGăng len cứng lydo: Mua từ cửa hàng at 03/11/2023 2:22 PM
+BAG:namheooo add 1xGăng thun Pico lydo: Mua từ cửa hàng at 03/11/2023 2:22 PM
+BAG:namheooo add 1xGiày cao su cứng lydo: Mua từ cửa hàng at 03/11/2023 2:23 PM
+BAG:namheooo add 1xRada cấp 5 lydo: Mua từ cửa hàng at 03/11/2023 2:23 PM
+BAG:namheooo add 14xHoa hồng vàng (old: 13) lydo: Nhặt từ map at 03/11/2023 2:24 PM
+BAG:namheooo add 1xÁo choàng len lydo: Lấy từ body đệ vào hành trang at 03/11/2023 2:25 PM
+BAG:namheooo add 1xQuần thun cứng lydo: Lấy từ body đệ vào hành trang at 03/11/2023 2:25 PM
+BAG:namheooo add 1xGăng thun Pico lydo: Lấy từ body đệ vào hành trang at 03/11/2023 2:25 PM
+BAG:namheooo add 1xĐá Saphia lydo: Nhặt từ map at 03/11/2023 2:25 PM
+BAG:namheooo add 1xGiày cao su cứng lydo: Lấy từ body đệ vào hành trang at 03/11/2023 2:25 PM
+BAG:namheooo add 1xRada cấp 5 lydo: Lấy từ body đệ vào hành trang at 03/11/2023 2:25 PM
+BAG:namheooo add 1xCải Trang Thần Zeno Xayda lydo: Lấy từ body đệ vào hành trang at 03/11/2023 2:25 PM
+BAG:namheooo add 1xĐổi đệ tử lydo: Mua từ cửa hàng at 03/11/2023 2:25 PM
+BAG:namheooo add 1xĐổi đệ tử lydo: Mua từ cửa hàng at 03/11/2023 2:27 PM
+BAG:namheooo add 2xĐổi đệ tử (old: 1) lydo: Mua từ cửa hàng at 03/11/2023 2:27 PM
+BAG:namheooo add 3xĐổi đệ tử (old: 2) lydo: Mua từ cửa hàng at 03/11/2023 2:27 PM
+BAG:namheooo add 4xĐổi đệ tử (old: 3) lydo: Mua từ cửa hàng at 03/11/2023 2:27 PM
+BAG:namheooo add 5xĐổi đệ tử (old: 4) lydo: Mua từ cửa hàng at 03/11/2023 2:27 PM
+BAG:namheooo add 6xĐổi đệ tử (old: 5) lydo: Mua từ cửa hàng at 03/11/2023 2:27 PM
+BAG:namheooo add 7xĐổi đệ tử (old: 6) lydo: Mua từ cửa hàng at 03/11/2023 2:27 PM
+BAG:namheooo add 8xĐổi đệ tử (old: 7) lydo: Mua từ cửa hàng at 03/11/2023 2:27 PM
+BAG:namheooo add 9xĐổi đệ tử (old: 8) lydo: Mua từ cửa hàng at 03/11/2023 2:27 PM
+BAG:namheooo add 10xĐổi đệ tử (old: 9) lydo: Mua từ cửa hàng at 03/11/2023 2:27 PM
+BAG:namheooo add 11xĐổi đệ tử (old: 10) lydo: Mua từ cửa hàng at 03/11/2023 2:27 PM
+BAG:namheooo add 12xĐổi đệ tử (old: 11) lydo: Mua từ cửa hàng at 03/11/2023 2:27 PM
+BAG:namheooo add 13xĐổi đệ tử (old: 12) lydo: Mua từ cửa hàng at 03/11/2023 2:27 PM
+BAG:namheooo add 14xĐổi đệ tử (old: 13) lydo: Mua từ cửa hàng at 03/11/2023 2:27 PM
+BAG:namheooo add 15xĐổi đệ tử (old: 14) lydo: Mua từ cửa hàng at 03/11/2023 2:27 PM
+BAG:namheooo add 16xĐổi đệ tử (old: 15) lydo: Mua từ cửa hàng at 03/11/2023 2:27 PM
+BAG:namheooo add 17xĐổi đệ tử (old: 16) lydo: Mua từ cửa hàng at 03/11/2023 2:27 PM
+BAG:namheooo add 18xĐổi đệ tử (old: 17) lydo: Mua từ cửa hàng at 03/11/2023 2:27 PM
+BAG:namheooo add 19xĐổi đệ tử (old: 18) lydo: Mua từ cửa hàng at 03/11/2023 2:27 PM
+BAG:namheooo add 20xĐổi đệ tử (old: 19) lydo: Mua từ cửa hàng at 03/11/2023 2:27 PM
+BAG:namheooo add 21xĐổi đệ tử (old: 20) lydo: Mua từ cửa hàng at 03/11/2023 2:27 PM
+BAG:namheooo add 1xĐổi đệ tử lydo: Mua từ cửa hàng at 03/11/2023 2:29 PM
+BAG:namheooo add 2xĐổi đệ tử (old: 1) lydo: Mua từ cửa hàng at 03/11/2023 2:29 PM
+BAG:namheooo add 3xĐổi đệ tử (old: 2) lydo: Mua từ cửa hàng at 03/11/2023 2:29 PM
+BAG:namheooo add 4xĐổi đệ tử (old: 3) lydo: Mua từ cửa hàng at 03/11/2023 2:29 PM
+BAG:namheooo add 5xĐổi đệ tử (old: 4) lydo: Mua từ cửa hàng at 03/11/2023 2:29 PM
+BAG:namheooo add 6xĐổi đệ tử (old: 5) lydo: Mua từ cửa hàng at 03/11/2023 2:29 PM
+BAG:namheooo add 7xĐổi đệ tử (old: 6) lydo: Mua từ cửa hàng at 03/11/2023 2:29 PM
+BAG:namheooo add 8xĐổi đệ tử (old: 7) lydo: Mua từ cửa hàng at 03/11/2023 2:29 PM
+BAG:namheooo add 9xĐổi đệ tử (old: 8) lydo: Mua từ cửa hàng at 03/11/2023 2:29 PM
+BAG:namheooo add 10xĐổi đệ tử (old: 9) lydo: Mua từ cửa hàng at 03/11/2023 2:29 PM
+BAG:namheooo add 11xĐổi đệ tử (old: 10) lydo: Mua từ cửa hàng at 03/11/2023 2:29 PM
+BAG:namheooo add 12xĐổi đệ tử (old: 11) lydo: Mua từ cửa hàng at 03/11/2023 2:29 PM
+BAG:namheooo add 13xĐổi đệ tử (old: 12) lydo: Mua từ cửa hàng at 03/11/2023 2:29 PM
+BAG:namheooo add 14xĐổi đệ tử (old: 13) lydo: Mua từ cửa hàng at 03/11/2023 2:29 PM
+BAG:namheooo add 15xĐổi đệ tử (old: 14) lydo: Mua từ cửa hàng at 03/11/2023 2:30 PM
+BAG:namheooo add 16xĐổi đệ tử (old: 15) lydo: Mua từ cửa hàng at 03/11/2023 2:30 PM
+BAG:namheooo add 17xĐổi đệ tử (old: 16) lydo: Mua từ cửa hàng at 03/11/2023 2:30 PM
+BAG:namheooo add 18xĐổi đệ tử (old: 17) lydo: Mua từ cửa hàng at 03/11/2023 2:30 PM
+BAG:namheooo add 19xĐổi đệ tử (old: 18) lydo: Mua từ cửa hàng at 03/11/2023 2:30 PM
+BAG:namheooo add 20xĐổi đệ tử (old: 19) lydo: Mua từ cửa hàng at 03/11/2023 2:30 PM
+BAG:namheooo add 21xĐổi đệ tử (old: 20) lydo: Mua từ cửa hàng at 03/11/2023 2:30 PM
+BAG:namheooo add 22xĐổi đệ tử (old: 21) lydo: Mua từ cửa hàng at 03/11/2023 2:30 PM
+BAG:namheooo add 23xĐổi đệ tử (old: 22) lydo: Mua từ cửa hàng at 03/11/2023 2:30 PM
+BAG:namheooo add 24xĐổi đệ tử (old: 23) lydo: Mua từ cửa hàng at 03/11/2023 2:30 PM
+BAG:namheooo add 25xĐổi đệ tử (old: 24) lydo: Mua từ cửa hàng at 03/11/2023 2:30 PM
+BAG:namheooo add 26xĐổi đệ tử (old: 25) lydo: Mua từ cửa hàng at 03/11/2023 2:30 PM
+BAG:namheooo add 27xĐổi đệ tử (old: 26) lydo: Mua từ cửa hàng at 03/11/2023 2:30 PM

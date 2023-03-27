@@ -1,0 +1,337 @@
+BAG:trampp add 25xĐá Saphia (old: 24) lydo: Nhặt từ map at 03/11/2023 11:31 AM
+BAG:trampp add 192xHoa hồng vàng (old: 191) lydo: Nhặt từ map at 03/11/2023 11:31 AM
+BAG:trampp add 167xHoa hồng đỏ (old: 166) lydo: Nhặt từ map at 03/11/2023 12:15 PM
+BAG:trampp add 168xHoa hồng đỏ (old: 167) lydo: Nhặt từ map at 03/11/2023 12:16 PM
+BAG:trampp add 1xQuỷ Chim lydo: Mua từ cửa hàng at 03/11/2023 12:16 PM
+BAG:trampp add 1xHóa khỉ khổng lồ lv1 lydo: Mua từ cửa hàng at 03/11/2023 12:17 PM
+BAG:trampp add 1xBom hi sinh lv1 lydo: Mua từ cửa hàng at 03/11/2023 12:17 PM
+BAG:trampp add 1xBom hi sinh lv2 lydo: Mua từ cửa hàng at 03/11/2023 12:17 PM
+BAG:trampp add 1xBom hi sinh lv3 lydo: Mua từ cửa hàng at 03/11/2023 12:17 PM
+BAG:trampp add 1xBom hi sinh lv4 lydo: Mua từ cửa hàng at 03/11/2023 12:17 PM
+BAG:trampp add 1xBom hi sinh lv5 lydo: Mua từ cửa hàng at 03/11/2023 12:17 PM
+BAG:trampp add 1xBom hi sinh lv6 lydo: Mua từ cửa hàng at 03/11/2023 12:17 PM
+BAG:trampp add 1xBom hi sinh lv7 lydo: Mua từ cửa hàng at 03/11/2023 12:17 PM
+BAG:trampp add 1xHóa khỉ khổng lồ lv2 lydo: Mua từ cửa hàng at 03/11/2023 12:18 PM
+BAG:trampp add 150xThỏi vàng lydo: Lấy từ rương qua người at 03/11/2023 12:21 PM
+BAG:trampp add 99xViên Capsule kì bí lydo: Mua từ bill at 03/11/2023 12:21 PM
+BAG:trampp add 1xMảnh Quỷ đất lydo: Lấy từ rương qua người at 03/11/2023 12:22 PM
+BAG:trampp add 1xRada cấp 1 lydo: Lấy từ rương qua người at 03/11/2023 12:22 PM
+BAG:trampp add 1xGiầy vải thô lydo: Lấy từ rương qua người at 03/11/2023 12:22 PM
+BAG:trampp add 1xQuần vải thô lydo: Lấy từ rương qua người at 03/11/2023 12:23 PM
+BAG:trampp add 1xQuần vải thô lydo: Lấy từ rương qua người at 03/11/2023 12:23 PM
+BAG:trampp add 1xGiầy vải thô lydo: Lấy từ rương qua người at 03/11/2023 12:24 PM
+BAG:trampp add 1xQuần vải thô lydo: Lấy từ rương qua người at 03/11/2023 12:24 PM
+BAG:trampp add 1xÁo vải thô lydo: Lấy từ rương qua người at 03/11/2023 12:24 PM
+BAG:trampp add 1xGăng vải thô lydo: Lấy từ rương qua người at 03/11/2023 12:24 PM
+BAG:trampp add 1xGiầy vải thô lydo: Lấy từ body đệ vào hành trang at 03/11/2023 12:25 PM
+BAG:trampp add 193xHoa hồng vàng (old: 192) lydo: Nhặt từ map at 03/11/2023 12:27 PM
+BAG:trampp add 31xĐá Ruby (old: 30) lydo: Nhặt từ map at 03/11/2023 12:27 PM
+BAG:trampp add 194xHoa hồng vàng (old: 193) lydo: Nhặt từ map at 03/11/2023 12:27 PM
+BAG:trampp add 169xHoa hồng đỏ (old: 168) lydo: Nhặt từ map at 03/11/2023 12:27 PM
+BAG:trampp add 159xHoa hồng xanh (old: 158) lydo: Nhặt từ map at 03/11/2023 12:27 PM
+BAG:trampp add 195xHoa hồng vàng (old: 194) lydo: Nhặt từ map at 03/11/2023 12:39 PM
+BAG:trampp add 196xHoa hồng vàng (old: 195) lydo: Nhặt từ map at 03/11/2023 12:39 PM
+BAG:trampp add 26xĐá Saphia (old: 25) lydo: Nhặt từ map at 03/11/2023 12:39 PM
+BAG:trampp add 170xHoa hồng đỏ (old: 169) lydo: Nhặt từ map at 03/11/2023 12:39 PM
+BAG:trampp add 160xHoa hồng xanh (old: 159) lydo: Nhặt từ map at 03/11/2023 12:40 PM
+BAG:trampp add 27xĐá Saphia (old: 26) lydo: Nhặt từ map at 03/11/2023 12:40 PM
+BAG:trampp add 161xHoa hồng xanh (old: 160) lydo: Nhặt từ map at 03/11/2023 12:40 PM
+BAG:trampp add 28xĐá Saphia (old: 27) lydo: Nhặt từ map at 03/11/2023 12:40 PM
+BAG:trampp add 171xHoa hồng đỏ (old: 170) lydo: Nhặt từ map at 03/11/2023 12:40 PM
+BAG:trampp add 162xHoa hồng xanh (old: 161) lydo: Nhặt từ map at 03/11/2023 12:41 PM
+BAG:trampp add 29xĐá Saphia (old: 28) lydo: Nhặt từ map at 03/11/2023 12:41 PM
+BAG:trampp add 163xHoa hồng xanh (old: 162) lydo: Nhặt từ map at 03/11/2023 12:41 PM
+BAG:trampp add 164xHoa hồng xanh (old: 163) lydo: Nhặt từ map at 03/11/2023 12:43 PM
+BAG:trampp add 30xĐá Saphia (old: 29) lydo: Nhặt từ map at 03/11/2023 12:43 PM
+BAG:trampp add 197xHoa hồng vàng (old: 196) lydo: Nhặt từ map at 03/11/2023 12:43 PM
+BAG:trampp add 172xHoa hồng đỏ (old: 171) lydo: Nhặt từ map at 03/11/2023 12:44 PM
+BAG:trampp add 198xHoa hồng vàng (old: 197) lydo: Nhặt từ map at 03/11/2023 12:44 PM
+BAG:trampp add 165xHoa hồng xanh (old: 164) lydo: Nhặt từ map at 03/11/2023 12:44 PM
+BAG:trampp add 1xNgọc Rồng 6 sao lydo: Nhặt từ map at 03/11/2023 12:45 PM
+BAG:trampp add 199xHoa hồng vàng (old: 198) lydo: Nhặt từ map at 03/11/2023 12:45 PM
+BAG:trampp add 200xHoa hồng vàng (old: 199) lydo: Nhặt từ map at 03/11/2023 12:45 PM
+BAG:trampp add 173xHoa hồng đỏ (old: 172) lydo: Nhặt từ map at 03/11/2023 12:45 PM
+BAG:trampp add 201xHoa hồng vàng (old: 200) lydo: Nhặt từ map at 03/11/2023 12:45 PM
+BAG:trampp add 174xHoa hồng đỏ (old: 173) lydo: Nhặt từ map at 03/11/2023 12:45 PM
+BAG:trampp add 175xHoa hồng đỏ (old: 174) lydo: Nhặt từ map at 03/11/2023 12:45 PM
+BAG:trampp add 202xHoa hồng vàng (old: 201) lydo: Nhặt từ map at 03/11/2023 12:46 PM
+BAG:trampp add 176xHoa hồng đỏ (old: 175) lydo: Nhặt từ map at 03/11/2023 12:46 PM
+BAG:trampp add 203xHoa hồng vàng (old: 202) lydo: Nhặt từ map at 03/11/2023 12:46 PM
+BAG:trampp add 166xHoa hồng xanh (old: 165) lydo: Nhặt từ map at 03/11/2023 12:46 PM
+BAG:trampp add 177xHoa hồng đỏ (old: 176) lydo: Nhặt từ map at 03/11/2023 12:47 PM
+BAG:trampp add 178xHoa hồng đỏ (old: 177) lydo: Nhặt từ map at 03/11/2023 12:47 PM
+BAG:trampp add 179xHoa hồng đỏ (old: 178) lydo: Nhặt từ map at 03/11/2023 12:48 PM
+BAG:trampp add 204xHoa hồng vàng (old: 203) lydo: Nhặt từ map at 03/11/2023 12:48 PM
+BAG:trampp add 205xHoa hồng vàng (old: 204) lydo: Nhặt từ map at 03/11/2023 12:48 PM
+BAG:trampp add 206xHoa hồng vàng (old: 205) lydo: Nhặt từ map at 03/11/2023 12:49 PM
+BAG:trampp add 180xHoa hồng đỏ (old: 179) lydo: Nhặt từ map at 03/11/2023 12:49 PM
+BAG:trampp add 32xĐá Ruby (old: 31) lydo: Nhặt từ map at 03/11/2023 12:49 PM
+BAG:trampp add 181xHoa hồng đỏ (old: 180) lydo: Nhặt từ map at 03/11/2023 12:50 PM
+BAG:trampp add 207xHoa hồng vàng (old: 206) lydo: Nhặt từ map at 03/11/2023 12:50 PM
+BAG:trampp add 29xĐá lục bảo (old: 28) lydo: Nhặt từ map at 03/11/2023 12:50 PM
+BAG:trampp add 208xHoa hồng vàng (old: 207) lydo: Nhặt từ map at 03/11/2023 12:50 PM
+BAG:trampp add 182xHoa hồng đỏ (old: 181) lydo: Nhặt từ map at 03/11/2023 12:50 PM
+BAG:trampp add 183xHoa hồng đỏ (old: 182) lydo: Nhặt từ map at 03/11/2023 12:51 PM
+BAG:trampp add 167xHoa hồng xanh (old: 166) lydo: Nhặt từ map at 03/11/2023 12:52 PM
+BAG:trampp add 168xHoa hồng xanh (old: 167) lydo: Nhặt từ map at 03/11/2023 12:53 PM
+BAG:trampp add 209xHoa hồng vàng (old: 208) lydo: Nhặt từ map at 03/11/2023 12:54 PM
+BAG:trampp add 169xHoa hồng xanh (old: 168) lydo: Nhặt từ map at 03/11/2023 12:55 PM
+BAG:trampp add 33xĐá Ruby (old: 32) lydo: Nhặt từ map at 03/11/2023 12:55 PM
+BAG:trampp add 184xHoa hồng đỏ (old: 183) lydo: Nhặt từ map at 03/11/2023 12:55 PM
+BAG:trampp add 31xĐá Saphia (old: 30) lydo: Nhặt từ map at 03/11/2023 12:55 PM
+BAG:trampp add 170xHoa hồng xanh (old: 169) lydo: Nhặt từ map at 03/11/2023 12:55 PM
+BAG:trampp add 171xHoa hồng xanh (old: 170) lydo: Nhặt từ map at 03/11/2023 12:55 PM
+BAG:trampp add 210xHoa hồng vàng (old: 209) lydo: Nhặt từ map at 03/11/2023 12:56 PM
+BAG:trampp add 211xHoa hồng vàng (old: 210) lydo: Nhặt từ map at 03/11/2023 12:56 PM
+BAG:trampp add 172xHoa hồng xanh (old: 171) lydo: Nhặt từ map at 03/11/2023 12:57 PM
+BAG:trampp add 212xHoa hồng vàng (old: 211) lydo: Nhặt từ map at 03/11/2023 12:57 PM
+BAG:trampp add 173xHoa hồng xanh (old: 172) lydo: Nhặt từ map at 03/11/2023 12:58 PM
+BAG:trampp add 185xHoa hồng đỏ (old: 184) lydo: Nhặt từ map at 03/11/2023 12:58 PM
+BAG:trampp add 30xĐá lục bảo (old: 29) lydo: Nhặt từ map at 03/11/2023 12:58 PM
+BAG:trampp add 174xHoa hồng xanh (old: 173) lydo: Nhặt từ map at 03/11/2023 12:59 PM
+BAG:trampp add 175xHoa hồng xanh (old: 174) lydo: Nhặt từ map at 03/11/2023 12:59 PM
+BAG:trampp add 213xHoa hồng vàng (old: 212) lydo: Nhặt từ map at 03/11/2023 12:59 PM
+BAG:trampp add 214xHoa hồng vàng (old: 213) lydo: Nhặt từ map at 03/11/2023 1:00 PM
+BAG:trampp add 176xHoa hồng xanh (old: 175) lydo: Nhặt từ map at 03/11/2023 1:00 PM
+BAG:trampp add 186xHoa hồng đỏ (old: 185) lydo: Nhặt từ map at 03/11/2023 1:00 PM
+BAG:trampp add 215xHoa hồng vàng (old: 214) lydo: Nhặt từ map at 03/11/2023 1:00 PM
+BAG:trampp add 177xHoa hồng xanh (old: 176) lydo: Nhặt từ map at 03/11/2023 1:00 PM
+BAG:trampp add 187xHoa hồng đỏ (old: 186) lydo: Nhặt từ map at 03/11/2023 1:00 PM
+BAG:trampp add 216xHoa hồng vàng (old: 215) lydo: Nhặt từ map at 03/11/2023 1:01 PM
+BAG:trampp add 27xĐá thạch anh tím (old: 26) lydo: Nhặt từ map at 03/11/2023 1:01 PM
+BAG:trampp add 188xHoa hồng đỏ (old: 187) lydo: Nhặt từ map at 03/11/2023 1:01 PM
+BAG:trampp add 189xHoa hồng đỏ (old: 188) lydo: Nhặt từ map at 03/11/2023 1:02 PM
+BAG:trampp add 217xHoa hồng vàng (old: 216) lydo: Nhặt từ map at 03/11/2023 1:02 PM
+BAG:trampp add 178xHoa hồng xanh (old: 177) lydo: Nhặt từ map at 03/11/2023 1:02 PM
+BAG:trampp add 179xHoa hồng xanh (old: 178) lydo: Nhặt từ map at 03/11/2023 1:02 PM
+BAG:trampp add 180xHoa hồng xanh (old: 179) lydo: Nhặt từ map at 03/11/2023 1:03 PM
+BAG:trampp add 23xĐá Titan (old: 22) lydo: Nhặt từ map at 03/11/2023 1:05 PM
+BAG:trampp add 181xHoa hồng xanh (old: 180) lydo: Nhặt từ map at 03/11/2023 1:05 PM
+BAG:trampp add 190xHoa hồng đỏ (old: 189) lydo: Nhặt từ map at 03/11/2023 1:05 PM
+BAG:trampp add 182xHoa hồng xanh (old: 181) lydo: Nhặt từ map at 03/11/2023 1:05 PM
+BAG:trampp add 24xĐá Titan (old: 23) lydo: Nhặt từ map at 03/11/2023 1:05 PM
+BAG:trampp add 183xHoa hồng xanh (old: 182) lydo: Nhặt từ map at 03/11/2023 1:05 PM
+BAG:trampp add 184xHoa hồng xanh (old: 183) lydo: Nhặt từ map at 03/11/2023 1:05 PM
+BAG:trampp add 218xHoa hồng vàng (old: 217) lydo: Nhặt từ map at 03/11/2023 1:06 PM
+BAG:trampp add 219xHoa hồng vàng (old: 218) lydo: Nhặt từ map at 03/11/2023 1:06 PM
+BAG:trampp add 32xĐá Saphia (old: 31) lydo: Nhặt từ map at 03/11/2023 1:06 PM
+BAG:trampp add 220xHoa hồng vàng (old: 219) lydo: Nhặt từ map at 03/11/2023 1:06 PM
+BAG:trampp add 31xĐá lục bảo (old: 30) lydo: Nhặt từ map at 03/11/2023 1:06 PM
+BAG:trampp add 191xHoa hồng đỏ (old: 190) lydo: Nhặt từ map at 03/11/2023 1:07 PM
+BAG:trampp add 221xHoa hồng vàng (old: 220) lydo: Nhặt từ map at 03/11/2023 1:07 PM
+BAG:trampp add 192xHoa hồng đỏ (old: 191) lydo: Nhặt từ map at 03/11/2023 1:07 PM
+BAG:trampp add 34xĐá Ruby (old: 33) lydo: Nhặt từ map at 03/11/2023 1:08 PM
+BAG:trampp add 193xHoa hồng đỏ (old: 192) lydo: Nhặt từ map at 03/11/2023 1:08 PM
+BAG:trampp add 185xHoa hồng xanh (old: 184) lydo: Nhặt từ map at 03/11/2023 1:08 PM
+BAG:trampp add 186xHoa hồng xanh (old: 185) lydo: Nhặt từ map at 03/11/2023 1:09 PM
+BAG:trampp add 187xHoa hồng xanh (old: 186) lydo: Nhặt từ map at 03/11/2023 1:10 PM
+BAG:trampp add 222xHoa hồng vàng (old: 221) lydo: Nhặt từ map at 03/11/2023 1:10 PM
+BAG:trampp add 188xHoa hồng xanh (old: 187) lydo: Nhặt từ map at 03/11/2023 1:11 PM
+BAG:trampp add 194xHoa hồng đỏ (old: 193) lydo: Nhặt từ map at 03/11/2023 1:11 PM
+BAG:trampp add 223xHoa hồng vàng (old: 222) lydo: Nhặt từ map at 03/11/2023 1:11 PM
+BAG:trampp add 25xĐá Titan (old: 24) lydo: Nhặt từ map at 03/11/2023 1:11 PM
+BAG:trampp add 189xHoa hồng xanh (old: 188) lydo: Nhặt từ map at 03/11/2023 1:11 PM
+BAG:trampp add 190xHoa hồng xanh (old: 189) lydo: Nhặt từ map at 03/11/2023 1:11 PM
+BAG:trampp add 195xHoa hồng đỏ (old: 194) lydo: Nhặt từ map at 03/11/2023 1:12 PM
+BAG:trampp add 28xĐá thạch anh tím (old: 27) lydo: Nhặt từ map at 03/11/2023 1:15 PM
+BAG:trampp add 196xHoa hồng đỏ (old: 195) lydo: Nhặt từ map at 03/11/2023 1:15 PM
+BAG:trampp add 224xHoa hồng vàng (old: 223) lydo: Nhặt từ map at 03/11/2023 1:15 PM
+BAG:trampp add 225xHoa hồng vàng (old: 224) lydo: Nhặt từ map at 03/11/2023 1:16 PM
+BAG:trampp add 226xHoa hồng vàng (old: 225) lydo: Nhặt từ map at 03/11/2023 1:16 PM
+BAG:trampp add 227xHoa hồng vàng (old: 226) lydo: Nhặt từ map at 03/11/2023 1:16 PM
+BAG:trampp add 228xHoa hồng vàng (old: 227) lydo: Nhặt từ map at 03/11/2023 1:16 PM
+BAG:trampp add 2xNgọc Rồng 6 sao (old: 1) lydo: Nhặt từ map at 03/11/2023 1:16 PM
+BAG:trampp add 229xHoa hồng vàng (old: 228) lydo: Nhặt từ map at 03/11/2023 1:17 PM
+BAG:trampp add 197xHoa hồng đỏ (old: 196) lydo: Nhặt từ map at 03/11/2023 1:17 PM
+BAG:trampp add 32xĐá lục bảo (old: 31) lydo: Nhặt từ map at 03/11/2023 1:18 PM
+BAG:trampp add 230xHoa hồng vàng (old: 229) lydo: Nhặt từ map at 03/11/2023 1:18 PM
+BAG:trampp add 231xHoa hồng vàng (old: 230) lydo: Nhặt từ map at 03/11/2023 1:18 PM
+BAG:trampp add 232xHoa hồng vàng (old: 231) lydo: Nhặt từ map at 03/11/2023 1:18 PM
+BAG:trampp add 33xĐá Saphia (old: 32) lydo: Nhặt từ map at 03/11/2023 1:19 PM
+BAG:trampp add 26xĐá Titan (old: 25) lydo: Nhặt từ map at 03/11/2023 1:19 PM
+BAG:trampp add 191xHoa hồng xanh (old: 190) lydo: Nhặt từ map at 03/11/2023 1:19 PM
+BAG:trampp add 198xHoa hồng đỏ (old: 197) lydo: Nhặt từ map at 03/11/2023 1:20 PM
+BAG:trampp add 233xHoa hồng vàng (old: 232) lydo: Nhặt từ map at 03/11/2023 1:20 PM
+BAG:trampp add 35xĐá Ruby (old: 34) lydo: Nhặt từ map at 03/11/2023 1:21 PM
+BAG:trampp add 36xĐá Ruby (old: 35) lydo: Nhặt từ map at 03/11/2023 1:21 PM
+BAG:trampp add 199xHoa hồng đỏ (old: 198) lydo: Nhặt từ map at 03/11/2023 1:21 PM
+BAG:trampp add 192xHoa hồng xanh (old: 191) lydo: Nhặt từ map at 03/11/2023 1:21 PM
+BAG:trampp add 234xHoa hồng vàng (old: 233) lydo: Nhặt từ map at 03/11/2023 1:21 PM
+BAG:trampp add 34xĐá Saphia (old: 33) lydo: Nhặt từ map at 03/11/2023 1:22 PM
+BAG:trampp add 193xHoa hồng xanh (old: 192) lydo: Nhặt từ map at 03/11/2023 1:23 PM
+BAG:trampp add 200xHoa hồng đỏ (old: 199) lydo: Nhặt từ map at 03/11/2023 1:24 PM
+BAG:trampp add 201xHoa hồng đỏ (old: 200) lydo: Nhặt từ map at 03/11/2023 1:24 PM
+BAG:trampp add 194xHoa hồng xanh (old: 193) lydo: Nhặt từ map at 03/11/2023 1:24 PM
+BAG:trampp add 195xHoa hồng xanh (old: 194) lydo: Nhặt từ map at 03/11/2023 1:24 PM
+BAG:trampp add 196xHoa hồng xanh (old: 195) lydo: Nhặt từ map at 03/11/2023 1:25 PM
+BAG:trampp add 202xHoa hồng đỏ (old: 201) lydo: Nhặt từ map at 03/11/2023 1:26 PM
+BAG:trampp add 235xHoa hồng vàng (old: 234) lydo: Nhặt từ map at 03/11/2023 1:26 PM
+BAG:trampp add 197xHoa hồng xanh (old: 196) lydo: Nhặt từ map at 03/11/2023 1:26 PM
+BAG:trampp add 203xHoa hồng đỏ (old: 202) lydo: Nhặt từ map at 03/11/2023 1:26 PM
+BAG:trampp add 236xHoa hồng vàng (old: 235) lydo: Nhặt từ map at 03/11/2023 1:28 PM
+BAG:trampp add 198xHoa hồng xanh (old: 197) lydo: Nhặt từ map at 03/11/2023 1:30 PM
+BAG:trampp add 1xNgọc Rồng 5 sao lydo: Nhặt từ map at 03/11/2023 1:31 PM
+BAG:trampp add 237xHoa hồng vàng (old: 236) lydo: Nhặt từ map at 03/11/2023 1:31 PM
+BAG:trampp add 238xHoa hồng vàng (old: 237) lydo: Nhặt từ map at 03/11/2023 1:31 PM
+BAG:trampp add 239xHoa hồng vàng (old: 238) lydo: Nhặt từ map at 03/11/2023 1:31 PM
+BAG:trampp add 204xHoa hồng đỏ (old: 203) lydo: Nhặt từ map at 03/11/2023 1:32 PM
+BAG:trampp add 240xHoa hồng vàng (old: 239) lydo: Nhặt từ map at 03/11/2023 1:34 PM
+BAG:trampp add 27xĐá Titan (old: 26) lydo: Nhặt từ map at 03/11/2023 1:36 PM
+BAG:trampp add 35xĐá Saphia (old: 34) lydo: Nhặt từ map at 03/11/2023 1:36 PM
+BAG:trampp add 241xHoa hồng vàng (old: 240) lydo: Nhặt từ map at 03/11/2023 1:36 PM
+BAG:trampp add 242xHoa hồng vàng (old: 241) lydo: Nhặt từ map at 03/11/2023 1:36 PM
+BAG:trampp add 205xHoa hồng đỏ (old: 204) lydo: Nhặt từ map at 03/11/2023 1:36 PM
+BAG:trampp add 243xHoa hồng vàng (old: 242) lydo: Nhặt từ map at 03/11/2023 1:37 PM
+BAG:trampp add 37xĐá Ruby (old: 36) lydo: Nhặt từ map at 03/11/2023 1:38 PM
+BAG:trampp add 199xHoa hồng xanh (old: 198) lydo: Nhặt từ map at 03/11/2023 1:41 PM
+BAG:trampp add 206xHoa hồng đỏ (old: 205) lydo: Nhặt từ map at 03/11/2023 1:41 PM
+BAG:trampp add 200xHoa hồng xanh (old: 199) lydo: Nhặt từ map at 03/11/2023 1:41 PM
+BAG:trampp add 207xHoa hồng đỏ (old: 206) lydo: Nhặt từ map at 03/11/2023 1:41 PM
+BAG:trampp add 28xĐá Titan (old: 27) lydo: Nhặt từ map at 03/11/2023 1:42 PM
+BAG:trampp add 29xĐá thạch anh tím (old: 28) lydo: Nhặt từ map at 03/11/2023 1:42 PM
+BAG:trampp add 208xHoa hồng đỏ (old: 207) lydo: Nhặt từ map at 03/11/2023 1:46 PM
+BAG:trampp add 209xHoa hồng đỏ (old: 208) lydo: Nhặt từ map at 03/11/2023 1:46 PM
+BAG:trampp add 210xHoa hồng đỏ (old: 209) lydo: Nhặt từ map at 03/11/2023 1:46 PM
+BAG:trampp add 211xHoa hồng đỏ (old: 210) lydo: Nhặt từ map at 03/11/2023 1:47 PM
+BAG:trampp add 36xĐá Saphia (old: 35) lydo: Nhặt từ map at 03/11/2023 1:47 PM
+BAG:trampp add 30xĐá thạch anh tím (old: 29) lydo: Nhặt từ map at 03/11/2023 1:47 PM
+BAG:trampp add 33xĐá lục bảo (old: 32) lydo: Nhặt từ map at 03/11/2023 1:47 PM
+BAG:trampp add 212xHoa hồng đỏ (old: 211) lydo: Nhặt từ map at 03/11/2023 1:51 PM
+BAG:trampp add 213xHoa hồng đỏ (old: 212) lydo: Nhặt từ map at 03/11/2023 1:51 PM
+BAG:trampp add 244xHoa hồng vàng (old: 243) lydo: Nhặt từ map at 03/11/2023 1:52 PM
+BAG:trampp add 245xHoa hồng vàng (old: 244) lydo: Nhặt từ map at 03/11/2023 1:52 PM
+BAG:trampp add 246xHoa hồng vàng (old: 245) lydo: Nhặt từ map at 03/11/2023 1:52 PM
+BAG:trampp add 214xHoa hồng đỏ (old: 213) lydo: Nhặt từ map at 03/11/2023 1:52 PM
+BAG:trampp add 215xHoa hồng đỏ (old: 214) lydo: Nhặt từ map at 03/11/2023 1:52 PM
+BAG:trampp add 201xHoa hồng xanh (old: 200) lydo: Nhặt từ map at 03/11/2023 1:52 PM
+BAG:trampp add 202xHoa hồng xanh (old: 201) lydo: Nhặt từ map at 03/11/2023 1:52 PM
+BAG:trampp add 247xHoa hồng vàng (old: 246) lydo: Nhặt từ map at 03/11/2023 1:52 PM
+BAG:trampp add 248xHoa hồng vàng (old: 247) lydo: Nhặt từ map at 03/11/2023 1:56 PM
+BAG:trampp add 249xHoa hồng vàng (old: 248) lydo: Nhặt từ map at 03/11/2023 1:57 PM
+BAG:trampp add 250xHoa hồng vàng (old: 249) lydo: Nhặt từ map at 03/11/2023 1:57 PM
+BAG:trampp add 216xHoa hồng đỏ (old: 215) lydo: Nhặt từ map at 03/11/2023 1:57 PM
+BAG:trampp add 217xHoa hồng đỏ (old: 216) lydo: Nhặt từ map at 03/11/2023 1:57 PM
+BAG:trampp add 218xHoa hồng đỏ (old: 217) lydo: Nhặt từ map at 03/11/2023 1:57 PM
+BAG:trampp add 219xHoa hồng đỏ (old: 218) lydo: Nhặt từ map at 03/11/2023 1:57 PM
+BAG:trampp add 251xHoa hồng vàng (old: 250) lydo: Nhặt từ map at 03/11/2023 1:58 PM
+BAG:trampp add 252xHoa hồng vàng (old: 251) lydo: Nhặt từ map at 03/11/2023 2:02 PM
+BAG:trampp add 220xHoa hồng đỏ (old: 219) lydo: Nhặt từ map at 03/11/2023 2:02 PM
+BAG:trampp add 221xHoa hồng đỏ (old: 220) lydo: Nhặt từ map at 03/11/2023 2:02 PM
+BAG:trampp add 253xHoa hồng vàng (old: 252) lydo: Nhặt từ map at 03/11/2023 2:02 PM
+BAG:trampp add 222xHoa hồng đỏ (old: 221) lydo: Nhặt từ map at 03/11/2023 2:02 PM
+BAG:trampp add 38xĐá Ruby (old: 37) lydo: Nhặt từ map at 03/11/2023 2:03 PM
+BAG:trampp add 254xHoa hồng vàng (old: 253) lydo: Nhặt từ map at 03/11/2023 2:03 PM
+BAG:trampp add 255xHoa hồng vàng (old: 254) lydo: Nhặt từ map at 03/11/2023 2:07 PM
+BAG:trampp add 203xHoa hồng xanh (old: 202) lydo: Nhặt từ map at 03/11/2023 2:07 PM
+BAG:trampp add 2xNgọc Rồng 5 sao (old: 1) lydo: Nhặt từ map at 03/11/2023 2:07 PM
+BAG:trampp add 256xHoa hồng vàng (old: 255) lydo: Nhặt từ map at 03/11/2023 2:07 PM
+BAG:trampp add 257xHoa hồng vàng (old: 256) lydo: Nhặt từ map at 03/11/2023 2:12 PM
+BAG:trampp add 31xĐá thạch anh tím (old: 30) lydo: Nhặt từ map at 03/11/2023 2:13 PM
+BAG:trampp add 258xHoa hồng vàng (old: 257) lydo: Nhặt từ map at 03/11/2023 2:13 PM
+BAG:trampp add 259xHoa hồng vàng (old: 258) lydo: Nhặt từ map at 03/11/2023 2:13 PM
+BAG:trampp add 260xHoa hồng vàng (old: 259) lydo: Nhặt từ map at 03/11/2023 2:17 PM
+BAG:trampp add 204xHoa hồng xanh (old: 203) lydo: Nhặt từ map at 03/11/2023 2:18 PM
+BAG:trampp add 37xĐá Saphia (old: 36) lydo: Nhặt từ map at 03/11/2023 2:18 PM
+BAG:trampp add 261xHoa hồng vàng (old: 260) lydo: Nhặt từ map at 03/11/2023 2:18 PM
+BAG:trampp add 262xHoa hồng vàng (old: 261) lydo: Nhặt từ map at 03/11/2023 2:18 PM
+BAG:trampp add 263xHoa hồng vàng (old: 262) lydo: Nhặt từ map at 03/11/2023 2:18 PM
+BAG:trampp add 264xHoa hồng vàng (old: 263) lydo: Nhặt từ map at 03/11/2023 2:18 PM
+BAG:trampp add 205xHoa hồng xanh (old: 204) lydo: Nhặt từ map at 03/11/2023 2:22 PM
+BAG:trampp add 206xHoa hồng xanh (old: 205) lydo: Nhặt từ map at 03/11/2023 2:22 PM
+BAG:trampp add 223xHoa hồng đỏ (old: 222) lydo: Nhặt từ map at 03/11/2023 2:23 PM
+BAG:trampp add 38xĐá Saphia (old: 37) lydo: Nhặt từ map at 03/11/2023 2:23 PM
+BAG:trampp add 265xHoa hồng vàng (old: 264) lydo: Nhặt từ map at 03/11/2023 2:23 PM
+BAG:trampp add 32xĐá thạch anh tím (old: 31) lydo: Nhặt từ map at 03/11/2023 2:27 PM
+BAG:trampp add 33xĐá thạch anh tím (old: 32) lydo: Nhặt từ map at 03/11/2023 2:28 PM
+BAG:trampp add 34xĐá thạch anh tím (old: 33) lydo: Nhặt từ map at 03/11/2023 2:28 PM
+BAG:trampp add 29xĐá Titan (old: 28) lydo: Nhặt từ map at 03/11/2023 2:28 PM
+BAG:trampp add 207xHoa hồng xanh (old: 206) lydo: Nhặt từ map at 03/11/2023 2:28 PM
+BAG:trampp add 208xHoa hồng xanh (old: 207) lydo: Nhặt từ map at 03/11/2023 2:28 PM
+BAG:trampp add 224xHoa hồng đỏ (old: 223) lydo: Nhặt từ map at 03/11/2023 2:28 PM
+BAG:trampp add 266xHoa hồng vàng (old: 265) lydo: Nhặt từ map at 03/11/2023 2:28 PM
+BAG:trampp add 267xHoa hồng vàng (old: 266) lydo: Nhặt từ map at 03/11/2023 2:29 PM
+BAG:trampp add 225xHoa hồng đỏ (old: 224) lydo: Nhặt từ map at 03/11/2023 2:29 PM
+BAG:trampp add 268xHoa hồng vàng (old: 267) lydo: Nhặt từ map at 03/11/2023 2:33 PM
+BAG:trampp add 209xHoa hồng xanh (old: 208) lydo: Nhặt từ map at 03/11/2023 2:33 PM
+BAG:trampp add 210xHoa hồng xanh (old: 209) lydo: Nhặt từ map at 03/11/2023 2:34 PM
+BAG:trampp add 269xHoa hồng vàng (old: 268) lydo: Nhặt từ map at 03/11/2023 2:38 PM
+BAG:trampp add 270xHoa hồng vàng (old: 269) lydo: Nhặt từ map at 03/11/2023 2:38 PM
+BAG:trampp add 34xĐá lục bảo (old: 33) lydo: Nhặt từ map at 03/11/2023 2:38 PM
+BAG:trampp add 39xĐá Ruby (old: 38) lydo: Nhặt từ map at 03/11/2023 2:38 PM
+BAG:trampp add 271xHoa hồng vàng (old: 270) lydo: Nhặt từ map at 03/11/2023 2:39 PM
+BAG:trampp add 272xHoa hồng vàng (old: 271) lydo: Nhặt từ map at 03/11/2023 2:39 PM
+BAG:trampp add 273xHoa hồng vàng (old: 272) lydo: Nhặt từ map at 03/11/2023 2:39 PM
+BAG:trampp add 274xHoa hồng vàng (old: 273) lydo: Nhặt từ map at 03/11/2023 2:43 PM
+BAG:trampp add 35xĐá lục bảo (old: 34) lydo: Nhặt từ map at 03/11/2023 2:43 PM
+BAG:trampp add 211xHoa hồng xanh (old: 210) lydo: Nhặt từ map at 03/11/2023 2:44 PM
+BAG:trampp add 275xHoa hồng vàng (old: 274) lydo: Nhặt từ map at 03/11/2023 2:44 PM
+BAG:trampp add 30xĐá Titan (old: 29) lydo: Nhặt từ map at 03/11/2023 2:44 PM
+BAG:trampp add 35xĐá thạch anh tím (old: 34) lydo: Nhặt từ map at 03/11/2023 2:48 PM
+BAG:trampp add 226xHoa hồng đỏ (old: 225) lydo: Nhặt từ map at 03/11/2023 2:48 PM
+BAG:trampp add 212xHoa hồng xanh (old: 211) lydo: Nhặt từ map at 03/11/2023 2:48 PM
+BAG:trampp add 227xHoa hồng đỏ (old: 226) lydo: Nhặt từ map at 03/11/2023 2:49 PM
+BAG:trampp add 276xHoa hồng vàng (old: 275) lydo: Nhặt từ map at 03/11/2023 2:49 PM
+BAG:trampp add 277xHoa hồng vàng (old: 276) lydo: Nhặt từ map at 03/11/2023 2:49 PM
+BAG:trampp add 228xHoa hồng đỏ (old: 227) lydo: Nhặt từ map at 03/11/2023 2:49 PM
+BAG:trampp add 278xHoa hồng vàng (old: 277) lydo: Nhặt từ map at 03/11/2023 2:49 PM
+BAG:trampp add 229xHoa hồng đỏ (old: 228) lydo: Nhặt từ map at 03/11/2023 2:49 PM
+BAG:trampp add 279xHoa hồng vàng (old: 278) lydo: Nhặt từ map at 03/11/2023 2:53 PM
+BAG:trampp add 40xĐá Ruby (old: 39) lydo: Nhặt từ map at 03/11/2023 2:54 PM
+BAG:trampp add 280xHoa hồng vàng (old: 279) lydo: Nhặt từ map at 03/11/2023 2:54 PM
+BAG:trampp add 39xĐá Saphia (old: 38) lydo: Nhặt từ map at 03/11/2023 2:54 PM
+BAG:trampp add 36xĐá thạch anh tím (old: 35) lydo: Nhặt từ map at 03/11/2023 2:54 PM
+BAG:trampp add 230xHoa hồng đỏ (old: 229) lydo: Nhặt từ map at 03/11/2023 2:54 PM
+BAG:trampp add 281xHoa hồng vàng (old: 280) lydo: Nhặt từ map at 03/11/2023 2:59 PM
+BAG:trampp add 40xĐá Saphia (old: 39) lydo: Nhặt từ map at 03/11/2023 2:59 PM
+BAG:trampp add 231xHoa hồng đỏ (old: 230) lydo: Nhặt từ map at 03/11/2023 2:59 PM
+BAG:trampp add 232xHoa hồng đỏ (old: 231) lydo: Nhặt từ map at 03/11/2023 2:59 PM
+BAG:trampp add 213xHoa hồng xanh (old: 212) lydo: Nhặt từ map at 03/11/2023 2:59 PM
+BAG:trampp add 36xĐá lục bảo (old: 35) lydo: Nhặt từ map at 03/11/2023 3:04 PM
+BAG:trampp add 282xHoa hồng vàng (old: 281) lydo: Nhặt từ map at 03/11/2023 3:04 PM
+BAG:trampp add 31xĐá Titan (old: 30) lydo: Nhặt từ map at 03/11/2023 3:04 PM
+BAG:trampp add 283xHoa hồng vàng (old: 282) lydo: Nhặt từ map at 03/11/2023 3:04 PM
+BAG:trampp add 284xHoa hồng vàng (old: 283) lydo: Nhặt từ map at 03/11/2023 3:04 PM
+BAG:trampp add 285xHoa hồng vàng (old: 284) lydo: Nhặt từ map at 03/11/2023 3:09 PM
+BAG:trampp add 233xHoa hồng đỏ (old: 232) lydo: Nhặt từ map at 03/11/2023 3:09 PM
+BAG:trampp add 37xĐá lục bảo (old: 36) lydo: Nhặt từ map at 03/11/2023 3:09 PM
+BAG:trampp add 286xHoa hồng vàng (old: 285) lydo: Nhặt từ map at 03/11/2023 3:09 PM
+BAG:trampp add 234xHoa hồng đỏ (old: 233) lydo: Nhặt từ map at 03/11/2023 3:09 PM
+BAG:trampp add 214xHoa hồng xanh (old: 213) lydo: Nhặt từ map at 03/11/2023 3:09 PM
+BAG:trampp add 37xĐá thạch anh tím (old: 36) lydo: Nhặt từ map at 03/11/2023 3:10 PM
+BAG:trampp add 215xHoa hồng xanh (old: 214) lydo: Nhặt từ map at 03/11/2023 3:14 PM
+BAG:trampp add 287xHoa hồng vàng (old: 286) lydo: Nhặt từ map at 03/11/2023 3:14 PM
+BAG:trampp add 235xHoa hồng đỏ (old: 234) lydo: Nhặt từ map at 03/11/2023 3:14 PM
+BAG:trampp add 288xHoa hồng vàng (old: 287) lydo: Nhặt từ map at 03/11/2023 3:14 PM
+BAG:trampp add 289xHoa hồng vàng (old: 288) lydo: Nhặt từ map at 03/11/2023 3:15 PM
+BAG:trampp add 236xHoa hồng đỏ (old: 235) lydo: Nhặt từ map at 03/11/2023 3:15 PM
+BAG:trampp add 32xĐá Titan (old: 31) lydo: Nhặt từ map at 03/11/2023 3:20 PM
+BAG:trampp add 237xHoa hồng đỏ (old: 236) lydo: Nhặt từ map at 03/11/2023 3:20 PM
+BAG:trampp add 38xĐá thạch anh tím (old: 37) lydo: Nhặt từ map at 03/11/2023 3:20 PM
+BAG:trampp add 33xĐá Titan (old: 32) lydo: Nhặt từ map at 03/11/2023 3:25 PM
+BAG:trampp add 238xHoa hồng đỏ (old: 237) lydo: Nhặt từ map at 03/11/2023 3:25 PM
+BAG:trampp add 239xHoa hồng đỏ (old: 238) lydo: Nhặt từ map at 03/11/2023 3:25 PM
+BAG:trampp add 240xHoa hồng đỏ (old: 239) lydo: Nhặt từ map at 03/11/2023 3:25 PM
+BAG:trampp add 39xĐá thạch anh tím (old: 38) lydo: Nhặt từ map at 03/11/2023 3:25 PM
+BAG:trampp add 241xHoa hồng đỏ (old: 240) lydo: Nhặt từ map at 03/11/2023 3:25 PM
+BAG:trampp add 290xHoa hồng vàng (old: 289) lydo: Nhặt từ map at 03/11/2023 3:30 PM
+BAG:trampp add 242xHoa hồng đỏ (old: 241) lydo: Nhặt từ map at 03/11/2023 3:30 PM
+BAG:trampp add 243xHoa hồng đỏ (old: 242) lydo: Nhặt từ map at 03/11/2023 3:30 PM
+BAG:trampp add 216xHoa hồng xanh (old: 215) lydo: Nhặt từ map at 03/11/2023 3:35 PM
+BAG:trampp add 291xHoa hồng vàng (old: 290) lydo: Nhặt từ map at 03/11/2023 3:35 PM
+BAG:trampp add 292xHoa hồng vàng (old: 291) lydo: Nhặt từ map at 03/11/2023 3:35 PM
+BAG:trampp add 244xHoa hồng đỏ (old: 243) lydo: Nhặt từ map at 03/11/2023 3:35 PM
+BAG:trampp add 217xHoa hồng xanh (old: 216) lydo: Nhặt từ map at 03/11/2023 3:35 PM
+BAG:trampp add 293xHoa hồng vàng (old: 292) lydo: Nhặt từ map at 03/11/2023 3:36 PM
+BAG:trampp add 218xHoa hồng xanh (old: 217) lydo: Nhặt từ map at 03/11/2023 3:36 PM
+BAG:trampp add 294xHoa hồng vàng (old: 293) lydo: Nhặt từ map at 03/11/2023 3:36 PM
+BAG:trampp add 10xĐậu thần cấp 5 lydo: Thu hoạch đậu at 03/11/2023 4:45 PM
+BAG:trampp add 30xĐậu thần cấp 4 lydo: Mua từ cửa hàng at 03/11/2023 4:46 PM
+BAG:trampp add 60xĐậu thần cấp 4 (old: 30) lydo: Mua từ cửa hàng at 03/11/2023 4:46 PM
+BAG:trampp add 90xĐậu thần cấp 4 (old: 60) lydo: Mua từ cửa hàng at 03/11/2023 4:46 PM
+BAG:trampp add 12xĐậu thần cấp 5 (old: 9) lydo: Lấy từ rương qua người at 03/11/2023 4:46 PM
+BAG:trampp add 219xHoa hồng xanh (old: 218) lydo: Nhặt từ map at 03/11/2023 4:46 PM
+BAG:trampp add 38xĐá lục bảo (old: 37) lydo: Nhặt từ map at 03/11/2023 4:46 PM
+BAG:trampp add 245xHoa hồng đỏ (old: 244) lydo: Nhặt từ map at 03/11/2023 4:47 PM
+BAG:trampp add 220xHoa hồng xanh (old: 219) lydo: Nhặt từ map at 03/11/2023 4:47 PM
+BAG:trampp add 295xHoa hồng vàng (old: 294) lydo: Nhặt từ map at 03/11/2023 4:47 PM
+BAG:trampp add 221xHoa hồng xanh (old: 220) lydo: Nhặt từ map at 03/11/2023 4:47 PM

@@ -1,0 +1,445 @@
+BAG:pocollo12 add 1xRada cấp 1 lydo: Nhặt từ map at 03/12/2023 5:46 AM
+BAG:pocollo12 add 1xQuần sợi len lydo: Nhặt từ map at 03/12/2023 5:46 AM
+BAG:pocollo12 add 3xHoa hồng xanh (old: 2) lydo: Nhặt từ map at 03/12/2023 5:47 AM
+BAG:pocollo12 add 1xHoa hồng đỏ lydo: Nhặt từ map at 03/12/2023 5:47 AM
+BAG:pocollo12 add 1xÁo sợi len lydo: Nhặt từ map at 03/12/2023 5:47 AM
+BAG:pocollo12 add 10xĐậu thần cấp 1 (old: 5) lydo: Thu hoạch đậu at 03/12/2023 5:49 AM
+BAG:pocollo12 add 1xGhế bay lydo: Mua từ cửa hàng at 03/12/2023 5:50 AM
+BAG:pocollo12 add 1xĐậu thần cấp 1 lydo: Thu hoạch đậu at 03/12/2023 5:51 AM
+BAG:pocollo12 add 6xĐậu thần cấp 1 (old: 1) lydo: Thu hoạch đậu at 03/12/2023 5:51 AM
+BAG:pocollo12 add 10xĐậu thần cấp 1 (old: 6) lydo: Thu hoạch đậu at 03/12/2023 5:51 AM
+BAG:pocollo12 add 1xMảnh Phi long lydo: Nhặt từ map at 03/12/2023 5:51 AM
+BAG:pocollo12 add 2xHoa hồng đỏ (old: 1) lydo: Nhặt từ map at 03/12/2023 5:52 AM
+BAG:pocollo12 add 1xHoa hồng vàng lydo: Nhặt từ map at 03/12/2023 5:52 AM
+BAG:pocollo12 add 4xHoa hồng xanh (old: 3) lydo: Nhặt từ map at 03/12/2023 5:52 AM
+BAG:pocollo12 add 2xHoa hồng vàng (old: 1) lydo: Nhặt từ map at 03/12/2023 5:52 AM
+BAG:pocollo12 add 3xHoa hồng vàng (old: 2) lydo: Nhặt từ map at 03/12/2023 5:53 AM
+BAG:pocollo12 add 3xHoa hồng đỏ (old: 2) lydo: Nhặt từ map at 03/12/2023 5:53 AM
+BAG:pocollo12 add 4xHoa hồng vàng (old: 3) lydo: Nhặt từ map at 03/12/2023 5:53 AM
+BAG:pocollo12 add 5xHoa hồng xanh (old: 4) lydo: Nhặt từ map at 03/12/2023 5:53 AM
+BAG:pocollo12 add 5xHoa hồng vàng (old: 4) lydo: Nhặt từ map at 03/12/2023 5:54 AM
+BAG:pocollo12 add 1xĐá thạch anh tím lydo: Nhặt từ map at 03/12/2023 5:54 AM
+BAG:pocollo12 add 1xNho tím lydo: Mua từ cửa hàng at 03/12/2023 5:55 AM
+BAG:pocollo12 add 1xNho tím lydo: Mua từ cửa hàng at 03/12/2023 5:55 AM
+BAG:pocollo12 add 1xNho tím lydo: Mua từ cửa hàng at 03/12/2023 5:56 AM
+BAG:pocollo12 add 1xViên Capsule đặc biệt lydo: Mua từ cửa hàng at 03/12/2023 5:56 AM
+BAG:pocollo12 add 10xĐậu thần cấp 10 lydo: Thu hoạch đậu at 03/12/2023 5:58 AM
+BAG:pocollo12 add 29xĐậu thần cấp 10 (old: 10) lydo: Lấy từ rương qua người at 03/12/2023 5:58 AM
+BAG:pocollo12 add 48xĐậu thần cấp 10 (old: 29) lydo: Lấy từ rương qua người at 03/12/2023 5:58 AM
+BAG:pocollo12 add 67xĐậu thần cấp 10 (old: 48) lydo: Lấy từ rương qua người at 03/12/2023 5:58 AM
+BAG:pocollo12 add 86xĐậu thần cấp 10 (old: 67) lydo: Lấy từ rương qua người at 03/12/2023 5:58 AM
+BAG:pocollo12 add 6xĐậu thần cấp 10 lydo: Lấy từ rương qua người at 03/12/2023 5:58 AM
+BAG:pocollo12 add 99xĐậu thần cấp 10 (old: 86) lydo: Lấy từ rương qua người at 03/12/2023 5:58 AM
+BAG:pocollo12 add 25xĐậu thần cấp 10 (old: 6) lydo: Lấy từ rương qua người at 03/12/2023 5:59 AM
+BAG:pocollo12 add 44xĐậu thần cấp 10 (old: 25) lydo: Lấy từ rương qua người at 03/12/2023 5:59 AM
+BAG:pocollo12 add 63xĐậu thần cấp 10 (old: 44) lydo: Lấy từ rương qua người at 03/12/2023 5:59 AM
+BAG:pocollo12 add 1xÁo sợi len lydo: Nhặt từ map at 03/12/2023 6:06 AM
+BAG:pocollo12 add 1xHoa hồng vàng lydo: Nhặt từ map at 03/12/2023 6:06 AM
+BAG:pocollo12 add 1xHoa hồng xanh lydo: Nhặt từ map at 03/12/2023 6:06 AM
+BAG:pocollo12 add 1xĐá lục bảo lydo: Nhặt từ map at 03/12/2023 6:06 AM
+BAG:pocollo12 add 1xRada cấp 1 lydo: Nhặt từ map at 03/12/2023 6:06 AM
+BAG:pocollo12 add 2xHoa hồng vàng (old: 1) lydo: Nhặt từ map at 03/12/2023 6:06 AM
+BAG:pocollo12 add 1xĐá Titan lydo: Nhặt từ map at 03/12/2023 6:06 AM
+BAG:pocollo12 add 1xÁo sợi len lydo: Nhặt từ map at 03/12/2023 6:06 AM
+BAG:pocollo12 add 1xÁo sợi len lydo: Nhặt từ map at 03/12/2023 6:06 AM
+BAG:pocollo12 add 2xHoa hồng xanh (old: 1) lydo: Nhặt từ map at 03/12/2023 6:06 AM
+BAG:pocollo12 add 3xHoa hồng vàng (old: 2) lydo: Nhặt từ map at 03/12/2023 6:06 AM
+BAG:pocollo12 add 1xMảnh Lợn lòi lydo: Nhặt từ map at 03/12/2023 6:06 AM
+BAG:pocollo12 add 4xHoa hồng vàng (old: 3) lydo: Nhặt từ map at 03/12/2023 6:07 AM
+BAG:pocollo12 add 1xHoa hồng đỏ lydo: Nhặt từ map at 03/12/2023 6:07 AM
+BAG:pocollo12 add 2xHoa hồng đỏ (old: 1) lydo: Nhặt từ map at 03/12/2023 6:07 AM
+BAG:pocollo12 add 5xHoa hồng vàng (old: 4) lydo: Nhặt từ map at 03/12/2023 6:07 AM
+BAG:pocollo12 add 2xMảnh Lợn lòi (old: 1) lydo: Nhặt từ map at 03/12/2023 6:07 AM
+BAG:pocollo12 add 3xHoa hồng xanh (old: 2) lydo: Nhặt từ map at 03/12/2023 6:07 AM
+BAG:pocollo12 add 3xHoa hồng đỏ (old: 2) lydo: Nhặt từ map at 03/12/2023 6:07 AM
+BAG:pocollo12 add 4xHoa hồng xanh (old: 3) lydo: Nhặt từ map at 03/12/2023 6:07 AM
+BAG:pocollo12 add 4xHoa hồng đỏ (old: 3) lydo: Nhặt từ map at 03/12/2023 6:07 AM
+BAG:pocollo12 add 6xHoa hồng vàng (old: 5) lydo: Nhặt từ map at 03/12/2023 6:07 AM
+BAG:pocollo12 add 7xHoa hồng vàng (old: 6) lydo: Nhặt từ map at 03/12/2023 6:07 AM
+BAG:pocollo12 add 5xHoa hồng đỏ (old: 4) lydo: Nhặt từ map at 03/12/2023 6:07 AM
+BAG:pocollo12 add 5xHoa hồng xanh (old: 4) lydo: Nhặt từ map at 03/12/2023 6:07 AM
+BAG:pocollo12 add 6xHoa hồng xanh (old: 5) lydo: Nhặt từ map at 03/12/2023 6:08 AM
+BAG:pocollo12 add 1xRada cấp 1 lydo: Nhặt từ map at 03/12/2023 6:08 AM
+BAG:pocollo12 add 6xHoa hồng đỏ (old: 5) lydo: Nhặt từ map at 03/12/2023 6:08 AM
+BAG:pocollo12 add 7xHoa hồng đỏ (old: 6) lydo: Nhặt từ map at 03/12/2023 6:08 AM
+BAG:pocollo12 add 1xĐá Ruby lydo: Nhặt từ map at 03/12/2023 6:08 AM
+BAG:pocollo12 add 8xHoa hồng vàng (old: 7) lydo: Nhặt từ map at 03/12/2023 6:08 AM
+BAG:pocollo12 add 1xĐá Saphia lydo: Nhặt từ map at 03/12/2023 6:08 AM
+BAG:pocollo12 add 1xÁo sợi len lydo: Nhặt từ map at 03/12/2023 6:08 AM
+BAG:pocollo12 add 8xHoa hồng đỏ (old: 7) lydo: Nhặt từ map at 03/12/2023 6:08 AM
+BAG:pocollo12 add 9xHoa hồng đỏ (old: 8) lydo: Nhặt từ map at 03/12/2023 6:08 AM
+BAG:pocollo12 add 1xRada cấp 1 lydo: Nhặt từ map at 03/12/2023 6:08 AM
+BAG:pocollo12 add 2xĐá lục bảo (old: 1) lydo: Nhặt từ map at 03/12/2023 6:08 AM
+BAG:pocollo12 add 9xHoa hồng vàng (old: 8) lydo: Nhặt từ map at 03/12/2023 6:08 AM
+BAG:pocollo12 add 2xĐá thạch anh tím (old: 1) lydo: Nhặt từ map at 03/12/2023 6:08 AM
+BAG:pocollo12 add 10xHoa hồng vàng (old: 9) lydo: Nhặt từ map at 03/12/2023 6:08 AM
+BAG:pocollo12 add 7xHoa hồng xanh (old: 6) lydo: Nhặt từ map at 03/12/2023 6:08 AM
+BAG:pocollo12 add 1xQuần sợi len lydo: Nhặt từ map at 03/12/2023 6:08 AM
+BAG:pocollo12 add 1xRada cấp 1 lydo: Nhặt từ map at 03/12/2023 6:09 AM
+BAG:pocollo12 add 10xHoa hồng đỏ (old: 9) lydo: Nhặt từ map at 03/12/2023 6:09 AM
+BAG:pocollo12 add 11xHoa hồng đỏ (old: 10) lydo: Nhặt từ map at 03/12/2023 6:09 AM
+BAG:pocollo12 add 1xRada cấp 1 lydo: Nhặt từ map at 03/12/2023 6:09 AM
+BAG:pocollo12 add 1xGiầy sợi len lydo: Nhặt từ map at 03/12/2023 6:09 AM
+BAG:pocollo12 add 1xRada cấp 1 lydo: Nhặt từ map at 03/12/2023 6:09 AM
+BAG:pocollo12 add 11xHoa hồng vàng (old: 10) lydo: Nhặt từ map at 03/12/2023 6:09 AM
+BAG:pocollo12 add 8xHoa hồng xanh (old: 7) lydo: Nhặt từ map at 03/12/2023 6:09 AM
+BAG:pocollo12 add 1xQuần sợi len lydo: Nhặt từ map at 03/12/2023 6:09 AM
+BAG:pocollo12 add 9xHoa hồng xanh (old: 8) lydo: Nhặt từ map at 03/12/2023 6:09 AM
+BAG:pocollo12 add 1xRada cấp 1 lydo: Nhặt từ map at 03/12/2023 6:09 AM
+BAG:pocollo12 add 12xHoa hồng đỏ (old: 11) lydo: Nhặt từ map at 03/12/2023 6:09 AM
+BAG:pocollo12 add 1xGiầy sợi len lydo: Nhặt từ map at 03/12/2023 6:09 AM
+BAG:pocollo12 add 13xHoa hồng đỏ (old: 12) lydo: Nhặt từ map at 03/12/2023 6:09 AM
+BAG:pocollo12 add 12xHoa hồng vàng (old: 11) lydo: Nhặt từ map at 03/12/2023 6:09 AM
+BAG:pocollo12 add 10xHoa hồng xanh (old: 9) lydo: Nhặt từ map at 03/12/2023 6:10 AM
+BAG:pocollo12 add 13xHoa hồng vàng (old: 12) lydo: Nhặt từ map at 03/12/2023 6:10 AM
+BAG:pocollo12 add 1xRada cấp 1 lydo: Nhặt từ map at 03/12/2023 6:10 AM
+BAG:pocollo12 add 1xQuần sợi len lydo: Nhặt từ map at 03/12/2023 6:10 AM
+BAG:pocollo12 add 14xHoa hồng vàng (old: 13) lydo: Nhặt từ map at 03/12/2023 6:10 AM
+BAG:pocollo12 add 1xQuần sợi len lydo: Nhặt từ map at 03/12/2023 6:10 AM
+BAG:pocollo12 add 1xÁo sợi len lydo: Nhặt từ map at 03/12/2023 6:10 AM
+BAG:pocollo12 add 11xHoa hồng xanh (old: 10) lydo: Nhặt từ map at 03/12/2023 6:10 AM
+BAG:pocollo12 add 12xHoa hồng xanh (old: 11) lydo: Nhặt từ map at 03/12/2023 6:10 AM
+BAG:pocollo12 add 1xRada cấp 1 lydo: Nhặt từ map at 03/12/2023 6:10 AM
+BAG:pocollo12 add 2xĐá Saphia (old: 1) lydo: Nhặt từ map at 03/12/2023 6:10 AM
+BAG:pocollo12 add 14xHoa hồng đỏ (old: 13) lydo: Nhặt từ map at 03/12/2023 6:10 AM
+BAG:pocollo12 add 13xHoa hồng xanh (old: 12) lydo: Nhặt từ map at 03/12/2023 6:11 AM
+BAG:pocollo12 add 15xHoa hồng đỏ (old: 14) lydo: Nhặt từ map at 03/12/2023 6:11 AM
+BAG:pocollo12 add 16xHoa hồng đỏ (old: 15) lydo: Nhặt từ map at 03/12/2023 6:11 AM
+BAG:pocollo12 add 15xHoa hồng vàng (old: 14) lydo: Nhặt từ map at 03/12/2023 6:11 AM
+BAG:pocollo12 add 17xHoa hồng đỏ (old: 16) lydo: Nhặt từ map at 03/12/2023 6:11 AM
+BAG:pocollo12 add 16xHoa hồng vàng (old: 15) lydo: Nhặt từ map at 03/12/2023 6:11 AM
+BAG:pocollo12 add 18xHoa hồng đỏ (old: 17) lydo: Nhặt từ map at 03/12/2023 6:11 AM
+BAG:pocollo12 add 3xĐá thạch anh tím (old: 2) lydo: Nhặt từ map at 03/12/2023 6:11 AM
+BAG:pocollo12 add 17xHoa hồng vàng (old: 16) lydo: Nhặt từ map at 03/12/2023 6:11 AM
+BAG:pocollo12 add 19xHoa hồng đỏ (old: 18) lydo: Nhặt từ map at 03/12/2023 6:11 AM
+BAG:pocollo12 add 18xHoa hồng vàng (old: 17) lydo: Nhặt từ map at 03/12/2023 6:11 AM
+BAG:pocollo12 add 20xHoa hồng đỏ (old: 19) lydo: Nhặt từ map at 03/12/2023 6:11 AM
+BAG:pocollo12 add 19xHoa hồng vàng (old: 18) lydo: Nhặt từ map at 03/12/2023 6:11 AM
+BAG:pocollo12 add 21xHoa hồng đỏ (old: 20) lydo: Nhặt từ map at 03/12/2023 6:12 AM
+BAG:pocollo12 add 3xĐá lục bảo (old: 2) lydo: Nhặt từ map at 03/12/2023 6:12 AM
+BAG:pocollo12 add 1xQuần sợi len lydo: Nhặt từ map at 03/12/2023 6:12 AM
+BAG:pocollo12 add 4xĐá lục bảo (old: 3) lydo: Nhặt từ map at 03/12/2023 6:12 AM
+BAG:pocollo12 add 14xHoa hồng xanh (old: 13) lydo: Nhặt từ map at 03/12/2023 6:12 AM
+BAG:pocollo12 add 15xHoa hồng xanh (old: 14) lydo: Nhặt từ map at 03/12/2023 6:12 AM
+BAG:pocollo12 add 1xGiầy sợi len lydo: Nhặt từ map at 03/12/2023 6:12 AM
+BAG:pocollo12 add 1xRada cấp 1 lydo: Nhặt từ map at 03/12/2023 6:12 AM
+BAG:pocollo12 add 20xHoa hồng vàng (old: 19) lydo: Nhặt từ map at 03/12/2023 6:12 AM
+BAG:pocollo12 add 1xGiầy sợi len lydo: Nhặt từ map at 03/12/2023 6:12 AM
+BAG:pocollo12 add 1xGăng sợi len lydo: Nhặt từ map at 03/12/2023 6:12 AM
+BAG:pocollo12 add 2xĐá Ruby (old: 1) lydo: Nhặt từ map at 03/12/2023 6:13 AM
+BAG:pocollo12 add 21xHoa hồng vàng (old: 20) lydo: Nhặt từ map at 03/12/2023 6:13 AM
+BAG:pocollo12 add 1xRada cấp 1 lydo: Nhặt từ map at 03/12/2023 6:13 AM
+BAG:pocollo12 add 22xHoa hồng vàng (old: 21) lydo: Nhặt từ map at 03/12/2023 6:13 AM
+BAG:pocollo12 add 1xÁo sợi len lydo: Nhặt từ map at 03/12/2023 6:13 AM
+BAG:pocollo12 add 23xHoa hồng vàng (old: 22) lydo: Nhặt từ map at 03/12/2023 6:13 AM
+BAG:pocollo12 add 1xGiầy sợi len lydo: Nhặt từ map at 03/12/2023 6:13 AM
+BAG:pocollo12 add 3xĐá Ruby (old: 2) lydo: Nhặt từ map at 03/12/2023 6:13 AM
+BAG:pocollo12 add 24xHoa hồng vàng (old: 23) lydo: Nhặt từ map at 03/12/2023 6:13 AM
+BAG:pocollo12 add 25xHoa hồng vàng (old: 24) lydo: Nhặt từ map at 03/12/2023 6:13 AM
+BAG:pocollo12 add 22xHoa hồng đỏ (old: 21) lydo: Nhặt từ map at 03/12/2023 6:14 AM
+BAG:pocollo12 add 1xÁo sợi len lydo: Nhặt từ map at 03/12/2023 6:14 AM
+BAG:pocollo12 add 23xHoa hồng đỏ (old: 22) lydo: Nhặt từ map at 03/12/2023 6:14 AM
+BAG:pocollo12 add 1xRada cấp 1 lydo: Nhặt từ map at 03/12/2023 6:14 AM
+BAG:pocollo12 add 16xHoa hồng xanh (old: 15) lydo: Nhặt từ map at 03/12/2023 6:14 AM
+BAG:pocollo12 add 24xHoa hồng đỏ (old: 23) lydo: Nhặt từ map at 03/12/2023 6:14 AM
+BAG:pocollo12 add 25xHoa hồng đỏ (old: 24) lydo: Nhặt từ map at 03/12/2023 6:14 AM
+BAG:pocollo12 add 17xHoa hồng xanh (old: 16) lydo: Nhặt từ map at 03/12/2023 6:14 AM
+BAG:pocollo12 add 1xGiầy sợi len lydo: Nhặt từ map at 03/12/2023 6:14 AM
+BAG:pocollo12 add 26xHoa hồng vàng (old: 25) lydo: Nhặt từ map at 03/12/2023 6:14 AM
+BAG:pocollo12 add 3xĐá Saphia (old: 2) lydo: Nhặt từ map at 03/12/2023 6:14 AM
+BAG:pocollo12 add 1xÁo sợi len lydo: Nhặt từ map at 03/12/2023 6:14 AM
+BAG:pocollo12 add 26xHoa hồng đỏ (old: 25) lydo: Nhặt từ map at 03/12/2023 6:14 AM
+BAG:pocollo12 add 27xHoa hồng vàng (old: 26) lydo: Nhặt từ map at 03/12/2023 6:14 AM
+BAG:pocollo12 add 2xĐá Titan (old: 1) lydo: Nhặt từ map at 03/12/2023 6:15 AM
+BAG:pocollo12 add 28xHoa hồng vàng (old: 27) lydo: Nhặt từ map at 03/12/2023 6:15 AM
+BAG:pocollo12 add 29xHoa hồng vàng (old: 28) lydo: Nhặt từ map at 03/12/2023 6:15 AM
+BAG:pocollo12 add 4xĐá thạch anh tím (old: 3) lydo: Nhặt từ map at 03/12/2023 6:15 AM
+BAG:pocollo12 add 18xHoa hồng xanh (old: 17) lydo: Nhặt từ map at 03/12/2023 6:15 AM
+BAG:pocollo12 add 27xHoa hồng đỏ (old: 26) lydo: Nhặt từ map at 03/12/2023 6:16 AM
+BAG:pocollo12 add 30xHoa hồng vàng (old: 29) lydo: Nhặt từ map at 03/12/2023 6:16 AM
+BAG:pocollo12 add 28xHoa hồng đỏ (old: 27) lydo: Nhặt từ map at 03/12/2023 6:16 AM
+BAG:pocollo12 add 31xHoa hồng vàng (old: 30) lydo: Nhặt từ map at 03/12/2023 6:16 AM
+BAG:pocollo12 add 32xHoa hồng vàng (old: 31) lydo: Nhặt từ map at 03/12/2023 6:16 AM
+BAG:pocollo12 add 4xĐá Ruby (old: 3) lydo: Nhặt từ map at 03/12/2023 6:17 AM
+BAG:pocollo12 add 29xHoa hồng đỏ (old: 28) lydo: Nhặt từ map at 03/12/2023 6:17 AM
+BAG:pocollo12 add 30xHoa hồng đỏ (old: 29) lydo: Nhặt từ map at 03/12/2023 6:17 AM
+BAG:pocollo12 add 33xHoa hồng vàng (old: 32) lydo: Nhặt từ map at 03/12/2023 6:17 AM
+BAG:pocollo12 add 5xĐá thạch anh tím (old: 4) lydo: Nhặt từ map at 03/12/2023 6:17 AM
+BAG:pocollo12 add 1xGăng sợi len lydo: Nhặt từ map at 03/12/2023 6:17 AM
+BAG:pocollo12 add 1xÁo sợi len lydo: Lấy từ body vào hành trang at 03/12/2023 6:22 AM
+BAG:pocollo12 add 1xQuần sợi len lydo: Lấy từ body vào hành trang at 03/12/2023 6:24 AM
+BAG:pocollo12 add 1xGăng sợi len lydo: Lấy từ body vào hành trang at 03/12/2023 6:27 AM
+BAG:pocollo12 add 1xGiầy sợi len lydo: Lấy từ body vào hành trang at 03/12/2023 6:28 AM
+BAG:pocollo12 add 1xCải Trang Thần Zeno Namec lydo: Lấy từ body vào hành trang at 03/12/2023 6:31 AM
+BAG:pocollo12 add 1xGăng sợi len lydo: Lấy từ rương qua người at 03/12/2023 6:34 AM
+BAG:pocollo12 add 1xGiỏ hoa lydo: Mua từ bill at 03/12/2023 6:59 AM
+BAG:pocollo12 add 2xGiỏ hoa (old: 1) lydo: Mua từ bill at 03/12/2023 6:59 AM
+BAG:pocollo12 add 3xGiỏ hoa (old: 2) lydo: Mua từ bill at 03/12/2023 6:59 AM
+BAG:pocollo12 add 4xGiỏ hoa (old: 3) lydo: Mua từ bill at 03/12/2023 6:59 AM
+BAG:pocollo12 add 5xGiỏ hoa (old: 4) lydo: Mua từ bill at 03/12/2023 6:59 AM
+BAG:pocollo12 add 1xBó hoa hồng đỏ lydo: Đổi bó hoa hồng đỏ at 03/12/2023 6:59 AM
+BAG:pocollo12 add 34xHoa hồng vàng (old: 33) lydo: Nhặt từ map at 03/12/2023 7:00 AM
+BAG:pocollo12 add 5xĐá lục bảo (old: 4) lydo: Nhặt từ map at 03/12/2023 7:01 AM
+BAG:pocollo12 add 35xHoa hồng vàng (old: 34) lydo: Nhặt từ map at 03/12/2023 7:01 AM
+BAG:pocollo12 add 19xHoa hồng xanh (old: 18) lydo: Nhặt từ map at 03/12/2023 7:01 AM
+BAG:pocollo12 add 6xĐá lục bảo (old: 5) lydo: Nhặt từ map at 03/12/2023 7:01 AM
+BAG:pocollo12 add 20xHoa hồng xanh (old: 19) lydo: Nhặt từ map at 03/12/2023 7:01 AM
+BAG:pocollo12 add 21xHoa hồng xanh (old: 20) lydo: Nhặt từ map at 03/12/2023 7:01 AM
+BAG:pocollo12 add 21xHoa hồng đỏ (old: 20) lydo: Nhặt từ map at 03/12/2023 7:01 AM
+BAG:pocollo12 add 22xHoa hồng xanh (old: 21) lydo: Nhặt từ map at 03/12/2023 7:01 AM
+BAG:pocollo12 add 23xHoa hồng xanh (old: 22) lydo: Nhặt từ map at 03/12/2023 7:01 AM
+BAG:pocollo12 add 24xHoa hồng xanh (old: 23) lydo: Nhặt từ map at 03/12/2023 7:01 AM
+BAG:pocollo12 add 36xHoa hồng vàng (old: 35) lydo: Nhặt từ map at 03/12/2023 7:01 AM
+BAG:pocollo12 add 25xHoa hồng xanh (old: 24) lydo: Nhặt từ map at 03/12/2023 7:01 AM
+BAG:pocollo12 add 26xHoa hồng xanh (old: 25) lydo: Nhặt từ map at 03/12/2023 7:02 AM
+BAG:pocollo12 add 37xHoa hồng vàng (old: 36) lydo: Nhặt từ map at 03/12/2023 7:02 AM
+BAG:pocollo12 add 27xHoa hồng xanh (old: 26) lydo: Nhặt từ map at 03/12/2023 7:02 AM
+BAG:pocollo12 add 38xHoa hồng vàng (old: 37) lydo: Nhặt từ map at 03/12/2023 7:02 AM
+BAG:pocollo12 add 22xHoa hồng đỏ (old: 21) lydo: Nhặt từ map at 03/12/2023 7:02 AM
+BAG:pocollo12 add 39xHoa hồng vàng (old: 38) lydo: Nhặt từ map at 03/12/2023 7:02 AM
+BAG:pocollo12 add 40xHoa hồng vàng (old: 39) lydo: Nhặt từ map at 03/12/2023 7:02 AM
+BAG:pocollo12 add 28xHoa hồng xanh (old: 27) lydo: Nhặt từ map at 03/12/2023 7:02 AM
+BAG:pocollo12 add 1xNgọc Rồng 6 sao lydo: Nhặt từ map at 03/12/2023 7:02 AM
+BAG:pocollo12 add 5xĐá Ruby (old: 4) lydo: Nhặt từ map at 03/12/2023 7:03 AM
+BAG:pocollo12 add 41xHoa hồng vàng (old: 40) lydo: Nhặt từ map at 03/12/2023 7:03 AM
+BAG:pocollo12 add 6xĐá thạch anh tím (old: 5) lydo: Nhặt từ map at 03/12/2023 7:03 AM
+BAG:pocollo12 add 1xĐá Titan lydo: Nhặt từ map at 03/12/2023 7:03 AM
+BAG:pocollo12 add 42xHoa hồng vàng (old: 41) lydo: Nhặt từ map at 03/12/2023 7:03 AM
+BAG:pocollo12 add 23xHoa hồng đỏ (old: 22) lydo: Nhặt từ map at 03/12/2023 7:04 AM
+BAG:pocollo12 add 2xNgọc Rồng 6 sao (old: 1) lydo: Nhặt từ map at 03/12/2023 7:04 AM
+BAG:pocollo12 add 7xĐá thạch anh tím (old: 6) lydo: Nhặt từ map at 03/12/2023 7:04 AM
+BAG:pocollo12 add 24xHoa hồng đỏ (old: 23) lydo: Nhặt từ map at 03/12/2023 7:04 AM
+BAG:pocollo12 add 43xHoa hồng vàng (old: 42) lydo: Nhặt từ map at 03/12/2023 7:04 AM
+BAG:pocollo12 add 25xHoa hồng đỏ (old: 24) lydo: Nhặt từ map at 03/12/2023 7:04 AM
+BAG:pocollo12 add 4xĐá Saphia (old: 3) lydo: Nhặt từ map at 03/12/2023 7:04 AM
+BAG:pocollo12 add 26xHoa hồng đỏ (old: 25) lydo: Nhặt từ map at 03/12/2023 7:04 AM
+BAG:pocollo12 add 29xHoa hồng xanh (old: 28) lydo: Nhặt từ map at 03/12/2023 7:04 AM
+BAG:pocollo12 add 8xĐá thạch anh tím (old: 7) lydo: Nhặt từ map at 03/12/2023 7:04 AM
+BAG:pocollo12 add 27xHoa hồng đỏ (old: 26) lydo: Nhặt từ map at 03/12/2023 7:04 AM
+BAG:pocollo12 add 44xHoa hồng vàng (old: 43) lydo: Nhặt từ map at 03/12/2023 7:04 AM
+BAG:pocollo12 add 45xHoa hồng vàng (old: 44) lydo: Nhặt từ map at 03/12/2023 7:04 AM
+BAG:pocollo12 add 28xHoa hồng đỏ (old: 27) lydo: Nhặt từ map at 03/12/2023 7:04 AM
+BAG:pocollo12 add 5xĐá Saphia (old: 4) lydo: Nhặt từ map at 03/12/2023 7:05 AM
+BAG:pocollo12 add 6xĐá Saphia (old: 5) lydo: Nhặt từ map at 03/12/2023 7:05 AM
+BAG:pocollo12 add 30xHoa hồng xanh (old: 29) lydo: Nhặt từ map at 03/12/2023 7:05 AM
+BAG:pocollo12 add 31xHoa hồng xanh (old: 30) lydo: Nhặt từ map at 03/12/2023 7:05 AM
+BAG:pocollo12 add 29xHoa hồng đỏ (old: 28) lydo: Nhặt từ map at 03/12/2023 7:05 AM
+BAG:pocollo12 add 30xHoa hồng đỏ (old: 29) lydo: Nhặt từ map at 03/12/2023 7:05 AM
+BAG:pocollo12 add 6xĐá Ruby (old: 5) lydo: Nhặt từ map at 03/12/2023 7:06 AM
+BAG:pocollo12 add 46xHoa hồng vàng (old: 45) lydo: Nhặt từ map at 03/12/2023 7:06 AM
+BAG:pocollo12 add 31xHoa hồng đỏ (old: 30) lydo: Nhặt từ map at 03/12/2023 7:06 AM
+BAG:pocollo12 add 32xHoa hồng đỏ (old: 31) lydo: Nhặt từ map at 03/12/2023 7:06 AM
+BAG:pocollo12 add 47xHoa hồng vàng (old: 46) lydo: Nhặt từ map at 03/12/2023 7:06 AM
+BAG:pocollo12 add 33xHoa hồng đỏ (old: 32) lydo: Nhặt từ map at 03/12/2023 7:06 AM
+BAG:pocollo12 add 32xHoa hồng xanh (old: 31) lydo: Nhặt từ map at 03/12/2023 7:06 AM
+BAG:pocollo12 add 9xĐá thạch anh tím (old: 8) lydo: Nhặt từ map at 03/12/2023 7:07 AM
+BAG:pocollo12 add 48xHoa hồng vàng (old: 47) lydo: Nhặt từ map at 03/12/2023 7:07 AM
+BAG:pocollo12 add 1xBông tai Porata lydo: Mua từ cửa hàng at 03/12/2023 7:07 AM
+BAG:pocollo12 add 49xHoa hồng vàng (old: 48) lydo: Nhặt từ map at 03/12/2023 7:08 AM
+BAG:pocollo12 add 33xHoa hồng xanh (old: 32) lydo: Nhặt từ map at 03/12/2023 7:08 AM
+BAG:pocollo12 add 34xHoa hồng xanh (old: 33) lydo: Nhặt từ map at 03/12/2023 7:08 AM
+BAG:pocollo12 add 34xHoa hồng đỏ (old: 33) lydo: Nhặt từ map at 03/12/2023 7:08 AM
+BAG:pocollo12 add 50xHoa hồng vàng (old: 49) lydo: Nhặt từ map at 03/12/2023 7:08 AM
+BAG:pocollo12 add 10xĐá thạch anh tím (old: 9) lydo: Nhặt từ map at 03/12/2023 7:08 AM
+BAG:pocollo12 add 35xHoa hồng đỏ (old: 34) lydo: Nhặt từ map at 03/12/2023 7:08 AM
+BAG:pocollo12 add 36xHoa hồng đỏ (old: 35) lydo: Nhặt từ map at 03/12/2023 7:08 AM
+BAG:pocollo12 add 35xHoa hồng xanh (old: 34) lydo: Nhặt từ map at 03/12/2023 7:08 AM
+BAG:pocollo12 add 51xHoa hồng vàng (old: 50) lydo: Nhặt từ map at 03/12/2023 7:08 AM
+BAG:pocollo12 add 52xHoa hồng vàng (old: 51) lydo: Nhặt từ map at 03/12/2023 7:08 AM
+BAG:pocollo12 add 36xHoa hồng xanh (old: 35) lydo: Nhặt từ map at 03/12/2023 7:08 AM
+BAG:pocollo12 add 53xHoa hồng vàng (old: 52) lydo: Nhặt từ map at 03/12/2023 7:08 AM
+BAG:pocollo12 add 54xHoa hồng vàng (old: 53) lydo: Nhặt từ map at 03/12/2023 7:09 AM
+BAG:pocollo12 add 37xHoa hồng đỏ (old: 36) lydo: Nhặt từ map at 03/12/2023 7:09 AM
+BAG:pocollo12 add 37xHoa hồng xanh (old: 36) lydo: Nhặt từ map at 03/12/2023 7:09 AM
+BAG:pocollo12 add 38xHoa hồng xanh (old: 37) lydo: Nhặt từ map at 03/12/2023 7:09 AM
+BAG:pocollo12 add 55xHoa hồng vàng (old: 54) lydo: Nhặt từ map at 03/12/2023 7:09 AM
+BAG:pocollo12 add 7xĐá lục bảo (old: 6) lydo: Nhặt từ map at 03/12/2023 7:09 AM
+BAG:pocollo12 add 39xHoa hồng xanh (old: 38) lydo: Nhặt từ map at 03/12/2023 7:09 AM
+BAG:pocollo12 add 56xHoa hồng vàng (old: 55) lydo: Nhặt từ map at 03/12/2023 7:09 AM
+BAG:pocollo12 add 40xHoa hồng xanh (old: 39) lydo: Nhặt từ map at 03/12/2023 7:09 AM
+BAG:pocollo12 add 38xHoa hồng đỏ (old: 37) lydo: Nhặt từ map at 03/12/2023 7:09 AM
+BAG:pocollo12 add 57xHoa hồng vàng (old: 56) lydo: Nhặt từ map at 03/12/2023 7:09 AM
+BAG:pocollo12 add 58xHoa hồng vàng (old: 57) lydo: Nhặt từ map at 03/12/2023 7:09 AM
+BAG:pocollo12 add 59xHoa hồng vàng (old: 58) lydo: Nhặt từ map at 03/12/2023 7:10 AM
+BAG:pocollo12 add 39xHoa hồng đỏ (old: 38) lydo: Nhặt từ map at 03/12/2023 7:10 AM
+BAG:pocollo12 add 60xHoa hồng vàng (old: 59) lydo: Nhặt từ map at 03/12/2023 7:10 AM
+BAG:pocollo12 add 61xHoa hồng vàng (old: 60) lydo: Nhặt từ map at 03/12/2023 7:10 AM
+BAG:pocollo12 add 41xHoa hồng xanh (old: 40) lydo: Nhặt từ map at 03/12/2023 7:10 AM
+BAG:pocollo12 add 2xĐá Titan (old: 1) lydo: Nhặt từ map at 03/12/2023 7:10 AM
+BAG:pocollo12 add 40xHoa hồng đỏ (old: 39) lydo: Nhặt từ map at 03/12/2023 7:10 AM
+BAG:pocollo12 add 62xHoa hồng vàng (old: 61) lydo: Nhặt từ map at 03/12/2023 7:10 AM
+BAG:pocollo12 add 42xHoa hồng xanh (old: 41) lydo: Nhặt từ map at 03/12/2023 7:10 AM
+BAG:pocollo12 add 41xHoa hồng đỏ (old: 40) lydo: Nhặt từ map at 03/12/2023 7:10 AM
+BAG:pocollo12 add 63xHoa hồng vàng (old: 62) lydo: Nhặt từ map at 03/12/2023 7:10 AM
+BAG:pocollo12 add 1xSách đấm Demon lv2 lydo: Mua từ cửa hàng at 03/12/2023 7:11 AM
+BAG:pocollo12 add 1xSách đấm Demon lv3 lydo: Mua từ cửa hàng at 03/12/2023 7:11 AM
+BAG:pocollo12 add 1xSách đấm Demon lv4 lydo: Mua từ cửa hàng at 03/12/2023 7:11 AM
+BAG:pocollo12 add 43xHoa hồng xanh (old: 42) lydo: Nhặt từ map at 03/12/2023 7:11 AM
+BAG:pocollo12 add 8xĐá lục bảo (old: 7) lydo: Nhặt từ map at 03/12/2023 7:11 AM
+BAG:pocollo12 add 64xHoa hồng vàng (old: 63) lydo: Nhặt từ map at 03/12/2023 7:12 AM
+BAG:pocollo12 add 65xHoa hồng vàng (old: 64) lydo: Nhặt từ map at 03/12/2023 7:12 AM
+BAG:pocollo12 add 66xHoa hồng vàng (old: 65) lydo: Nhặt từ map at 03/12/2023 7:12 AM
+BAG:pocollo12 add 42xHoa hồng đỏ (old: 41) lydo: Nhặt từ map at 03/12/2023 7:12 AM
+BAG:pocollo12 add 7xĐá Saphia (old: 6) lydo: Nhặt từ map at 03/12/2023 7:12 AM
+BAG:pocollo12 add 9xĐá lục bảo (old: 8) lydo: Nhặt từ map at 03/12/2023 7:12 AM
+BAG:pocollo12 add 67xHoa hồng vàng (old: 66) lydo: Nhặt từ map at 03/12/2023 7:12 AM
+BAG:pocollo12 add 43xHoa hồng đỏ (old: 42) lydo: Nhặt từ map at 03/12/2023 7:12 AM
+BAG:pocollo12 add 1xSách đấm Demon lv5 lydo: Mua từ cửa hàng at 03/12/2023 7:12 AM
+BAG:pocollo12 add 11xĐá thạch anh tím (old: 10) lydo: Nhặt từ map at 03/12/2023 7:13 AM
+BAG:pocollo12 add 44xHoa hồng đỏ (old: 43) lydo: Nhặt từ map at 03/12/2023 7:13 AM
+BAG:pocollo12 add 44xHoa hồng xanh (old: 43) lydo: Nhặt từ map at 03/12/2023 7:13 AM
+BAG:pocollo12 add 1xĐá Titan lydo: Nhặt từ map at 03/12/2023 7:13 AM
+BAG:pocollo12 add 45xHoa hồng đỏ (old: 44) lydo: Nhặt từ map at 03/12/2023 7:13 AM
+BAG:pocollo12 add 68xHoa hồng vàng (old: 67) lydo: Nhặt từ map at 03/12/2023 7:13 AM
+BAG:pocollo12 add 46xHoa hồng đỏ (old: 45) lydo: Nhặt từ map at 03/12/2023 7:13 AM
+BAG:pocollo12 add 69xHoa hồng vàng (old: 68) lydo: Nhặt từ map at 03/12/2023 7:13 AM
+BAG:pocollo12 add 2xĐá Titan (old: 1) lydo: Nhặt từ map at 03/12/2023 7:13 AM
+BAG:pocollo12 add 45xHoa hồng xanh (old: 44) lydo: Nhặt từ map at 03/12/2023 7:13 AM
+BAG:pocollo12 add 70xHoa hồng vàng (old: 69) lydo: Nhặt từ map at 03/12/2023 7:13 AM
+BAG:pocollo12 add 46xHoa hồng xanh (old: 45) lydo: Nhặt từ map at 03/12/2023 7:14 AM
+BAG:pocollo12 add 71xHoa hồng vàng (old: 70) lydo: Nhặt từ map at 03/12/2023 7:14 AM
+BAG:pocollo12 add 47xHoa hồng xanh (old: 46) lydo: Nhặt từ map at 03/12/2023 7:14 AM
+BAG:pocollo12 add 48xHoa hồng xanh (old: 47) lydo: Nhặt từ map at 03/12/2023 7:14 AM
+BAG:pocollo12 add 47xHoa hồng đỏ (old: 46) lydo: Nhặt từ map at 03/12/2023 7:14 AM
+BAG:pocollo12 add 72xHoa hồng vàng (old: 71) lydo: Nhặt từ map at 03/12/2023 7:14 AM
+BAG:pocollo12 add 8xĐá Saphia (old: 7) lydo: Nhặt từ map at 03/12/2023 7:14 AM
+BAG:pocollo12 add 9xĐá Saphia (old: 8) lydo: Nhặt từ map at 03/12/2023 7:14 AM
+BAG:pocollo12 add 10xĐá Saphia (old: 9) lydo: Nhặt từ map at 03/12/2023 7:14 AM
+BAG:pocollo12 add 7xĐá Ruby (old: 6) lydo: Nhặt từ map at 03/12/2023 7:15 AM
+BAG:pocollo12 add 49xHoa hồng xanh (old: 48) lydo: Nhặt từ map at 03/12/2023 7:15 AM
+BAG:pocollo12 add 50xHoa hồng xanh (old: 49) lydo: Nhặt từ map at 03/12/2023 7:15 AM
+BAG:pocollo12 add 10xĐá lục bảo (old: 9) lydo: Nhặt từ map at 03/12/2023 7:15 AM
+BAG:pocollo12 add 51xHoa hồng xanh (old: 50) lydo: Nhặt từ map at 03/12/2023 7:15 AM
+BAG:pocollo12 add 52xHoa hồng xanh (old: 51) lydo: Nhặt từ map at 03/12/2023 7:15 AM
+BAG:pocollo12 add 48xHoa hồng đỏ (old: 47) lydo: Nhặt từ map at 03/12/2023 7:15 AM
+BAG:pocollo12 add 73xHoa hồng vàng (old: 72) lydo: Nhặt từ map at 03/12/2023 7:16 AM
+BAG:pocollo12 add 53xHoa hồng xanh (old: 52) lydo: Nhặt từ map at 03/12/2023 7:16 AM
+BAG:pocollo12 add 74xHoa hồng vàng (old: 73) lydo: Nhặt từ map at 03/12/2023 7:16 AM
+BAG:pocollo12 add 75xHoa hồng vàng (old: 74) lydo: Nhặt từ map at 03/12/2023 7:16 AM
+BAG:pocollo12 add 49xHoa hồng đỏ (old: 48) lydo: Nhặt từ map at 03/12/2023 7:16 AM
+BAG:pocollo12 add 50xHoa hồng đỏ (old: 49) lydo: Nhặt từ map at 03/12/2023 7:16 AM
+BAG:pocollo12 add 54xHoa hồng xanh (old: 53) lydo: Nhặt từ map at 03/12/2023 7:16 AM
+BAG:pocollo12 add 76xHoa hồng vàng (old: 75) lydo: Nhặt từ map at 03/12/2023 7:16 AM
+BAG:pocollo12 add 51xHoa hồng đỏ (old: 50) lydo: Nhặt từ map at 03/12/2023 7:16 AM
+BAG:pocollo12 add 3xĐá Titan (old: 2) lydo: Nhặt từ map at 03/12/2023 7:16 AM
+BAG:pocollo12 add 77xHoa hồng vàng (old: 76) lydo: Nhặt từ map at 03/12/2023 7:16 AM
+BAG:pocollo12 add 8xĐá Ruby (old: 7) lydo: Nhặt từ map at 03/12/2023 7:16 AM
+BAG:pocollo12 add 12xĐá thạch anh tím (old: 11) lydo: Nhặt từ map at 03/12/2023 7:16 AM
+BAG:pocollo12 add 78xHoa hồng vàng (old: 77) lydo: Nhặt từ map at 03/12/2023 7:16 AM
+BAG:pocollo12 add 55xHoa hồng xanh (old: 54) lydo: Nhặt từ map at 03/12/2023 7:17 AM
+BAG:pocollo12 add 79xHoa hồng vàng (old: 78) lydo: Nhặt từ map at 03/12/2023 7:17 AM
+BAG:pocollo12 add 9xĐá Ruby (old: 8) lydo: Nhặt từ map at 03/12/2023 7:17 AM
+BAG:pocollo12 add 56xHoa hồng xanh (old: 55) lydo: Nhặt từ map at 03/12/2023 7:17 AM
+BAG:pocollo12 add 52xHoa hồng đỏ (old: 51) lydo: Nhặt từ map at 03/12/2023 7:17 AM
+BAG:pocollo12 add 53xHoa hồng đỏ (old: 52) lydo: Nhặt từ map at 03/12/2023 7:17 AM
+BAG:pocollo12 add 80xHoa hồng vàng (old: 79) lydo: Nhặt từ map at 03/12/2023 7:17 AM
+BAG:pocollo12 add 81xHoa hồng vàng (old: 80) lydo: Nhặt từ map at 03/12/2023 7:17 AM
+BAG:pocollo12 add 82xHoa hồng vàng (old: 81) lydo: Nhặt từ map at 03/12/2023 7:17 AM
+BAG:pocollo12 add 83xHoa hồng vàng (old: 82) lydo: Nhặt từ map at 03/12/2023 7:17 AM
+BAG:pocollo12 add 84xHoa hồng vàng (old: 83) lydo: Nhặt từ map at 03/12/2023 7:17 AM
+BAG:pocollo12 add 85xHoa hồng vàng (old: 84) lydo: Nhặt từ map at 03/12/2023 7:17 AM
+BAG:pocollo12 add 57xHoa hồng xanh (old: 56) lydo: Nhặt từ map at 03/12/2023 7:17 AM
+BAG:pocollo12 add 11xĐá lục bảo (old: 10) lydo: Nhặt từ map at 03/12/2023 7:17 AM
+BAG:pocollo12 add 58xHoa hồng xanh (old: 57) lydo: Nhặt từ map at 03/12/2023 7:17 AM
+BAG:pocollo12 add 59xHoa hồng xanh (old: 58) lydo: Nhặt từ map at 03/12/2023 7:17 AM
+BAG:pocollo12 add 86xHoa hồng vàng (old: 85) lydo: Nhặt từ map at 03/12/2023 7:18 AM
+BAG:pocollo12 add 87xHoa hồng vàng (old: 86) lydo: Nhặt từ map at 03/12/2023 7:18 AM
+BAG:pocollo12 add 60xHoa hồng xanh (old: 59) lydo: Nhặt từ map at 03/12/2023 7:18 AM
+BAG:pocollo12 add 61xHoa hồng xanh (old: 60) lydo: Nhặt từ map at 03/12/2023 7:18 AM
+BAG:pocollo12 add 62xHoa hồng xanh (old: 61) lydo: Nhặt từ map at 03/12/2023 7:18 AM
+BAG:pocollo12 add 88xHoa hồng vàng (old: 87) lydo: Nhặt từ map at 03/12/2023 7:18 AM
+BAG:pocollo12 add 89xHoa hồng vàng (old: 88) lydo: Nhặt từ map at 03/12/2023 7:18 AM
+BAG:pocollo12 add 90xHoa hồng vàng (old: 89) lydo: Nhặt từ map at 03/12/2023 7:18 AM
+BAG:pocollo12 add 63xHoa hồng xanh (old: 62) lydo: Nhặt từ map at 03/12/2023 7:18 AM
+BAG:pocollo12 add 91xHoa hồng vàng (old: 90) lydo: Nhặt từ map at 03/12/2023 7:18 AM
+BAG:pocollo12 add 92xHoa hồng vàng (old: 91) lydo: Nhặt từ map at 03/12/2023 7:18 AM
+BAG:pocollo12 add 93xHoa hồng vàng (old: 92) lydo: Nhặt từ map at 03/12/2023 7:19 AM
+BAG:pocollo12 add 64xHoa hồng xanh (old: 63) lydo: Nhặt từ map at 03/12/2023 7:19 AM
+BAG:pocollo12 add 65xHoa hồng xanh (old: 64) lydo: Nhặt từ map at 03/12/2023 7:19 AM
+BAG:pocollo12 add 66xHoa hồng xanh (old: 65) lydo: Nhặt từ map at 03/12/2023 7:19 AM
+BAG:pocollo12 add 94xHoa hồng vàng (old: 93) lydo: Nhặt từ map at 03/12/2023 7:19 AM
+BAG:pocollo12 add 54xHoa hồng đỏ (old: 53) lydo: Nhặt từ map at 03/12/2023 7:19 AM
+BAG:pocollo12 add 67xHoa hồng xanh (old: 66) lydo: Nhặt từ map at 03/12/2023 7:19 AM
+BAG:pocollo12 add 55xHoa hồng đỏ (old: 54) lydo: Nhặt từ map at 03/12/2023 7:19 AM
+BAG:pocollo12 add 95xHoa hồng vàng (old: 94) lydo: Nhặt từ map at 03/12/2023 7:19 AM
+BAG:pocollo12 add 96xHoa hồng vàng (old: 95) lydo: Nhặt từ map at 03/12/2023 7:19 AM
+BAG:pocollo12 add 97xHoa hồng vàng (old: 96) lydo: Nhặt từ map at 03/12/2023 7:19 AM
+BAG:pocollo12 add 11xĐá Saphia (old: 10) lydo: Nhặt từ map at 03/12/2023 7:19 AM
+BAG:pocollo12 add 98xHoa hồng vàng (old: 97) lydo: Nhặt từ map at 03/12/2023 7:19 AM
+BAG:pocollo12 add 68xHoa hồng xanh (old: 67) lydo: Nhặt từ map at 03/12/2023 7:19 AM
+BAG:pocollo12 add 56xHoa hồng đỏ (old: 55) lydo: Nhặt từ map at 03/12/2023 7:19 AM
+BAG:pocollo12 add 57xHoa hồng đỏ (old: 56) lydo: Nhặt từ map at 03/12/2023 7:19 AM
+BAG:pocollo12 add 58xHoa hồng đỏ (old: 57) lydo: Nhặt từ map at 03/12/2023 7:19 AM
+BAG:pocollo12 add 99xHoa hồng vàng (old: 98) lydo: Nhặt từ map at 03/12/2023 7:19 AM
+BAG:pocollo12 add 59xHoa hồng đỏ (old: 58) lydo: Nhặt từ map at 03/12/2023 7:19 AM
+BAG:pocollo12 add 60xHoa hồng đỏ (old: 59) lydo: Nhặt từ map at 03/12/2023 7:19 AM
+BAG:pocollo12 add 100xHoa hồng vàng (old: 99) lydo: Nhặt từ map at 03/12/2023 7:19 AM
+BAG:pocollo12 add 69xHoa hồng xanh (old: 68) lydo: Nhặt từ map at 03/12/2023 7:20 AM
+BAG:pocollo12 add 70xHoa hồng xanh (old: 69) lydo: Nhặt từ map at 03/12/2023 7:20 AM
+BAG:pocollo12 add 71xHoa hồng xanh (old: 70) lydo: Nhặt từ map at 03/12/2023 7:20 AM
+BAG:pocollo12 add 61xHoa hồng đỏ (old: 60) lydo: Nhặt từ map at 03/12/2023 7:20 AM
+BAG:pocollo12 add 10xĐá Ruby (old: 9) lydo: Nhặt từ map at 03/12/2023 7:20 AM
+BAG:pocollo12 add 101xHoa hồng vàng (old: 100) lydo: Nhặt từ map at 03/12/2023 7:20 AM
+BAG:pocollo12 add 72xHoa hồng xanh (old: 71) lydo: Nhặt từ map at 03/12/2023 7:20 AM
+BAG:pocollo12 add 102xHoa hồng vàng (old: 101) lydo: Nhặt từ map at 03/12/2023 7:20 AM
+BAG:pocollo12 add 62xHoa hồng đỏ (old: 61) lydo: Nhặt từ map at 03/12/2023 7:20 AM
+BAG:pocollo12 add 1xĐổi đệ tử lydo: Mua từ cửa hàng at 03/12/2023 7:21 AM
+BAG:pocollo12 add 2xĐổi đệ tử (old: 1) lydo: Mua từ cửa hàng at 03/12/2023 7:21 AM
+BAG:pocollo12 add 3xĐổi đệ tử (old: 2) lydo: Mua từ cửa hàng at 03/12/2023 7:21 AM
+BAG:pocollo12 add 1xĐổi đệ tử lydo: Mua từ cửa hàng at 03/12/2023 7:22 AM
+BAG:pocollo12 add 2xĐổi đệ tử (old: 1) lydo: Mua từ cửa hàng at 03/12/2023 7:22 AM
+BAG:pocollo12 add 1xĐổi đệ tử lydo: Mua từ cửa hàng at 03/12/2023 11:52 AM
+BAG:pocollo12 add 2xĐổi đệ tử (old: 1) lydo: Mua từ cửa hàng at 03/12/2023 11:52 AM
+BAG:pocollo12 add 3xĐổi đệ tử (old: 2) lydo: Mua từ cửa hàng at 03/12/2023 11:52 AM
+BAG:pocollo12 add 4xĐổi đệ tử (old: 3) lydo: Mua từ cửa hàng at 03/12/2023 11:52 AM
+BAG:pocollo12 add 5xĐổi đệ tử (old: 4) lydo: Mua từ cửa hàng at 03/12/2023 11:52 AM
+BAG:pocollo12 add 6xĐổi đệ tử (old: 5) lydo: Mua từ cửa hàng at 03/12/2023 11:53 AM
+BAG:pocollo12 add 7xĐổi đệ tử (old: 6) lydo: Mua từ cửa hàng at 03/12/2023 11:53 AM
+BAG:pocollo12 add 8xĐổi đệ tử (old: 7) lydo: Mua từ cửa hàng at 03/12/2023 11:53 AM
+BAG:pocollo12 add 9xĐổi đệ tử (old: 8) lydo: Mua từ cửa hàng at 03/12/2023 11:53 AM
+BAG:pocollo12 add 10xĐổi đệ tử (old: 9) lydo: Mua từ cửa hàng at 03/12/2023 11:53 AM
+BAG:pocollo12 add 11xĐổi đệ tử (old: 10) lydo: Mua từ cửa hàng at 03/12/2023 11:53 AM
+BAG:pocollo12 add 1xĐổi đệ tử lydo: Mua từ cửa hàng at 03/12/2023 11:54 AM
+BAG:pocollo12 add 2xĐổi đệ tử (old: 1) lydo: Mua từ cửa hàng at 03/12/2023 11:54 AM
+BAG:pocollo12 add 3xĐổi đệ tử (old: 2) lydo: Mua từ cửa hàng at 03/12/2023 11:54 AM
+BAG:pocollo12 add 4xĐổi đệ tử (old: 3) lydo: Mua từ cửa hàng at 03/12/2023 11:54 AM
+BAG:pocollo12 add 5xĐổi đệ tử (old: 4) lydo: Mua từ cửa hàng at 03/12/2023 11:54 AM
+BAG:pocollo12 add 6xĐổi đệ tử (old: 5) lydo: Mua từ cửa hàng at 03/12/2023 11:54 AM
+BAG:pocollo12 add 7xĐổi đệ tử (old: 6) lydo: Mua từ cửa hàng at 03/12/2023 11:54 AM
+BAG:pocollo12 add 8xĐổi đệ tử (old: 7) lydo: Mua từ cửa hàng at 03/12/2023 11:54 AM
+BAG:pocollo12 add 9xĐổi đệ tử (old: 8) lydo: Mua từ cửa hàng at 03/12/2023 11:54 AM
+BAG:pocollo12 add 10xĐổi đệ tử (old: 9) lydo: Mua từ cửa hàng at 03/12/2023 11:54 AM
+BAG:pocollo12 add 11xĐổi đệ tử (old: 10) lydo: Mua từ cửa hàng at 03/12/2023 11:54 AM
+BAG:pocollo12 add 12xĐổi đệ tử (old: 11) lydo: Mua từ cửa hàng at 03/12/2023 11:54 AM
+BAG:pocollo12 add 13xĐổi đệ tử (old: 12) lydo: Mua từ cửa hàng at 03/12/2023 11:54 AM
+BAG:pocollo12 add 14xĐổi đệ tử (old: 13) lydo: Mua từ cửa hàng at 03/12/2023 11:54 AM
+BAG:pocollo12 add 15xĐổi đệ tử (old: 14) lydo: Mua từ cửa hàng at 03/12/2023 11:54 AM
+BAG:pocollo12 add 1xĐổi đệ tử lydo: Mua từ cửa hàng at 03/12/2023 11:55 AM
+BAG:pocollo12 add 2xĐổi đệ tử (old: 1) lydo: Mua từ cửa hàng at 03/12/2023 11:55 AM
+BAG:pocollo12 add 3xĐổi đệ tử (old: 2) lydo: Mua từ cửa hàng at 03/12/2023 11:55 AM
+BAG:pocollo12 add 4xĐổi đệ tử (old: 3) lydo: Mua từ cửa hàng at 03/12/2023 11:55 AM
+BAG:pocollo12 add 5xĐổi đệ tử (old: 4) lydo: Mua từ cửa hàng at 03/12/2023 11:55 AM
+BAG:pocollo12 add 6xĐổi đệ tử (old: 5) lydo: Mua từ cửa hàng at 03/12/2023 11:55 AM
+BAG:pocollo12 add 7xĐổi đệ tử (old: 6) lydo: Mua từ cửa hàng at 03/12/2023 11:55 AM
+BAG:pocollo12 add 8xĐổi đệ tử (old: 7) lydo: Mua từ cửa hàng at 03/12/2023 11:55 AM
+BAG:pocollo12 add 9xĐổi đệ tử (old: 8) lydo: Mua từ cửa hàng at 03/12/2023 11:55 AM
+BAG:pocollo12 add 10xĐổi đệ tử (old: 9) lydo: Mua từ cửa hàng at 03/12/2023 11:55 AM
+BAG:pocollo12 add 11xĐổi đệ tử (old: 10) lydo: Mua từ cửa hàng at 03/12/2023 11:55 AM
+BAG:pocollo12 add 12xĐổi đệ tử (old: 11) lydo: Mua từ cửa hàng at 03/12/2023 11:56 AM
+BAG:pocollo12 add 1xĐổi đệ tử lydo: Mua từ cửa hàng at 03/12/2023 11:57 AM
+BAG:pocollo12 add 2xĐổi đệ tử (old: 1) lydo: Mua từ cửa hàng at 03/12/2023 11:57 AM
+BAG:pocollo12 add 3xĐổi đệ tử (old: 2) lydo: Mua từ cửa hàng at 03/12/2023 11:57 AM
+BAG:pocollo12 add 4xĐổi đệ tử (old: 3) lydo: Mua từ cửa hàng at 03/12/2023 11:57 AM
+BAG:pocollo12 add 5xĐổi đệ tử (old: 4) lydo: Mua từ cửa hàng at 03/12/2023 11:57 AM
+BAG:pocollo12 add 6xĐổi đệ tử (old: 5) lydo: Mua từ cửa hàng at 03/12/2023 11:57 AM
+BAG:pocollo12 add 7xĐổi đệ tử (old: 6) lydo: Mua từ cửa hàng at 03/12/2023 11:57 AM
+BAG:pocollo12 add 8xĐổi đệ tử (old: 7) lydo: Mua từ cửa hàng at 03/12/2023 11:57 AM
+BAG:pocollo12 add 9xĐổi đệ tử (old: 8) lydo: Mua từ cửa hàng at 03/12/2023 11:57 AM
+BAG:pocollo12 add 10xĐổi đệ tử (old: 9) lydo: Mua từ cửa hàng at 03/12/2023 11:57 AM
+BAG:pocollo12 add 11xĐổi đệ tử (old: 10) lydo: Mua từ cửa hàng at 03/12/2023 11:57 AM
+BAG:pocollo12 add 1xNâng cấp kỹ năng 1 đệ tử lydo: Mua từ cửa hàng at 03/12/2023 11:58 AM
+BAG:pocollo12 add 2xNâng cấp kỹ năng 1 đệ tử (old: 1) lydo: Mua từ cửa hàng at 03/12/2023 11:58 AM
+BAG:pocollo12 add 3xNâng cấp kỹ năng 1 đệ tử (old: 2) lydo: Mua từ cửa hàng at 03/12/2023 11:58 AM
+BAG:pocollo12 add 4xNâng cấp kỹ năng 1 đệ tử (old: 3) lydo: Mua từ cửa hàng at 03/12/2023 11:58 AM
+BAG:pocollo12 add 5xNâng cấp kỹ năng 1 đệ tử (old: 4) lydo: Mua từ cửa hàng at 03/12/2023 11:58 AM
+BAG:pocollo12 add 6xNâng cấp kỹ năng 1 đệ tử (old: 5) lydo: Mua từ cửa hàng at 03/12/2023 11:58 AM

@@ -1,0 +1,338 @@
+BAG:hupchoo add 10xĐậu thần cấp 10 lydo: Thu hoạch đậu at 03/11/2023 9:52 AM
+BAG:hupchoo add 1xRada cấp 1 lydo: Lấy từ rương qua người at 03/11/2023 9:52 AM
+BAG:hupchoo add 1xHoa hồng đỏ lydo: Nhặt từ map at 03/11/2023 9:55 AM
+BAG:hupchoo add 2xHoa hồng đỏ (old: 1) lydo: Nhặt từ map at 03/11/2023 9:55 AM
+BAG:hupchoo add 1xHoa hồng xanh lydo: Nhặt từ map at 03/11/2023 9:55 AM
+BAG:hupchoo add 1xĐá Titan lydo: Nhặt từ map at 03/11/2023 9:55 AM
+BAG:hupchoo add 3xHoa hồng đỏ (old: 2) lydo: Nhặt từ map at 03/11/2023 9:56 AM
+BAG:hupchoo add 4xHoa hồng đỏ (old: 3) lydo: Nhặt từ map at 03/11/2023 9:56 AM
+BAG:hupchoo add 1xHoa hồng vàng lydo: Nhặt từ map at 03/11/2023 9:56 AM
+BAG:hupchoo add 2xHoa hồng xanh (old: 1) lydo: Nhặt từ map at 03/11/2023 9:56 AM
+BAG:hupchoo add 2xHoa hồng vàng (old: 1) lydo: Nhặt từ map at 03/11/2023 9:56 AM
+BAG:hupchoo add 3xHoa hồng vàng (old: 2) lydo: Nhặt từ map at 03/11/2023 10:03 AM
+BAG:hupchoo add 1xĐá Saphia lydo: Nhặt từ map at 03/11/2023 10:04 AM
+BAG:hupchoo add 3xHoa hồng xanh (old: 2) lydo: Nhặt từ map at 03/11/2023 10:04 AM
+BAG:hupchoo add 4xHoa hồng vàng (old: 3) lydo: Nhặt từ map at 03/11/2023 10:04 AM
+BAG:hupchoo add 5xHoa hồng vàng (old: 4) lydo: Nhặt từ map at 03/11/2023 10:04 AM
+BAG:hupchoo add 6xHoa hồng vàng (old: 5) lydo: Nhặt từ map at 03/11/2023 10:05 AM
+BAG:hupchoo add 4xHoa hồng xanh (old: 3) lydo: Nhặt từ map at 03/11/2023 10:05 AM
+BAG:hupchoo add 10xĐậu thần cấp 10 lydo: Thu hoạch đậu at 03/11/2023 10:07 AM
+BAG:hupchoo add 7xHoa hồng vàng (old: 6) lydo: Nhặt từ map at 03/11/2023 10:12 AM
+BAG:hupchoo add 5xHoa hồng xanh (old: 4) lydo: Nhặt từ map at 03/11/2023 10:13 AM
+BAG:hupchoo add 1xMảnh Lợn lòi mẹ lydo: Nhặt từ map at 03/11/2023 10:13 AM
+BAG:hupchoo add 1xĐá Ruby lydo: Nhặt từ map at 03/11/2023 10:13 AM
+BAG:hupchoo add 1xRada cấp 1 lydo: Nhặt từ map at 03/11/2023 10:14 AM
+BAG:hupchoo add 1xQuần vải đen lydo: Nhặt từ map at 03/11/2023 10:14 AM
+BAG:hupchoo add 8xHoa hồng vàng (old: 7) lydo: Nhặt từ map at 03/11/2023 10:15 AM
+BAG:hupchoo add 2xĐá Titan (old: 1) lydo: Nhặt từ map at 03/11/2023 10:15 AM
+BAG:hupchoo add 9xHoa hồng vàng (old: 8) lydo: Nhặt từ map at 03/11/2023 10:16 AM
+BAG:hupchoo add 2xĐá Saphia (old: 1) lydo: Nhặt từ map at 03/11/2023 10:16 AM
+BAG:hupchoo add 6xHoa hồng xanh (old: 5) lydo: Nhặt từ map at 03/11/2023 10:16 AM
+BAG:hupchoo add 1xÁo vải 3 lỗ lydo: Nhặt từ map at 03/11/2023 10:16 AM
+BAG:hupchoo add 10xHoa hồng vàng (old: 9) lydo: Nhặt từ map at 03/11/2023 10:16 AM
+BAG:hupchoo add 11xHoa hồng vàng (old: 10) lydo: Nhặt từ map at 03/11/2023 10:16 AM
+BAG:hupchoo add 3xĐá Saphia (old: 2) lydo: Nhặt từ map at 03/11/2023 10:16 AM
+BAG:hupchoo add 1xÁo vải 3 lỗ lydo: Nhặt từ map at 03/11/2023 10:17 AM
+BAG:hupchoo add 5xHoa hồng đỏ (old: 4) lydo: Nhặt từ map at 03/11/2023 10:17 AM
+BAG:hupchoo add 2xĐá Ruby (old: 1) lydo: Nhặt từ map at 03/11/2023 10:17 AM
+BAG:hupchoo add 12xHoa hồng vàng (old: 11) lydo: Nhặt từ map at 03/11/2023 10:17 AM
+BAG:hupchoo add 1xGăng vải đen lydo: Nhặt từ map at 03/11/2023 10:17 AM
+BAG:hupchoo add 7xHoa hồng xanh (old: 6) lydo: Nhặt từ map at 03/11/2023 10:17 AM
+BAG:hupchoo add 8xHoa hồng xanh (old: 7) lydo: Nhặt từ map at 03/11/2023 10:17 AM
+BAG:hupchoo add 1xÁo vải 3 lỗ lydo: Nhặt từ map at 03/11/2023 10:18 AM
+BAG:hupchoo add 3xĐá Titan (old: 2) lydo: Nhặt từ map at 03/11/2023 10:18 AM
+BAG:hupchoo add 13xHoa hồng vàng (old: 12) lydo: Nhặt từ map at 03/11/2023 10:18 AM
+BAG:hupchoo add 4xĐá Saphia (old: 3) lydo: Nhặt từ map at 03/11/2023 10:18 AM
+BAG:hupchoo add 1xGăng vải đen lydo: Nhặt từ map at 03/11/2023 10:18 AM
+BAG:hupchoo add 1xĐá thạch anh tím lydo: Nhặt từ map at 03/11/2023 10:18 AM
+BAG:hupchoo add 1xViên Capsule đặc biệt lydo: Mua từ cửa hàng at 03/11/2023 10:19 AM
+BAG:hupchoo add 1xNho tím lydo: Mua từ cửa hàng at 03/11/2023 10:19 AM
+BAG:hupchoo add 1xGhế bay lydo: Mua từ cửa hàng at 03/11/2023 10:21 AM
+BAG:hupchoo add 30xĐậu thần cấp 9 lydo: Mua từ cửa hàng at 03/11/2023 10:22 AM
+BAG:hupchoo add 1xSách đấm Dragon lv2 lydo: Mua từ cửa hàng at 03/11/2023 10:23 AM
+BAG:hupchoo add 1xSách đấm Dragon lv3 lydo: Mua từ cửa hàng at 03/11/2023 10:23 AM
+BAG:hupchoo add 1xSách đấm Dragon lv4 lydo: Mua từ cửa hàng at 03/11/2023 10:23 AM
+BAG:hupchoo add 1xSách đấm Dragon lv5 lydo: Mua từ cửa hàng at 03/11/2023 10:23 AM
+BAG:hupchoo add 1xSách đấm Dragon lv6 lydo: Mua từ cửa hàng at 03/11/2023 10:23 AM
+BAG:hupchoo add 1xSách đấm Dragon lv7 lydo: Mua từ cửa hàng at 03/11/2023 10:23 AM
+BAG:hupchoo add 1xĐá lục bảo lydo: Nhặt từ map at 03/11/2023 10:24 AM
+BAG:hupchoo add 6xHoa hồng đỏ (old: 5) lydo: Nhặt từ map at 03/11/2023 10:26 AM
+BAG:hupchoo add 5xĐá Saphia (old: 4) lydo: Nhặt từ map at 03/11/2023 10:27 AM
+BAG:hupchoo add 1xĐổi đệ tử lydo: Mua từ cửa hàng at 03/11/2023 10:28 AM
+BAG:hupchoo add 14xHoa hồng vàng (old: 13) lydo: Nhặt từ map at 03/11/2023 10:30 AM
+BAG:hupchoo add 9xHoa hồng xanh (old: 8) lydo: Nhặt từ map at 03/11/2023 10:33 AM
+BAG:hupchoo add 15xHoa hồng vàng (old: 14) lydo: Nhặt từ map at 03/11/2023 10:34 AM
+BAG:hupchoo add 10xHoa hồng xanh (old: 9) lydo: Nhặt từ map at 03/11/2023 10:35 AM
+BAG:hupchoo add 16xHoa hồng vàng (old: 15) lydo: Nhặt từ map at 03/11/2023 10:38 AM
+BAG:hupchoo add 7xHoa hồng đỏ (old: 6) lydo: Nhặt từ map at 03/11/2023 10:38 AM
+BAG:hupchoo add 8xHoa hồng đỏ (old: 7) lydo: Nhặt từ map at 03/11/2023 10:40 AM
+BAG:hupchoo add 2xĐá lục bảo (old: 1) lydo: Nhặt từ map at 03/11/2023 10:40 AM
+BAG:hupchoo add 9xHoa hồng đỏ (old: 8) lydo: Nhặt từ map at 03/11/2023 10:41 AM
+BAG:hupchoo add 32xĐậu thần cấp 9 (old: 2) lydo: Mua từ cửa hàng at 03/11/2023 10:43 AM
+BAG:hupchoo add 62xĐậu thần cấp 9 (old: 32) lydo: Mua từ cửa hàng at 03/11/2023 10:43 AM
+BAG:hupchoo add 92xĐậu thần cấp 9 (old: 62) lydo: Mua từ cửa hàng at 03/11/2023 10:43 AM
+BAG:hupchoo add 23xĐậu thần cấp 9 lydo: Mua từ cửa hàng at 03/11/2023 10:43 AM
+BAG:hupchoo add 99xĐậu thần cấp 9 (old: 92) lydo: Mua từ cửa hàng at 03/11/2023 10:43 AM
+BAG:hupchoo add 53xĐậu thần cấp 9 (old: 23) lydo: Mua từ cửa hàng at 03/11/2023 10:43 AM
+BAG:hupchoo add 83xĐậu thần cấp 9 (old: 53) lydo: Mua từ cửa hàng at 03/11/2023 10:43 AM
+BAG:hupchoo add 1xBông tai Porata lydo: Mua từ cửa hàng at 03/11/2023 10:45 AM
+BAG:hupchoo add 1xCải trang Hit lydo: Mua từ cửa hàng at 03/11/2023 10:47 AM
+BAG:hupchoo add 1xNgọc Rồng 5 sao lydo: Nhặt từ map at 03/11/2023 10:49 AM
+BAG:hupchoo add 11xHoa hồng xanh (old: 10) lydo: Nhặt từ map at 03/11/2023 10:49 AM
+BAG:hupchoo add 10xHoa hồng đỏ (old: 9) lydo: Nhặt từ map at 03/11/2023 10:50 AM
+BAG:hupchoo add 17xHoa hồng vàng (old: 16) lydo: Nhặt từ map at 03/11/2023 10:50 AM
+BAG:hupchoo add 12xHoa hồng xanh (old: 11) lydo: Nhặt từ map at 03/11/2023 10:55 AM
+BAG:hupchoo add 13xHoa hồng xanh (old: 12) lydo: Nhặt từ map at 03/11/2023 10:56 AM
+BAG:hupchoo add 18xHoa hồng vàng (old: 17) lydo: Nhặt từ map at 03/11/2023 10:56 AM
+BAG:hupchoo add 11xHoa hồng đỏ (old: 10) lydo: Nhặt từ map at 03/11/2023 10:57 AM
+BAG:hupchoo add 19xHoa hồng vàng (old: 18) lydo: Nhặt từ map at 03/11/2023 10:58 AM
+BAG:hupchoo add 14xHoa hồng xanh (old: 13) lydo: Nhặt từ map at 03/11/2023 10:59 AM
+BAG:hupchoo add 3xĐá Ruby (old: 2) lydo: Nhặt từ map at 03/11/2023 11:00 AM
+BAG:hupchoo add 12xHoa hồng đỏ (old: 11) lydo: Nhặt từ map at 03/11/2023 11:00 AM
+BAG:hupchoo add 15xHoa hồng xanh (old: 14) lydo: Nhặt từ map at 03/11/2023 11:01 AM
+BAG:hupchoo add 20xHoa hồng vàng (old: 19) lydo: Nhặt từ map at 03/11/2023 11:02 AM
+BAG:hupchoo add 16xHoa hồng xanh (old: 15) lydo: Nhặt từ map at 03/11/2023 11:02 AM
+BAG:hupchoo add 17xHoa hồng xanh (old: 16) lydo: Nhặt từ map at 03/11/2023 11:04 AM
+BAG:hupchoo add 21xHoa hồng vàng (old: 20) lydo: Nhặt từ map at 03/11/2023 11:06 AM
+BAG:hupchoo add 13xHoa hồng đỏ (old: 12) lydo: Nhặt từ map at 03/11/2023 11:06 AM
+BAG:hupchoo add 18xHoa hồng xanh (old: 17) lydo: Nhặt từ map at 03/11/2023 11:07 AM
+BAG:hupchoo add 14xHoa hồng đỏ (old: 13) lydo: Nhặt từ map at 03/11/2023 11:07 AM
+BAG:hupchoo add 2xĐá thạch anh tím (old: 1) lydo: Nhặt từ map at 03/11/2023 11:08 AM
+BAG:hupchoo add 22xHoa hồng vàng (old: 21) lydo: Nhặt từ map at 03/11/2023 11:08 AM
+BAG:hupchoo add 23xHoa hồng vàng (old: 22) lydo: Nhặt từ map at 03/11/2023 11:08 AM
+BAG:hupchoo add 15xHoa hồng đỏ (old: 14) lydo: Nhặt từ map at 03/11/2023 11:08 AM
+BAG:hupchoo add 19xHoa hồng xanh (old: 18) lydo: Nhặt từ map at 03/11/2023 11:09 AM
+BAG:hupchoo add 16xHoa hồng đỏ (old: 15) lydo: Nhặt từ map at 03/11/2023 11:09 AM
+BAG:hupchoo add 20xHoa hồng xanh (old: 19) lydo: Nhặt từ map at 03/11/2023 11:10 AM
+BAG:hupchoo add 21xHoa hồng xanh (old: 20) lydo: Nhặt từ map at 03/11/2023 11:10 AM
+BAG:hupchoo add 4xĐá Titan (old: 3) lydo: Nhặt từ map at 03/11/2023 11:10 AM
+BAG:hupchoo add 6xĐá Saphia (old: 5) lydo: Nhặt từ map at 03/11/2023 11:10 AM
+BAG:hupchoo add 24xHoa hồng vàng (old: 23) lydo: Nhặt từ map at 03/11/2023 11:11 AM
+BAG:hupchoo add 22xHoa hồng xanh (old: 21) lydo: Nhặt từ map at 03/11/2023 11:12 AM
+BAG:hupchoo add 17xHoa hồng đỏ (old: 16) lydo: Nhặt từ map at 03/11/2023 11:12 AM
+BAG:hupchoo add 1xĐá lục bảo lydo: Nhặt từ map at 03/11/2023 11:12 AM
+BAG:hupchoo add 23xHoa hồng xanh (old: 22) lydo: Nhặt từ map at 03/11/2023 11:13 AM
+BAG:hupchoo add 24xHoa hồng xanh (old: 23) lydo: Nhặt từ map at 03/11/2023 11:15 AM
+BAG:hupchoo add 5xĐậu thần cấp 9 lydo: Mua từ cửa hàng at 03/11/2023 11:18 AM
+BAG:hupchoo add 99xĐậu thần cấp 9 (old: 74) lydo: Mua từ cửa hàng at 03/11/2023 11:18 AM
+BAG:hupchoo add 35xĐậu thần cấp 9 (old: 5) lydo: Mua từ cửa hàng at 03/11/2023 11:18 AM
+BAG:hupchoo add 65xĐậu thần cấp 9 (old: 35) lydo: Mua từ cửa hàng at 03/11/2023 11:18 AM
+BAG:hupchoo add 95xĐậu thần cấp 9 (old: 65) lydo: Mua từ cửa hàng at 03/11/2023 11:18 AM
+BAG:hupchoo add 26xĐậu thần cấp 9 lydo: Mua từ cửa hàng at 03/11/2023 11:18 AM
+BAG:hupchoo add 99xĐậu thần cấp 9 (old: 95) lydo: Mua từ cửa hàng at 03/11/2023 11:18 AM
+BAG:hupchoo add 56xĐậu thần cấp 9 (old: 26) lydo: Mua từ cửa hàng at 03/11/2023 11:18 AM
+BAG:hupchoo add 86xĐậu thần cấp 9 (old: 56) lydo: Mua từ cửa hàng at 03/11/2023 11:18 AM
+BAG:hupchoo add 17xĐậu thần cấp 9 lydo: Mua từ cửa hàng at 03/11/2023 11:18 AM
+BAG:hupchoo add 99xĐậu thần cấp 9 (old: 86) lydo: Mua từ cửa hàng at 03/11/2023 11:18 AM
+BAG:hupchoo add 47xĐậu thần cấp 9 (old: 17) lydo: Mua từ cửa hàng at 03/11/2023 11:19 AM
+BAG:hupchoo add 77xĐậu thần cấp 9 (old: 47) lydo: Mua từ cửa hàng at 03/11/2023 11:19 AM
+BAG:hupchoo add 8xĐậu thần cấp 9 lydo: Mua từ cửa hàng at 03/11/2023 11:19 AM
+BAG:hupchoo add 99xĐậu thần cấp 9 (old: 77) lydo: Mua từ cửa hàng at 03/11/2023 11:19 AM
+BAG:hupchoo add 38xĐậu thần cấp 9 (old: 8) lydo: Mua từ cửa hàng at 03/11/2023 11:19 AM
+BAG:hupchoo add 68xĐậu thần cấp 9 (old: 38) lydo: Mua từ cửa hàng at 03/11/2023 11:19 AM
+BAG:hupchoo add 98xĐậu thần cấp 9 (old: 68) lydo: Mua từ cửa hàng at 03/11/2023 11:19 AM
+BAG:hupchoo add 29xĐậu thần cấp 9 lydo: Mua từ cửa hàng at 03/11/2023 11:19 AM
+BAG:hupchoo add 99xĐậu thần cấp 9 (old: 98) lydo: Mua từ cửa hàng at 03/11/2023 11:19 AM
+BAG:hupchoo add 59xĐậu thần cấp 9 (old: 29) lydo: Mua từ cửa hàng at 03/11/2023 11:19 AM
+BAG:hupchoo add 89xĐậu thần cấp 9 (old: 59) lydo: Mua từ cửa hàng at 03/11/2023 11:19 AM
+BAG:hupchoo add 20xĐậu thần cấp 9 lydo: Mua từ cửa hàng at 03/11/2023 11:19 AM
+BAG:hupchoo add 99xĐậu thần cấp 9 (old: 89) lydo: Mua từ cửa hàng at 03/11/2023 11:19 AM
+BAG:hupchoo add 50xĐậu thần cấp 9 (old: 20) lydo: Mua từ cửa hàng at 03/11/2023 11:19 AM
+BAG:hupchoo add 80xĐậu thần cấp 9 (old: 50) lydo: Mua từ cửa hàng at 03/11/2023 11:19 AM
+BAG:hupchoo add 11xĐậu thần cấp 9 lydo: Mua từ cửa hàng at 03/11/2023 11:19 AM
+BAG:hupchoo add 99xĐậu thần cấp 9 (old: 80) lydo: Mua từ cửa hàng at 03/11/2023 11:19 AM
+BAG:hupchoo add 41xĐậu thần cấp 9 (old: 11) lydo: Mua từ cửa hàng at 03/11/2023 11:19 AM
+BAG:hupchoo add 71xĐậu thần cấp 9 (old: 41) lydo: Mua từ cửa hàng at 03/11/2023 11:19 AM
+BAG:hupchoo add 2xĐậu thần cấp 9 lydo: Mua từ cửa hàng at 03/11/2023 11:19 AM
+BAG:hupchoo add 99xĐậu thần cấp 9 (old: 71) lydo: Mua từ cửa hàng at 03/11/2023 11:19 AM
+BAG:hupchoo add 18xHoa hồng đỏ (old: 17) lydo: Nhặt từ map at 03/11/2023 11:20 AM
+BAG:hupchoo add 25xHoa hồng xanh (old: 24) lydo: Nhặt từ map at 03/11/2023 11:20 AM
+BAG:hupchoo add 19xHoa hồng đỏ (old: 18) lydo: Nhặt từ map at 03/11/2023 11:21 AM
+BAG:hupchoo add 20xHoa hồng đỏ (old: 19) lydo: Nhặt từ map at 03/11/2023 11:21 AM
+BAG:hupchoo add 25xHoa hồng vàng (old: 24) lydo: Nhặt từ map at 03/11/2023 11:21 AM
+BAG:hupchoo add 26xHoa hồng vàng (old: 25) lydo: Nhặt từ map at 03/11/2023 11:22 AM
+BAG:hupchoo add 1xĐá thạch anh tím lydo: Nhặt từ map at 03/11/2023 11:23 AM
+BAG:hupchoo add 27xHoa hồng vàng (old: 26) lydo: Nhặt từ map at 03/11/2023 11:23 AM
+BAG:hupchoo add 26xHoa hồng xanh (old: 25) lydo: Nhặt từ map at 03/11/2023 11:23 AM
+BAG:hupchoo add 21xHoa hồng đỏ (old: 20) lydo: Nhặt từ map at 03/11/2023 11:27 AM
+BAG:hupchoo add 22xHoa hồng đỏ (old: 21) lydo: Nhặt từ map at 03/11/2023 11:28 AM
+BAG:hupchoo add 23xHoa hồng đỏ (old: 22) lydo: Nhặt từ map at 03/11/2023 11:28 AM
+BAG:hupchoo add 24xHoa hồng đỏ (old: 23) lydo: Nhặt từ map at 03/11/2023 11:39 AM
+BAG:hupchoo add 28xHoa hồng vàng (old: 27) lydo: Nhặt từ map at 03/11/2023 11:40 AM
+BAG:hupchoo add 27xHoa hồng xanh (old: 26) lydo: Nhặt từ map at 03/11/2023 11:41 AM
+BAG:hupchoo add 28xHoa hồng xanh (old: 27) lydo: Nhặt từ map at 03/11/2023 11:41 AM
+BAG:hupchoo add 29xHoa hồng vàng (old: 28) lydo: Nhặt từ map at 03/11/2023 11:42 AM
+BAG:hupchoo add 30xHoa hồng vàng (old: 29) lydo: Nhặt từ map at 03/11/2023 11:43 AM
+BAG:hupchoo add 1xĐá Ruby lydo: Nhặt từ map at 03/11/2023 11:45 AM
+BAG:hupchoo add 29xHoa hồng xanh (old: 28) lydo: Nhặt từ map at 03/11/2023 11:45 AM
+BAG:hupchoo add 2xĐá Ruby (old: 1) lydo: Nhặt từ map at 03/11/2023 11:46 AM
+BAG:hupchoo add 30xHoa hồng xanh (old: 29) lydo: Nhặt từ map at 03/11/2023 11:46 AM
+BAG:hupchoo add 3xĐá Ruby (old: 2) lydo: Nhặt từ map at 03/11/2023 11:46 AM
+BAG:hupchoo add 25xHoa hồng đỏ (old: 24) lydo: Nhặt từ map at 03/11/2023 11:47 AM
+BAG:hupchoo add 31xHoa hồng xanh (old: 30) lydo: Nhặt từ map at 03/11/2023 11:47 AM
+BAG:hupchoo add 26xHoa hồng đỏ (old: 25) lydo: Nhặt từ map at 03/11/2023 11:47 AM
+BAG:hupchoo add 31xHoa hồng vàng (old: 30) lydo: Nhặt từ map at 03/11/2023 11:48 AM
+BAG:hupchoo add 32xHoa hồng vàng (old: 31) lydo: Nhặt từ map at 03/11/2023 11:49 AM
+BAG:hupchoo add 33xHoa hồng vàng (old: 32) lydo: Nhặt từ map at 03/11/2023 11:49 AM
+BAG:hupchoo add 34xHoa hồng vàng (old: 33) lydo: Nhặt từ map at 03/11/2023 11:49 AM
+BAG:hupchoo add 27xHoa hồng đỏ (old: 26) lydo: Nhặt từ map at 03/11/2023 11:49 AM
+BAG:hupchoo add 35xHoa hồng vàng (old: 34) lydo: Nhặt từ map at 03/11/2023 11:50 AM
+BAG:hupchoo add 32xHoa hồng xanh (old: 31) lydo: Nhặt từ map at 03/11/2023 11:50 AM
+BAG:hupchoo add 28xHoa hồng đỏ (old: 27) lydo: Nhặt từ map at 03/11/2023 11:51 AM
+BAG:hupchoo add 29xHoa hồng đỏ (old: 28) lydo: Nhặt từ map at 03/11/2023 11:52 AM
+BAG:hupchoo add 30xHoa hồng đỏ (old: 29) lydo: Nhặt từ map at 03/11/2023 11:53 AM
+BAG:hupchoo add 36xHoa hồng vàng (old: 35) lydo: Nhặt từ map at 03/11/2023 11:54 AM
+BAG:hupchoo add 1xĐá Saphia lydo: Nhặt từ map at 03/11/2023 11:57 AM
+BAG:hupchoo add 31xHoa hồng đỏ (old: 30) lydo: Nhặt từ map at 03/11/2023 11:57 AM
+BAG:hupchoo add 37xHoa hồng vàng (old: 36) lydo: Nhặt từ map at 03/11/2023 11:58 AM
+BAG:hupchoo add 33xHoa hồng xanh (old: 32) lydo: Nhặt từ map at 03/11/2023 11:59 AM
+BAG:hupchoo add 38xHoa hồng vàng (old: 37) lydo: Nhặt từ map at 03/11/2023 11:59 AM
+BAG:hupchoo add 39xHoa hồng vàng (old: 38) lydo: Nhặt từ map at 03/11/2023 11:59 AM
+BAG:hupchoo add 32xHoa hồng đỏ (old: 31) lydo: Nhặt từ map at 03/11/2023 12:00 PM
+BAG:hupchoo add 33xHoa hồng đỏ (old: 32) lydo: Nhặt từ map at 03/11/2023 12:00 PM
+BAG:hupchoo add 34xHoa hồng đỏ (old: 33) lydo: Nhặt từ map at 03/11/2023 12:00 PM
+BAG:hupchoo add 35xHoa hồng đỏ (old: 34) lydo: Nhặt từ map at 03/11/2023 12:01 PM
+BAG:hupchoo add 40xHoa hồng vàng (old: 39) lydo: Nhặt từ map at 03/11/2023 12:01 PM
+BAG:hupchoo add 41xHoa hồng vàng (old: 40) lydo: Nhặt từ map at 03/11/2023 12:01 PM
+BAG:hupchoo add 36xHoa hồng đỏ (old: 35) lydo: Nhặt từ map at 03/11/2023 12:01 PM
+BAG:hupchoo add 34xHoa hồng xanh (old: 33) lydo: Nhặt từ map at 03/11/2023 12:02 PM
+BAG:hupchoo add 42xHoa hồng vàng (old: 41) lydo: Nhặt từ map at 03/11/2023 12:02 PM
+BAG:hupchoo add 35xHoa hồng xanh (old: 34) lydo: Nhặt từ map at 03/11/2023 12:02 PM
+BAG:hupchoo add 36xHoa hồng xanh (old: 35) lydo: Nhặt từ map at 03/11/2023 12:03 PM
+BAG:hupchoo add 37xHoa hồng đỏ (old: 36) lydo: Nhặt từ map at 03/11/2023 2:26 PM
+BAG:hupchoo add 43xHoa hồng vàng (old: 42) lydo: Nhặt từ map at 03/11/2023 2:27 PM
+BAG:hupchoo add 37xHoa hồng xanh (old: 36) lydo: Nhặt từ map at 03/11/2023 2:28 PM
+BAG:hupchoo add 44xHoa hồng vàng (old: 43) lydo: Nhặt từ map at 03/11/2023 2:28 PM
+BAG:hupchoo add 45xHoa hồng vàng (old: 44) lydo: Nhặt từ map at 03/11/2023 2:28 PM
+BAG:hupchoo add 46xHoa hồng vàng (old: 45) lydo: Nhặt từ map at 03/11/2023 2:29 PM
+BAG:hupchoo add 38xHoa hồng xanh (old: 37) lydo: Nhặt từ map at 03/11/2023 2:29 PM
+BAG:hupchoo add 38xHoa hồng đỏ (old: 37) lydo: Nhặt từ map at 03/11/2023 2:30 PM
+BAG:hupchoo add 47xHoa hồng vàng (old: 46) lydo: Nhặt từ map at 03/11/2023 2:30 PM
+BAG:hupchoo add 48xHoa hồng vàng (old: 47) lydo: Nhặt từ map at 03/11/2023 2:31 PM
+BAG:hupchoo add 49xHoa hồng vàng (old: 48) lydo: Nhặt từ map at 03/11/2023 2:31 PM
+BAG:hupchoo add 39xHoa hồng xanh (old: 38) lydo: Nhặt từ map at 03/11/2023 2:31 PM
+BAG:hupchoo add 50xHoa hồng vàng (old: 49) lydo: Nhặt từ map at 03/11/2023 2:32 PM
+BAG:hupchoo add 40xHoa hồng xanh (old: 39) lydo: Nhặt từ map at 03/11/2023 2:32 PM
+BAG:hupchoo add 39xHoa hồng đỏ (old: 38) lydo: Nhặt từ map at 03/11/2023 2:33 PM
+BAG:hupchoo add 41xHoa hồng xanh (old: 40) lydo: Nhặt từ map at 03/11/2023 2:34 PM
+BAG:hupchoo add 42xHoa hồng xanh (old: 41) lydo: Nhặt từ map at 03/11/2023 2:34 PM
+BAG:hupchoo add 51xHoa hồng vàng (old: 50) lydo: Nhặt từ map at 03/11/2023 2:34 PM
+BAG:hupchoo add 52xHoa hồng vàng (old: 51) lydo: Nhặt từ map at 03/11/2023 2:34 PM
+BAG:hupchoo add 53xHoa hồng vàng (old: 52) lydo: Nhặt từ map at 03/11/2023 2:35 PM
+BAG:hupchoo add 40xHoa hồng đỏ (old: 39) lydo: Nhặt từ map at 03/11/2023 2:36 PM
+BAG:hupchoo add 43xHoa hồng xanh (old: 42) lydo: Nhặt từ map at 03/11/2023 2:38 PM
+BAG:hupchoo add 54xHoa hồng vàng (old: 53) lydo: Nhặt từ map at 03/11/2023 2:38 PM
+BAG:hupchoo add 44xHoa hồng xanh (old: 43) lydo: Nhặt từ map at 03/11/2023 2:38 PM
+BAG:hupchoo add 55xHoa hồng vàng (old: 54) lydo: Nhặt từ map at 03/11/2023 2:39 PM
+BAG:hupchoo add 56xHoa hồng vàng (old: 55) lydo: Nhặt từ map at 03/11/2023 2:39 PM
+BAG:hupchoo add 41xHoa hồng đỏ (old: 40) lydo: Nhặt từ map at 03/11/2023 2:40 PM
+BAG:hupchoo add 45xHoa hồng xanh (old: 44) lydo: Nhặt từ map at 03/11/2023 2:40 PM
+BAG:hupchoo add 1xĐá lục bảo lydo: Nhặt từ map at 03/11/2023 2:42 PM
+BAG:hupchoo add 42xHoa hồng đỏ (old: 41) lydo: Nhặt từ map at 03/11/2023 2:42 PM
+BAG:hupchoo add 2xĐá thạch anh tím (old: 1) lydo: Nhặt từ map at 03/11/2023 2:42 PM
+BAG:hupchoo add 2xĐá Saphia (old: 1) lydo: Nhặt từ map at 03/11/2023 2:42 PM
+BAG:hupchoo add 43xHoa hồng đỏ (old: 42) lydo: Nhặt từ map at 03/11/2023 2:43 PM
+BAG:hupchoo add 57xHoa hồng vàng (old: 56) lydo: Nhặt từ map at 03/11/2023 2:43 PM
+BAG:hupchoo add 1xĐá Titan lydo: Nhặt từ map at 03/11/2023 2:43 PM
+BAG:hupchoo add 58xHoa hồng vàng (old: 57) lydo: Nhặt từ map at 03/11/2023 2:44 PM
+BAG:hupchoo add 46xHoa hồng xanh (old: 45) lydo: Nhặt từ map at 03/11/2023 2:44 PM
+BAG:hupchoo add 59xHoa hồng vàng (old: 58) lydo: Nhặt từ map at 03/11/2023 2:47 PM
+BAG:hupchoo add 44xHoa hồng đỏ (old: 43) lydo: Nhặt từ map at 03/11/2023 2:47 PM
+BAG:hupchoo add 45xHoa hồng đỏ (old: 44) lydo: Nhặt từ map at 03/11/2023 2:47 PM
+BAG:hupchoo add 47xHoa hồng xanh (old: 46) lydo: Nhặt từ map at 03/11/2023 2:48 PM
+BAG:hupchoo add 60xHoa hồng vàng (old: 59) lydo: Nhặt từ map at 03/11/2023 2:48 PM
+BAG:hupchoo add 48xHoa hồng xanh (old: 47) lydo: Nhặt từ map at 03/11/2023 2:48 PM
+BAG:hupchoo add 49xHoa hồng xanh (old: 48) lydo: Nhặt từ map at 03/11/2023 2:48 PM
+BAG:hupchoo add 50xHoa hồng xanh (old: 49) lydo: Nhặt từ map at 03/11/2023 2:49 PM
+BAG:hupchoo add 46xHoa hồng đỏ (old: 45) lydo: Nhặt từ map at 03/11/2023 2:49 PM
+BAG:hupchoo add 47xHoa hồng đỏ (old: 46) lydo: Nhặt từ map at 03/11/2023 2:50 PM
+BAG:hupchoo add 61xHoa hồng vàng (old: 60) lydo: Nhặt từ map at 03/11/2023 2:50 PM
+BAG:hupchoo add 62xHoa hồng vàng (old: 61) lydo: Nhặt từ map at 03/11/2023 2:50 PM
+BAG:hupchoo add 48xHoa hồng đỏ (old: 47) lydo: Nhặt từ map at 03/11/2023 2:50 PM
+BAG:hupchoo add 51xHoa hồng xanh (old: 50) lydo: Nhặt từ map at 03/11/2023 2:52 PM
+BAG:hupchoo add 63xHoa hồng vàng (old: 62) lydo: Nhặt từ map at 03/11/2023 2:52 PM
+BAG:hupchoo add 64xHoa hồng vàng (old: 63) lydo: Nhặt từ map at 03/11/2023 2:52 PM
+BAG:hupchoo add 3xĐá thạch anh tím (old: 2) lydo: Nhặt từ map at 03/11/2023 2:52 PM
+BAG:hupchoo add 52xHoa hồng xanh (old: 51) lydo: Nhặt từ map at 03/11/2023 2:53 PM
+BAG:hupchoo add 2xĐá Titan (old: 1) lydo: Nhặt từ map at 03/11/2023 2:53 PM
+BAG:hupchoo add 49xHoa hồng đỏ (old: 48) lydo: Nhặt từ map at 03/11/2023 2:53 PM
+BAG:hupchoo add 50xHoa hồng đỏ (old: 49) lydo: Nhặt từ map at 03/11/2023 2:54 PM
+BAG:hupchoo add 4xĐá thạch anh tím (old: 3) lydo: Nhặt từ map at 03/11/2023 2:55 PM
+BAG:hupchoo add 1xCải trang Gohan Bư lydo: Mua từ cửa hàng at 03/11/2023 2:55 PM
+BAG:hupchoo add 1xCải trang lydo: Mua từ cửa hàng at 03/11/2023 2:56 PM
+BAG:hupchoo add 53xHoa hồng xanh (old: 52) lydo: Nhặt từ map at 03/11/2023 2:59 PM
+BAG:hupchoo add 54xHoa hồng xanh (old: 53) lydo: Nhặt từ map at 03/11/2023 3:00 PM
+BAG:hupchoo add 55xHoa hồng xanh (old: 54) lydo: Nhặt từ map at 03/11/2023 3:00 PM
+BAG:hupchoo add 51xHoa hồng đỏ (old: 50) lydo: Nhặt từ map at 03/11/2023 3:02 PM
+BAG:hupchoo add 1xQuần vải đen lydo: Lấy từ body vào hành trang at 03/11/2023 3:02 PM
+BAG:hupchoo add 52xHoa hồng đỏ (old: 51) lydo: Nhặt từ map at 03/11/2023 3:03 PM
+BAG:hupchoo add 53xHoa hồng đỏ (old: 52) lydo: Nhặt từ map at 03/11/2023 3:03 PM
+BAG:hupchoo add 56xHoa hồng xanh (old: 55) lydo: Nhặt từ map at 03/11/2023 3:04 PM
+BAG:hupchoo add 54xHoa hồng đỏ (old: 53) lydo: Nhặt từ map at 03/11/2023 3:05 PM
+BAG:hupchoo add 1xCột nhà lydo: Mua từ cửa hàng at 03/11/2023 3:07 PM
+BAG:hupchoo add 57xHoa hồng xanh (old: 56) lydo: Nhặt từ map at 03/11/2023 3:10 PM
+BAG:hupchoo add 65xHoa hồng vàng (old: 64) lydo: Nhặt từ map at 03/11/2023 3:10 PM
+BAG:hupchoo add 58xHoa hồng xanh (old: 57) lydo: Nhặt từ map at 03/11/2023 3:10 PM
+BAG:hupchoo add 59xHoa hồng xanh (old: 58) lydo: Nhặt từ map at 03/11/2023 3:11 PM
+BAG:hupchoo add 66xHoa hồng vàng (old: 65) lydo: Nhặt từ map at 03/11/2023 3:11 PM
+BAG:hupchoo add 55xHoa hồng đỏ (old: 54) lydo: Nhặt từ map at 03/11/2023 3:11 PM
+BAG:hupchoo add 56xHoa hồng đỏ (old: 55) lydo: Nhặt từ map at 03/11/2023 3:11 PM
+BAG:hupchoo add 60xHoa hồng xanh (old: 59) lydo: Nhặt từ map at 03/11/2023 3:12 PM
+BAG:hupchoo add 67xHoa hồng vàng (old: 66) lydo: Nhặt từ map at 03/11/2023 3:12 PM
+BAG:hupchoo add 57xHoa hồng đỏ (old: 56) lydo: Nhặt từ map at 03/11/2023 3:12 PM
+BAG:hupchoo add 58xHoa hồng đỏ (old: 57) lydo: Nhặt từ map at 03/11/2023 3:12 PM
+BAG:hupchoo add 61xHoa hồng xanh (old: 60) lydo: Nhặt từ map at 03/11/2023 3:13 PM
+BAG:hupchoo add 4xĐá Ruby (old: 3) lydo: Nhặt từ map at 03/11/2023 3:15 PM
+BAG:hupchoo add 2xĐá lục bảo (old: 1) lydo: Nhặt từ map at 03/11/2023 3:15 PM
+BAG:hupchoo add 59xHoa hồng đỏ (old: 58) lydo: Nhặt từ map at 03/11/2023 3:15 PM
+BAG:hupchoo add 3xĐá Saphia (old: 2) lydo: Nhặt từ map at 03/11/2023 3:15 PM
+BAG:hupchoo add 62xHoa hồng xanh (old: 61) lydo: Nhặt từ map at 03/11/2023 3:15 PM
+BAG:hupchoo add 60xHoa hồng đỏ (old: 59) lydo: Nhặt từ map at 03/11/2023 3:15 PM
+BAG:hupchoo add 61xHoa hồng đỏ (old: 60) lydo: Nhặt từ map at 03/11/2023 3:16 PM
+BAG:hupchoo add 63xHoa hồng xanh (old: 62) lydo: Nhặt từ map at 03/11/2023 3:17 PM
+BAG:hupchoo add 5xĐá Ruby (old: 4) lydo: Nhặt từ map at 03/11/2023 3:17 PM
+BAG:hupchoo add 4xĐá Saphia (old: 3) lydo: Nhặt từ map at 03/11/2023 3:17 PM
+BAG:hupchoo add 1xNâng cấp kỹ năng 1 đệ tử lydo: Mua từ cửa hàng at 03/11/2023 3:18 PM
+BAG:hupchoo add 2xNâng cấp kỹ năng 1 đệ tử (old: 1) lydo: Mua từ cửa hàng at 03/11/2023 3:18 PM
+BAG:hupchoo add 3xNâng cấp kỹ năng 1 đệ tử (old: 2) lydo: Mua từ cửa hàng at 03/11/2023 3:18 PM
+BAG:hupchoo add 4xNâng cấp kỹ năng 1 đệ tử (old: 3) lydo: Mua từ cửa hàng at 03/11/2023 3:18 PM
+BAG:hupchoo add 5xNâng cấp kỹ năng 1 đệ tử (old: 4) lydo: Mua từ cửa hàng at 03/11/2023 3:18 PM
+BAG:hupchoo add 1xNâng cấp kỹ năng 1 đệ tử lydo: Mua từ cửa hàng at 03/11/2023 3:18 PM
+BAG:hupchoo add 68xHoa hồng vàng (old: 67) lydo: Nhặt từ map at 03/11/2023 3:21 PM
+BAG:hupchoo add 69xHoa hồng vàng (old: 68) lydo: Nhặt từ map at 03/11/2023 3:22 PM
+BAG:hupchoo add 62xHoa hồng đỏ (old: 61) lydo: Nhặt từ map at 03/11/2023 3:23 PM
+BAG:hupchoo add 6xĐá Ruby (old: 5) lydo: Nhặt từ map at 03/11/2023 3:23 PM
+BAG:hupchoo add 63xHoa hồng đỏ (old: 62) lydo: Nhặt từ map at 03/11/2023 3:23 PM
+BAG:hupchoo add 64xHoa hồng xanh (old: 63) lydo: Nhặt từ map at 03/11/2023 3:24 PM
+BAG:hupchoo add 64xHoa hồng đỏ (old: 63) lydo: Nhặt từ map at 03/11/2023 3:24 PM
+BAG:hupchoo add 65xHoa hồng xanh (old: 64) lydo: Nhặt từ map at 03/11/2023 3:24 PM
+BAG:hupchoo add 70xHoa hồng vàng (old: 69) lydo: Nhặt từ map at 03/11/2023 3:25 PM
+BAG:hupchoo add 71xHoa hồng vàng (old: 70) lydo: Nhặt từ map at 03/11/2023 3:25 PM
+BAG:hupchoo add 65xHoa hồng đỏ (old: 64) lydo: Nhặt từ map at 03/11/2023 3:27 PM
+BAG:hupchoo add 66xHoa hồng xanh (old: 65) lydo: Nhặt từ map at 03/11/2023 3:28 PM
+BAG:hupchoo add 67xHoa hồng xanh (old: 66) lydo: Nhặt từ map at 03/11/2023 3:29 PM
+BAG:hupchoo add 68xHoa hồng xanh (old: 67) lydo: Nhặt từ map at 03/11/2023 3:30 PM
+BAG:hupchoo add 66xHoa hồng đỏ (old: 65) lydo: Nhặt từ map at 03/11/2023 3:30 PM
+BAG:hupchoo add 67xHoa hồng đỏ (old: 66) lydo: Nhặt từ map at 03/11/2023 3:31 PM
+BAG:hupchoo add 72xHoa hồng vàng (old: 71) lydo: Nhặt từ map at 03/11/2023 3:31 PM
+BAG:hupchoo add 73xHoa hồng vàng (old: 72) lydo: Nhặt từ map at 03/11/2023 3:31 PM
+BAG:hupchoo add 74xHoa hồng vàng (old: 73) lydo: Nhặt từ map at 03/11/2023 3:32 PM
+BAG:hupchoo add 68xHoa hồng đỏ (old: 67) lydo: Nhặt từ map at 03/11/2023 3:32 PM
+BAG:hupchoo add 69xHoa hồng xanh (old: 68) lydo: Nhặt từ map at 03/11/2023 3:34 PM
+BAG:hupchoo add 75xHoa hồng vàng (old: 74) lydo: Nhặt từ map at 03/11/2023 3:34 PM
+BAG:hupchoo add 76xHoa hồng vàng (old: 75) lydo: Nhặt từ map at 03/11/2023 3:35 PM
+BAG:hupchoo add 3xĐá Titan (old: 2) lydo: Nhặt từ map at 03/11/2023 3:36 PM
+BAG:hupchoo add 70xHoa hồng xanh (old: 69) lydo: Nhặt từ map at 03/11/2023 3:36 PM
+BAG:hupchoo add 1xNgọc Rồng 5 sao lydo: Nhặt từ map at 03/11/2023 3:37 PM
+BAG:hupchoo add 69xHoa hồng đỏ (old: 68) lydo: Nhặt từ map at 03/11/2023 3:38 PM
+BAG:hupchoo add 7xĐá Ruby (old: 6) lydo: Nhặt từ map at 03/11/2023 3:38 PM
+BAG:hupchoo add 70xHoa hồng đỏ (old: 69) lydo: Nhặt từ map at 03/11/2023 3:39 PM
+BAG:hupchoo add 8xĐá Ruby (old: 7) lydo: Nhặt từ map at 03/11/2023 3:40 PM
+BAG:hupchoo add 3xĐá lục bảo (old: 2) lydo: Nhặt từ map at 03/11/2023 3:40 PM
+BAG:hupchoo add 1xNgọc Rồng 5 sao lydo: Nhặt từ map at 03/11/2023 3:43 PM
+BAG:hupchoo add 77xHoa hồng vàng (old: 76) lydo: Nhặt từ map at 03/11/2023 3:44 PM
+BAG:hupchoo add 5xĐá thạch anh tím (old: 4) lydo: Nhặt từ map at 03/11/2023 3:45 PM
+BAG:hupchoo add 71xHoa hồng xanh (old: 70) lydo: Nhặt từ map at 03/11/2023 3:48 PM
+BAG:hupchoo add 71xHoa hồng đỏ (old: 70) lydo: Nhặt từ map at 03/11/2023 3:50 PM
+BAG:hupchoo add 72xHoa hồng đỏ (old: 71) lydo: Nhặt từ map at 03/11/2023 3:50 PM
+BAG:hupchoo add 4xĐá Titan (old: 3) lydo: Nhặt từ map at 03/11/2023 3:51 PM

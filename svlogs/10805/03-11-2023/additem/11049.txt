@@ -1,0 +1,24 @@
+BAG:kakarottt add 10xĐậu thần cấp 6 lydo: Thu hoạch đậu at 03/11/2023 11:23 AM
+BAG:kakarottt add 1xÁo vải 3 lỗ lydo: Lấy từ body vào hành trang at 03/11/2023 11:23 AM
+BAG:kakarottt add 1xGăng vải đen lydo: Lấy từ body vào hành trang at 03/11/2023 11:24 AM
+BAG:kakarottt add 1xQuần vải đen lydo: Lấy từ body vào hành trang at 03/11/2023 11:25 AM
+BAG:kakarottt add 1xGiầy nhựa lydo: Lấy từ body vào hành trang at 03/11/2023 11:27 AM
+BAG:kakarottt add 5xNgọc Rồng 3 sao lydo: Lấy từ rương qua người at 03/11/2023 12:20 PM
+BAG:kakarottt add 1xÁo vải 3 lỗ lydo: Lấy từ body vào hành trang at 03/11/2023 12:21 PM
+BAG:kakarottt add 1xGiầy nhựa lydo: Lấy từ body vào hành trang at 03/11/2023 12:21 PM
+BAG:kakarottt add 1xGăng vải đen lydo: Lấy từ body vào hành trang at 03/11/2023 12:22 PM
+BAG:kakarottt add 1xRada cấp 1 lydo: Lấy từ body vào hành trang at 03/11/2023 12:22 PM
+BAG:kakarottt add 1xÁo vải 3 lỗ lydo: Lấy từ body vào hành trang at 03/11/2023 3:04 PM
+BAG:kakarottt add 1xQuần vải đen lydo: Lấy từ body vào hành trang at 03/11/2023 3:04 PM
+BAG:kakarottt add 1xRada cấp 1 lydo: Lấy từ body vào hành trang at 03/11/2023 3:05 PM
+BAG:kakarottt add 1xQuần vải đen lydo: Lấy từ body vào hành trang at 03/11/2023 3:06 PM
+BAG:kakarottt add 1xGiầy nhựa lydo: Lấy từ body vào hành trang at 03/11/2023 3:09 PM
+BAG:kakarottt add 1xÁo vải 3 lỗ lydo: Lấy từ body vào hành trang at 03/11/2023 3:09 PM
+BAG:kakarottt add 1xGăng vải đen lydo: Lấy từ body vào hành trang at 03/11/2023 3:10 PM
+BAG:kakarottt add 1xRada cấp 1 lydo: Lấy từ body vào hành trang at 03/11/2023 3:11 PM
+BAG:kakarottt add 1xNâng cấp kỹ năng 1 đệ tử lydo: Mua từ cửa hàng at 03/11/2023 3:12 PM
+BAG:kakarottt add 2xNâng cấp kỹ năng 1 đệ tử (old: 1) lydo: Mua từ cửa hàng at 03/11/2023 3:12 PM
+BAG:kakarottt add 3xNâng cấp kỹ năng 1 đệ tử (old: 2) lydo: Mua từ cửa hàng at 03/11/2023 3:12 PM
+BAG:kakarottt add 29xHoa hồng xanh (old: 28) lydo: Nhặt từ map at 03/11/2023 3:13 PM
+BAG:kakarottt add 30xHoa hồng xanh (old: 29) lydo: Nhặt từ map at 03/11/2023 3:14 PM
+BAG:kakarottt add 31xHoa hồng xanh (old: 30) lydo: Nhặt từ map at 03/11/2023 3:15 PM

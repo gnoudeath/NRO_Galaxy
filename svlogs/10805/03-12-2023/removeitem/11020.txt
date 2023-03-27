@@ -1,0 +1,900 @@
+BAG:digiok remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/12/2023 6:49 AM
+BAG:digiok remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/12/2023 7:07 AM
+BAG:digiok remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/12/2023 7:29 AM
+BAG:digiok remove Giáp tập luyện cấp 3 lydo: Mặc vào người at 03/12/2023 7:39 AM
+BAG:digiok remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/12/2023 7:47 AM
+BAG:digiok remove CT Genma 01 lydo: Tự Xóa vật phẩm at 03/12/2023 7:49 AM
+BAG:digiok remove Cải trang Hatchiyack lydo: Tự Xóa vật phẩm at 03/12/2023 7:49 AM
+BAG:digiok remove Giáp tập luyện cấp 3 lydo: Mặc vào người at 03/12/2023 7:50 AM
+BAG:digiok remove Inosuke lydo: Mặc cho đệ tử at 03/12/2023 7:51 AM
+BAG:digiok remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/12/2023 8:03 AM
+BAG:digiok remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/12/2023 8:12 AM
+BAG:digiok remove Giáp tập luyện cấp 3 lydo: Mặc vào người at 03/12/2023 8:14 AM
+BAG:digiok remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/12/2023 8:29 AM
+BAG:digiok remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/12/2023 8:30 AM
+BAG:digiok remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/12/2023 8:31 AM
+BAG:digiok remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/12/2023 8:33 AM
+BAG:digiok remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/12/2023 8:34 AM
+BAG:digiok remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/12/2023 9:02 AM
+BAG:digiok remove Inosuke lydo: Mặc vào người at 03/12/2023 9:08 AM
+BAG:digiok remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/12/2023 9:19 AM
+BAG:digiok remove 1xThỏi vàng lydo: Bán cho shop at 03/12/2023 9:26 AM
+BAG:digiok remove 1xThỏi vàng lydo: Bán cho shop at 03/12/2023 9:28 AM
+BAG:digiok remove 1xThỏi vàng lydo: Bán cho shop at 03/12/2023 9:28 AM
+BAG:digiok remove 1xThỏi vàng lydo: Bán cho shop at 03/12/2023 9:29 AM
+BAG:digiok remove 1xSao pha lê lydo: Ép ngọc rồng at 03/12/2023 9:30 AM
+BAG:digiok remove 1xSao pha lê lydo: Ép ngọc rồng at 03/12/2023 9:30 AM
+BAG:digiok remove 1xSao pha lê lydo: Ép ngọc rồng at 03/12/2023 9:30 AM
+BAG:digiok remove 1xSao pha lê lydo: Ép ngọc rồng at 03/12/2023 9:31 AM
+BAG:digiok remove 1xSao pha lê lydo: Ép ngọc rồng at 03/12/2023 9:31 AM
+BAG:digiok remove 1xSao pha lê lydo: Ép ngọc rồng at 03/12/2023 9:31 AM
+BAG:digiok remove Giáp tập luyện cấp 3 lydo: Mặc vào người at 03/12/2023 9:31 AM
+BAG:digiok remove Giáp tập luyện cấp 3 lydo: Mặc vào người at 03/12/2023 9:59 AM
+BAG:digiok remove Đá Saphia lydo: Tự Xóa vật phẩm at 03/12/2023 10:03 AM
+BAG:digiok remove Đá Titan lydo: Tự Xóa vật phẩm at 03/12/2023 10:03 AM
+BAG:digiok remove Giáp tập luyện cấp 3 lydo: Mặc vào người at 03/12/2023 10:12 AM
+BAG:digiok remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/12/2023 10:32 AM
+BAG:digiok remove 1xThỏi vàng lydo: Bán cho shop at 03/12/2023 10:48 AM
+BAG:digiok remove 1xThỏi vàng lydo: Bán cho shop at 03/12/2023 10:48 AM
+BAG:digiok remove 1xThỏi vàng lydo: Bán cho shop at 03/12/2023 10:48 AM
+BAG:digiok remove 1xThỏi vàng lydo: Bán cho shop at 03/12/2023 10:48 AM
+BAG:digiok remove 1xThỏi vàng lydo: Bán cho shop at 03/12/2023 10:48 AM
+BAG:digiok remove 1xThỏi vàng lydo: Bán cho shop at 03/12/2023 10:49 AM
+BAG:digiok remove 1xThỏi vàng lydo: Bán cho shop at 03/12/2023 10:49 AM
+BAG:digiok remove 1xThỏi vàng lydo: Bán cho shop at 03/12/2023 10:49 AM
+BAG:digiok remove 1xThỏi vàng lydo: Bán cho shop at 03/12/2023 10:49 AM
+BAG:digiok remove 1xThỏi vàng lydo: Bán cho shop at 03/12/2023 10:49 AM
+BAG:digiok remove 1xThỏi vàng lydo: Bán cho shop at 03/12/2023 10:49 AM
+BAG:digiok remove 1xThỏi vàng lydo: Bán cho shop at 03/12/2023 10:49 AM
+BAG:digiok remove 1xThỏi vàng lydo: Bán cho shop at 03/12/2023 10:49 AM
+BAG:digiok remove 1xThỏi vàng lydo: Bán cho shop at 03/12/2023 10:49 AM
+BAG:digiok remove 1xThỏi vàng lydo: Bán cho shop at 03/12/2023 10:49 AM
+BAG:digiok remove 1xThỏi vàng lydo: Bán cho shop at 03/12/2023 10:49 AM
+BAG:digiok remove 1xThỏi vàng lydo: Bán cho shop at 03/12/2023 10:49 AM
+BAG:digiok remove 1xThỏi vàng lydo: Bán cho shop at 03/12/2023 10:49 AM
+BAG:digiok remove 1xThỏi vàng lydo: Bán cho shop at 03/12/2023 10:49 AM
+BAG:digiok remove 1xThỏi vàng lydo: Bán cho shop at 03/12/2023 10:49 AM
+BAG:digiok remove 1xThỏi vàng lydo: Bán cho shop at 03/12/2023 10:49 AM
+BAG:digiok remove 1xThỏi vàng lydo: Bán cho shop at 03/12/2023 10:52 AM
+BAG:digiok remove 1xThỏi vàng lydo: Bán cho shop at 03/12/2023 10:52 AM
+BAG:digiok remove 1xThỏi vàng lydo: Bán cho shop at 03/12/2023 10:52 AM
+BAG:digiok remove 1xVệ tinh phòng thủ lydo: Bán cho shop at 03/12/2023 10:52 AM
+BAG:digiok remove 1xVệ tinh trí lực lydo: Bán cho shop at 03/12/2023 10:52 AM
+BAG:digiok remove 1xVệ tinh trí tuệ lydo: Bán cho shop at 03/12/2023 10:52 AM
+BAG:digiok remove 1xVệ tinh sinh lực lydo: Bán cho shop at 03/12/2023 10:52 AM
+BAG:digiok remove 2xSao pha lê lydo: Bán cho shop at 03/12/2023 10:52 AM
+BAG:digiok remove 3xSao pha lê lydo: Bán cho shop at 03/12/2023 10:52 AM
+BAG:digiok remove 2xSao pha lê lydo: Bán cho shop at 03/12/2023 10:52 AM
+BAG:digiok remove 25xĐá Titan lydo: Bán cho shop at 03/12/2023 10:53 AM
+BAG:digiok remove 55xĐá Ruby lydo: Bán cho shop at 03/12/2023 10:53 AM
+BAG:digiok remove 2xSao pha lê lydo: Bán cho shop at 03/12/2023 10:53 AM
+BAG:digiok remove 1xVệ tinh trí lực lydo: Bán cho shop at 03/12/2023 10:53 AM
+BAG:digiok remove 3xVệ tinh trí tuệ lydo: Bán cho shop at 03/12/2023 10:53 AM
+BAG:digiok remove 2xSao pha lê lydo: Bán cho shop at 03/12/2023 10:53 AM
+BAG:digiok remove 3xSao pha lê lydo: Bán cho shop at 03/12/2023 10:53 AM
+BAG:digiok remove 7xNgọc Rồng 7 sao lydo: Bán cho shop at 03/12/2023 10:53 AM
+BAG:digiok remove 1xThỏi vàng lydo: Bán cho shop at 03/12/2023 10:55 AM
+BAG:digiok remove 1xThỏi vàng lydo: Bán cho shop at 03/12/2023 10:55 AM
+BAG:digiok remove 1xThỏi vàng lydo: Bán cho shop at 03/12/2023 10:55 AM
+BAG:digiok remove 1xSao pha lê lydo: Bán cho shop at 03/12/2023 10:56 AM
+BAG:digiok remove 1xVệ tinh sinh lực lydo: Bán cho shop at 03/12/2023 10:56 AM
+BAG:digiok remove 1xVệ tinh trí tuệ lydo: Bán cho shop at 03/12/2023 10:56 AM
+BAG:digiok remove 2xVệ tinh trí lực lydo: Bán cho shop at 03/12/2023 10:57 AM
+BAG:digiok remove 1xSao pha lê lydo: Bán cho shop at 03/12/2023 10:57 AM
+BAG:digiok remove 1xNgọc Rồng 7 sao lydo: Bán cho shop at 03/12/2023 10:57 AM
+BAG:digiok remove 1xSao pha lê lydo: Bán cho shop at 03/12/2023 10:57 AM
+BAG:digiok remove 1xNgọc Rồng 7 sao lydo: Bán cho shop at 03/12/2023 10:57 AM
+BAG:digiok remove 1xSao pha lê lydo: Bán cho shop at 03/12/2023 10:57 AM
+BAG:digiok remove 1xVệ tinh trí lực lydo: Bán cho shop at 03/12/2023 10:57 AM
+BAG:digiok remove 1xVệ tinh phòng thủ lydo: Bán cho shop at 03/12/2023 10:57 AM
+BAG:digiok remove 1xVệ tinh sinh lực lydo: Bán cho shop at 03/12/2023 10:57 AM
+BAG:digiok remove 2xVệ tinh trí lực lydo: Bán cho shop at 03/12/2023 10:57 AM
+BAG:digiok remove 1xSao pha lê lydo: Bán cho shop at 03/12/2023 10:57 AM
+BAG:digiok remove 2xSao pha lê lydo: Bán cho shop at 03/12/2023 10:57 AM
+BAG:digiok remove 3xNgọc Rồng 7 sao lydo: Bán cho shop at 03/12/2023 10:57 AM
+BAG:digiok remove 1xSao pha lê lydo: Bán cho shop at 03/12/2023 10:57 AM
+BAG:digiok remove 1xSao pha lê lydo: Bán cho shop at 03/12/2023 10:57 AM
+BAG:digiok remove 1xVệ tinh phòng thủ lydo: Bán cho shop at 03/12/2023 10:57 AM
+BAG:digiok remove 3xNgọc Rồng 7 sao lydo: Bán cho shop at 03/12/2023 10:57 AM
+BAG:digiok remove 1xVệ tinh phòng thủ lydo: Bán cho shop at 03/12/2023 10:57 AM
+BAG:digiok remove 1xNgọc Rồng 7 sao lydo: Bán cho shop at 03/12/2023 10:57 AM
+BAG:digiok remove 1xVệ tinh trí lực lydo: Bán cho shop at 03/12/2023 10:57 AM
+BAG:digiok remove 1xSao pha lê lydo: Bán cho shop at 03/12/2023 10:57 AM
+BAG:digiok remove 1xNgọc Rồng 7 sao lydo: Bán cho shop at 03/12/2023 10:57 AM
+BAG:digiok remove 1xVệ tinh trí lực lydo: Bán cho shop at 03/12/2023 10:58 AM
+BAG:digiok remove 1xSao pha lê lydo: Bán cho shop at 03/12/2023 10:58 AM
+BAG:digiok remove 1xSao pha lê lydo: Bán cho shop at 03/12/2023 10:58 AM
+BAG:digiok remove 1xSao pha lê lydo: Bán cho shop at 03/12/2023 10:58 AM
+BAG:digiok remove 1xThỏi vàng lydo: Bán cho shop at 03/12/2023 10:58 AM
+BAG:digiok remove 1xThỏi vàng lydo: Bán cho shop at 03/12/2023 10:58 AM
+BAG:digiok remove 1xThỏi vàng lydo: Bán cho shop at 03/12/2023 10:58 AM
+BAG:digiok remove 1xThỏi vàng lydo: Bán cho shop at 03/12/2023 10:58 AM
+BAG:digiok remove 1xThỏi vàng lydo: Bán cho shop at 03/12/2023 10:58 AM
+BAG:digiok remove 1xThỏi vàng lydo: Bán cho shop at 03/12/2023 10:58 AM
+BAG:digiok remove Cải trang Hatchiyack lydo: Tự Xóa vật phẩm at 03/12/2023 11:01 AM
+BAG:digiok remove CT Genma 01 lydo: Tự Xóa vật phẩm at 03/12/2023 11:01 AM
+BAG:digiok remove Cải trang mồn lèo lydo: Tự Xóa vật phẩm at 03/12/2023 11:01 AM
+BAG:digiok remove Cải trang Hatchiyack lydo: Tự Xóa vật phẩm at 03/12/2023 11:01 AM
+BAG:digiok remove CT Genma 01 lydo: Tự Xóa vật phẩm at 03/12/2023 11:01 AM
+BAG:digiok remove CT Genma 01 lydo: Tự Xóa vật phẩm at 03/12/2023 11:01 AM
+BAG:digiok remove Cải trang mồn lèo lydo: Tự Xóa vật phẩm at 03/12/2023 11:01 AM
+BAG:digiok remove Cải trang mồn lèo lydo: Tự Xóa vật phẩm at 03/12/2023 11:01 AM
+BAG:digiok remove Cải trang Hatchiyack lydo: Tự Xóa vật phẩm at 03/12/2023 11:01 AM
+BAG:digiok remove Đá thạch anh tím lydo: Cất vào rương at 03/12/2023 11:01 AM
+BAG:digiok remove Đá lục bảo lydo: Cất vào rương at 03/12/2023 11:01 AM
+BAG:digiok remove Ngọc Rồng 3 sao lydo: Cất vào rương at 03/12/2023 11:01 AM
+BAG:digiok remove Ngọc Rồng 2 sao lydo: Cất vào rương at 03/12/2023 11:01 AM
+BAG:digiok remove Ngọc Rồng 1 sao lydo: Cất vào rương at 03/12/2023 11:01 AM
+BAG:digiok remove 1xThỏi vàng lydo: Bán cho shop at 03/12/2023 11:04 AM
+BAG:digiok remove 1xThỏi vàng lydo: Bán cho shop at 03/12/2023 11:04 AM
+BAG:digiok remove 1xThỏi vàng lydo: Bán cho shop at 03/12/2023 11:04 AM
+BAG:digiok remove 1xThỏi vàng lydo: Bán cho shop at 03/12/2023 11:04 AM
+BAG:digiok remove 1xThỏi vàng lydo: Bán cho shop at 03/12/2023 11:04 AM
+BAG:digiok remove 1xThỏi vàng lydo: Bán cho shop at 03/12/2023 11:04 AM
+BAG:digiok remove 1xThỏi vàng lydo: Bán cho shop at 03/12/2023 11:04 AM
+BAG:digiok remove 1xThỏi vàng lydo: Bán cho shop at 03/12/2023 11:05 AM
+BAG:digiok remove 1xThỏi vàng lydo: Bán cho shop at 03/12/2023 11:06 AM
+BAG:digiok remove 1xThỏi vàng lydo: Bán cho shop at 03/12/2023 11:06 AM
+BAG:digiok remove 1xThỏi vàng lydo: Bán cho shop at 03/12/2023 11:06 AM
+BAG:digiok remove 1xThỏi vàng lydo: Bán cho shop at 03/12/2023 11:06 AM
+BAG:digiok remove Giày bạc Goku lydo: Tự Xóa vật phẩm at 03/12/2023 11:07 AM
+BAG:digiok remove Giày võ kame lydo: Tự Xóa vật phẩm at 03/12/2023 11:07 AM
+BAG:digiok remove Giày nhựa Kame lydo: Tự Xóa vật phẩm at 03/12/2023 11:07 AM
+BAG:digiok remove Áo vải dày lydo: Tự Xóa vật phẩm at 03/12/2023 11:07 AM
+BAG:digiok remove Rada cấp 1 lydo: Tự Xóa vật phẩm at 03/12/2023 11:07 AM
+BAG:digiok remove 1xThỏi vàng lydo: Bán cho shop at 03/12/2023 11:07 AM
+BAG:digiok remove 1xThỏi vàng lydo: Bán cho shop at 03/12/2023 11:07 AM
+BAG:digiok remove 1xThỏi vàng lydo: Bán cho shop at 03/12/2023 11:07 AM
+BAG:digiok remove 1xThỏi vàng lydo: Bán cho shop at 03/12/2023 11:07 AM
+BAG:digiok remove Cải trang Hatchiyack lydo: Tự Xóa vật phẩm at 03/12/2023 11:10 AM
+BAG:digiok remove Cải trang mồn lèo lydo: Tự Xóa vật phẩm at 03/12/2023 11:11 AM
+BAG:digiok remove Cải trang Hatchiyack lydo: Tự Xóa vật phẩm at 03/12/2023 11:11 AM
+BAG:digiok remove CT Genma 01 lydo: Tự Xóa vật phẩm at 03/12/2023 11:11 AM
+BAG:digiok remove 1xThỏi vàng lydo: Bán cho shop at 03/12/2023 11:11 AM
+BAG:digiok remove 1xThỏi vàng lydo: Bán cho shop at 03/12/2023 11:11 AM
+BAG:digiok remove 1xThỏi vàng lydo: Bán cho shop at 03/12/2023 11:11 AM
+BAG:digiok remove 1xThỏi vàng lydo: Bán cho shop at 03/12/2023 11:13 AM
+BAG:digiok remove 1xThỏi vàng lydo: Bán cho shop at 03/12/2023 11:13 AM
+BAG:digiok remove 1xThỏi vàng lydo: Bán cho shop at 03/12/2023 11:13 AM
+BAG:digiok remove 4xSao pha lê lydo: Bán cho shop at 03/12/2023 11:15 AM
+BAG:digiok remove 6xVệ tinh sinh lực lydo: Bán cho shop at 03/12/2023 11:15 AM
+BAG:digiok remove 11xSao pha lê lydo: Bán cho shop at 03/12/2023 11:15 AM
+BAG:digiok remove 14xSao pha lê lydo: Bán cho shop at 03/12/2023 11:15 AM
+BAG:digiok remove 1xThỏi vàng lydo: Bán cho shop at 03/12/2023 11:15 AM
+BAG:digiok remove 1xThỏi vàng lydo: Bán cho shop at 03/12/2023 11:15 AM
+BAG:digiok remove 1xThỏi vàng lydo: Bán cho shop at 03/12/2023 11:15 AM
+BAG:digiok remove 1xThỏi vàng lydo: Bán cho shop at 03/12/2023 11:17 AM
+BAG:digiok remove 1xThỏi vàng lydo: Bán cho shop at 03/12/2023 11:17 AM
+BAG:digiok remove 1xThỏi vàng lydo: Bán cho shop at 03/12/2023 11:17 AM
+BAG:digiok remove 1xThỏi vàng lydo: Bán cho shop at 03/12/2023 11:19 AM
+BAG:digiok remove 1xThỏi vàng lydo: Bán cho shop at 03/12/2023 11:19 AM
+BAG:digiok remove 1xThỏi vàng lydo: Bán cho shop at 03/12/2023 11:19 AM
+BAG:digiok remove 1xThỏi vàng lydo: Bán cho shop at 03/12/2023 11:20 AM
+BAG:digiok remove 1xThỏi vàng lydo: Bán cho shop at 03/12/2023 11:20 AM
+BAG:digiok remove 1xThỏi vàng lydo: Bán cho shop at 03/12/2023 11:21 AM
+BAG:digiok remove Sao pha lê lydo: Tự Xóa vật phẩm at 03/12/2023 11:22 AM
+BAG:digiok remove Sao pha lê lydo: Tự Xóa vật phẩm at 03/12/2023 11:22 AM
+BAG:digiok remove Sao pha lê lydo: Tự Xóa vật phẩm at 03/12/2023 11:23 AM
+BAG:digiok remove Đá Saphia lydo: Tự Xóa vật phẩm at 03/12/2023 11:23 AM
+BAG:digiok remove Vệ tinh trí lực lydo: Tự Xóa vật phẩm at 03/12/2023 11:23 AM
+BAG:digiok remove Cải trang Hatchiyack lydo: Tự Xóa vật phẩm at 03/12/2023 11:23 AM
+BAG:digiok remove Cải trang mồn lèo lydo: Tự Xóa vật phẩm at 03/12/2023 11:23 AM
+BAG:digiok remove CT Genma 01 lydo: Tự Xóa vật phẩm at 03/12/2023 11:23 AM
+BAG:digiok remove CT Genma 02 lydo: Tự Xóa vật phẩm at 03/12/2023 11:23 AM
+BAG:digiok remove Cải trang Hatchiyack lydo: Tự Xóa vật phẩm at 03/12/2023 11:23 AM
+BAG:digiok remove Cải trang mồn lèo lydo: Tự Xóa vật phẩm at 03/12/2023 11:23 AM
+BAG:digiok remove 5xSao pha lê lydo: Bán cho shop at 03/12/2023 11:24 AM
+BAG:digiok remove 6xSao pha lê lydo: Bán cho shop at 03/12/2023 11:24 AM
+BAG:digiok remove 3xSao pha lê lydo: Bán cho shop at 03/12/2023 11:24 AM
+BAG:digiok remove 3xVệ tinh trí lực lydo: Bán cho shop at 03/12/2023 11:24 AM
+BAG:digiok remove 22xNgọc Rồng 7 sao lydo: Bán cho shop at 03/12/2023 11:24 AM
+BAG:digiok remove 1xThỏi vàng lydo: Bán cho shop at 03/12/2023 11:24 AM
+BAG:digiok remove 1xThỏi vàng lydo: Bán cho shop at 03/12/2023 11:24 AM
+BAG:digiok remove 1xThỏi vàng lydo: Bán cho shop at 03/12/2023 11:24 AM
+BAG:digiok remove 1xThỏi vàng lydo: Bán cho shop at 03/12/2023 11:26 AM
+BAG:digiok remove 1xThỏi vàng lydo: Bán cho shop at 03/12/2023 11:26 AM
+BAG:digiok remove 1xThỏi vàng lydo: Bán cho shop at 03/12/2023 11:26 AM
+BAG:digiok remove Vệ tinh trí lực lydo: Tự Xóa vật phẩm at 03/12/2023 11:27 AM
+BAG:digiok remove Sao pha lê lydo: Tự Xóa vật phẩm at 03/12/2023 11:27 AM
+BAG:digiok remove Sao pha lê lydo: Tự Xóa vật phẩm at 03/12/2023 11:27 AM
+BAG:digiok remove Ngọc Rồng 7 sao lydo: Tự Xóa vật phẩm at 03/12/2023 11:27 AM
+BAG:digiok remove Sao pha lê lydo: Tự Xóa vật phẩm at 03/12/2023 11:27 AM
+BAG:digiok remove Cải trang mồn lèo lydo: Tự Xóa vật phẩm at 03/12/2023 11:27 AM
+BAG:digiok remove Cải trang mồn lèo lydo: Tự Xóa vật phẩm at 03/12/2023 11:27 AM
+BAG:digiok remove Cải trang mồn lèo lydo: Tự Xóa vật phẩm at 03/12/2023 11:27 AM
+BAG:digiok remove Cải trang mồn lèo lydo: Tự Xóa vật phẩm at 03/12/2023 11:27 AM
+BAG:digiok remove CT Genma 01 lydo: Tự Xóa vật phẩm at 03/12/2023 11:27 AM
+BAG:digiok remove Cải trang Hatchiyack lydo: Cất vào rương at 03/12/2023 11:27 AM
+BAG:digiok remove Cải trang mồn lèo lydo: Cất vào rương at 03/12/2023 11:27 AM
+BAG:digiok remove Găng jean Calic lydo: Cất vào rương at 03/12/2023 11:28 AM
+BAG:digiok remove Thiệp chúc mừng xanh lydo: Cất vào rương at 03/12/2023 11:28 AM
+BAG:digiok remove 1xSao pha lê lydo: Bán cho shop at 03/12/2023 11:28 AM
+BAG:digiok remove 1xThỏi vàng lydo: Bán cho shop at 03/12/2023 11:31 AM
+BAG:digiok remove 1xThỏi vàng lydo: Bán cho shop at 03/12/2023 11:31 AM
+BAG:digiok remove 1xThỏi vàng lydo: Bán cho shop at 03/12/2023 11:31 AM
+BAG:digiok remove 1xSao pha lê lydo: Bán cho shop at 03/12/2023 11:32 AM
+BAG:digiok remove 1xSao pha lê lydo: Bán cho shop at 03/12/2023 11:32 AM
+BAG:digiok remove 2xSao pha lê lydo: Bán cho shop at 03/12/2023 11:32 AM
+BAG:digiok remove 3xNgọc Rồng 7 sao lydo: Bán cho shop at 03/12/2023 11:33 AM
+BAG:digiok remove 1xThỏi vàng lydo: Bán cho shop at 03/12/2023 11:33 AM
+BAG:digiok remove 1xThỏi vàng lydo: Bán cho shop at 03/12/2023 11:33 AM
+BAG:digiok remove 1xThỏi vàng lydo: Bán cho shop at 03/12/2023 11:33 AM
+BAG:digiok remove 1xThỏi vàng lydo: Bán cho shop at 03/12/2023 11:35 AM
+BAG:digiok remove 1xThỏi vàng lydo: Bán cho shop at 03/12/2023 11:35 AM
+BAG:digiok remove 1xThỏi vàng lydo: Bán cho shop at 03/12/2023 11:35 AM
+BAG:digiok remove 1xSao pha lê lydo: Bán cho shop at 03/12/2023 11:40 AM
+BAG:digiok remove 1xSao pha lê lydo: Bán cho shop at 03/12/2023 11:40 AM
+BAG:digiok remove 1xSao pha lê lydo: Bán cho shop at 03/12/2023 11:40 AM
+BAG:digiok remove 1xSao pha lê lydo: Bán cho shop at 03/12/2023 11:40 AM
+BAG:digiok remove CT Genma 01 lydo: Tự Xóa vật phẩm at 03/12/2023 11:57 AM
+BAG:digiok remove Cải trang mồn lèo lydo: Tự Xóa vật phẩm at 03/12/2023 11:57 AM
+BAG:digiok remove Cải trang Hatchiyack lydo: Tự Xóa vật phẩm at 03/12/2023 11:57 AM
+BAG:digiok remove Cải trang Hatchiyack lydo: Tự Xóa vật phẩm at 03/12/2023 11:57 AM
+BAG:digiok remove Cải trang mồn lèo lydo: Tự Xóa vật phẩm at 03/12/2023 11:57 AM
+BAG:digiok remove CT Genma 02 lydo: Tự Xóa vật phẩm at 03/12/2023 11:57 AM
+BAG:digiok remove Cải trang mồn lèo lydo: Tự Xóa vật phẩm at 03/12/2023 12:00 PM
+BAG:digiok remove 1xThỏi vàng lydo: Bán cho shop at 03/12/2023 12:00 PM
+BAG:digiok remove 1xThỏi vàng lydo: Bán cho shop at 03/12/2023 12:00 PM
+BAG:digiok remove 1xThỏi vàng lydo: Bán cho shop at 03/12/2023 12:00 PM
+BAG:digiok remove 1xThỏi vàng lydo: Bán cho shop at 03/12/2023 12:03 PM
+BAG:digiok remove 1xThỏi vàng lydo: Bán cho shop at 03/12/2023 12:03 PM
+BAG:digiok remove 1xThỏi vàng lydo: Bán cho shop at 03/12/2023 12:03 PM
+BAG:digiok remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 03/12/2023 12:04 PM
+BAG:digiok remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 03/12/2023 12:04 PM
+BAG:digiok remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 03/12/2023 12:04 PM
+BAG:digiok remove 7xNgọc Rồng 4 sao lydo: Nhập ngọc at 03/12/2023 12:05 PM
+BAG:digiok remove 7xNgọc Rồng 4 sao lydo: Nhập ngọc at 03/12/2023 12:05 PM
+BAG:digiok remove 7xNgọc Rồng 4 sao lydo: Nhập ngọc at 03/12/2023 12:05 PM
+BAG:digiok remove 7xNgọc Rồng 4 sao lydo: Nhập ngọc at 03/12/2023 12:05 PM
+BAG:digiok remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 03/12/2023 12:05 PM
+BAG:digiok remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 03/12/2023 12:05 PM
+BAG:digiok remove 1xNgọc Rồng 4 sao lydo: Ép ngọc rồng at 03/12/2023 12:05 PM
+BAG:digiok remove 1xNgọc Rồng 1 sao lydo: Gọi rồng at 03/12/2023 12:06 PM
+BAG:digiok remove 1xNgọc Rồng 2 sao lydo: Gọi rồng at 03/12/2023 12:06 PM
+BAG:digiok remove 1xNgọc Rồng 3 sao lydo: Gọi rồng at 03/12/2023 12:06 PM
+BAG:digiok remove 1xNgọc Rồng 4 sao lydo: Gọi rồng at 03/12/2023 12:06 PM
+BAG:digiok remove 1xNgọc Rồng 5 sao lydo: Gọi rồng at 03/12/2023 12:06 PM
+BAG:digiok remove 1xNgọc Rồng 6 sao lydo: Gọi rồng at 03/12/2023 12:06 PM
+BAG:digiok remove 1xNgọc Rồng 7 sao lydo: Gọi rồng at 03/12/2023 12:06 PM
+BAG:digiok remove CT Genma 02 lydo: Cất vào rương at 03/12/2023 12:07 PM
+BAG:digiok remove Ngọc Rồng 5 sao lydo: Cất vào rương at 03/12/2023 12:08 PM
+BAG:digiok remove Ngọc Rồng 4 sao lydo: Cất vào rương at 03/12/2023 12:08 PM
+BAG:digiok remove Giáp tập luyện cấp 3 lydo: Mặc vào người at 03/12/2023 12:14 PM
+BAG:digiok remove Giáp tập luyện cấp 3 lydo: Mặc vào người at 03/12/2023 12:22 PM
+BAG:digiok remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/12/2023 12:32 PM
+BAG:digiok remove Giáp tập luyện cấp 3 lydo: Mặc vào người at 03/12/2023 12:33 PM
+BAG:digiok remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/12/2023 12:47 PM
+BAG:digiok remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/12/2023 1:04 PM
+BAG:digiok remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/12/2023 1:21 PM
+BAG:digiok remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/12/2023 1:33 PM
+BAG:digiok remove Giáp tập luyện cấp 3 lydo: Mặc vào người at 03/12/2023 1:41 PM
+BAG:digiok remove Giáp tập luyện cấp 3 lydo: Mặc vào người at 03/12/2023 1:45 PM
+BAG:digiok remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/12/2023 1:52 PM
+BAG:digiok remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/12/2023 2:16 PM
+BAG:digiok remove Giáp tập luyện cấp 3 lydo: Mặc vào người at 03/12/2023 2:18 PM
+BAG:digiok remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/12/2023 2:33 PM
+BAG:digiok remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/12/2023 2:50 PM
+BAG:digiok remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/12/2023 3:04 PM
+BAG:digiok remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/12/2023 3:22 PM
+BAG:digiok remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/12/2023 3:41 PM
+BAG:digiok remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/12/2023 4:00 PM
+BAG:digiok remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/12/2023 4:21 PM
+BAG:digiok remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/12/2023 5:05 PM
+BAG:digiok remove Găng Thiên Sứ lydo: Tự Xóa vật phẩm at 03/12/2023 5:33 PM
+BAG:digiok remove Găng vải đen lydo: Cất vào rương at 03/12/2023 5:35 PM
+BAG:digiok remove 1xThỏi vàng lydo: Bán cho shop at 03/12/2023 5:37 PM
+BAG:digiok remove 1xThỏi vàng lydo: Bán cho shop at 03/12/2023 5:37 PM
+BAG:digiok remove 1xThỏi vàng lydo: Bán cho shop at 03/12/2023 5:37 PM
+BAG:digiok remove 1xThỏi vàng lydo: Bán cho shop at 03/12/2023 5:37 PM
+BAG:digiok remove 1xThỏi vàng lydo: Bán cho shop at 03/12/2023 5:37 PM
+BAG:digiok remove 1xThỏi vàng lydo: Bán cho shop at 03/12/2023 5:37 PM
+BAG:digiok remove 1xThỏi vàng lydo: Bán cho shop at 03/12/2023 5:37 PM
+BAG:digiok remove 1xThỏi vàng lydo: Bán cho shop at 03/12/2023 5:37 PM
+BAG:digiok remove 1xThỏi vàng lydo: Bán cho shop at 03/12/2023 5:37 PM
+BAG:digiok remove 1xThỏi vàng lydo: Bán cho shop at 03/12/2023 5:37 PM
+BAG:digiok remove 1xThỏi vàng lydo: Bán cho shop at 03/12/2023 5:38 PM
+BAG:digiok remove 1xThỏi vàng lydo: Bán cho shop at 03/12/2023 5:38 PM
+BAG:digiok remove 1xThỏi vàng lydo: Bán cho shop at 03/12/2023 5:38 PM
+BAG:digiok remove 1xThỏi vàng lydo: Bán cho shop at 03/12/2023 5:38 PM
+BAG:digiok remove 1xThỏi vàng lydo: Bán cho shop at 03/12/2023 5:38 PM
+BAG:digiok remove 1xThỏi vàng lydo: Bán cho shop at 03/12/2023 5:38 PM
+BAG:digiok remove 1xThỏi vàng lydo: Bán cho shop at 03/12/2023 5:38 PM
+BAG:digiok remove 1xThỏi vàng lydo: Bán cho shop at 03/12/2023 5:38 PM
+BAG:digiok remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 03/12/2023 5:38 PM
+BAG:digiok remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 03/12/2023 5:39 PM
+BAG:digiok remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 03/12/2023 5:39 PM
+BAG:digiok remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 03/12/2023 5:39 PM
+BAG:digiok remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 03/12/2023 5:39 PM
+BAG:digiok remove 7xNgọc Rồng 4 sao lydo: Nhập ngọc at 03/12/2023 5:40 PM
+BAG:digiok remove 7xNgọc Rồng 4 sao lydo: Nhập ngọc at 03/12/2023 5:40 PM
+BAG:digiok remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 03/12/2023 5:41 PM
+BAG:digiok remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 03/12/2023 5:41 PM
+BAG:digiok remove Găng Thiên Sứ lydo: Mặc vào người at 03/12/2023 5:41 PM
+BAG:digiok remove Giáp tập luyện cấp 3 lydo: Mặc vào người at 03/12/2023 5:41 PM
+BAG:digiok remove 17xĐá thạch anh tím lydo: Dùng đá nâng cấp at 03/12/2023 5:42 PM
+BAG:digiok remove 19xĐá thạch anh tím lydo: Dùng đá nâng cấp at 03/12/2023 5:42 PM
+BAG:digiok remove 19xĐá thạch anh tím lydo: Dùng đá nâng cấp at 03/12/2023 5:42 PM
+BAG:digiok remove Găng Thiên Sứ lydo: Mặc vào người at 03/12/2023 5:42 PM
+BAG:digiok remove Đá thạch anh tím lydo: Cất vào rương at 03/12/2023 5:42 PM
+BAG:digiok remove Đá Ruby lydo: Cất vào rương at 03/12/2023 5:42 PM
+BAG:digiok remove Đá Saphia lydo: Cất vào rương at 03/12/2023 5:42 PM
+BAG:digiok remove Giáp tập luyện cấp 3 lydo: Mặc vào người at 03/12/2023 5:45 PM
+BAG:digiok remove Găng Thần Linh lydo: Mặc vào người at 03/12/2023 5:46 PM
+BAG:digiok remove Găng Thần Linh lydo: Mặc cho đệ tử at 03/12/2023 5:49 PM
+BAG:digiok remove Giáp tập luyện cấp 3 lydo: Mặc vào người at 03/12/2023 5:53 PM
+BAG:digiok remove Găng Thần Linh lydo: Mặc vào người at 03/12/2023 5:53 PM
+BAG:digiok remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/12/2023 5:53 PM
+BAG:digiok remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/12/2023 6:14 PM
+BAG:digiok remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/12/2023 6:31 PM
+BAG:digiok remove Giáp tập luyện cấp 3 lydo: Mặc vào người at 03/12/2023 6:42 PM
+BAG:digiok remove Găng Thần Linh lydo: Mặc vào người at 03/12/2023 6:42 PM
+BAG:digiok remove Găng Thần Linh lydo: Mặc cho đệ tử at 03/12/2023 6:45 PM
+BAG:digiok remove Giáp tập luyện cấp 3 lydo: Mặc vào người at 03/12/2023 6:52 PM
+BAG:digiok remove Găng Thần Linh lydo: Mặc vào người at 03/12/2023 6:56 PM
+BAG:digiok remove Găng Thiên Sứ lydo: Mặc vào người at 03/12/2023 6:57 PM
+BAG:digiok remove Giáp tập luyện cấp 3 lydo: Mặc vào người at 03/12/2023 7:06 PM
+BAG:digiok remove Găng Thần Linh lydo: Mặc vào người at 03/12/2023 7:07 PM
+BAG:digiok remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/12/2023 7:12 PM
+BAG:digiok remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/12/2023 7:30 PM
+BAG:digiok remove Găng Thần Linh lydo: Mặc cho đệ tử at 03/12/2023 7:32 PM
+BAG:digiok remove Vệ tinh trí lực lydo: Tự Xóa vật phẩm at 03/12/2023 7:33 PM
+BAG:digiok remove Vệ tinh sinh lực lydo: Tự Xóa vật phẩm at 03/12/2023 7:33 PM
+BAG:digiok remove Vệ tinh trí tuệ lydo: Tự Xóa vật phẩm at 03/12/2023 7:33 PM
+BAG:digiok remove Vệ tinh phòng thủ lydo: Tự Xóa vật phẩm at 03/12/2023 7:33 PM
+BAG:digiok remove Diều rồng lydo: Tự Xóa vật phẩm at 03/12/2023 7:45 PM
+BAG:digiok remove Giáp tập luyện cấp 3 lydo: Mặc vào người at 03/12/2023 9:03 PM
+BAG:digiok remove 1xMáy dò Capsule kì bí lydo: Dùng máy dò at 03/12/2023 9:04 PM
+BAG:digiok remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 9:06 PM
+BAG:digiok remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 9:06 PM
+BAG:digiok remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 9:06 PM
+BAG:digiok remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 9:06 PM
+BAG:digiok remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 9:06 PM
+BAG:digiok remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 9:06 PM
+BAG:digiok remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 9:06 PM
+BAG:digiok remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 9:06 PM
+BAG:digiok remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 9:06 PM
+BAG:digiok remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 9:06 PM
+BAG:digiok remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 9:06 PM
+BAG:digiok remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 9:06 PM
+BAG:digiok remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 9:06 PM
+BAG:digiok remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 9:06 PM
+BAG:digiok remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 9:06 PM
+BAG:digiok remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 9:06 PM
+BAG:digiok remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 9:06 PM
+BAG:digiok remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 9:06 PM
+BAG:digiok remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 9:06 PM
+BAG:digiok remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 9:06 PM
+BAG:digiok remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 9:06 PM
+BAG:digiok remove 1xẨn danh lydo: Dùng buff at 03/12/2023 9:06 PM
+BAG:digiok remove 1xẨn danh lydo: Dùng buff at 03/12/2023 9:06 PM
+BAG:digiok remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 9:14 PM
+BAG:digiok remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 9:14 PM
+BAG:digiok remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 9:14 PM
+BAG:digiok remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 9:14 PM
+BAG:digiok remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 9:14 PM
+BAG:digiok remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 9:14 PM
+BAG:digiok remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 9:14 PM
+BAG:digiok remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 9:14 PM
+BAG:digiok remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 9:14 PM
+BAG:digiok remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 9:14 PM
+BAG:digiok remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 9:15 PM
+BAG:digiok remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 9:15 PM
+BAG:digiok remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 9:15 PM
+BAG:digiok remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 9:15 PM
+BAG:digiok remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 9:15 PM
+BAG:digiok remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 9:15 PM
+BAG:digiok remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 9:15 PM
+BAG:digiok remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 9:15 PM
+BAG:digiok remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 9:15 PM
+BAG:digiok remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 9:15 PM
+BAG:digiok remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 9:15 PM
+BAG:digiok remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 9:15 PM
+BAG:digiok remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 9:15 PM
+BAG:digiok remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 9:15 PM
+BAG:digiok remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 9:15 PM
+BAG:digiok remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 9:15 PM
+BAG:digiok remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 9:15 PM
+BAG:digiok remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 9:15 PM
+BAG:digiok remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 9:15 PM
+BAG:digiok remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 9:15 PM
+BAG:digiok remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 9:15 PM
+BAG:digiok remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 9:15 PM
+BAG:digiok remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 9:15 PM
+BAG:digiok remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 9:15 PM
+BAG:digiok remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 9:15 PM
+BAG:digiok remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 9:15 PM
+BAG:digiok remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 9:15 PM
+BAG:digiok remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 9:15 PM
+BAG:digiok remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 9:15 PM
+BAG:digiok remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 9:15 PM
+BAG:digiok remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 9:15 PM
+BAG:digiok remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 9:15 PM
+BAG:digiok remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 9:15 PM
+BAG:digiok remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 9:15 PM
+BAG:digiok remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 9:15 PM
+BAG:digiok remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 9:16 PM
+BAG:digiok remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 9:16 PM
+BAG:digiok remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 9:16 PM
+BAG:digiok remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 9:16 PM
+BAG:digiok remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 9:16 PM
+BAG:digiok remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 9:16 PM
+BAG:digiok remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 9:16 PM
+BAG:digiok remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 9:16 PM
+BAG:digiok remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 9:16 PM
+BAG:digiok remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 9:16 PM
+BAG:digiok remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 9:16 PM
+BAG:digiok remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 9:16 PM
+BAG:digiok remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 9:16 PM
+BAG:digiok remove Áo vải 3 lỗ lydo: Mặc vào người at 03/12/2023 9:16 PM
+BAG:digiok remove Quần vải đen lydo: Mặc vào người at 03/12/2023 9:16 PM
+BAG:digiok remove Giầy nhựa lydo: Mặc vào người at 03/12/2023 9:16 PM
+BAG:digiok remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 9:20 PM
+BAG:digiok remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 9:20 PM
+BAG:digiok remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 9:20 PM
+BAG:digiok remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 9:20 PM
+BAG:digiok remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 9:20 PM
+BAG:digiok remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 9:20 PM
+BAG:digiok remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 9:20 PM
+BAG:digiok remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 9:20 PM
+BAG:digiok remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 9:20 PM
+BAG:digiok remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 9:20 PM
+BAG:digiok remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 9:20 PM
+BAG:digiok remove 1xMáy dò Capsule kì bí lydo: Dùng máy dò at 03/12/2023 9:41 PM
+BAG:digiok remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 9:41 PM
+BAG:digiok remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 9:41 PM
+BAG:digiok remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 9:41 PM
+BAG:digiok remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 9:41 PM
+BAG:digiok remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 9:41 PM
+BAG:digiok remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 9:41 PM
+BAG:digiok remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 9:41 PM
+BAG:digiok remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 9:41 PM
+BAG:digiok remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 9:41 PM
+BAG:digiok remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 9:41 PM
+BAG:digiok remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 9:41 PM
+BAG:digiok remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 9:41 PM
+BAG:digiok remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 9:41 PM
+BAG:digiok remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 9:41 PM
+BAG:digiok remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 9:41 PM
+BAG:digiok remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 9:41 PM
+BAG:digiok remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 9:48 PM
+BAG:digiok remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 9:48 PM
+BAG:digiok remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 9:48 PM
+BAG:digiok remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 9:48 PM
+BAG:digiok remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 9:48 PM
+BAG:digiok remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 9:48 PM
+BAG:digiok remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 9:48 PM
+BAG:digiok remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 9:48 PM
+BAG:digiok remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 9:48 PM
+BAG:digiok remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 9:48 PM
+BAG:digiok remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 9:48 PM
+BAG:digiok remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 9:48 PM
+BAG:digiok remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 9:48 PM
+BAG:digiok remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 9:48 PM
+BAG:digiok remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 9:48 PM
+BAG:digiok remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 9:48 PM
+BAG:digiok remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 9:48 PM
+BAG:digiok remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 9:48 PM
+BAG:digiok remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 9:48 PM
+BAG:digiok remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 9:48 PM
+BAG:digiok remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 9:48 PM
+BAG:digiok remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 9:48 PM
+BAG:digiok remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 9:48 PM
+BAG:digiok remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 9:48 PM
+BAG:digiok remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 9:48 PM
+BAG:digiok remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 9:48 PM
+BAG:digiok remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 9:48 PM
+BAG:digiok remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 9:48 PM
+BAG:digiok remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 9:48 PM
+BAG:digiok remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 9:48 PM
+BAG:digiok remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 9:48 PM
+BAG:digiok remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 9:48 PM
+BAG:digiok remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 9:48 PM
+BAG:digiok remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 9:48 PM
+BAG:digiok remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 9:48 PM
+BAG:digiok remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 9:48 PM
+BAG:digiok remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 9:48 PM
+BAG:digiok remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 9:48 PM
+BAG:digiok remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 9:48 PM
+BAG:digiok remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 9:48 PM
+BAG:digiok remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 9:48 PM
+BAG:digiok remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 9:48 PM
+BAG:digiok remove 2xCuồng nộ lydo: Giao dịch với gdggs at 03/12/2023 9:53 PM
+BAG:digiok remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 9:58 PM
+BAG:digiok remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 9:58 PM
+BAG:digiok remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 9:58 PM
+BAG:digiok remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 9:58 PM
+BAG:digiok remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 9:58 PM
+BAG:digiok remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 9:58 PM
+BAG:digiok remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 9:58 PM
+BAG:digiok remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 9:58 PM
+BAG:digiok remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 9:58 PM
+BAG:digiok remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 9:58 PM
+BAG:digiok remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 9:58 PM
+BAG:digiok remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 9:58 PM
+BAG:digiok remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 9:58 PM
+BAG:digiok remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 9:58 PM
+BAG:digiok remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 9:58 PM
+BAG:digiok remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 9:58 PM
+BAG:digiok remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 9:58 PM
+BAG:digiok remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 9:58 PM
+BAG:digiok remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 9:58 PM
+BAG:digiok remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 9:58 PM
+BAG:digiok remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 9:58 PM
+BAG:digiok remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 9:58 PM
+BAG:digiok remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 9:58 PM
+BAG:digiok remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 9:59 PM
+BAG:digiok remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 9:59 PM
+BAG:digiok remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 9:59 PM
+BAG:digiok remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 9:59 PM
+BAG:digiok remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 9:59 PM
+BAG:digiok remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 9:59 PM
+BAG:digiok remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 9:59 PM
+BAG:digiok remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 9:59 PM
+BAG:digiok remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 9:59 PM
+BAG:digiok remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 9:59 PM
+BAG:digiok remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 9:59 PM
+BAG:digiok remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 9:59 PM
+BAG:digiok remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 9:59 PM
+BAG:digiok remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 9:59 PM
+BAG:digiok remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 9:59 PM
+BAG:digiok remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 9:59 PM
+BAG:digiok remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 9:59 PM
+BAG:digiok remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 9:59 PM
+BAG:digiok remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 9:59 PM
+BAG:digiok remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 9:59 PM
+BAG:digiok remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 9:59 PM
+BAG:digiok remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 9:59 PM
+BAG:digiok remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 9:59 PM
+BAG:digiok remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 9:59 PM
+BAG:digiok remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 9:59 PM
+BAG:digiok remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 9:59 PM
+BAG:digiok remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 9:59 PM
+BAG:digiok remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 9:59 PM
+BAG:digiok remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 9:59 PM
+BAG:digiok remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 9:59 PM
+BAG:digiok remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 9:59 PM
+BAG:digiok remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 9:59 PM
+BAG:digiok remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 9:59 PM
+BAG:digiok remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 9:59 PM
+BAG:digiok remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 9:59 PM
+BAG:digiok remove 1xẨn danh lydo: Dùng buff at 03/12/2023 9:59 PM
+BAG:digiok remove 1xẨn danh lydo: Dùng buff at 03/12/2023 9:59 PM
+BAG:digiok remove 1xẨn danh lydo: Dùng buff at 03/12/2023 9:59 PM
+BAG:digiok remove 1xẨn danh lydo: Dùng buff at 03/12/2023 9:59 PM
+BAG:digiok remove 1xẨn danh lydo: Dùng buff at 03/12/2023 9:59 PM
+BAG:digiok remove 1xẨn danh lydo: Dùng buff at 03/12/2023 9:59 PM
+BAG:digiok remove 1xẨn danh lydo: Dùng buff at 03/12/2023 9:59 PM
+BAG:digiok remove 1xẨn danh lydo: Dùng buff at 03/12/2023 9:59 PM
+BAG:digiok remove 1xẨn danh lydo: Dùng buff at 03/12/2023 9:59 PM
+BAG:digiok remove 1xẨn danh lydo: Dùng buff at 03/12/2023 9:59 PM
+BAG:digiok remove 1xẨn danh lydo: Dùng buff at 03/12/2023 9:59 PM
+BAG:digiok remove 1xẨn danh lydo: Dùng buff at 03/12/2023 9:59 PM
+BAG:digiok remove 1xẨn danh lydo: Dùng buff at 03/12/2023 9:59 PM
+BAG:digiok remove 1xẨn danh lydo: Dùng buff at 03/12/2023 9:59 PM
+BAG:digiok remove 1xẨn danh lydo: Dùng buff at 03/12/2023 9:59 PM
+BAG:digiok remove 1xCuồng nộ lydo: Dùng buff at 03/12/2023 10:06 PM
+BAG:digiok remove 1xBổ huyết lydo: Dùng buff at 03/12/2023 10:08 PM
+BAG:digiok remove 1xBổ huyết lydo: Dùng buff at 03/12/2023 10:08 PM
+BAG:digiok remove Giáp tập luyện cấp 3 lydo: Mặc vào người at 03/12/2023 10:09 PM
+BAG:digiok remove 1xMáy dò Capsule kì bí lydo: Dùng máy dò at 03/12/2023 10:11 PM
+BAG:digiok remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 10:32 PM
+BAG:digiok remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 10:32 PM
+BAG:digiok remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 10:32 PM
+BAG:digiok remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 10:32 PM
+BAG:digiok remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 10:32 PM
+BAG:digiok remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 10:32 PM
+BAG:digiok remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 10:32 PM
+BAG:digiok remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 10:32 PM
+BAG:digiok remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 10:32 PM
+BAG:digiok remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 10:32 PM
+BAG:digiok remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 10:32 PM
+BAG:digiok remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 10:32 PM
+BAG:digiok remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 10:32 PM
+BAG:digiok remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 10:32 PM
+BAG:digiok remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 10:32 PM
+BAG:digiok remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 10:32 PM
+BAG:digiok remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 10:32 PM
+BAG:digiok remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 10:32 PM
+BAG:digiok remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 10:32 PM
+BAG:digiok remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 10:32 PM
+BAG:digiok remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 10:32 PM
+BAG:digiok remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 10:32 PM
+BAG:digiok remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 10:32 PM
+BAG:digiok remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 10:32 PM
+BAG:digiok remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 10:32 PM
+BAG:digiok remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 10:32 PM
+BAG:digiok remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 10:32 PM
+BAG:digiok remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 10:32 PM
+BAG:digiok remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 10:32 PM
+BAG:digiok remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 10:32 PM
+BAG:digiok remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 10:32 PM
+BAG:digiok remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 10:32 PM
+BAG:digiok remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 10:32 PM
+BAG:digiok remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 10:32 PM
+BAG:digiok remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 10:32 PM
+BAG:digiok remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 10:32 PM
+BAG:digiok remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 10:32 PM
+BAG:digiok remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 10:32 PM
+BAG:digiok remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 10:32 PM
+BAG:digiok remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 10:32 PM
+BAG:digiok remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 10:32 PM
+BAG:digiok remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 10:32 PM
+BAG:digiok remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 10:32 PM
+BAG:digiok remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 10:32 PM
+BAG:digiok remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 10:32 PM
+BAG:digiok remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 10:32 PM
+BAG:digiok remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 10:32 PM
+BAG:digiok remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 10:32 PM
+BAG:digiok remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 10:32 PM
+BAG:digiok remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 10:32 PM
+BAG:digiok remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 10:32 PM
+BAG:digiok remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 10:32 PM
+BAG:digiok remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 10:32 PM
+BAG:digiok remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 10:32 PM
+BAG:digiok remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 10:32 PM
+BAG:digiok remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 10:32 PM
+BAG:digiok remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 10:32 PM
+BAG:digiok remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 10:32 PM
+BAG:digiok remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 10:32 PM
+BAG:digiok remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 10:32 PM
+BAG:digiok remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 10:32 PM
+BAG:digiok remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 10:32 PM
+BAG:digiok remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 10:32 PM
+BAG:digiok remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 10:32 PM
+BAG:digiok remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 10:32 PM
+BAG:digiok remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 10:32 PM
+BAG:digiok remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 10:32 PM
+BAG:digiok remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 10:32 PM
+BAG:digiok remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 10:32 PM
+BAG:digiok remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 10:32 PM
+BAG:digiok remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 10:32 PM
+BAG:digiok remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 10:32 PM
+BAG:digiok remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 10:32 PM
+BAG:digiok remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 10:32 PM
+BAG:digiok remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 10:32 PM
+BAG:digiok remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 10:32 PM
+BAG:digiok remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 10:32 PM
+BAG:digiok remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 10:32 PM
+BAG:digiok remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 10:32 PM
+BAG:digiok remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 10:32 PM
+BAG:digiok remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 10:32 PM
+BAG:digiok remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 10:32 PM
+BAG:digiok remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 10:32 PM
+BAG:digiok remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 10:32 PM
+BAG:digiok remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 10:32 PM
+BAG:digiok remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 10:32 PM
+BAG:digiok remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 10:32 PM
+BAG:digiok remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 10:32 PM
+BAG:digiok remove 1xẨn danh lydo: Dùng buff at 03/12/2023 10:32 PM
+BAG:digiok remove 1xẨn danh lydo: Dùng buff at 03/12/2023 10:32 PM
+BAG:digiok remove 1xẨn danh lydo: Dùng buff at 03/12/2023 10:32 PM
+BAG:digiok remove 1xẨn danh lydo: Dùng buff at 03/12/2023 10:32 PM
+BAG:digiok remove 1xẨn danh lydo: Dùng buff at 03/12/2023 10:32 PM
+BAG:digiok remove 1xẨn danh lydo: Dùng buff at 03/12/2023 10:32 PM
+BAG:digiok remove Đá Saphia lydo: Tự Xóa vật phẩm at 03/12/2023 10:48 PM
+BAG:digiok remove 92xĐá Titan lydo: Bán cho shop at 03/12/2023 10:49 PM
+BAG:digiok remove Ẩn danh lydo: Tự Xóa vật phẩm at 03/12/2023 10:53 PM
+BAG:digiok remove Ẩn danh lydo: Tự Xóa vật phẩm at 03/12/2023 10:54 PM
+BAG:digiok remove Ngọc Rồng 6 sao lydo: Tự Xóa vật phẩm at 03/12/2023 10:54 PM
+BAG:digiok remove Ngọc Rồng 5 sao lydo: Tự Xóa vật phẩm at 03/12/2023 10:54 PM
+BAG:digiok remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 10:55 PM
+BAG:digiok remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 10:55 PM
+BAG:digiok remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 10:55 PM
+BAG:digiok remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 10:55 PM
+BAG:digiok remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 10:55 PM
+BAG:digiok remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 10:55 PM
+BAG:digiok remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 10:55 PM
+BAG:digiok remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 10:55 PM
+BAG:digiok remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 10:55 PM
+BAG:digiok remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 10:55 PM
+BAG:digiok remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 10:55 PM
+BAG:digiok remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 10:55 PM
+BAG:digiok remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 10:55 PM
+BAG:digiok remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 10:55 PM
+BAG:digiok remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 10:55 PM
+BAG:digiok remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 10:55 PM
+BAG:digiok remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 10:55 PM
+BAG:digiok remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 10:55 PM
+BAG:digiok remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 10:55 PM
+BAG:digiok remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 10:55 PM
+BAG:digiok remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 10:55 PM
+BAG:digiok remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 10:55 PM
+BAG:digiok remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 10:55 PM
+BAG:digiok remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 10:55 PM
+BAG:digiok remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 10:55 PM
+BAG:digiok remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 10:55 PM
+BAG:digiok remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 10:55 PM
+BAG:digiok remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 10:55 PM
+BAG:digiok remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 10:55 PM
+BAG:digiok remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 10:55 PM
+BAG:digiok remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 10:55 PM
+BAG:digiok remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 10:55 PM
+BAG:digiok remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 10:55 PM
+BAG:digiok remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 10:55 PM
+BAG:digiok remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 10:55 PM
+BAG:digiok remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 10:55 PM
+BAG:digiok remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 10:55 PM
+BAG:digiok remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 10:55 PM
+BAG:digiok remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 10:55 PM
+BAG:digiok remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 10:55 PM
+BAG:digiok remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 10:55 PM
+BAG:digiok remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 10:55 PM
+BAG:digiok remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 10:55 PM
+BAG:digiok remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 10:55 PM
+BAG:digiok remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 10:55 PM
+BAG:digiok remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 10:55 PM
+BAG:digiok remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 10:55 PM
+BAG:digiok remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 10:55 PM
+BAG:digiok remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 10:55 PM
+BAG:digiok remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 10:55 PM
+BAG:digiok remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 10:55 PM
+BAG:digiok remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 10:55 PM
+BAG:digiok remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 10:55 PM
+BAG:digiok remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 10:55 PM
+BAG:digiok remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 10:55 PM
+BAG:digiok remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 10:55 PM
+BAG:digiok remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 10:55 PM
+BAG:digiok remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 10:55 PM
+BAG:digiok remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 10:55 PM
+BAG:digiok remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 10:55 PM
+BAG:digiok remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 10:55 PM
+BAG:digiok remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 10:55 PM
+BAG:digiok remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 10:55 PM
+BAG:digiok remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 10:55 PM
+BAG:digiok remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 10:55 PM
+BAG:digiok remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 10:55 PM
+BAG:digiok remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 10:55 PM
+BAG:digiok remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 10:55 PM
+BAG:digiok remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 10:55 PM
+BAG:digiok remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 10:55 PM
+BAG:digiok remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 10:55 PM
+BAG:digiok remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 10:55 PM
+BAG:digiok remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 10:55 PM
+BAG:digiok remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 10:55 PM
+BAG:digiok remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 10:55 PM
+BAG:digiok remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 10:55 PM
+BAG:digiok remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 10:55 PM
+BAG:digiok remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 10:55 PM
+BAG:digiok remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 10:55 PM
+BAG:digiok remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 10:55 PM
+BAG:digiok remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 10:55 PM
+BAG:digiok remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 10:55 PM
+BAG:digiok remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 10:55 PM
+BAG:digiok remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 10:55 PM
+BAG:digiok remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 10:55 PM
+BAG:digiok remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 10:55 PM
+BAG:digiok remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 10:56 PM
+BAG:digiok remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 10:56 PM
+BAG:digiok remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 10:56 PM
+BAG:digiok remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 10:56 PM
+BAG:digiok remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 10:56 PM
+BAG:digiok remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 10:56 PM
+BAG:digiok remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 10:56 PM
+BAG:digiok remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 10:56 PM
+BAG:digiok remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 10:56 PM
+BAG:digiok remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 10:56 PM
+BAG:digiok remove Áo Thiên Sứ lydo: Cất vào rương at 03/12/2023 10:58 PM
+BAG:digiok remove Giầy Thiên Sứ lydo: Cất vào rương at 03/12/2023 10:58 PM
+BAG:digiok remove Đá lục bảo lydo: Cất vào rương at 03/12/2023 10:58 PM
+BAG:digiok remove Quần Thiên Sứ lydo: Cất vào rương at 03/12/2023 10:58 PM
+BAG:digiok remove Đá Ruby lydo: Cất vào rương at 03/12/2023 10:58 PM
+BAG:digiok remove Đá thạch anh tím lydo: Cất vào rương at 03/12/2023 10:58 PM
+BAG:digiok remove Ngọc Rồng 4 sao lydo: Cất vào rương at 03/12/2023 10:59 PM
+BAG:digiok remove CT Genma 02 lydo: Tự Xóa vật phẩm at 03/12/2023 10:59 PM
+BAG:digiok remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/12/2023 11:09 PM
+BAG:digiok remove Đá thạch anh tím lydo: Cất vào rương at 03/12/2023 11:21 PM
+BAG:digiok remove Đá Ruby lydo: Cất vào rương at 03/12/2023 11:21 PM
+BAG:digiok remove Đá lục bảo lydo: Cất vào rương at 03/12/2023 11:21 PM
+BAG:digiok remove Sao pha lê lydo: Cất vào rương at 03/12/2023 11:21 PM
+BAG:digiok remove Sao pha lê lydo: Cất vào rương at 03/12/2023 11:21 PM
+BAG:digiok remove Ngọc Rồng 5 sao lydo: Cất vào rương at 03/12/2023 11:22 PM
+BAG:digiok remove Mèo mun lydo: Cất vào rương at 03/12/2023 11:22 PM
+BAG:digiok remove Sao pha lê lydo: Cất vào rương at 03/12/2023 11:22 PM
+BAG:digiok remove Sao pha lê lydo: Cất vào rương at 03/12/2023 11:23 PM
+BAG:digiok remove Đá Saphia lydo: Tự Xóa vật phẩm at 03/12/2023 11:23 PM
+BAG:digiok remove Đá Ruby lydo: Tự Xóa vật phẩm at 03/12/2023 11:23 PM
+BAG:digiok remove Giầy nhựa lydo: Tự Xóa vật phẩm at 03/12/2023 11:23 PM
+BAG:digiok remove Quần vải đen lydo: Tự Xóa vật phẩm at 03/12/2023 11:23 PM
+BAG:digiok remove Áo vải 3 lỗ lydo: Tự Xóa vật phẩm at 03/12/2023 11:23 PM
+BAG:digiok remove 7xNgọc Rồng 4 sao lydo: Nhập ngọc at 03/12/2023 11:27 PM
+BAG:digiok remove 7xNgọc Rồng 4 sao lydo: Nhập ngọc at 03/12/2023 11:27 PM
+BAG:digiok remove 7xNgọc Rồng 4 sao lydo: Nhập ngọc at 03/12/2023 11:27 PM
+BAG:digiok remove 7xNgọc Rồng 4 sao lydo: Nhập ngọc at 03/12/2023 11:27 PM
+BAG:digiok remove 7xNgọc Rồng 4 sao lydo: Nhập ngọc at 03/12/2023 11:27 PM
+BAG:digiok remove 7xNgọc Rồng 4 sao lydo: Nhập ngọc at 03/12/2023 11:28 PM
+BAG:digiok remove 7xNgọc Rồng 4 sao lydo: Nhập ngọc at 03/12/2023 11:28 PM
+BAG:digiok remove 7xNgọc Rồng 4 sao lydo: Nhập ngọc at 03/12/2023 11:28 PM
+BAG:digiok remove 7xNgọc Rồng 4 sao lydo: Nhập ngọc at 03/12/2023 11:28 PM
+BAG:digiok remove 7xNgọc Rồng 4 sao lydo: Nhập ngọc at 03/12/2023 11:28 PM
+BAG:digiok remove 7xNgọc Rồng 4 sao lydo: Nhập ngọc at 03/12/2023 11:28 PM
+BAG:digiok remove 7xNgọc Rồng 4 sao lydo: Nhập ngọc at 03/12/2023 11:28 PM
+BAG:digiok remove 7xNgọc Rồng 4 sao lydo: Nhập ngọc at 03/12/2023 11:28 PM
+BAG:digiok remove 7xNgọc Rồng 4 sao lydo: Nhập ngọc at 03/12/2023 11:28 PM
+BAG:digiok remove 7xNgọc Rồng 4 sao lydo: Nhập ngọc at 03/12/2023 11:28 PM
+BAG:digiok remove 7xNgọc Rồng 4 sao lydo: Nhập ngọc at 03/12/2023 11:28 PM
+BAG:digiok remove 7xNgọc Rồng 4 sao lydo: Nhập ngọc at 03/12/2023 11:28 PM
+BAG:digiok remove 7xNgọc Rồng 4 sao lydo: Nhập ngọc at 03/12/2023 11:28 PM
+BAG:digiok remove 7xNgọc Rồng 4 sao lydo: Nhập ngọc at 03/12/2023 11:28 PM
+BAG:digiok remove 7xNgọc Rồng 4 sao lydo: Nhập ngọc at 03/12/2023 11:28 PM
+BAG:digiok remove 7xNgọc Rồng 4 sao lydo: Nhập ngọc at 03/12/2023 11:28 PM
+BAG:digiok remove 7xNgọc Rồng 4 sao lydo: Nhập ngọc at 03/12/2023 11:28 PM
+BAG:digiok remove 7xNgọc Rồng 4 sao lydo: Nhập ngọc at 03/12/2023 11:28 PM
+BAG:digiok remove 7xNgọc Rồng 4 sao lydo: Nhập ngọc at 03/12/2023 11:28 PM
+BAG:digiok remove 7xNgọc Rồng 4 sao lydo: Nhập ngọc at 03/12/2023 11:28 PM
+BAG:digiok remove 7xNgọc Rồng 4 sao lydo: Nhập ngọc at 03/12/2023 11:28 PM
+BAG:digiok remove 7xNgọc Rồng 4 sao lydo: Nhập ngọc at 03/12/2023 11:28 PM
+BAG:digiok remove 7xNgọc Rồng 4 sao lydo: Nhập ngọc at 03/12/2023 11:28 PM
+BAG:digiok remove 7xNgọc Rồng 4 sao lydo: Nhập ngọc at 03/12/2023 11:28 PM
+BAG:digiok remove 7xNgọc Rồng 4 sao lydo: Nhập ngọc at 03/12/2023 11:28 PM
+BAG:digiok remove 7xNgọc Rồng 4 sao lydo: Nhập ngọc at 03/12/2023 11:28 PM
+BAG:digiok remove 7xNgọc Rồng 4 sao lydo: Nhập ngọc at 03/12/2023 11:28 PM
+BAG:digiok remove 7xNgọc Rồng 4 sao lydo: Nhập ngọc at 03/12/2023 11:28 PM
+BAG:digiok remove 7xNgọc Rồng 4 sao lydo: Nhập ngọc at 03/12/2023 11:28 PM
+BAG:digiok remove 7xNgọc Rồng 4 sao lydo: Nhập ngọc at 03/12/2023 11:28 PM
+BAG:digiok remove 7xNgọc Rồng 4 sao lydo: Nhập ngọc at 03/12/2023 11:28 PM
+BAG:digiok remove 7xNgọc Rồng 4 sao lydo: Nhập ngọc at 03/12/2023 11:28 PM
+BAG:digiok remove 7xNgọc Rồng 4 sao lydo: Nhập ngọc at 03/12/2023 11:28 PM
+BAG:digiok remove 7xNgọc Rồng 5 sao lydo: Nhập ngọc at 03/12/2023 11:28 PM
+BAG:digiok remove 7xNgọc Rồng 5 sao lydo: Nhập ngọc at 03/12/2023 11:28 PM
+BAG:digiok remove 7xNgọc Rồng 5 sao lydo: Nhập ngọc at 03/12/2023 11:28 PM
+BAG:digiok remove 7xNgọc Rồng 5 sao lydo: Nhập ngọc at 03/12/2023 11:29 PM
+BAG:digiok remove 7xNgọc Rồng 5 sao lydo: Nhập ngọc at 03/12/2023 11:29 PM
+BAG:digiok remove 7xNgọc Rồng 5 sao lydo: Nhập ngọc at 03/12/2023 11:29 PM
+BAG:digiok remove 7xNgọc Rồng 5 sao lydo: Nhập ngọc at 03/12/2023 11:29 PM
+BAG:digiok remove 7xNgọc Rồng 5 sao lydo: Nhập ngọc at 03/12/2023 11:29 PM
+BAG:digiok remove 7xNgọc Rồng 5 sao lydo: Nhập ngọc at 03/12/2023 11:29 PM
+BAG:digiok remove 7xNgọc Rồng 5 sao lydo: Nhập ngọc at 03/12/2023 11:29 PM
+BAG:digiok remove 7xNgọc Rồng 5 sao lydo: Nhập ngọc at 03/12/2023 11:29 PM
+BAG:digiok remove 7xNgọc Rồng 5 sao lydo: Nhập ngọc at 03/12/2023 11:29 PM
+BAG:digiok remove 7xNgọc Rồng 5 sao lydo: Nhập ngọc at 03/12/2023 11:29 PM
+BAG:digiok remove 7xNgọc Rồng 5 sao lydo: Nhập ngọc at 03/12/2023 11:29 PM
+BAG:digiok remove 7xNgọc Rồng 5 sao lydo: Nhập ngọc at 03/12/2023 11:29 PM
+BAG:digiok remove 7xNgọc Rồng 5 sao lydo: Nhập ngọc at 03/12/2023 11:29 PM
+BAG:digiok remove 7xNgọc Rồng 5 sao lydo: Nhập ngọc at 03/12/2023 11:29 PM
+BAG:digiok remove 7xNgọc Rồng 5 sao lydo: Nhập ngọc at 03/12/2023 11:29 PM
+BAG:digiok remove 7xNgọc Rồng 5 sao lydo: Nhập ngọc at 03/12/2023 11:29 PM
+BAG:digiok remove 7xNgọc Rồng 5 sao lydo: Nhập ngọc at 03/12/2023 11:29 PM
+BAG:digiok remove 7xNgọc Rồng 5 sao lydo: Nhập ngọc at 03/12/2023 11:29 PM
+BAG:digiok remove 7xNgọc Rồng 5 sao lydo: Nhập ngọc at 03/12/2023 11:29 PM
+BAG:digiok remove 7xNgọc Rồng 5 sao lydo: Nhập ngọc at 03/12/2023 11:29 PM
+BAG:digiok remove 7xNgọc Rồng 5 sao lydo: Nhập ngọc at 03/12/2023 11:29 PM
+BAG:digiok remove 7xNgọc Rồng 5 sao lydo: Nhập ngọc at 03/12/2023 11:29 PM
+BAG:digiok remove 7xNgọc Rồng 5 sao lydo: Nhập ngọc at 03/12/2023 11:29 PM
+BAG:digiok remove 7xNgọc Rồng 5 sao lydo: Nhập ngọc at 03/12/2023 11:29 PM
+BAG:digiok remove 7xNgọc Rồng 5 sao lydo: Nhập ngọc at 03/12/2023 11:29 PM
+BAG:digiok remove 7xNgọc Rồng 4 sao lydo: Nhập ngọc at 03/12/2023 11:29 PM
+BAG:digiok remove 7xNgọc Rồng 4 sao lydo: Nhập ngọc at 03/12/2023 11:29 PM
+BAG:digiok remove 7xNgọc Rồng 4 sao lydo: Nhập ngọc at 03/12/2023 11:29 PM
+BAG:digiok remove 7xNgọc Rồng 4 sao lydo: Nhập ngọc at 03/12/2023 11:29 PM
+BAG:digiok remove 7xNgọc Rồng 3 sao lydo: Nhập ngọc at 03/12/2023 11:29 PM
+BAG:digiok remove 7xNgọc Rồng 3 sao lydo: Nhập ngọc at 03/12/2023 11:29 PM
+BAG:digiok remove 7xNgọc Rồng 3 sao lydo: Nhập ngọc at 03/12/2023 11:30 PM
+BAG:digiok remove 7xNgọc Rồng 3 sao lydo: Nhập ngọc at 03/12/2023 11:30 PM
+BAG:digiok remove 7xNgọc Rồng 3 sao lydo: Nhập ngọc at 03/12/2023 11:30 PM
+BAG:digiok remove 7xNgọc Rồng 3 sao lydo: Nhập ngọc at 03/12/2023 11:30 PM
+BAG:digiok remove 7xNgọc Rồng 3 sao lydo: Nhập ngọc at 03/12/2023 11:30 PM
+BAG:digiok remove 7xNgọc Rồng 3 sao lydo: Nhập ngọc at 03/12/2023 11:30 PM
+BAG:digiok remove 7xNgọc Rồng 2 sao lydo: Nhập ngọc at 03/12/2023 11:31 PM
+BAG:digiok remove Ngọc Rồng 1 sao lydo: Cất vào rương at 03/12/2023 11:33 PM
+BAG:digiok remove Ngọc Rồng 2 sao lydo: Cất vào rương at 03/12/2023 11:33 PM
+BAG:digiok remove 1xThỏi vàng lydo: Bán cho shop at 03/12/2023 11:34 PM
+BAG:digiok remove 1xThỏi vàng lydo: Bán cho shop at 03/12/2023 11:34 PM
+BAG:digiok remove 1xThỏi vàng lydo: Bán cho shop at 03/12/2023 11:34 PM
+BAG:digiok remove Giáp tập luyện cấp 1 lydo: Mặc cho đệ tử at 03/12/2023 11:35 PM
+BAG:digiok remove Cải Trang Glaxy lydo: Mặc cho đệ tử at 03/12/2023 11:35 PM
+BAG:digiok remove Giầy nhựa lydo: Mặc cho đệ tử at 03/12/2023 11:35 PM
+BAG:digiok remove Rada cấp 1 lydo: Mặc cho đệ tử at 03/12/2023 11:35 PM
+BAG:digiok remove Áo vải 3 lỗ lydo: Mặc cho đệ tử at 03/12/2023 11:35 PM
+BAG:digiok remove Quần vải đen lydo: Mặc cho đệ tử at 03/12/2023 11:35 PM
+BAG:digiok remove Áo jean Calic lydo: Mặc vào người at 03/12/2023 11:36 PM
+BAG:digiok remove Quần jean Calic lydo: Mặc vào người at 03/12/2023 11:36 PM
+BAG:digiok remove Giày jean Calic lydo: Mặc vào người at 03/12/2023 11:36 PM
+BAG:digiok remove Rada cấp 12 lydo: Mặc vào người at 03/12/2023 11:36 PM
+BAG:digiok remove Găng võ Kame lydo: Mặc cho đệ tử at 03/12/2023 11:38 PM
+BAG:digiok remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/12/2023 11:39 PM
+BAG:digiok remove 1xNâng cấp kỹ năng 2 đệ tử lydo: Dùng sách kĩ năng đệ tử at 03/12/2023 11:45 PM
+BAG:digiok remove 1xNâng cấp kỹ năng 2 đệ tử lydo: Dùng sách kĩ năng đệ tử at 03/12/2023 11:45 PM
+BAG:digiok remove 1xNâng cấp kỹ năng 2 đệ tử lydo: Dùng sách kĩ năng đệ tử at 03/12/2023 11:45 PM
+BAG:digiok remove 1xNâng cấp kỹ năng 2 đệ tử lydo: Dùng sách kĩ năng đệ tử at 03/12/2023 11:45 PM
+BAG:digiok remove 1xNâng cấp kỹ năng 2 đệ tử lydo: Dùng sách kĩ năng đệ tử at 03/12/2023 11:46 PM
+BAG:digiok remove 1xNâng cấp kỹ năng 2 đệ tử lydo: Dùng sách kĩ năng đệ tử at 03/12/2023 11:46 PM

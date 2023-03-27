@@ -1,0 +1,27 @@
+BAG:superpen add 1xHoa hồng vàng lydo: Nhặt từ map at 03/13/2023 12:01 AM
+BAG:superpen add 1xĐá Saphia lydo: Nhặt từ map at 03/13/2023 12:01 AM
+BAG:superpen add 1xHoa hồng xanh lydo: Nhặt từ map at 03/13/2023 12:02 AM
+BAG:superpen add 2xHoa hồng vàng (old: 1) lydo: Nhặt từ map at 03/13/2023 12:02 AM
+BAG:superpen add 1xĐá thạch anh tím lydo: Nhặt từ map at 03/13/2023 12:02 AM
+BAG:superpen add 2xHoa hồng xanh (old: 1) lydo: Nhặt từ map at 03/13/2023 12:02 AM
+BAG:superpen add 1xĐá lục bảo lydo: Nhặt từ map at 03/13/2023 12:03 AM
+BAG:superpen add 1xHoa hồng đỏ lydo: Nhặt từ map at 03/13/2023 12:03 AM
+BAG:superpen add 2xHoa hồng đỏ (old: 1) lydo: Nhặt từ map at 03/13/2023 12:03 AM
+BAG:superpen add 3xHoa hồng vàng (old: 2) lydo: Nhặt từ map at 03/13/2023 12:03 AM
+BAG:superpen add 3xHoa hồng đỏ (old: 2) lydo: Nhặt từ map at 03/13/2023 12:03 AM
+BAG:superpen add 4xHoa hồng vàng (old: 3) lydo: Nhặt từ map at 03/13/2023 12:03 AM
+BAG:superpen add 4xHoa hồng đỏ (old: 3) lydo: Nhặt từ map at 03/13/2023 12:04 AM
+BAG:superpen add 5xHoa hồng vàng (old: 4) lydo: Nhặt từ map at 03/13/2023 12:04 AM
+BAG:superpen add 5xHoa hồng đỏ (old: 4) lydo: Nhặt từ map at 03/13/2023 12:04 AM
+BAG:superpen add 3xHoa hồng xanh (old: 2) lydo: Nhặt từ map at 03/13/2023 12:04 AM
+BAG:superpen add 6xHoa hồng vàng (old: 5) lydo: Nhặt từ map at 03/13/2023 12:04 AM
+BAG:superpen add 1xĐá Titan lydo: Nhặt từ map at 03/13/2023 12:04 AM
+BAG:superpen add 4xHoa hồng xanh (old: 3) lydo: Nhặt từ map at 03/13/2023 12:04 AM
+BAG:superpen add 5xHoa hồng xanh (old: 4) lydo: Nhặt từ map at 03/13/2023 12:04 AM
+BAG:superpen add 2xĐá thạch anh tím (old: 1) lydo: Nhặt từ map at 03/13/2023 12:05 AM
+BAG:superpen add 7xHoa hồng vàng (old: 6) lydo: Nhặt từ map at 03/13/2023 12:05 AM
+BAG:superpen add 6xHoa hồng xanh (old: 5) lydo: Nhặt từ map at 03/13/2023 12:05 AM
+BAG:superpen add 7xHoa hồng xanh (old: 6) lydo: Nhặt từ map at 03/13/2023 12:06 AM
+BAG:superpen add 6xHoa hồng đỏ (old: 5) lydo: Nhặt từ map at 03/13/2023 12:06 AM
+BAG:superpen add 7xHoa hồng đỏ (old: 6) lydo: Nhặt từ map at 03/13/2023 12:06 AM
+BAG:superpen add 8xHoa hồng vàng (old: 7) lydo: Nhặt từ map at 03/13/2023 12:06 AM

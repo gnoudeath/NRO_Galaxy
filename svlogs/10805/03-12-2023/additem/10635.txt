@@ -1,0 +1,138 @@
+BAG:duonggcon add 50xHoa hồng vàng (old: 49) lydo: Nhặt từ map at 03/12/2023 11:25 AM
+BAG:duonggcon add 32xHoa hồng xanh (old: 31) lydo: Nhặt từ map at 03/12/2023 11:25 AM
+BAG:duonggcon add 15xĐá thạch anh tím (old: 14) lydo: Nhặt từ map at 03/12/2023 11:25 AM
+BAG:duonggcon add 33xHoa hồng xanh (old: 32) lydo: Nhặt từ map at 03/12/2023 11:25 AM
+BAG:duonggcon add 51xHoa hồng vàng (old: 50) lydo: Nhặt từ map at 03/12/2023 11:25 AM
+BAG:duonggcon add 34xHoa hồng đỏ (old: 33) lydo: Nhặt từ map at 03/12/2023 11:25 AM
+BAG:duonggcon add 52xHoa hồng vàng (old: 51) lydo: Nhặt từ map at 03/12/2023 11:25 AM
+BAG:duonggcon add 35xHoa hồng đỏ (old: 34) lydo: Nhặt từ map at 03/12/2023 11:26 AM
+BAG:duonggcon add 36xHoa hồng đỏ (old: 35) lydo: Nhặt từ map at 03/12/2023 11:26 AM
+BAG:duonggcon add 37xHoa hồng đỏ (old: 36) lydo: Nhặt từ map at 03/12/2023 11:26 AM
+BAG:duonggcon add 53xHoa hồng vàng (old: 52) lydo: Nhặt từ map at 03/12/2023 11:26 AM
+BAG:duonggcon add 19xĐá Saphia (old: 18) lydo: Nhặt từ map at 03/12/2023 11:27 AM
+BAG:duonggcon add 34xHoa hồng xanh (old: 33) lydo: Nhặt từ map at 03/12/2023 11:27 AM
+BAG:duonggcon add 16xĐá thạch anh tím (old: 15) lydo: Nhặt từ map at 03/12/2023 11:27 AM
+BAG:duonggcon add 35xHoa hồng xanh (old: 34) lydo: Nhặt từ map at 03/12/2023 11:27 AM
+BAG:duonggcon add 13xĐá lục bảo (old: 12) lydo: Nhặt từ map at 03/12/2023 11:28 AM
+BAG:duonggcon add 7xĐá Ruby (old: 6) lydo: Nhặt từ map at 03/12/2023 11:28 AM
+BAG:duonggcon add 54xHoa hồng vàng (old: 53) lydo: Nhặt từ map at 03/12/2023 11:28 AM
+BAG:duonggcon add 8xĐá Ruby (old: 7) lydo: Nhặt từ map at 03/12/2023 11:28 AM
+BAG:duonggcon add 55xHoa hồng vàng (old: 54) lydo: Nhặt từ map at 03/12/2023 11:28 AM
+BAG:duonggcon add 56xHoa hồng vàng (old: 55) lydo: Nhặt từ map at 03/12/2023 11:28 AM
+BAG:duonggcon add 9xĐá Ruby (old: 8) lydo: Nhặt từ map at 03/12/2023 11:28 AM
+BAG:duonggcon add 38xHoa hồng đỏ (old: 37) lydo: Nhặt từ map at 03/12/2023 11:29 AM
+BAG:duonggcon add 39xHoa hồng đỏ (old: 38) lydo: Nhặt từ map at 03/12/2023 11:29 AM
+BAG:duonggcon add 17xĐá thạch anh tím (old: 16) lydo: Nhặt từ map at 03/12/2023 11:29 AM
+BAG:duonggcon add 10xĐá Ruby (old: 9) lydo: Nhặt từ map at 03/12/2023 11:29 AM
+BAG:duonggcon add 36xHoa hồng xanh (old: 35) lydo: Nhặt từ map at 03/12/2023 11:29 AM
+BAG:duonggcon add 57xHoa hồng vàng (old: 56) lydo: Nhặt từ map at 03/12/2023 11:29 AM
+BAG:duonggcon add 14xĐá lục bảo (old: 13) lydo: Nhặt từ map at 03/12/2023 11:29 AM
+BAG:duonggcon add 58xHoa hồng vàng (old: 57) lydo: Nhặt từ map at 03/12/2023 11:30 AM
+BAG:duonggcon add 40xHoa hồng đỏ (old: 39) lydo: Nhặt từ map at 03/12/2023 11:30 AM
+BAG:duonggcon add 41xHoa hồng đỏ (old: 40) lydo: Nhặt từ map at 03/12/2023 11:30 AM
+BAG:duonggcon add 20xĐá Saphia (old: 19) lydo: Nhặt từ map at 03/12/2023 11:30 AM
+BAG:duonggcon add 20xĐá Titan (old: 19) lydo: Nhặt từ map at 03/12/2023 11:30 AM
+BAG:duonggcon add 42xHoa hồng đỏ (old: 41) lydo: Nhặt từ map at 03/12/2023 11:30 AM
+BAG:duonggcon add 37xHoa hồng xanh (old: 36) lydo: Nhặt từ map at 03/12/2023 11:30 AM
+BAG:duonggcon add 1xNgọc Rồng 5 sao lydo: Nhặt từ map at 03/12/2023 11:30 AM
+BAG:duonggcon add 59xHoa hồng vàng (old: 58) lydo: Nhặt từ map at 03/12/2023 11:30 AM
+BAG:duonggcon add 60xHoa hồng vàng (old: 59) lydo: Nhặt từ map at 03/12/2023 11:30 AM
+BAG:duonggcon add 61xHoa hồng vàng (old: 60) lydo: Nhặt từ map at 03/12/2023 11:30 AM
+BAG:duonggcon add 62xHoa hồng vàng (old: 61) lydo: Nhặt từ map at 03/12/2023 11:31 AM
+BAG:duonggcon add 63xHoa hồng vàng (old: 62) lydo: Nhặt từ map at 03/12/2023 11:31 AM
+BAG:duonggcon add 64xHoa hồng vàng (old: 63) lydo: Nhặt từ map at 03/12/2023 11:31 AM
+BAG:duonggcon add 65xHoa hồng vàng (old: 64) lydo: Nhặt từ map at 03/12/2023 11:31 AM
+BAG:duonggcon add 43xHoa hồng đỏ (old: 42) lydo: Nhặt từ map at 03/12/2023 11:31 AM
+BAG:duonggcon add 66xHoa hồng vàng (old: 65) lydo: Nhặt từ map at 03/12/2023 11:31 AM
+BAG:duonggcon add 21xĐá Saphia (old: 20) lydo: Nhặt từ map at 03/12/2023 11:31 AM
+BAG:duonggcon add 44xHoa hồng đỏ (old: 43) lydo: Nhặt từ map at 03/12/2023 11:31 AM
+BAG:duonggcon add 22xĐá Saphia (old: 21) lydo: Nhặt từ map at 03/12/2023 11:32 AM
+BAG:duonggcon add 45xHoa hồng đỏ (old: 44) lydo: Nhặt từ map at 03/12/2023 11:32 AM
+BAG:duonggcon add 18xĐá thạch anh tím (old: 17) lydo: Nhặt từ map at 03/12/2023 11:32 AM
+BAG:duonggcon add 38xHoa hồng xanh (old: 37) lydo: Nhặt từ map at 03/12/2023 11:32 AM
+BAG:duonggcon add 46xHoa hồng đỏ (old: 45) lydo: Nhặt từ map at 03/12/2023 11:32 AM
+BAG:duonggcon add 19xĐá thạch anh tím (old: 18) lydo: Nhặt từ map at 03/12/2023 11:32 AM
+BAG:duonggcon add 67xHoa hồng vàng (old: 66) lydo: Nhặt từ map at 03/12/2023 11:32 AM
+BAG:duonggcon add 68xHoa hồng vàng (old: 67) lydo: Nhặt từ map at 03/12/2023 11:33 AM
+BAG:duonggcon add 69xHoa hồng vàng (old: 68) lydo: Nhặt từ map at 03/12/2023 11:33 AM
+BAG:duonggcon add 70xHoa hồng vàng (old: 69) lydo: Nhặt từ map at 03/12/2023 11:33 AM
+BAG:duonggcon add 21xĐá Titan (old: 20) lydo: Nhặt từ map at 03/12/2023 11:33 AM
+BAG:duonggcon add 71xHoa hồng vàng (old: 70) lydo: Nhặt từ map at 03/12/2023 11:33 AM
+BAG:duonggcon add 20xĐá thạch anh tím (old: 19) lydo: Nhặt từ map at 03/12/2023 11:34 AM
+BAG:duonggcon add 72xHoa hồng vàng (old: 71) lydo: Nhặt từ map at 03/12/2023 11:34 AM
+BAG:duonggcon add 47xHoa hồng đỏ (old: 46) lydo: Nhặt từ map at 03/12/2023 11:34 AM
+BAG:duonggcon add 48xHoa hồng đỏ (old: 47) lydo: Nhặt từ map at 03/12/2023 11:34 AM
+BAG:duonggcon add 21xĐá thạch anh tím (old: 20) lydo: Nhặt từ map at 03/12/2023 11:34 AM
+BAG:duonggcon add 15xĐá lục bảo (old: 14) lydo: Nhặt từ map at 03/12/2023 11:34 AM
+BAG:duonggcon add 49xHoa hồng đỏ (old: 48) lydo: Nhặt từ map at 03/12/2023 11:35 AM
+BAG:duonggcon add 11xĐá Ruby (old: 10) lydo: Nhặt từ map at 03/12/2023 11:35 AM
+BAG:duonggcon add 16xĐá lục bảo (old: 15) lydo: Nhặt từ map at 03/12/2023 11:35 AM
+BAG:duonggcon add 50xHoa hồng đỏ (old: 49) lydo: Nhặt từ map at 03/12/2023 11:35 AM
+BAG:duonggcon add 51xHoa hồng đỏ (old: 50) lydo: Nhặt từ map at 03/12/2023 11:35 AM
+BAG:duonggcon add 73xHoa hồng vàng (old: 72) lydo: Nhặt từ map at 03/12/2023 11:35 AM
+BAG:duonggcon add 74xHoa hồng vàng (old: 73) lydo: Nhặt từ map at 03/12/2023 11:36 AM
+BAG:duonggcon add 52xHoa hồng đỏ (old: 51) lydo: Nhặt từ map at 03/12/2023 11:36 AM
+BAG:duonggcon add 22xĐá Titan (old: 21) lydo: Nhặt từ map at 03/12/2023 11:36 AM
+BAG:duonggcon add 53xHoa hồng đỏ (old: 52) lydo: Nhặt từ map at 03/12/2023 11:36 AM
+BAG:duonggcon add 39xHoa hồng xanh (old: 38) lydo: Nhặt từ map at 03/12/2023 11:37 AM
+BAG:duonggcon add 40xHoa hồng xanh (old: 39) lydo: Nhặt từ map at 03/12/2023 11:37 AM
+BAG:duonggcon add 17xĐá lục bảo (old: 16) lydo: Nhặt từ map at 03/12/2023 11:37 AM
+BAG:duonggcon add 75xHoa hồng vàng (old: 74) lydo: Nhặt từ map at 03/12/2023 11:37 AM
+BAG:duonggcon add 18xĐá lục bảo (old: 17) lydo: Nhặt từ map at 03/12/2023 11:37 AM
+BAG:duonggcon add 22xĐá thạch anh tím (old: 21) lydo: Nhặt từ map at 03/12/2023 11:37 AM
+BAG:duonggcon add 54xHoa hồng đỏ (old: 53) lydo: Nhặt từ map at 03/12/2023 11:37 AM
+BAG:duonggcon add 55xHoa hồng đỏ (old: 54) lydo: Nhặt từ map at 03/12/2023 11:37 AM
+BAG:duonggcon add 76xHoa hồng vàng (old: 75) lydo: Nhặt từ map at 03/12/2023 11:37 AM
+BAG:duonggcon add 77xHoa hồng vàng (old: 76) lydo: Nhặt từ map at 03/12/2023 11:37 AM
+BAG:duonggcon add 41xHoa hồng xanh (old: 40) lydo: Nhặt từ map at 03/12/2023 11:38 AM
+BAG:duonggcon add 3xNgọc Rồng 6 sao (old: 2) lydo: Nhặt từ map at 03/12/2023 11:38 AM
+BAG:duonggcon add 19xĐá lục bảo (old: 18) lydo: Nhặt từ map at 03/12/2023 11:38 AM
+BAG:duonggcon add 42xHoa hồng xanh (old: 41) lydo: Nhặt từ map at 03/12/2023 11:38 AM
+BAG:duonggcon add 23xĐá Saphia (old: 22) lydo: Nhặt từ map at 03/12/2023 11:38 AM
+BAG:duonggcon add 56xHoa hồng đỏ (old: 55) lydo: Nhặt từ map at 03/12/2023 11:38 AM
+BAG:duonggcon add 20xĐá lục bảo (old: 19) lydo: Nhặt từ map at 03/12/2023 11:38 AM
+BAG:duonggcon add 43xHoa hồng xanh (old: 42) lydo: Nhặt từ map at 03/12/2023 11:38 AM
+BAG:duonggcon add 44xHoa hồng xanh (old: 43) lydo: Nhặt từ map at 03/12/2023 11:38 AM
+BAG:duonggcon add 57xHoa hồng đỏ (old: 56) lydo: Nhặt từ map at 03/12/2023 11:38 AM
+BAG:duonggcon add 12xĐá Ruby (old: 11) lydo: Nhặt từ map at 03/12/2023 11:38 AM
+BAG:duonggcon add 58xHoa hồng đỏ (old: 57) lydo: Nhặt từ map at 03/12/2023 11:39 AM
+BAG:duonggcon add 78xHoa hồng vàng (old: 77) lydo: Nhặt từ map at 03/12/2023 11:39 AM
+BAG:duonggcon add 23xĐá thạch anh tím (old: 22) lydo: Nhặt từ map at 03/12/2023 11:39 AM
+BAG:duonggcon add 79xHoa hồng vàng (old: 78) lydo: Nhặt từ map at 03/12/2023 11:39 AM
+BAG:duonggcon add 45xHoa hồng xanh (old: 44) lydo: Nhặt từ map at 03/12/2023 11:39 AM
+BAG:duonggcon add 46xHoa hồng xanh (old: 45) lydo: Nhặt từ map at 03/12/2023 11:39 AM
+BAG:duonggcon add 47xHoa hồng xanh (old: 46) lydo: Nhặt từ map at 03/12/2023 11:39 AM
+BAG:duonggcon add 48xHoa hồng xanh (old: 47) lydo: Nhặt từ map at 03/12/2023 11:40 AM
+BAG:duonggcon add 21xĐá lục bảo (old: 20) lydo: Nhặt từ map at 03/12/2023 11:40 AM
+BAG:duonggcon add 59xHoa hồng đỏ (old: 58) lydo: Nhặt từ map at 03/12/2023 11:40 AM
+BAG:duonggcon add 80xHoa hồng vàng (old: 79) lydo: Nhặt từ map at 03/12/2023 11:40 AM
+BAG:duonggcon add 13xĐá Ruby (old: 12) lydo: Nhặt từ map at 03/12/2023 11:40 AM
+BAG:duonggcon add 22xĐá lục bảo (old: 21) lydo: Nhặt từ map at 03/12/2023 11:40 AM
+BAG:duonggcon add 81xHoa hồng vàng (old: 80) lydo: Nhặt từ map at 03/12/2023 11:40 AM
+BAG:duonggcon add 49xHoa hồng xanh (old: 48) lydo: Nhặt từ map at 03/12/2023 11:41 AM
+BAG:duonggcon add 82xHoa hồng vàng (old: 81) lydo: Nhặt từ map at 03/12/2023 11:41 AM
+BAG:duonggcon add 50xHoa hồng xanh (old: 49) lydo: Nhặt từ map at 03/12/2023 11:41 AM
+BAG:duonggcon add 83xHoa hồng vàng (old: 82) lydo: Nhặt từ map at 03/12/2023 11:41 AM
+BAG:duonggcon add 84xHoa hồng vàng (old: 83) lydo: Nhặt từ map at 03/12/2023 11:41 AM
+BAG:duonggcon add 60xHoa hồng đỏ (old: 59) lydo: Nhặt từ map at 03/12/2023 11:42 AM
+BAG:duonggcon add 23xĐá lục bảo (old: 22) lydo: Nhặt từ map at 03/12/2023 11:42 AM
+BAG:duonggcon add 85xHoa hồng vàng (old: 84) lydo: Nhặt từ map at 03/12/2023 11:42 AM
+BAG:duonggcon add 86xHoa hồng vàng (old: 85) lydo: Nhặt từ map at 03/12/2023 11:42 AM
+BAG:duonggcon add 2xNgọc Rồng 5 sao (old: 1) lydo: Nhặt từ map at 03/12/2023 11:42 AM
+BAG:duonggcon add 14xĐá Ruby (old: 13) lydo: Nhặt từ map at 03/12/2023 11:42 AM
+BAG:duonggcon add 61xHoa hồng đỏ (old: 60) lydo: Nhặt từ map at 03/12/2023 11:42 AM
+BAG:duonggcon add 24xĐá thạch anh tím (old: 23) lydo: Nhặt từ map at 03/12/2023 11:42 AM
+BAG:duonggcon add 62xHoa hồng đỏ (old: 61) lydo: Nhặt từ map at 03/12/2023 11:43 AM
+BAG:duonggcon add 87xHoa hồng vàng (old: 86) lydo: Nhặt từ map at 03/12/2023 11:43 AM
+BAG:duonggcon add 63xHoa hồng đỏ (old: 62) lydo: Nhặt từ map at 03/12/2023 11:43 AM
+BAG:duonggcon add 51xHoa hồng xanh (old: 50) lydo: Nhặt từ map at 03/12/2023 11:43 AM
+BAG:duonggcon add 88xHoa hồng vàng (old: 87) lydo: Nhặt từ map at 03/12/2023 11:44 AM
+BAG:duonggcon add 89xHoa hồng vàng (old: 88) lydo: Nhặt từ map at 03/12/2023 11:44 AM
+BAG:duonggcon add 52xHoa hồng xanh (old: 51) lydo: Nhặt từ map at 03/12/2023 11:45 AM
+BAG:duonggcon add 90xHoa hồng vàng (old: 89) lydo: Nhặt từ map at 03/12/2023 11:45 AM
+BAG:duonggcon add 64xHoa hồng đỏ (old: 63) lydo: Nhặt từ map at 03/12/2023 11:45 AM
+BAG:duonggcon add 91xHoa hồng vàng (old: 90) lydo: Nhặt từ map at 03/12/2023 11:45 AM
+BAG:duonggcon add 92xHoa hồng vàng (old: 91) lydo: Nhặt từ map at 03/12/2023 11:46 AM
+BAG:duonggcon add 93xHoa hồng vàng (old: 92) lydo: Nhặt từ map at 03/12/2023 11:46 AM
+BAG:duonggcon add 94xHoa hồng vàng (old: 93) lydo: Nhặt từ map at 03/12/2023 11:47 AM
+BAG:duonggcon add 53xHoa hồng xanh (old: 52) lydo: Nhặt từ map at 03/12/2023 11:48 AM

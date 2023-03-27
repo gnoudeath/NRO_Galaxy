@@ -1,0 +1,796 @@
+BAG:phucvipv add 42xĐá thạch anh tím (old: 41) lydo: Nhặt từ map at 03/11/2023 5:27 PM
+BAG:phucvipv add 102xThỏi vàng (old: 2) lydo: Giftcode at 03/11/2023 5:27 PM
+BAG:phucvipv add 781xHoa hồng đỏ (old: 780) lydo: Nhặt từ map at 03/11/2023 5:29 PM
+BAG:phucvipv add 43xĐá thạch anh tím (old: 42) lydo: Nhặt từ map at 03/11/2023 5:29 PM
+BAG:phucvipv add 1xGiầy nhựa lydo: Lấy từ body vào hành trang at 03/11/2023 5:29 PM
+BAG:phucvipv add 1xRada cấp 1 lydo: Lấy từ body vào hành trang at 03/11/2023 5:29 PM
+BAG:phucvipv add 1xZenitsu lydo: Lấy từ body vào hành trang at 03/11/2023 5:29 PM
+BAG:phucvipv add 1xGăng Thần Linh lydo: Lấy từ body đệ vào hành trang at 03/11/2023 5:35 PM
+BAG:phucvipv add 1xGiầy nhựa lydo: Lấy từ body đệ vào hành trang at 03/11/2023 5:35 PM
+BAG:phucvipv add 1xRada cấp 1 lydo: Lấy từ body đệ vào hành trang at 03/11/2023 5:36 PM
+BAG:phucvipv add 56xThỏi vàng lydo: (GD) Nhận từ iphone at 03/11/2023 5:46 PM
+BAG:phucvipv add 10xĐậu thần cấp 10 (old: 8) lydo: Thu hoạch đậu at 03/11/2023 5:50 PM
+BAG:phucvipv add 30xĐậu thần cấp 10 (old: 10) lydo: Lấy từ rương qua người at 03/11/2023 5:51 PM
+BAG:phucvipv add 1xGăng Thần Linh lydo: Lấy từ body đệ vào hành trang at 03/11/2023 5:52 PM
+BAG:phucvipv add 1xGăng Thần Linh lydo: Lấy từ body vào hành trang at 03/11/2023 6:24 PM
+BAG:phucvipv add 868xHoa hồng xanh (old: 867) lydo: Nhặt từ map at 03/11/2023 6:25 PM
+BAG:phucvipv add 1xĐá Saphia lydo: Nhặt từ map at 03/11/2023 6:25 PM
+BAG:phucvipv add 869xHoa hồng xanh (old: 868) lydo: Nhặt từ map at 03/11/2023 6:25 PM
+BAG:phucvipv add 11xNgọc Rồng 4 sao (old: 10) lydo: Nhặt từ map at 03/11/2023 6:25 PM
+BAG:phucvipv add 782xHoa hồng đỏ (old: 781) lydo: Nhặt từ map at 03/11/2023 6:25 PM
+BAG:phucvipv add 783xHoa hồng đỏ (old: 782) lydo: Nhặt từ map at 03/11/2023 6:25 PM
+BAG:phucvipv add 870xHoa hồng xanh (old: 869) lydo: Nhặt từ map at 03/11/2023 6:25 PM
+BAG:phucvipv add 784xHoa hồng đỏ (old: 783) lydo: Nhặt từ map at 03/11/2023 6:26 PM
+BAG:phucvipv add 871xHoa hồng xanh (old: 870) lydo: Nhặt từ map at 03/11/2023 6:26 PM
+BAG:phucvipv add 1xĐá lục bảo lydo: Nhặt từ map at 03/11/2023 6:26 PM
+BAG:phucvipv add 1164xHoa hồng vàng (old: 1163) lydo: Nhặt từ map at 03/11/2023 6:26 PM
+BAG:phucvipv add 872xHoa hồng xanh (old: 871) lydo: Nhặt từ map at 03/11/2023 6:26 PM
+BAG:phucvipv add 785xHoa hồng đỏ (old: 784) lydo: Nhặt từ map at 03/11/2023 6:27 PM
+BAG:phucvipv add 786xHoa hồng đỏ (old: 785) lydo: Nhặt từ map at 03/11/2023 6:27 PM
+BAG:phucvipv add 1165xHoa hồng vàng (old: 1164) lydo: Nhặt từ map at 03/11/2023 6:27 PM
+BAG:phucvipv add 787xHoa hồng đỏ (old: 786) lydo: Nhặt từ map at 03/11/2023 6:28 PM
+BAG:phucvipv add 788xHoa hồng đỏ (old: 787) lydo: Nhặt từ map at 03/11/2023 6:28 PM
+BAG:phucvipv add 873xHoa hồng xanh (old: 872) lydo: Nhặt từ map at 03/11/2023 6:28 PM
+BAG:phucvipv add 1166xHoa hồng vàng (old: 1165) lydo: Nhặt từ map at 03/11/2023 6:28 PM
+BAG:phucvipv add 1167xHoa hồng vàng (old: 1166) lydo: Nhặt từ map at 03/11/2023 6:28 PM
+BAG:phucvipv add 41xĐá Ruby (old: 40) lydo: Nhặt từ map at 03/11/2023 6:28 PM
+BAG:phucvipv add 44xĐá thạch anh tím (old: 43) lydo: Nhặt từ map at 03/11/2023 6:28 PM
+BAG:phucvipv add 42xĐá Ruby (old: 41) lydo: Nhặt từ map at 03/11/2023 6:28 PM
+BAG:phucvipv add 1168xHoa hồng vàng (old: 1167) lydo: Nhặt từ map at 03/11/2023 6:28 PM
+BAG:phucvipv add 1xĐá Titan lydo: Nhặt từ map at 03/11/2023 6:29 PM
+BAG:phucvipv add 1169xHoa hồng vàng (old: 1168) lydo: Nhặt từ map at 03/11/2023 6:29 PM
+BAG:phucvipv add 1170xHoa hồng vàng (old: 1169) lydo: Nhặt từ map at 03/11/2023 6:29 PM
+BAG:phucvipv add 1171xHoa hồng vàng (old: 1170) lydo: Nhặt từ map at 03/11/2023 6:29 PM
+BAG:phucvipv add 789xHoa hồng đỏ (old: 788) lydo: Nhặt từ map at 03/11/2023 6:29 PM
+BAG:phucvipv add 790xHoa hồng đỏ (old: 789) lydo: Nhặt từ map at 03/11/2023 6:29 PM
+BAG:phucvipv add 874xHoa hồng xanh (old: 873) lydo: Nhặt từ map at 03/11/2023 6:29 PM
+BAG:phucvipv add 875xHoa hồng xanh (old: 874) lydo: Nhặt từ map at 03/11/2023 6:30 PM
+BAG:phucvipv add 791xHoa hồng đỏ (old: 790) lydo: Nhặt từ map at 03/11/2023 6:30 PM
+BAG:phucvipv add 1172xHoa hồng vàng (old: 1171) lydo: Nhặt từ map at 03/11/2023 6:30 PM
+BAG:phucvipv add 1173xHoa hồng vàng (old: 1172) lydo: Nhặt từ map at 03/11/2023 6:30 PM
+BAG:phucvipv add 1174xHoa hồng vàng (old: 1173) lydo: Nhặt từ map at 03/11/2023 6:30 PM
+BAG:phucvipv add 1175xHoa hồng vàng (old: 1174) lydo: Nhặt từ map at 03/11/2023 6:31 PM
+BAG:phucvipv add 792xHoa hồng đỏ (old: 791) lydo: Nhặt từ map at 03/11/2023 6:31 PM
+BAG:phucvipv add 45xĐá thạch anh tím (old: 44) lydo: Nhặt từ map at 03/11/2023 6:31 PM
+BAG:phucvipv add 2xĐá Saphia (old: 1) lydo: Nhặt từ map at 03/11/2023 6:31 PM
+BAG:phucvipv add 43xĐá Ruby (old: 42) lydo: Nhặt từ map at 03/11/2023 6:31 PM
+BAG:phucvipv add 3xĐá Saphia (old: 2) lydo: Nhặt từ map at 03/11/2023 6:31 PM
+BAG:phucvipv add 2xĐá Titan (old: 1) lydo: Nhặt từ map at 03/11/2023 6:32 PM
+BAG:phucvipv add 1176xHoa hồng vàng (old: 1175) lydo: Nhặt từ map at 03/11/2023 6:32 PM
+BAG:phucvipv add 3xĐá Titan (old: 2) lydo: Nhặt từ map at 03/11/2023 6:32 PM
+BAG:phucvipv add 793xHoa hồng đỏ (old: 792) lydo: Nhặt từ map at 03/11/2023 6:32 PM
+BAG:phucvipv add 12xNgọc Rồng 4 sao (old: 11) lydo: Nhặt từ map at 03/11/2023 6:32 PM
+BAG:phucvipv add 876xHoa hồng xanh (old: 875) lydo: Nhặt từ map at 03/11/2023 6:32 PM
+BAG:phucvipv add 877xHoa hồng xanh (old: 876) lydo: Nhặt từ map at 03/11/2023 6:32 PM
+BAG:phucvipv add 1177xHoa hồng vàng (old: 1176) lydo: Nhặt từ map at 03/11/2023 6:32 PM
+BAG:phucvipv add 794xHoa hồng đỏ (old: 793) lydo: Nhặt từ map at 03/11/2023 6:33 PM
+BAG:phucvipv add 1178xHoa hồng vàng (old: 1177) lydo: Nhặt từ map at 03/11/2023 6:33 PM
+BAG:phucvipv add 878xHoa hồng xanh (old: 877) lydo: Nhặt từ map at 03/11/2023 6:33 PM
+BAG:phucvipv add 2xĐá lục bảo (old: 1) lydo: Nhặt từ map at 03/11/2023 6:33 PM
+BAG:phucvipv add 795xHoa hồng đỏ (old: 794) lydo: Nhặt từ map at 03/11/2023 6:34 PM
+BAG:phucvipv add 40xNgọc Rồng 5 sao (old: 39) lydo: Nhặt từ map at 03/11/2023 6:34 PM
+BAG:phucvipv add 3xĐá lục bảo (old: 2) lydo: Nhặt từ map at 03/11/2023 6:34 PM
+BAG:phucvipv add 1179xHoa hồng vàng (old: 1178) lydo: Nhặt từ map at 03/11/2023 6:34 PM
+BAG:phucvipv add 1180xHoa hồng vàng (old: 1179) lydo: Nhặt từ map at 03/11/2023 6:34 PM
+BAG:phucvipv add 13xNgọc Rồng 4 sao (old: 12) lydo: Nhặt từ map at 03/11/2023 6:34 PM
+BAG:phucvipv add 879xHoa hồng xanh (old: 878) lydo: Nhặt từ map at 03/11/2023 6:35 PM
+BAG:phucvipv add 1181xHoa hồng vàng (old: 1180) lydo: Nhặt từ map at 03/11/2023 6:35 PM
+BAG:phucvipv add 796xHoa hồng đỏ (old: 795) lydo: Nhặt từ map at 03/11/2023 6:35 PM
+BAG:phucvipv add 880xHoa hồng xanh (old: 879) lydo: Nhặt từ map at 03/11/2023 6:36 PM
+BAG:phucvipv add 881xHoa hồng xanh (old: 880) lydo: Nhặt từ map at 03/11/2023 6:36 PM
+BAG:phucvipv add 882xHoa hồng xanh (old: 881) lydo: Nhặt từ map at 03/11/2023 6:36 PM
+BAG:phucvipv add 797xHoa hồng đỏ (old: 796) lydo: Nhặt từ map at 03/11/2023 6:36 PM
+BAG:phucvipv add 798xHoa hồng đỏ (old: 797) lydo: Nhặt từ map at 03/11/2023 6:36 PM
+BAG:phucvipv add 799xHoa hồng đỏ (old: 798) lydo: Nhặt từ map at 03/11/2023 6:36 PM
+BAG:phucvipv add 883xHoa hồng xanh (old: 882) lydo: Nhặt từ map at 03/11/2023 6:36 PM
+BAG:phucvipv add 884xHoa hồng xanh (old: 883) lydo: Nhặt từ map at 03/11/2023 6:36 PM
+BAG:phucvipv add 800xHoa hồng đỏ (old: 799) lydo: Nhặt từ map at 03/11/2023 6:37 PM
+BAG:phucvipv add 25xNgọc Rồng 6 sao (old: 24) lydo: Nhặt từ map at 03/11/2023 6:37 PM
+BAG:phucvipv add 801xHoa hồng đỏ (old: 800) lydo: Nhặt từ map at 03/11/2023 6:37 PM
+BAG:phucvipv add 1182xHoa hồng vàng (old: 1181) lydo: Nhặt từ map at 03/11/2023 6:37 PM
+BAG:phucvipv add 1183xHoa hồng vàng (old: 1182) lydo: Nhặt từ map at 03/11/2023 6:37 PM
+BAG:phucvipv add 885xHoa hồng xanh (old: 884) lydo: Nhặt từ map at 03/11/2023 6:38 PM
+BAG:phucvipv add 44xĐá Ruby (old: 43) lydo: Nhặt từ map at 03/11/2023 6:38 PM
+BAG:phucvipv add 802xHoa hồng đỏ (old: 801) lydo: Nhặt từ map at 03/11/2023 6:38 PM
+BAG:phucvipv add 45xĐá Ruby (old: 44) lydo: Nhặt từ map at 03/11/2023 6:38 PM
+BAG:phucvipv add 1184xHoa hồng vàng (old: 1183) lydo: Nhặt từ map at 03/11/2023 6:38 PM
+BAG:phucvipv add 46xĐá thạch anh tím (old: 45) lydo: Nhặt từ map at 03/11/2023 6:38 PM
+BAG:phucvipv add 803xHoa hồng đỏ (old: 802) lydo: Nhặt từ map at 03/11/2023 6:39 PM
+BAG:phucvipv add 804xHoa hồng đỏ (old: 803) lydo: Nhặt từ map at 03/11/2023 6:39 PM
+BAG:phucvipv add 1185xHoa hồng vàng (old: 1184) lydo: Nhặt từ map at 03/11/2023 6:39 PM
+BAG:phucvipv add 805xHoa hồng đỏ (old: 804) lydo: Nhặt từ map at 03/11/2023 6:40 PM
+BAG:phucvipv add 1186xHoa hồng vàng (old: 1185) lydo: Nhặt từ map at 03/11/2023 6:40 PM
+BAG:phucvipv add 806xHoa hồng đỏ (old: 805) lydo: Nhặt từ map at 03/11/2023 6:40 PM
+BAG:phucvipv add 4xĐá Saphia (old: 3) lydo: Nhặt từ map at 03/11/2023 6:40 PM
+BAG:phucvipv add 807xHoa hồng đỏ (old: 806) lydo: Nhặt từ map at 03/11/2023 6:40 PM
+BAG:phucvipv add 808xHoa hồng đỏ (old: 807) lydo: Nhặt từ map at 03/11/2023 6:40 PM
+BAG:phucvipv add 1187xHoa hồng vàng (old: 1186) lydo: Nhặt từ map at 03/11/2023 6:40 PM
+BAG:phucvipv add 1188xHoa hồng vàng (old: 1187) lydo: Nhặt từ map at 03/11/2023 6:40 PM
+BAG:phucvipv add 14xNgọc Rồng 4 sao (old: 13) lydo: Nhặt từ map at 03/11/2023 6:40 PM
+BAG:phucvipv add 1189xHoa hồng vàng (old: 1188) lydo: Nhặt từ map at 03/11/2023 6:41 PM
+BAG:phucvipv add 809xHoa hồng đỏ (old: 808) lydo: Nhặt từ map at 03/11/2023 6:42 PM
+BAG:phucvipv add 4xĐá Titan (old: 3) lydo: Nhặt từ map at 03/11/2023 6:42 PM
+BAG:phucvipv add 810xHoa hồng đỏ (old: 809) lydo: Nhặt từ map at 03/11/2023 6:42 PM
+BAG:phucvipv add 1190xHoa hồng vàng (old: 1189) lydo: Nhặt từ map at 03/11/2023 6:42 PM
+BAG:phucvipv add 47xĐá thạch anh tím (old: 46) lydo: Nhặt từ map at 03/11/2023 6:42 PM
+BAG:phucvipv add 811xHoa hồng đỏ (old: 810) lydo: Nhặt từ map at 03/11/2023 6:42 PM
+BAG:phucvipv add 886xHoa hồng xanh (old: 885) lydo: Nhặt từ map at 03/11/2023 6:42 PM
+BAG:phucvipv add 15xNgọc Rồng 4 sao (old: 14) lydo: Nhặt từ map at 03/11/2023 6:42 PM
+BAG:phucvipv add 812xHoa hồng đỏ (old: 811) lydo: Nhặt từ map at 03/11/2023 6:42 PM
+BAG:phucvipv add 1191xHoa hồng vàng (old: 1190) lydo: Nhặt từ map at 03/11/2023 6:42 PM
+BAG:phucvipv add 887xHoa hồng xanh (old: 886) lydo: Nhặt từ map at 03/11/2023 6:42 PM
+BAG:phucvipv add 888xHoa hồng xanh (old: 887) lydo: Nhặt từ map at 03/11/2023 6:42 PM
+BAG:phucvipv add 1192xHoa hồng vàng (old: 1191) lydo: Nhặt từ map at 03/11/2023 6:43 PM
+BAG:phucvipv add 5xĐá Saphia (old: 4) lydo: Nhặt từ map at 03/11/2023 6:43 PM
+BAG:phucvipv add 813xHoa hồng đỏ (old: 812) lydo: Nhặt từ map at 03/11/2023 6:43 PM
+BAG:phucvipv add 1193xHoa hồng vàng (old: 1192) lydo: Nhặt từ map at 03/11/2023 6:43 PM
+BAG:phucvipv add 889xHoa hồng xanh (old: 888) lydo: Nhặt từ map at 03/11/2023 6:43 PM
+BAG:phucvipv add 1194xHoa hồng vàng (old: 1193) lydo: Nhặt từ map at 03/11/2023 6:43 PM
+BAG:phucvipv add 1195xHoa hồng vàng (old: 1194) lydo: Nhặt từ map at 03/11/2023 6:43 PM
+BAG:phucvipv add 1196xHoa hồng vàng (old: 1195) lydo: Nhặt từ map at 03/11/2023 6:43 PM
+BAG:phucvipv add 890xHoa hồng xanh (old: 889) lydo: Nhặt từ map at 03/11/2023 6:44 PM
+BAG:phucvipv add 1197xHoa hồng vàng (old: 1196) lydo: Nhặt từ map at 03/11/2023 6:44 PM
+BAG:phucvipv add 891xHoa hồng xanh (old: 890) lydo: Nhặt từ map at 03/11/2023 6:44 PM
+BAG:phucvipv add 5xĐá Titan (old: 4) lydo: Nhặt từ map at 03/11/2023 6:44 PM
+BAG:phucvipv add 6xĐá Saphia (old: 5) lydo: Nhặt từ map at 03/11/2023 6:44 PM
+BAG:phucvipv add 892xHoa hồng xanh (old: 891) lydo: Nhặt từ map at 03/11/2023 6:44 PM
+BAG:phucvipv add 41xNgọc Rồng 5 sao (old: 40) lydo: Nhặt từ map at 03/11/2023 6:44 PM
+BAG:phucvipv add 1198xHoa hồng vàng (old: 1197) lydo: Nhặt từ map at 03/11/2023 6:44 PM
+BAG:phucvipv add 4xĐá lục bảo (old: 3) lydo: Nhặt từ map at 03/11/2023 6:45 PM
+BAG:phucvipv add 1199xHoa hồng vàng (old: 1198) lydo: Nhặt từ map at 03/11/2023 6:45 PM
+BAG:phucvipv add 893xHoa hồng xanh (old: 892) lydo: Nhặt từ map at 03/11/2023 6:45 PM
+BAG:phucvipv add 1200xHoa hồng vàng (old: 1199) lydo: Nhặt từ map at 03/11/2023 6:45 PM
+BAG:phucvipv add 1201xHoa hồng vàng (old: 1200) lydo: Nhặt từ map at 03/11/2023 6:46 PM
+BAG:phucvipv add 894xHoa hồng xanh (old: 893) lydo: Nhặt từ map at 03/11/2023 6:46 PM
+BAG:phucvipv add 895xHoa hồng xanh (old: 894) lydo: Nhặt từ map at 03/11/2023 6:46 PM
+BAG:phucvipv add 814xHoa hồng đỏ (old: 813) lydo: Nhặt từ map at 03/11/2023 6:46 PM
+BAG:phucvipv add 1202xHoa hồng vàng (old: 1201) lydo: Nhặt từ map at 03/11/2023 6:46 PM
+BAG:phucvipv add 815xHoa hồng đỏ (old: 814) lydo: Nhặt từ map at 03/11/2023 6:47 PM
+BAG:phucvipv add 896xHoa hồng xanh (old: 895) lydo: Nhặt từ map at 03/11/2023 6:47 PM
+BAG:phucvipv add 1203xHoa hồng vàng (old: 1202) lydo: Nhặt từ map at 03/11/2023 6:47 PM
+BAG:phucvipv add 5xĐá lục bảo (old: 4) lydo: Nhặt từ map at 03/11/2023 6:47 PM
+BAG:phucvipv add 1204xHoa hồng vàng (old: 1203) lydo: Nhặt từ map at 03/11/2023 6:48 PM
+BAG:phucvipv add 897xHoa hồng xanh (old: 896) lydo: Nhặt từ map at 03/11/2023 6:48 PM
+BAG:phucvipv add 898xHoa hồng xanh (old: 897) lydo: Nhặt từ map at 03/11/2023 6:48 PM
+BAG:phucvipv add 899xHoa hồng xanh (old: 898) lydo: Nhặt từ map at 03/11/2023 6:48 PM
+BAG:phucvipv add 48xĐá thạch anh tím (old: 47) lydo: Nhặt từ map at 03/11/2023 6:48 PM
+BAG:phucvipv add 1205xHoa hồng vàng (old: 1204) lydo: Nhặt từ map at 03/11/2023 6:48 PM
+BAG:phucvipv add 6xĐá Titan (old: 5) lydo: Nhặt từ map at 03/11/2023 6:49 PM
+BAG:phucvipv add 16xNgọc Rồng 4 sao (old: 15) lydo: Nhặt từ map at 03/11/2023 6:49 PM
+BAG:phucvipv add 1206xHoa hồng vàng (old: 1205) lydo: Nhặt từ map at 03/11/2023 6:49 PM
+BAG:phucvipv add 49xĐá thạch anh tím (old: 48) lydo: Nhặt từ map at 03/11/2023 6:50 PM
+BAG:phucvipv add 900xHoa hồng xanh (old: 899) lydo: Nhặt từ map at 03/11/2023 6:50 PM
+BAG:phucvipv add 901xHoa hồng xanh (old: 900) lydo: Nhặt từ map at 03/11/2023 6:50 PM
+BAG:phucvipv add 816xHoa hồng đỏ (old: 815) lydo: Nhặt từ map at 03/11/2023 6:50 PM
+BAG:phucvipv add 817xHoa hồng đỏ (old: 816) lydo: Nhặt từ map at 03/11/2023 6:51 PM
+BAG:phucvipv add 818xHoa hồng đỏ (old: 817) lydo: Nhặt từ map at 03/11/2023 6:51 PM
+BAG:phucvipv add 902xHoa hồng xanh (old: 901) lydo: Nhặt từ map at 03/11/2023 6:51 PM
+BAG:phucvipv add 50xĐá thạch anh tím (old: 49) lydo: Nhặt từ map at 03/11/2023 6:51 PM
+BAG:phucvipv add 903xHoa hồng xanh (old: 902) lydo: Nhặt từ map at 03/11/2023 6:51 PM
+BAG:phucvipv add 46xĐá Ruby (old: 45) lydo: Nhặt từ map at 03/11/2023 6:52 PM
+BAG:phucvipv add 1207xHoa hồng vàng (old: 1206) lydo: Nhặt từ map at 03/11/2023 6:52 PM
+BAG:phucvipv add 7xĐá Saphia (old: 6) lydo: Nhặt từ map at 03/11/2023 6:53 PM
+BAG:phucvipv add 904xHoa hồng xanh (old: 903) lydo: Nhặt từ map at 03/11/2023 6:53 PM
+BAG:phucvipv add 1208xHoa hồng vàng (old: 1207) lydo: Nhặt từ map at 03/11/2023 6:53 PM
+BAG:phucvipv add 6xĐá lục bảo (old: 5) lydo: Nhặt từ map at 03/11/2023 6:54 PM
+BAG:phucvipv add 26xNgọc Rồng 6 sao (old: 25) lydo: Nhặt từ map at 03/11/2023 6:54 PM
+BAG:phucvipv add 819xHoa hồng đỏ (old: 818) lydo: Nhặt từ map at 03/11/2023 6:54 PM
+BAG:phucvipv add 1209xHoa hồng vàng (old: 1208) lydo: Nhặt từ map at 03/11/2023 6:54 PM
+BAG:phucvipv add 51xĐá thạch anh tím (old: 50) lydo: Nhặt từ map at 03/11/2023 6:54 PM
+BAG:phucvipv add 1210xHoa hồng vàng (old: 1209) lydo: Nhặt từ map at 03/11/2023 6:54 PM
+BAG:phucvipv add 1211xHoa hồng vàng (old: 1210) lydo: Nhặt từ map at 03/11/2023 6:55 PM
+BAG:phucvipv add 820xHoa hồng đỏ (old: 819) lydo: Nhặt từ map at 03/11/2023 6:55 PM
+BAG:phucvipv add 47xĐá Ruby (old: 46) lydo: Nhặt từ map at 03/11/2023 6:55 PM
+BAG:phucvipv add 821xHoa hồng đỏ (old: 820) lydo: Nhặt từ map at 03/11/2023 6:55 PM
+BAG:phucvipv add 1212xHoa hồng vàng (old: 1211) lydo: Nhặt từ map at 03/11/2023 6:55 PM
+BAG:phucvipv add 822xHoa hồng đỏ (old: 821) lydo: Nhặt từ map at 03/11/2023 6:55 PM
+BAG:phucvipv add 7xĐá lục bảo (old: 6) lydo: Nhặt từ map at 03/11/2023 6:55 PM
+BAG:phucvipv add 1213xHoa hồng vàng (old: 1212) lydo: Nhặt từ map at 03/11/2023 6:55 PM
+BAG:phucvipv add 823xHoa hồng đỏ (old: 822) lydo: Nhặt từ map at 03/11/2023 6:55 PM
+BAG:phucvipv add 7xĐá Titan (old: 6) lydo: Nhặt từ map at 03/11/2023 6:55 PM
+BAG:phucvipv add 824xHoa hồng đỏ (old: 823) lydo: Nhặt từ map at 03/11/2023 6:56 PM
+BAG:phucvipv add 905xHoa hồng xanh (old: 904) lydo: Nhặt từ map at 03/11/2023 6:56 PM
+BAG:phucvipv add 906xHoa hồng xanh (old: 905) lydo: Nhặt từ map at 03/11/2023 6:56 PM
+BAG:phucvipv add 907xHoa hồng xanh (old: 906) lydo: Nhặt từ map at 03/11/2023 6:56 PM
+BAG:phucvipv add 1214xHoa hồng vàng (old: 1213) lydo: Nhặt từ map at 03/11/2023 6:57 PM
+BAG:phucvipv add 1215xHoa hồng vàng (old: 1214) lydo: Nhặt từ map at 03/11/2023 6:57 PM
+BAG:phucvipv add 52xĐá thạch anh tím (old: 51) lydo: Nhặt từ map at 03/11/2023 6:57 PM
+BAG:phucvipv add 1216xHoa hồng vàng (old: 1215) lydo: Nhặt từ map at 03/11/2023 6:57 PM
+BAG:phucvipv add 1217xHoa hồng vàng (old: 1216) lydo: Nhặt từ map at 03/11/2023 6:57 PM
+BAG:phucvipv add 825xHoa hồng đỏ (old: 824) lydo: Nhặt từ map at 03/11/2023 6:57 PM
+BAG:phucvipv add 908xHoa hồng xanh (old: 907) lydo: Nhặt từ map at 03/11/2023 6:58 PM
+BAG:phucvipv add 1218xHoa hồng vàng (old: 1217) lydo: Nhặt từ map at 03/11/2023 6:58 PM
+BAG:phucvipv add 909xHoa hồng xanh (old: 908) lydo: Nhặt từ map at 03/11/2023 6:58 PM
+BAG:phucvipv add 910xHoa hồng xanh (old: 909) lydo: Nhặt từ map at 03/11/2023 6:58 PM
+BAG:phucvipv add 826xHoa hồng đỏ (old: 825) lydo: Nhặt từ map at 03/11/2023 6:58 PM
+BAG:phucvipv add 17xNgọc Rồng 4 sao (old: 16) lydo: Nhặt từ map at 03/11/2023 6:58 PM
+BAG:phucvipv add 911xHoa hồng xanh (old: 910) lydo: Nhặt từ map at 03/11/2023 6:59 PM
+BAG:phucvipv add 8xĐá Titan (old: 7) lydo: Nhặt từ map at 03/11/2023 6:59 PM
+BAG:phucvipv add 1219xHoa hồng vàng (old: 1218) lydo: Nhặt từ map at 03/11/2023 6:59 PM
+BAG:phucvipv add 827xHoa hồng đỏ (old: 826) lydo: Nhặt từ map at 03/11/2023 6:59 PM
+BAG:phucvipv add 1220xHoa hồng vàng (old: 1219) lydo: Nhặt từ map at 03/11/2023 6:59 PM
+BAG:phucvipv add 53xĐá thạch anh tím (old: 52) lydo: Nhặt từ map at 03/11/2023 6:59 PM
+BAG:phucvipv add 828xHoa hồng đỏ (old: 827) lydo: Nhặt từ map at 03/11/2023 6:59 PM
+BAG:phucvipv add 912xHoa hồng xanh (old: 911) lydo: Nhặt từ map at 03/11/2023 7:00 PM
+BAG:phucvipv add 8xĐá Saphia (old: 7) lydo: Nhặt từ map at 03/11/2023 7:00 PM
+BAG:phucvipv add 829xHoa hồng đỏ (old: 828) lydo: Nhặt từ map at 03/11/2023 7:00 PM
+BAG:phucvipv add 830xHoa hồng đỏ (old: 829) lydo: Nhặt từ map at 03/11/2023 7:00 PM
+BAG:phucvipv add 18xNgọc Rồng 4 sao (old: 17) lydo: Nhặt từ map at 03/11/2023 7:00 PM
+BAG:phucvipv add 913xHoa hồng xanh (old: 912) lydo: Nhặt từ map at 03/11/2023 7:00 PM
+BAG:phucvipv add 831xHoa hồng đỏ (old: 830) lydo: Nhặt từ map at 03/11/2023 7:00 PM
+BAG:phucvipv add 9xĐá Saphia (old: 8) lydo: Nhặt từ map at 03/11/2023 7:00 PM
+BAG:phucvipv add 1221xHoa hồng vàng (old: 1220) lydo: Nhặt từ map at 03/11/2023 7:01 PM
+BAG:phucvipv add 832xHoa hồng đỏ (old: 831) lydo: Nhặt từ map at 03/11/2023 7:01 PM
+BAG:phucvipv add 914xHoa hồng xanh (old: 913) lydo: Nhặt từ map at 03/11/2023 7:01 PM
+BAG:phucvipv add 833xHoa hồng đỏ (old: 832) lydo: Nhặt từ map at 03/11/2023 7:01 PM
+BAG:phucvipv add 19xNgọc Rồng 4 sao (old: 18) lydo: Nhặt từ map at 03/11/2023 7:01 PM
+BAG:phucvipv add 1222xHoa hồng vàng (old: 1221) lydo: Nhặt từ map at 03/11/2023 7:01 PM
+BAG:phucvipv add 48xĐá Ruby (old: 47) lydo: Nhặt từ map at 03/11/2023 7:02 PM
+BAG:phucvipv add 1223xHoa hồng vàng (old: 1222) lydo: Nhặt từ map at 03/11/2023 7:02 PM
+BAG:phucvipv add 915xHoa hồng xanh (old: 914) lydo: Nhặt từ map at 03/11/2023 7:02 PM
+BAG:phucvipv add 1224xHoa hồng vàng (old: 1223) lydo: Nhặt từ map at 03/11/2023 7:02 PM
+BAG:phucvipv add 1225xHoa hồng vàng (old: 1224) lydo: Nhặt từ map at 03/11/2023 7:02 PM
+BAG:phucvipv add 1226xHoa hồng vàng (old: 1225) lydo: Nhặt từ map at 03/11/2023 7:03 PM
+BAG:phucvipv add 54xĐá thạch anh tím (old: 53) lydo: Nhặt từ map at 03/11/2023 7:03 PM
+BAG:phucvipv add 10xĐá Saphia (old: 9) lydo: Nhặt từ map at 03/11/2023 7:03 PM
+BAG:phucvipv add 1227xHoa hồng vàng (old: 1226) lydo: Nhặt từ map at 03/11/2023 7:03 PM
+BAG:phucvipv add 11xĐá Saphia (old: 10) lydo: Nhặt từ map at 03/11/2023 7:03 PM
+BAG:phucvipv add 1228xHoa hồng vàng (old: 1227) lydo: Nhặt từ map at 03/11/2023 7:03 PM
+BAG:phucvipv add 1229xHoa hồng vàng (old: 1228) lydo: Nhặt từ map at 03/11/2023 7:03 PM
+BAG:phucvipv add 49xĐá Ruby (old: 48) lydo: Nhặt từ map at 03/11/2023 7:03 PM
+BAG:phucvipv add 12xĐá Saphia (old: 11) lydo: Nhặt từ map at 03/11/2023 7:03 PM
+BAG:phucvipv add 55xĐá thạch anh tím (old: 54) lydo: Nhặt từ map at 03/11/2023 7:03 PM
+BAG:phucvipv add 1230xHoa hồng vàng (old: 1229) lydo: Nhặt từ map at 03/11/2023 7:04 PM
+BAG:phucvipv add 916xHoa hồng xanh (old: 915) lydo: Nhặt từ map at 03/11/2023 7:04 PM
+BAG:phucvipv add 834xHoa hồng đỏ (old: 833) lydo: Nhặt từ map at 03/11/2023 7:04 PM
+BAG:phucvipv add 835xHoa hồng đỏ (old: 834) lydo: Nhặt từ map at 03/11/2023 7:04 PM
+BAG:phucvipv add 836xHoa hồng đỏ (old: 835) lydo: Nhặt từ map at 03/11/2023 7:05 PM
+BAG:phucvipv add 13xĐá Saphia (old: 12) lydo: Nhặt từ map at 03/11/2023 7:05 PM
+BAG:phucvipv add 1231xHoa hồng vàng (old: 1230) lydo: Nhặt từ map at 03/11/2023 7:05 PM
+BAG:phucvipv add 837xHoa hồng đỏ (old: 836) lydo: Nhặt từ map at 03/11/2023 7:05 PM
+BAG:phucvipv add 8xĐá lục bảo (old: 7) lydo: Nhặt từ map at 03/11/2023 7:05 PM
+BAG:phucvipv add 1232xHoa hồng vàng (old: 1231) lydo: Nhặt từ map at 03/11/2023 7:05 PM
+BAG:phucvipv add 9xĐá lục bảo (old: 8) lydo: Nhặt từ map at 03/11/2023 7:05 PM
+BAG:phucvipv add 917xHoa hồng xanh (old: 916) lydo: Nhặt từ map at 03/11/2023 7:05 PM
+BAG:phucvipv add 918xHoa hồng xanh (old: 917) lydo: Nhặt từ map at 03/11/2023 7:05 PM
+BAG:phucvipv add 20xNgọc Rồng 4 sao (old: 19) lydo: Nhặt từ map at 03/11/2023 7:05 PM
+BAG:phucvipv add 1233xHoa hồng vàng (old: 1232) lydo: Nhặt từ map at 03/11/2023 7:05 PM
+BAG:phucvipv add 919xHoa hồng xanh (old: 918) lydo: Nhặt từ map at 03/11/2023 7:05 PM
+BAG:phucvipv add 838xHoa hồng đỏ (old: 837) lydo: Nhặt từ map at 03/11/2023 7:05 PM
+BAG:phucvipv add 42xNgọc Rồng 5 sao (old: 41) lydo: Nhặt từ map at 03/11/2023 7:05 PM
+BAG:phucvipv add 1234xHoa hồng vàng (old: 1233) lydo: Nhặt từ map at 03/11/2023 7:05 PM
+BAG:phucvipv add 839xHoa hồng đỏ (old: 838) lydo: Nhặt từ map at 03/11/2023 7:05 PM
+BAG:phucvipv add 920xHoa hồng xanh (old: 919) lydo: Nhặt từ map at 03/11/2023 7:05 PM
+BAG:phucvipv add 1235xHoa hồng vàng (old: 1234) lydo: Nhặt từ map at 03/11/2023 7:06 PM
+BAG:phucvipv add 1236xHoa hồng vàng (old: 1235) lydo: Nhặt từ map at 03/11/2023 7:06 PM
+BAG:phucvipv add 1237xHoa hồng vàng (old: 1236) lydo: Nhặt từ map at 03/11/2023 7:06 PM
+BAG:phucvipv add 10xĐá lục bảo (old: 9) lydo: Nhặt từ map at 03/11/2023 7:06 PM
+BAG:phucvipv add 921xHoa hồng xanh (old: 920) lydo: Nhặt từ map at 03/11/2023 7:06 PM
+BAG:phucvipv add 21xNgọc Rồng 4 sao (old: 20) lydo: Nhặt từ map at 03/11/2023 7:06 PM
+BAG:phucvipv add 1238xHoa hồng vàng (old: 1237) lydo: Nhặt từ map at 03/11/2023 7:06 PM
+BAG:phucvipv add 11xĐá lục bảo (old: 10) lydo: Nhặt từ map at 03/11/2023 7:06 PM
+BAG:phucvipv add 1239xHoa hồng vàng (old: 1238) lydo: Nhặt từ map at 03/11/2023 7:06 PM
+BAG:phucvipv add 840xHoa hồng đỏ (old: 839) lydo: Nhặt từ map at 03/11/2023 7:07 PM
+BAG:phucvipv add 922xHoa hồng xanh (old: 921) lydo: Nhặt từ map at 03/11/2023 7:07 PM
+BAG:phucvipv add 841xHoa hồng đỏ (old: 840) lydo: Nhặt từ map at 03/11/2023 7:07 PM
+BAG:phucvipv add 12xĐá lục bảo (old: 11) lydo: Nhặt từ map at 03/11/2023 7:07 PM
+BAG:phucvipv add 842xHoa hồng đỏ (old: 841) lydo: Nhặt từ map at 03/11/2023 7:07 PM
+BAG:phucvipv add 9xĐá Titan (old: 8) lydo: Nhặt từ map at 03/11/2023 7:07 PM
+BAG:phucvipv add 1240xHoa hồng vàng (old: 1239) lydo: Nhặt từ map at 03/11/2023 7:07 PM
+BAG:phucvipv add 923xHoa hồng xanh (old: 922) lydo: Nhặt từ map at 03/11/2023 7:07 PM
+BAG:phucvipv add 1241xHoa hồng vàng (old: 1240) lydo: Nhặt từ map at 03/11/2023 7:07 PM
+BAG:phucvipv add 14xĐá Saphia (old: 13) lydo: Nhặt từ map at 03/11/2023 7:07 PM
+BAG:phucvipv add 843xHoa hồng đỏ (old: 842) lydo: Nhặt từ map at 03/11/2023 7:07 PM
+BAG:phucvipv add 1242xHoa hồng vàng (old: 1241) lydo: Nhặt từ map at 03/11/2023 7:08 PM
+BAG:phucvipv add 22xNgọc Rồng 4 sao (old: 21) lydo: Nhặt từ map at 03/11/2023 7:08 PM
+BAG:phucvipv add 1243xHoa hồng vàng (old: 1242) lydo: Nhặt từ map at 03/11/2023 7:08 PM
+BAG:phucvipv add 844xHoa hồng đỏ (old: 843) lydo: Nhặt từ map at 03/11/2023 7:08 PM
+BAG:phucvipv add 845xHoa hồng đỏ (old: 844) lydo: Nhặt từ map at 03/11/2023 7:08 PM
+BAG:phucvipv add 15xĐá Saphia (old: 14) lydo: Nhặt từ map at 03/11/2023 7:08 PM
+BAG:phucvipv add 1244xHoa hồng vàng (old: 1243) lydo: Nhặt từ map at 03/11/2023 7:08 PM
+BAG:phucvipv add 16xĐá Saphia (old: 15) lydo: Nhặt từ map at 03/11/2023 7:08 PM
+BAG:phucvipv add 846xHoa hồng đỏ (old: 845) lydo: Nhặt từ map at 03/11/2023 7:08 PM
+BAG:phucvipv add 847xHoa hồng đỏ (old: 846) lydo: Nhặt từ map at 03/11/2023 7:08 PM
+BAG:phucvipv add 17xĐá Saphia (old: 16) lydo: Nhặt từ map at 03/11/2023 7:08 PM
+BAG:phucvipv add 924xHoa hồng xanh (old: 923) lydo: Nhặt từ map at 03/11/2023 7:08 PM
+BAG:phucvipv add 1245xHoa hồng vàng (old: 1244) lydo: Nhặt từ map at 03/11/2023 7:08 PM
+BAG:phucvipv add 18xĐá Saphia (old: 17) lydo: Nhặt từ map at 03/11/2023 7:09 PM
+BAG:phucvipv add 925xHoa hồng xanh (old: 924) lydo: Nhặt từ map at 03/11/2023 7:09 PM
+BAG:phucvipv add 1246xHoa hồng vàng (old: 1245) lydo: Nhặt từ map at 03/11/2023 7:09 PM
+BAG:phucvipv add 1247xHoa hồng vàng (old: 1246) lydo: Nhặt từ map at 03/11/2023 7:09 PM
+BAG:phucvipv add 1248xHoa hồng vàng (old: 1247) lydo: Nhặt từ map at 03/11/2023 7:09 PM
+BAG:phucvipv add 1249xHoa hồng vàng (old: 1248) lydo: Nhặt từ map at 03/11/2023 7:09 PM
+BAG:phucvipv add 13xĐá lục bảo (old: 12) lydo: Nhặt từ map at 03/11/2023 7:09 PM
+BAG:phucvipv add 50xĐá Ruby (old: 49) lydo: Nhặt từ map at 03/11/2023 7:09 PM
+BAG:phucvipv add 848xHoa hồng đỏ (old: 847) lydo: Nhặt từ map at 03/11/2023 7:09 PM
+BAG:phucvipv add 926xHoa hồng xanh (old: 925) lydo: Nhặt từ map at 03/11/2023 7:09 PM
+BAG:phucvipv add 1250xHoa hồng vàng (old: 1249) lydo: Nhặt từ map at 03/11/2023 7:09 PM
+BAG:phucvipv add 849xHoa hồng đỏ (old: 848) lydo: Nhặt từ map at 03/11/2023 7:09 PM
+BAG:phucvipv add 1251xHoa hồng vàng (old: 1250) lydo: Nhặt từ map at 03/11/2023 7:11 PM
+BAG:phucvipv add 1252xHoa hồng vàng (old: 1251) lydo: Nhặt từ map at 03/11/2023 7:11 PM
+BAG:phucvipv add 23xNgọc Rồng 4 sao (old: 22) lydo: Nhặt từ map at 03/11/2023 7:11 PM
+BAG:phucvipv add 927xHoa hồng xanh (old: 926) lydo: Nhặt từ map at 03/11/2023 7:11 PM
+BAG:phucvipv add 1253xHoa hồng vàng (old: 1252) lydo: Nhặt từ map at 03/11/2023 7:11 PM
+BAG:phucvipv add 1254xHoa hồng vàng (old: 1253) lydo: Nhặt từ map at 03/11/2023 7:11 PM
+BAG:phucvipv add 24xNgọc Rồng 4 sao (old: 23) lydo: Nhặt từ map at 03/11/2023 7:11 PM
+BAG:phucvipv add 56xĐá thạch anh tím (old: 55) lydo: Nhặt từ map at 03/11/2023 7:12 PM
+BAG:phucvipv add 928xHoa hồng xanh (old: 927) lydo: Nhặt từ map at 03/11/2023 7:12 PM
+BAG:phucvipv add 850xHoa hồng đỏ (old: 849) lydo: Nhặt từ map at 03/11/2023 7:12 PM
+BAG:phucvipv add 851xHoa hồng đỏ (old: 850) lydo: Nhặt từ map at 03/11/2023 7:12 PM
+BAG:phucvipv add 852xHoa hồng đỏ (old: 851) lydo: Nhặt từ map at 03/11/2023 7:12 PM
+BAG:phucvipv add 853xHoa hồng đỏ (old: 852) lydo: Nhặt từ map at 03/11/2023 7:12 PM
+BAG:phucvipv add 929xHoa hồng xanh (old: 928) lydo: Nhặt từ map at 03/11/2023 7:12 PM
+BAG:phucvipv add 1255xHoa hồng vàng (old: 1254) lydo: Nhặt từ map at 03/11/2023 7:12 PM
+BAG:phucvipv add 27xNgọc Rồng 6 sao (old: 26) lydo: Nhặt từ map at 03/11/2023 7:12 PM
+BAG:phucvipv add 854xHoa hồng đỏ (old: 853) lydo: Nhặt từ map at 03/11/2023 7:12 PM
+BAG:phucvipv add 14xĐá lục bảo (old: 13) lydo: Nhặt từ map at 03/11/2023 7:12 PM
+BAG:phucvipv add 1256xHoa hồng vàng (old: 1255) lydo: Nhặt từ map at 03/11/2023 7:13 PM
+BAG:phucvipv add 19xĐá Saphia (old: 18) lydo: Nhặt từ map at 03/11/2023 7:13 PM
+BAG:phucvipv add 1257xHoa hồng vàng (old: 1256) lydo: Nhặt từ map at 03/11/2023 7:13 PM
+BAG:phucvipv add 10xĐá Titan (old: 9) lydo: Nhặt từ map at 03/11/2023 7:13 PM
+BAG:phucvipv add 855xHoa hồng đỏ (old: 854) lydo: Nhặt từ map at 03/11/2023 7:13 PM
+BAG:phucvipv add 57xĐá thạch anh tím (old: 56) lydo: Nhặt từ map at 03/11/2023 7:13 PM
+BAG:phucvipv add 856xHoa hồng đỏ (old: 855) lydo: Nhặt từ map at 03/11/2023 7:13 PM
+BAG:phucvipv add 1258xHoa hồng vàng (old: 1257) lydo: Nhặt từ map at 03/11/2023 7:13 PM
+BAG:phucvipv add 857xHoa hồng đỏ (old: 856) lydo: Nhặt từ map at 03/11/2023 7:13 PM
+BAG:phucvipv add 858xHoa hồng đỏ (old: 857) lydo: Nhặt từ map at 03/11/2023 7:14 PM
+BAG:phucvipv add 859xHoa hồng đỏ (old: 858) lydo: Nhặt từ map at 03/11/2023 7:14 PM
+BAG:phucvipv add 1259xHoa hồng vàng (old: 1258) lydo: Nhặt từ map at 03/11/2023 7:14 PM
+BAG:phucvipv add 860xHoa hồng đỏ (old: 859) lydo: Nhặt từ map at 03/11/2023 7:14 PM
+BAG:phucvipv add 861xHoa hồng đỏ (old: 860) lydo: Nhặt từ map at 03/11/2023 7:14 PM
+BAG:phucvipv add 1260xHoa hồng vàng (old: 1259) lydo: Nhặt từ map at 03/11/2023 7:14 PM
+BAG:phucvipv add 1261xHoa hồng vàng (old: 1260) lydo: Nhặt từ map at 03/11/2023 7:14 PM
+BAG:phucvipv add 51xĐá Ruby (old: 50) lydo: Nhặt từ map at 03/11/2023 7:14 PM
+BAG:phucvipv add 862xHoa hồng đỏ (old: 861) lydo: Nhặt từ map at 03/11/2023 7:14 PM
+BAG:phucvipv add 863xHoa hồng đỏ (old: 862) lydo: Nhặt từ map at 03/11/2023 7:14 PM
+BAG:phucvipv add 864xHoa hồng đỏ (old: 863) lydo: Nhặt từ map at 03/11/2023 7:14 PM
+BAG:phucvipv add 1262xHoa hồng vàng (old: 1261) lydo: Nhặt từ map at 03/11/2023 7:14 PM
+BAG:phucvipv add 930xHoa hồng xanh (old: 929) lydo: Nhặt từ map at 03/11/2023 7:14 PM
+BAG:phucvipv add 52xĐá Ruby (old: 51) lydo: Nhặt từ map at 03/11/2023 7:14 PM
+BAG:phucvipv add 931xHoa hồng xanh (old: 930) lydo: Nhặt từ map at 03/11/2023 7:14 PM
+BAG:phucvipv add 932xHoa hồng xanh (old: 931) lydo: Nhặt từ map at 03/11/2023 7:14 PM
+BAG:phucvipv add 865xHoa hồng đỏ (old: 864) lydo: Nhặt từ map at 03/11/2023 7:14 PM
+BAG:phucvipv add 933xHoa hồng xanh (old: 932) lydo: Nhặt từ map at 03/11/2023 7:14 PM
+BAG:phucvipv add 28xNgọc Rồng 6 sao (old: 27) lydo: Nhặt từ map at 03/11/2023 7:14 PM
+BAG:phucvipv add 43xNgọc Rồng 5 sao (old: 42) lydo: Nhặt từ map at 03/11/2023 7:14 PM
+BAG:phucvipv add 1263xHoa hồng vàng (old: 1262) lydo: Nhặt từ map at 03/11/2023 7:15 PM
+BAG:phucvipv add 1264xHoa hồng vàng (old: 1263) lydo: Nhặt từ map at 03/11/2023 7:15 PM
+BAG:phucvipv add 866xHoa hồng đỏ (old: 865) lydo: Nhặt từ map at 03/11/2023 7:15 PM
+BAG:phucvipv add 1265xHoa hồng vàng (old: 1264) lydo: Nhặt từ map at 03/11/2023 7:15 PM
+BAG:phucvipv add 867xHoa hồng đỏ (old: 866) lydo: Nhặt từ map at 03/11/2023 7:15 PM
+BAG:phucvipv add 868xHoa hồng đỏ (old: 867) lydo: Nhặt từ map at 03/11/2023 7:15 PM
+BAG:phucvipv add 1266xHoa hồng vàng (old: 1265) lydo: Nhặt từ map at 03/11/2023 7:15 PM
+BAG:phucvipv add 869xHoa hồng đỏ (old: 868) lydo: Nhặt từ map at 03/11/2023 7:15 PM
+BAG:phucvipv add 1267xHoa hồng vàng (old: 1266) lydo: Nhặt từ map at 03/11/2023 7:15 PM
+BAG:phucvipv add 1268xHoa hồng vàng (old: 1267) lydo: Nhặt từ map at 03/11/2023 7:16 PM
+BAG:phucvipv add 1269xHoa hồng vàng (old: 1268) lydo: Nhặt từ map at 03/11/2023 7:16 PM
+BAG:phucvipv add 29xNgọc Rồng 6 sao (old: 28) lydo: Nhặt từ map at 03/11/2023 7:16 PM
+BAG:phucvipv add 934xHoa hồng xanh (old: 933) lydo: Nhặt từ map at 03/11/2023 7:16 PM
+BAG:phucvipv add 25xNgọc Rồng 4 sao (old: 24) lydo: Nhặt từ map at 03/11/2023 7:16 PM
+BAG:phucvipv add 935xHoa hồng xanh (old: 934) lydo: Nhặt từ map at 03/11/2023 7:16 PM
+BAG:phucvipv add 44xNgọc Rồng 5 sao (old: 43) lydo: Nhặt từ map at 03/11/2023 7:16 PM
+BAG:phucvipv add 1270xHoa hồng vàng (old: 1269) lydo: Nhặt từ map at 03/11/2023 7:16 PM
+BAG:phucvipv add 53xĐá Ruby (old: 52) lydo: Nhặt từ map at 03/11/2023 7:16 PM
+BAG:phucvipv add 1271xHoa hồng vàng (old: 1270) lydo: Nhặt từ map at 03/11/2023 7:16 PM
+BAG:phucvipv add 870xHoa hồng đỏ (old: 869) lydo: Nhặt từ map at 03/11/2023 7:16 PM
+BAG:phucvipv add 871xHoa hồng đỏ (old: 870) lydo: Nhặt từ map at 03/11/2023 7:16 PM
+BAG:phucvipv add 872xHoa hồng đỏ (old: 871) lydo: Nhặt từ map at 03/11/2023 7:17 PM
+BAG:phucvipv add 936xHoa hồng xanh (old: 935) lydo: Nhặt từ map at 03/11/2023 7:17 PM
+BAG:phucvipv add 54xĐá Ruby (old: 53) lydo: Nhặt từ map at 03/11/2023 7:17 PM
+BAG:phucvipv add 30xNgọc Rồng 6 sao (old: 29) lydo: Nhặt từ map at 03/11/2023 7:17 PM
+BAG:phucvipv add 58xĐá thạch anh tím (old: 57) lydo: Nhặt từ map at 03/11/2023 7:17 PM
+BAG:phucvipv add 1272xHoa hồng vàng (old: 1271) lydo: Nhặt từ map at 03/11/2023 7:17 PM
+BAG:phucvipv add 59xĐá thạch anh tím (old: 58) lydo: Nhặt từ map at 03/11/2023 7:17 PM
+BAG:phucvipv add 1273xHoa hồng vàng (old: 1272) lydo: Nhặt từ map at 03/11/2023 7:17 PM
+BAG:phucvipv add 937xHoa hồng xanh (old: 936) lydo: Nhặt từ map at 03/11/2023 7:18 PM
+BAG:phucvipv add 55xĐá Ruby (old: 54) lydo: Nhặt từ map at 03/11/2023 7:18 PM
+BAG:phucvipv add 1274xHoa hồng vàng (old: 1273) lydo: Nhặt từ map at 03/11/2023 7:18 PM
+BAG:phucvipv add 873xHoa hồng đỏ (old: 872) lydo: Nhặt từ map at 03/11/2023 7:18 PM
+BAG:phucvipv add 1275xHoa hồng vàng (old: 1274) lydo: Nhặt từ map at 03/11/2023 7:18 PM
+BAG:phucvipv add 11xĐá Titan (old: 10) lydo: Nhặt từ map at 03/11/2023 7:18 PM
+BAG:phucvipv add 938xHoa hồng xanh (old: 937) lydo: Nhặt từ map at 03/11/2023 7:18 PM
+BAG:phucvipv add 1276xHoa hồng vàng (old: 1275) lydo: Nhặt từ map at 03/11/2023 7:18 PM
+BAG:phucvipv add 60xĐá thạch anh tím (old: 59) lydo: Nhặt từ map at 03/11/2023 7:18 PM
+BAG:phucvipv add 874xHoa hồng đỏ (old: 873) lydo: Nhặt từ map at 03/11/2023 7:19 PM
+BAG:phucvipv add 15xĐá lục bảo (old: 14) lydo: Nhặt từ map at 03/11/2023 7:19 PM
+BAG:phucvipv add 1277xHoa hồng vàng (old: 1276) lydo: Nhặt từ map at 03/11/2023 7:19 PM
+BAG:phucvipv add 16xĐá lục bảo (old: 15) lydo: Nhặt từ map at 03/11/2023 7:19 PM
+BAG:phucvipv add 875xHoa hồng đỏ (old: 874) lydo: Nhặt từ map at 03/11/2023 7:19 PM
+BAG:phucvipv add 1278xHoa hồng vàng (old: 1277) lydo: Nhặt từ map at 03/11/2023 7:19 PM
+BAG:phucvipv add 1279xHoa hồng vàng (old: 1278) lydo: Nhặt từ map at 03/11/2023 7:19 PM
+BAG:phucvipv add 56xĐá Ruby (old: 55) lydo: Nhặt từ map at 03/11/2023 7:19 PM
+BAG:phucvipv add 20xĐá Saphia (old: 19) lydo: Nhặt từ map at 03/11/2023 7:19 PM
+BAG:phucvipv add 17xĐá lục bảo (old: 16) lydo: Nhặt từ map at 03/11/2023 7:19 PM
+BAG:phucvipv add 876xHoa hồng đỏ (old: 875) lydo: Nhặt từ map at 03/11/2023 7:19 PM
+BAG:phucvipv add 57xĐá Ruby (old: 56) lydo: Nhặt từ map at 03/11/2023 7:20 PM
+BAG:phucvipv add 877xHoa hồng đỏ (old: 876) lydo: Nhặt từ map at 03/11/2023 7:20 PM
+BAG:phucvipv add 1280xHoa hồng vàng (old: 1279) lydo: Nhặt từ map at 03/11/2023 7:20 PM
+BAG:phucvipv add 61xĐá thạch anh tím (old: 60) lydo: Nhặt từ map at 03/11/2023 7:20 PM
+BAG:phucvipv add 1281xHoa hồng vàng (old: 1280) lydo: Nhặt từ map at 03/11/2023 7:20 PM
+BAG:phucvipv add 939xHoa hồng xanh (old: 938) lydo: Nhặt từ map at 03/11/2023 7:20 PM
+BAG:phucvipv add 18xĐá lục bảo (old: 17) lydo: Nhặt từ map at 03/11/2023 7:20 PM
+BAG:phucvipv add 1282xHoa hồng vàng (old: 1281) lydo: Nhặt từ map at 03/11/2023 7:21 PM
+BAG:phucvipv add 1283xHoa hồng vàng (old: 1282) lydo: Nhặt từ map at 03/11/2023 7:21 PM
+BAG:phucvipv add 1284xHoa hồng vàng (old: 1283) lydo: Nhặt từ map at 03/11/2023 7:21 PM
+BAG:phucvipv add 940xHoa hồng xanh (old: 939) lydo: Nhặt từ map at 03/11/2023 7:21 PM
+BAG:phucvipv add 878xHoa hồng đỏ (old: 877) lydo: Nhặt từ map at 03/11/2023 7:21 PM
+BAG:phucvipv add 1285xHoa hồng vàng (old: 1284) lydo: Nhặt từ map at 03/11/2023 7:21 PM
+BAG:phucvipv add 1xĐá Saphia lydo: Nhặt từ map at 03/11/2023 7:21 PM
+BAG:phucvipv add 941xHoa hồng xanh (old: 940) lydo: Nhặt từ map at 03/11/2023 7:21 PM
+BAG:phucvipv add 879xHoa hồng đỏ (old: 878) lydo: Nhặt từ map at 03/11/2023 7:22 PM
+BAG:phucvipv add 1286xHoa hồng vàng (old: 1285) lydo: Nhặt từ map at 03/11/2023 7:22 PM
+BAG:phucvipv add 1287xHoa hồng vàng (old: 1286) lydo: Nhặt từ map at 03/11/2023 7:22 PM
+BAG:phucvipv add 942xHoa hồng xanh (old: 941) lydo: Nhặt từ map at 03/11/2023 7:22 PM
+BAG:phucvipv add 1xGiáp tập luyện cấp 3 lydo: Lấy từ body vào hành trang at 03/11/2023 7:22 PM
+BAG:phucvipv add 943xHoa hồng xanh (old: 942) lydo: Nhặt từ map at 03/11/2023 7:22 PM
+BAG:phucvipv add 1288xHoa hồng vàng (old: 1287) lydo: Nhặt từ map at 03/11/2023 7:22 PM
+BAG:phucvipv add 62xĐá thạch anh tím (old: 61) lydo: Nhặt từ map at 03/11/2023 7:22 PM
+BAG:phucvipv add 1289xHoa hồng vàng (old: 1288) lydo: Nhặt từ map at 03/11/2023 7:22 PM
+BAG:phucvipv add 944xHoa hồng xanh (old: 943) lydo: Nhặt từ map at 03/11/2023 7:22 PM
+BAG:phucvipv add 12xĐá Titan (old: 11) lydo: Nhặt từ map at 03/11/2023 7:22 PM
+BAG:phucvipv add 945xHoa hồng xanh (old: 944) lydo: Nhặt từ map at 03/11/2023 7:22 PM
+BAG:phucvipv add 26xNgọc Rồng 4 sao (old: 25) lydo: Nhặt từ map at 03/11/2023 7:22 PM
+BAG:phucvipv add 63xĐá thạch anh tím (old: 62) lydo: Nhặt từ map at 03/11/2023 7:23 PM
+BAG:phucvipv add 1290xHoa hồng vàng (old: 1289) lydo: Nhặt từ map at 03/11/2023 7:23 PM
+BAG:phucvipv add 880xHoa hồng đỏ (old: 879) lydo: Nhặt từ map at 03/11/2023 7:23 PM
+BAG:phucvipv add 881xHoa hồng đỏ (old: 880) lydo: Nhặt từ map at 03/11/2023 7:23 PM
+BAG:phucvipv add 946xHoa hồng xanh (old: 945) lydo: Nhặt từ map at 03/11/2023 7:23 PM
+BAG:phucvipv add 13xĐá Titan (old: 12) lydo: Nhặt từ map at 03/11/2023 7:23 PM
+BAG:phucvipv add 882xHoa hồng đỏ (old: 881) lydo: Nhặt từ map at 03/11/2023 7:23 PM
+BAG:phucvipv add 1291xHoa hồng vàng (old: 1290) lydo: Nhặt từ map at 03/11/2023 7:23 PM
+BAG:phucvipv add 19xĐá lục bảo (old: 18) lydo: Nhặt từ map at 03/11/2023 7:23 PM
+BAG:phucvipv add 1292xHoa hồng vàng (old: 1291) lydo: Nhặt từ map at 03/11/2023 7:23 PM
+BAG:phucvipv add 883xHoa hồng đỏ (old: 882) lydo: Nhặt từ map at 03/11/2023 7:23 PM
+BAG:phucvipv add 20xĐá lục bảo (old: 19) lydo: Nhặt từ map at 03/11/2023 7:24 PM
+BAG:phucvipv add 884xHoa hồng đỏ (old: 883) lydo: Nhặt từ map at 03/11/2023 7:24 PM
+BAG:phucvipv add 947xHoa hồng xanh (old: 946) lydo: Nhặt từ map at 03/11/2023 7:24 PM
+BAG:phucvipv add 58xĐá Ruby (old: 57) lydo: Nhặt từ map at 03/11/2023 7:24 PM
+BAG:phucvipv add 885xHoa hồng đỏ (old: 884) lydo: Nhặt từ map at 03/11/2023 7:24 PM
+BAG:phucvipv add 1293xHoa hồng vàng (old: 1292) lydo: Nhặt từ map at 03/11/2023 7:24 PM
+BAG:phucvipv add 21xĐá lục bảo (old: 20) lydo: Nhặt từ map at 03/11/2023 7:24 PM
+BAG:phucvipv add 1294xHoa hồng vàng (old: 1293) lydo: Nhặt từ map at 03/11/2023 7:24 PM
+BAG:phucvipv add 948xHoa hồng xanh (old: 947) lydo: Nhặt từ map at 03/11/2023 7:24 PM
+BAG:phucvipv add 949xHoa hồng xanh (old: 948) lydo: Nhặt từ map at 03/11/2023 7:25 PM
+BAG:phucvipv add 1295xHoa hồng vàng (old: 1294) lydo: Nhặt từ map at 03/11/2023 7:25 PM
+BAG:phucvipv add 22xĐá lục bảo (old: 21) lydo: Nhặt từ map at 03/11/2023 7:25 PM
+BAG:phucvipv add 950xHoa hồng xanh (old: 949) lydo: Nhặt từ map at 03/11/2023 7:25 PM
+BAG:phucvipv add 27xNgọc Rồng 4 sao (old: 26) lydo: Nhặt từ map at 03/11/2023 7:25 PM
+BAG:phucvipv add 1296xHoa hồng vàng (old: 1295) lydo: Nhặt từ map at 03/11/2023 7:26 PM
+BAG:phucvipv add 886xHoa hồng đỏ (old: 885) lydo: Nhặt từ map at 03/11/2023 7:26 PM
+BAG:phucvipv add 23xĐá lục bảo (old: 22) lydo: Nhặt từ map at 03/11/2023 7:26 PM
+BAG:phucvipv add 59xĐá Ruby (old: 58) lydo: Nhặt từ map at 03/11/2023 7:26 PM
+BAG:phucvipv add 1297xHoa hồng vàng (old: 1296) lydo: Nhặt từ map at 03/11/2023 7:26 PM
+BAG:phucvipv add 887xHoa hồng đỏ (old: 886) lydo: Nhặt từ map at 03/11/2023 7:26 PM
+BAG:phucvipv add 1298xHoa hồng vàng (old: 1297) lydo: Nhặt từ map at 03/11/2023 7:26 PM
+BAG:phucvipv add 24xĐá lục bảo (old: 23) lydo: Nhặt từ map at 03/11/2023 7:26 PM
+BAG:phucvipv add 14xĐá Titan (old: 13) lydo: Nhặt từ map at 03/11/2023 7:26 PM
+BAG:phucvipv add 888xHoa hồng đỏ (old: 887) lydo: Nhặt từ map at 03/11/2023 7:26 PM
+BAG:phucvipv add 60xĐá Ruby (old: 59) lydo: Nhặt từ map at 03/11/2023 7:26 PM
+BAG:phucvipv add 1299xHoa hồng vàng (old: 1298) lydo: Nhặt từ map at 03/11/2023 7:26 PM
+BAG:phucvipv add 1300xHoa hồng vàng (old: 1299) lydo: Nhặt từ map at 03/11/2023 7:27 PM
+BAG:phucvipv add 64xĐá thạch anh tím (old: 63) lydo: Nhặt từ map at 03/11/2023 7:27 PM
+BAG:phucvipv add 1301xHoa hồng vàng (old: 1300) lydo: Nhặt từ map at 03/11/2023 7:27 PM
+BAG:phucvipv add 951xHoa hồng xanh (old: 950) lydo: Nhặt từ map at 03/11/2023 7:27 PM
+BAG:phucvipv add 952xHoa hồng xanh (old: 951) lydo: Nhặt từ map at 03/11/2023 7:27 PM
+BAG:phucvipv add 61xĐá Ruby (old: 60) lydo: Nhặt từ map at 03/11/2023 7:27 PM
+BAG:phucvipv add 25xĐá lục bảo (old: 24) lydo: Nhặt từ map at 03/11/2023 7:27 PM
+BAG:phucvipv add 1302xHoa hồng vàng (old: 1301) lydo: Nhặt từ map at 03/11/2023 7:27 PM
+BAG:phucvipv add 889xHoa hồng đỏ (old: 888) lydo: Nhặt từ map at 03/11/2023 7:27 PM
+BAG:phucvipv add 953xHoa hồng xanh (old: 952) lydo: Nhặt từ map at 03/11/2023 7:27 PM
+BAG:phucvipv add 890xHoa hồng đỏ (old: 889) lydo: Nhặt từ map at 03/11/2023 7:27 PM
+BAG:phucvipv add 28xNgọc Rồng 4 sao (old: 27) lydo: Nhặt từ map at 03/11/2023 7:27 PM
+BAG:phucvipv add 891xHoa hồng đỏ (old: 890) lydo: Nhặt từ map at 03/11/2023 7:27 PM
+BAG:phucvipv add 1303xHoa hồng vàng (old: 1302) lydo: Nhặt từ map at 03/11/2023 7:27 PM
+BAG:phucvipv add 1304xHoa hồng vàng (old: 1303) lydo: Nhặt từ map at 03/11/2023 7:27 PM
+BAG:phucvipv add 954xHoa hồng xanh (old: 953) lydo: Nhặt từ map at 03/11/2023 7:27 PM
+BAG:phucvipv add 29xNgọc Rồng 4 sao (old: 28) lydo: Nhặt từ map at 03/11/2023 7:27 PM
+BAG:phucvipv add 892xHoa hồng đỏ (old: 891) lydo: Nhặt từ map at 03/11/2023 7:27 PM
+BAG:phucvipv add 62xĐá Ruby (old: 61) lydo: Nhặt từ map at 03/11/2023 7:28 PM
+BAG:phucvipv add 893xHoa hồng đỏ (old: 892) lydo: Nhặt từ map at 03/11/2023 7:28 PM
+BAG:phucvipv add 955xHoa hồng xanh (old: 954) lydo: Nhặt từ map at 03/11/2023 7:28 PM
+BAG:phucvipv add 65xĐá thạch anh tím (old: 64) lydo: Nhặt từ map at 03/11/2023 7:28 PM
+BAG:phucvipv add 2xĐá Saphia (old: 1) lydo: Nhặt từ map at 03/11/2023 7:28 PM
+BAG:phucvipv add 1305xHoa hồng vàng (old: 1304) lydo: Nhặt từ map at 03/11/2023 7:28 PM
+BAG:phucvipv add 956xHoa hồng xanh (old: 955) lydo: Nhặt từ map at 03/11/2023 7:28 PM
+BAG:phucvipv add 63xĐá Ruby (old: 62) lydo: Nhặt từ map at 03/11/2023 7:28 PM
+BAG:phucvipv add 957xHoa hồng xanh (old: 956) lydo: Nhặt từ map at 03/11/2023 7:29 PM
+BAG:phucvipv add 1306xHoa hồng vàng (old: 1305) lydo: Nhặt từ map at 03/11/2023 7:29 PM
+BAG:phucvipv add 1307xHoa hồng vàng (old: 1306) lydo: Nhặt từ map at 03/11/2023 7:29 PM
+BAG:phucvipv add 1308xHoa hồng vàng (old: 1307) lydo: Nhặt từ map at 03/11/2023 7:29 PM
+BAG:phucvipv add 958xHoa hồng xanh (old: 957) lydo: Nhặt từ map at 03/11/2023 7:29 PM
+BAG:phucvipv add 1309xHoa hồng vàng (old: 1308) lydo: Nhặt từ map at 03/11/2023 7:29 PM
+BAG:phucvipv add 959xHoa hồng xanh (old: 958) lydo: Nhặt từ map at 03/11/2023 7:29 PM
+BAG:phucvipv add 894xHoa hồng đỏ (old: 893) lydo: Nhặt từ map at 03/11/2023 7:29 PM
+BAG:phucvipv add 895xHoa hồng đỏ (old: 894) lydo: Nhặt từ map at 03/11/2023 7:29 PM
+BAG:phucvipv add 3xĐá Saphia (old: 2) lydo: Nhặt từ map at 03/11/2023 7:29 PM
+BAG:phucvipv add 896xHoa hồng đỏ (old: 895) lydo: Nhặt từ map at 03/11/2023 7:29 PM
+BAG:phucvipv add 960xHoa hồng xanh (old: 959) lydo: Nhặt từ map at 03/11/2023 7:29 PM
+BAG:phucvipv add 1310xHoa hồng vàng (old: 1309) lydo: Nhặt từ map at 03/11/2023 7:29 PM
+BAG:phucvipv add 30xNgọc Rồng 4 sao (old: 29) lydo: Nhặt từ map at 03/11/2023 7:29 PM
+BAG:phucvipv add 1311xHoa hồng vàng (old: 1310) lydo: Nhặt từ map at 03/11/2023 7:29 PM
+BAG:phucvipv add 961xHoa hồng xanh (old: 960) lydo: Nhặt từ map at 03/11/2023 7:29 PM
+BAG:phucvipv add 4xĐá Saphia (old: 3) lydo: Nhặt từ map at 03/11/2023 7:29 PM
+BAG:phucvipv add 962xHoa hồng xanh (old: 961) lydo: Nhặt từ map at 03/11/2023 7:30 PM
+BAG:phucvipv add 15xĐá Titan (old: 14) lydo: Nhặt từ map at 03/11/2023 7:30 PM
+BAG:phucvipv add 31xNgọc Rồng 4 sao (old: 30) lydo: Nhặt từ map at 03/11/2023 7:30 PM
+BAG:phucvipv add 5xĐá Saphia (old: 4) lydo: Nhặt từ map at 03/11/2023 7:30 PM
+BAG:phucvipv add 64xĐá Ruby (old: 63) lydo: Nhặt từ map at 03/11/2023 7:30 PM
+BAG:phucvipv add 897xHoa hồng đỏ (old: 896) lydo: Nhặt từ map at 03/11/2023 7:30 PM
+BAG:phucvipv add 26xĐá lục bảo (old: 25) lydo: Nhặt từ map at 03/11/2023 7:30 PM
+BAG:phucvipv add 1312xHoa hồng vàng (old: 1311) lydo: Nhặt từ map at 03/11/2023 7:30 PM
+BAG:phucvipv add 963xHoa hồng xanh (old: 962) lydo: Nhặt từ map at 03/11/2023 7:30 PM
+BAG:phucvipv add 1313xHoa hồng vàng (old: 1312) lydo: Nhặt từ map at 03/11/2023 7:30 PM
+BAG:phucvipv add 898xHoa hồng đỏ (old: 897) lydo: Nhặt từ map at 03/11/2023 7:30 PM
+BAG:phucvipv add 964xHoa hồng xanh (old: 963) lydo: Nhặt từ map at 03/11/2023 7:31 PM
+BAG:phucvipv add 899xHoa hồng đỏ (old: 898) lydo: Nhặt từ map at 03/11/2023 7:31 PM
+BAG:phucvipv add 31xNgọc Rồng 6 sao (old: 30) lydo: Nhặt từ map at 03/11/2023 7:31 PM
+BAG:phucvipv add 65xĐá Ruby (old: 64) lydo: Nhặt từ map at 03/11/2023 7:31 PM
+BAG:phucvipv add 66xĐá thạch anh tím (old: 65) lydo: Nhặt từ map at 03/11/2023 7:31 PM
+BAG:phucvipv add 67xĐá thạch anh tím (old: 66) lydo: Nhặt từ map at 03/11/2023 7:31 PM
+BAG:phucvipv add 1314xHoa hồng vàng (old: 1313) lydo: Nhặt từ map at 03/11/2023 7:31 PM
+BAG:phucvipv add 900xHoa hồng đỏ (old: 899) lydo: Nhặt từ map at 03/11/2023 7:31 PM
+BAG:phucvipv add 965xHoa hồng xanh (old: 964) lydo: Nhặt từ map at 03/11/2023 7:31 PM
+BAG:phucvipv add 901xHoa hồng đỏ (old: 900) lydo: Nhặt từ map at 03/11/2023 7:31 PM
+BAG:phucvipv add 6xĐá Saphia (old: 5) lydo: Nhặt từ map at 03/11/2023 7:31 PM
+BAG:phucvipv add 902xHoa hồng đỏ (old: 901) lydo: Nhặt từ map at 03/11/2023 7:31 PM
+BAG:phucvipv add 68xĐá thạch anh tím (old: 67) lydo: Nhặt từ map at 03/11/2023 7:32 PM
+BAG:phucvipv add 1315xHoa hồng vàng (old: 1314) lydo: Nhặt từ map at 03/11/2023 7:32 PM
+BAG:phucvipv add 69xĐá thạch anh tím (old: 68) lydo: Nhặt từ map at 03/11/2023 7:32 PM
+BAG:phucvipv add 903xHoa hồng đỏ (old: 902) lydo: Nhặt từ map at 03/11/2023 7:32 PM
+BAG:phucvipv add 1316xHoa hồng vàng (old: 1315) lydo: Nhặt từ map at 03/11/2023 7:32 PM
+BAG:phucvipv add 70xĐá thạch anh tím (old: 69) lydo: Nhặt từ map at 03/11/2023 7:32 PM
+BAG:phucvipv add 1317xHoa hồng vàng (old: 1316) lydo: Nhặt từ map at 03/11/2023 7:32 PM
+BAG:phucvipv add 27xĐá lục bảo (old: 26) lydo: Nhặt từ map at 03/11/2023 7:32 PM
+BAG:phucvipv add 904xHoa hồng đỏ (old: 903) lydo: Nhặt từ map at 03/11/2023 7:32 PM
+BAG:phucvipv add 32xNgọc Rồng 4 sao (old: 31) lydo: Nhặt từ map at 03/11/2023 7:32 PM
+BAG:phucvipv add 1318xHoa hồng vàng (old: 1317) lydo: Nhặt từ map at 03/11/2023 7:32 PM
+BAG:phucvipv add 1319xHoa hồng vàng (old: 1318) lydo: Nhặt từ map at 03/11/2023 7:33 PM
+BAG:phucvipv add 905xHoa hồng đỏ (old: 904) lydo: Nhặt từ map at 03/11/2023 7:33 PM
+BAG:phucvipv add 33xNgọc Rồng 4 sao (old: 32) lydo: Nhặt từ map at 03/11/2023 7:33 PM
+BAG:phucvipv add 28xĐá lục bảo (old: 27) lydo: Nhặt từ map at 03/11/2023 7:33 PM
+BAG:phucvipv add 906xHoa hồng đỏ (old: 905) lydo: Nhặt từ map at 03/11/2023 7:33 PM
+BAG:phucvipv add 907xHoa hồng đỏ (old: 906) lydo: Nhặt từ map at 03/11/2023 7:33 PM
+BAG:phucvipv add 34xNgọc Rồng 4 sao (old: 33) lydo: Nhặt từ map at 03/11/2023 7:33 PM
+BAG:phucvipv add 966xHoa hồng xanh (old: 965) lydo: Nhặt từ map at 03/11/2023 7:33 PM
+BAG:phucvipv add 908xHoa hồng đỏ (old: 907) lydo: Nhặt từ map at 03/11/2023 7:33 PM
+BAG:phucvipv add 1320xHoa hồng vàng (old: 1319) lydo: Nhặt từ map at 03/11/2023 7:34 PM
+BAG:phucvipv add 1321xHoa hồng vàng (old: 1320) lydo: Nhặt từ map at 03/11/2023 7:34 PM
+BAG:phucvipv add 967xHoa hồng xanh (old: 966) lydo: Nhặt từ map at 03/11/2023 7:34 PM
+BAG:phucvipv add 1322xHoa hồng vàng (old: 1321) lydo: Nhặt từ map at 03/11/2023 7:34 PM
+BAG:phucvipv add 1323xHoa hồng vàng (old: 1322) lydo: Nhặt từ map at 03/11/2023 7:34 PM
+BAG:phucvipv add 71xĐá thạch anh tím (old: 70) lydo: Nhặt từ map at 03/11/2023 7:34 PM
+BAG:phucvipv add 66xĐá Ruby (old: 65) lydo: Nhặt từ map at 03/11/2023 7:34 PM
+BAG:phucvipv add 16xĐá Titan (old: 15) lydo: Nhặt từ map at 03/11/2023 7:34 PM
+BAG:phucvipv add 1324xHoa hồng vàng (old: 1323) lydo: Nhặt từ map at 03/11/2023 7:34 PM
+BAG:phucvipv add 968xHoa hồng xanh (old: 967) lydo: Nhặt từ map at 03/11/2023 7:34 PM
+BAG:phucvipv add 969xHoa hồng xanh (old: 968) lydo: Nhặt từ map at 03/11/2023 7:34 PM
+BAG:phucvipv add 970xHoa hồng xanh (old: 969) lydo: Nhặt từ map at 03/11/2023 7:34 PM
+BAG:phucvipv add 909xHoa hồng đỏ (old: 908) lydo: Nhặt từ map at 03/11/2023 7:34 PM
+BAG:phucvipv add 1325xHoa hồng vàng (old: 1324) lydo: Nhặt từ map at 03/11/2023 7:34 PM
+BAG:phucvipv add 1326xHoa hồng vàng (old: 1325) lydo: Nhặt từ map at 03/11/2023 7:35 PM
+BAG:phucvipv add 1327xHoa hồng vàng (old: 1326) lydo: Nhặt từ map at 03/11/2023 7:35 PM
+BAG:phucvipv add 971xHoa hồng xanh (old: 970) lydo: Nhặt từ map at 03/11/2023 7:35 PM
+BAG:phucvipv add 1328xHoa hồng vàng (old: 1327) lydo: Nhặt từ map at 03/11/2023 7:35 PM
+BAG:phucvipv add 972xHoa hồng xanh (old: 971) lydo: Nhặt từ map at 03/11/2023 7:35 PM
+BAG:phucvipv add 1xGiáp tập luyện cấp 3 lydo: Lấy từ body vào hành trang at 03/11/2023 7:35 PM
+BAG:phucvipv add 910xHoa hồng đỏ (old: 909) lydo: Nhặt từ map at 03/11/2023 7:35 PM
+BAG:phucvipv add 911xHoa hồng đỏ (old: 910) lydo: Nhặt từ map at 03/11/2023 7:35 PM
+BAG:phucvipv add 973xHoa hồng xanh (old: 972) lydo: Nhặt từ map at 03/11/2023 7:35 PM
+BAG:phucvipv add 974xHoa hồng xanh (old: 973) lydo: Nhặt từ map at 03/11/2023 7:35 PM
+BAG:phucvipv add 1329xHoa hồng vàng (old: 1328) lydo: Nhặt từ map at 03/11/2023 7:36 PM
+BAG:phucvipv add 1330xHoa hồng vàng (old: 1329) lydo: Nhặt từ map at 03/11/2023 7:36 PM
+BAG:phucvipv add 29xĐá lục bảo (old: 28) lydo: Nhặt từ map at 03/11/2023 7:36 PM
+BAG:phucvipv add 1331xHoa hồng vàng (old: 1330) lydo: Nhặt từ map at 03/11/2023 7:36 PM
+BAG:phucvipv add 975xHoa hồng xanh (old: 974) lydo: Nhặt từ map at 03/11/2023 7:36 PM
+BAG:phucvipv add 67xĐá Ruby (old: 66) lydo: Nhặt từ map at 03/11/2023 7:36 PM
+BAG:phucvipv add 1332xHoa hồng vàng (old: 1331) lydo: Nhặt từ map at 03/11/2023 7:36 PM
+BAG:phucvipv add 30xĐá lục bảo (old: 29) lydo: Nhặt từ map at 03/11/2023 7:36 PM
+BAG:phucvipv add 912xHoa hồng đỏ (old: 911) lydo: Nhặt từ map at 03/11/2023 7:36 PM
+BAG:phucvipv add 976xHoa hồng xanh (old: 975) lydo: Nhặt từ map at 03/11/2023 7:36 PM
+BAG:phucvipv add 1333xHoa hồng vàng (old: 1332) lydo: Nhặt từ map at 03/11/2023 7:36 PM
+BAG:phucvipv add 68xĐá Ruby (old: 67) lydo: Nhặt từ map at 03/11/2023 7:36 PM
+BAG:phucvipv add 72xĐá thạch anh tím (old: 71) lydo: Nhặt từ map at 03/11/2023 7:36 PM
+BAG:phucvipv add 45xNgọc Rồng 5 sao (old: 44) lydo: Nhặt từ map at 03/11/2023 7:36 PM
+BAG:phucvipv add 7xĐá Saphia (old: 6) lydo: Nhặt từ map at 03/11/2023 7:37 PM
+BAG:phucvipv add 977xHoa hồng xanh (old: 976) lydo: Nhặt từ map at 03/11/2023 7:37 PM
+BAG:phucvipv add 46xNgọc Rồng 5 sao (old: 45) lydo: Nhặt từ map at 03/11/2023 7:37 PM
+BAG:phucvipv add 31xĐá lục bảo (old: 30) lydo: Nhặt từ map at 03/11/2023 7:37 PM
+BAG:phucvipv add 913xHoa hồng đỏ (old: 912) lydo: Nhặt từ map at 03/11/2023 7:37 PM
+BAG:phucvipv add 978xHoa hồng xanh (old: 977) lydo: Nhặt từ map at 03/11/2023 7:37 PM
+BAG:phucvipv add 1334xHoa hồng vàng (old: 1333) lydo: Nhặt từ map at 03/11/2023 7:37 PM
+BAG:phucvipv add 914xHoa hồng đỏ (old: 913) lydo: Nhặt từ map at 03/11/2023 7:37 PM
+BAG:phucvipv add 1335xHoa hồng vàng (old: 1334) lydo: Nhặt từ map at 03/11/2023 7:37 PM
+BAG:phucvipv add 32xĐá lục bảo (old: 31) lydo: Nhặt từ map at 03/11/2023 7:37 PM
+BAG:phucvipv add 69xĐá Ruby (old: 68) lydo: Nhặt từ map at 03/11/2023 7:37 PM
+BAG:phucvipv add 1336xHoa hồng vàng (old: 1335) lydo: Nhặt từ map at 03/11/2023 7:38 PM
+BAG:phucvipv add 73xĐá thạch anh tím (old: 72) lydo: Nhặt từ map at 03/11/2023 7:38 PM
+BAG:phucvipv add 979xHoa hồng xanh (old: 978) lydo: Nhặt từ map at 03/11/2023 7:38 PM
+BAG:phucvipv add 915xHoa hồng đỏ (old: 914) lydo: Nhặt từ map at 03/11/2023 7:38 PM
+BAG:phucvipv add 980xHoa hồng xanh (old: 979) lydo: Nhặt từ map at 03/11/2023 7:38 PM
+BAG:phucvipv add 17xĐá Titan (old: 16) lydo: Nhặt từ map at 03/11/2023 7:38 PM
+BAG:phucvipv add 981xHoa hồng xanh (old: 980) lydo: Nhặt từ map at 03/11/2023 7:38 PM
+BAG:phucvipv add 916xHoa hồng đỏ (old: 915) lydo: Nhặt từ map at 03/11/2023 7:38 PM
+BAG:phucvipv add 917xHoa hồng đỏ (old: 916) lydo: Nhặt từ map at 03/11/2023 7:38 PM
+BAG:phucvipv add 1337xHoa hồng vàng (old: 1336) lydo: Nhặt từ map at 03/11/2023 7:38 PM
+BAG:phucvipv add 70xĐá Ruby (old: 69) lydo: Nhặt từ map at 03/11/2023 7:39 PM
+BAG:phucvipv add 1338xHoa hồng vàng (old: 1337) lydo: Nhặt từ map at 03/11/2023 7:39 PM
+BAG:phucvipv add 982xHoa hồng xanh (old: 981) lydo: Nhặt từ map at 03/11/2023 7:39 PM
+BAG:phucvipv add 32xNgọc Rồng 6 sao (old: 31) lydo: Nhặt từ map at 03/11/2023 7:39 PM
+BAG:phucvipv add 918xHoa hồng đỏ (old: 917) lydo: Nhặt từ map at 03/11/2023 7:39 PM
+BAG:phucvipv add 18xĐá Titan (old: 17) lydo: Nhặt từ map at 03/11/2023 7:39 PM
+BAG:phucvipv add 983xHoa hồng xanh (old: 982) lydo: Nhặt từ map at 03/11/2023 7:39 PM
+BAG:phucvipv add 71xĐá Ruby (old: 70) lydo: Nhặt từ map at 03/11/2023 7:39 PM
+BAG:phucvipv add 1339xHoa hồng vàng (old: 1338) lydo: Nhặt từ map at 03/11/2023 7:39 PM
+BAG:phucvipv add 35xNgọc Rồng 4 sao (old: 34) lydo: Nhặt từ map at 03/11/2023 7:39 PM
+BAG:phucvipv add 1340xHoa hồng vàng (old: 1339) lydo: Nhặt từ map at 03/11/2023 7:39 PM
+BAG:phucvipv add 919xHoa hồng đỏ (old: 918) lydo: Nhặt từ map at 03/11/2023 7:39 PM
+BAG:phucvipv add 920xHoa hồng đỏ (old: 919) lydo: Nhặt từ map at 03/11/2023 7:39 PM
+BAG:phucvipv add 984xHoa hồng xanh (old: 983) lydo: Nhặt từ map at 03/11/2023 7:39 PM
+BAG:phucvipv add 1341xHoa hồng vàng (old: 1340) lydo: Nhặt từ map at 03/11/2023 7:39 PM
+BAG:phucvipv add 921xHoa hồng đỏ (old: 920) lydo: Nhặt từ map at 03/11/2023 7:40 PM
+BAG:phucvipv add 74xĐá thạch anh tím (old: 73) lydo: Nhặt từ map at 03/11/2023 7:40 PM
+BAG:phucvipv add 1342xHoa hồng vàng (old: 1341) lydo: Nhặt từ map at 03/11/2023 7:40 PM
+BAG:phucvipv add 1343xHoa hồng vàng (old: 1342) lydo: Nhặt từ map at 03/11/2023 7:40 PM
+BAG:phucvipv add 8xĐá Saphia (old: 7) lydo: Nhặt từ map at 03/11/2023 7:40 PM
+BAG:phucvipv add 72xĐá Ruby (old: 71) lydo: Nhặt từ map at 03/11/2023 7:40 PM
+BAG:phucvipv add 36xNgọc Rồng 4 sao (old: 35) lydo: Nhặt từ map at 03/11/2023 7:40 PM
+BAG:phucvipv add 922xHoa hồng đỏ (old: 921) lydo: Nhặt từ map at 03/11/2023 7:40 PM
+BAG:phucvipv add 75xĐá thạch anh tím (old: 74) lydo: Nhặt từ map at 03/11/2023 7:40 PM
+BAG:phucvipv add 923xHoa hồng đỏ (old: 922) lydo: Nhặt từ map at 03/11/2023 7:40 PM
+BAG:phucvipv add 1344xHoa hồng vàng (old: 1343) lydo: Nhặt từ map at 03/11/2023 7:40 PM
+BAG:phucvipv add 37xNgọc Rồng 4 sao (old: 36) lydo: Nhặt từ map at 03/11/2023 7:41 PM
+BAG:phucvipv add 73xĐá Ruby (old: 72) lydo: Nhặt từ map at 03/11/2023 7:41 PM
+BAG:phucvipv add 985xHoa hồng xanh (old: 984) lydo: Nhặt từ map at 03/11/2023 7:41 PM
+BAG:phucvipv add 986xHoa hồng xanh (old: 985) lydo: Nhặt từ map at 03/11/2023 7:41 PM
+BAG:phucvipv add 19xĐá Titan (old: 18) lydo: Nhặt từ map at 03/11/2023 7:41 PM
+BAG:phucvipv add 1345xHoa hồng vàng (old: 1344) lydo: Nhặt từ map at 03/11/2023 7:41 PM
+BAG:phucvipv add 987xHoa hồng xanh (old: 986) lydo: Nhặt từ map at 03/11/2023 7:41 PM
+BAG:phucvipv add 9xĐá Saphia (old: 8) lydo: Nhặt từ map at 03/11/2023 7:41 PM
+BAG:phucvipv add 1346xHoa hồng vàng (old: 1345) lydo: Nhặt từ map at 03/11/2023 7:41 PM
+BAG:phucvipv add 1347xHoa hồng vàng (old: 1346) lydo: Nhặt từ map at 03/11/2023 7:41 PM
+BAG:phucvipv add 924xHoa hồng đỏ (old: 923) lydo: Nhặt từ map at 03/11/2023 7:41 PM
+BAG:phucvipv add 925xHoa hồng đỏ (old: 924) lydo: Nhặt từ map at 03/11/2023 7:42 PM
+BAG:phucvipv add 10xĐá Saphia (old: 9) lydo: Nhặt từ map at 03/11/2023 7:42 PM
+BAG:phucvipv add 1348xHoa hồng vàng (old: 1347) lydo: Nhặt từ map at 03/11/2023 7:42 PM
+BAG:phucvipv add 1349xHoa hồng vàng (old: 1348) lydo: Nhặt từ map at 03/11/2023 7:42 PM
+BAG:phucvipv add 11xĐá Saphia (old: 10) lydo: Nhặt từ map at 03/11/2023 7:42 PM
+BAG:phucvipv add 1350xHoa hồng vàng (old: 1349) lydo: Nhặt từ map at 03/11/2023 7:42 PM
+BAG:phucvipv add 38xNgọc Rồng 4 sao (old: 37) lydo: Nhặt từ map at 03/11/2023 7:42 PM
+BAG:phucvipv add 988xHoa hồng xanh (old: 987) lydo: Nhặt từ map at 03/11/2023 7:43 PM
+BAG:phucvipv add 76xĐá thạch anh tím (old: 75) lydo: Nhặt từ map at 03/11/2023 7:43 PM
+BAG:phucvipv add 989xHoa hồng xanh (old: 988) lydo: Nhặt từ map at 03/11/2023 7:43 PM
+BAG:phucvipv add 990xHoa hồng xanh (old: 989) lydo: Nhặt từ map at 03/11/2023 7:43 PM
+BAG:phucvipv add 1351xHoa hồng vàng (old: 1350) lydo: Nhặt từ map at 03/11/2023 7:43 PM
+BAG:phucvipv add 991xHoa hồng xanh (old: 990) lydo: Nhặt từ map at 03/11/2023 7:43 PM
+BAG:phucvipv add 1352xHoa hồng vàng (old: 1351) lydo: Nhặt từ map at 03/11/2023 7:43 PM
+BAG:phucvipv add 1353xHoa hồng vàng (old: 1352) lydo: Nhặt từ map at 03/11/2023 7:43 PM
+BAG:phucvipv add 926xHoa hồng đỏ (old: 925) lydo: Nhặt từ map at 03/11/2023 7:43 PM
+BAG:phucvipv add 33xNgọc Rồng 6 sao (old: 32) lydo: Nhặt từ map at 03/11/2023 7:43 PM
+BAG:phucvipv add 927xHoa hồng đỏ (old: 926) lydo: Nhặt từ map at 03/11/2023 7:44 PM
+BAG:phucvipv add 1354xHoa hồng vàng (old: 1353) lydo: Nhặt từ map at 03/11/2023 7:44 PM
+BAG:phucvipv add 77xĐá thạch anh tím (old: 76) lydo: Nhặt từ map at 03/11/2023 7:44 PM
+BAG:phucvipv add 928xHoa hồng đỏ (old: 927) lydo: Nhặt từ map at 03/11/2023 7:44 PM
+BAG:phucvipv add 992xHoa hồng xanh (old: 991) lydo: Nhặt từ map at 03/11/2023 7:44 PM
+BAG:phucvipv add 39xNgọc Rồng 4 sao (old: 38) lydo: Nhặt từ map at 03/11/2023 7:44 PM
+BAG:phucvipv add 993xHoa hồng xanh (old: 992) lydo: Nhặt từ map at 03/11/2023 7:44 PM
+BAG:phucvipv add 929xHoa hồng đỏ (old: 928) lydo: Nhặt từ map at 03/11/2023 7:44 PM
+BAG:phucvipv add 33xĐá lục bảo (old: 32) lydo: Nhặt từ map at 03/11/2023 7:44 PM
+BAG:phucvipv add 1355xHoa hồng vàng (old: 1354) lydo: Nhặt từ map at 03/11/2023 7:44 PM
+BAG:phucvipv add 930xHoa hồng đỏ (old: 929) lydo: Nhặt từ map at 03/11/2023 7:45 PM
+BAG:phucvipv add 40xNgọc Rồng 4 sao (old: 39) lydo: Nhặt từ map at 03/11/2023 7:45 PM
+BAG:phucvipv add 931xHoa hồng đỏ (old: 930) lydo: Nhặt từ map at 03/11/2023 7:45 PM
+BAG:phucvipv add 20xĐá Titan (old: 19) lydo: Nhặt từ map at 03/11/2023 7:45 PM
+BAG:phucvipv add 932xHoa hồng đỏ (old: 931) lydo: Nhặt từ map at 03/11/2023 7:45 PM
+BAG:phucvipv add 1356xHoa hồng vàng (old: 1355) lydo: Nhặt từ map at 03/11/2023 7:45 PM
+BAG:phucvipv add 994xHoa hồng xanh (old: 993) lydo: Nhặt từ map at 03/11/2023 7:45 PM
+BAG:phucvipv add 995xHoa hồng xanh (old: 994) lydo: Nhặt từ map at 03/11/2023 7:45 PM
+BAG:phucvipv add 34xNgọc Rồng 6 sao (old: 33) lydo: Nhặt từ map at 03/11/2023 7:45 PM
+BAG:phucvipv add 933xHoa hồng đỏ (old: 932) lydo: Nhặt từ map at 03/11/2023 7:45 PM
+BAG:phucvipv add 934xHoa hồng đỏ (old: 933) lydo: Nhặt từ map at 03/11/2023 7:45 PM
+BAG:phucvipv add 935xHoa hồng đỏ (old: 934) lydo: Nhặt từ map at 03/11/2023 7:45 PM
+BAG:phucvipv add 12xĐá Saphia (old: 11) lydo: Nhặt từ map at 03/11/2023 7:45 PM
+BAG:phucvipv add 1357xHoa hồng vàng (old: 1356) lydo: Nhặt từ map at 03/11/2023 7:45 PM
+BAG:phucvipv add 1358xHoa hồng vàng (old: 1357) lydo: Nhặt từ map at 03/11/2023 7:45 PM
+BAG:phucvipv add 936xHoa hồng đỏ (old: 935) lydo: Nhặt từ map at 03/11/2023 7:45 PM
+BAG:phucvipv add 34xĐá lục bảo (old: 33) lydo: Nhặt từ map at 03/11/2023 7:46 PM
+BAG:phucvipv add 1359xHoa hồng vàng (old: 1358) lydo: Nhặt từ map at 03/11/2023 7:46 PM
+BAG:phucvipv add 74xĐá Ruby (old: 73) lydo: Nhặt từ map at 03/11/2023 7:46 PM
+BAG:phucvipv add 937xHoa hồng đỏ (old: 936) lydo: Nhặt từ map at 03/11/2023 7:46 PM
+BAG:phucvipv add 996xHoa hồng xanh (old: 995) lydo: Nhặt từ map at 03/11/2023 7:46 PM
+BAG:phucvipv add 938xHoa hồng đỏ (old: 937) lydo: Nhặt từ map at 03/11/2023 7:46 PM
+BAG:phucvipv add 1360xHoa hồng vàng (old: 1359) lydo: Nhặt từ map at 03/11/2023 7:46 PM
+BAG:phucvipv add 997xHoa hồng xanh (old: 996) lydo: Nhặt từ map at 03/11/2023 7:46 PM
+BAG:phucvipv add 939xHoa hồng đỏ (old: 938) lydo: Nhặt từ map at 03/11/2023 7:46 PM
+BAG:phucvipv add 41xNgọc Rồng 4 sao (old: 40) lydo: Nhặt từ map at 03/11/2023 7:46 PM
+BAG:phucvipv add 1361xHoa hồng vàng (old: 1360) lydo: Nhặt từ map at 03/11/2023 7:47 PM
+BAG:phucvipv add 940xHoa hồng đỏ (old: 939) lydo: Nhặt từ map at 03/11/2023 7:47 PM
+BAG:phucvipv add 1362xHoa hồng vàng (old: 1361) lydo: Nhặt từ map at 03/11/2023 7:47 PM
+BAG:phucvipv add 1363xHoa hồng vàng (old: 1362) lydo: Nhặt từ map at 03/11/2023 7:47 PM
+BAG:phucvipv add 21xĐá Titan (old: 20) lydo: Nhặt từ map at 03/11/2023 7:47 PM
+BAG:phucvipv add 13xĐá Saphia (old: 12) lydo: Nhặt từ map at 03/11/2023 7:47 PM
+BAG:phucvipv add 1364xHoa hồng vàng (old: 1363) lydo: Nhặt từ map at 03/11/2023 7:47 PM
+BAG:phucvipv add 22xĐá Titan (old: 21) lydo: Nhặt từ map at 03/11/2023 7:47 PM
+BAG:phucvipv add 78xĐá thạch anh tím (old: 77) lydo: Nhặt từ map at 03/11/2023 7:47 PM
+BAG:phucvipv add 23xĐá Titan (old: 22) lydo: Nhặt từ map at 03/11/2023 7:48 PM
+BAG:phucvipv add 998xHoa hồng xanh (old: 997) lydo: Nhặt từ map at 03/11/2023 7:48 PM
+BAG:phucvipv add 75xĐá Ruby (old: 74) lydo: Nhặt từ map at 03/11/2023 7:48 PM
+BAG:phucvipv add 999xHoa hồng xanh (old: 998) lydo: Nhặt từ map at 03/11/2023 7:48 PM
+BAG:phucvipv add 14xĐá Saphia (old: 13) lydo: Nhặt từ map at 03/11/2023 7:48 PM
+BAG:phucvipv add 1000xHoa hồng xanh (old: 999) lydo: Nhặt từ map at 03/11/2023 7:48 PM
+BAG:phucvipv add 79xĐá thạch anh tím (old: 78) lydo: Nhặt từ map at 03/11/2023 7:48 PM
+BAG:phucvipv add 1365xHoa hồng vàng (old: 1364) lydo: Nhặt từ map at 03/11/2023 7:48 PM
+BAG:phucvipv add 1366xHoa hồng vàng (old: 1365) lydo: Nhặt từ map at 03/11/2023 7:48 PM
+BAG:phucvipv add 35xNgọc Rồng 6 sao (old: 34) lydo: Nhặt từ map at 03/11/2023 7:48 PM
+BAG:phucvipv add 941xHoa hồng đỏ (old: 940) lydo: Nhặt từ map at 03/11/2023 7:48 PM
+BAG:phucvipv add 942xHoa hồng đỏ (old: 941) lydo: Nhặt từ map at 03/11/2023 7:48 PM
+BAG:phucvipv add 1001xHoa hồng xanh (old: 1000) lydo: Nhặt từ map at 03/11/2023 7:49 PM
+BAG:phucvipv add 15xĐá Saphia (old: 14) lydo: Nhặt từ map at 03/11/2023 7:49 PM
+BAG:phucvipv add 1002xHoa hồng xanh (old: 1001) lydo: Nhặt từ map at 03/11/2023 7:49 PM
+BAG:phucvipv add 1367xHoa hồng vàng (old: 1366) lydo: Nhặt từ map at 03/11/2023 7:49 PM
+BAG:phucvipv add 1368xHoa hồng vàng (old: 1367) lydo: Nhặt từ map at 03/11/2023 7:49 PM
+BAG:phucvipv add 1369xHoa hồng vàng (old: 1368) lydo: Nhặt từ map at 03/11/2023 7:49 PM
+BAG:phucvipv add 943xHoa hồng đỏ (old: 942) lydo: Nhặt từ map at 03/11/2023 7:49 PM
+BAG:phucvipv add 42xNgọc Rồng 4 sao (old: 41) lydo: Nhặt từ map at 03/11/2023 7:49 PM
+BAG:phucvipv add 76xĐá Ruby (old: 75) lydo: Nhặt từ map at 03/11/2023 7:49 PM
+BAG:phucvipv add 1003xHoa hồng xanh (old: 1002) lydo: Nhặt từ map at 03/11/2023 7:50 PM
+BAG:phucvipv add 80xĐá thạch anh tím (old: 79) lydo: Nhặt từ map at 03/11/2023 7:54 PM
+BAG:phucvipv add 1370xHoa hồng vàng (old: 1369) lydo: Nhặt từ map at 03/11/2023 7:54 PM
+BAG:phucvipv add 1371xHoa hồng vàng (old: 1370) lydo: Nhặt từ map at 03/11/2023 7:54 PM
+BAG:phucvipv add 1372xHoa hồng vàng (old: 1371) lydo: Nhặt từ map at 03/11/2023 7:54 PM
+BAG:phucvipv add 1373xHoa hồng vàng (old: 1372) lydo: Nhặt từ map at 03/11/2023 7:54 PM
+BAG:phucvipv add 1374xHoa hồng vàng (old: 1373) lydo: Nhặt từ map at 03/11/2023 7:54 PM
+BAG:phucvipv add 944xHoa hồng đỏ (old: 943) lydo: Nhặt từ map at 03/11/2023 7:55 PM
+BAG:phucvipv add 35xĐá lục bảo (old: 34) lydo: Nhặt từ map at 03/11/2023 7:55 PM
+BAG:phucvipv add 1004xHoa hồng xanh (old: 1003) lydo: Nhặt từ map at 03/11/2023 7:55 PM
+BAG:phucvipv add 945xHoa hồng đỏ (old: 944) lydo: Nhặt từ map at 03/11/2023 7:55 PM
+BAG:phucvipv add 946xHoa hồng đỏ (old: 945) lydo: Nhặt từ map at 03/11/2023 7:55 PM
+BAG:phucvipv add 16xĐá Saphia (old: 15) lydo: Nhặt từ map at 03/11/2023 7:55 PM
+BAG:phucvipv add 1375xHoa hồng vàng (old: 1374) lydo: Nhặt từ map at 03/11/2023 7:55 PM
+BAG:phucvipv add 77xĐá Ruby (old: 76) lydo: Nhặt từ map at 03/11/2023 7:55 PM
+BAG:phucvipv add 947xHoa hồng đỏ (old: 946) lydo: Nhặt từ map at 03/11/2023 7:55 PM
+BAG:phucvipv add 948xHoa hồng đỏ (old: 947) lydo: Nhặt từ map at 03/11/2023 7:55 PM
+BAG:phucvipv add 949xHoa hồng đỏ (old: 948) lydo: Nhặt từ map at 03/11/2023 7:56 PM
+BAG:phucvipv add 1376xHoa hồng vàng (old: 1375) lydo: Nhặt từ map at 03/11/2023 7:56 PM
+BAG:phucvipv add 24xĐá Titan (old: 23) lydo: Nhặt từ map at 03/11/2023 7:56 PM
+BAG:phucvipv add 950xHoa hồng đỏ (old: 949) lydo: Nhặt từ map at 03/11/2023 7:56 PM
+BAG:phucvipv add 951xHoa hồng đỏ (old: 950) lydo: Nhặt từ map at 03/11/2023 7:56 PM
+BAG:phucvipv add 1377xHoa hồng vàng (old: 1376) lydo: Nhặt từ map at 03/11/2023 7:56 PM
+BAG:phucvipv add 952xHoa hồng đỏ (old: 951) lydo: Nhặt từ map at 03/11/2023 7:56 PM
+BAG:phucvipv add 43xNgọc Rồng 4 sao (old: 42) lydo: Nhặt từ map at 03/11/2023 7:56 PM
+BAG:phucvipv add 953xHoa hồng đỏ (old: 952) lydo: Nhặt từ map at 03/11/2023 7:56 PM
+BAG:phucvipv add 1005xHoa hồng xanh (old: 1004) lydo: Nhặt từ map at 03/11/2023 7:56 PM
+BAG:phucvipv add 1006xHoa hồng xanh (old: 1005) lydo: Nhặt từ map at 03/11/2023 7:56 PM
+BAG:phucvipv add 78xĐá Ruby (old: 77) lydo: Nhặt từ map at 03/11/2023 7:56 PM
+BAG:phucvipv add 1007xHoa hồng xanh (old: 1006) lydo: Nhặt từ map at 03/11/2023 7:56 PM
+BAG:phucvipv add 25xĐá Titan (old: 24) lydo: Nhặt từ map at 03/11/2023 7:57 PM
+BAG:phucvipv add 1378xHoa hồng vàng (old: 1377) lydo: Nhặt từ map at 03/11/2023 7:57 PM
+BAG:phucvipv add 954xHoa hồng đỏ (old: 953) lydo: Nhặt từ map at 03/11/2023 7:57 PM
+BAG:phucvipv add 1008xHoa hồng xanh (old: 1007) lydo: Nhặt từ map at 03/11/2023 7:57 PM
+BAG:phucvipv add 79xĐá Ruby (old: 78) lydo: Nhặt từ map at 03/11/2023 7:57 PM
+BAG:phucvipv add 955xHoa hồng đỏ (old: 954) lydo: Nhặt từ map at 03/11/2023 7:57 PM
+BAG:phucvipv add 80xĐá Ruby (old: 79) lydo: Nhặt từ map at 03/11/2023 7:57 PM
+BAG:phucvipv add 1379xHoa hồng vàng (old: 1378) lydo: Nhặt từ map at 03/11/2023 7:57 PM
+BAG:phucvipv add 17xĐá Saphia (old: 16) lydo: Nhặt từ map at 03/11/2023 7:57 PM
+BAG:phucvipv add 36xĐá lục bảo (old: 35) lydo: Nhặt từ map at 03/11/2023 7:57 PM
+BAG:phucvipv add 956xHoa hồng đỏ (old: 955) lydo: Nhặt từ map at 03/11/2023 7:57 PM
+BAG:phucvipv add 81xĐá thạch anh tím (old: 80) lydo: Nhặt từ map at 03/11/2023 7:57 PM
+BAG:phucvipv add 957xHoa hồng đỏ (old: 956) lydo: Nhặt từ map at 03/11/2023 7:57 PM
+BAG:phucvipv add 1380xHoa hồng vàng (old: 1379) lydo: Nhặt từ map at 03/11/2023 7:57 PM
+BAG:phucvipv add 1381xHoa hồng vàng (old: 1380) lydo: Nhặt từ map at 03/11/2023 7:58 PM
+BAG:phucvipv add 958xHoa hồng đỏ (old: 957) lydo: Nhặt từ map at 03/11/2023 7:58 PM
+BAG:phucvipv add 1382xHoa hồng vàng (old: 1381) lydo: Nhặt từ map at 03/11/2023 7:58 PM
+BAG:phucvipv add 1009xHoa hồng xanh (old: 1008) lydo: Nhặt từ map at 03/11/2023 7:58 PM
+BAG:phucvipv add 37xĐá lục bảo (old: 36) lydo: Nhặt từ map at 03/11/2023 7:58 PM
+BAG:phucvipv add 38xĐá lục bảo (old: 37) lydo: Nhặt từ map at 03/11/2023 7:58 PM
+BAG:phucvipv add 1010xHoa hồng xanh (old: 1009) lydo: Nhặt từ map at 03/11/2023 7:58 PM
+BAG:phucvipv add 959xHoa hồng đỏ (old: 958) lydo: Nhặt từ map at 03/11/2023 7:58 PM
+BAG:phucvipv add 1011xHoa hồng xanh (old: 1010) lydo: Nhặt từ map at 03/11/2023 7:58 PM
+BAG:phucvipv add 82xĐá thạch anh tím (old: 81) lydo: Nhặt từ map at 03/11/2023 7:58 PM
+BAG:phucvipv add 1012xHoa hồng xanh (old: 1011) lydo: Nhặt từ map at 03/11/2023 7:58 PM
+BAG:phucvipv add 18xĐá Saphia (old: 17) lydo: Nhặt từ map at 03/11/2023 7:58 PM
+BAG:phucvipv add 1013xHoa hồng xanh (old: 1012) lydo: Nhặt từ map at 03/11/2023 7:58 PM
+BAG:phucvipv add 960xHoa hồng đỏ (old: 959) lydo: Nhặt từ map at 03/11/2023 7:58 PM
+BAG:phucvipv add 1xNgọc Rồng 1 sao lydo: (GD) Nhận từ kakalotglx at 03/11/2023 7:59 PM
+BAG:phucvipv add 1xNgọc Rồng 2 sao lydo: Nhập ngọc at 03/11/2023 7:59 PM
+BAG:phucvipv add 1xGăng Thần Linh lydo: Lấy từ body đệ vào hành trang at 03/11/2023 8:01 PM
+BAG:phucvipv add 1xNgọc Rồng 7 sao lydo: Lấy từ lucky box at 03/11/2023 8:02 PM

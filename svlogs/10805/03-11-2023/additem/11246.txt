@@ -1,0 +1,135 @@
+BAG:sonsuper add 1xGiầy nhựa lydo: Lấy từ body vào hành trang at 03/11/2023 6:34 PM
+BAG:sonsuper add 73xHoa hồng vàng (old: 72) lydo: Nhặt từ map at 03/11/2023 6:34 PM
+BAG:sonsuper add 1xRada cấp 1 lydo: Lấy từ body vào hành trang at 03/11/2023 6:34 PM
+BAG:sonsuper add 1xÁo vải 3 lỗ lydo: Lấy từ body vào hành trang at 03/11/2023 6:34 PM
+BAG:sonsuper add 1xCải Trang Thần Zeno Trái Đất lydo: Lấy từ body vào hành trang at 03/11/2023 6:35 PM
+BAG:sonsuper add 74xHoa hồng vàng (old: 73) lydo: Nhặt từ map at 03/11/2023 6:35 PM
+BAG:sonsuper add 35xHoa hồng đỏ (old: 34) lydo: Nhặt từ map at 03/11/2023 6:35 PM
+BAG:sonsuper add 1xĐá lục bảo lydo: Nhặt từ map at 03/11/2023 6:36 PM
+BAG:sonsuper add 2xĐá lục bảo (old: 1) lydo: Nhặt từ map at 03/11/2023 6:37 PM
+BAG:sonsuper add 36xHoa hồng đỏ (old: 35) lydo: Nhặt từ map at 03/11/2023 6:37 PM
+BAG:sonsuper add 1xCải Trang Thần Zeno Trái Đất lydo: Lấy từ body vào hành trang at 03/11/2023 6:39 PM
+BAG:sonsuper add 53xHoa hồng xanh (old: 52) lydo: Nhặt từ map at 03/11/2023 6:40 PM
+BAG:sonsuper add 75xHoa hồng vàng (old: 74) lydo: Nhặt từ map at 03/11/2023 6:40 PM
+BAG:sonsuper add 1xRada cấp 1 lydo: Lấy từ body vào hành trang at 03/11/2023 6:42 PM
+BAG:sonsuper add 1xCải Trang Thần Zeno Trái Đất lydo: Lấy từ body vào hành trang at 03/11/2023 6:42 PM
+BAG:sonsuper add 37xHoa hồng đỏ (old: 36) lydo: Nhặt từ map at 03/11/2023 6:45 PM
+BAG:sonsuper add 1xRada cấp 1 lydo: Lấy từ body đệ vào hành trang at 03/11/2023 6:46 PM
+BAG:sonsuper add 1xĐổi đệ tử lydo: Mua từ cửa hàng at 03/11/2023 6:47 PM
+BAG:sonsuper add 2xĐổi đệ tử (old: 1) lydo: Mua từ cửa hàng at 03/11/2023 6:47 PM
+BAG:sonsuper add 3xĐổi đệ tử (old: 2) lydo: Mua từ cửa hàng at 03/11/2023 6:47 PM
+BAG:sonsuper add 4xĐổi đệ tử (old: 3) lydo: Mua từ cửa hàng at 03/11/2023 6:47 PM
+BAG:sonsuper add 76xHoa hồng vàng (old: 75) lydo: Nhặt từ map at 03/11/2023 6:47 PM
+BAG:sonsuper add 1xCải Trang Thần Zeno Trái Đất lydo: Lấy từ body đệ vào hành trang at 03/11/2023 6:47 PM
+BAG:sonsuper add 3xĐá Titan (old: 2) lydo: Nhặt từ map at 03/11/2023 6:47 PM
+BAG:sonsuper add 1xGiầy nhựa lydo: Lấy từ body vào hành trang at 03/11/2023 6:48 PM
+BAG:sonsuper add 1xRada cấp 1 lydo: Lấy từ body vào hành trang at 03/11/2023 6:48 PM
+BAG:sonsuper add 1xRada cấp 1 lydo: Lấy từ body đệ vào hành trang at 03/11/2023 6:48 PM
+BAG:sonsuper add 1xGiầy nhựa lydo: Lấy từ body đệ vào hành trang at 03/11/2023 6:49 PM
+BAG:sonsuper add 1xCải Trang Thần Zeno Trái Đất lydo: Lấy từ body đệ vào hành trang at 03/11/2023 6:49 PM
+BAG:sonsuper add 2xĐổi đệ tử (old: 1) lydo: Mua từ cửa hàng at 03/11/2023 6:50 PM
+BAG:sonsuper add 1xĐổi đệ tử lydo: Mua từ cửa hàng at 03/11/2023 6:53 PM
+BAG:sonsuper add 2xĐổi đệ tử (old: 1) lydo: Mua từ cửa hàng at 03/11/2023 6:53 PM
+BAG:sonsuper add 3xĐổi đệ tử (old: 2) lydo: Mua từ cửa hàng at 03/11/2023 6:53 PM
+BAG:sonsuper add 1xĐổi đệ tử lydo: Mua từ cửa hàng at 03/11/2023 7:27 PM
+BAG:sonsuper add 2xĐổi đệ tử (old: 1) lydo: Mua từ cửa hàng at 03/11/2023 7:27 PM
+BAG:sonsuper add 3xĐổi đệ tử (old: 2) lydo: Mua từ cửa hàng at 03/11/2023 7:27 PM
+BAG:sonsuper add 4xĐổi đệ tử (old: 3) lydo: Mua từ cửa hàng at 03/11/2023 7:27 PM
+BAG:sonsuper add 5xĐổi đệ tử (old: 4) lydo: Mua từ cửa hàng at 03/11/2023 7:27 PM
+BAG:sonsuper add 6xĐổi đệ tử (old: 5) lydo: Mua từ cửa hàng at 03/11/2023 7:27 PM
+BAG:sonsuper add 7xĐổi đệ tử (old: 6) lydo: Mua từ cửa hàng at 03/11/2023 7:27 PM
+BAG:sonsuper add 8xĐổi đệ tử (old: 7) lydo: Mua từ cửa hàng at 03/11/2023 7:27 PM
+BAG:sonsuper add 9xĐổi đệ tử (old: 8) lydo: Mua từ cửa hàng at 03/11/2023 7:27 PM
+BAG:sonsuper add 10xĐổi đệ tử (old: 9) lydo: Mua từ cửa hàng at 03/11/2023 7:27 PM
+BAG:sonsuper add 11xĐổi đệ tử (old: 10) lydo: Mua từ cửa hàng at 03/11/2023 7:27 PM
+BAG:sonsuper add 12xĐổi đệ tử (old: 11) lydo: Mua từ cửa hàng at 03/11/2023 7:27 PM
+BAG:sonsuper add 13xĐổi đệ tử (old: 12) lydo: Mua từ cửa hàng at 03/11/2023 7:27 PM
+BAG:sonsuper add 14xĐổi đệ tử (old: 13) lydo: Mua từ cửa hàng at 03/11/2023 7:27 PM
+BAG:sonsuper add 15xĐổi đệ tử (old: 14) lydo: Mua từ cửa hàng at 03/11/2023 7:27 PM
+BAG:sonsuper add 16xĐổi đệ tử (old: 15) lydo: Mua từ cửa hàng at 03/11/2023 7:27 PM
+BAG:sonsuper add 1xĐổi đệ tử lydo: Mua từ cửa hàng at 03/11/2023 7:30 PM
+BAG:sonsuper add 2xĐổi đệ tử (old: 1) lydo: Mua từ cửa hàng at 03/11/2023 7:30 PM
+BAG:sonsuper add 3xĐổi đệ tử (old: 2) lydo: Mua từ cửa hàng at 03/11/2023 7:30 PM
+BAG:sonsuper add 4xĐổi đệ tử (old: 3) lydo: Mua từ cửa hàng at 03/11/2023 7:30 PM
+BAG:sonsuper add 5xĐổi đệ tử (old: 4) lydo: Mua từ cửa hàng at 03/11/2023 7:30 PM
+BAG:sonsuper add 6xĐổi đệ tử (old: 5) lydo: Mua từ cửa hàng at 03/11/2023 7:30 PM
+BAG:sonsuper add 7xĐổi đệ tử (old: 6) lydo: Mua từ cửa hàng at 03/11/2023 7:30 PM
+BAG:sonsuper add 8xĐổi đệ tử (old: 7) lydo: Mua từ cửa hàng at 03/11/2023 7:30 PM
+BAG:sonsuper add 9xĐổi đệ tử (old: 8) lydo: Mua từ cửa hàng at 03/11/2023 7:30 PM
+BAG:sonsuper add 10xĐổi đệ tử (old: 9) lydo: Mua từ cửa hàng at 03/11/2023 7:30 PM
+BAG:sonsuper add 11xĐổi đệ tử (old: 10) lydo: Mua từ cửa hàng at 03/11/2023 7:30 PM
+BAG:sonsuper add 12xĐổi đệ tử (old: 11) lydo: Mua từ cửa hàng at 03/11/2023 7:30 PM
+BAG:sonsuper add 13xĐổi đệ tử (old: 12) lydo: Mua từ cửa hàng at 03/11/2023 7:30 PM
+BAG:sonsuper add 14xĐổi đệ tử (old: 13) lydo: Mua từ cửa hàng at 03/11/2023 7:30 PM
+BAG:sonsuper add 15xĐổi đệ tử (old: 14) lydo: Mua từ cửa hàng at 03/11/2023 7:30 PM
+BAG:sonsuper add 16xĐổi đệ tử (old: 15) lydo: Mua từ cửa hàng at 03/11/2023 7:30 PM
+BAG:sonsuper add 17xĐổi đệ tử (old: 16) lydo: Mua từ cửa hàng at 03/11/2023 7:30 PM
+BAG:sonsuper add 18xĐổi đệ tử (old: 17) lydo: Mua từ cửa hàng at 03/11/2023 7:30 PM
+BAG:sonsuper add 19xĐổi đệ tử (old: 18) lydo: Mua từ cửa hàng at 03/11/2023 7:30 PM
+BAG:sonsuper add 20xĐổi đệ tử (old: 19) lydo: Mua từ cửa hàng at 03/11/2023 7:30 PM
+BAG:sonsuper add 1xGiầy nhựa lydo: Lấy từ body đệ vào hành trang at 03/11/2023 7:30 PM
+BAG:sonsuper add 1xGiầy nhựa lydo: Lấy từ body đệ vào hành trang at 03/11/2023 7:31 PM
+BAG:sonsuper add 1xÁo vải 3 lỗ lydo: Lấy từ body vào hành trang at 03/11/2023 7:32 PM
+BAG:sonsuper add 1xCT Genma 01 lydo: Lấy từ body vào hành trang at 03/11/2023 7:32 PM
+BAG:sonsuper add 77xHoa hồng vàng (old: 76) lydo: Nhặt từ map at 03/11/2023 7:33 PM
+BAG:sonsuper add 78xHoa hồng vàng (old: 77) lydo: Nhặt từ map at 03/11/2023 7:33 PM
+BAG:sonsuper add 1xĐá lục bảo lydo: Nhặt từ map at 03/11/2023 7:34 PM
+BAG:sonsuper add 54xHoa hồng xanh (old: 53) lydo: Nhặt từ map at 03/11/2023 7:34 PM
+BAG:sonsuper add 55xHoa hồng xanh (old: 54) lydo: Nhặt từ map at 03/11/2023 7:34 PM
+BAG:sonsuper add 38xHoa hồng đỏ (old: 37) lydo: Nhặt từ map at 03/11/2023 7:35 PM
+BAG:sonsuper add 39xHoa hồng đỏ (old: 38) lydo: Nhặt từ map at 03/11/2023 7:35 PM
+BAG:sonsuper add 56xHoa hồng xanh (old: 55) lydo: Nhặt từ map at 03/11/2023 7:35 PM
+BAG:sonsuper add 1xGiầy nhựa lydo: Nhặt từ map at 03/11/2023 7:36 PM
+BAG:sonsuper add 1xMảnh Khủng long lydo: Nhặt từ map at 03/11/2023 7:36 PM
+BAG:sonsuper add 79xHoa hồng vàng (old: 78) lydo: Nhặt từ map at 03/11/2023 7:36 PM
+BAG:sonsuper add 1xGăng vải đen lydo: Nhặt từ map at 03/11/2023 7:36 PM
+BAG:sonsuper add 1xĐá Ruby lydo: Nhặt từ map at 03/11/2023 7:36 PM
+BAG:sonsuper add 1xQuần vải đen lydo: Nhặt từ map at 03/11/2023 7:36 PM
+BAG:sonsuper add 40xHoa hồng đỏ (old: 39) lydo: Nhặt từ map at 03/11/2023 7:36 PM
+BAG:sonsuper add 1xGăng vải đen lydo: Nhặt từ map at 03/11/2023 7:36 PM
+BAG:sonsuper add 41xHoa hồng đỏ (old: 40) lydo: Nhặt từ map at 03/11/2023 7:36 PM
+BAG:sonsuper add 57xHoa hồng xanh (old: 56) lydo: Nhặt từ map at 03/11/2023 7:37 PM
+BAG:sonsuper add 42xHoa hồng đỏ (old: 41) lydo: Nhặt từ map at 03/11/2023 7:37 PM
+BAG:sonsuper add 1xQuần vải đen lydo: Lấy từ body vào hành trang at 03/11/2023 7:37 PM
+BAG:sonsuper add 1xGăng vải đen lydo: Nhặt từ map at 03/11/2023 7:38 PM
+BAG:sonsuper add 1xĐá Saphia lydo: Nhặt từ map at 03/11/2023 7:38 PM
+BAG:sonsuper add 1xRada cấp 1 lydo: Nhặt từ map at 03/11/2023 7:38 PM
+BAG:sonsuper add 1xRada cấp 1 lydo: Nhặt từ map at 03/11/2023 7:38 PM
+BAG:sonsuper add 1xRada cấp 1 lydo: Nhặt từ map at 03/11/2023 7:38 PM
+BAG:sonsuper add 11xĐá thạch anh tím (old: 10) lydo: Nhặt từ map at 03/11/2023 7:38 PM
+BAG:sonsuper add 43xHoa hồng đỏ (old: 42) lydo: Nhặt từ map at 03/11/2023 7:38 PM
+BAG:sonsuper add 2xĐá Saphia (old: 1) lydo: Nhặt từ map at 03/11/2023 7:39 PM
+BAG:sonsuper add 1xGăng vải đen lydo: Nhặt từ map at 03/11/2023 7:39 PM
+BAG:sonsuper add 1xGiầy nhựa lydo: Nhặt từ map at 03/11/2023 7:39 PM
+BAG:sonsuper add 1xGăng vải đen lydo: Nhặt từ map at 03/11/2023 7:39 PM
+BAG:sonsuper add 1xRada cấp 1 lydo: Nhặt từ map at 03/11/2023 7:39 PM
+BAG:sonsuper add 1xRada cấp 1 lydo: Nhặt từ map at 03/11/2023 7:39 PM
+BAG:sonsuper add 58xHoa hồng xanh (old: 57) lydo: Nhặt từ map at 03/11/2023 7:40 PM
+BAG:sonsuper add 44xHoa hồng đỏ (old: 43) lydo: Nhặt từ map at 03/11/2023 7:40 PM
+BAG:sonsuper add 80xHoa hồng vàng (old: 79) lydo: Nhặt từ map at 03/11/2023 7:40 PM
+BAG:sonsuper add 81xHoa hồng vàng (old: 80) lydo: Nhặt từ map at 03/11/2023 7:40 PM
+BAG:sonsuper add 1xGăng vải đen lydo: Nhặt từ map at 03/11/2023 7:40 PM
+BAG:sonsuper add 1xGăng vải đen lydo: Nhặt từ map at 03/11/2023 7:40 PM
+BAG:sonsuper add 1xMảnh Khủng long lydo: Nhặt từ map at 03/11/2023 7:40 PM
+BAG:sonsuper add 1xGiầy nhựa lydo: Nhặt từ map at 03/11/2023 7:40 PM
+BAG:sonsuper add 59xHoa hồng xanh (old: 58) lydo: Nhặt từ map at 03/11/2023 7:40 PM
+BAG:sonsuper add 82xHoa hồng vàng (old: 81) lydo: Nhặt từ map at 03/11/2023 7:41 PM
+BAG:sonsuper add 12xĐá thạch anh tím (old: 11) lydo: Nhặt từ map at 03/11/2023 7:41 PM
+BAG:sonsuper add 60xHoa hồng xanh (old: 59) lydo: Nhặt từ map at 03/11/2023 7:41 PM
+BAG:sonsuper add 1xGiầy nhựa lydo: Nhặt từ map at 03/11/2023 7:41 PM
+BAG:sonsuper add 61xHoa hồng xanh (old: 60) lydo: Nhặt từ map at 03/11/2023 7:41 PM
+BAG:sonsuper add 1xRada cấp 1 lydo: Nhặt từ map at 03/11/2023 7:41 PM
+BAG:sonsuper add 1xRada cấp 1 lydo: Nhặt từ map at 03/11/2023 7:41 PM
+BAG:sonsuper add 45xHoa hồng đỏ (old: 44) lydo: Nhặt từ map at 03/11/2023 7:41 PM
+BAG:sonsuper add 83xHoa hồng vàng (old: 82) lydo: Nhặt từ map at 03/11/2023 7:42 PM
+BAG:sonsuper add 62xHoa hồng xanh (old: 61) lydo: Nhặt từ map at 03/11/2023 7:42 PM
+BAG:sonsuper add 1xQuần vải đen lydo: Nhặt từ map at 03/11/2023 7:42 PM
+BAG:sonsuper add 1xĐá Titan lydo: Nhặt từ map at 03/11/2023 7:42 PM
+BAG:sonsuper add 1xGiầy nhựa lydo: Nhặt từ map at 03/11/2023 7:42 PM
+BAG:sonsuper add 1xQuần vải đen lydo: Nhặt từ map at 03/11/2023 7:42 PM
+BAG:sonsuper add 1xNgọc Rồng 5 sao lydo: Nhặt từ map at 03/11/2023 7:42 PM
+BAG:sonsuper add 84xHoa hồng vàng (old: 83) lydo: Nhặt từ map at 03/11/2023 7:42 PM
+BAG:sonsuper add 1xGăng vải đen lydo: Nhặt từ map at 03/11/2023 7:42 PM
+BAG:sonsuper add 85xHoa hồng vàng (old: 84) lydo: Nhặt từ map at 03/11/2023 7:42 PM
+BAG:sonsuper add 13xĐá thạch anh tím (old: 12) lydo: Nhặt từ map at 03/11/2023 7:42 PM
+BAG:sonsuper add 63xHoa hồng xanh (old: 62) lydo: Nhặt từ map at 03/11/2023 7:42 PM

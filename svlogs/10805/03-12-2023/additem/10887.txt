@@ -1,0 +1,668 @@
+BAG:bohohohoh add 49xĐậu thần cấp 10 (old: 29) lydo: Lấy từ rương qua người at 03/12/2023 5:53 AM
+BAG:bohohohoh add 51xĐậu thần cấp 10 (old: 48) lydo: Lấy từ rương qua người at 03/12/2023 5:53 AM
+BAG:bohohohoh add 1xGiáp tập luyện cấp 2 lydo: Mua từ cửa hàng at 03/12/2023 5:57 AM
+BAG:bohohohoh add 1xGiáp tập luyện cấp 1 lydo: Mua từ cửa hàng at 03/12/2023 5:57 AM
+BAG:bohohohoh add 1xGiáp tập luyện cấp 1 lydo: Mua từ cửa hàng at 03/12/2023 5:57 AM
+BAG:bohohohoh add 1xGiáp tập luyện cấp 1 lydo: Mua từ cửa hàng at 03/12/2023 5:57 AM
+BAG:bohohohoh add 1xGiáp tập luyện cấp 1 lydo: Mua từ cửa hàng at 03/12/2023 5:57 AM
+BAG:bohohohoh add 1xQuần vải mềm Pico lydo: Mua từ cửa hàng at 03/12/2023 5:59 AM
+BAG:bohohohoh add 1xÁo da Pico lydo: Mua từ cửa hàng at 03/12/2023 5:59 AM
+BAG:bohohohoh add 1xGiày sắt Pico lydo: Mua từ cửa hàng at 03/12/2023 5:59 AM
+BAG:bohohohoh add 1xRada cấp 8 lydo: Mua từ cửa hàng at 03/12/2023 5:59 AM
+BAG:bohohohoh add 1xRada cấp 2 lydo: Mua từ cửa hàng at 03/12/2023 6:00 AM
+BAG:bohohohoh add 1xÁo choàng len lydo: Mua từ cửa hàng at 03/12/2023 6:01 AM
+BAG:bohohohoh add 1xÁo sợi gai lydo: Mua từ cửa hàng at 03/12/2023 6:01 AM
+BAG:bohohohoh add 1xGăng sợi len lydo: Mua từ cửa hàng at 03/12/2023 6:03 AM
+BAG:bohohohoh add 1xGiáp tập luyện cấp 1 lydo: Lấy từ rương qua người at 03/12/2023 6:05 AM
+BAG:bohohohoh add 1xGiáp tập luyện cấp 2 lydo: Lấy từ rương qua người at 03/12/2023 6:05 AM
+BAG:bohohohoh add 1xGiáp tập luyện cấp 1 lydo: Lấy từ rương qua người at 03/12/2023 6:05 AM
+BAG:bohohohoh add 1xQuần vải mềm Pico lydo: Lấy từ rương qua người at 03/12/2023 6:05 AM
+BAG:bohohohoh add 1xGiáp tập luyện cấp 1 lydo: Lấy từ rương qua người at 03/12/2023 6:05 AM
+BAG:bohohohoh add 1xÁo da Pico lydo: Lấy từ rương qua người at 03/12/2023 6:06 AM
+BAG:bohohohoh add 1xGiày sắt Pico lydo: Lấy từ rương qua người at 03/12/2023 6:06 AM
+BAG:bohohohoh add 1xRada cấp 8 lydo: Lấy từ rương qua người at 03/12/2023 6:06 AM
+BAG:bohohohoh add 1xÁo choàng len lydo: Lấy từ rương qua người at 03/12/2023 6:06 AM
+BAG:bohohohoh add 1xÁo sợi gai lydo: Lấy từ rương qua người at 03/12/2023 6:06 AM
+BAG:bohohohoh add 1xRada cấp 1 lydo: Lấy từ rương qua người at 03/12/2023 6:06 AM
+BAG:bohohohoh add 190xHoa hồng xanh (old: 189) lydo: Nhặt từ map at 03/12/2023 6:11 AM
+BAG:bohohohoh add 210xHoa hồng đỏ (old: 209) lydo: Nhặt từ map at 03/12/2023 6:11 AM
+BAG:bohohohoh add 256xHoa hồng vàng (old: 255) lydo: Nhặt từ map at 03/12/2023 6:12 AM
+BAG:bohohohoh add 191xHoa hồng xanh (old: 190) lydo: Nhặt từ map at 03/12/2023 6:14 AM
+BAG:bohohohoh add 257xHoa hồng vàng (old: 256) lydo: Nhặt từ map at 03/12/2023 6:14 AM
+BAG:bohohohoh add 1xRada cấp 1 lydo: Nhặt từ map at 03/12/2023 6:14 AM
+BAG:bohohohoh add 192xHoa hồng xanh (old: 191) lydo: Nhặt từ map at 03/12/2023 6:14 AM
+BAG:bohohohoh add 258xHoa hồng vàng (old: 257) lydo: Nhặt từ map at 03/12/2023 6:14 AM
+BAG:bohohohoh add 193xHoa hồng xanh (old: 192) lydo: Nhặt từ map at 03/12/2023 6:14 AM
+BAG:bohohohoh add 259xHoa hồng vàng (old: 258) lydo: Nhặt từ map at 03/12/2023 6:15 AM
+BAG:bohohohoh add 260xHoa hồng vàng (old: 259) lydo: Nhặt từ map at 03/12/2023 6:18 AM
+BAG:bohohohoh add 50xĐá lục bảo (old: 49) lydo: Nhặt từ map at 03/12/2023 6:19 AM
+BAG:bohohohoh add 1xZenitsu lydo: Lấy từ body vào hành trang at 03/12/2023 6:20 AM
+BAG:bohohohoh add 51xĐá lục bảo (old: 50) lydo: Nhặt từ map at 03/12/2023 6:20 AM
+BAG:bohohohoh add 211xHoa hồng đỏ (old: 210) lydo: Nhặt từ map at 03/12/2023 6:20 AM
+BAG:bohohohoh add 212xHoa hồng đỏ (old: 211) lydo: Nhặt từ map at 03/12/2023 6:20 AM
+BAG:bohohohoh add 194xHoa hồng xanh (old: 193) lydo: Nhặt từ map at 03/12/2023 6:20 AM
+BAG:bohohohoh add 52xĐá Ruby (old: 51) lydo: Nhặt từ map at 03/12/2023 6:22 AM
+BAG:bohohohoh add 52xĐá lục bảo (old: 51) lydo: Nhặt từ map at 03/12/2023 6:23 AM
+BAG:bohohohoh add 1xZenitsu lydo: Lấy từ body vào hành trang at 03/12/2023 6:24 AM
+BAG:bohohohoh add 25xNgọc Rồng 3 sao lydo: Lấy từ rương qua người at 03/12/2023 6:24 AM
+BAG:bohohohoh add 213xHoa hồng đỏ (old: 212) lydo: Nhặt từ map at 03/12/2023 6:26 AM
+BAG:bohohohoh add 10xĐậu thần cấp 10 lydo: Thu hoạch đậu at 03/12/2023 9:14 AM
+BAG:bohohohoh add 19xĐậu thần cấp 10 (old: 10) lydo: Lấy từ rương qua người at 03/12/2023 9:14 AM
+BAG:bohohohoh add 39xĐậu thần cấp 10 (old: 19) lydo: Lấy từ rương qua người at 03/12/2023 9:15 AM
+BAG:bohohohoh add 42xĐậu thần cấp 10 (old: 39) lydo: Lấy từ rương qua người at 03/12/2023 9:15 AM
+BAG:bohohohoh add 261xHoa hồng vàng (old: 260) lydo: Nhặt từ map at 03/12/2023 9:15 AM
+BAG:bohohohoh add 195xHoa hồng xanh (old: 194) lydo: Nhặt từ map at 03/12/2023 9:15 AM
+BAG:bohohohoh add 48xĐá thạch anh tím (old: 47) lydo: Nhặt từ map at 03/12/2023 9:15 AM
+BAG:bohohohoh add 196xHoa hồng xanh (old: 195) lydo: Nhặt từ map at 03/12/2023 9:15 AM
+BAG:bohohohoh add 41xĐá Titan (old: 40) lydo: Nhặt từ map at 03/12/2023 9:15 AM
+BAG:bohohohoh add 27xĐá Saphia (old: 26) lydo: Nhặt từ map at 03/12/2023 9:15 AM
+BAG:bohohohoh add 214xHoa hồng đỏ (old: 213) lydo: Nhặt từ map at 03/12/2023 9:15 AM
+BAG:bohohohoh add 49xĐá thạch anh tím (old: 48) lydo: Nhặt từ map at 03/12/2023 9:15 AM
+BAG:bohohohoh add 215xHoa hồng đỏ (old: 214) lydo: Nhặt từ map at 03/12/2023 9:15 AM
+BAG:bohohohoh add 216xHoa hồng đỏ (old: 215) lydo: Nhặt từ map at 03/12/2023 9:15 AM
+BAG:bohohohoh add 262xHoa hồng vàng (old: 261) lydo: Nhặt từ map at 03/12/2023 9:15 AM
+BAG:bohohohoh add 197xHoa hồng xanh (old: 196) lydo: Nhặt từ map at 03/12/2023 9:15 AM
+BAG:bohohohoh add 198xHoa hồng xanh (old: 197) lydo: Nhặt từ map at 03/12/2023 9:15 AM
+BAG:bohohohoh add 217xHoa hồng đỏ (old: 216) lydo: Nhặt từ map at 03/12/2023 9:16 AM
+BAG:bohohohoh add 199xHoa hồng xanh (old: 198) lydo: Nhặt từ map at 03/12/2023 9:16 AM
+BAG:bohohohoh add 218xHoa hồng đỏ (old: 217) lydo: Nhặt từ map at 03/12/2023 9:16 AM
+BAG:bohohohoh add 219xHoa hồng đỏ (old: 218) lydo: Nhặt từ map at 03/12/2023 9:16 AM
+BAG:bohohohoh add 263xHoa hồng vàng (old: 262) lydo: Nhặt từ map at 03/12/2023 9:16 AM
+BAG:bohohohoh add 200xHoa hồng xanh (old: 199) lydo: Nhặt từ map at 03/12/2023 9:16 AM
+BAG:bohohohoh add 28xĐá Saphia (old: 27) lydo: Nhặt từ map at 03/12/2023 9:16 AM
+BAG:bohohohoh add 264xHoa hồng vàng (old: 263) lydo: Nhặt từ map at 03/12/2023 9:16 AM
+BAG:bohohohoh add 53xĐá lục bảo (old: 52) lydo: Nhặt từ map at 03/12/2023 9:16 AM
+BAG:bohohohoh add 53xĐá Ruby (old: 52) lydo: Nhặt từ map at 03/12/2023 9:16 AM
+BAG:bohohohoh add 54xĐá Ruby (old: 53) lydo: Nhặt từ map at 03/12/2023 9:16 AM
+BAG:bohohohoh add 220xHoa hồng đỏ (old: 219) lydo: Nhặt từ map at 03/12/2023 9:16 AM
+BAG:bohohohoh add 265xHoa hồng vàng (old: 264) lydo: Nhặt từ map at 03/12/2023 9:16 AM
+BAG:bohohohoh add 221xHoa hồng đỏ (old: 220) lydo: Nhặt từ map at 03/12/2023 9:16 AM
+BAG:bohohohoh add 201xHoa hồng xanh (old: 200) lydo: Nhặt từ map at 03/12/2023 9:17 AM
+BAG:bohohohoh add 29xĐá Saphia (old: 28) lydo: Nhặt từ map at 03/12/2023 9:17 AM
+BAG:bohohohoh add 202xHoa hồng xanh (old: 201) lydo: Nhặt từ map at 03/12/2023 9:17 AM
+BAG:bohohohoh add 222xHoa hồng đỏ (old: 221) lydo: Nhặt từ map at 03/12/2023 9:17 AM
+BAG:bohohohoh add 223xHoa hồng đỏ (old: 222) lydo: Nhặt từ map at 03/12/2023 9:17 AM
+BAG:bohohohoh add 203xHoa hồng xanh (old: 202) lydo: Nhặt từ map at 03/12/2023 9:17 AM
+BAG:bohohohoh add 204xHoa hồng xanh (old: 203) lydo: Nhặt từ map at 03/12/2023 9:17 AM
+BAG:bohohohoh add 54xĐá lục bảo (old: 53) lydo: Nhặt từ map at 03/12/2023 9:17 AM
+BAG:bohohohoh add 224xHoa hồng đỏ (old: 223) lydo: Nhặt từ map at 03/12/2023 9:17 AM
+BAG:bohohohoh add 266xHoa hồng vàng (old: 265) lydo: Nhặt từ map at 03/12/2023 9:17 AM
+BAG:bohohohoh add 205xHoa hồng xanh (old: 204) lydo: Nhặt từ map at 03/12/2023 9:17 AM
+BAG:bohohohoh add 206xHoa hồng xanh (old: 205) lydo: Nhặt từ map at 03/12/2023 9:18 AM
+BAG:bohohohoh add 207xHoa hồng xanh (old: 206) lydo: Nhặt từ map at 03/12/2023 9:18 AM
+BAG:bohohohoh add 225xHoa hồng đỏ (old: 224) lydo: Nhặt từ map at 03/12/2023 9:18 AM
+BAG:bohohohoh add 208xHoa hồng xanh (old: 207) lydo: Nhặt từ map at 03/12/2023 9:18 AM
+BAG:bohohohoh add 50xĐá thạch anh tím (old: 49) lydo: Nhặt từ map at 03/12/2023 9:18 AM
+BAG:bohohohoh add 267xHoa hồng vàng (old: 266) lydo: Nhặt từ map at 03/12/2023 9:18 AM
+BAG:bohohohoh add 51xĐá thạch anh tím (old: 50) lydo: Nhặt từ map at 03/12/2023 9:18 AM
+BAG:bohohohoh add 209xHoa hồng xanh (old: 208) lydo: Nhặt từ map at 03/12/2023 9:18 AM
+BAG:bohohohoh add 226xHoa hồng đỏ (old: 225) lydo: Nhặt từ map at 03/12/2023 9:18 AM
+BAG:bohohohoh add 210xHoa hồng xanh (old: 209) lydo: Nhặt từ map at 03/12/2023 9:18 AM
+BAG:bohohohoh add 268xHoa hồng vàng (old: 267) lydo: Nhặt từ map at 03/12/2023 9:18 AM
+BAG:bohohohoh add 269xHoa hồng vàng (old: 268) lydo: Nhặt từ map at 03/12/2023 9:19 AM
+BAG:bohohohoh add 211xHoa hồng xanh (old: 210) lydo: Nhặt từ map at 03/12/2023 9:19 AM
+BAG:bohohohoh add 270xHoa hồng vàng (old: 269) lydo: Nhặt từ map at 03/12/2023 9:19 AM
+BAG:bohohohoh add 212xHoa hồng xanh (old: 211) lydo: Nhặt từ map at 03/12/2023 9:19 AM
+BAG:bohohohoh add 213xHoa hồng xanh (old: 212) lydo: Nhặt từ map at 03/12/2023 9:19 AM
+BAG:bohohohoh add 227xHoa hồng đỏ (old: 226) lydo: Nhặt từ map at 03/12/2023 9:19 AM
+BAG:bohohohoh add 228xHoa hồng đỏ (old: 227) lydo: Nhặt từ map at 03/12/2023 9:19 AM
+BAG:bohohohoh add 271xHoa hồng vàng (old: 270) lydo: Nhặt từ map at 03/12/2023 9:19 AM
+BAG:bohohohoh add 42xĐá Titan (old: 41) lydo: Nhặt từ map at 03/12/2023 9:20 AM
+BAG:bohohohoh add 55xĐá Ruby (old: 54) lydo: Nhặt từ map at 03/12/2023 9:20 AM
+BAG:bohohohoh add 272xHoa hồng vàng (old: 271) lydo: Nhặt từ map at 03/12/2023 9:20 AM
+BAG:bohohohoh add 229xHoa hồng đỏ (old: 228) lydo: Nhặt từ map at 03/12/2023 9:20 AM
+BAG:bohohohoh add 230xHoa hồng đỏ (old: 229) lydo: Nhặt từ map at 03/12/2023 9:20 AM
+BAG:bohohohoh add 214xHoa hồng xanh (old: 213) lydo: Nhặt từ map at 03/12/2023 9:20 AM
+BAG:bohohohoh add 52xĐá thạch anh tím (old: 51) lydo: Nhặt từ map at 03/12/2023 9:20 AM
+BAG:bohohohoh add 215xHoa hồng xanh (old: 214) lydo: Nhặt từ map at 03/12/2023 9:20 AM
+BAG:bohohohoh add 273xHoa hồng vàng (old: 272) lydo: Nhặt từ map at 03/12/2023 9:20 AM
+BAG:bohohohoh add 43xĐá Titan (old: 42) lydo: Nhặt từ map at 03/12/2023 9:20 AM
+BAG:bohohohoh add 216xHoa hồng xanh (old: 215) lydo: Nhặt từ map at 03/12/2023 9:20 AM
+BAG:bohohohoh add 274xHoa hồng vàng (old: 273) lydo: Nhặt từ map at 03/12/2023 9:21 AM
+BAG:bohohohoh add 275xHoa hồng vàng (old: 274) lydo: Nhặt từ map at 03/12/2023 9:21 AM
+BAG:bohohohoh add 44xĐá Titan (old: 43) lydo: Nhặt từ map at 03/12/2023 9:22 AM
+BAG:bohohohoh add 55xĐá lục bảo (old: 54) lydo: Nhặt từ map at 03/12/2023 9:22 AM
+BAG:bohohohoh add 53xĐá thạch anh tím (old: 52) lydo: Nhặt từ map at 03/12/2023 9:22 AM
+BAG:bohohohoh add 276xHoa hồng vàng (old: 275) lydo: Nhặt từ map at 03/12/2023 9:22 AM
+BAG:bohohohoh add 277xHoa hồng vàng (old: 276) lydo: Nhặt từ map at 03/12/2023 9:24 AM
+BAG:bohohohoh add 231xHoa hồng đỏ (old: 230) lydo: Nhặt từ map at 03/12/2023 9:24 AM
+BAG:bohohohoh add 232xHoa hồng đỏ (old: 231) lydo: Nhặt từ map at 03/12/2023 9:24 AM
+BAG:bohohohoh add 278xHoa hồng vàng (old: 277) lydo: Nhặt từ map at 03/12/2023 9:24 AM
+BAG:bohohohoh add 217xHoa hồng xanh (old: 216) lydo: Nhặt từ map at 03/12/2023 9:24 AM
+BAG:bohohohoh add 54xĐá thạch anh tím (old: 53) lydo: Nhặt từ map at 03/12/2023 9:24 AM
+BAG:bohohohoh add 279xHoa hồng vàng (old: 278) lydo: Nhặt từ map at 03/12/2023 9:24 AM
+BAG:bohohohoh add 280xHoa hồng vàng (old: 279) lydo: Nhặt từ map at 03/12/2023 9:24 AM
+BAG:bohohohoh add 218xHoa hồng xanh (old: 217) lydo: Nhặt từ map at 03/12/2023 9:24 AM
+BAG:bohohohoh add 233xHoa hồng đỏ (old: 232) lydo: Nhặt từ map at 03/12/2023 9:25 AM
+BAG:bohohohoh add 30xĐá Saphia (old: 29) lydo: Nhặt từ map at 03/12/2023 9:25 AM
+BAG:bohohohoh add 219xHoa hồng xanh (old: 218) lydo: Nhặt từ map at 03/12/2023 9:25 AM
+BAG:bohohohoh add 234xHoa hồng đỏ (old: 233) lydo: Nhặt từ map at 03/12/2023 9:25 AM
+BAG:bohohohoh add 220xHoa hồng xanh (old: 219) lydo: Nhặt từ map at 03/12/2023 9:25 AM
+BAG:bohohohoh add 56xĐá lục bảo (old: 55) lydo: Nhặt từ map at 03/12/2023 9:25 AM
+BAG:bohohohoh add 281xHoa hồng vàng (old: 280) lydo: Nhặt từ map at 03/12/2023 9:25 AM
+BAG:bohohohoh add 282xHoa hồng vàng (old: 281) lydo: Nhặt từ map at 03/12/2023 9:25 AM
+BAG:bohohohoh add 235xHoa hồng đỏ (old: 234) lydo: Nhặt từ map at 03/12/2023 9:26 AM
+BAG:bohohohoh add 57xĐá lục bảo (old: 56) lydo: Nhặt từ map at 03/12/2023 9:26 AM
+BAG:bohohohoh add 283xHoa hồng vàng (old: 282) lydo: Nhặt từ map at 03/12/2023 9:26 AM
+BAG:bohohohoh add 221xHoa hồng xanh (old: 220) lydo: Nhặt từ map at 03/12/2023 9:26 AM
+BAG:bohohohoh add 236xHoa hồng đỏ (old: 235) lydo: Nhặt từ map at 03/12/2023 9:26 AM
+BAG:bohohohoh add 237xHoa hồng đỏ (old: 236) lydo: Nhặt từ map at 03/12/2023 9:28 AM
+BAG:bohohohoh add 284xHoa hồng vàng (old: 283) lydo: Nhặt từ map at 03/12/2023 9:28 AM
+BAG:bohohohoh add 285xHoa hồng vàng (old: 284) lydo: Nhặt từ map at 03/12/2023 9:28 AM
+BAG:bohohohoh add 286xHoa hồng vàng (old: 285) lydo: Nhặt từ map at 03/12/2023 9:28 AM
+BAG:bohohohoh add 238xHoa hồng đỏ (old: 237) lydo: Nhặt từ map at 03/12/2023 9:29 AM
+BAG:bohohohoh add 222xHoa hồng xanh (old: 221) lydo: Nhặt từ map at 03/12/2023 9:29 AM
+BAG:bohohohoh add 223xHoa hồng xanh (old: 222) lydo: Nhặt từ map at 03/12/2023 9:29 AM
+BAG:bohohohoh add 31xĐá Saphia (old: 30) lydo: Nhặt từ map at 03/12/2023 9:29 AM
+BAG:bohohohoh add 239xHoa hồng đỏ (old: 238) lydo: Nhặt từ map at 03/12/2023 9:29 AM
+BAG:bohohohoh add 58xĐá lục bảo (old: 57) lydo: Nhặt từ map at 03/12/2023 9:29 AM
+BAG:bohohohoh add 287xHoa hồng vàng (old: 286) lydo: Nhặt từ map at 03/12/2023 9:29 AM
+BAG:bohohohoh add 224xHoa hồng xanh (old: 223) lydo: Nhặt từ map at 03/12/2023 9:29 AM
+BAG:bohohohoh add 240xHoa hồng đỏ (old: 239) lydo: Nhặt từ map at 03/12/2023 9:29 AM
+BAG:bohohohoh add 225xHoa hồng xanh (old: 224) lydo: Nhặt từ map at 03/12/2023 9:29 AM
+BAG:bohohohoh add 226xHoa hồng xanh (old: 225) lydo: Nhặt từ map at 03/12/2023 9:29 AM
+BAG:bohohohoh add 227xHoa hồng xanh (old: 226) lydo: Nhặt từ map at 03/12/2023 9:30 AM
+BAG:bohohohoh add 56xĐá Ruby (old: 55) lydo: Nhặt từ map at 03/12/2023 9:30 AM
+BAG:bohohohoh add 228xHoa hồng xanh (old: 227) lydo: Nhặt từ map at 03/12/2023 9:31 AM
+BAG:bohohohoh add 1xNgọc Rồng 4 sao lydo: Nhặt từ map at 03/12/2023 9:36 AM
+BAG:bohohohoh add 241xHoa hồng đỏ (old: 240) lydo: Nhặt từ map at 03/12/2023 9:36 AM
+BAG:bohohohoh add 288xHoa hồng vàng (old: 287) lydo: Nhặt từ map at 03/12/2023 9:36 AM
+BAG:bohohohoh add 242xHoa hồng đỏ (old: 241) lydo: Nhặt từ map at 03/12/2023 9:36 AM
+BAG:bohohohoh add 243xHoa hồng đỏ (old: 242) lydo: Nhặt từ map at 03/12/2023 9:37 AM
+BAG:bohohohoh add 289xHoa hồng vàng (old: 288) lydo: Nhặt từ map at 03/12/2023 9:37 AM
+BAG:bohohohoh add 290xHoa hồng vàng (old: 289) lydo: Nhặt từ map at 03/12/2023 9:37 AM
+BAG:bohohohoh add 291xHoa hồng vàng (old: 290) lydo: Nhặt từ map at 03/12/2023 9:37 AM
+BAG:bohohohoh add 229xHoa hồng xanh (old: 228) lydo: Nhặt từ map at 03/12/2023 9:37 AM
+BAG:bohohohoh add 292xHoa hồng vàng (old: 291) lydo: Nhặt từ map at 03/12/2023 9:37 AM
+BAG:bohohohoh add 293xHoa hồng vàng (old: 292) lydo: Nhặt từ map at 03/12/2023 9:38 AM
+BAG:bohohohoh add 230xHoa hồng xanh (old: 229) lydo: Nhặt từ map at 03/12/2023 9:38 AM
+BAG:bohohohoh add 294xHoa hồng vàng (old: 293) lydo: Nhặt từ map at 03/12/2023 9:38 AM
+BAG:bohohohoh add 244xHoa hồng đỏ (old: 243) lydo: Nhặt từ map at 03/12/2023 9:39 AM
+BAG:bohohohoh add 231xHoa hồng xanh (old: 230) lydo: Nhặt từ map at 03/12/2023 9:40 AM
+BAG:bohohohoh add 295xHoa hồng vàng (old: 294) lydo: Nhặt từ map at 03/12/2023 9:41 AM
+BAG:bohohohoh add 232xHoa hồng xanh (old: 231) lydo: Nhặt từ map at 03/12/2023 9:41 AM
+BAG:bohohohoh add 233xHoa hồng xanh (old: 232) lydo: Nhặt từ map at 03/12/2023 9:42 AM
+BAG:bohohohoh add 245xHoa hồng đỏ (old: 244) lydo: Nhặt từ map at 03/12/2023 9:42 AM
+BAG:bohohohoh add 2xNgọc Rồng 4 sao (old: 1) lydo: Nhặt từ map at 03/12/2023 9:42 AM
+BAG:bohohohoh add 57xĐá Ruby (old: 56) lydo: Nhặt từ map at 03/12/2023 9:42 AM
+BAG:bohohohoh add 45xĐá Titan (old: 44) lydo: Nhặt từ map at 03/12/2023 9:42 AM
+BAG:bohohohoh add 234xHoa hồng xanh (old: 233) lydo: Nhặt từ map at 03/12/2023 9:43 AM
+BAG:bohohohoh add 296xHoa hồng vàng (old: 295) lydo: Nhặt từ map at 03/12/2023 9:43 AM
+BAG:bohohohoh add 297xHoa hồng vàng (old: 296) lydo: Nhặt từ map at 03/12/2023 9:43 AM
+BAG:bohohohoh add 55xĐá thạch anh tím (old: 54) lydo: Nhặt từ map at 03/12/2023 9:43 AM
+BAG:bohohohoh add 246xHoa hồng đỏ (old: 245) lydo: Nhặt từ map at 03/12/2023 9:43 AM
+BAG:bohohohoh add 235xHoa hồng xanh (old: 234) lydo: Nhặt từ map at 03/12/2023 9:43 AM
+BAG:bohohohoh add 1xSách Liên hoàn lv1 lydo: Mua từ cửa hàng at 03/12/2023 9:44 AM
+BAG:bohohohoh add 1xSách Liên hoàn lv2 lydo: Mua từ cửa hàng at 03/12/2023 9:45 AM
+BAG:bohohohoh add 1xSách Liên hoàn lv3 lydo: Mua từ cửa hàng at 03/12/2023 9:45 AM
+BAG:bohohohoh add 1xSách Liên hoàn lv4 lydo: Mua từ cửa hàng at 03/12/2023 9:45 AM
+BAG:bohohohoh add 1xSách Liên hoàn lv5 lydo: Mua từ cửa hàng at 03/12/2023 9:45 AM
+BAG:bohohohoh add 1xSách Liên hoàn lv6 lydo: Mua từ cửa hàng at 03/12/2023 9:45 AM
+BAG:bohohohoh add 1xSách Liên hoàn lv7 lydo: Mua từ cửa hàng at 03/12/2023 9:46 AM
+BAG:bohohohoh add 1xKhiên năng lượng lv1 lydo: Mua từ cửa hàng at 03/12/2023 9:46 AM
+BAG:bohohohoh add 1xKhiên năng lượng lv2 lydo: Mua từ cửa hàng at 03/12/2023 9:46 AM
+BAG:bohohohoh add 1xKhiên năng lượng lv3 lydo: Mua từ cửa hàng at 03/12/2023 9:46 AM
+BAG:bohohohoh add 1xKhiên năng lượng lv5 lydo: Mua từ cửa hàng at 03/12/2023 9:46 AM
+BAG:bohohohoh add 1xKhiên năng lượng lv6 lydo: Mua từ cửa hàng at 03/12/2023 9:46 AM
+BAG:bohohohoh add 1xKhiên năng lượng lv7 lydo: Mua từ cửa hàng at 03/12/2023 9:46 AM
+BAG:bohohohoh add 1xKhiên năng lượng lv4 lydo: Mua từ cửa hàng at 03/12/2023 9:47 AM
+BAG:bohohohoh add 247xHoa hồng đỏ (old: 246) lydo: Nhặt từ map at 03/12/2023 9:49 AM
+BAG:bohohohoh add 56xĐá thạch anh tím (old: 55) lydo: Nhặt từ map at 03/12/2023 9:49 AM
+BAG:bohohohoh add 248xHoa hồng đỏ (old: 247) lydo: Nhặt từ map at 03/12/2023 9:49 AM
+BAG:bohohohoh add 3xNgọc Rồng 4 sao (old: 2) lydo: Nhặt từ map at 03/12/2023 9:49 AM
+BAG:bohohohoh add 1xHoa hồng vàng lydo: Nhặt từ map at 03/12/2023 9:49 AM
+BAG:bohohohoh add 2xHoa hồng vàng (old: 1) lydo: Nhặt từ map at 03/12/2023 9:49 AM
+BAG:bohohohoh add 249xHoa hồng đỏ (old: 248) lydo: Nhặt từ map at 03/12/2023 9:50 AM
+BAG:bohohohoh add 236xHoa hồng xanh (old: 235) lydo: Nhặt từ map at 03/12/2023 9:50 AM
+BAG:bohohohoh add 3xHoa hồng vàng (old: 2) lydo: Nhặt từ map at 03/12/2023 9:50 AM
+BAG:bohohohoh add 4xHoa hồng vàng (old: 3) lydo: Nhặt từ map at 03/12/2023 9:50 AM
+BAG:bohohohoh add 250xHoa hồng đỏ (old: 249) lydo: Nhặt từ map at 03/12/2023 9:50 AM
+BAG:bohohohoh add 5xHoa hồng vàng (old: 4) lydo: Nhặt từ map at 03/12/2023 9:50 AM
+BAG:bohohohoh add 237xHoa hồng xanh (old: 236) lydo: Nhặt từ map at 03/12/2023 9:50 AM
+BAG:bohohohoh add 6xHoa hồng vàng (old: 5) lydo: Nhặt từ map at 03/12/2023 9:50 AM
+BAG:bohohohoh add 251xHoa hồng đỏ (old: 250) lydo: Nhặt từ map at 03/12/2023 9:51 AM
+BAG:bohohohoh add 58xĐá Ruby (old: 57) lydo: Nhặt từ map at 03/12/2023 9:51 AM
+BAG:bohohohoh add 7xNgọc Rồng 6 sao (old: 6) lydo: Nhặt từ map at 03/12/2023 9:51 AM
+BAG:bohohohoh add 238xHoa hồng xanh (old: 237) lydo: Nhặt từ map at 03/12/2023 9:51 AM
+BAG:bohohohoh add 252xHoa hồng đỏ (old: 251) lydo: Nhặt từ map at 03/12/2023 9:51 AM
+BAG:bohohohoh add 7xHoa hồng vàng (old: 6) lydo: Nhặt từ map at 03/12/2023 9:51 AM
+BAG:bohohohoh add 59xĐá lục bảo (old: 58) lydo: Nhặt từ map at 03/12/2023 9:51 AM
+BAG:bohohohoh add 57xĐá thạch anh tím (old: 56) lydo: Nhặt từ map at 03/12/2023 9:51 AM
+BAG:bohohohoh add 58xĐá thạch anh tím (old: 57) lydo: Nhặt từ map at 03/12/2023 9:51 AM
+BAG:bohohohoh add 239xHoa hồng xanh (old: 238) lydo: Nhặt từ map at 03/12/2023 9:52 AM
+BAG:bohohohoh add 253xHoa hồng đỏ (old: 252) lydo: Nhặt từ map at 03/12/2023 9:52 AM
+BAG:bohohohoh add 240xHoa hồng xanh (old: 239) lydo: Nhặt từ map at 03/12/2023 9:52 AM
+BAG:bohohohoh add 254xHoa hồng đỏ (old: 253) lydo: Nhặt từ map at 03/12/2023 9:52 AM
+BAG:bohohohoh add 8xHoa hồng vàng (old: 7) lydo: Nhặt từ map at 03/12/2023 9:52 AM
+BAG:bohohohoh add 241xHoa hồng xanh (old: 240) lydo: Nhặt từ map at 03/12/2023 9:52 AM
+BAG:bohohohoh add 9xHoa hồng vàng (old: 8) lydo: Nhặt từ map at 03/12/2023 9:53 AM
+BAG:bohohohoh add 242xHoa hồng xanh (old: 241) lydo: Nhặt từ map at 03/12/2023 9:53 AM
+BAG:bohohohoh add 59xĐá thạch anh tím (old: 58) lydo: Nhặt từ map at 03/12/2023 9:53 AM
+BAG:bohohohoh add 243xHoa hồng xanh (old: 242) lydo: Nhặt từ map at 03/12/2023 9:53 AM
+BAG:bohohohoh add 244xHoa hồng xanh (old: 243) lydo: Nhặt từ map at 03/12/2023 9:53 AM
+BAG:bohohohoh add 10xHoa hồng vàng (old: 9) lydo: Nhặt từ map at 03/12/2023 9:53 AM
+BAG:bohohohoh add 11xHoa hồng vàng (old: 10) lydo: Nhặt từ map at 03/12/2023 9:53 AM
+BAG:bohohohoh add 12xHoa hồng vàng (old: 11) lydo: Nhặt từ map at 03/12/2023 9:54 AM
+BAG:bohohohoh add 13xHoa hồng vàng (old: 12) lydo: Nhặt từ map at 03/12/2023 9:54 AM
+BAG:bohohohoh add 4xNgọc Rồng 4 sao (old: 3) lydo: Nhặt từ map at 03/12/2023 9:54 AM
+BAG:bohohohoh add 245xHoa hồng xanh (old: 244) lydo: Nhặt từ map at 03/12/2023 9:54 AM
+BAG:bohohohoh add 255xHoa hồng đỏ (old: 254) lydo: Nhặt từ map at 03/12/2023 9:54 AM
+BAG:bohohohoh add 5xNgọc Rồng 4 sao (old: 4) lydo: Nhặt từ map at 03/12/2023 9:55 AM
+BAG:bohohohoh add 14xHoa hồng vàng (old: 13) lydo: Nhặt từ map at 03/12/2023 9:55 AM
+BAG:bohohohoh add 256xHoa hồng đỏ (old: 255) lydo: Nhặt từ map at 03/12/2023 9:56 AM
+BAG:bohohohoh add 15xHoa hồng vàng (old: 14) lydo: Nhặt từ map at 03/12/2023 9:56 AM
+BAG:bohohohoh add 257xHoa hồng đỏ (old: 256) lydo: Nhặt từ map at 03/12/2023 9:56 AM
+BAG:bohohohoh add 16xHoa hồng vàng (old: 15) lydo: Nhặt từ map at 03/12/2023 9:56 AM
+BAG:bohohohoh add 6xNgọc Rồng 4 sao (old: 5) lydo: Nhặt từ map at 03/12/2023 9:56 AM
+BAG:bohohohoh add 17xHoa hồng vàng (old: 16) lydo: Nhặt từ map at 03/12/2023 9:56 AM
+BAG:bohohohoh add 258xHoa hồng đỏ (old: 257) lydo: Nhặt từ map at 03/12/2023 9:56 AM
+BAG:bohohohoh add 246xHoa hồng xanh (old: 245) lydo: Nhặt từ map at 03/12/2023 9:56 AM
+BAG:bohohohoh add 259xHoa hồng đỏ (old: 258) lydo: Nhặt từ map at 03/12/2023 9:57 AM
+BAG:bohohohoh add 247xHoa hồng xanh (old: 246) lydo: Nhặt từ map at 03/12/2023 9:57 AM
+BAG:bohohohoh add 60xĐá lục bảo (old: 59) lydo: Nhặt từ map at 03/12/2023 9:58 AM
+BAG:bohohohoh add 7xNgọc Rồng 4 sao (old: 6) lydo: Nhặt từ map at 03/12/2023 9:58 AM
+BAG:bohohohoh add 248xHoa hồng xanh (old: 247) lydo: Nhặt từ map at 03/12/2023 9:58 AM
+BAG:bohohohoh add 18xHoa hồng vàng (old: 17) lydo: Nhặt từ map at 03/12/2023 9:58 AM
+BAG:bohohohoh add 249xHoa hồng xanh (old: 248) lydo: Nhặt từ map at 03/12/2023 9:58 AM
+BAG:bohohohoh add 59xĐá Ruby (old: 58) lydo: Nhặt từ map at 03/12/2023 9:59 AM
+BAG:bohohohoh add 260xHoa hồng đỏ (old: 259) lydo: Nhặt từ map at 03/12/2023 9:59 AM
+BAG:bohohohoh add 19xHoa hồng vàng (old: 18) lydo: Nhặt từ map at 03/12/2023 9:59 AM
+BAG:bohohohoh add 61xĐá lục bảo (old: 60) lydo: Nhặt từ map at 03/12/2023 9:59 AM
+BAG:bohohohoh add 250xHoa hồng xanh (old: 249) lydo: Nhặt từ map at 03/12/2023 9:59 AM
+BAG:bohohohoh add 251xHoa hồng xanh (old: 250) lydo: Nhặt từ map at 03/12/2023 9:59 AM
+BAG:bohohohoh add 60xĐá thạch anh tím (old: 59) lydo: Nhặt từ map at 03/12/2023 9:59 AM
+BAG:bohohohoh add 20xHoa hồng vàng (old: 19) lydo: Nhặt từ map at 03/12/2023 10:00 AM
+BAG:bohohohoh add 261xHoa hồng đỏ (old: 260) lydo: Nhặt từ map at 03/12/2023 10:00 AM
+BAG:bohohohoh add 252xHoa hồng xanh (old: 251) lydo: Nhặt từ map at 03/12/2023 10:00 AM
+BAG:bohohohoh add 253xHoa hồng xanh (old: 252) lydo: Nhặt từ map at 03/12/2023 10:00 AM
+BAG:bohohohoh add 254xHoa hồng xanh (old: 253) lydo: Nhặt từ map at 03/12/2023 10:00 AM
+BAG:bohohohoh add 21xHoa hồng vàng (old: 20) lydo: Nhặt từ map at 03/12/2023 10:00 AM
+BAG:bohohohoh add 262xHoa hồng đỏ (old: 261) lydo: Nhặt từ map at 03/12/2023 10:00 AM
+BAG:bohohohoh add 255xHoa hồng xanh (old: 254) lydo: Nhặt từ map at 03/12/2023 10:00 AM
+BAG:bohohohoh add 256xHoa hồng xanh (old: 255) lydo: Nhặt từ map at 03/12/2023 10:01 AM
+BAG:bohohohoh add 263xHoa hồng đỏ (old: 262) lydo: Nhặt từ map at 03/12/2023 10:01 AM
+BAG:bohohohoh add 257xHoa hồng xanh (old: 256) lydo: Nhặt từ map at 03/12/2023 10:01 AM
+BAG:bohohohoh add 61xĐá thạch anh tím (old: 60) lydo: Nhặt từ map at 03/12/2023 10:01 AM
+BAG:bohohohoh add 22xHoa hồng vàng (old: 21) lydo: Nhặt từ map at 03/12/2023 10:01 AM
+BAG:bohohohoh add 258xHoa hồng xanh (old: 257) lydo: Nhặt từ map at 03/12/2023 10:01 AM
+BAG:bohohohoh add 23xHoa hồng vàng (old: 22) lydo: Nhặt từ map at 03/12/2023 10:01 AM
+BAG:bohohohoh add 62xĐá thạch anh tím (old: 61) lydo: Nhặt từ map at 03/12/2023 10:01 AM
+BAG:bohohohoh add 24xHoa hồng vàng (old: 23) lydo: Nhặt từ map at 03/12/2023 10:02 AM
+BAG:bohohohoh add 8xNgọc Rồng 4 sao (old: 7) lydo: Nhặt từ map at 03/12/2023 1:33 PM
+BAG:bohohohoh add 25xHoa hồng vàng (old: 24) lydo: Nhặt từ map at 03/12/2023 1:33 PM
+BAG:bohohohoh add 259xHoa hồng xanh (old: 258) lydo: Nhặt từ map at 03/12/2023 1:33 PM
+BAG:bohohohoh add 26xHoa hồng vàng (old: 25) lydo: Nhặt từ map at 03/12/2023 1:33 PM
+BAG:bohohohoh add 260xHoa hồng xanh (old: 259) lydo: Nhặt từ map at 03/12/2023 1:34 PM
+BAG:bohohohoh add 9xNgọc Rồng 4 sao (old: 8) lydo: Nhặt từ map at 03/12/2023 1:34 PM
+BAG:bohohohoh add 264xHoa hồng đỏ (old: 263) lydo: Nhặt từ map at 03/12/2023 1:34 PM
+BAG:bohohohoh add 27xHoa hồng vàng (old: 26) lydo: Nhặt từ map at 03/12/2023 1:34 PM
+BAG:bohohohoh add 28xHoa hồng vàng (old: 27) lydo: Nhặt từ map at 03/12/2023 1:34 PM
+BAG:bohohohoh add 8xNgọc Rồng 6 sao (old: 7) lydo: Nhặt từ map at 03/12/2023 1:34 PM
+BAG:bohohohoh add 265xHoa hồng đỏ (old: 264) lydo: Nhặt từ map at 03/12/2023 1:34 PM
+BAG:bohohohoh add 10xNgọc Rồng 4 sao (old: 9) lydo: Nhặt từ map at 03/12/2023 1:35 PM
+BAG:bohohohoh add 266xHoa hồng đỏ (old: 265) lydo: Nhặt từ map at 03/12/2023 1:35 PM
+BAG:bohohohoh add 46xĐá Titan (old: 45) lydo: Nhặt từ map at 03/12/2023 1:35 PM
+BAG:bohohohoh add 261xHoa hồng xanh (old: 260) lydo: Nhặt từ map at 03/12/2023 1:35 PM
+BAG:bohohohoh add 262xHoa hồng xanh (old: 261) lydo: Nhặt từ map at 03/12/2023 1:35 PM
+BAG:bohohohoh add 29xHoa hồng vàng (old: 28) lydo: Nhặt từ map at 03/12/2023 1:35 PM
+BAG:bohohohoh add 63xĐá thạch anh tím (old: 62) lydo: Nhặt từ map at 03/12/2023 1:35 PM
+BAG:bohohohoh add 263xHoa hồng xanh (old: 262) lydo: Nhặt từ map at 03/12/2023 1:35 PM
+BAG:bohohohoh add 30xHoa hồng vàng (old: 29) lydo: Nhặt từ map at 03/12/2023 1:35 PM
+BAG:bohohohoh add 267xHoa hồng đỏ (old: 266) lydo: Nhặt từ map at 03/12/2023 1:35 PM
+BAG:bohohohoh add 268xHoa hồng đỏ (old: 267) lydo: Nhặt từ map at 03/12/2023 1:35 PM
+BAG:bohohohoh add 264xHoa hồng xanh (old: 263) lydo: Nhặt từ map at 03/12/2023 1:35 PM
+BAG:bohohohoh add 31xHoa hồng vàng (old: 30) lydo: Nhặt từ map at 03/12/2023 1:36 PM
+BAG:bohohohoh add 60xĐá Ruby (old: 59) lydo: Nhặt từ map at 03/12/2023 1:36 PM
+BAG:bohohohoh add 32xĐá Saphia (old: 31) lydo: Nhặt từ map at 03/12/2023 1:36 PM
+BAG:bohohohoh add 61xĐá Ruby (old: 60) lydo: Nhặt từ map at 03/12/2023 1:36 PM
+BAG:bohohohoh add 265xHoa hồng xanh (old: 264) lydo: Nhặt từ map at 03/12/2023 1:36 PM
+BAG:bohohohoh add 269xHoa hồng đỏ (old: 268) lydo: Nhặt từ map at 03/12/2023 1:36 PM
+BAG:bohohohoh add 266xHoa hồng xanh (old: 265) lydo: Nhặt từ map at 03/12/2023 1:36 PM
+BAG:bohohohoh add 5xNgọc Rồng 5 sao (old: 4) lydo: Nhặt từ map at 03/12/2023 1:36 PM
+BAG:bohohohoh add 64xĐá thạch anh tím (old: 63) lydo: Nhặt từ map at 03/12/2023 1:36 PM
+BAG:bohohohoh add 9xNgọc Rồng 6 sao (old: 8) lydo: Nhặt từ map at 03/12/2023 1:37 PM
+BAG:bohohohoh add 270xHoa hồng đỏ (old: 269) lydo: Nhặt từ map at 03/12/2023 1:37 PM
+BAG:bohohohoh add 267xHoa hồng xanh (old: 266) lydo: Nhặt từ map at 03/12/2023 1:37 PM
+BAG:bohohohoh add 65xĐá thạch anh tím (old: 64) lydo: Nhặt từ map at 03/12/2023 1:37 PM
+BAG:bohohohoh add 32xHoa hồng vàng (old: 31) lydo: Nhặt từ map at 03/12/2023 1:37 PM
+BAG:bohohohoh add 33xHoa hồng vàng (old: 32) lydo: Nhặt từ map at 03/12/2023 1:37 PM
+BAG:bohohohoh add 271xHoa hồng đỏ (old: 270) lydo: Nhặt từ map at 03/12/2023 1:37 PM
+BAG:bohohohoh add 34xHoa hồng vàng (old: 33) lydo: Nhặt từ map at 03/12/2023 1:37 PM
+BAG:bohohohoh add 35xHoa hồng vàng (old: 34) lydo: Nhặt từ map at 03/12/2023 1:37 PM
+BAG:bohohohoh add 62xĐá Ruby (old: 61) lydo: Nhặt từ map at 03/12/2023 1:37 PM
+BAG:bohohohoh add 272xHoa hồng đỏ (old: 271) lydo: Nhặt từ map at 03/12/2023 1:37 PM
+BAG:bohohohoh add 273xHoa hồng đỏ (old: 272) lydo: Nhặt từ map at 03/12/2023 1:38 PM
+BAG:bohohohoh add 268xHoa hồng xanh (old: 267) lydo: Nhặt từ map at 03/12/2023 1:38 PM
+BAG:bohohohoh add 33xĐá Saphia (old: 32) lydo: Nhặt từ map at 03/12/2023 1:38 PM
+BAG:bohohohoh add 11xNgọc Rồng 4 sao (old: 10) lydo: Nhặt từ map at 03/12/2023 1:38 PM
+BAG:bohohohoh add 12xNgọc Rồng 4 sao (old: 11) lydo: Nhặt từ map at 03/12/2023 1:38 PM
+BAG:bohohohoh add 274xHoa hồng đỏ (old: 273) lydo: Nhặt từ map at 03/12/2023 1:38 PM
+BAG:bohohohoh add 36xHoa hồng vàng (old: 35) lydo: Nhặt từ map at 03/12/2023 1:38 PM
+BAG:bohohohoh add 37xHoa hồng vàng (old: 36) lydo: Nhặt từ map at 03/12/2023 1:39 PM
+BAG:bohohohoh add 47xĐá Titan (old: 46) lydo: Nhặt từ map at 03/12/2023 1:39 PM
+BAG:bohohohoh add 66xĐá thạch anh tím (old: 65) lydo: Nhặt từ map at 03/12/2023 1:39 PM
+BAG:bohohohoh add 38xHoa hồng vàng (old: 37) lydo: Nhặt từ map at 03/12/2023 1:39 PM
+BAG:bohohohoh add 275xHoa hồng đỏ (old: 274) lydo: Nhặt từ map at 03/12/2023 1:39 PM
+BAG:bohohohoh add 269xHoa hồng xanh (old: 268) lydo: Nhặt từ map at 03/12/2023 1:39 PM
+BAG:bohohohoh add 39xHoa hồng vàng (old: 38) lydo: Nhặt từ map at 03/12/2023 1:39 PM
+BAG:bohohohoh add 276xHoa hồng đỏ (old: 275) lydo: Nhặt từ map at 03/12/2023 1:39 PM
+BAG:bohohohoh add 277xHoa hồng đỏ (old: 276) lydo: Nhặt từ map at 03/12/2023 1:39 PM
+BAG:bohohohoh add 270xHoa hồng xanh (old: 269) lydo: Nhặt từ map at 03/12/2023 1:39 PM
+BAG:bohohohoh add 278xHoa hồng đỏ (old: 277) lydo: Nhặt từ map at 03/12/2023 1:40 PM
+BAG:bohohohoh add 34xĐá Saphia (old: 33) lydo: Nhặt từ map at 03/12/2023 1:40 PM
+BAG:bohohohoh add 13xNgọc Rồng 4 sao (old: 12) lydo: Nhặt từ map at 03/12/2023 1:40 PM
+BAG:bohohohoh add 35xĐá Saphia (old: 34) lydo: Nhặt từ map at 03/12/2023 1:40 PM
+BAG:bohohohoh add 279xHoa hồng đỏ (old: 278) lydo: Nhặt từ map at 03/12/2023 1:40 PM
+BAG:bohohohoh add 271xHoa hồng xanh (old: 270) lydo: Nhặt từ map at 03/12/2023 1:40 PM
+BAG:bohohohoh add 40xHoa hồng vàng (old: 39) lydo: Nhặt từ map at 03/12/2023 1:40 PM
+BAG:bohohohoh add 41xHoa hồng vàng (old: 40) lydo: Nhặt từ map at 03/12/2023 1:40 PM
+BAG:bohohohoh add 280xHoa hồng đỏ (old: 279) lydo: Nhặt từ map at 03/12/2023 1:40 PM
+BAG:bohohohoh add 272xHoa hồng xanh (old: 271) lydo: Nhặt từ map at 03/12/2023 1:40 PM
+BAG:bohohohoh add 281xHoa hồng đỏ (old: 280) lydo: Nhặt từ map at 03/12/2023 1:40 PM
+BAG:bohohohoh add 42xHoa hồng vàng (old: 41) lydo: Nhặt từ map at 03/12/2023 1:41 PM
+BAG:bohohohoh add 43xHoa hồng vàng (old: 42) lydo: Nhặt từ map at 03/12/2023 1:41 PM
+BAG:bohohohoh add 273xHoa hồng xanh (old: 272) lydo: Nhặt từ map at 03/12/2023 1:41 PM
+BAG:bohohohoh add 14xNgọc Rồng 4 sao (old: 13) lydo: Nhặt từ map at 03/12/2023 1:41 PM
+BAG:bohohohoh add 44xHoa hồng vàng (old: 43) lydo: Nhặt từ map at 03/12/2023 1:41 PM
+BAG:bohohohoh add 274xHoa hồng xanh (old: 273) lydo: Nhặt từ map at 03/12/2023 1:42 PM
+BAG:bohohohoh add 282xHoa hồng đỏ (old: 281) lydo: Nhặt từ map at 03/12/2023 1:42 PM
+BAG:bohohohoh add 45xHoa hồng vàng (old: 44) lydo: Nhặt từ map at 03/12/2023 1:42 PM
+BAG:bohohohoh add 283xHoa hồng đỏ (old: 282) lydo: Nhặt từ map at 03/12/2023 1:42 PM
+BAG:bohohohoh add 275xHoa hồng xanh (old: 274) lydo: Nhặt từ map at 03/12/2023 1:42 PM
+BAG:bohohohoh add 284xHoa hồng đỏ (old: 283) lydo: Nhặt từ map at 03/12/2023 1:42 PM
+BAG:bohohohoh add 10xNgọc Rồng 6 sao (old: 9) lydo: Nhặt từ map at 03/12/2023 1:43 PM
+BAG:bohohohoh add 63xĐá Ruby (old: 62) lydo: Nhặt từ map at 03/12/2023 1:43 PM
+BAG:bohohohoh add 285xHoa hồng đỏ (old: 284) lydo: Nhặt từ map at 03/12/2023 1:43 PM
+BAG:bohohohoh add 46xHoa hồng vàng (old: 45) lydo: Nhặt từ map at 03/12/2023 1:43 PM
+BAG:bohohohoh add 47xHoa hồng vàng (old: 46) lydo: Nhặt từ map at 03/12/2023 1:43 PM
+BAG:bohohohoh add 286xHoa hồng đỏ (old: 285) lydo: Nhặt từ map at 03/12/2023 1:43 PM
+BAG:bohohohoh add 287xHoa hồng đỏ (old: 286) lydo: Nhặt từ map at 03/12/2023 1:43 PM
+BAG:bohohohoh add 276xHoa hồng xanh (old: 275) lydo: Nhặt từ map at 03/12/2023 1:43 PM
+BAG:bohohohoh add 67xĐá thạch anh tím (old: 66) lydo: Nhặt từ map at 03/12/2023 1:44 PM
+BAG:bohohohoh add 277xHoa hồng xanh (old: 276) lydo: Nhặt từ map at 03/12/2023 1:44 PM
+BAG:bohohohoh add 48xHoa hồng vàng (old: 47) lydo: Nhặt từ map at 03/12/2023 1:44 PM
+BAG:bohohohoh add 49xHoa hồng vàng (old: 48) lydo: Nhặt từ map at 03/12/2023 1:44 PM
+BAG:bohohohoh add 278xHoa hồng xanh (old: 277) lydo: Nhặt từ map at 03/12/2023 1:44 PM
+BAG:bohohohoh add 50xHoa hồng vàng (old: 49) lydo: Nhặt từ map at 03/12/2023 1:44 PM
+BAG:bohohohoh add 62xĐá lục bảo (old: 61) lydo: Nhặt từ map at 03/12/2023 1:44 PM
+BAG:bohohohoh add 63xĐá lục bảo (old: 62) lydo: Nhặt từ map at 03/12/2023 1:44 PM
+BAG:bohohohoh add 279xHoa hồng xanh (old: 278) lydo: Nhặt từ map at 03/12/2023 1:44 PM
+BAG:bohohohoh add 48xĐá Titan (old: 47) lydo: Nhặt từ map at 03/12/2023 1:45 PM
+BAG:bohohohoh add 51xHoa hồng vàng (old: 50) lydo: Nhặt từ map at 03/12/2023 1:45 PM
+BAG:bohohohoh add 52xHoa hồng vàng (old: 51) lydo: Nhặt từ map at 03/12/2023 1:46 PM
+BAG:bohohohoh add 288xHoa hồng đỏ (old: 287) lydo: Nhặt từ map at 03/12/2023 1:46 PM
+BAG:bohohohoh add 15xNgọc Rồng 4 sao (old: 14) lydo: Nhặt từ map at 03/12/2023 1:46 PM
+BAG:bohohohoh add 53xHoa hồng vàng (old: 52) lydo: Nhặt từ map at 03/12/2023 1:46 PM
+BAG:bohohohoh add 289xHoa hồng đỏ (old: 288) lydo: Nhặt từ map at 03/12/2023 1:46 PM
+BAG:bohohohoh add 290xHoa hồng đỏ (old: 289) lydo: Nhặt từ map at 03/12/2023 1:47 PM
+BAG:bohohohoh add 36xĐá Saphia (old: 35) lydo: Nhặt từ map at 03/12/2023 1:47 PM
+BAG:bohohohoh add 54xHoa hồng vàng (old: 53) lydo: Nhặt từ map at 03/12/2023 1:47 PM
+BAG:bohohohoh add 280xHoa hồng xanh (old: 279) lydo: Nhặt từ map at 03/12/2023 1:47 PM
+BAG:bohohohoh add 16xNgọc Rồng 4 sao (old: 15) lydo: Nhặt từ map at 03/12/2023 1:48 PM
+BAG:bohohohoh add 291xHoa hồng đỏ (old: 290) lydo: Nhặt từ map at 03/12/2023 1:48 PM
+BAG:bohohohoh add 281xHoa hồng xanh (old: 280) lydo: Nhặt từ map at 03/12/2023 1:48 PM
+BAG:bohohohoh add 292xHoa hồng đỏ (old: 291) lydo: Nhặt từ map at 03/12/2023 1:48 PM
+BAG:bohohohoh add 55xHoa hồng vàng (old: 54) lydo: Nhặt từ map at 03/12/2023 1:48 PM
+BAG:bohohohoh add 56xHoa hồng vàng (old: 55) lydo: Nhặt từ map at 03/12/2023 1:48 PM
+BAG:bohohohoh add 293xHoa hồng đỏ (old: 292) lydo: Nhặt từ map at 03/12/2023 1:48 PM
+BAG:bohohohoh add 282xHoa hồng xanh (old: 281) lydo: Nhặt từ map at 03/12/2023 1:49 PM
+BAG:bohohohoh add 294xHoa hồng đỏ (old: 293) lydo: Nhặt từ map at 03/12/2023 1:49 PM
+BAG:bohohohoh add 57xHoa hồng vàng (old: 56) lydo: Nhặt từ map at 03/12/2023 1:49 PM
+BAG:bohohohoh add 295xHoa hồng đỏ (old: 294) lydo: Nhặt từ map at 03/12/2023 1:49 PM
+BAG:bohohohoh add 296xHoa hồng đỏ (old: 295) lydo: Nhặt từ map at 03/12/2023 1:49 PM
+BAG:bohohohoh add 58xHoa hồng vàng (old: 57) lydo: Nhặt từ map at 03/12/2023 1:50 PM
+BAG:bohohohoh add 37xĐá Saphia (old: 36) lydo: Nhặt từ map at 03/12/2023 1:50 PM
+BAG:bohohohoh add 283xHoa hồng xanh (old: 282) lydo: Nhặt từ map at 03/12/2023 1:50 PM
+BAG:bohohohoh add 284xHoa hồng xanh (old: 283) lydo: Nhặt từ map at 03/12/2023 1:50 PM
+BAG:bohohohoh add 285xHoa hồng xanh (old: 284) lydo: Nhặt từ map at 03/12/2023 1:50 PM
+BAG:bohohohoh add 297xHoa hồng đỏ (old: 296) lydo: Nhặt từ map at 03/12/2023 1:50 PM
+BAG:bohohohoh add 64xĐá Ruby (old: 63) lydo: Nhặt từ map at 03/12/2023 1:50 PM
+BAG:bohohohoh add 49xĐá Titan (old: 48) lydo: Nhặt từ map at 03/12/2023 1:50 PM
+BAG:bohohohoh add 59xHoa hồng vàng (old: 58) lydo: Nhặt từ map at 03/12/2023 1:50 PM
+BAG:bohohohoh add 298xHoa hồng đỏ (old: 297) lydo: Nhặt từ map at 03/12/2023 1:51 PM
+BAG:bohohohoh add 60xHoa hồng vàng (old: 59) lydo: Nhặt từ map at 03/12/2023 1:51 PM
+BAG:bohohohoh add 50xĐá Titan (old: 49) lydo: Nhặt từ map at 03/12/2023 1:51 PM
+BAG:bohohohoh add 65xĐá Ruby (old: 64) lydo: Nhặt từ map at 03/12/2023 1:51 PM
+BAG:bohohohoh add 61xHoa hồng vàng (old: 60) lydo: Nhặt từ map at 03/12/2023 1:51 PM
+BAG:bohohohoh add 299xHoa hồng đỏ (old: 298) lydo: Nhặt từ map at 03/12/2023 1:51 PM
+BAG:bohohohoh add 62xHoa hồng vàng (old: 61) lydo: Nhặt từ map at 03/12/2023 1:51 PM
+BAG:bohohohoh add 286xHoa hồng xanh (old: 285) lydo: Nhặt từ map at 03/12/2023 1:51 PM
+BAG:bohohohoh add 6xNgọc Rồng 5 sao (old: 5) lydo: Nhặt từ map at 03/12/2023 1:51 PM
+BAG:bohohohoh add 287xHoa hồng xanh (old: 286) lydo: Nhặt từ map at 03/12/2023 1:51 PM
+BAG:bohohohoh add 63xHoa hồng vàng (old: 62) lydo: Nhặt từ map at 03/12/2023 1:51 PM
+BAG:bohohohoh add 64xHoa hồng vàng (old: 63) lydo: Nhặt từ map at 03/12/2023 1:51 PM
+BAG:bohohohoh add 300xHoa hồng đỏ (old: 299) lydo: Nhặt từ map at 03/12/2023 1:52 PM
+BAG:bohohohoh add 65xHoa hồng vàng (old: 64) lydo: Nhặt từ map at 03/12/2023 1:52 PM
+BAG:bohohohoh add 301xHoa hồng đỏ (old: 300) lydo: Nhặt từ map at 03/12/2023 1:52 PM
+BAG:bohohohoh add 288xHoa hồng xanh (old: 287) lydo: Nhặt từ map at 03/12/2023 1:52 PM
+BAG:bohohohoh add 66xHoa hồng vàng (old: 65) lydo: Nhặt từ map at 03/12/2023 1:52 PM
+BAG:bohohohoh add 302xHoa hồng đỏ (old: 301) lydo: Nhặt từ map at 03/12/2023 1:52 PM
+BAG:bohohohoh add 17xNgọc Rồng 4 sao (old: 16) lydo: Nhặt từ map at 03/12/2023 1:52 PM
+BAG:bohohohoh add 303xHoa hồng đỏ (old: 302) lydo: Nhặt từ map at 03/12/2023 1:52 PM
+BAG:bohohohoh add 38xĐá Saphia (old: 37) lydo: Nhặt từ map at 03/12/2023 1:53 PM
+BAG:bohohohoh add 11xNgọc Rồng 6 sao (old: 10) lydo: Nhặt từ map at 03/12/2023 1:53 PM
+BAG:bohohohoh add 51xĐá Titan (old: 50) lydo: Nhặt từ map at 03/12/2023 1:53 PM
+BAG:bohohohoh add 289xHoa hồng xanh (old: 288) lydo: Nhặt từ map at 03/12/2023 1:53 PM
+BAG:bohohohoh add 7xNgọc Rồng 5 sao (old: 6) lydo: Nhặt từ map at 03/12/2023 1:53 PM
+BAG:bohohohoh add 39xĐá Saphia (old: 38) lydo: Nhặt từ map at 03/12/2023 1:53 PM
+BAG:bohohohoh add 67xHoa hồng vàng (old: 66) lydo: Nhặt từ map at 03/12/2023 1:53 PM
+BAG:bohohohoh add 304xHoa hồng đỏ (old: 303) lydo: Nhặt từ map at 03/12/2023 1:54 PM
+BAG:bohohohoh add 305xHoa hồng đỏ (old: 304) lydo: Nhặt từ map at 03/12/2023 1:54 PM
+BAG:bohohohoh add 306xHoa hồng đỏ (old: 305) lydo: Nhặt từ map at 03/12/2023 1:54 PM
+BAG:bohohohoh add 290xHoa hồng xanh (old: 289) lydo: Nhặt từ map at 03/12/2023 1:54 PM
+BAG:bohohohoh add 291xHoa hồng xanh (old: 290) lydo: Nhặt từ map at 03/12/2023 1:54 PM
+BAG:bohohohoh add 68xHoa hồng vàng (old: 67) lydo: Nhặt từ map at 03/12/2023 1:55 PM
+BAG:bohohohoh add 64xĐá lục bảo (old: 63) lydo: Nhặt từ map at 03/12/2023 1:55 PM
+BAG:bohohohoh add 292xHoa hồng xanh (old: 291) lydo: Nhặt từ map at 03/12/2023 1:55 PM
+BAG:bohohohoh add 69xHoa hồng vàng (old: 68) lydo: Nhặt từ map at 03/12/2023 1:55 PM
+BAG:bohohohoh add 70xHoa hồng vàng (old: 69) lydo: Nhặt từ map at 03/12/2023 1:55 PM
+BAG:bohohohoh add 307xHoa hồng đỏ (old: 306) lydo: Nhặt từ map at 03/12/2023 1:55 PM
+BAG:bohohohoh add 65xĐá lục bảo (old: 64) lydo: Nhặt từ map at 03/12/2023 1:55 PM
+BAG:bohohohoh add 71xHoa hồng vàng (old: 70) lydo: Nhặt từ map at 03/12/2023 1:55 PM
+BAG:bohohohoh add 72xHoa hồng vàng (old: 71) lydo: Nhặt từ map at 03/12/2023 1:55 PM
+BAG:bohohohoh add 308xHoa hồng đỏ (old: 307) lydo: Nhặt từ map at 03/12/2023 1:55 PM
+BAG:bohohohoh add 73xHoa hồng vàng (old: 72) lydo: Nhặt từ map at 03/12/2023 1:56 PM
+BAG:bohohohoh add 309xHoa hồng đỏ (old: 308) lydo: Nhặt từ map at 03/12/2023 1:56 PM
+BAG:bohohohoh add 68xĐá thạch anh tím (old: 67) lydo: Nhặt từ map at 03/12/2023 1:56 PM
+BAG:bohohohoh add 18xNgọc Rồng 4 sao (old: 17) lydo: Nhặt từ map at 03/12/2023 1:56 PM
+BAG:bohohohoh add 74xHoa hồng vàng (old: 73) lydo: Nhặt từ map at 03/12/2023 1:56 PM
+BAG:bohohohoh add 75xHoa hồng vàng (old: 74) lydo: Nhặt từ map at 03/12/2023 1:56 PM
+BAG:bohohohoh add 40xĐá Saphia (old: 39) lydo: Nhặt từ map at 03/12/2023 1:56 PM
+BAG:bohohohoh add 66xĐá lục bảo (old: 65) lydo: Nhặt từ map at 03/12/2023 1:57 PM
+BAG:bohohohoh add 12xNgọc Rồng 6 sao (old: 11) lydo: Nhặt từ map at 03/12/2023 1:57 PM
+BAG:bohohohoh add 310xHoa hồng đỏ (old: 309) lydo: Nhặt từ map at 03/12/2023 1:57 PM
+BAG:bohohohoh add 76xHoa hồng vàng (old: 75) lydo: Nhặt từ map at 03/12/2023 1:57 PM
+BAG:bohohohoh add 77xHoa hồng vàng (old: 76) lydo: Nhặt từ map at 03/12/2023 1:57 PM
+BAG:bohohohoh add 293xHoa hồng xanh (old: 292) lydo: Nhặt từ map at 03/12/2023 1:57 PM
+BAG:bohohohoh add 311xHoa hồng đỏ (old: 310) lydo: Nhặt từ map at 03/12/2023 1:57 PM
+BAG:bohohohoh add 69xĐá thạch anh tím (old: 68) lydo: Nhặt từ map at 03/12/2023 1:57 PM
+BAG:bohohohoh add 78xHoa hồng vàng (old: 77) lydo: Nhặt từ map at 03/12/2023 1:57 PM
+BAG:bohohohoh add 312xHoa hồng đỏ (old: 311) lydo: Nhặt từ map at 03/12/2023 1:57 PM
+BAG:bohohohoh add 79xHoa hồng vàng (old: 78) lydo: Nhặt từ map at 03/12/2023 1:58 PM
+BAG:bohohohoh add 41xĐá Saphia (old: 40) lydo: Nhặt từ map at 03/12/2023 1:58 PM
+BAG:bohohohoh add 294xHoa hồng xanh (old: 293) lydo: Nhặt từ map at 03/12/2023 1:58 PM
+BAG:bohohohoh add 313xHoa hồng đỏ (old: 312) lydo: Nhặt từ map at 03/12/2023 1:58 PM
+BAG:bohohohoh add 295xHoa hồng xanh (old: 294) lydo: Nhặt từ map at 03/12/2023 1:58 PM
+BAG:bohohohoh add 314xHoa hồng đỏ (old: 313) lydo: Nhặt từ map at 03/12/2023 1:59 PM
+BAG:bohohohoh add 315xHoa hồng đỏ (old: 314) lydo: Nhặt từ map at 03/12/2023 1:59 PM
+BAG:bohohohoh add 296xHoa hồng xanh (old: 295) lydo: Nhặt từ map at 03/12/2023 1:59 PM
+BAG:bohohohoh add 19xNgọc Rồng 4 sao (old: 18) lydo: Nhặt từ map at 03/12/2023 1:59 PM
+BAG:bohohohoh add 297xHoa hồng xanh (old: 296) lydo: Nhặt từ map at 03/12/2023 1:59 PM
+BAG:bohohohoh add 316xHoa hồng đỏ (old: 315) lydo: Nhặt từ map at 03/12/2023 1:59 PM
+BAG:bohohohoh add 317xHoa hồng đỏ (old: 316) lydo: Nhặt từ map at 03/12/2023 1:59 PM
+BAG:bohohohoh add 318xHoa hồng đỏ (old: 317) lydo: Nhặt từ map at 03/12/2023 1:59 PM
+BAG:bohohohoh add 319xHoa hồng đỏ (old: 318) lydo: Nhặt từ map at 03/12/2023 1:59 PM
+BAG:bohohohoh add 20xNgọc Rồng 4 sao (old: 19) lydo: Nhặt từ map at 03/12/2023 2:00 PM
+BAG:bohohohoh add 70xĐá thạch anh tím (old: 69) lydo: Nhặt từ map at 03/12/2023 2:00 PM
+BAG:bohohohoh add 80xHoa hồng vàng (old: 79) lydo: Nhặt từ map at 03/12/2023 2:00 PM
+BAG:bohohohoh add 42xĐá Saphia (old: 41) lydo: Nhặt từ map at 03/12/2023 2:00 PM
+BAG:bohohohoh add 10xĐậu thần cấp 10 lydo: Thu hoạch đậu at 03/12/2023 2:01 PM
+BAG:bohohohoh add 23xĐậu thần cấp 10 (old: 10) lydo: Lấy từ rương qua người at 03/12/2023 2:02 PM
+BAG:bohohohoh add 43xĐậu thần cấp 10 (old: 23) lydo: Lấy từ rương qua người at 03/12/2023 2:02 PM
+BAG:bohohohoh add 63xĐậu thần cấp 10 (old: 43) lydo: Lấy từ rương qua người at 03/12/2023 2:02 PM
+BAG:bohohohoh add 82xĐậu thần cấp 10 (old: 62) lydo: Lấy từ rương qua người at 03/12/2023 2:03 PM
+BAG:bohohohoh add 3xĐậu thần cấp 10 lydo: Lấy từ rương qua người at 03/12/2023 2:19 PM
+BAG:bohohohoh add 99xĐậu thần cấp 10 (old: 82) lydo: Lấy từ rương qua người at 03/12/2023 2:19 PM
+BAG:bohohohoh add 298xHoa hồng xanh (old: 297) lydo: Nhặt từ map at 03/12/2023 2:20 PM
+BAG:bohohohoh add 21xNgọc Rồng 4 sao (old: 20) lydo: Nhặt từ map at 03/12/2023 2:20 PM
+BAG:bohohohoh add 81xHoa hồng vàng (old: 80) lydo: Nhặt từ map at 03/12/2023 2:20 PM
+BAG:bohohohoh add 82xHoa hồng vàng (old: 81) lydo: Nhặt từ map at 03/12/2023 2:20 PM
+BAG:bohohohoh add 299xHoa hồng xanh (old: 298) lydo: Nhặt từ map at 03/12/2023 2:21 PM
+BAG:bohohohoh add 52xĐá Titan (old: 51) lydo: Nhặt từ map at 03/12/2023 2:21 PM
+BAG:bohohohoh add 83xHoa hồng vàng (old: 82) lydo: Nhặt từ map at 03/12/2023 2:21 PM
+BAG:bohohohoh add 320xHoa hồng đỏ (old: 319) lydo: Nhặt từ map at 03/12/2023 2:21 PM
+BAG:bohohohoh add 321xHoa hồng đỏ (old: 320) lydo: Nhặt từ map at 03/12/2023 2:21 PM
+BAG:bohohohoh add 322xHoa hồng đỏ (old: 321) lydo: Nhặt từ map at 03/12/2023 2:21 PM
+BAG:bohohohoh add 323xHoa hồng đỏ (old: 322) lydo: Nhặt từ map at 03/12/2023 2:21 PM
+BAG:bohohohoh add 300xHoa hồng xanh (old: 299) lydo: Nhặt từ map at 03/12/2023 2:21 PM
+BAG:bohohohoh add 43xĐá Saphia (old: 42) lydo: Nhặt từ map at 03/12/2023 2:21 PM
+BAG:bohohohoh add 324xHoa hồng đỏ (old: 323) lydo: Nhặt từ map at 03/12/2023 2:22 PM
+BAG:bohohohoh add 84xHoa hồng vàng (old: 83) lydo: Nhặt từ map at 03/12/2023 2:22 PM
+BAG:bohohohoh add 301xHoa hồng xanh (old: 300) lydo: Nhặt từ map at 03/12/2023 2:22 PM
+BAG:bohohohoh add 44xĐá Saphia (old: 43) lydo: Nhặt từ map at 03/12/2023 2:22 PM
+BAG:bohohohoh add 53xĐá Titan (old: 52) lydo: Nhặt từ map at 03/12/2023 2:22 PM
+BAG:bohohohoh add 54xĐá Titan (old: 53) lydo: Nhặt từ map at 03/12/2023 2:23 PM
+BAG:bohohohoh add 71xĐá thạch anh tím (old: 70) lydo: Nhặt từ map at 03/12/2023 2:23 PM
+BAG:bohohohoh add 85xHoa hồng vàng (old: 84) lydo: Nhặt từ map at 03/12/2023 2:23 PM
+BAG:bohohohoh add 302xHoa hồng xanh (old: 301) lydo: Nhặt từ map at 03/12/2023 2:23 PM
+BAG:bohohohoh add 303xHoa hồng xanh (old: 302) lydo: Nhặt từ map at 03/12/2023 2:23 PM
+BAG:bohohohoh add 86xHoa hồng vàng (old: 85) lydo: Nhặt từ map at 03/12/2023 2:24 PM
+BAG:bohohohoh add 87xHoa hồng vàng (old: 86) lydo: Nhặt từ map at 03/12/2023 2:24 PM
+BAG:bohohohoh add 88xHoa hồng vàng (old: 87) lydo: Nhặt từ map at 03/12/2023 2:24 PM
+BAG:bohohohoh add 325xHoa hồng đỏ (old: 324) lydo: Nhặt từ map at 03/12/2023 2:25 PM
+BAG:bohohohoh add 89xHoa hồng vàng (old: 88) lydo: Nhặt từ map at 03/12/2023 2:25 PM
+BAG:bohohohoh add 67xĐá lục bảo (old: 66) lydo: Nhặt từ map at 03/12/2023 2:25 PM
+BAG:bohohohoh add 90xHoa hồng vàng (old: 89) lydo: Nhặt từ map at 03/12/2023 2:25 PM
+BAG:bohohohoh add 91xHoa hồng vàng (old: 90) lydo: Nhặt từ map at 03/12/2023 2:25 PM
+BAG:bohohohoh add 326xHoa hồng đỏ (old: 325) lydo: Nhặt từ map at 03/12/2023 2:25 PM
+BAG:bohohohoh add 304xHoa hồng xanh (old: 303) lydo: Nhặt từ map at 03/12/2023 2:26 PM
+BAG:bohohohoh add 68xĐá lục bảo (old: 67) lydo: Nhặt từ map at 03/12/2023 2:26 PM
+BAG:bohohohoh add 55xĐá Titan (old: 54) lydo: Nhặt từ map at 03/12/2023 2:26 PM
+BAG:bohohohoh add 45xĐá Saphia (old: 44) lydo: Nhặt từ map at 03/12/2023 2:26 PM
+BAG:bohohohoh add 305xHoa hồng xanh (old: 304) lydo: Nhặt từ map at 03/12/2023 2:26 PM
+BAG:bohohohoh add 92xHoa hồng vàng (old: 91) lydo: Nhặt từ map at 03/12/2023 2:28 PM
+BAG:bohohohoh add 306xHoa hồng xanh (old: 305) lydo: Nhặt từ map at 03/12/2023 2:29 PM
+BAG:bohohohoh add 13xĐậu thần cấp 10 lydo: Lấy từ rương qua người at 03/12/2023 2:32 PM
+BAG:bohohohoh add 99xĐậu thần cấp 10 (old: 92) lydo: Lấy từ rương qua người at 03/12/2023 2:32 PM
+BAG:bohohohoh add 56xĐá Titan (old: 55) lydo: Nhặt từ map at 03/12/2023 2:35 PM
+BAG:bohohohoh add 327xHoa hồng đỏ (old: 326) lydo: Nhặt từ map at 03/12/2023 2:36 PM
+BAG:bohohohoh add 93xHoa hồng vàng (old: 92) lydo: Nhặt từ map at 03/12/2023 2:38 PM
+BAG:bohohohoh add 307xHoa hồng xanh (old: 306) lydo: Nhặt từ map at 03/12/2023 2:39 PM
+BAG:bohohohoh add 308xHoa hồng xanh (old: 307) lydo: Nhặt từ map at 03/12/2023 2:39 PM
+BAG:bohohohoh add 328xHoa hồng đỏ (old: 327) lydo: Nhặt từ map at 03/12/2023 2:40 PM
+BAG:bohohohoh add 329xHoa hồng đỏ (old: 328) lydo: Nhặt từ map at 03/12/2023 2:40 PM
+BAG:bohohohoh add 330xHoa hồng đỏ (old: 329) lydo: Nhặt từ map at 03/12/2023 2:43 PM
+BAG:bohohohoh add 94xHoa hồng vàng (old: 93) lydo: Nhặt từ map at 03/12/2023 2:43 PM
+BAG:bohohohoh add 46xĐá Saphia (old: 45) lydo: Nhặt từ map at 03/12/2023 2:45 PM
+BAG:bohohohoh add 309xHoa hồng xanh (old: 308) lydo: Nhặt từ map at 03/12/2023 2:45 PM
+BAG:bohohohoh add 95xHoa hồng vàng (old: 94) lydo: Nhặt từ map at 03/12/2023 2:45 PM
+BAG:bohohohoh add 72xĐá thạch anh tím (old: 71) lydo: Nhặt từ map at 03/12/2023 2:46 PM
+BAG:bohohohoh add 96xHoa hồng vàng (old: 95) lydo: Nhặt từ map at 03/12/2023 2:46 PM
+BAG:bohohohoh add 331xHoa hồng đỏ (old: 330) lydo: Nhặt từ map at 03/12/2023 2:47 PM
+BAG:bohohohoh add 22xNgọc Rồng 4 sao (old: 21) lydo: Nhặt từ map at 03/12/2023 2:47 PM
+BAG:bohohohoh add 66xĐá Ruby (old: 65) lydo: Nhặt từ map at 03/12/2023 2:47 PM
+BAG:bohohohoh add 310xHoa hồng xanh (old: 309) lydo: Nhặt từ map at 03/12/2023 2:48 PM
+BAG:bohohohoh add 332xHoa hồng đỏ (old: 331) lydo: Nhặt từ map at 03/12/2023 2:48 PM
+BAG:bohohohoh add 13xNgọc Rồng 6 sao (old: 12) lydo: Nhặt từ map at 03/12/2023 2:50 PM
+BAG:bohohohoh add 311xHoa hồng xanh (old: 310) lydo: Nhặt từ map at 03/12/2023 2:53 PM
+BAG:bohohohoh add 312xHoa hồng xanh (old: 311) lydo: Nhặt từ map at 03/12/2023 2:54 PM
+BAG:bohohohoh add 97xHoa hồng vàng (old: 96) lydo: Nhặt từ map at 03/12/2023 2:57 PM
+BAG:bohohohoh add 98xHoa hồng vàng (old: 97) lydo: Nhặt từ map at 03/12/2023 2:57 PM
+BAG:bohohohoh add 333xHoa hồng đỏ (old: 332) lydo: Nhặt từ map at 03/12/2023 2:57 PM
+BAG:bohohohoh add 99xHoa hồng vàng (old: 98) lydo: Nhặt từ map at 03/12/2023 2:57 PM
+BAG:bohohohoh add 69xĐá lục bảo (old: 68) lydo: Nhặt từ map at 03/12/2023 2:58 PM
+BAG:bohohohoh add 100xHoa hồng vàng (old: 99) lydo: Nhặt từ map at 03/12/2023 2:59 PM
+BAG:bohohohoh add 334xHoa hồng đỏ (old: 333) lydo: Nhặt từ map at 03/12/2023 3:00 PM
+BAG:bohohohoh add 101xHoa hồng vàng (old: 100) lydo: Nhặt từ map at 03/12/2023 3:00 PM
+BAG:bohohohoh add 102xHoa hồng vàng (old: 101) lydo: Nhặt từ map at 03/12/2023 3:00 PM
+BAG:bohohohoh add 313xHoa hồng xanh (old: 312) lydo: Nhặt từ map at 03/12/2023 3:00 PM
+BAG:bohohohoh add 335xHoa hồng đỏ (old: 334) lydo: Nhặt từ map at 03/12/2023 3:01 PM
+BAG:bohohohoh add 103xHoa hồng vàng (old: 102) lydo: Nhặt từ map at 03/12/2023 3:01 PM
+BAG:bohohohoh add 104xHoa hồng vàng (old: 103) lydo: Nhặt từ map at 03/12/2023 3:02 PM
+BAG:bohohohoh add 57xĐá Titan (old: 56) lydo: Nhặt từ map at 03/12/2023 3:02 PM
+BAG:bohohohoh add 73xĐá thạch anh tím (old: 72) lydo: Nhặt từ map at 03/12/2023 3:02 PM
+BAG:bohohohoh add 23xNgọc Rồng 4 sao (old: 22) lydo: Nhặt từ map at 03/12/2023 3:03 PM
+BAG:bohohohoh add 14xNgọc Rồng 6 sao (old: 13) lydo: Nhặt từ map at 03/12/2023 3:04 PM
+BAG:bohohohoh add 105xHoa hồng vàng (old: 104) lydo: Nhặt từ map at 03/12/2023 3:04 PM
+BAG:bohohohoh add 58xĐá Titan (old: 57) lydo: Nhặt từ map at 03/12/2023 3:04 PM
+BAG:bohohohoh add 336xHoa hồng đỏ (old: 335) lydo: Nhặt từ map at 03/12/2023 3:05 PM
+BAG:bohohohoh add 106xHoa hồng vàng (old: 105) lydo: Nhặt từ map at 03/12/2023 3:05 PM
+BAG:bohohohoh add 314xHoa hồng xanh (old: 313) lydo: Nhặt từ map at 03/12/2023 3:06 PM
+BAG:bohohohoh add 107xHoa hồng vàng (old: 106) lydo: Nhặt từ map at 03/12/2023 3:06 PM
+BAG:bohohohoh add 108xHoa hồng vàng (old: 107) lydo: Nhặt từ map at 03/12/2023 3:07 PM
+BAG:bohohohoh add 337xHoa hồng đỏ (old: 336) lydo: Nhặt từ map at 03/12/2023 3:07 PM
+BAG:bohohohoh add 315xHoa hồng xanh (old: 314) lydo: Nhặt từ map at 03/12/2023 3:07 PM
+BAG:bohohohoh add 338xHoa hồng đỏ (old: 337) lydo: Nhặt từ map at 03/12/2023 3:08 PM
+BAG:bohohohoh add 109xHoa hồng vàng (old: 108) lydo: Nhặt từ map at 03/12/2023 3:09 PM
+BAG:bohohohoh add 47xĐá Saphia (old: 46) lydo: Nhặt từ map at 03/12/2023 3:10 PM
+BAG:bohohohoh add 110xHoa hồng vàng (old: 109) lydo: Nhặt từ map at 03/12/2023 3:10 PM
+BAG:bohohohoh add 111xHoa hồng vàng (old: 110) lydo: Nhặt từ map at 03/12/2023 3:11 PM
+BAG:bohohohoh add 112xHoa hồng vàng (old: 111) lydo: Nhặt từ map at 03/12/2023 3:12 PM
+BAG:bohohohoh add 316xHoa hồng xanh (old: 315) lydo: Nhặt từ map at 03/12/2023 3:12 PM
+BAG:bohohohoh add 317xHoa hồng xanh (old: 316) lydo: Nhặt từ map at 03/12/2023 3:12 PM
+BAG:bohohohoh add 318xHoa hồng xanh (old: 317) lydo: Nhặt từ map at 03/12/2023 3:15 PM
+BAG:bohohohoh add 113xHoa hồng vàng (old: 112) lydo: Nhặt từ map at 03/12/2023 3:15 PM
+BAG:bohohohoh add 114xHoa hồng vàng (old: 113) lydo: Nhặt từ map at 03/12/2023 3:16 PM
+BAG:bohohohoh add 339xHoa hồng đỏ (old: 338) lydo: Nhặt từ map at 03/12/2023 3:17 PM
+BAG:bohohohoh add 115xHoa hồng vàng (old: 114) lydo: Nhặt từ map at 03/12/2023 3:18 PM
+BAG:bohohohoh add 116xHoa hồng vàng (old: 115) lydo: Nhặt từ map at 03/12/2023 3:18 PM
+BAG:bohohohoh add 319xHoa hồng xanh (old: 318) lydo: Nhặt từ map at 03/12/2023 3:18 PM
+BAG:bohohohoh add 340xHoa hồng đỏ (old: 339) lydo: Nhặt từ map at 03/12/2023 3:19 PM
+BAG:bohohohoh add 1xQuần sợi len lydo: Nhặt từ map at 03/12/2023 3:20 PM
+BAG:bohohohoh add 10xĐậu thần cấp 10 lydo: Thu hoạch đậu at 03/12/2023 3:21 PM
+BAG:bohohohoh add 23xĐậu thần cấp 10 (old: 10) lydo: Lấy từ rương qua người at 03/12/2023 3:21 PM
+BAG:bohohohoh add 43xĐậu thần cấp 10 (old: 23) lydo: Lấy từ rương qua người at 03/12/2023 3:21 PM
+BAG:bohohohoh add 63xĐậu thần cấp 10 (old: 43) lydo: Lấy từ rương qua người at 03/12/2023 3:21 PM
+BAG:bohohohoh add 83xĐậu thần cấp 10 (old: 63) lydo: Lấy từ rương qua người at 03/12/2023 3:21 PM
+BAG:bohohohoh add 4xĐậu thần cấp 10 lydo: Lấy từ rương qua người at 03/12/2023 3:21 PM
+BAG:bohohohoh add 99xĐậu thần cấp 10 (old: 83) lydo: Lấy từ rương qua người at 03/12/2023 3:21 PM
+BAG:bohohohoh add 24xĐậu thần cấp 10 (old: 4) lydo: Lấy từ rương qua người at 03/12/2023 3:22 PM
+BAG:bohohohoh add 44xĐậu thần cấp 10 (old: 24) lydo: Lấy từ rương qua người at 03/12/2023 3:22 PM
+BAG:bohohohoh add 64xĐậu thần cấp 10 (old: 44) lydo: Lấy từ rương qua người at 03/12/2023 3:22 PM
+BAG:bohohohoh add 67xĐậu thần cấp 10 (old: 64) lydo: Lấy từ rương qua người at 03/12/2023 3:22 PM
+BAG:bohohohoh add 320xHoa hồng xanh (old: 319) lydo: Nhặt từ map at 03/12/2023 3:25 PM
+BAG:bohohohoh add 341xHoa hồng đỏ (old: 340) lydo: Nhặt từ map at 03/12/2023 3:25 PM
+BAG:bohohohoh add 117xHoa hồng vàng (old: 116) lydo: Nhặt từ map at 03/12/2023 3:25 PM
+BAG:bohohohoh add 48xĐá Saphia (old: 47) lydo: Nhặt từ map at 03/12/2023 3:26 PM
+BAG:bohohohoh add 342xHoa hồng đỏ (old: 341) lydo: Nhặt từ map at 03/12/2023 3:26 PM
+BAG:bohohohoh add 8xNgọc Rồng 5 sao (old: 7) lydo: Nhặt từ map at 03/12/2023 3:26 PM
+BAG:bohohohoh add 24xNgọc Rồng 4 sao (old: 23) lydo: Nhặt từ map at 03/12/2023 3:26 PM
+BAG:bohohohoh add 74xĐá thạch anh tím (old: 73) lydo: Nhặt từ map at 03/12/2023 3:26 PM
+BAG:bohohohoh add 118xHoa hồng vàng (old: 117) lydo: Nhặt từ map at 03/12/2023 3:26 PM
+BAG:bohohohoh add 59xĐá Titan (old: 58) lydo: Nhặt từ map at 03/12/2023 3:26 PM
+BAG:bohohohoh add 119xHoa hồng vàng (old: 118) lydo: Nhặt từ map at 03/12/2023 3:26 PM
+BAG:bohohohoh add 343xHoa hồng đỏ (old: 342) lydo: Nhặt từ map at 03/12/2023 3:26 PM
+BAG:bohohohoh add 70xĐá lục bảo (old: 69) lydo: Nhặt từ map at 03/12/2023 3:26 PM
+BAG:bohohohoh add 120xHoa hồng vàng (old: 119) lydo: Nhặt từ map at 03/12/2023 3:26 PM
+BAG:bohohohoh add 49xĐá Saphia (old: 48) lydo: Nhặt từ map at 03/12/2023 3:26 PM
+BAG:bohohohoh add 321xHoa hồng xanh (old: 320) lydo: Nhặt từ map at 03/12/2023 3:26 PM
+BAG:bohohohoh add 344xHoa hồng đỏ (old: 343) lydo: Nhặt từ map at 03/12/2023 3:26 PM
+BAG:bohohohoh add 345xHoa hồng đỏ (old: 344) lydo: Nhặt từ map at 03/12/2023 3:26 PM
+BAG:bohohohoh add 71xĐá lục bảo (old: 70) lydo: Nhặt từ map at 03/12/2023 3:27 PM
+BAG:bohohohoh add 121xHoa hồng vàng (old: 120) lydo: Nhặt từ map at 03/12/2023 3:27 PM
+BAG:bohohohoh add 322xHoa hồng xanh (old: 321) lydo: Nhặt từ map at 03/12/2023 3:27 PM
+BAG:bohohohoh add 122xHoa hồng vàng (old: 121) lydo: Nhặt từ map at 03/12/2023 3:27 PM
+BAG:bohohohoh add 123xHoa hồng vàng (old: 122) lydo: Nhặt từ map at 03/12/2023 3:27 PM
+BAG:bohohohoh add 323xHoa hồng xanh (old: 322) lydo: Nhặt từ map at 03/12/2023 3:27 PM
+BAG:bohohohoh add 124xHoa hồng vàng (old: 123) lydo: Nhặt từ map at 03/12/2023 3:27 PM
+BAG:bohohohoh add 125xHoa hồng vàng (old: 124) lydo: Nhặt từ map at 03/12/2023 3:27 PM
+BAG:bohohohoh add 324xHoa hồng xanh (old: 323) lydo: Nhặt từ map at 03/12/2023 3:27 PM
+BAG:bohohohoh add 25xNgọc Rồng 4 sao (old: 24) lydo: Nhặt từ map at 03/12/2023 3:28 PM
+BAG:bohohohoh add 126xHoa hồng vàng (old: 125) lydo: Nhặt từ map at 03/12/2023 3:28 PM
+BAG:bohohohoh add 325xHoa hồng xanh (old: 324) lydo: Nhặt từ map at 03/12/2023 3:28 PM
+BAG:bohohohoh add 127xHoa hồng vàng (old: 126) lydo: Nhặt từ map at 03/12/2023 3:28 PM
+BAG:bohohohoh add 346xHoa hồng đỏ (old: 345) lydo: Nhặt từ map at 03/12/2023 3:28 PM
+BAG:bohohohoh add 347xHoa hồng đỏ (old: 346) lydo: Nhặt từ map at 03/12/2023 3:28 PM
+BAG:bohohohoh add 60xĐá Titan (old: 59) lydo: Nhặt từ map at 03/12/2023 3:28 PM
+BAG:bohohohoh add 75xĐá thạch anh tím (old: 74) lydo: Nhặt từ map at 03/12/2023 3:28 PM
+BAG:bohohohoh add 128xHoa hồng vàng (old: 127) lydo: Nhặt từ map at 03/12/2023 3:28 PM
+BAG:bohohohoh add 129xHoa hồng vàng (old: 128) lydo: Nhặt từ map at 03/12/2023 3:28 PM
+BAG:bohohohoh add 130xHoa hồng vàng (old: 129) lydo: Nhặt từ map at 03/12/2023 3:28 PM
+BAG:bohohohoh add 67xĐá Ruby (old: 66) lydo: Nhặt từ map at 03/12/2023 3:28 PM
+BAG:bohohohoh add 348xHoa hồng đỏ (old: 347) lydo: Nhặt từ map at 03/12/2023 3:29 PM
+BAG:bohohohoh add 9xNgọc Rồng 5 sao (old: 8) lydo: Nhặt từ map at 03/12/2023 3:29 PM
+BAG:bohohohoh add 131xHoa hồng vàng (old: 130) lydo: Nhặt từ map at 03/12/2023 3:29 PM
+BAG:bohohohoh add 349xHoa hồng đỏ (old: 348) lydo: Nhặt từ map at 03/12/2023 3:29 PM
+BAG:bohohohoh add 132xHoa hồng vàng (old: 131) lydo: Nhặt từ map at 03/12/2023 3:29 PM
+BAG:bohohohoh add 133xHoa hồng vàng (old: 132) lydo: Nhặt từ map at 03/12/2023 3:29 PM
+BAG:bohohohoh add 134xHoa hồng vàng (old: 133) lydo: Nhặt từ map at 03/12/2023 3:29 PM

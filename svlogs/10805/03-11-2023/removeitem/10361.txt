@@ -1,0 +1,74 @@
+BAG:kakalotreal remove Đá Titan lydo: Tự Xóa vật phẩm at 03/11/2023 4:19 AM
+BAG:kakalotreal remove Đá lục bảo lydo: Tự Xóa vật phẩm at 03/11/2023 4:19 AM
+BAG:kakalotreal remove Đá Ruby lydo: Tự Xóa vật phẩm at 03/11/2023 4:19 AM
+BAG:kakalotreal remove Đá thạch anh tím lydo: Tự Xóa vật phẩm at 03/11/2023 4:19 AM
+BAG:kakalotreal remove Cải trang lydo: Tự Xóa vật phẩm at 03/11/2023 4:20 AM
+BAG:kakalotreal remove Ngọc Rồng 6 sao lydo: Cất vào rương at 03/11/2023 4:21 AM
+BAG:kakalotreal remove Ngọc Rồng 4 sao lydo: Cất vào rương at 03/11/2023 4:21 AM
+BAG:kakalotreal remove Ngọc Rồng 5 sao lydo: Cất vào rương at 03/11/2023 4:21 AM
+BAG:kakalotreal remove Ngọc Rồng 3 sao lydo: Cất vào rương at 03/11/2023 4:21 AM
+BAG:kakalotreal remove Giáp tập luyện cấp 3 lydo: Mặc cho đệ tử at 03/11/2023 4:21 AM
+BAG:kakalotreal remove Giầy vải thô lydo: Cất vào rương at 03/11/2023 4:22 AM
+BAG:kakalotreal remove Găng vải thô lydo: Cất vào rương at 03/11/2023 4:22 AM
+BAG:kakalotreal remove Quần vải thô lydo: Cất vào rương at 03/11/2023 4:22 AM
+BAG:kakalotreal remove Áo vải thô lydo: Cất vào rương at 03/11/2023 4:22 AM
+BAG:kakalotreal remove Rada cấp 1 lydo: Cất vào rương at 03/11/2023 4:22 AM
+BAG:kakalotreal remove Thỏi vàng lydo: Cất vào rương at 03/11/2023 4:23 AM
+BAG:kakalotreal remove Cuồng nộ lydo: Cất vào rương at 03/11/2023 4:23 AM
+BAG:kakalotreal remove Bông tai Porata lydo: Cất vào rương at 03/11/2023 4:23 AM
+BAG:kakalotreal remove Quỷ Chim lydo: Cất vào rương at 03/11/2023 4:23 AM
+BAG:kakalotreal remove Nhẫn thời không sai lệch lydo: Cất vào rương at 03/11/2023 4:23 AM
+BAG:kakalotreal remove 1xMáy dò Capsule kì bí lydo: Dùng máy dò at 03/11/2023 4:24 AM
+BAG:kakalotreal remove Đá Saphia lydo: Tự Xóa vật phẩm at 03/11/2023 4:27 AM
+BAG:kakalotreal remove 1xMáy dò Capsule kì bí lydo: Dùng máy dò at 03/11/2023 10:12 AM
+BAG:kakalotreal remove 100xThỏi vàng lydo: Mua đồ hủy diệt at 03/11/2023 10:36 AM
+BAG:kakalotreal remove 1xThỏi vàng lydo: Bán cho shop at 03/11/2023 10:37 AM
+BAG:kakalotreal remove 1xThỏi vàng lydo: Bán cho shop at 03/11/2023 10:37 AM
+BAG:kakalotreal remove 1xThỏi vàng lydo: Bán cho shop at 03/11/2023 10:37 AM
+BAG:kakalotreal remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 03/11/2023 10:38 AM
+BAG:kakalotreal remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 03/11/2023 10:39 AM
+BAG:kakalotreal remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 03/11/2023 10:39 AM
+BAG:kakalotreal remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 03/11/2023 10:39 AM
+BAG:kakalotreal remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 03/11/2023 10:39 AM
+BAG:kakalotreal remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 03/11/2023 10:40 AM
+BAG:kakalotreal remove 1xThỏi vàng lydo: Bán cho shop at 03/11/2023 10:40 AM
+BAG:kakalotreal remove 1xThỏi vàng lydo: Bán cho shop at 03/11/2023 10:40 AM
+BAG:kakalotreal remove 1xThỏi vàng lydo: Bán cho shop at 03/11/2023 10:40 AM
+BAG:kakalotreal remove 1xThỏi vàng lydo: Bán cho shop at 03/11/2023 10:40 AM
+BAG:kakalotreal remove 1xThỏi vàng lydo: Bán cho shop at 03/11/2023 10:40 AM
+BAG:kakalotreal remove 1xThỏi vàng lydo: Bán cho shop at 03/11/2023 10:40 AM
+BAG:kakalotreal remove 1xThỏi vàng lydo: Bán cho shop at 03/11/2023 10:41 AM
+BAG:kakalotreal remove 1xThỏi vàng lydo: Bán cho shop at 03/11/2023 10:41 AM
+BAG:kakalotreal remove 1xThỏi vàng lydo: Bán cho shop at 03/11/2023 10:41 AM
+BAG:kakalotreal remove 1xThỏi vàng lydo: Bán cho shop at 03/11/2023 10:41 AM
+BAG:kakalotreal remove 1xThỏi vàng lydo: Bán cho shop at 03/11/2023 10:41 AM
+BAG:kakalotreal remove 1xThỏi vàng lydo: Bán cho shop at 03/11/2023 10:41 AM
+BAG:kakalotreal remove 1xThỏi vàng lydo: Bán cho shop at 03/11/2023 10:41 AM
+BAG:kakalotreal remove 1xThỏi vàng lydo: Bán cho shop at 03/11/2023 10:41 AM
+BAG:kakalotreal remove 1xThỏi vàng lydo: Bán cho shop at 03/11/2023 10:41 AM
+BAG:kakalotreal remove 1xThỏi vàng lydo: Bán cho shop at 03/11/2023 10:42 AM
+BAG:kakalotreal remove 1xThỏi vàng lydo: Bán cho shop at 03/11/2023 10:42 AM
+BAG:kakalotreal remove 1xThỏi vàng lydo: Bán cho shop at 03/11/2023 10:42 AM
+BAG:kakalotreal remove 1xThỏi vàng lydo: Bán cho shop at 03/11/2023 10:42 AM
+BAG:kakalotreal remove 1xThỏi vàng lydo: Bán cho shop at 03/11/2023 10:42 AM
+BAG:kakalotreal remove 1xThỏi vàng lydo: Bán cho shop at 03/11/2023 10:42 AM
+BAG:kakalotreal remove 1xThỏi vàng lydo: Bán cho shop at 03/11/2023 10:42 AM
+BAG:kakalotreal remove 1xThỏi vàng lydo: Bán cho shop at 03/11/2023 10:42 AM
+BAG:kakalotreal remove 1xThỏi vàng lydo: Bán cho shop at 03/11/2023 10:42 AM
+BAG:kakalotreal remove 1xThỏi vàng lydo: Bán cho shop at 03/11/2023 10:43 AM
+BAG:kakalotreal remove 1xThỏi vàng lydo: Bán cho shop at 03/11/2023 10:43 AM
+BAG:kakalotreal remove 1xThỏi vàng lydo: Bán cho shop at 03/11/2023 10:43 AM
+BAG:kakalotreal remove 1xThỏi vàng lydo: Bán cho shop at 03/11/2023 10:43 AM
+BAG:kakalotreal remove 1xThỏi vàng lydo: Bán cho shop at 03/11/2023 10:43 AM
+BAG:kakalotreal remove 1xThỏi vàng lydo: Bán cho shop at 03/11/2023 10:43 AM
+BAG:kakalotreal remove 1xThỏi vàng lydo: Bán cho shop at 03/11/2023 10:43 AM
+BAG:kakalotreal remove 1xThỏi vàng lydo: Bán cho shop at 03/11/2023 10:43 AM
+BAG:kakalotreal remove Giáp tập luyện cấp 3 lydo: Mặc vào người at 03/11/2023 10:44 AM
+BAG:kakalotreal remove Áo Thiên Sứ lydo: Tự Xóa vật phẩm at 03/11/2023 10:45 AM
+BAG:kakalotreal remove Giầy Thiên Sứ lydo: Tự Xóa vật phẩm at 03/11/2023 10:45 AM
+BAG:kakalotreal remove Quần Thiên Sứ lydo: Tự Xóa vật phẩm at 03/11/2023 10:45 AM
+BAG:kakalotreal remove Hoa hồng vàng lydo: Tự Xóa vật phẩm at 03/11/2023 10:46 AM
+BAG:kakalotreal remove Hoa hồng đỏ lydo: Tự Xóa vật phẩm at 03/11/2023 10:46 AM
+BAG:kakalotreal remove Hoa hồng xanh lydo: Tự Xóa vật phẩm at 03/11/2023 10:46 AM
+BAG:kakalotreal remove 1xCuồng nộ lydo: Dùng buff at 03/11/2023 10:46 AM
+BAG:kakalotreal remove Giáp tập luyện cấp 3 lydo: Mặc vào người at 03/11/2023 10:48 AM

@@ -1,0 +1,12 @@
+BAG:gameone8 add 1xHoa hồng đỏ lydo: Nhặt từ map at 03/12/2023 6:51 PM
+BAG:gameone8 add 1xHoa hồng vàng lydo: Nhặt từ map at 03/12/2023 6:51 PM
+BAG:gameone8 add 2xHoa hồng vàng (old: 1) lydo: Nhặt từ map at 03/12/2023 6:51 PM
+BAG:gameone8 add 5xĐậu thần cấp 1 lydo: Thu hoạch đậu at 03/12/2023 6:54 PM
+BAG:gameone8 add 10xĐậu thần cấp 1 (old: 5) lydo: Thu hoạch đậu at 03/12/2023 6:54 PM
+BAG:gameone8 add 1xCải trang Hit lydo: Mua từ cửa hàng at 03/12/2023 6:56 PM
+BAG:gameone8 add 1xCải trang Chill cấp 2 lydo: Mua từ cửa hàng at 03/12/2023 6:57 PM
+BAG:gameone8 add 1xCải trang Chill cấp 2 lydo: Mua từ cửa hàng at 03/12/2023 6:57 PM
+BAG:gameone8 add 2xHoa hồng đỏ (old: 1) lydo: Nhặt từ map at 03/12/2023 6:58 PM
+BAG:gameone8 add 1xTự động luyện tập lydo: Mua TDTL từ cửa hàng at 03/12/2023 6:58 PM
+BAG:gameone8 add 1xHoa hồng xanh lydo: Nhặt từ map at 03/12/2023 6:59 PM
+BAG:gameone8 add 3xHoa hồng đỏ (old: 2) lydo: Nhặt từ map at 03/12/2023 6:59 PM

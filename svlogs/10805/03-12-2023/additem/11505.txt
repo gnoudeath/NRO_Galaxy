@@ -1,0 +1,96 @@
+BAG:nhocgohan add 34xĐậu thần cấp 8 (old: 15) lydo: Lấy từ rương qua người at 03/12/2023 6:45 AM
+BAG:nhocgohan add 53xĐậu thần cấp 8 (old: 34) lydo: Lấy từ rương qua người at 03/12/2023 6:45 AM
+BAG:nhocgohan add 20xĐậu thần cấp 9 lydo: Lấy từ rương qua người at 03/12/2023 6:45 AM
+BAG:nhocgohan add 40xĐậu thần cấp 9 (old: 20) lydo: Lấy từ rương qua người at 03/12/2023 6:46 AM
+BAG:nhocgohan add 41xHoa hồng vàng (old: 40) lydo: Nhặt từ map at 03/12/2023 7:45 AM
+BAG:nhocgohan add 1xÁo vải 3 lỗ lydo: Lấy từ body đệ vào hành trang at 03/12/2023 7:57 AM
+BAG:nhocgohan add 1xQuần vải đen lydo: Lấy từ body đệ vào hành trang at 03/12/2023 7:57 AM
+BAG:nhocgohan add 1xGăng vải đen lydo: Lấy từ body đệ vào hành trang at 03/12/2023 7:57 AM
+BAG:nhocgohan add 1xRada cấp 1 lydo: Lấy từ body đệ vào hành trang at 03/12/2023 7:57 AM
+BAG:nhocgohan add 1xCải trang Hit lydo: Lấy từ body đệ vào hành trang at 03/12/2023 7:57 AM
+BAG:nhocgohan add 1xGiầy nhựa lydo: Lấy từ body đệ vào hành trang at 03/12/2023 7:57 AM
+BAG:nhocgohan add 1xĐổi đệ tử lydo: Mua từ cửa hàng at 03/12/2023 8:20 AM
+BAG:nhocgohan add 2xĐổi đệ tử (old: 1) lydo: Mua từ cửa hàng at 03/12/2023 8:20 AM
+BAG:nhocgohan add 3xĐổi đệ tử (old: 2) lydo: Mua từ cửa hàng at 03/12/2023 8:20 AM
+BAG:nhocgohan add 4xĐổi đệ tử (old: 3) lydo: Mua từ cửa hàng at 03/12/2023 8:20 AM
+BAG:nhocgohan add 5xĐổi đệ tử (old: 4) lydo: Mua từ cửa hàng at 03/12/2023 8:20 AM
+BAG:nhocgohan add 6xĐổi đệ tử (old: 5) lydo: Mua từ cửa hàng at 03/12/2023 8:20 AM
+BAG:nhocgohan add 7xĐổi đệ tử (old: 6) lydo: Mua từ cửa hàng at 03/12/2023 8:20 AM
+BAG:nhocgohan add 1xNâng cấp kỹ năng 1 đệ tử lydo: Mua từ cửa hàng at 03/12/2023 8:20 AM
+BAG:nhocgohan add 2xNâng cấp kỹ năng 1 đệ tử (old: 1) lydo: Mua từ cửa hàng at 03/12/2023 8:20 AM
+BAG:nhocgohan add 3xNâng cấp kỹ năng 1 đệ tử (old: 2) lydo: Mua từ cửa hàng at 03/12/2023 8:20 AM
+BAG:nhocgohan add 4xNâng cấp kỹ năng 1 đệ tử (old: 3) lydo: Mua từ cửa hàng at 03/12/2023 8:20 AM
+BAG:nhocgohan add 5xNâng cấp kỹ năng 1 đệ tử (old: 4) lydo: Mua từ cửa hàng at 03/12/2023 8:20 AM
+BAG:nhocgohan add 6xNâng cấp kỹ năng 1 đệ tử (old: 5) lydo: Mua từ cửa hàng at 03/12/2023 8:20 AM
+BAG:nhocgohan add 1xÁo vải 3 lỗ lydo: Lấy từ body vào hành trang at 03/12/2023 8:21 AM
+BAG:nhocgohan add 1xĐổi đệ tử lydo: Mua từ cửa hàng at 03/12/2023 8:22 AM
+BAG:nhocgohan add 2xĐổi đệ tử (old: 1) lydo: Mua từ cửa hàng at 03/12/2023 8:22 AM
+BAG:nhocgohan add 3xĐổi đệ tử (old: 2) lydo: Mua từ cửa hàng at 03/12/2023 8:22 AM
+BAG:nhocgohan add 4xĐổi đệ tử (old: 3) lydo: Mua từ cửa hàng at 03/12/2023 8:22 AM
+BAG:nhocgohan add 5xĐổi đệ tử (old: 4) lydo: Mua từ cửa hàng at 03/12/2023 8:22 AM
+BAG:nhocgohan add 6xĐổi đệ tử (old: 5) lydo: Mua từ cửa hàng at 03/12/2023 8:22 AM
+BAG:nhocgohan add 7xĐổi đệ tử (old: 6) lydo: Mua từ cửa hàng at 03/12/2023 8:22 AM
+BAG:nhocgohan add 8xĐổi đệ tử (old: 7) lydo: Mua từ cửa hàng at 03/12/2023 8:22 AM
+BAG:nhocgohan add 9xĐổi đệ tử (old: 8) lydo: Mua từ cửa hàng at 03/12/2023 8:22 AM
+BAG:nhocgohan add 10xĐổi đệ tử (old: 9) lydo: Mua từ cửa hàng at 03/12/2023 8:22 AM
+BAG:nhocgohan add 28xHoa hồng xanh (old: 27) lydo: Nhặt từ map at 03/12/2023 8:23 AM
+BAG:nhocgohan add 1xGăng vải đen lydo: Lấy từ body vào hành trang at 03/12/2023 8:23 AM
+BAG:nhocgohan add 1xQuần vải đen lydo: Lấy từ body vào hành trang at 03/12/2023 8:24 AM
+BAG:nhocgohan add 1xGiầy nhựa lydo: Lấy từ body vào hành trang at 03/12/2023 8:24 AM
+BAG:nhocgohan add 1xRada cấp 1 lydo: Lấy từ body vào hành trang at 03/12/2023 8:24 AM
+BAG:nhocgohan add 1xÁo vải 3 lỗ lydo: Lấy từ body đệ vào hành trang at 03/12/2023 9:45 AM
+BAG:nhocgohan add 1xÁo vải 3 lỗ lydo: Lấy từ body đệ vào hành trang at 03/12/2023 9:46 AM
+BAG:nhocgohan add 1xQuần vải đen lydo: Lấy từ body đệ vào hành trang at 03/12/2023 9:46 AM
+BAG:nhocgohan add 1xGiầy nhựa lydo: Lấy từ body đệ vào hành trang at 03/12/2023 9:46 AM
+BAG:nhocgohan add 1xGăng vải đen lydo: Lấy từ body đệ vào hành trang at 03/12/2023 9:46 AM
+BAG:nhocgohan add 1xRada cấp 1 lydo: Lấy từ body đệ vào hành trang at 03/12/2023 9:46 AM
+BAG:nhocgohan add 1xCải trang Hit lydo: Lấy từ body đệ vào hành trang at 03/12/2023 9:46 AM
+BAG:nhocgohan add 29xHoa hồng xanh (old: 28) lydo: Nhặt từ map at 03/12/2023 10:07 AM
+BAG:nhocgohan add 41xĐậu thần cấp 9 (old: 21) lydo: Lấy từ rương qua người at 03/12/2023 10:10 AM
+BAG:nhocgohan add 61xĐậu thần cấp 9 (old: 41) lydo: Lấy từ rương qua người at 03/12/2023 10:14 AM
+BAG:nhocgohan add 81xĐậu thần cấp 9 (old: 61) lydo: Lấy từ rương qua người at 03/12/2023 10:14 AM
+BAG:nhocgohan add 2xĐậu thần cấp 9 lydo: Lấy từ rương qua người at 03/12/2023 10:14 AM
+BAG:nhocgohan add 99xĐậu thần cấp 9 (old: 81) lydo: Lấy từ rương qua người at 03/12/2023 10:14 AM
+BAG:nhocgohan add 1xNgọc Rồng 4 sao lydo: Nhặt từ map at 03/12/2023 10:32 AM
+BAG:nhocgohan add 1xNâng cấp kỹ năng 2 đệ tử lydo: Mua từ cửa hàng at 03/12/2023 10:47 AM
+BAG:nhocgohan add 2xNâng cấp kỹ năng 2 đệ tử (old: 1) lydo: Mua từ cửa hàng at 03/12/2023 10:47 AM
+BAG:nhocgohan add 3xNâng cấp kỹ năng 2 đệ tử (old: 2) lydo: Mua từ cửa hàng at 03/12/2023 10:47 AM
+BAG:nhocgohan add 4xNâng cấp kỹ năng 2 đệ tử (old: 3) lydo: Mua từ cửa hàng at 03/12/2023 10:47 AM
+BAG:nhocgohan add 5xNâng cấp kỹ năng 2 đệ tử (old: 4) lydo: Mua từ cửa hàng at 03/12/2023 10:47 AM
+BAG:nhocgohan add 6xNâng cấp kỹ năng 2 đệ tử (old: 5) lydo: Mua từ cửa hàng at 03/12/2023 10:47 AM
+BAG:nhocgohan add 31xĐậu thần cấp 9 (old: 11) lydo: Lấy từ rương qua người at 03/12/2023 11:44 AM
+BAG:nhocgohan add 51xĐậu thần cấp 9 (old: 31) lydo: Lấy từ rương qua người at 03/12/2023 11:44 AM
+BAG:nhocgohan add 71xĐậu thần cấp 9 (old: 51) lydo: Lấy từ rương qua người at 03/12/2023 11:44 AM
+BAG:nhocgohan add 91xĐậu thần cấp 9 (old: 71) lydo: Lấy từ rương qua người at 03/12/2023 11:45 AM
+BAG:nhocgohan add 12xĐậu thần cấp 9 lydo: Lấy từ rương qua người at 03/12/2023 11:45 AM
+BAG:nhocgohan add 99xĐậu thần cấp 9 (old: 91) lydo: Lấy từ rương qua người at 03/12/2023 11:45 AM
+BAG:nhocgohan add 32xĐậu thần cấp 9 (old: 12) lydo: Lấy từ rương qua người at 03/12/2023 11:45 AM
+BAG:nhocgohan add 52xĐậu thần cấp 9 (old: 32) lydo: Lấy từ rương qua người at 03/12/2023 11:45 AM
+BAG:nhocgohan add 72xĐậu thần cấp 9 (old: 52) lydo: Lấy từ rương qua người at 03/12/2023 11:45 AM
+BAG:nhocgohan add 92xĐậu thần cấp 9 (old: 72) lydo: Lấy từ rương qua người at 03/12/2023 11:45 AM
+BAG:nhocgohan add 13xĐậu thần cấp 9 lydo: Lấy từ rương qua người at 03/12/2023 11:45 AM
+BAG:nhocgohan add 99xĐậu thần cấp 9 (old: 92) lydo: Lấy từ rương qua người at 03/12/2023 11:45 AM
+BAG:nhocgohan add 33xĐậu thần cấp 9 (old: 13) lydo: Lấy từ rương qua người at 03/12/2023 11:45 AM
+BAG:nhocgohan add 53xĐậu thần cấp 9 (old: 33) lydo: Lấy từ rương qua người at 03/12/2023 11:45 AM
+BAG:nhocgohan add 73xĐậu thần cấp 9 (old: 53) lydo: Lấy từ rương qua người at 03/12/2023 11:46 AM
+BAG:nhocgohan add 93xĐậu thần cấp 9 (old: 73) lydo: Lấy từ rương qua người at 03/12/2023 11:46 AM
+BAG:nhocgohan add 14xĐậu thần cấp 9 lydo: Lấy từ rương qua người at 03/12/2023 11:46 AM
+BAG:nhocgohan add 99xĐậu thần cấp 9 (old: 93) lydo: Lấy từ rương qua người at 03/12/2023 11:46 AM
+BAG:nhocgohan add 34xĐậu thần cấp 9 (old: 14) lydo: Lấy từ rương qua người at 03/12/2023 11:46 AM
+BAG:nhocgohan add 54xĐậu thần cấp 9 (old: 34) lydo: Lấy từ rương qua người at 03/12/2023 11:46 AM
+BAG:nhocgohan add 74xĐậu thần cấp 9 (old: 54) lydo: Lấy từ rương qua người at 03/12/2023 11:47 AM
+BAG:nhocgohan add 1xGăng vải đen lydo: Lấy từ body đệ vào hành trang at 03/12/2023 12:24 PM
+BAG:nhocgohan add 1xGiáp tập luyện cấp 3 lydo: Mua từ cửa hàng at 03/12/2023 3:54 PM
+BAG:nhocgohan add 1xGiáp tập luyện cấp 1 lydo: Mua từ cửa hàng at 03/12/2023 3:54 PM
+BAG:nhocgohan add 1xNâng cấp kỹ năng 3 đệ tử lydo: Mua từ cửa hàng at 03/12/2023 3:54 PM
+BAG:nhocgohan add 2xNâng cấp kỹ năng 3 đệ tử (old: 1) lydo: Mua từ cửa hàng at 03/12/2023 3:55 PM
+BAG:nhocgohan add 3xNâng cấp kỹ năng 3 đệ tử (old: 2) lydo: Mua từ cửa hàng at 03/12/2023 3:55 PM
+BAG:nhocgohan add 4xNâng cấp kỹ năng 3 đệ tử (old: 3) lydo: Mua từ cửa hàng at 03/12/2023 3:55 PM
+BAG:nhocgohan add 5xNâng cấp kỹ năng 3 đệ tử (old: 4) lydo: Mua từ cửa hàng at 03/12/2023 3:55 PM
+BAG:nhocgohan add 5xNâng cấp kỹ năng 3 đệ tử (old: 4) lydo: Mua từ cửa hàng at 03/12/2023 3:55 PM
+BAG:nhocgohan add 1xGiáp tập luyện cấp 3 lydo: Lấy từ body vào hành trang at 03/12/2023 4:48 PM
+BAG:nhocgohan add 1xGiáp tập luyện cấp 3 lydo: Lấy từ body vào hành trang at 03/12/2023 4:54 PM
+BAG:nhocgohan add 42xHoa hồng vàng (old: 41) lydo: Nhặt từ map at 03/12/2023 6:00 PM
+BAG:nhocgohan add 43xHoa hồng vàng (old: 42) lydo: Nhặt từ map at 03/12/2023 6:00 PM
+BAG:nhocgohan add 1xBông tai Porata lydo: Mua từ cửa hàng at 03/12/2023 6:00 PM
+BAG:nhocgohan add 1xNho tím lydo: Mua từ cửa hàng at 03/12/2023 8:21 PM

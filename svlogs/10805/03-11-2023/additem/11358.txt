@@ -1,0 +1,66 @@
+BAG:pocolaa add 1xÁo choàng thun lydo: Lấy từ body vào hành trang at 03/11/2023 5:48 AM
+BAG:pocolaa add 20xĐậu thần cấp 10 lydo: Lấy từ rương qua người at 03/11/2023 5:48 AM
+BAG:pocolaa add 1xGiáp tập luyện cấp 1 lydo: Lấy từ body vào hành trang at 03/11/2023 6:09 AM
+BAG:pocolaa add 1xHoa hồng đỏ lydo: Nhặt từ map at 03/11/2023 12:18 PM
+BAG:pocolaa add 40xĐậu thần cấp 10 (old: 20) lydo: Lấy từ rương qua người at 03/11/2023 12:19 PM
+BAG:pocolaa add 1xSách Masenko lv1 lydo: Mua từ cửa hàng at 03/11/2023 12:21 PM
+BAG:pocolaa add 1xSách Masenko lv2 lydo: Mua từ cửa hàng at 03/11/2023 12:21 PM
+BAG:pocolaa add 1xSách Masenko lv3 lydo: Mua từ cửa hàng at 03/11/2023 12:21 PM
+BAG:pocolaa add 1xSách Masenko lv4 lydo: Mua từ cửa hàng at 03/11/2023 12:21 PM
+BAG:pocolaa add 1xSách Masenko lv5 lydo: Mua từ cửa hàng at 03/11/2023 12:21 PM
+BAG:pocolaa add 1xSách Masenko lv6 lydo: Mua từ cửa hàng at 03/11/2023 12:21 PM
+BAG:pocolaa add 1xSách Masenko lv7 lydo: Mua từ cửa hàng at 03/11/2023 12:21 PM
+BAG:pocolaa add 1xSách đấm Demon lv4 lydo: Mua từ cửa hàng at 03/11/2023 12:22 PM
+BAG:pocolaa add 1xSách đấm Demon lv5 lydo: Mua từ cửa hàng at 03/11/2023 12:22 PM
+BAG:pocolaa add 1xSách đấm Demon lv6 lydo: Mua từ cửa hàng at 03/11/2023 12:22 PM
+BAG:pocolaa add 1xSách đấm Demon lv7 lydo: Mua từ cửa hàng at 03/11/2023 12:22 PM
+BAG:pocolaa add 1xRada cấp 1 lydo: Nhặt từ map at 03/11/2023 12:25 PM
+BAG:pocolaa add 1xCải trang Luffy lydo: Lấy từ body vào hành trang at 03/11/2023 12:33 PM
+BAG:pocolaa add 1xÁo choàng len lydo: Lấy từ rương qua người at 03/11/2023 12:33 PM
+BAG:pocolaa add 1xÁo vải Pico lydo: Mua từ cửa hàng at 03/11/2023 12:33 PM
+BAG:pocolaa add 1xQuần vải cứng Pico lydo: Mua từ cửa hàng at 03/11/2023 12:33 PM
+BAG:pocolaa add 1xGăng thun cứng lydo: Mua từ cửa hàng at 03/11/2023 12:34 PM
+BAG:pocolaa add 1xRada cấp 7 lydo: Mua từ cửa hàng at 03/11/2023 12:34 PM
+BAG:pocolaa add 1xRada cấp 7 lydo: Mua từ cửa hàng at 03/11/2023 12:34 PM
+BAG:pocolaa add 1xRada cấp 6 lydo: Lấy từ body vào hành trang at 03/11/2023 12:34 PM
+BAG:pocolaa add 1xGiáp tập luyện cấp 1 lydo: Lấy từ body vào hành trang at 03/11/2023 12:40 PM
+BAG:pocolaa add 1xGăng sợi len lydo: Nhặt từ map at 03/11/2023 12:41 PM
+BAG:pocolaa add 1xHoa hồng xanh lydo: Nhặt từ map at 03/11/2023 12:43 PM
+BAG:pocolaa add 1xGiầy sợi len lydo: Nhặt từ map at 03/11/2023 12:45 PM
+BAG:pocolaa add 2xHoa hồng đỏ (old: 1) lydo: Nhặt từ map at 03/11/2023 12:45 PM
+BAG:pocolaa add 1xHoa hồng vàng lydo: Nhặt từ map at 03/11/2023 12:45 PM
+BAG:pocolaa add 1xÁo da Pico lydo: Mua từ cửa hàng at 03/11/2023 12:48 PM
+BAG:pocolaa add 1xQuần vải mềm Pico lydo: Mua từ cửa hàng at 03/11/2023 12:48 PM
+BAG:pocolaa add 1xGiày sắt Pico lydo: Mua từ cửa hàng at 03/11/2023 12:48 PM
+BAG:pocolaa add 1xRada cấp 8 lydo: Mua từ cửa hàng at 03/11/2023 12:49 PM
+BAG:pocolaa add 1xQuần sợi len lydo: Nhặt từ map at 03/11/2023 12:54 PM
+BAG:pocolaa add 1xGiáp tập luyện cấp 1 lydo: Lấy từ body vào hành trang at 03/11/2023 12:55 PM
+BAG:pocolaa add 2xHoa hồng vàng (old: 1) lydo: Nhặt từ map at 03/11/2023 12:56 PM
+BAG:pocolaa add 3xHoa hồng đỏ (old: 2) lydo: Nhặt từ map at 03/11/2023 12:58 PM
+BAG:pocolaa add 1xĐá Saphia lydo: Nhặt từ map at 03/11/2023 12:58 PM
+BAG:pocolaa add 33xĐậu thần cấp 10 (old: 14) lydo: Lấy từ rương qua người at 03/11/2023 1:00 PM
+BAG:pocolaa add 53xĐậu thần cấp 10 (old: 33) lydo: Lấy từ rương qua người at 03/11/2023 1:01 PM
+BAG:pocolaa add 1xMakankosappo lv1 lydo: Mua từ cửa hàng at 03/11/2023 1:01 PM
+BAG:pocolaa add 1xMakankosappo lv2 lydo: Mua từ cửa hàng at 03/11/2023 1:02 PM
+BAG:pocolaa add 1xMakankosappo lv3 lydo: Mua từ cửa hàng at 03/11/2023 1:02 PM
+BAG:pocolaa add 1xMakankosappo lv4 lydo: Mua từ cửa hàng at 03/11/2023 1:03 PM
+BAG:pocolaa add 1xMakankosappo lv5 lydo: Mua từ cửa hàng at 03/11/2023 1:03 PM
+BAG:pocolaa add 1xMakankosappo lv6 lydo: Mua từ cửa hàng at 03/11/2023 1:03 PM
+BAG:pocolaa add 1xMakankosappo lv7 lydo: Mua từ cửa hàng at 03/11/2023 1:03 PM
+BAG:pocolaa add 1xHoa hồng xanh lydo: Nhặt từ map at 03/11/2023 1:05 PM
+BAG:pocolaa add 1xCải trang Mabư Noel lydo: Mua từ cửa hàng at 03/11/2023 1:16 PM
+BAG:pocolaa add 1xĐá Titan lydo: Nhặt từ map at 03/11/2023 1:28 PM
+BAG:pocolaa add 1xĐẻ trứng lv1 lydo: Mua từ cửa hàng at 03/11/2023 1:35 PM
+BAG:pocolaa add 1xĐẻ trứng lv2 lydo: Mua từ cửa hàng at 03/11/2023 1:35 PM
+BAG:pocolaa add 1xĐẻ trứng lv3 lydo: Mua từ cửa hàng at 03/11/2023 1:35 PM
+BAG:pocolaa add 1xĐẻ trứng lv4 lydo: Mua từ cửa hàng at 03/11/2023 1:35 PM
+BAG:pocolaa add 1xĐẻ trứng lv5 lydo: Mua từ cửa hàng at 03/11/2023 1:35 PM
+BAG:pocolaa add 1xĐẻ trứng lv6 lydo: Mua từ cửa hàng at 03/11/2023 1:35 PM
+BAG:pocolaa add 1xĐẻ trứng lv7 lydo: Mua từ cửa hàng at 03/11/2023 1:35 PM
+BAG:pocolaa add 1xGiầy sợi len lydo: Nhặt từ map at 03/11/2023 1:37 PM
+BAG:pocolaa add 1xBông tai Porata lydo: Mua từ cửa hàng at 03/11/2023 1:39 PM
+BAG:pocolaa add 1xMảnh Phi long lydo: Nhặt từ map at 03/11/2023 2:19 PM
+BAG:pocolaa add 1xQuỷ Chim lydo: Mua từ cửa hàng at 03/11/2023 2:23 PM
+BAG:pocolaa add 1xHoa hồng vàng lydo: Nhặt từ map at 03/11/2023 6:43 PM
+BAG:pocolaa add 1xÁo sợi len lydo: Nhặt từ map at 03/11/2023 6:44 PM
+BAG:pocolaa add 1xĐá Ruby lydo: Nhặt từ map at 03/11/2023 6:44 PM

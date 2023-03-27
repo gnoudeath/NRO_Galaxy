@@ -1,0 +1,20 @@
+BAG:bipikcon add 14xẨn danh (old: 13) lydo: CSKB at 03/13/2023 1:07 AM
+BAG:bipikcon add 12xCuồng nộ (old: 11) lydo: CSKB at 03/13/2023 1:07 AM
+BAG:bipikcon add 15xẨn danh (old: 14) lydo: CSKB at 03/13/2023 1:07 AM
+BAG:bipikcon add 3xBổ huyết (old: 2) lydo: CSKB at 03/13/2023 1:08 AM
+BAG:bipikcon add 16xẨn danh (old: 15) lydo: CSKB at 03/13/2023 1:08 AM
+BAG:bipikcon add 4xBổ huyết (old: 3) lydo: CSKB at 03/13/2023 1:08 AM
+BAG:bipikcon add 22xHoa hồng xanh (old: 21) lydo: Nhặt từ map at 03/13/2023 1:08 AM
+BAG:bipikcon add 1xThiệp chúc mừng xanh lydo: Nhặt từ map at 03/13/2023 1:15 AM
+BAG:bipikcon add 1xCải trang Mabư Noel lydo: Mua từ cửa hàng at 03/13/2023 1:16 AM
+BAG:bipikcon add 23xHoa hồng xanh (old: 22) lydo: Nhặt từ map at 03/13/2023 1:17 AM
+BAG:bipikcon add 31xHoa hồng vàng (old: 30) lydo: Nhặt từ map at 03/13/2023 1:22 AM
+BAG:bipikcon add 32xHoa hồng vàng (old: 31) lydo: Nhặt từ map at 03/13/2023 1:24 AM
+BAG:bipikcon add 1xGiầy sợi len lydo: Nhặt từ map at 03/13/2023 1:26 AM
+BAG:bipikcon add 1xRada cấp 1 lydo: Nhặt từ map at 03/13/2023 1:26 AM
+BAG:bipikcon add 33xHoa hồng vàng (old: 32) lydo: Nhặt từ map at 03/13/2023 1:26 AM
+BAG:bipikcon add 1xGiầy sợi len lydo: Nhặt từ map at 03/13/2023 1:26 AM
+BAG:bipikcon add 34xHoa hồng vàng (old: 33) lydo: Nhặt từ map at 03/13/2023 1:26 AM
+BAG:bipikcon add 1xGăng sợi len lydo: Nhặt từ map at 03/13/2023 1:26 AM
+BAG:bipikcon add 35xHoa hồng vàng (old: 34) lydo: Nhặt từ map at 03/13/2023 1:26 AM
+BAG:bipikcon add 25xHoa hồng đỏ (old: 24) lydo: Nhặt từ map at 03/13/2023 1:26 AM

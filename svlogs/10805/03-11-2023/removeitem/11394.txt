@@ -1,0 +1,94 @@
+BAG:saplamtrum remove 1xĐậu thần cấp 8 lydo: Ăn đậu at 03/11/2023 1:19 AM
+BAG:saplamtrum remove Áo sợi len lydo: Cất vào rương at 03/11/2023 9:11 AM
+BAG:saplamtrum remove Áo sợi len lydo: Cất vào rương at 03/11/2023 9:11 AM
+BAG:saplamtrum remove Quần sợi len lydo: Cất vào rương at 03/11/2023 9:11 AM
+BAG:saplamtrum remove Quần sợi len lydo: Cất vào rương at 03/11/2023 9:11 AM
+BAG:saplamtrum remove Quần sợi len lydo: Cất vào rương at 03/11/2023 9:11 AM
+BAG:saplamtrum remove Rada cấp 1 lydo: Cất vào rương at 03/11/2023 9:11 AM
+BAG:saplamtrum remove Rada cấp 1 lydo: Cất vào rương at 03/11/2023 9:11 AM
+BAG:saplamtrum remove Rada cấp 1 lydo: Cất vào rương at 03/11/2023 9:12 AM
+BAG:saplamtrum remove 1xĐậu thần cấp 8 lydo: Ăn đậu at 03/11/2023 9:15 AM
+BAG:saplamtrum remove 1xĐậu thần cấp 8 lydo: Ăn đậu at 03/11/2023 9:16 AM
+BAG:saplamtrum remove 1xĐậu thần cấp 8 lydo: Ăn đậu at 03/11/2023 9:16 AM
+BAG:saplamtrum remove 1xĐậu thần cấp 8 lydo: Ăn đậu at 03/11/2023 9:16 AM
+BAG:saplamtrum remove 1xÁo sợi len lydo: Bán cho shop at 03/11/2023 9:27 AM
+BAG:saplamtrum remove 1xRada cấp 1 lydo: Bán cho shop at 03/11/2023 9:28 AM
+BAG:saplamtrum remove 2xThỏi vàng lydo: Mua đồ hủy diệt at 03/11/2023 9:28 AM
+BAG:saplamtrum remove Thỏi vàng lydo: Cất vào rương at 03/11/2023 9:29 AM
+BAG:saplamtrum remove Ngọc Rồng 3 sao lydo: Cất vào rương at 03/11/2023 9:29 AM
+BAG:saplamtrum remove Rada cấp 1 lydo: Cất vào rương at 03/11/2023 9:29 AM
+BAG:saplamtrum remove Giỏ hoa lydo: Cất vào rương at 03/11/2023 9:29 AM
+BAG:saplamtrum remove 1xNâng cấp kỹ năng 1 đệ tử lydo: Dùng sách kĩ năng đệ tử at 03/11/2023 9:35 AM
+BAG:saplamtrum remove 1xNâng cấp kỹ năng 1 đệ tử lydo: Dùng sách kĩ năng đệ tử at 03/11/2023 9:35 AM
+BAG:saplamtrum remove 1xNâng cấp kỹ năng 1 đệ tử lydo: Dùng sách kĩ năng đệ tử at 03/11/2023 9:35 AM
+BAG:saplamtrum remove Rada cấp 1 lydo: Mặc vào người at 03/11/2023 3:14 PM
+BAG:saplamtrum remove Viên Capsule đặc biệt lydo: Cất vào rương at 03/11/2023 3:16 PM
+BAG:saplamtrum remove Mảnh Thằn lằn bay lydo: Cất vào rương at 03/11/2023 3:16 PM
+BAG:saplamtrum remove Nâng cấp kỹ năng 1 đệ tử lydo: Cất vào rương at 03/11/2023 3:16 PM
+BAG:saplamtrum remove Viên Capsule đặc biệt lydo: Cất vào rương at 03/11/2023 3:20 PM
+BAG:saplamtrum remove Thỏi vàng lydo: Cất vào rương at 03/11/2023 3:21 PM
+BAG:saplamtrum remove 1xĐậu thần cấp 8 lydo: Ăn đậu at 03/11/2023 3:23 PM
+BAG:saplamtrum remove 1xĐậu thần cấp 8 lydo: Ăn đậu at 03/11/2023 3:24 PM
+BAG:saplamtrum remove 1xĐậu thần cấp 8 lydo: Ăn đậu at 03/11/2023 3:24 PM
+BAG:saplamtrum remove 1xĐậu thần cấp 8 lydo: Ăn đậu at 03/11/2023 3:25 PM
+BAG:saplamtrum remove 1xTự động luyện tập lydo: Bán cho shop at 03/11/2023 3:30 PM
+BAG:saplamtrum remove 1xQuần sợi len lydo: Bán cho shop at 03/11/2023 3:30 PM
+BAG:saplamtrum remove 1xQuần sợi len lydo: Bán cho shop at 03/11/2023 3:30 PM
+BAG:saplamtrum remove 1xRada cấp 1 lydo: Bán cho shop at 03/11/2023 3:30 PM
+BAG:saplamtrum remove 1xRada cấp 1 lydo: Bán cho shop at 03/11/2023 3:30 PM
+BAG:saplamtrum remove 1xGiầy sợi len lydo: Bán cho shop at 03/11/2023 3:30 PM
+BAG:saplamtrum remove 1xRada cấp 1 lydo: Bán cho shop at 03/11/2023 3:31 PM
+BAG:saplamtrum remove 1xQuần sợi len lydo: Bán cho shop at 03/11/2023 3:31 PM
+BAG:saplamtrum remove 22xĐậu thần cấp 8 lydo: Bán cho shop at 03/11/2023 3:31 PM
+BAG:saplamtrum remove 1xÁo sợi len lydo: Bán cho shop at 03/11/2023 3:31 PM
+BAG:saplamtrum remove 1xGiầy sợi len lydo: Bán cho shop at 03/11/2023 3:31 PM
+BAG:saplamtrum remove Giày nhựa cứng lydo: Mặc vào người at 03/11/2023 3:31 PM
+BAG:saplamtrum remove Giầy sợi len lydo: Tự Xóa vật phẩm at 03/11/2023 3:36 PM
+BAG:saplamtrum remove Giầy sợi len lydo: Tự Xóa vật phẩm at 03/11/2023 3:36 PM
+BAG:saplamtrum remove Rada cấp 1 lydo: Tự Xóa vật phẩm at 03/11/2023 3:38 PM
+BAG:saplamtrum remove Giầy sợi len lydo: Tự Xóa vật phẩm at 03/11/2023 3:38 PM
+BAG:saplamtrum remove Quần sợi len lydo: Tự Xóa vật phẩm at 03/11/2023 3:38 PM
+BAG:saplamtrum remove Quần sợi len lydo: Tự Xóa vật phẩm at 03/11/2023 3:39 PM
+BAG:saplamtrum remove Quần sợi len lydo: Tự Xóa vật phẩm at 03/11/2023 3:39 PM
+BAG:saplamtrum remove Áo sợi len lydo: Tự Xóa vật phẩm at 03/11/2023 3:39 PM
+BAG:saplamtrum remove Giầy sợi len lydo: Tự Xóa vật phẩm at 03/11/2023 3:39 PM
+BAG:saplamtrum remove Giầy sợi len lydo: Tự Xóa vật phẩm at 03/11/2023 3:39 PM
+BAG:saplamtrum remove Quần sợi len lydo: Tự Xóa vật phẩm at 03/11/2023 3:39 PM
+BAG:saplamtrum remove Rada cấp 1 lydo: Tự Xóa vật phẩm at 03/11/2023 3:39 PM
+BAG:saplamtrum remove Giầy sợi len lydo: Tự Xóa vật phẩm at 03/11/2023 3:40 PM
+BAG:saplamtrum remove Găng sợi len lydo: Tự Xóa vật phẩm at 03/11/2023 3:40 PM
+BAG:saplamtrum remove Giầy sợi len lydo: Tự Xóa vật phẩm at 03/11/2023 3:40 PM
+BAG:saplamtrum remove Găng sợi len lydo: Tự Xóa vật phẩm at 03/11/2023 3:41 PM
+BAG:saplamtrum remove Rada cấp 1 lydo: Tự Xóa vật phẩm at 03/11/2023 3:41 PM
+BAG:saplamtrum remove Rada cấp 1 lydo: Tự Xóa vật phẩm at 03/11/2023 3:41 PM
+BAG:saplamtrum remove Giầy sợi len lydo: Tự Xóa vật phẩm at 03/11/2023 3:41 PM
+BAG:saplamtrum remove Rada cấp 1 lydo: Tự Xóa vật phẩm at 03/11/2023 3:41 PM
+BAG:saplamtrum remove Rada cấp 1 lydo: Tự Xóa vật phẩm at 03/11/2023 3:41 PM
+BAG:saplamtrum remove Áo sợi len lydo: Tự Xóa vật phẩm at 03/11/2023 3:41 PM
+BAG:saplamtrum remove 1xĐậu thần cấp 8 lydo: Ăn đậu at 03/11/2023 3:41 PM
+BAG:saplamtrum remove Giầy sợi len lydo: Tự Xóa vật phẩm at 03/11/2023 3:42 PM
+BAG:saplamtrum remove Áo sợi len lydo: Tự Xóa vật phẩm at 03/11/2023 3:42 PM
+BAG:saplamtrum remove 1xRada cấp 1 lydo: Bán cho shop at 03/11/2023 3:43 PM
+BAG:saplamtrum remove 1xGiày nhựa cứng lydo: Bán cho shop at 03/11/2023 3:43 PM
+BAG:saplamtrum remove 1xRada cấp 1 lydo: Bán cho shop at 03/11/2023 3:43 PM
+BAG:saplamtrum remove 1xQuần sợi len lydo: Bán cho shop at 03/11/2023 3:43 PM
+BAG:saplamtrum remove 1xGăng sợi len lydo: Bán cho shop at 03/11/2023 3:43 PM
+BAG:saplamtrum remove 1xRada cấp 1 lydo: Bán cho shop at 03/11/2023 3:43 PM
+BAG:saplamtrum remove 1xÁo choàng len lydo: Bán cho shop at 03/11/2023 3:44 PM
+BAG:saplamtrum remove 1xRada cấp 1 lydo: Bán cho shop at 03/11/2023 3:44 PM
+BAG:saplamtrum remove 1xQuần sợi len lydo: Bán cho shop at 03/11/2023 3:44 PM
+BAG:saplamtrum remove 1xRada cấp 1 lydo: Bán cho shop at 03/11/2023 3:44 PM
+BAG:saplamtrum remove 1xÁo sợi len lydo: Bán cho shop at 03/11/2023 3:45 PM
+BAG:saplamtrum remove 1xÁo sợi len lydo: Bán cho shop at 03/11/2023 3:45 PM
+BAG:saplamtrum remove 1xQuần sợi len lydo: Bán cho shop at 03/11/2023 3:45 PM
+BAG:saplamtrum remove 1xQuần sợi len lydo: Bán cho shop at 03/11/2023 3:45 PM
+BAG:saplamtrum remove 1xQuần sợi len lydo: Bán cho shop at 03/11/2023 3:45 PM
+BAG:saplamtrum remove 1xRada cấp 1 lydo: Bán cho shop at 03/11/2023 3:45 PM
+BAG:saplamtrum remove 1xRada cấp 1 lydo: Bán cho shop at 03/11/2023 3:45 PM
+BAG:saplamtrum remove 1xRada cấp 1 lydo: Bán cho shop at 03/11/2023 3:45 PM
+BAG:saplamtrum remove 2xMảnh Quỷ đất lydo: Bán cho shop at 03/11/2023 3:45 PM
+BAG:saplamtrum remove 100xThỏi vàng lydo: Mua đồ hủy diệt at 03/11/2023 3:45 PM
+BAG:saplamtrum remove Cải Trang Thần Zeno Namec lydo: Mặc vào người at 03/11/2023 3:45 PM
+BAG:saplamtrum remove 1xĐậu thần cấp 8 lydo: Ăn đậu at 03/11/2023 3:51 PM
+BAG:saplamtrum remove 1xĐậu thần cấp 8 lydo: Ăn đậu at 03/11/2023 3:56 PM
+BAG:saplamtrum remove 1xĐậu thần cấp 8 lydo: Ăn đậu at 03/11/2023 4:00 PM

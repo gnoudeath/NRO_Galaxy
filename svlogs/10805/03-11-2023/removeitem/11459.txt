@@ -1,0 +1,44 @@
+BAG:traidatol remove 100xThỏi vàng lydo: Mua đồ hủy diệt at 03/11/2023 12:29 PM
+BAG:traidatol remove 50xThỏi vàng lydo: Mua đồ hủy diệt at 03/11/2023 12:29 PM
+BAG:traidatol remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 03/11/2023 12:32 PM
+BAG:traidatol remove Cải Trang Thần Zeno Namec lydo: Mặc vào người at 03/11/2023 12:33 PM
+BAG:traidatol remove Rada cấp 1 lydo: Mặc vào người at 03/11/2023 12:34 PM
+BAG:traidatol remove Rada cấp 1 lydo: Tự Xóa vật phẩm at 03/11/2023 12:37 PM
+BAG:traidatol remove Rada cấp 1 lydo: Tự Xóa vật phẩm at 03/11/2023 12:37 PM
+BAG:traidatol remove Quần sợi len lydo: Tự Xóa vật phẩm at 03/11/2023 12:38 PM
+BAG:traidatol remove Rada cấp 1 lydo: Tự Xóa vật phẩm at 03/11/2023 12:39 PM
+BAG:traidatol remove Quần sợi len lydo: Tự Xóa vật phẩm at 03/11/2023 12:39 PM
+BAG:traidatol remove Quần sợi len lydo: Tự Xóa vật phẩm at 03/11/2023 12:40 PM
+BAG:traidatol remove Quần sợi len lydo: Tự Xóa vật phẩm at 03/11/2023 12:40 PM
+BAG:traidatol remove Quần sợi len lydo: Tự Xóa vật phẩm at 03/11/2023 12:40 PM
+BAG:traidatol remove Áo sợi len lydo: Tự Xóa vật phẩm at 03/11/2023 12:42 PM
+BAG:traidatol remove Rada cấp 1 lydo: Tự Xóa vật phẩm at 03/11/2023 12:42 PM
+BAG:traidatol remove 10xHoa hồng vàng lydo: Đổi hoa at 03/11/2023 12:43 PM
+BAG:traidatol remove Rada cấp 1 lydo: Cất vào rương at 03/11/2023 12:43 PM
+BAG:traidatol remove Quần sợi len lydo: Cất vào rương at 03/11/2023 12:44 PM
+BAG:traidatol remove Quần sợi len lydo: Cất vào rương at 03/11/2023 12:44 PM
+BAG:traidatol remove Giầy sợi len lydo: Cất vào rương at 03/11/2023 12:44 PM
+BAG:traidatol remove Rada cấp 1 lydo: Cất vào rương at 03/11/2023 12:44 PM
+BAG:traidatol remove Rada cấp 1 lydo: Cất vào rương at 03/11/2023 12:44 PM
+BAG:traidatol remove Quần sợi len lydo: Cất vào rương at 03/11/2023 12:45 PM
+BAG:traidatol remove Quần sợi len lydo: Cất vào rương at 03/11/2023 12:45 PM
+BAG:traidatol remove Quần sợi len lydo: Cất vào rương at 03/11/2023 12:45 PM
+BAG:traidatol remove Giầy sợi len lydo: Cất vào rương at 03/11/2023 12:45 PM
+BAG:traidatol remove Giầy sợi len lydo: Cất vào rương at 03/11/2023 12:46 PM
+BAG:traidatol remove Rada cấp 1 lydo: Cất vào rương at 03/11/2023 12:46 PM
+BAG:traidatol remove Rada cấp 1 lydo: Cất vào rương at 03/11/2023 12:46 PM
+BAG:traidatol remove Quần sợi len lydo: Tự Xóa vật phẩm at 03/11/2023 12:46 PM
+BAG:traidatol remove Giầy sợi len lydo: Tự Xóa vật phẩm at 03/11/2023 12:46 PM
+BAG:traidatol remove Rada cấp 1 lydo: Tự Xóa vật phẩm at 03/11/2023 12:46 PM
+BAG:traidatol remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 03/11/2023 12:51 PM
+BAG:traidatol remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 03/11/2023 12:51 PM
+BAG:traidatol remove Cải Trang Thần Zeno Namec lydo: Mặc vào người at 03/11/2023 12:52 PM
+BAG:traidatol remove 10xHoa hồng đỏ lydo: Đổi hoa at 03/11/2023 12:52 PM
+BAG:traidatol remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 03/11/2023 12:54 PM
+BAG:traidatol remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 03/11/2023 12:54 PM
+BAG:traidatol remove 10xHoa hồng đỏ lydo: Đổi hoa at 03/11/2023 1:02 PM
+BAG:traidatol remove 10xHoa hồng xanh lydo: Đổi hoa at 03/11/2023 1:02 PM
+BAG:traidatol remove 10xHoa hồng xanh lydo: Đổi hoa at 03/11/2023 1:02 PM
+BAG:traidatol remove 10xHoa hồng vàng lydo: Đổi hoa at 03/11/2023 1:03 PM
+BAG:traidatol remove 10xHoa hồng vàng lydo: Đổi hoa at 03/11/2023 1:03 PM
+BAG:traidatol remove 1xNâng cấp kỹ năng 1 đệ tử lydo: Dùng sách kĩ năng đệ tử at 03/11/2023 1:07 PM

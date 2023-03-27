@@ -1,0 +1,17 @@
+BAG:buffvang add 1xRada cấp 1 lydo: Lấy từ rương qua người at 03/12/2023 10:06 AM
+BAG:buffvang add 5xĐậu thần cấp 1 lydo: Thu hoạch đậu at 03/12/2023 10:06 AM
+BAG:buffvang add 150xThỏi vàng lydo: Giftcode at 03/12/2023 10:08 AM
+BAG:buffvang add 99xNgọc Rồng 3 sao lydo: Giftcode at 03/12/2023 10:08 AM
+BAG:buffvang add 8xĐậu thần cấp 1 (old: 5) lydo: Thu hoạch đậu at 03/12/2023 10:12 AM
+BAG:buffvang add 1xQuần vải thô lydo: Nhặt từ map at 03/12/2023 10:13 AM
+BAG:buffvang add 1xMảnh Quỷ đất mẹ lydo: Nhặt từ map at 03/12/2023 10:14 AM
+BAG:buffvang add 1xGiầy vải thô lydo: Nhặt từ map at 03/12/2023 10:14 AM
+BAG:buffvang add 1xRada cấp 1 lydo: Nhặt từ map at 03/12/2023 10:15 AM
+BAG:buffvang add 1xGiầy vải thô lydo: Nhặt từ map at 03/12/2023 10:15 AM
+BAG:buffvang add 1xÁo vải thô lydo: Nhặt từ map at 03/12/2023 10:17 AM
+BAG:buffvang add 1xRada cấp 1 lydo: Nhặt từ map at 03/12/2023 10:18 AM
+BAG:buffvang add 1xGiầy vải thô lydo: Nhặt từ map at 03/12/2023 10:18 AM
+BAG:buffvang add 1xGăng vải thô lydo: Nhặt từ map at 03/12/2023 10:18 AM
+BAG:buffvang add 1xÁo vải thô lydo: Nhặt từ map at 03/12/2023 10:19 AM
+BAG:buffvang add 5xĐậu thần cấp 1 lydo: Thu hoạch đậu at 03/12/2023 10:23 AM
+BAG:buffvang add 1xViên Capsule đặc biệt lydo: Mua từ cửa hàng at 03/12/2023 10:26 AM

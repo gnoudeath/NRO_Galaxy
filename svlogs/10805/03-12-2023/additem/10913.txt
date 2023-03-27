@@ -1,0 +1,70 @@
+BAG:rengoku add 73xHoa hồng vàng (old: 72) lydo: Nhặt từ map at 03/12/2023 7:47 AM
+BAG:rengoku add 74xHoa hồng vàng (old: 73) lydo: Nhặt từ map at 03/12/2023 7:48 AM
+BAG:rengoku add 75xHoa hồng vàng (old: 74) lydo: Nhặt từ map at 03/12/2023 7:48 AM
+BAG:rengoku add 45xHoa hồng đỏ (old: 44) lydo: Nhặt từ map at 03/12/2023 7:48 AM
+BAG:rengoku add 1xGiáp tập luyện cấp 3 lydo: Lấy từ body vào hành trang at 03/12/2023 7:49 AM
+BAG:rengoku add 76xHoa hồng vàng (old: 75) lydo: Nhặt từ map at 03/12/2023 7:49 AM
+BAG:rengoku add 1xĐá Saphia lydo: Nhặt từ map at 03/12/2023 7:49 AM
+BAG:rengoku add 46xHoa hồng đỏ (old: 45) lydo: Nhặt từ map at 03/12/2023 7:50 AM
+BAG:rengoku add 77xHoa hồng vàng (old: 76) lydo: Nhặt từ map at 03/12/2023 7:50 AM
+BAG:rengoku add 47xHoa hồng đỏ (old: 46) lydo: Nhặt từ map at 03/12/2023 7:50 AM
+BAG:rengoku add 78xHoa hồng vàng (old: 77) lydo: Nhặt từ map at 03/12/2023 7:51 AM
+BAG:rengoku add 2xĐá Saphia (old: 1) lydo: Nhặt từ map at 03/12/2023 7:51 AM
+BAG:rengoku add 79xHoa hồng vàng (old: 78) lydo: Nhặt từ map at 03/12/2023 7:51 AM
+BAG:rengoku add 1xĐá Ruby lydo: Nhặt từ map at 03/12/2023 7:51 AM
+BAG:rengoku add 57xHoa hồng xanh (old: 56) lydo: Nhặt từ map at 03/12/2023 7:52 AM
+BAG:rengoku add 48xHoa hồng đỏ (old: 47) lydo: Nhặt từ map at 03/12/2023 7:52 AM
+BAG:rengoku add 80xHoa hồng vàng (old: 79) lydo: Nhặt từ map at 03/12/2023 7:53 AM
+BAG:rengoku add 8xĐá Titan (old: 7) lydo: Nhặt từ map at 03/12/2023 7:54 AM
+BAG:rengoku add 58xHoa hồng xanh (old: 57) lydo: Nhặt từ map at 03/12/2023 7:55 AM
+BAG:rengoku add 9xĐá Titan (old: 8) lydo: Nhặt từ map at 03/12/2023 7:55 AM
+BAG:rengoku add 10xĐá Titan (old: 9) lydo: Nhặt từ map at 03/12/2023 7:55 AM
+BAG:rengoku add 59xHoa hồng xanh (old: 58) lydo: Nhặt từ map at 03/12/2023 7:55 AM
+BAG:rengoku add 81xHoa hồng vàng (old: 80) lydo: Nhặt từ map at 03/12/2023 7:56 AM
+BAG:rengoku add 82xHoa hồng vàng (old: 81) lydo: Nhặt từ map at 03/12/2023 7:56 AM
+BAG:rengoku add 1xĐá lục bảo lydo: Nhặt từ map at 03/12/2023 7:57 AM
+BAG:rengoku add 83xHoa hồng vàng (old: 82) lydo: Nhặt từ map at 03/12/2023 7:57 AM
+BAG:rengoku add 84xHoa hồng vàng (old: 83) lydo: Nhặt từ map at 03/12/2023 7:57 AM
+BAG:rengoku add 3xĐá Saphia (old: 2) lydo: Nhặt từ map at 03/12/2023 7:57 AM
+BAG:rengoku add 11xĐá Titan (old: 10) lydo: Nhặt từ map at 03/12/2023 7:58 AM
+BAG:rengoku add 60xHoa hồng xanh (old: 59) lydo: Nhặt từ map at 03/12/2023 7:58 AM
+BAG:rengoku add 85xHoa hồng vàng (old: 84) lydo: Nhặt từ map at 03/12/2023 7:59 AM
+BAG:rengoku add 49xHoa hồng đỏ (old: 48) lydo: Nhặt từ map at 03/12/2023 7:59 AM
+BAG:rengoku add 1xCT Genma 01 lydo: Lấy từ body vào hành trang at 03/12/2023 8:02 AM
+BAG:rengoku add 86xHoa hồng vàng (old: 85) lydo: Nhặt từ map at 03/12/2023 8:10 AM
+BAG:rengoku add 87xHoa hồng vàng (old: 86) lydo: Nhặt từ map at 03/12/2023 8:11 AM
+BAG:rengoku add 8xNgọc Rồng 4 sao (old: 7) lydo: Nhặt từ map at 03/12/2023 8:16 AM
+BAG:rengoku add 61xHoa hồng xanh (old: 60) lydo: Nhặt từ map at 03/12/2023 8:17 AM
+BAG:rengoku add 88xHoa hồng vàng (old: 87) lydo: Nhặt từ map at 03/12/2023 8:25 AM
+BAG:rengoku add 89xHoa hồng vàng (old: 88) lydo: Nhặt từ map at 03/12/2023 8:26 AM
+BAG:rengoku add 4xĐá Saphia (old: 3) lydo: Nhặt từ map at 03/12/2023 8:27 AM
+BAG:rengoku add 62xHoa hồng xanh (old: 61) lydo: Nhặt từ map at 03/12/2023 8:28 AM
+BAG:rengoku add 90xHoa hồng vàng (old: 89) lydo: Nhặt từ map at 03/12/2023 8:29 AM
+BAG:rengoku add 1xNâng cấp kỹ năng 2 đệ tử lydo: Mua từ cửa hàng at 03/12/2023 8:32 AM
+BAG:rengoku add 2xNâng cấp kỹ năng 2 đệ tử (old: 1) lydo: Mua từ cửa hàng at 03/12/2023 8:32 AM
+BAG:rengoku add 3xNâng cấp kỹ năng 2 đệ tử (old: 2) lydo: Mua từ cửa hàng at 03/12/2023 8:32 AM
+BAG:rengoku add 4xNâng cấp kỹ năng 2 đệ tử (old: 3) lydo: Mua từ cửa hàng at 03/12/2023 8:32 AM
+BAG:rengoku add 5xNâng cấp kỹ năng 2 đệ tử (old: 4) lydo: Mua từ cửa hàng at 03/12/2023 8:32 AM
+BAG:rengoku add 6xNâng cấp kỹ năng 2 đệ tử (old: 5) lydo: Mua từ cửa hàng at 03/12/2023 8:32 AM
+BAG:rengoku add 1xĐặt tên đệ tử lydo: Mua từ cửa hàng at 03/12/2023 8:33 AM
+BAG:rengoku add 1xGiáp tập luyện cấp 3 lydo: Lấy từ body vào hành trang at 03/12/2023 10:05 AM
+BAG:rengoku add 50xHoa hồng đỏ (old: 49) lydo: Nhặt từ map at 03/12/2023 10:06 AM
+BAG:rengoku add 1xĐá lục bảo lydo: Nhặt từ map at 03/12/2023 10:10 AM
+BAG:rengoku add 18xĐá thạch anh tím (old: 17) lydo: Nhặt từ map at 03/12/2023 10:14 AM
+BAG:rengoku add 63xHoa hồng xanh (old: 62) lydo: Nhặt từ map at 03/12/2023 10:15 AM
+BAG:rengoku add 64xHoa hồng xanh (old: 63) lydo: Nhặt từ map at 03/12/2023 10:17 AM
+BAG:rengoku add 91xHoa hồng vàng (old: 90) lydo: Nhặt từ map at 03/12/2023 10:18 AM
+BAG:rengoku add 92xHoa hồng vàng (old: 91) lydo: Nhặt từ map at 03/12/2023 10:20 AM
+BAG:rengoku add 51xHoa hồng đỏ (old: 50) lydo: Nhặt từ map at 03/12/2023 10:31 AM
+BAG:rengoku add 10xĐậu thần cấp 10 (old: 3) lydo: Thu hoạch đậu at 03/12/2023 10:38 AM
+BAG:rengoku add 30xĐậu thần cấp 10 (old: 10) lydo: Lấy từ rương qua người at 03/12/2023 10:38 AM
+BAG:rengoku add 49xĐậu thần cấp 10 (old: 30) lydo: Lấy từ rương qua người at 03/12/2023 10:38 AM
+BAG:rengoku add 69xĐậu thần cấp 10 (old: 49) lydo: Lấy từ rương qua người at 03/12/2023 10:38 AM
+BAG:rengoku add 89xĐậu thần cấp 10 (old: 69) lydo: Lấy từ rương qua người at 03/12/2023 10:39 AM
+BAG:rengoku add 52xHoa hồng đỏ (old: 51) lydo: Nhặt từ map at 03/12/2023 10:55 AM
+BAG:rengoku add 1xGiáp tập luyện cấp 3 lydo: Lấy từ body vào hành trang at 03/12/2023 5:16 PM
+BAG:rengoku add 1xNgọc Rồng 5 sao lydo: Nhặt từ map at 03/12/2023 5:18 PM
+BAG:rengoku add 1xĐá Titan lydo: Nhặt từ map at 03/12/2023 5:19 PM
+BAG:rengoku add 93xHoa hồng vàng (old: 92) lydo: Nhặt từ map at 03/12/2023 5:20 PM
+BAG:rengoku add 65xHoa hồng xanh (old: 64) lydo: Nhặt từ map at 03/12/2023 5:25 PM
+BAG:rengoku add 1xGiáp tập luyện cấp 1 lydo: Mua từ cửa hàng at 03/12/2023 7:11 PM

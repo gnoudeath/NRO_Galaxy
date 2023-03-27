@@ -1,0 +1,56 @@
+BAG:hghandzs2 add 21xHoa hồng vàng (old: 20) lydo: Nhặt từ map at 03/12/2023 6:54 AM
+BAG:hghandzs2 add 11xHoa hồng xanh (old: 10) lydo: Nhặt từ map at 03/12/2023 6:55 AM
+BAG:hghandzs2 add 1xGăng len cứng lydo: Mua từ cửa hàng at 03/12/2023 6:56 AM
+BAG:hghandzs2 add 1xGăng thun cứng lydo: Mua từ cửa hàng at 03/12/2023 6:56 AM
+BAG:hghandzs2 add 1xInosuke Hashibira lydo: Lấy từ body đệ vào hành trang at 03/12/2023 6:57 AM
+BAG:hghandzs2 add 1xRada cấp 1 lydo: Lấy từ body vào hành trang at 03/12/2023 6:58 AM
+BAG:hghandzs2 add 1xRada cấp 1 lydo: Lấy từ body đệ vào hành trang at 03/12/2023 6:58 AM
+BAG:hghandzs2 add 1xGăng len Pico lydo: Mua từ cửa hàng at 03/12/2023 6:59 AM
+BAG:hghandzs2 add 1xHoa hồng vàng lydo: Nhặt từ map at 03/12/2023 6:59 AM
+BAG:hghandzs2 add 9xĐá lục bảo (old: 8) lydo: Nhặt từ map at 03/12/2023 6:59 AM
+BAG:hghandzs2 add 12xĐá Ruby (old: 11) lydo: Nhặt từ map at 03/12/2023 6:59 AM
+BAG:hghandzs2 add 1xCải trang lydo: Lấy từ body vào hành trang at 03/12/2023 7:00 AM
+BAG:hghandzs2 add 1xCải trang lydo: Lấy từ body vào hành trang at 03/12/2023 7:00 AM
+BAG:hghandzs2 add 1xGăng sợi len lydo: Lấy từ body vào hành trang at 03/12/2023 7:00 AM
+BAG:hghandzs2 add 1xRada cấp 1 lydo: Lấy từ body vào hành trang at 03/12/2023 7:00 AM
+BAG:hghandzs2 add 2xHoa hồng vàng (old: 1) lydo: Nhặt từ map at 03/12/2023 7:00 AM
+BAG:hghandzs2 add 1xRada cấp 1 lydo: Lấy từ body đệ vào hành trang at 03/12/2023 7:01 AM
+BAG:hghandzs2 add 3xHoa hồng vàng (old: 2) lydo: Nhặt từ map at 03/12/2023 7:03 AM
+BAG:hghandzs2 add 4xHoa hồng vàng (old: 3) lydo: Nhặt từ map at 03/12/2023 7:04 AM
+BAG:hghandzs2 add 1xHoa hồng đỏ lydo: Nhặt từ map at 03/12/2023 7:07 AM
+BAG:hghandzs2 add 2xHoa hồng đỏ (old: 1) lydo: Nhặt từ map at 03/12/2023 7:12 AM
+BAG:hghandzs2 add 5xHoa hồng vàng (old: 4) lydo: Nhặt từ map at 03/12/2023 7:14 AM
+BAG:hghandzs2 add 1xCải trang lydo: Lấy từ body đệ vào hành trang at 03/12/2023 8:00 AM
+BAG:hghandzs2 add 6xHoa hồng vàng (old: 5) lydo: Nhặt từ map at 03/12/2023 8:01 AM
+BAG:hghandzs2 add 7xHoa hồng vàng (old: 6) lydo: Nhặt từ map at 03/12/2023 8:01 AM
+BAG:hghandzs2 add 3xHoa hồng đỏ (old: 2) lydo: Nhặt từ map at 03/12/2023 8:01 AM
+BAG:hghandzs2 add 6xĐá Saphia (old: 5) lydo: Nhặt từ map at 03/12/2023 8:01 AM
+BAG:hghandzs2 add 4xHoa hồng đỏ (old: 3) lydo: Nhặt từ map at 03/12/2023 8:01 AM
+BAG:hghandzs2 add 1xHoa hồng xanh lydo: Nhặt từ map at 03/12/2023 8:01 AM
+BAG:hghandzs2 add 8xHoa hồng vàng (old: 7) lydo: Nhặt từ map at 03/12/2023 8:02 AM
+BAG:hghandzs2 add 1xĐổi đệ tử lydo: Mua từ cửa hàng at 03/12/2023 8:02 AM
+BAG:hghandzs2 add 2xĐổi đệ tử (old: 1) lydo: Mua từ cửa hàng at 03/12/2023 8:02 AM
+BAG:hghandzs2 add 9xHoa hồng vàng (old: 8) lydo: Nhặt từ map at 03/12/2023 8:02 AM
+BAG:hghandzs2 add 3xĐổi đệ tử (old: 2) lydo: Mua từ cửa hàng at 03/12/2023 8:02 AM
+BAG:hghandzs2 add 10xHoa hồng vàng (old: 9) lydo: Nhặt từ map at 03/12/2023 8:02 AM
+BAG:hghandzs2 add 2xHoa hồng xanh (old: 1) lydo: Nhặt từ map at 03/12/2023 8:03 AM
+BAG:hghandzs2 add 1xĐổi đệ tử lydo: Mua từ cửa hàng at 03/12/2023 8:03 AM
+BAG:hghandzs2 add 1xHoa hồng vàng lydo: Nhặt từ map at 03/12/2023 8:07 AM
+BAG:hghandzs2 add 2xHoa hồng vàng (old: 1) lydo: Nhặt từ map at 03/12/2023 8:15 AM
+BAG:hghandzs2 add 13xĐá Ruby (old: 12) lydo: Nhặt từ map at 03/12/2023 8:15 AM
+BAG:hghandzs2 add 1xNgọc Rồng 6 sao lydo: Nhặt từ map at 03/12/2023 8:16 AM
+BAG:hghandzs2 add 3xHoa hồng vàng (old: 2) lydo: Nhặt từ map at 03/12/2023 8:16 AM
+BAG:hghandzs2 add 1xInosuke Hashibira lydo: Lấy từ body vào hành trang at 03/12/2023 8:17 AM
+BAG:hghandzs2 add 1xHoa hồng đỏ lydo: Nhặt từ map at 03/12/2023 8:18 AM
+BAG:hghandzs2 add 4xHoa hồng vàng (old: 3) lydo: Nhặt từ map at 03/12/2023 8:18 AM
+BAG:hghandzs2 add 5xHoa hồng vàng (old: 4) lydo: Nhặt từ map at 03/12/2023 8:19 AM
+BAG:hghandzs2 add 1xHoa hồng xanh lydo: Nhặt từ map at 03/12/2023 10:17 AM
+BAG:hghandzs2 add 6xHoa hồng vàng (old: 5) lydo: Nhặt từ map at 03/12/2023 10:17 AM
+BAG:hghandzs2 add 2xHoa hồng xanh (old: 1) lydo: Nhặt từ map at 03/12/2023 10:18 AM
+BAG:hghandzs2 add 10xĐá lục bảo (old: 9) lydo: Nhặt từ map at 03/12/2023 10:18 AM
+BAG:hghandzs2 add 3xHoa hồng xanh (old: 2) lydo: Nhặt từ map at 03/12/2023 10:18 AM
+BAG:hghandzs2 add 8xĐá thạch anh tím (old: 7) lydo: Nhặt từ map at 03/12/2023 10:49 AM
+BAG:hghandzs2 add 7xHoa hồng vàng (old: 6) lydo: Nhặt từ map at 03/12/2023 10:49 AM
+BAG:hghandzs2 add 2xHoa hồng đỏ (old: 1) lydo: Nhặt từ map at 03/12/2023 9:15 PM
+BAG:hghandzs2 add 5xĐá Titan (old: 4) lydo: Nhặt từ map at 03/12/2023 9:16 PM
+BAG:hghandzs2 add 3xHoa hồng đỏ (old: 2) lydo: Nhặt từ map at 03/12/2023 10:51 PM

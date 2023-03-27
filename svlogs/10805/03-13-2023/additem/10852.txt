@@ -1,0 +1,39 @@
+BAG:vietdragon add 1xRada cấp 1 lydo: Lấy từ body vào hành trang at 03/13/2023 12:01 AM
+BAG:vietdragon add 7503xHoa hồng vàng (old: 7502) lydo: Nhặt từ map at 03/13/2023 12:01 AM
+BAG:vietdragon add 1xGiầy sợi len lydo: Lấy từ body vào hành trang at 03/13/2023 12:01 AM
+BAG:vietdragon add 1xGăng sợi len lydo: Lấy từ body vào hành trang at 03/13/2023 12:01 AM
+BAG:vietdragon add 1xQuần sợi len lydo: Lấy từ body vào hành trang at 03/13/2023 12:01 AM
+BAG:vietdragon add 1xÁo sợi len lydo: Lấy từ body vào hành trang at 03/13/2023 12:02 AM
+BAG:vietdragon add 1xÁo vàng Zealot lydo: Lấy từ body vào hành trang at 03/13/2023 12:02 AM
+BAG:vietdragon add 1xQuần vàng Zealot lydo: Lấy từ body vào hành trang at 03/13/2023 12:02 AM
+BAG:vietdragon add 1xGăng vàng Zealot lydo: Lấy từ body vào hành trang at 03/13/2023 12:02 AM
+BAG:vietdragon add 1xGiày vàng Zealot lydo: Lấy từ body vào hành trang at 03/13/2023 12:02 AM
+BAG:vietdragon add 1xRada cấp 12 lydo: Lấy từ body vào hành trang at 03/13/2023 12:03 AM
+BAG:vietdragon add 1xRada cấp 12 lydo: Lấy từ body vào hành trang at 03/13/2023 12:03 AM
+BAG:vietdragon add 5765xHoa hồng đỏ (old: 5764) lydo: Nhặt từ map at 03/13/2023 12:06 AM
+BAG:vietdragon add 7504xHoa hồng vàng (old: 7503) lydo: Nhặt từ map at 03/13/2023 12:08 AM
+BAG:vietdragon add 5695xHoa hồng xanh (old: 5694) lydo: Nhặt từ map at 03/13/2023 12:08 AM
+BAG:vietdragon add 5696xHoa hồng xanh (old: 5695) lydo: Nhặt từ map at 03/13/2023 12:10 AM
+BAG:vietdragon add 7505xHoa hồng vàng (old: 7504) lydo: Nhặt từ map at 03/13/2023 12:12 AM
+BAG:vietdragon add 3xĐá Ruby (old: 2) lydo: Nhặt từ map at 03/13/2023 12:13 AM
+BAG:vietdragon add 7506xHoa hồng vàng (old: 7505) lydo: Nhặt từ map at 03/13/2023 12:14 AM
+BAG:vietdragon add 3xĐá lục bảo (old: 2) lydo: Nhặt từ map at 03/13/2023 12:15 AM
+BAG:vietdragon add 5697xHoa hồng xanh (old: 5696) lydo: Nhặt từ map at 03/13/2023 12:18 AM
+BAG:vietdragon add 4xĐá lục bảo (old: 3) lydo: Nhặt từ map at 03/13/2023 12:21 AM
+BAG:vietdragon add 7507xHoa hồng vàng (old: 7506) lydo: Nhặt từ map at 03/13/2023 12:22 AM
+BAG:vietdragon add 5766xHoa hồng đỏ (old: 5765) lydo: Nhặt từ map at 03/13/2023 12:23 AM
+BAG:vietdragon add 5698xHoa hồng xanh (old: 5697) lydo: Nhặt từ map at 03/13/2023 12:27 AM
+BAG:vietdragon add 7xNgọc Rồng 5 sao (old: 6) lydo: Nhặt từ map at 03/13/2023 12:31 AM
+BAG:vietdragon add 4xĐá Ruby (old: 3) lydo: Nhặt từ map at 03/13/2023 12:34 AM
+BAG:vietdragon add 7508xHoa hồng vàng (old: 7507) lydo: Nhặt từ map at 03/13/2023 12:36 AM
+BAG:vietdragon add 5767xHoa hồng đỏ (old: 5766) lydo: Nhặt từ map at 03/13/2023 12:37 AM
+BAG:vietdragon add 7509xHoa hồng vàng (old: 7508) lydo: Nhặt từ map at 03/13/2023 12:39 AM
+BAG:vietdragon add 5699xHoa hồng xanh (old: 5698) lydo: Nhặt từ map at 03/13/2023 12:39 AM
+BAG:vietdragon add 7510xHoa hồng vàng (old: 7509) lydo: Nhặt từ map at 03/13/2023 12:41 AM
+BAG:vietdragon add 7511xHoa hồng vàng (old: 7510) lydo: Nhặt từ map at 03/13/2023 12:43 AM
+BAG:vietdragon add 5768xHoa hồng đỏ (old: 5767) lydo: Nhặt từ map at 03/13/2023 12:47 AM
+BAG:vietdragon add 7512xHoa hồng vàng (old: 7511) lydo: Nhặt từ map at 03/13/2023 12:49 AM
+BAG:vietdragon add 5700xHoa hồng xanh (old: 5699) lydo: Nhặt từ map at 03/13/2023 12:54 AM
+BAG:vietdragon add 5769xHoa hồng đỏ (old: 5768) lydo: Nhặt từ map at 03/13/2023 12:57 AM
+BAG:vietdragon add 5701xHoa hồng xanh (old: 5700) lydo: Nhặt từ map at 03/13/2023 12:58 AM
+BAG:vietdragon add 5770xHoa hồng đỏ (old: 5769) lydo: Nhặt từ map at 03/13/2023 12:59 AM

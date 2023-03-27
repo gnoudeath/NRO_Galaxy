@@ -1,0 +1,71 @@
+BAG:khangnoom2 add 66xHoa hồng đỏ (old: 65) lydo: Nhặt từ map at 03/12/2023 6:45 PM
+BAG:khangnoom2 add 67xHoa hồng đỏ (old: 66) lydo: Nhặt từ map at 03/12/2023 6:45 PM
+BAG:khangnoom2 add 53xHoa hồng xanh (old: 52) lydo: Nhặt từ map at 03/12/2023 6:46 PM
+BAG:khangnoom2 add 3xĐá Titan (old: 2) lydo: Nhặt từ map at 03/12/2023 6:46 PM
+BAG:khangnoom2 add 85xHoa hồng vàng (old: 84) lydo: Nhặt từ map at 03/12/2023 6:46 PM
+BAG:khangnoom2 add 86xHoa hồng vàng (old: 85) lydo: Nhặt từ map at 03/12/2023 6:50 PM
+BAG:khangnoom2 add 1xÁo vải 3 lỗ lydo: Nhặt từ map at 03/12/2023 6:50 PM
+BAG:khangnoom2 add 54xHoa hồng xanh (old: 53) lydo: Nhặt từ map at 03/12/2023 6:50 PM
+BAG:khangnoom2 add 55xHoa hồng xanh (old: 54) lydo: Nhặt từ map at 03/12/2023 6:50 PM
+BAG:khangnoom2 add 4xĐá Titan (old: 3) lydo: Nhặt từ map at 03/12/2023 6:50 PM
+BAG:khangnoom2 add 4xĐá Saphia (old: 3) lydo: Nhặt từ map at 03/12/2023 6:50 PM
+BAG:khangnoom2 add 68xHoa hồng đỏ (old: 67) lydo: Nhặt từ map at 03/12/2023 6:50 PM
+BAG:khangnoom2 add 1xRada cấp 1 lydo: Nhặt từ map at 03/12/2023 6:51 PM
+BAG:khangnoom2 add 1xGiầy nhựa lydo: Nhặt từ map at 03/12/2023 6:51 PM
+BAG:khangnoom2 add 1xNâng cấp kỹ năng 1 đệ tử lydo: Mua từ cửa hàng at 03/12/2023 6:56 PM
+BAG:khangnoom2 add 2xNâng cấp kỹ năng 1 đệ tử (old: 1) lydo: Mua từ cửa hàng at 03/12/2023 6:56 PM
+BAG:khangnoom2 add 3xNâng cấp kỹ năng 1 đệ tử (old: 2) lydo: Mua từ cửa hàng at 03/12/2023 6:56 PM
+BAG:khangnoom2 add 4xNâng cấp kỹ năng 1 đệ tử (old: 3) lydo: Mua từ cửa hàng at 03/12/2023 6:56 PM
+BAG:khangnoom2 add 5xNâng cấp kỹ năng 1 đệ tử (old: 4) lydo: Mua từ cửa hàng at 03/12/2023 6:56 PM
+BAG:khangnoom2 add 6xNâng cấp kỹ năng 1 đệ tử (old: 5) lydo: Mua từ cửa hàng at 03/12/2023 6:56 PM
+BAG:khangnoom2 add 7xNâng cấp kỹ năng 1 đệ tử (old: 6) lydo: Mua từ cửa hàng at 03/12/2023 6:56 PM
+BAG:khangnoom2 add 56xHoa hồng xanh (old: 55) lydo: Nhặt từ map at 03/12/2023 6:56 PM
+BAG:khangnoom2 add 87xHoa hồng vàng (old: 86) lydo: Nhặt từ map at 03/12/2023 6:57 PM
+BAG:khangnoom2 add 1xVệ tinh trí tuệ lydo: Lấy từ lucky box at 03/12/2023 7:00 PM
+BAG:khangnoom2 add 1xSao pha lê lydo: Lấy từ lucky box at 03/12/2023 7:00 PM
+BAG:khangnoom2 add 1xSao pha lê lydo: Lấy từ lucky box at 03/12/2023 7:00 PM
+BAG:khangnoom2 add 1xCải trang mồn lèo lydo: Lấy từ lucky box at 03/12/2023 7:01 PM
+BAG:khangnoom2 add 2xSao pha lê (old: 1) lydo: Lấy từ lucky box at 03/12/2023 7:01 PM
+BAG:khangnoom2 add 88xHoa hồng vàng (old: 87) lydo: Nhặt từ map at 03/12/2023 7:02 PM
+BAG:khangnoom2 add 1xNezuko lydo: Mua từ bill at 03/12/2023 7:05 PM
+BAG:khangnoom2 add 57xHoa hồng xanh (old: 56) lydo: Nhặt từ map at 03/12/2023 7:06 PM
+BAG:khangnoom2 add 69xHoa hồng đỏ (old: 68) lydo: Nhặt từ map at 03/12/2023 7:06 PM
+BAG:khangnoom2 add 89xHoa hồng vàng (old: 88) lydo: Nhặt từ map at 03/12/2023 7:06 PM
+BAG:khangnoom2 add 90xHoa hồng vàng (old: 89) lydo: Nhặt từ map at 03/12/2023 7:06 PM
+BAG:khangnoom2 add 91xHoa hồng vàng (old: 90) lydo: Nhặt từ map at 03/12/2023 7:07 PM
+BAG:khangnoom2 add 3xĐá Ruby (old: 2) lydo: Nhặt từ map at 03/12/2023 7:08 PM
+BAG:khangnoom2 add 58xHoa hồng xanh (old: 57) lydo: Nhặt từ map at 03/12/2023 7:09 PM
+BAG:khangnoom2 add 70xHoa hồng đỏ (old: 69) lydo: Nhặt từ map at 03/12/2023 7:10 PM
+BAG:khangnoom2 add 92xHoa hồng vàng (old: 91) lydo: Nhặt từ map at 03/12/2023 7:11 PM
+BAG:khangnoom2 add 1xRada cấp 6 lydo: Lấy từ body đệ vào hành trang at 03/12/2023 7:11 PM
+BAG:khangnoom2 add 93xHoa hồng vàng (old: 92) lydo: Nhặt từ map at 03/12/2023 7:11 PM
+BAG:khangnoom2 add 1xGiáp tập luyện cấp 1 lydo: Lấy từ body đệ vào hành trang at 03/12/2023 7:12 PM
+BAG:khangnoom2 add 1xÁo vải 3 lỗ lydo: Lấy từ body vào hành trang at 03/12/2023 7:13 PM
+BAG:khangnoom2 add 1xGiầy nhựa lydo: Lấy từ body vào hành trang at 03/12/2023 7:14 PM
+BAG:khangnoom2 add 1xQuần vải đen lydo: Lấy từ body vào hành trang at 03/12/2023 7:14 PM
+BAG:khangnoom2 add 71xHoa hồng đỏ (old: 70) lydo: Nhặt từ map at 03/12/2023 7:15 PM
+BAG:khangnoom2 add 94xHoa hồng vàng (old: 93) lydo: Nhặt từ map at 03/12/2023 7:16 PM
+BAG:khangnoom2 add 59xHoa hồng xanh (old: 58) lydo: Nhặt từ map at 03/12/2023 7:16 PM
+BAG:khangnoom2 add 60xHoa hồng xanh (old: 59) lydo: Nhặt từ map at 03/12/2023 7:16 PM
+BAG:khangnoom2 add 1xĐá thạch anh tím lydo: Nhặt từ map at 03/12/2023 7:17 PM
+BAG:khangnoom2 add 1xNgọc Rồng 6 sao lydo: Nhặt từ map at 03/12/2023 7:18 PM
+BAG:khangnoom2 add 1xĐá Saphia lydo: Nhặt từ map at 03/12/2023 7:19 PM
+BAG:khangnoom2 add 95xHoa hồng vàng (old: 94) lydo: Nhặt từ map at 03/12/2023 7:20 PM
+BAG:khangnoom2 add 1xRada cấp 6 lydo: Lấy từ body đệ vào hành trang at 03/12/2023 7:21 PM
+BAG:khangnoom2 add 5xĐá Titan (old: 4) lydo: Nhặt từ map at 03/12/2023 7:21 PM
+BAG:khangnoom2 add 1xRada cấp 1 lydo: Lấy từ body vào hành trang at 03/12/2023 7:21 PM
+BAG:khangnoom2 add 1xGăng vải đen lydo: Lấy từ body vào hành trang at 03/12/2023 7:22 PM
+BAG:khangnoom2 add 96xHoa hồng vàng (old: 95) lydo: Nhặt từ map at 03/12/2023 7:22 PM
+BAG:khangnoom2 add 1xGiáp tập luyện cấp 1 lydo: Lấy từ body đệ vào hành trang at 03/12/2023 7:22 PM
+BAG:khangnoom2 add 1xGiáp tập luyện cấp 1 lydo: Lấy từ body vào hành trang at 03/12/2023 7:23 PM
+BAG:khangnoom2 add 72xHoa hồng đỏ (old: 71) lydo: Nhặt từ map at 03/12/2023 7:23 PM
+BAG:khangnoom2 add 1xCải trang Chill cấp 2 lydo: Lấy từ body đệ vào hành trang at 03/12/2023 9:38 PM
+BAG:khangnoom2 add 1xRada cấp 6 lydo: Lấy từ body đệ vào hành trang at 03/12/2023 9:38 PM
+BAG:khangnoom2 add 1xĐổi đệ tử lydo: Mua từ cửa hàng at 03/12/2023 9:39 PM
+BAG:khangnoom2 add 2xĐổi đệ tử (old: 1) lydo: Mua từ cửa hàng at 03/12/2023 9:39 PM
+BAG:khangnoom2 add 1xĐổi đệ tử lydo: Mua từ cửa hàng at 03/12/2023 9:41 PM
+BAG:khangnoom2 add 2xĐổi đệ tử (old: 1) lydo: Mua từ cửa hàng at 03/12/2023 9:41 PM
+BAG:khangnoom2 add 3xĐổi đệ tử (old: 2) lydo: Mua từ cửa hàng at 03/12/2023 9:41 PM
+BAG:khangnoom2 add 4xĐổi đệ tử (old: 3) lydo: Mua từ cửa hàng at 03/12/2023 9:41 PM
+BAG:khangnoom2 add 5xĐổi đệ tử (old: 4) lydo: Mua từ cửa hàng at 03/12/2023 9:41 PM
+BAG:khangnoom2 add 6xĐổi đệ tử (old: 5) lydo: Mua từ cửa hàng at 03/12/2023 9:41 PM

@@ -1,0 +1,9 @@
+BAG:galaxyopenqn add 1xRada cấp 1 lydo: Lấy từ rương qua người at 03/11/2023 7:31 PM
+BAG:galaxyopenqn add 10xĐậu thần cấp 4 lydo: Thu hoạch đậu at 03/11/2023 7:34 PM
+BAG:galaxyopenqn add 19xĐậu thần cấp 10 lydo: Lấy từ rương qua người at 03/11/2023 7:35 PM
+BAG:galaxyopenqn add 11xĐậu thần cấp 4 (old: 10) lydo: Lấy từ rương qua người at 03/11/2023 7:35 PM
+BAG:galaxyopenqn add 1xHoa hồng đỏ lydo: Nhặt từ map at 03/11/2023 7:36 PM
+BAG:galaxyopenqn add 1xHoa hồng vàng lydo: Nhặt từ map at 03/11/2023 7:36 PM
+BAG:galaxyopenqn add 2xHoa hồng vàng (old: 1) lydo: Nhặt từ map at 03/11/2023 7:36 PM
+BAG:galaxyopenqn add 3xHoa hồng vàng (old: 2) lydo: Nhặt từ map at 03/11/2023 7:36 PM
+BAG:galaxyopenqn add 1xĐá thạch anh tím lydo: Nhặt từ map at 03/11/2023 7:37 PM

@@ -1,0 +1,38 @@
+BAG:tlduy2xx8 add 1xRada cấp 1 lydo: Lấy từ rương qua người at 03/12/2023 4:38 PM
+BAG:tlduy2xx8 add 5xĐậu thần cấp 1 lydo: Thu hoạch đậu at 03/12/2023 4:38 PM
+BAG:tlduy2xx8 add 6xĐậu thần cấp 1 (old: 5) lydo: Thu hoạch đậu at 03/12/2023 4:40 PM
+BAG:tlduy2xx8 add 1xÁo vải 3 lỗ lydo: Nhặt từ map at 03/12/2023 4:43 PM
+BAG:tlduy2xx8 add 1xÁo vải 3 lỗ lydo: Nhặt từ map at 03/12/2023 4:43 PM
+BAG:tlduy2xx8 add 1xHoa hồng xanh lydo: Nhặt từ map at 03/12/2023 4:43 PM
+BAG:tlduy2xx8 add 1xHoa hồng đỏ lydo: Nhặt từ map at 03/12/2023 4:45 PM
+BAG:tlduy2xx8 add 1xGhế bay lydo: Mua từ cửa hàng at 03/12/2023 4:47 PM
+BAG:tlduy2xx8 add 1xAvatar đeo khẩu trang lydo: Mua từ cửa hàng at 03/12/2023 4:47 PM
+BAG:tlduy2xx8 add 1xÁo vải 3 lỗ lydo: Nhặt từ map at 03/12/2023 4:48 PM
+BAG:tlduy2xx8 add 1xĐá Ruby lydo: Nhặt từ map at 03/12/2023 4:48 PM
+BAG:tlduy2xx8 add 1xGiầy nhựa lydo: Nhặt từ map at 03/12/2023 4:49 PM
+BAG:tlduy2xx8 add 1xRada cấp 1 lydo: Nhặt từ map at 03/12/2023 4:49 PM
+BAG:tlduy2xx8 add 1xQuần vải đen lydo: Nhặt từ map at 03/12/2023 4:50 PM
+BAG:tlduy2xx8 add 1xQuần vải đen lydo: Nhặt từ map at 03/12/2023 4:50 PM
+BAG:tlduy2xx8 add 1xGăng vải đen lydo: Nhặt từ map at 03/12/2023 4:50 PM
+BAG:tlduy2xx8 add 9xĐậu thần cấp 1 (old: 4) lydo: Thu hoạch đậu at 03/12/2023 4:51 PM
+BAG:tlduy2xx8 add 1xHoa hồng vàng lydo: Nhặt từ map at 03/12/2023 4:51 PM
+BAG:tlduy2xx8 add 1xViên Capsule đặc biệt lydo: Mua từ cửa hàng at 03/12/2023 4:54 PM
+BAG:tlduy2xx8 add 1xĐổi đệ tử lydo: Mua từ cửa hàng at 03/12/2023 4:55 PM
+BAG:tlduy2xx8 add 2xĐổi đệ tử (old: 1) lydo: Mua từ cửa hàng at 03/12/2023 4:55 PM
+BAG:tlduy2xx8 add 3xĐổi đệ tử (old: 2) lydo: Mua từ cửa hàng at 03/12/2023 4:55 PM
+BAG:tlduy2xx8 add 1xĐổi đệ tử lydo: Mua từ cửa hàng at 03/12/2023 4:56 PM
+BAG:tlduy2xx8 add 1xĐậu thần cấp 9 lydo: Clan cho đậu at 03/12/2023 4:58 PM
+BAG:tlduy2xx8 add 2xĐậu thần cấp 9 (old: 1) lydo: Clan cho đậu at 03/12/2023 4:58 PM
+BAG:tlduy2xx8 add 3xĐậu thần cấp 9 (old: 2) lydo: Clan cho đậu at 03/12/2023 4:58 PM
+BAG:tlduy2xx8 add 4xĐậu thần cấp 9 (old: 3) lydo: Clan cho đậu at 03/12/2023 4:58 PM
+BAG:tlduy2xx8 add 5xĐậu thần cấp 9 (old: 4) lydo: Clan cho đậu at 03/12/2023 4:58 PM
+BAG:tlduy2xx8 add 1xHoa hồng xanh lydo: Nhặt từ map at 03/12/2023 5:06 PM
+BAG:tlduy2xx8 add 6xĐậu thần cấp 9 (old: 5) lydo: Clan cho đậu at 03/12/2023 5:06 PM
+BAG:tlduy2xx8 add 1xHoa hồng vàng lydo: Nhặt từ map at 03/12/2023 5:06 PM
+BAG:tlduy2xx8 add 7xĐậu thần cấp 9 (old: 6) lydo: Clan cho đậu at 03/12/2023 5:06 PM
+BAG:tlduy2xx8 add 8xĐậu thần cấp 9 (old: 7) lydo: Clan cho đậu at 03/12/2023 5:06 PM
+BAG:tlduy2xx8 add 1xHoa hồng đỏ lydo: Nhặt từ map at 03/12/2023 5:06 PM
+BAG:tlduy2xx8 add 9xĐậu thần cấp 9 (old: 8) lydo: Clan cho đậu at 03/12/2023 5:07 PM
+BAG:tlduy2xx8 add 2xHoa hồng đỏ (old: 1) lydo: Nhặt từ map at 03/12/2023 5:07 PM
+BAG:tlduy2xx8 add 10xĐậu thần cấp 9 (old: 9) lydo: Clan cho đậu at 03/12/2023 5:07 PM
+BAG:tlduy2xx8 add 3xHoa hồng đỏ (old: 2) lydo: Nhặt từ map at 03/12/2023 5:07 PM

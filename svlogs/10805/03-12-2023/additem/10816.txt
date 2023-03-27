@@ -1,0 +1,2264 @@
+BAG:hokage1 add 1xẨn danh lydo: CSKB at 03/12/2023 8:16 AM
+BAG:hokage1 add 1xẨn danh lydo: CSKB at 03/12/2023 8:16 AM
+BAG:hokage1 add 1xBổ khí lydo: CSKB at 03/12/2023 8:16 AM
+BAG:hokage1 add 1xGiáp tập luyện cấp 3 lydo: Lấy từ body vào hành trang at 03/12/2023 8:18 AM
+BAG:hokage1 add 8xCuồng nộ (old: 7) lydo: CSKB at 03/12/2023 8:18 AM
+BAG:hokage1 add 9xCuồng nộ (old: 8) lydo: CSKB at 03/12/2023 8:18 AM
+BAG:hokage1 add 1xBổ khí lydo: CSKB at 03/12/2023 8:18 AM
+BAG:hokage1 add 10xCuồng nộ (old: 9) lydo: CSKB at 03/12/2023 8:18 AM
+BAG:hokage1 add 1xẨn danh lydo: CSKB at 03/12/2023 8:18 AM
+BAG:hokage1 add 2xẨn danh (old: 1) lydo: CSKB at 03/12/2023 8:18 AM
+BAG:hokage1 add 11xCuồng nộ (old: 10) lydo: CSKB at 03/12/2023 8:18 AM
+BAG:hokage1 add 3xẨn danh (old: 2) lydo: CSKB at 03/12/2023 8:18 AM
+BAG:hokage1 add 4xẨn danh (old: 3) lydo: CSKB at 03/12/2023 8:19 AM
+BAG:hokage1 add 5xẨn danh (old: 4) lydo: CSKB at 03/12/2023 8:19 AM
+BAG:hokage1 add 11xCuồng nộ (old: 10) lydo: CSKB at 03/12/2023 8:19 AM
+BAG:hokage1 add 12xCuồng nộ (old: 11) lydo: CSKB at 03/12/2023 8:19 AM
+BAG:hokage1 add 15xBổ huyết (old: 14) lydo: CSKB at 03/12/2023 8:19 AM
+BAG:hokage1 add 1xẨn danh lydo: CSKB at 03/12/2023 8:22 AM
+BAG:hokage1 add 7xNgọc Rồng 6 sao (old: 6) lydo: Nhặt từ map at 03/12/2023 8:24 AM
+BAG:hokage1 add 4xNgọc Rồng 5 sao (old: 3) lydo: Nhặt từ map at 03/12/2023 8:24 AM
+BAG:hokage1 add 136xHoa hồng vàng (old: 135) lydo: Nhặt từ map at 03/12/2023 8:24 AM
+BAG:hokage1 add 111xHoa hồng xanh (old: 110) lydo: Nhặt từ map at 03/12/2023 8:24 AM
+BAG:hokage1 add 108xHoa hồng đỏ (old: 107) lydo: Nhặt từ map at 03/12/2023 8:24 AM
+BAG:hokage1 add 137xHoa hồng vàng (old: 136) lydo: Nhặt từ map at 03/12/2023 8:24 AM
+BAG:hokage1 add 112xHoa hồng xanh (old: 111) lydo: Nhặt từ map at 03/12/2023 8:24 AM
+BAG:hokage1 add 109xHoa hồng đỏ (old: 108) lydo: Nhặt từ map at 03/12/2023 8:24 AM
+BAG:hokage1 add 113xHoa hồng xanh (old: 112) lydo: Nhặt từ map at 03/12/2023 8:24 AM
+BAG:hokage1 add 31xViên Capsule kì bí (old: 30) lydo: Nhặt từ map at 03/12/2023 8:24 AM
+BAG:hokage1 add 32xViên Capsule kì bí (old: 31) lydo: Nhặt từ map at 03/12/2023 8:24 AM
+BAG:hokage1 add 110xHoa hồng đỏ (old: 109) lydo: Nhặt từ map at 03/12/2023 8:24 AM
+BAG:hokage1 add 33xViên Capsule kì bí (old: 32) lydo: Nhặt từ map at 03/12/2023 8:24 AM
+BAG:hokage1 add 34xViên Capsule kì bí (old: 33) lydo: Nhặt từ map at 03/12/2023 8:24 AM
+BAG:hokage1 add 138xHoa hồng vàng (old: 137) lydo: Nhặt từ map at 03/12/2023 8:24 AM
+BAG:hokage1 add 35xViên Capsule kì bí (old: 34) lydo: Nhặt từ map at 03/12/2023 8:24 AM
+BAG:hokage1 add 114xHoa hồng xanh (old: 113) lydo: Nhặt từ map at 03/12/2023 8:24 AM
+BAG:hokage1 add 111xHoa hồng đỏ (old: 110) lydo: Nhặt từ map at 03/12/2023 8:25 AM
+BAG:hokage1 add 139xHoa hồng vàng (old: 138) lydo: Nhặt từ map at 03/12/2023 8:25 AM
+BAG:hokage1 add 140xHoa hồng vàng (old: 139) lydo: Nhặt từ map at 03/12/2023 8:25 AM
+BAG:hokage1 add 36xViên Capsule kì bí (old: 35) lydo: Nhặt từ map at 03/12/2023 8:25 AM
+BAG:hokage1 add 141xHoa hồng vàng (old: 140) lydo: Nhặt từ map at 03/12/2023 8:25 AM
+BAG:hokage1 add 142xHoa hồng vàng (old: 141) lydo: Nhặt từ map at 03/12/2023 8:25 AM
+BAG:hokage1 add 143xHoa hồng vàng (old: 142) lydo: Nhặt từ map at 03/12/2023 8:25 AM
+BAG:hokage1 add 37xViên Capsule kì bí (old: 36) lydo: Nhặt từ map at 03/12/2023 8:25 AM
+BAG:hokage1 add 144xHoa hồng vàng (old: 143) lydo: Nhặt từ map at 03/12/2023 8:25 AM
+BAG:hokage1 add 1xĐá lục bảo lydo: Nhặt từ map at 03/12/2023 8:25 AM
+BAG:hokage1 add 115xHoa hồng xanh (old: 114) lydo: Nhặt từ map at 03/12/2023 8:25 AM
+BAG:hokage1 add 38xViên Capsule kì bí (old: 37) lydo: Nhặt từ map at 03/12/2023 8:25 AM
+BAG:hokage1 add 116xHoa hồng xanh (old: 115) lydo: Nhặt từ map at 03/12/2023 8:25 AM
+BAG:hokage1 add 39xViên Capsule kì bí (old: 38) lydo: Nhặt từ map at 03/12/2023 8:25 AM
+BAG:hokage1 add 40xViên Capsule kì bí (old: 39) lydo: Nhặt từ map at 03/12/2023 8:25 AM
+BAG:hokage1 add 41xViên Capsule kì bí (old: 40) lydo: Nhặt từ map at 03/12/2023 8:26 AM
+BAG:hokage1 add 117xHoa hồng xanh (old: 116) lydo: Nhặt từ map at 03/12/2023 8:26 AM
+BAG:hokage1 add 42xViên Capsule kì bí (old: 41) lydo: Nhặt từ map at 03/12/2023 8:26 AM
+BAG:hokage1 add 118xHoa hồng xanh (old: 117) lydo: Nhặt từ map at 03/12/2023 8:26 AM
+BAG:hokage1 add 43xViên Capsule kì bí (old: 42) lydo: Nhặt từ map at 03/12/2023 8:26 AM
+BAG:hokage1 add 119xHoa hồng xanh (old: 118) lydo: Nhặt từ map at 03/12/2023 8:26 AM
+BAG:hokage1 add 44xViên Capsule kì bí (old: 43) lydo: Nhặt từ map at 03/12/2023 8:26 AM
+BAG:hokage1 add 145xHoa hồng vàng (old: 144) lydo: Nhặt từ map at 03/12/2023 8:26 AM
+BAG:hokage1 add 45xViên Capsule kì bí (old: 44) lydo: Nhặt từ map at 03/12/2023 8:26 AM
+BAG:hokage1 add 46xViên Capsule kì bí (old: 45) lydo: Nhặt từ map at 03/12/2023 8:26 AM
+BAG:hokage1 add 120xHoa hồng xanh (old: 119) lydo: Nhặt từ map at 03/12/2023 8:26 AM
+BAG:hokage1 add 47xViên Capsule kì bí (old: 46) lydo: Nhặt từ map at 03/12/2023 8:26 AM
+BAG:hokage1 add 1xĐá Saphia lydo: Nhặt từ map at 03/12/2023 8:26 AM
+BAG:hokage1 add 146xHoa hồng vàng (old: 145) lydo: Nhặt từ map at 03/12/2023 8:26 AM
+BAG:hokage1 add 81xĐá thạch anh tím (old: 80) lydo: Nhặt từ map at 03/12/2023 8:26 AM
+BAG:hokage1 add 112xHoa hồng đỏ (old: 111) lydo: Nhặt từ map at 03/12/2023 8:26 AM
+BAG:hokage1 add 113xHoa hồng đỏ (old: 112) lydo: Nhặt từ map at 03/12/2023 8:26 AM
+BAG:hokage1 add 48xViên Capsule kì bí (old: 47) lydo: Nhặt từ map at 03/12/2023 8:26 AM
+BAG:hokage1 add 49xViên Capsule kì bí (old: 48) lydo: Nhặt từ map at 03/12/2023 8:26 AM
+BAG:hokage1 add 147xHoa hồng vàng (old: 146) lydo: Nhặt từ map at 03/12/2023 8:27 AM
+BAG:hokage1 add 114xHoa hồng đỏ (old: 113) lydo: Nhặt từ map at 03/12/2023 8:27 AM
+BAG:hokage1 add 148xHoa hồng vàng (old: 147) lydo: Nhặt từ map at 03/12/2023 8:27 AM
+BAG:hokage1 add 50xViên Capsule kì bí (old: 49) lydo: Nhặt từ map at 03/12/2023 8:27 AM
+BAG:hokage1 add 121xHoa hồng xanh (old: 120) lydo: Nhặt từ map at 03/12/2023 8:27 AM
+BAG:hokage1 add 122xHoa hồng xanh (old: 121) lydo: Nhặt từ map at 03/12/2023 8:27 AM
+BAG:hokage1 add 51xViên Capsule kì bí (old: 50) lydo: Nhặt từ map at 03/12/2023 8:27 AM
+BAG:hokage1 add 149xHoa hồng vàng (old: 148) lydo: Nhặt từ map at 03/12/2023 8:27 AM
+BAG:hokage1 add 123xHoa hồng xanh (old: 122) lydo: Nhặt từ map at 03/12/2023 8:27 AM
+BAG:hokage1 add 115xHoa hồng đỏ (old: 114) lydo: Nhặt từ map at 03/12/2023 8:27 AM
+BAG:hokage1 add 116xHoa hồng đỏ (old: 115) lydo: Nhặt từ map at 03/12/2023 8:27 AM
+BAG:hokage1 add 117xHoa hồng đỏ (old: 116) lydo: Nhặt từ map at 03/12/2023 8:27 AM
+BAG:hokage1 add 124xHoa hồng xanh (old: 123) lydo: Nhặt từ map at 03/12/2023 8:27 AM
+BAG:hokage1 add 52xViên Capsule kì bí (old: 51) lydo: Nhặt từ map at 03/12/2023 8:27 AM
+BAG:hokage1 add 53xViên Capsule kì bí (old: 52) lydo: Nhặt từ map at 03/12/2023 8:27 AM
+BAG:hokage1 add 54xViên Capsule kì bí (old: 53) lydo: Nhặt từ map at 03/12/2023 8:27 AM
+BAG:hokage1 add 55xViên Capsule kì bí (old: 54) lydo: Nhặt từ map at 03/12/2023 8:27 AM
+BAG:hokage1 add 150xHoa hồng vàng (old: 149) lydo: Nhặt từ map at 03/12/2023 8:27 AM
+BAG:hokage1 add 125xHoa hồng xanh (old: 124) lydo: Nhặt từ map at 03/12/2023 8:28 AM
+BAG:hokage1 add 56xViên Capsule kì bí (old: 55) lydo: Nhặt từ map at 03/12/2023 8:28 AM
+BAG:hokage1 add 151xHoa hồng vàng (old: 150) lydo: Nhặt từ map at 03/12/2023 8:28 AM
+BAG:hokage1 add 82xĐá thạch anh tím (old: 81) lydo: Nhặt từ map at 03/12/2023 8:28 AM
+BAG:hokage1 add 118xHoa hồng đỏ (old: 117) lydo: Nhặt từ map at 03/12/2023 8:28 AM
+BAG:hokage1 add 57xViên Capsule kì bí (old: 56) lydo: Nhặt từ map at 03/12/2023 8:28 AM
+BAG:hokage1 add 58xViên Capsule kì bí (old: 57) lydo: Nhặt từ map at 03/12/2023 8:28 AM
+BAG:hokage1 add 126xHoa hồng xanh (old: 125) lydo: Nhặt từ map at 03/12/2023 8:28 AM
+BAG:hokage1 add 152xHoa hồng vàng (old: 151) lydo: Nhặt từ map at 03/12/2023 8:28 AM
+BAG:hokage1 add 153xHoa hồng vàng (old: 152) lydo: Nhặt từ map at 03/12/2023 8:28 AM
+BAG:hokage1 add 1xNgọc Rồng 4 sao lydo: Nhặt từ map at 03/12/2023 8:28 AM
+BAG:hokage1 add 154xHoa hồng vàng (old: 153) lydo: Nhặt từ map at 03/12/2023 8:28 AM
+BAG:hokage1 add 59xViên Capsule kì bí (old: 58) lydo: Nhặt từ map at 03/12/2023 8:29 AM
+BAG:hokage1 add 2xNgọc Rồng 4 sao (old: 1) lydo: Nhặt từ map at 03/12/2023 8:29 AM
+BAG:hokage1 add 119xHoa hồng đỏ (old: 118) lydo: Nhặt từ map at 03/12/2023 8:29 AM
+BAG:hokage1 add 127xHoa hồng xanh (old: 126) lydo: Nhặt từ map at 03/12/2023 8:29 AM
+BAG:hokage1 add 155xHoa hồng vàng (old: 154) lydo: Nhặt từ map at 03/12/2023 8:29 AM
+BAG:hokage1 add 60xViên Capsule kì bí (old: 59) lydo: Nhặt từ map at 03/12/2023 8:29 AM
+BAG:hokage1 add 61xViên Capsule kì bí (old: 60) lydo: Nhặt từ map at 03/12/2023 8:29 AM
+BAG:hokage1 add 62xViên Capsule kì bí (old: 61) lydo: Nhặt từ map at 03/12/2023 8:29 AM
+BAG:hokage1 add 120xHoa hồng đỏ (old: 119) lydo: Nhặt từ map at 03/12/2023 8:29 AM
+BAG:hokage1 add 128xHoa hồng xanh (old: 127) lydo: Nhặt từ map at 03/12/2023 8:29 AM
+BAG:hokage1 add 156xHoa hồng vàng (old: 155) lydo: Nhặt từ map at 03/12/2023 8:29 AM
+BAG:hokage1 add 63xViên Capsule kì bí (old: 62) lydo: Nhặt từ map at 03/12/2023 8:29 AM
+BAG:hokage1 add 5xNgọc Rồng 5 sao (old: 4) lydo: Nhặt từ map at 03/12/2023 8:30 AM
+BAG:hokage1 add 64xViên Capsule kì bí (old: 63) lydo: Nhặt từ map at 03/12/2023 8:30 AM
+BAG:hokage1 add 65xViên Capsule kì bí (old: 64) lydo: Nhặt từ map at 03/12/2023 8:30 AM
+BAG:hokage1 add 66xViên Capsule kì bí (old: 65) lydo: Nhặt từ map at 03/12/2023 8:30 AM
+BAG:hokage1 add 67xViên Capsule kì bí (old: 66) lydo: Nhặt từ map at 03/12/2023 8:30 AM
+BAG:hokage1 add 68xViên Capsule kì bí (old: 67) lydo: Nhặt từ map at 03/12/2023 8:30 AM
+BAG:hokage1 add 69xViên Capsule kì bí (old: 68) lydo: Nhặt từ map at 03/12/2023 8:30 AM
+BAG:hokage1 add 70xViên Capsule kì bí (old: 69) lydo: Nhặt từ map at 03/12/2023 8:30 AM
+BAG:hokage1 add 71xViên Capsule kì bí (old: 70) lydo: Nhặt từ map at 03/12/2023 8:30 AM
+BAG:hokage1 add 72xViên Capsule kì bí (old: 71) lydo: Nhặt từ map at 03/12/2023 8:30 AM
+BAG:hokage1 add 121xHoa hồng đỏ (old: 120) lydo: Nhặt từ map at 03/12/2023 8:30 AM
+BAG:hokage1 add 157xHoa hồng vàng (old: 156) lydo: Nhặt từ map at 03/12/2023 8:30 AM
+BAG:hokage1 add 1xĐá Ruby lydo: Nhặt từ map at 03/12/2023 8:30 AM
+BAG:hokage1 add 129xHoa hồng xanh (old: 128) lydo: Nhặt từ map at 03/12/2023 8:30 AM
+BAG:hokage1 add 122xHoa hồng đỏ (old: 121) lydo: Nhặt từ map at 03/12/2023 8:30 AM
+BAG:hokage1 add 158xHoa hồng vàng (old: 157) lydo: Nhặt từ map at 03/12/2023 8:30 AM
+BAG:hokage1 add 73xViên Capsule kì bí (old: 72) lydo: Nhặt từ map at 03/12/2023 8:30 AM
+BAG:hokage1 add 2xĐá Ruby (old: 1) lydo: Nhặt từ map at 03/12/2023 8:30 AM
+BAG:hokage1 add 123xHoa hồng đỏ (old: 122) lydo: Nhặt từ map at 03/12/2023 8:30 AM
+BAG:hokage1 add 74xViên Capsule kì bí (old: 73) lydo: Nhặt từ map at 03/12/2023 8:31 AM
+BAG:hokage1 add 75xViên Capsule kì bí (old: 74) lydo: Nhặt từ map at 03/12/2023 8:31 AM
+BAG:hokage1 add 76xViên Capsule kì bí (old: 75) lydo: Nhặt từ map at 03/12/2023 8:31 AM
+BAG:hokage1 add 159xHoa hồng vàng (old: 158) lydo: Nhặt từ map at 03/12/2023 8:31 AM
+BAG:hokage1 add 77xViên Capsule kì bí (old: 76) lydo: Nhặt từ map at 03/12/2023 8:31 AM
+BAG:hokage1 add 130xHoa hồng xanh (old: 129) lydo: Nhặt từ map at 03/12/2023 8:31 AM
+BAG:hokage1 add 124xHoa hồng đỏ (old: 123) lydo: Nhặt từ map at 03/12/2023 8:31 AM
+BAG:hokage1 add 160xHoa hồng vàng (old: 159) lydo: Nhặt từ map at 03/12/2023 8:31 AM
+BAG:hokage1 add 3xNgọc Rồng 4 sao (old: 2) lydo: Nhặt từ map at 03/12/2023 8:31 AM
+BAG:hokage1 add 78xViên Capsule kì bí (old: 77) lydo: Nhặt từ map at 03/12/2023 8:31 AM
+BAG:hokage1 add 131xHoa hồng xanh (old: 130) lydo: Nhặt từ map at 03/12/2023 8:31 AM
+BAG:hokage1 add 79xViên Capsule kì bí (old: 78) lydo: Nhặt từ map at 03/12/2023 8:31 AM
+BAG:hokage1 add 80xViên Capsule kì bí (old: 79) lydo: Nhặt từ map at 03/12/2023 8:31 AM
+BAG:hokage1 add 83xĐá thạch anh tím (old: 82) lydo: Nhặt từ map at 03/12/2023 8:31 AM
+BAG:hokage1 add 81xViên Capsule kì bí (old: 80) lydo: Nhặt từ map at 03/12/2023 8:31 AM
+BAG:hokage1 add 82xViên Capsule kì bí (old: 81) lydo: Nhặt từ map at 03/12/2023 8:32 AM
+BAG:hokage1 add 161xHoa hồng vàng (old: 160) lydo: Nhặt từ map at 03/12/2023 8:32 AM
+BAG:hokage1 add 83xViên Capsule kì bí (old: 82) lydo: Nhặt từ map at 03/12/2023 8:32 AM
+BAG:hokage1 add 162xHoa hồng vàng (old: 161) lydo: Nhặt từ map at 03/12/2023 8:32 AM
+BAG:hokage1 add 84xViên Capsule kì bí (old: 83) lydo: Nhặt từ map at 03/12/2023 8:32 AM
+BAG:hokage1 add 85xViên Capsule kì bí (old: 84) lydo: Nhặt từ map at 03/12/2023 8:32 AM
+BAG:hokage1 add 132xHoa hồng xanh (old: 131) lydo: Nhặt từ map at 03/12/2023 8:32 AM
+BAG:hokage1 add 125xHoa hồng đỏ (old: 124) lydo: Nhặt từ map at 03/12/2023 8:32 AM
+BAG:hokage1 add 163xHoa hồng vàng (old: 162) lydo: Nhặt từ map at 03/12/2023 8:32 AM
+BAG:hokage1 add 126xHoa hồng đỏ (old: 125) lydo: Nhặt từ map at 03/12/2023 8:32 AM
+BAG:hokage1 add 133xHoa hồng xanh (old: 132) lydo: Nhặt từ map at 03/12/2023 8:32 AM
+BAG:hokage1 add 127xHoa hồng đỏ (old: 126) lydo: Nhặt từ map at 03/12/2023 8:32 AM
+BAG:hokage1 add 128xHoa hồng đỏ (old: 127) lydo: Nhặt từ map at 03/12/2023 8:32 AM
+BAG:hokage1 add 164xHoa hồng vàng (old: 163) lydo: Nhặt từ map at 03/12/2023 8:32 AM
+BAG:hokage1 add 165xHoa hồng vàng (old: 164) lydo: Nhặt từ map at 03/12/2023 8:32 AM
+BAG:hokage1 add 166xHoa hồng vàng (old: 165) lydo: Nhặt từ map at 03/12/2023 8:32 AM
+BAG:hokage1 add 167xHoa hồng vàng (old: 166) lydo: Nhặt từ map at 03/12/2023 8:32 AM
+BAG:hokage1 add 86xViên Capsule kì bí (old: 85) lydo: Nhặt từ map at 03/12/2023 8:32 AM
+BAG:hokage1 add 87xViên Capsule kì bí (old: 86) lydo: Nhặt từ map at 03/12/2023 8:32 AM
+BAG:hokage1 add 134xHoa hồng xanh (old: 133) lydo: Nhặt từ map at 03/12/2023 8:32 AM
+BAG:hokage1 add 168xHoa hồng vàng (old: 167) lydo: Nhặt từ map at 03/12/2023 8:32 AM
+BAG:hokage1 add 88xViên Capsule kì bí (old: 87) lydo: Nhặt từ map at 03/12/2023 8:32 AM
+BAG:hokage1 add 89xViên Capsule kì bí (old: 88) lydo: Nhặt từ map at 03/12/2023 8:33 AM
+BAG:hokage1 add 169xHoa hồng vàng (old: 168) lydo: Nhặt từ map at 03/12/2023 8:33 AM
+BAG:hokage1 add 135xHoa hồng xanh (old: 134) lydo: Nhặt từ map at 03/12/2023 8:33 AM
+BAG:hokage1 add 90xViên Capsule kì bí (old: 89) lydo: Nhặt từ map at 03/12/2023 8:33 AM
+BAG:hokage1 add 170xHoa hồng vàng (old: 169) lydo: Nhặt từ map at 03/12/2023 8:33 AM
+BAG:hokage1 add 129xHoa hồng đỏ (old: 128) lydo: Nhặt từ map at 03/12/2023 8:33 AM
+BAG:hokage1 add 171xHoa hồng vàng (old: 170) lydo: Nhặt từ map at 03/12/2023 8:33 AM
+BAG:hokage1 add 91xViên Capsule kì bí (old: 90) lydo: Nhặt từ map at 03/12/2023 8:33 AM
+BAG:hokage1 add 172xHoa hồng vàng (old: 171) lydo: Nhặt từ map at 03/12/2023 8:33 AM
+BAG:hokage1 add 136xHoa hồng xanh (old: 135) lydo: Nhặt từ map at 03/12/2023 8:33 AM
+BAG:hokage1 add 92xViên Capsule kì bí (old: 91) lydo: Nhặt từ map at 03/12/2023 8:33 AM
+BAG:hokage1 add 130xHoa hồng đỏ (old: 129) lydo: Nhặt từ map at 03/12/2023 8:33 AM
+BAG:hokage1 add 93xViên Capsule kì bí (old: 92) lydo: Nhặt từ map at 03/12/2023 8:33 AM
+BAG:hokage1 add 84xĐá thạch anh tím (old: 83) lydo: Nhặt từ map at 03/12/2023 8:33 AM
+BAG:hokage1 add 173xHoa hồng vàng (old: 172) lydo: Nhặt từ map at 03/12/2023 8:33 AM
+BAG:hokage1 add 137xHoa hồng xanh (old: 136) lydo: Nhặt từ map at 03/12/2023 8:33 AM
+BAG:hokage1 add 94xViên Capsule kì bí (old: 93) lydo: Nhặt từ map at 03/12/2023 8:34 AM
+BAG:hokage1 add 174xHoa hồng vàng (old: 173) lydo: Nhặt từ map at 03/12/2023 8:34 AM
+BAG:hokage1 add 131xHoa hồng đỏ (old: 130) lydo: Nhặt từ map at 03/12/2023 8:34 AM
+BAG:hokage1 add 138xHoa hồng xanh (old: 137) lydo: Nhặt từ map at 03/12/2023 8:34 AM
+BAG:hokage1 add 175xHoa hồng vàng (old: 174) lydo: Nhặt từ map at 03/12/2023 8:34 AM
+BAG:hokage1 add 176xHoa hồng vàng (old: 175) lydo: Nhặt từ map at 03/12/2023 8:34 AM
+BAG:hokage1 add 132xHoa hồng đỏ (old: 131) lydo: Nhặt từ map at 03/12/2023 8:34 AM
+BAG:hokage1 add 177xHoa hồng vàng (old: 176) lydo: Nhặt từ map at 03/12/2023 8:34 AM
+BAG:hokage1 add 178xHoa hồng vàng (old: 177) lydo: Nhặt từ map at 03/12/2023 8:34 AM
+BAG:hokage1 add 95xViên Capsule kì bí (old: 94) lydo: Nhặt từ map at 03/12/2023 8:34 AM
+BAG:hokage1 add 96xViên Capsule kì bí (old: 95) lydo: Nhặt từ map at 03/12/2023 8:34 AM
+BAG:hokage1 add 179xHoa hồng vàng (old: 178) lydo: Nhặt từ map at 03/12/2023 8:34 AM
+BAG:hokage1 add 180xHoa hồng vàng (old: 179) lydo: Nhặt từ map at 03/12/2023 8:34 AM
+BAG:hokage1 add 97xViên Capsule kì bí (old: 96) lydo: Nhặt từ map at 03/12/2023 8:34 AM
+BAG:hokage1 add 133xHoa hồng đỏ (old: 132) lydo: Nhặt từ map at 03/12/2023 8:34 AM
+BAG:hokage1 add 98xViên Capsule kì bí (old: 97) lydo: Nhặt từ map at 03/12/2023 8:34 AM
+BAG:hokage1 add 134xHoa hồng đỏ (old: 133) lydo: Nhặt từ map at 03/12/2023 8:34 AM
+BAG:hokage1 add 139xHoa hồng xanh (old: 138) lydo: Nhặt từ map at 03/12/2023 8:35 AM
+BAG:hokage1 add 140xHoa hồng xanh (old: 139) lydo: Nhặt từ map at 03/12/2023 8:35 AM
+BAG:hokage1 add 181xHoa hồng vàng (old: 180) lydo: Nhặt từ map at 03/12/2023 8:35 AM
+BAG:hokage1 add 141xHoa hồng xanh (old: 140) lydo: Nhặt từ map at 03/12/2023 8:35 AM
+BAG:hokage1 add 99xViên Capsule kì bí (old: 98) lydo: Nhặt từ map at 03/12/2023 8:35 AM
+BAG:hokage1 add 1xViên Capsule kì bí lydo: Nhặt từ map at 03/12/2023 8:35 AM
+BAG:hokage1 add 142xHoa hồng xanh (old: 141) lydo: Nhặt từ map at 03/12/2023 8:35 AM
+BAG:hokage1 add 95xViên Capsule kì bí (old: 94) lydo: Nhặt từ map at 03/12/2023 8:35 AM
+BAG:hokage1 add 182xHoa hồng vàng (old: 181) lydo: Nhặt từ map at 03/12/2023 8:35 AM
+BAG:hokage1 add 91xViên Capsule kì bí (old: 90) lydo: Nhặt từ map at 03/12/2023 8:35 AM
+BAG:hokage1 add 16xBổ huyết (old: 15) lydo: CSKB at 03/12/2023 8:35 AM
+BAG:hokage1 add 135xHoa hồng đỏ (old: 134) lydo: Nhặt từ map at 03/12/2023 8:35 AM
+BAG:hokage1 add 1xẨn danh lydo: CSKB at 03/12/2023 8:35 AM
+BAG:hokage1 add 87xViên Capsule kì bí (old: 86) lydo: Nhặt từ map at 03/12/2023 8:35 AM
+BAG:hokage1 add 2xẨn danh (old: 1) lydo: CSKB at 03/12/2023 8:35 AM
+BAG:hokage1 add 183xHoa hồng vàng (old: 182) lydo: Nhặt từ map at 03/12/2023 8:35 AM
+BAG:hokage1 add 3xẨn danh (old: 2) lydo: CSKB at 03/12/2023 8:35 AM
+BAG:hokage1 add 2xBổ khí (old: 1) lydo: CSKB at 03/12/2023 8:35 AM
+BAG:hokage1 add 184xHoa hồng vàng (old: 183) lydo: Nhặt từ map at 03/12/2023 8:35 AM
+BAG:hokage1 add 4xẨn danh (old: 3) lydo: CSKB at 03/12/2023 8:35 AM
+BAG:hokage1 add 72xViên Capsule kì bí (old: 71) lydo: Nhặt từ map at 03/12/2023 8:35 AM
+BAG:hokage1 add 69xViên Capsule kì bí (old: 68) lydo: Nhặt từ map at 03/12/2023 8:36 AM
+BAG:hokage1 add 136xHoa hồng đỏ (old: 135) lydo: Nhặt từ map at 03/12/2023 8:36 AM
+BAG:hokage1 add 137xHoa hồng đỏ (old: 136) lydo: Nhặt từ map at 03/12/2023 8:36 AM
+BAG:hokage1 add 62xViên Capsule kì bí (old: 61) lydo: Nhặt từ map at 03/12/2023 8:36 AM
+BAG:hokage1 add 3xBổ khí (old: 2) lydo: CSKB at 03/12/2023 8:36 AM
+BAG:hokage1 add 60xViên Capsule kì bí (old: 59) lydo: Nhặt từ map at 03/12/2023 8:36 AM
+BAG:hokage1 add 5xẨn danh (old: 4) lydo: CSKB at 03/12/2023 8:36 AM
+BAG:hokage1 add 185xHoa hồng vàng (old: 184) lydo: Nhặt từ map at 03/12/2023 8:36 AM
+BAG:hokage1 add 58xViên Capsule kì bí (old: 57) lydo: Nhặt từ map at 03/12/2023 8:36 AM
+BAG:hokage1 add 6xẨn danh (old: 5) lydo: CSKB at 03/12/2023 8:36 AM
+BAG:hokage1 add 186xHoa hồng vàng (old: 185) lydo: Nhặt từ map at 03/12/2023 8:36 AM
+BAG:hokage1 add 13xCuồng nộ (old: 12) lydo: CSKB at 03/12/2023 8:36 AM
+BAG:hokage1 add 187xHoa hồng vàng (old: 186) lydo: Nhặt từ map at 03/12/2023 8:36 AM
+BAG:hokage1 add 7xẨn danh (old: 6) lydo: CSKB at 03/12/2023 8:36 AM
+BAG:hokage1 add 1xĐá lục bảo lydo: Nhặt từ map at 03/12/2023 8:36 AM
+BAG:hokage1 add 40xViên Capsule kì bí (old: 39) lydo: Nhặt từ map at 03/12/2023 8:36 AM
+BAG:hokage1 add 8xẨn danh (old: 7) lydo: CSKB at 03/12/2023 8:36 AM
+BAG:hokage1 add 188xHoa hồng vàng (old: 187) lydo: Nhặt từ map at 03/12/2023 8:36 AM
+BAG:hokage1 add 138xHoa hồng đỏ (old: 137) lydo: Nhặt từ map at 03/12/2023 8:36 AM
+BAG:hokage1 add 14xCuồng nộ (old: 13) lydo: CSKB at 03/12/2023 8:36 AM
+BAG:hokage1 add 37xViên Capsule kì bí (old: 36) lydo: Nhặt từ map at 03/12/2023 8:36 AM
+BAG:hokage1 add 35xViên Capsule kì bí (old: 34) lydo: Nhặt từ map at 03/12/2023 8:36 AM
+BAG:hokage1 add 17xBổ huyết (old: 16) lydo: CSKB at 03/12/2023 8:36 AM
+BAG:hokage1 add 15xCuồng nộ (old: 14) lydo: CSKB at 03/12/2023 8:36 AM
+BAG:hokage1 add 9xẨn danh (old: 8) lydo: CSKB at 03/12/2023 8:36 AM
+BAG:hokage1 add 143xHoa hồng xanh (old: 142) lydo: Nhặt từ map at 03/12/2023 8:36 AM
+BAG:hokage1 add 16xCuồng nộ (old: 15) lydo: CSKB at 03/12/2023 8:36 AM
+BAG:hokage1 add 144xHoa hồng xanh (old: 143) lydo: Nhặt từ map at 03/12/2023 8:37 AM
+BAG:hokage1 add 10xẨn danh (old: 9) lydo: CSKB at 03/12/2023 8:37 AM
+BAG:hokage1 add 17xCuồng nộ (old: 16) lydo: CSKB at 03/12/2023 8:37 AM
+BAG:hokage1 add 189xHoa hồng vàng (old: 188) lydo: Nhặt từ map at 03/12/2023 8:37 AM
+BAG:hokage1 add 16xViên Capsule kì bí (old: 15) lydo: Nhặt từ map at 03/12/2023 8:37 AM
+BAG:hokage1 add 18xCuồng nộ (old: 17) lydo: CSKB at 03/12/2023 8:37 AM
+BAG:hokage1 add 4xBổ khí (old: 3) lydo: CSKB at 03/12/2023 8:37 AM
+BAG:hokage1 add 139xHoa hồng đỏ (old: 138) lydo: Nhặt từ map at 03/12/2023 8:37 AM
+BAG:hokage1 add 1xViên Capsule kì bí lydo: Nhặt từ map at 03/12/2023 8:37 AM
+BAG:hokage1 add 8xNgọc Rồng 6 sao (old: 7) lydo: Nhặt từ map at 03/12/2023 8:37 AM
+BAG:hokage1 add 190xHoa hồng vàng (old: 189) lydo: Nhặt từ map at 03/12/2023 8:37 AM
+BAG:hokage1 add 191xHoa hồng vàng (old: 190) lydo: Nhặt từ map at 03/12/2023 8:37 AM
+BAG:hokage1 add 192xHoa hồng vàng (old: 191) lydo: Nhặt từ map at 03/12/2023 8:37 AM
+BAG:hokage1 add 2xViên Capsule kì bí (old: 1) lydo: Nhặt từ map at 03/12/2023 8:37 AM
+BAG:hokage1 add 3xViên Capsule kì bí (old: 2) lydo: Nhặt từ map at 03/12/2023 8:37 AM
+BAG:hokage1 add 140xHoa hồng đỏ (old: 139) lydo: Nhặt từ map at 03/12/2023 8:37 AM
+BAG:hokage1 add 193xHoa hồng vàng (old: 192) lydo: Nhặt từ map at 03/12/2023 8:37 AM
+BAG:hokage1 add 141xHoa hồng đỏ (old: 140) lydo: Nhặt từ map at 03/12/2023 8:38 AM
+BAG:hokage1 add 4xViên Capsule kì bí (old: 3) lydo: Nhặt từ map at 03/12/2023 8:38 AM
+BAG:hokage1 add 5xViên Capsule kì bí (old: 4) lydo: Nhặt từ map at 03/12/2023 8:38 AM
+BAG:hokage1 add 1xĐá Ruby lydo: Nhặt từ map at 03/12/2023 8:38 AM
+BAG:hokage1 add 142xHoa hồng đỏ (old: 141) lydo: Nhặt từ map at 03/12/2023 8:38 AM
+BAG:hokage1 add 143xHoa hồng đỏ (old: 142) lydo: Nhặt từ map at 03/12/2023 8:38 AM
+BAG:hokage1 add 2xĐá Ruby (old: 1) lydo: Nhặt từ map at 03/12/2023 8:38 AM
+BAG:hokage1 add 6xViên Capsule kì bí (old: 5) lydo: Nhặt từ map at 03/12/2023 8:38 AM
+BAG:hokage1 add 7xViên Capsule kì bí (old: 6) lydo: Nhặt từ map at 03/12/2023 8:38 AM
+BAG:hokage1 add 1xĐá lục bảo lydo: Nhặt từ map at 03/12/2023 8:38 AM
+BAG:hokage1 add 1xĐá Saphia lydo: Nhặt từ map at 03/12/2023 8:38 AM
+BAG:hokage1 add 8xViên Capsule kì bí (old: 7) lydo: Nhặt từ map at 03/12/2023 8:38 AM
+BAG:hokage1 add 9xViên Capsule kì bí (old: 8) lydo: Nhặt từ map at 03/12/2023 8:39 AM
+BAG:hokage1 add 194xHoa hồng vàng (old: 193) lydo: Nhặt từ map at 03/12/2023 8:39 AM
+BAG:hokage1 add 195xHoa hồng vàng (old: 194) lydo: Nhặt từ map at 03/12/2023 8:39 AM
+BAG:hokage1 add 196xHoa hồng vàng (old: 195) lydo: Nhặt từ map at 03/12/2023 8:39 AM
+BAG:hokage1 add 197xHoa hồng vàng (old: 196) lydo: Nhặt từ map at 03/12/2023 8:39 AM
+BAG:hokage1 add 10xViên Capsule kì bí (old: 9) lydo: Nhặt từ map at 03/12/2023 8:39 AM
+BAG:hokage1 add 11xViên Capsule kì bí (old: 10) lydo: Nhặt từ map at 03/12/2023 8:39 AM
+BAG:hokage1 add 12xViên Capsule kì bí (old: 11) lydo: Nhặt từ map at 03/12/2023 8:39 AM
+BAG:hokage1 add 145xHoa hồng xanh (old: 144) lydo: Nhặt từ map at 03/12/2023 8:39 AM
+BAG:hokage1 add 146xHoa hồng xanh (old: 145) lydo: Nhặt từ map at 03/12/2023 8:39 AM
+BAG:hokage1 add 147xHoa hồng xanh (old: 146) lydo: Nhặt từ map at 03/12/2023 8:39 AM
+BAG:hokage1 add 13xViên Capsule kì bí (old: 12) lydo: Nhặt từ map at 03/12/2023 8:39 AM
+BAG:hokage1 add 198xHoa hồng vàng (old: 197) lydo: Nhặt từ map at 03/12/2023 8:39 AM
+BAG:hokage1 add 199xHoa hồng vàng (old: 198) lydo: Nhặt từ map at 03/12/2023 8:39 AM
+BAG:hokage1 add 14xViên Capsule kì bí (old: 13) lydo: Nhặt từ map at 03/12/2023 8:39 AM
+BAG:hokage1 add 15xViên Capsule kì bí (old: 14) lydo: Nhặt từ map at 03/12/2023 8:39 AM
+BAG:hokage1 add 148xHoa hồng xanh (old: 147) lydo: Nhặt từ map at 03/12/2023 8:39 AM
+BAG:hokage1 add 149xHoa hồng xanh (old: 148) lydo: Nhặt từ map at 03/12/2023 8:39 AM
+BAG:hokage1 add 200xHoa hồng vàng (old: 199) lydo: Nhặt từ map at 03/12/2023 8:39 AM
+BAG:hokage1 add 144xHoa hồng đỏ (old: 143) lydo: Nhặt từ map at 03/12/2023 8:39 AM
+BAG:hokage1 add 16xViên Capsule kì bí (old: 15) lydo: Nhặt từ map at 03/12/2023 8:39 AM
+BAG:hokage1 add 17xViên Capsule kì bí (old: 16) lydo: Nhặt từ map at 03/12/2023 8:40 AM
+BAG:hokage1 add 145xHoa hồng đỏ (old: 144) lydo: Nhặt từ map at 03/12/2023 8:40 AM
+BAG:hokage1 add 18xViên Capsule kì bí (old: 17) lydo: Nhặt từ map at 03/12/2023 8:40 AM
+BAG:hokage1 add 201xHoa hồng vàng (old: 200) lydo: Nhặt từ map at 03/12/2023 8:40 AM
+BAG:hokage1 add 19xViên Capsule kì bí (old: 18) lydo: Nhặt từ map at 03/12/2023 8:40 AM
+BAG:hokage1 add 150xHoa hồng xanh (old: 149) lydo: Nhặt từ map at 03/12/2023 8:40 AM
+BAG:hokage1 add 202xHoa hồng vàng (old: 201) lydo: Nhặt từ map at 03/12/2023 8:40 AM
+BAG:hokage1 add 20xViên Capsule kì bí (old: 19) lydo: Nhặt từ map at 03/12/2023 8:40 AM
+BAG:hokage1 add 203xHoa hồng vàng (old: 202) lydo: Nhặt từ map at 03/12/2023 8:40 AM
+BAG:hokage1 add 146xHoa hồng đỏ (old: 145) lydo: Nhặt từ map at 03/12/2023 8:40 AM
+BAG:hokage1 add 21xViên Capsule kì bí (old: 20) lydo: Nhặt từ map at 03/12/2023 8:40 AM
+BAG:hokage1 add 85xĐá thạch anh tím (old: 84) lydo: Nhặt từ map at 03/12/2023 8:40 AM
+BAG:hokage1 add 147xHoa hồng đỏ (old: 146) lydo: Nhặt từ map at 03/12/2023 8:40 AM
+BAG:hokage1 add 148xHoa hồng đỏ (old: 147) lydo: Nhặt từ map at 03/12/2023 8:40 AM
+BAG:hokage1 add 151xHoa hồng xanh (old: 150) lydo: Nhặt từ map at 03/12/2023 8:40 AM
+BAG:hokage1 add 149xHoa hồng đỏ (old: 148) lydo: Nhặt từ map at 03/12/2023 8:40 AM
+BAG:hokage1 add 204xHoa hồng vàng (old: 203) lydo: Nhặt từ map at 03/12/2023 8:41 AM
+BAG:hokage1 add 152xHoa hồng xanh (old: 151) lydo: Nhặt từ map at 03/12/2023 8:41 AM
+BAG:hokage1 add 150xHoa hồng đỏ (old: 149) lydo: Nhặt từ map at 03/12/2023 8:41 AM
+BAG:hokage1 add 22xViên Capsule kì bí (old: 21) lydo: Nhặt từ map at 03/12/2023 8:41 AM
+BAG:hokage1 add 153xHoa hồng xanh (old: 152) lydo: Nhặt từ map at 03/12/2023 8:41 AM
+BAG:hokage1 add 151xHoa hồng đỏ (old: 150) lydo: Nhặt từ map at 03/12/2023 8:41 AM
+BAG:hokage1 add 154xHoa hồng xanh (old: 153) lydo: Nhặt từ map at 03/12/2023 8:41 AM
+BAG:hokage1 add 23xViên Capsule kì bí (old: 22) lydo: Nhặt từ map at 03/12/2023 8:41 AM
+BAG:hokage1 add 152xHoa hồng đỏ (old: 151) lydo: Nhặt từ map at 03/12/2023 8:41 AM
+BAG:hokage1 add 205xHoa hồng vàng (old: 204) lydo: Nhặt từ map at 03/12/2023 8:41 AM
+BAG:hokage1 add 24xViên Capsule kì bí (old: 23) lydo: Nhặt từ map at 03/12/2023 8:41 AM
+BAG:hokage1 add 25xViên Capsule kì bí (old: 24) lydo: Nhặt từ map at 03/12/2023 8:41 AM
+BAG:hokage1 add 153xHoa hồng đỏ (old: 152) lydo: Nhặt từ map at 03/12/2023 8:41 AM
+BAG:hokage1 add 1xĐá Saphia lydo: Nhặt từ map at 03/12/2023 8:41 AM
+BAG:hokage1 add 155xHoa hồng xanh (old: 154) lydo: Nhặt từ map at 03/12/2023 8:41 AM
+BAG:hokage1 add 154xHoa hồng đỏ (old: 153) lydo: Nhặt từ map at 03/12/2023 8:41 AM
+BAG:hokage1 add 155xHoa hồng đỏ (old: 154) lydo: Nhặt từ map at 03/12/2023 8:41 AM
+BAG:hokage1 add 26xViên Capsule kì bí (old: 25) lydo: Nhặt từ map at 03/12/2023 8:41 AM
+BAG:hokage1 add 156xHoa hồng đỏ (old: 155) lydo: Nhặt từ map at 03/12/2023 8:42 AM
+BAG:hokage1 add 27xViên Capsule kì bí (old: 26) lydo: Nhặt từ map at 03/12/2023 8:42 AM
+BAG:hokage1 add 156xHoa hồng xanh (old: 155) lydo: Nhặt từ map at 03/12/2023 8:42 AM
+BAG:hokage1 add 28xViên Capsule kì bí (old: 27) lydo: Nhặt từ map at 03/12/2023 8:42 AM
+BAG:hokage1 add 3xĐá Ruby (old: 2) lydo: Nhặt từ map at 03/12/2023 8:42 AM
+BAG:hokage1 add 157xHoa hồng xanh (old: 156) lydo: Nhặt từ map at 03/12/2023 8:42 AM
+BAG:hokage1 add 157xHoa hồng đỏ (old: 156) lydo: Nhặt từ map at 03/12/2023 8:42 AM
+BAG:hokage1 add 158xHoa hồng đỏ (old: 157) lydo: Nhặt từ map at 03/12/2023 8:42 AM
+BAG:hokage1 add 158xHoa hồng xanh (old: 157) lydo: Nhặt từ map at 03/12/2023 8:42 AM
+BAG:hokage1 add 29xViên Capsule kì bí (old: 28) lydo: Nhặt từ map at 03/12/2023 8:42 AM
+BAG:hokage1 add 206xHoa hồng vàng (old: 205) lydo: Nhặt từ map at 03/12/2023 8:42 AM
+BAG:hokage1 add 30xViên Capsule kì bí (old: 29) lydo: Nhặt từ map at 03/12/2023 8:42 AM
+BAG:hokage1 add 31xViên Capsule kì bí (old: 30) lydo: Nhặt từ map at 03/12/2023 8:42 AM
+BAG:hokage1 add 32xViên Capsule kì bí (old: 31) lydo: Nhặt từ map at 03/12/2023 8:42 AM
+BAG:hokage1 add 159xHoa hồng xanh (old: 158) lydo: Nhặt từ map at 03/12/2023 8:42 AM
+BAG:hokage1 add 159xHoa hồng đỏ (old: 158) lydo: Nhặt từ map at 03/12/2023 8:42 AM
+BAG:hokage1 add 33xViên Capsule kì bí (old: 32) lydo: Nhặt từ map at 03/12/2023 8:42 AM
+BAG:hokage1 add 207xHoa hồng vàng (old: 206) lydo: Nhặt từ map at 03/12/2023 8:42 AM
+BAG:hokage1 add 160xHoa hồng đỏ (old: 159) lydo: Nhặt từ map at 03/12/2023 8:43 AM
+BAG:hokage1 add 161xHoa hồng đỏ (old: 160) lydo: Nhặt từ map at 03/12/2023 8:43 AM
+BAG:hokage1 add 160xHoa hồng xanh (old: 159) lydo: Nhặt từ map at 03/12/2023 8:43 AM
+BAG:hokage1 add 208xHoa hồng vàng (old: 207) lydo: Nhặt từ map at 03/12/2023 8:43 AM
+BAG:hokage1 add 34xViên Capsule kì bí (old: 33) lydo: Nhặt từ map at 03/12/2023 8:43 AM
+BAG:hokage1 add 162xHoa hồng đỏ (old: 161) lydo: Nhặt từ map at 03/12/2023 8:43 AM
+BAG:hokage1 add 163xHoa hồng đỏ (old: 162) lydo: Nhặt từ map at 03/12/2023 8:43 AM
+BAG:hokage1 add 209xHoa hồng vàng (old: 208) lydo: Nhặt từ map at 03/12/2023 8:43 AM
+BAG:hokage1 add 35xViên Capsule kì bí (old: 34) lydo: Nhặt từ map at 03/12/2023 8:43 AM
+BAG:hokage1 add 36xViên Capsule kì bí (old: 35) lydo: Nhặt từ map at 03/12/2023 8:43 AM
+BAG:hokage1 add 210xHoa hồng vàng (old: 209) lydo: Nhặt từ map at 03/12/2023 8:43 AM
+BAG:hokage1 add 37xViên Capsule kì bí (old: 36) lydo: Nhặt từ map at 03/12/2023 8:43 AM
+BAG:hokage1 add 211xHoa hồng vàng (old: 210) lydo: Nhặt từ map at 03/12/2023 8:43 AM
+BAG:hokage1 add 38xViên Capsule kì bí (old: 37) lydo: Nhặt từ map at 03/12/2023 8:43 AM
+BAG:hokage1 add 39xViên Capsule kì bí (old: 38) lydo: Nhặt từ map at 03/12/2023 8:43 AM
+BAG:hokage1 add 164xHoa hồng đỏ (old: 163) lydo: Nhặt từ map at 03/12/2023 8:43 AM
+BAG:hokage1 add 165xHoa hồng đỏ (old: 164) lydo: Nhặt từ map at 03/12/2023 8:43 AM
+BAG:hokage1 add 166xHoa hồng đỏ (old: 165) lydo: Nhặt từ map at 03/12/2023 8:43 AM
+BAG:hokage1 add 40xViên Capsule kì bí (old: 39) lydo: Nhặt từ map at 03/12/2023 8:43 AM
+BAG:hokage1 add 41xViên Capsule kì bí (old: 40) lydo: Nhặt từ map at 03/12/2023 8:44 AM
+BAG:hokage1 add 42xViên Capsule kì bí (old: 41) lydo: Nhặt từ map at 03/12/2023 8:44 AM
+BAG:hokage1 add 167xHoa hồng đỏ (old: 166) lydo: Nhặt từ map at 03/12/2023 8:44 AM
+BAG:hokage1 add 161xHoa hồng xanh (old: 160) lydo: Nhặt từ map at 03/12/2023 8:44 AM
+BAG:hokage1 add 43xViên Capsule kì bí (old: 42) lydo: Nhặt từ map at 03/12/2023 8:44 AM
+BAG:hokage1 add 44xViên Capsule kì bí (old: 43) lydo: Nhặt từ map at 03/12/2023 8:44 AM
+BAG:hokage1 add 45xViên Capsule kì bí (old: 44) lydo: Nhặt từ map at 03/12/2023 8:44 AM
+BAG:hokage1 add 168xHoa hồng đỏ (old: 167) lydo: Nhặt từ map at 03/12/2023 8:44 AM
+BAG:hokage1 add 212xHoa hồng vàng (old: 211) lydo: Nhặt từ map at 03/12/2023 8:44 AM
+BAG:hokage1 add 46xViên Capsule kì bí (old: 45) lydo: Nhặt từ map at 03/12/2023 8:44 AM
+BAG:hokage1 add 213xHoa hồng vàng (old: 212) lydo: Nhặt từ map at 03/12/2023 8:44 AM
+BAG:hokage1 add 162xHoa hồng xanh (old: 161) lydo: Nhặt từ map at 03/12/2023 8:44 AM
+BAG:hokage1 add 47xViên Capsule kì bí (old: 46) lydo: Nhặt từ map at 03/12/2023 8:44 AM
+BAG:hokage1 add 163xHoa hồng xanh (old: 162) lydo: Nhặt từ map at 03/12/2023 8:44 AM
+BAG:hokage1 add 48xViên Capsule kì bí (old: 47) lydo: Nhặt từ map at 03/12/2023 8:44 AM
+BAG:hokage1 add 169xHoa hồng đỏ (old: 168) lydo: Nhặt từ map at 03/12/2023 8:44 AM
+BAG:hokage1 add 49xViên Capsule kì bí (old: 48) lydo: Nhặt từ map at 03/12/2023 8:45 AM
+BAG:hokage1 add 50xViên Capsule kì bí (old: 49) lydo: Nhặt từ map at 03/12/2023 8:45 AM
+BAG:hokage1 add 170xHoa hồng đỏ (old: 169) lydo: Nhặt từ map at 03/12/2023 8:45 AM
+BAG:hokage1 add 51xViên Capsule kì bí (old: 50) lydo: Nhặt từ map at 03/12/2023 8:45 AM
+BAG:hokage1 add 171xHoa hồng đỏ (old: 170) lydo: Nhặt từ map at 03/12/2023 8:45 AM
+BAG:hokage1 add 1xĐá Titan lydo: Nhặt từ map at 03/12/2023 8:45 AM
+BAG:hokage1 add 172xHoa hồng đỏ (old: 171) lydo: Nhặt từ map at 03/12/2023 8:45 AM
+BAG:hokage1 add 52xViên Capsule kì bí (old: 51) lydo: Nhặt từ map at 03/12/2023 8:45 AM
+BAG:hokage1 add 214xHoa hồng vàng (old: 213) lydo: Nhặt từ map at 03/12/2023 8:45 AM
+BAG:hokage1 add 173xHoa hồng đỏ (old: 172) lydo: Nhặt từ map at 03/12/2023 8:45 AM
+BAG:hokage1 add 53xViên Capsule kì bí (old: 52) lydo: Nhặt từ map at 03/12/2023 8:45 AM
+BAG:hokage1 add 174xHoa hồng đỏ (old: 173) lydo: Nhặt từ map at 03/12/2023 8:45 AM
+BAG:hokage1 add 54xViên Capsule kì bí (old: 53) lydo: Nhặt từ map at 03/12/2023 8:45 AM
+BAG:hokage1 add 55xViên Capsule kì bí (old: 54) lydo: Nhặt từ map at 03/12/2023 8:45 AM
+BAG:hokage1 add 56xViên Capsule kì bí (old: 55) lydo: Nhặt từ map at 03/12/2023 8:45 AM
+BAG:hokage1 add 164xHoa hồng xanh (old: 163) lydo: Nhặt từ map at 03/12/2023 8:45 AM
+BAG:hokage1 add 165xHoa hồng xanh (old: 164) lydo: Nhặt từ map at 03/12/2023 8:45 AM
+BAG:hokage1 add 166xHoa hồng xanh (old: 165) lydo: Nhặt từ map at 03/12/2023 8:45 AM
+BAG:hokage1 add 175xHoa hồng đỏ (old: 174) lydo: Nhặt từ map at 03/12/2023 8:45 AM
+BAG:hokage1 add 215xHoa hồng vàng (old: 214) lydo: Nhặt từ map at 03/12/2023 8:45 AM
+BAG:hokage1 add 167xHoa hồng xanh (old: 166) lydo: Nhặt từ map at 03/12/2023 8:46 AM
+BAG:hokage1 add 216xHoa hồng vàng (old: 215) lydo: Nhặt từ map at 03/12/2023 8:46 AM
+BAG:hokage1 add 176xHoa hồng đỏ (old: 175) lydo: Nhặt từ map at 03/12/2023 8:46 AM
+BAG:hokage1 add 57xViên Capsule kì bí (old: 56) lydo: Nhặt từ map at 03/12/2023 8:46 AM
+BAG:hokage1 add 58xViên Capsule kì bí (old: 57) lydo: Nhặt từ map at 03/12/2023 8:46 AM
+BAG:hokage1 add 217xHoa hồng vàng (old: 216) lydo: Nhặt từ map at 03/12/2023 8:46 AM
+BAG:hokage1 add 168xHoa hồng xanh (old: 167) lydo: Nhặt từ map at 03/12/2023 8:46 AM
+BAG:hokage1 add 59xViên Capsule kì bí (old: 58) lydo: Nhặt từ map at 03/12/2023 8:46 AM
+BAG:hokage1 add 177xHoa hồng đỏ (old: 176) lydo: Nhặt từ map at 03/12/2023 8:46 AM
+BAG:hokage1 add 60xViên Capsule kì bí (old: 59) lydo: Nhặt từ map at 03/12/2023 8:46 AM
+BAG:hokage1 add 178xHoa hồng đỏ (old: 177) lydo: Nhặt từ map at 03/12/2023 8:46 AM
+BAG:hokage1 add 218xHoa hồng vàng (old: 217) lydo: Nhặt từ map at 03/12/2023 8:46 AM
+BAG:hokage1 add 179xHoa hồng đỏ (old: 178) lydo: Nhặt từ map at 03/12/2023 8:46 AM
+BAG:hokage1 add 61xViên Capsule kì bí (old: 60) lydo: Nhặt từ map at 03/12/2023 8:46 AM
+BAG:hokage1 add 180xHoa hồng đỏ (old: 179) lydo: Nhặt từ map at 03/12/2023 8:46 AM
+BAG:hokage1 add 62xViên Capsule kì bí (old: 61) lydo: Nhặt từ map at 03/12/2023 8:46 AM
+BAG:hokage1 add 181xHoa hồng đỏ (old: 180) lydo: Nhặt từ map at 03/12/2023 8:46 AM
+BAG:hokage1 add 63xViên Capsule kì bí (old: 62) lydo: Nhặt từ map at 03/12/2023 8:47 AM
+BAG:hokage1 add 64xViên Capsule kì bí (old: 63) lydo: Nhặt từ map at 03/12/2023 8:47 AM
+BAG:hokage1 add 182xHoa hồng đỏ (old: 181) lydo: Nhặt từ map at 03/12/2023 8:47 AM
+BAG:hokage1 add 219xHoa hồng vàng (old: 218) lydo: Nhặt từ map at 03/12/2023 8:47 AM
+BAG:hokage1 add 220xHoa hồng vàng (old: 219) lydo: Nhặt từ map at 03/12/2023 8:47 AM
+BAG:hokage1 add 65xViên Capsule kì bí (old: 64) lydo: Nhặt từ map at 03/12/2023 8:47 AM
+BAG:hokage1 add 221xHoa hồng vàng (old: 220) lydo: Nhặt từ map at 03/12/2023 8:47 AM
+BAG:hokage1 add 66xViên Capsule kì bí (old: 65) lydo: Nhặt từ map at 03/12/2023 8:47 AM
+BAG:hokage1 add 169xHoa hồng xanh (old: 168) lydo: Nhặt từ map at 03/12/2023 8:47 AM
+BAG:hokage1 add 222xHoa hồng vàng (old: 221) lydo: Nhặt từ map at 03/12/2023 8:47 AM
+BAG:hokage1 add 67xViên Capsule kì bí (old: 66) lydo: Nhặt từ map at 03/12/2023 8:47 AM
+BAG:hokage1 add 9xNgọc Rồng 6 sao (old: 8) lydo: Nhặt từ map at 03/12/2023 8:47 AM
+BAG:hokage1 add 68xViên Capsule kì bí (old: 67) lydo: Nhặt từ map at 03/12/2023 8:47 AM
+BAG:hokage1 add 170xHoa hồng xanh (old: 169) lydo: Nhặt từ map at 03/12/2023 8:47 AM
+BAG:hokage1 add 171xHoa hồng xanh (old: 170) lydo: Nhặt từ map at 03/12/2023 8:47 AM
+BAG:hokage1 add 69xViên Capsule kì bí (old: 68) lydo: Nhặt từ map at 03/12/2023 8:47 AM
+BAG:hokage1 add 223xHoa hồng vàng (old: 222) lydo: Nhặt từ map at 03/12/2023 8:47 AM
+BAG:hokage1 add 183xHoa hồng đỏ (old: 182) lydo: Nhặt từ map at 03/12/2023 8:47 AM
+BAG:hokage1 add 184xHoa hồng đỏ (old: 183) lydo: Nhặt từ map at 03/12/2023 8:47 AM
+BAG:hokage1 add 70xViên Capsule kì bí (old: 69) lydo: Nhặt từ map at 03/12/2023 8:47 AM
+BAG:hokage1 add 172xHoa hồng xanh (old: 171) lydo: Nhặt từ map at 03/12/2023 8:48 AM
+BAG:hokage1 add 185xHoa hồng đỏ (old: 184) lydo: Nhặt từ map at 03/12/2023 8:48 AM
+BAG:hokage1 add 71xViên Capsule kì bí (old: 70) lydo: Nhặt từ map at 03/12/2023 8:48 AM
+BAG:hokage1 add 224xHoa hồng vàng (old: 223) lydo: Nhặt từ map at 03/12/2023 8:48 AM
+BAG:hokage1 add 186xHoa hồng đỏ (old: 185) lydo: Nhặt từ map at 03/12/2023 8:48 AM
+BAG:hokage1 add 225xHoa hồng vàng (old: 224) lydo: Nhặt từ map at 03/12/2023 8:48 AM
+BAG:hokage1 add 72xViên Capsule kì bí (old: 71) lydo: Nhặt từ map at 03/12/2023 8:48 AM
+BAG:hokage1 add 187xHoa hồng đỏ (old: 186) lydo: Nhặt từ map at 03/12/2023 8:48 AM
+BAG:hokage1 add 226xHoa hồng vàng (old: 225) lydo: Nhặt từ map at 03/12/2023 8:48 AM
+BAG:hokage1 add 73xViên Capsule kì bí (old: 72) lydo: Nhặt từ map at 03/12/2023 8:48 AM
+BAG:hokage1 add 74xViên Capsule kì bí (old: 73) lydo: Nhặt từ map at 03/12/2023 8:48 AM
+BAG:hokage1 add 75xViên Capsule kì bí (old: 74) lydo: Nhặt từ map at 03/12/2023 8:48 AM
+BAG:hokage1 add 227xHoa hồng vàng (old: 226) lydo: Nhặt từ map at 03/12/2023 8:48 AM
+BAG:hokage1 add 228xHoa hồng vàng (old: 227) lydo: Nhặt từ map at 03/12/2023 8:48 AM
+BAG:hokage1 add 188xHoa hồng đỏ (old: 187) lydo: Nhặt từ map at 03/12/2023 8:48 AM
+BAG:hokage1 add 229xHoa hồng vàng (old: 228) lydo: Nhặt từ map at 03/12/2023 8:48 AM
+BAG:hokage1 add 76xViên Capsule kì bí (old: 75) lydo: Nhặt từ map at 03/12/2023 8:48 AM
+BAG:hokage1 add 77xViên Capsule kì bí (old: 76) lydo: Nhặt từ map at 03/12/2023 8:48 AM
+BAG:hokage1 add 230xHoa hồng vàng (old: 229) lydo: Nhặt từ map at 03/12/2023 8:48 AM
+BAG:hokage1 add 189xHoa hồng đỏ (old: 188) lydo: Nhặt từ map at 03/12/2023 8:48 AM
+BAG:hokage1 add 173xHoa hồng xanh (old: 172) lydo: Nhặt từ map at 03/12/2023 8:48 AM
+BAG:hokage1 add 231xHoa hồng vàng (old: 230) lydo: Nhặt từ map at 03/12/2023 8:49 AM
+BAG:hokage1 add 78xViên Capsule kì bí (old: 77) lydo: Nhặt từ map at 03/12/2023 8:49 AM
+BAG:hokage1 add 6xNgọc Rồng 5 sao (old: 5) lydo: Nhặt từ map at 03/12/2023 8:49 AM
+BAG:hokage1 add 79xViên Capsule kì bí (old: 78) lydo: Nhặt từ map at 03/12/2023 8:49 AM
+BAG:hokage1 add 174xHoa hồng xanh (old: 173) lydo: Nhặt từ map at 03/12/2023 8:49 AM
+BAG:hokage1 add 80xViên Capsule kì bí (old: 79) lydo: Nhặt từ map at 03/12/2023 8:49 AM
+BAG:hokage1 add 190xHoa hồng đỏ (old: 189) lydo: Nhặt từ map at 03/12/2023 8:49 AM
+BAG:hokage1 add 2xĐá Saphia (old: 1) lydo: Nhặt từ map at 03/12/2023 8:49 AM
+BAG:hokage1 add 191xHoa hồng đỏ (old: 190) lydo: Nhặt từ map at 03/12/2023 8:49 AM
+BAG:hokage1 add 81xViên Capsule kì bí (old: 80) lydo: Nhặt từ map at 03/12/2023 8:49 AM
+BAG:hokage1 add 232xHoa hồng vàng (old: 231) lydo: Nhặt từ map at 03/12/2023 8:49 AM
+BAG:hokage1 add 192xHoa hồng đỏ (old: 191) lydo: Nhặt từ map at 03/12/2023 8:49 AM
+BAG:hokage1 add 82xViên Capsule kì bí (old: 81) lydo: Nhặt từ map at 03/12/2023 8:49 AM
+BAG:hokage1 add 233xHoa hồng vàng (old: 232) lydo: Nhặt từ map at 03/12/2023 8:49 AM
+BAG:hokage1 add 234xHoa hồng vàng (old: 233) lydo: Nhặt từ map at 03/12/2023 8:49 AM
+BAG:hokage1 add 193xHoa hồng đỏ (old: 192) lydo: Nhặt từ map at 03/12/2023 8:50 AM
+BAG:hokage1 add 194xHoa hồng đỏ (old: 193) lydo: Nhặt từ map at 03/12/2023 8:50 AM
+BAG:hokage1 add 83xViên Capsule kì bí (old: 82) lydo: Nhặt từ map at 03/12/2023 8:50 AM
+BAG:hokage1 add 84xViên Capsule kì bí (old: 83) lydo: Nhặt từ map at 03/12/2023 8:50 AM
+BAG:hokage1 add 175xHoa hồng xanh (old: 174) lydo: Nhặt từ map at 03/12/2023 8:50 AM
+BAG:hokage1 add 85xViên Capsule kì bí (old: 84) lydo: Nhặt từ map at 03/12/2023 8:50 AM
+BAG:hokage1 add 195xHoa hồng đỏ (old: 194) lydo: Nhặt từ map at 03/12/2023 8:50 AM
+BAG:hokage1 add 86xViên Capsule kì bí (old: 85) lydo: Nhặt từ map at 03/12/2023 8:50 AM
+BAG:hokage1 add 176xHoa hồng xanh (old: 175) lydo: Nhặt từ map at 03/12/2023 8:50 AM
+BAG:hokage1 add 177xHoa hồng xanh (old: 176) lydo: Nhặt từ map at 03/12/2023 8:50 AM
+BAG:hokage1 add 87xViên Capsule kì bí (old: 86) lydo: Nhặt từ map at 03/12/2023 8:50 AM
+BAG:hokage1 add 88xViên Capsule kì bí (old: 87) lydo: Nhặt từ map at 03/12/2023 8:50 AM
+BAG:hokage1 add 235xHoa hồng vàng (old: 234) lydo: Nhặt từ map at 03/12/2023 8:50 AM
+BAG:hokage1 add 89xViên Capsule kì bí (old: 88) lydo: Nhặt từ map at 03/12/2023 8:50 AM
+BAG:hokage1 add 178xHoa hồng xanh (old: 177) lydo: Nhặt từ map at 03/12/2023 8:50 AM
+BAG:hokage1 add 179xHoa hồng xanh (old: 178) lydo: Nhặt từ map at 03/12/2023 8:50 AM
+BAG:hokage1 add 236xHoa hồng vàng (old: 235) lydo: Nhặt từ map at 03/12/2023 8:50 AM
+BAG:hokage1 add 1xGiáp tập luyện cấp 3 lydo: Lấy từ body vào hành trang at 03/12/2023 8:55 AM
+BAG:hokage1 add 83xNgọc Rồng 3 sao (old: 82) lydo: Nhặt từ map at 03/12/2023 8:58 AM
+BAG:hokage1 add 84xNgọc Rồng 3 sao (old: 83) lydo: Nhặt từ map at 03/12/2023 9:03 AM
+BAG:hokage1 add 196xHoa hồng đỏ (old: 195) lydo: Nhặt từ map at 03/12/2023 9:05 AM
+BAG:hokage1 add 1xGiáp tập luyện cấp 3 lydo: Lấy từ body vào hành trang at 03/12/2023 9:08 AM
+BAG:hokage1 add 113xThỏi vàng (old: 108) lydo: Nhặt từ map at 03/12/2023 9:10 AM
+BAG:hokage1 add 7xNgọc Rồng 5 sao (old: 6) lydo: Nhặt từ map at 03/12/2023 9:12 AM
+BAG:hokage1 add 237xHoa hồng vàng (old: 236) lydo: Nhặt từ map at 03/12/2023 9:12 AM
+BAG:hokage1 add 180xHoa hồng xanh (old: 179) lydo: Nhặt từ map at 03/12/2023 9:12 AM
+BAG:hokage1 add 238xHoa hồng vàng (old: 237) lydo: Nhặt từ map at 03/12/2023 9:13 AM
+BAG:hokage1 add 1xGiáp tập luyện cấp 3 lydo: Lấy từ body vào hành trang at 03/12/2023 9:14 AM
+BAG:hokage1 add 4xĐá Ruby (old: 3) lydo: Nhặt từ map at 03/12/2023 9:16 AM
+BAG:hokage1 add 181xHoa hồng xanh (old: 180) lydo: Nhặt từ map at 03/12/2023 9:17 AM
+BAG:hokage1 add 182xHoa hồng xanh (old: 181) lydo: Nhặt từ map at 03/12/2023 9:17 AM
+BAG:hokage1 add 197xHoa hồng đỏ (old: 196) lydo: Nhặt từ map at 03/12/2023 9:18 AM
+BAG:hokage1 add 198xHoa hồng đỏ (old: 197) lydo: Nhặt từ map at 03/12/2023 9:18 AM
+BAG:hokage1 add 5xĐá Ruby (old: 4) lydo: Nhặt từ map at 03/12/2023 9:19 AM
+BAG:hokage1 add 239xHoa hồng vàng (old: 238) lydo: Nhặt từ map at 03/12/2023 9:28 AM
+BAG:hokage1 add 1xGiáp tập luyện cấp 3 lydo: Lấy từ body vào hành trang at 03/12/2023 9:37 AM
+BAG:hokage1 add 85xNgọc Rồng 3 sao (old: 84) lydo: Nhặt từ map at 03/12/2023 9:39 AM
+BAG:hokage1 add 86xNgọc Rồng 3 sao (old: 85) lydo: Nhặt từ map at 03/12/2023 9:40 AM
+BAG:hokage1 add 1xGiáp tập luyện cấp 3 lydo: Lấy từ body vào hành trang at 03/12/2023 9:41 AM
+BAG:hokage1 add 1xĐá Titan lydo: Nhặt từ map at 03/12/2023 10:17 AM
+BAG:hokage1 add 90xViên Capsule kì bí (old: 89) lydo: Nhặt từ map at 03/12/2023 10:17 AM
+BAG:hokage1 add 240xHoa hồng vàng (old: 239) lydo: Nhặt từ map at 03/12/2023 10:17 AM
+BAG:hokage1 add 199xHoa hồng đỏ (old: 198) lydo: Nhặt từ map at 03/12/2023 10:17 AM
+BAG:hokage1 add 241xHoa hồng vàng (old: 240) lydo: Nhặt từ map at 03/12/2023 10:17 AM
+BAG:hokage1 add 242xHoa hồng vàng (old: 241) lydo: Nhặt từ map at 03/12/2023 10:17 AM
+BAG:hokage1 add 183xHoa hồng xanh (old: 182) lydo: Nhặt từ map at 03/12/2023 10:17 AM
+BAG:hokage1 add 86xĐá thạch anh tím (old: 85) lydo: Nhặt từ map at 03/12/2023 10:17 AM
+BAG:hokage1 add 243xHoa hồng vàng (old: 242) lydo: Nhặt từ map at 03/12/2023 10:17 AM
+BAG:hokage1 add 244xHoa hồng vàng (old: 243) lydo: Nhặt từ map at 03/12/2023 10:17 AM
+BAG:hokage1 add 1xĐá lục bảo lydo: Nhặt từ map at 03/12/2023 10:17 AM
+BAG:hokage1 add 91xViên Capsule kì bí (old: 90) lydo: Nhặt từ map at 03/12/2023 10:17 AM
+BAG:hokage1 add 184xHoa hồng xanh (old: 183) lydo: Nhặt từ map at 03/12/2023 10:17 AM
+BAG:hokage1 add 4xNgọc Rồng 4 sao (old: 3) lydo: Nhặt từ map at 03/12/2023 10:17 AM
+BAG:hokage1 add 92xViên Capsule kì bí (old: 91) lydo: Nhặt từ map at 03/12/2023 10:17 AM
+BAG:hokage1 add 93xViên Capsule kì bí (old: 92) lydo: Nhặt từ map at 03/12/2023 10:17 AM
+BAG:hokage1 add 200xHoa hồng đỏ (old: 199) lydo: Nhặt từ map at 03/12/2023 10:17 AM
+BAG:hokage1 add 94xViên Capsule kì bí (old: 93) lydo: Nhặt từ map at 03/12/2023 10:17 AM
+BAG:hokage1 add 95xViên Capsule kì bí (old: 94) lydo: Nhặt từ map at 03/12/2023 10:17 AM
+BAG:hokage1 add 5xNgọc Rồng 4 sao (old: 4) lydo: Nhặt từ map at 03/12/2023 10:17 AM
+BAG:hokage1 add 96xViên Capsule kì bí (old: 95) lydo: Nhặt từ map at 03/12/2023 10:17 AM
+BAG:hokage1 add 97xViên Capsule kì bí (old: 96) lydo: Nhặt từ map at 03/12/2023 10:18 AM
+BAG:hokage1 add 98xViên Capsule kì bí (old: 97) lydo: Nhặt từ map at 03/12/2023 10:18 AM
+BAG:hokage1 add 87xĐá thạch anh tím (old: 86) lydo: Nhặt từ map at 03/12/2023 10:18 AM
+BAG:hokage1 add 99xViên Capsule kì bí (old: 98) lydo: Nhặt từ map at 03/12/2023 10:18 AM
+BAG:hokage1 add 14xBổ huyết (old: 13) lydo: CSKB at 03/12/2023 10:18 AM
+BAG:hokage1 add 10xNgọc Rồng 6 sao (old: 9) lydo: Nhặt từ map at 03/12/2023 10:18 AM
+BAG:hokage1 add 15xCuồng nộ (old: 14) lydo: CSKB at 03/12/2023 10:18 AM
+BAG:hokage1 add 96xViên Capsule kì bí (old: 95) lydo: Nhặt từ map at 03/12/2023 10:18 AM
+BAG:hokage1 add 185xHoa hồng xanh (old: 184) lydo: Nhặt từ map at 03/12/2023 10:18 AM
+BAG:hokage1 add 5xBổ khí (old: 4) lydo: CSKB at 03/12/2023 10:18 AM
+BAG:hokage1 add 15xBổ huyết (old: 14) lydo: CSKB at 03/12/2023 10:18 AM
+BAG:hokage1 add 245xHoa hồng vàng (old: 244) lydo: Nhặt từ map at 03/12/2023 10:18 AM
+BAG:hokage1 add 201xHoa hồng đỏ (old: 200) lydo: Nhặt từ map at 03/12/2023 10:18 AM
+BAG:hokage1 add 246xHoa hồng vàng (old: 245) lydo: Nhặt từ map at 03/12/2023 10:18 AM
+BAG:hokage1 add 81xViên Capsule kì bí (old: 80) lydo: Nhặt từ map at 03/12/2023 10:18 AM
+BAG:hokage1 add 202xHoa hồng đỏ (old: 201) lydo: Nhặt từ map at 03/12/2023 10:18 AM
+BAG:hokage1 add 247xHoa hồng vàng (old: 246) lydo: Nhặt từ map at 03/12/2023 10:18 AM
+BAG:hokage1 add 6xBổ khí (old: 5) lydo: CSKB at 03/12/2023 10:18 AM
+BAG:hokage1 add 248xHoa hồng vàng (old: 247) lydo: Nhặt từ map at 03/12/2023 10:18 AM
+BAG:hokage1 add 73xViên Capsule kì bí (old: 72) lydo: Nhặt từ map at 03/12/2023 10:18 AM
+BAG:hokage1 add 186xHoa hồng xanh (old: 185) lydo: Nhặt từ map at 03/12/2023 10:18 AM
+BAG:hokage1 add 68xViên Capsule kì bí (old: 67) lydo: Nhặt từ map at 03/12/2023 10:18 AM
+BAG:hokage1 add 8xNgọc Rồng 5 sao (old: 7) lydo: Nhặt từ map at 03/12/2023 10:18 AM
+BAG:hokage1 add 187xHoa hồng xanh (old: 186) lydo: Nhặt từ map at 03/12/2023 10:18 AM
+BAG:hokage1 add 62xViên Capsule kì bí (old: 61) lydo: Nhặt từ map at 03/12/2023 10:18 AM
+BAG:hokage1 add 203xHoa hồng đỏ (old: 202) lydo: Nhặt từ map at 03/12/2023 10:18 AM
+BAG:hokage1 add 204xHoa hồng đỏ (old: 203) lydo: Nhặt từ map at 03/12/2023 10:18 AM
+BAG:hokage1 add 7xBổ khí (old: 6) lydo: CSKB at 03/12/2023 10:18 AM
+BAG:hokage1 add 16xCuồng nộ (old: 15) lydo: CSKB at 03/12/2023 10:18 AM
+BAG:hokage1 add 53xViên Capsule kì bí (old: 52) lydo: Nhặt từ map at 03/12/2023 10:19 AM
+BAG:hokage1 add 53xViên Capsule kì bí (old: 52) lydo: Nhặt từ map at 03/12/2023 10:19 AM
+BAG:hokage1 add 188xHoa hồng xanh (old: 187) lydo: Nhặt từ map at 03/12/2023 10:19 AM
+BAG:hokage1 add 205xHoa hồng đỏ (old: 204) lydo: Nhặt từ map at 03/12/2023 10:19 AM
+BAG:hokage1 add 8xBổ khí (old: 7) lydo: CSKB at 03/12/2023 10:19 AM
+BAG:hokage1 add 48xViên Capsule kì bí (old: 47) lydo: Nhặt từ map at 03/12/2023 10:19 AM
+BAG:hokage1 add 189xHoa hồng xanh (old: 188) lydo: Nhặt từ map at 03/12/2023 10:19 AM
+BAG:hokage1 add 249xHoa hồng vàng (old: 248) lydo: Nhặt từ map at 03/12/2023 10:19 AM
+BAG:hokage1 add 17xCuồng nộ (old: 16) lydo: CSKB at 03/12/2023 10:19 AM
+BAG:hokage1 add 206xHoa hồng đỏ (old: 205) lydo: Nhặt từ map at 03/12/2023 10:19 AM
+BAG:hokage1 add 18xCuồng nộ (old: 17) lydo: CSKB at 03/12/2023 10:19 AM
+BAG:hokage1 add 19xCuồng nộ (old: 18) lydo: CSKB at 03/12/2023 10:19 AM
+BAG:hokage1 add 207xHoa hồng đỏ (old: 206) lydo: Nhặt từ map at 03/12/2023 10:19 AM
+BAG:hokage1 add 6xĐá Ruby (old: 5) lydo: Nhặt từ map at 03/12/2023 10:19 AM
+BAG:hokage1 add 24xViên Capsule kì bí (old: 23) lydo: Nhặt từ map at 03/12/2023 10:19 AM
+BAG:hokage1 add 24xViên Capsule kì bí (old: 23) lydo: Nhặt từ map at 03/12/2023 10:19 AM
+BAG:hokage1 add 6xNgọc Rồng 4 sao (old: 5) lydo: Nhặt từ map at 03/12/2023 10:19 AM
+BAG:hokage1 add 2xĐá Titan (old: 1) lydo: Nhặt từ map at 03/12/2023 10:19 AM
+BAG:hokage1 add 250xHoa hồng vàng (old: 249) lydo: Nhặt từ map at 03/12/2023 10:19 AM
+BAG:hokage1 add 88xĐá thạch anh tím (old: 87) lydo: Nhặt từ map at 03/12/2023 10:19 AM
+BAG:hokage1 add 8xViên Capsule kì bí (old: 7) lydo: Nhặt từ map at 03/12/2023 10:19 AM
+BAG:hokage1 add 251xHoa hồng vàng (old: 250) lydo: Nhặt từ map at 03/12/2023 10:19 AM
+BAG:hokage1 add 7xViên Capsule kì bí (old: 6) lydo: Nhặt từ map at 03/12/2023 10:19 AM
+BAG:hokage1 add 20xCuồng nộ (old: 19) lydo: CSKB at 03/12/2023 10:19 AM
+BAG:hokage1 add 190xHoa hồng xanh (old: 189) lydo: Nhặt từ map at 03/12/2023 10:19 AM
+BAG:hokage1 add 191xHoa hồng xanh (old: 190) lydo: Nhặt từ map at 03/12/2023 10:20 AM
+BAG:hokage1 add 192xHoa hồng xanh (old: 191) lydo: Nhặt từ map at 03/12/2023 10:20 AM
+BAG:hokage1 add 252xHoa hồng vàng (old: 251) lydo: Nhặt từ map at 03/12/2023 10:20 AM
+BAG:hokage1 add 208xHoa hồng đỏ (old: 207) lydo: Nhặt từ map at 03/12/2023 10:20 AM
+BAG:hokage1 add 253xHoa hồng vàng (old: 252) lydo: Nhặt từ map at 03/12/2023 10:20 AM
+BAG:hokage1 add 209xHoa hồng đỏ (old: 208) lydo: Nhặt từ map at 03/12/2023 10:20 AM
+BAG:hokage1 add 193xHoa hồng xanh (old: 192) lydo: Nhặt từ map at 03/12/2023 10:20 AM
+BAG:hokage1 add 194xHoa hồng xanh (old: 193) lydo: Nhặt từ map at 03/12/2023 10:20 AM
+BAG:hokage1 add 1xĐá Saphia lydo: Nhặt từ map at 03/12/2023 10:20 AM
+BAG:hokage1 add 210xHoa hồng đỏ (old: 209) lydo: Nhặt từ map at 03/12/2023 10:20 AM
+BAG:hokage1 add 195xHoa hồng xanh (old: 194) lydo: Nhặt từ map at 03/12/2023 10:20 AM
+BAG:hokage1 add 211xHoa hồng đỏ (old: 210) lydo: Nhặt từ map at 03/12/2023 10:20 AM
+BAG:hokage1 add 254xHoa hồng vàng (old: 253) lydo: Nhặt từ map at 03/12/2023 10:20 AM
+BAG:hokage1 add 255xHoa hồng vàng (old: 254) lydo: Nhặt từ map at 03/12/2023 10:21 AM
+BAG:hokage1 add 256xHoa hồng vàng (old: 255) lydo: Nhặt từ map at 03/12/2023 10:21 AM
+BAG:hokage1 add 2xĐá Saphia (old: 1) lydo: Nhặt từ map at 03/12/2023 10:21 AM
+BAG:hokage1 add 89xĐá thạch anh tím (old: 88) lydo: Nhặt từ map at 03/12/2023 10:21 AM
+BAG:hokage1 add 212xHoa hồng đỏ (old: 211) lydo: Nhặt từ map at 03/12/2023 10:21 AM
+BAG:hokage1 add 213xHoa hồng đỏ (old: 212) lydo: Nhặt từ map at 03/12/2023 10:21 AM
+BAG:hokage1 add 196xHoa hồng xanh (old: 195) lydo: Nhặt từ map at 03/12/2023 10:21 AM
+BAG:hokage1 add 197xHoa hồng xanh (old: 196) lydo: Nhặt từ map at 03/12/2023 10:21 AM
+BAG:hokage1 add 7xNgọc Rồng 4 sao (old: 6) lydo: Nhặt từ map at 03/12/2023 10:21 AM
+BAG:hokage1 add 1xViên Capsule kì bí lydo: Nhặt từ map at 03/12/2023 10:21 AM
+BAG:hokage1 add 2xViên Capsule kì bí (old: 1) lydo: Nhặt từ map at 03/12/2023 10:21 AM
+BAG:hokage1 add 3xViên Capsule kì bí (old: 2) lydo: Nhặt từ map at 03/12/2023 10:21 AM
+BAG:hokage1 add 8xNgọc Rồng 4 sao (old: 7) lydo: Nhặt từ map at 03/12/2023 10:21 AM
+BAG:hokage1 add 214xHoa hồng đỏ (old: 213) lydo: Nhặt từ map at 03/12/2023 10:21 AM
+BAG:hokage1 add 215xHoa hồng đỏ (old: 214) lydo: Nhặt từ map at 03/12/2023 10:21 AM
+BAG:hokage1 add 4xViên Capsule kì bí (old: 3) lydo: Nhặt từ map at 03/12/2023 10:21 AM
+BAG:hokage1 add 5xViên Capsule kì bí (old: 4) lydo: Nhặt từ map at 03/12/2023 10:21 AM
+BAG:hokage1 add 6xViên Capsule kì bí (old: 5) lydo: Nhặt từ map at 03/12/2023 10:21 AM
+BAG:hokage1 add 198xHoa hồng xanh (old: 197) lydo: Nhặt từ map at 03/12/2023 10:22 AM
+BAG:hokage1 add 7xViên Capsule kì bí (old: 6) lydo: Nhặt từ map at 03/12/2023 10:22 AM
+BAG:hokage1 add 8xViên Capsule kì bí (old: 7) lydo: Nhặt từ map at 03/12/2023 10:22 AM
+BAG:hokage1 add 257xHoa hồng vàng (old: 256) lydo: Nhặt từ map at 03/12/2023 10:22 AM
+BAG:hokage1 add 9xViên Capsule kì bí (old: 8) lydo: Nhặt từ map at 03/12/2023 10:22 AM
+BAG:hokage1 add 1xĐá lục bảo lydo: Nhặt từ map at 03/12/2023 10:22 AM
+BAG:hokage1 add 10xViên Capsule kì bí (old: 9) lydo: Nhặt từ map at 03/12/2023 10:22 AM
+BAG:hokage1 add 258xHoa hồng vàng (old: 257) lydo: Nhặt từ map at 03/12/2023 10:22 AM
+BAG:hokage1 add 259xHoa hồng vàng (old: 258) lydo: Nhặt từ map at 03/12/2023 10:22 AM
+BAG:hokage1 add 199xHoa hồng xanh (old: 198) lydo: Nhặt từ map at 03/12/2023 10:22 AM
+BAG:hokage1 add 11xViên Capsule kì bí (old: 10) lydo: Nhặt từ map at 03/12/2023 10:22 AM
+BAG:hokage1 add 260xHoa hồng vàng (old: 259) lydo: Nhặt từ map at 03/12/2023 10:22 AM
+BAG:hokage1 add 200xHoa hồng xanh (old: 199) lydo: Nhặt từ map at 03/12/2023 10:23 AM
+BAG:hokage1 add 261xHoa hồng vàng (old: 260) lydo: Nhặt từ map at 03/12/2023 10:23 AM
+BAG:hokage1 add 262xHoa hồng vàng (old: 261) lydo: Nhặt từ map at 03/12/2023 10:23 AM
+BAG:hokage1 add 263xHoa hồng vàng (old: 262) lydo: Nhặt từ map at 03/12/2023 10:23 AM
+BAG:hokage1 add 12xViên Capsule kì bí (old: 11) lydo: Nhặt từ map at 03/12/2023 10:23 AM
+BAG:hokage1 add 13xViên Capsule kì bí (old: 12) lydo: Nhặt từ map at 03/12/2023 10:23 AM
+BAG:hokage1 add 14xViên Capsule kì bí (old: 13) lydo: Nhặt từ map at 03/12/2023 10:23 AM
+BAG:hokage1 add 90xĐá thạch anh tím (old: 89) lydo: Nhặt từ map at 03/12/2023 10:24 AM
+BAG:hokage1 add 264xHoa hồng vàng (old: 263) lydo: Nhặt từ map at 03/12/2023 10:24 AM
+BAG:hokage1 add 216xHoa hồng đỏ (old: 215) lydo: Nhặt từ map at 03/12/2023 10:24 AM
+BAG:hokage1 add 15xViên Capsule kì bí (old: 14) lydo: Nhặt từ map at 03/12/2023 10:24 AM
+BAG:hokage1 add 265xHoa hồng vàng (old: 264) lydo: Nhặt từ map at 03/12/2023 10:24 AM
+BAG:hokage1 add 201xHoa hồng xanh (old: 200) lydo: Nhặt từ map at 03/12/2023 10:24 AM
+BAG:hokage1 add 266xHoa hồng vàng (old: 265) lydo: Nhặt từ map at 03/12/2023 10:24 AM
+BAG:hokage1 add 91xĐá thạch anh tím (old: 90) lydo: Nhặt từ map at 03/12/2023 10:24 AM
+BAG:hokage1 add 217xHoa hồng đỏ (old: 216) lydo: Nhặt từ map at 03/12/2023 10:24 AM
+BAG:hokage1 add 218xHoa hồng đỏ (old: 217) lydo: Nhặt từ map at 03/12/2023 10:24 AM
+BAG:hokage1 add 16xViên Capsule kì bí (old: 15) lydo: Nhặt từ map at 03/12/2023 10:24 AM
+BAG:hokage1 add 17xViên Capsule kì bí (old: 16) lydo: Nhặt từ map at 03/12/2023 10:24 AM
+BAG:hokage1 add 202xHoa hồng xanh (old: 201) lydo: Nhặt từ map at 03/12/2023 10:24 AM
+BAG:hokage1 add 267xHoa hồng vàng (old: 266) lydo: Nhặt từ map at 03/12/2023 10:24 AM
+BAG:hokage1 add 203xHoa hồng xanh (old: 202) lydo: Nhặt từ map at 03/12/2023 10:24 AM
+BAG:hokage1 add 204xHoa hồng xanh (old: 203) lydo: Nhặt từ map at 03/12/2023 10:25 AM
+BAG:hokage1 add 2xĐá lục bảo (old: 1) lydo: Nhặt từ map at 03/12/2023 10:25 AM
+BAG:hokage1 add 205xHoa hồng xanh (old: 204) lydo: Nhặt từ map at 03/12/2023 10:25 AM
+BAG:hokage1 add 268xHoa hồng vàng (old: 267) lydo: Nhặt từ map at 03/12/2023 10:25 AM
+BAG:hokage1 add 206xHoa hồng xanh (old: 205) lydo: Nhặt từ map at 03/12/2023 10:25 AM
+BAG:hokage1 add 18xViên Capsule kì bí (old: 17) lydo: Nhặt từ map at 03/12/2023 10:25 AM
+BAG:hokage1 add 19xViên Capsule kì bí (old: 18) lydo: Nhặt từ map at 03/12/2023 10:25 AM
+BAG:hokage1 add 269xHoa hồng vàng (old: 268) lydo: Nhặt từ map at 03/12/2023 10:25 AM
+BAG:hokage1 add 207xHoa hồng xanh (old: 206) lydo: Nhặt từ map at 03/12/2023 10:25 AM
+BAG:hokage1 add 219xHoa hồng đỏ (old: 218) lydo: Nhặt từ map at 03/12/2023 10:25 AM
+BAG:hokage1 add 270xHoa hồng vàng (old: 269) lydo: Nhặt từ map at 03/12/2023 10:25 AM
+BAG:hokage1 add 208xHoa hồng xanh (old: 207) lydo: Nhặt từ map at 03/12/2023 10:25 AM
+BAG:hokage1 add 20xViên Capsule kì bí (old: 19) lydo: Nhặt từ map at 03/12/2023 10:25 AM
+BAG:hokage1 add 3xĐá Titan (old: 2) lydo: Nhặt từ map at 03/12/2023 10:25 AM
+BAG:hokage1 add 220xHoa hồng đỏ (old: 219) lydo: Nhặt từ map at 03/12/2023 10:25 AM
+BAG:hokage1 add 21xViên Capsule kì bí (old: 20) lydo: Nhặt từ map at 03/12/2023 10:25 AM
+BAG:hokage1 add 271xHoa hồng vàng (old: 270) lydo: Nhặt từ map at 03/12/2023 10:25 AM
+BAG:hokage1 add 22xViên Capsule kì bí (old: 21) lydo: Nhặt từ map at 03/12/2023 10:25 AM
+BAG:hokage1 add 23xViên Capsule kì bí (old: 22) lydo: Nhặt từ map at 03/12/2023 10:25 AM
+BAG:hokage1 add 3xĐá lục bảo (old: 2) lydo: Nhặt từ map at 03/12/2023 10:25 AM
+BAG:hokage1 add 24xViên Capsule kì bí (old: 23) lydo: Nhặt từ map at 03/12/2023 10:26 AM
+BAG:hokage1 add 272xHoa hồng vàng (old: 271) lydo: Nhặt từ map at 03/12/2023 10:26 AM
+BAG:hokage1 add 92xĐá thạch anh tím (old: 91) lydo: Nhặt từ map at 03/12/2023 10:26 AM
+BAG:hokage1 add 273xHoa hồng vàng (old: 272) lydo: Nhặt từ map at 03/12/2023 10:26 AM
+BAG:hokage1 add 25xViên Capsule kì bí (old: 24) lydo: Nhặt từ map at 03/12/2023 10:26 AM
+BAG:hokage1 add 26xViên Capsule kì bí (old: 25) lydo: Nhặt từ map at 03/12/2023 10:26 AM
+BAG:hokage1 add 27xViên Capsule kì bí (old: 26) lydo: Nhặt từ map at 03/12/2023 10:26 AM
+BAG:hokage1 add 221xHoa hồng đỏ (old: 220) lydo: Nhặt từ map at 03/12/2023 10:26 AM
+BAG:hokage1 add 274xHoa hồng vàng (old: 273) lydo: Nhặt từ map at 03/12/2023 10:26 AM
+BAG:hokage1 add 28xViên Capsule kì bí (old: 27) lydo: Nhặt từ map at 03/12/2023 10:26 AM
+BAG:hokage1 add 209xHoa hồng xanh (old: 208) lydo: Nhặt từ map at 03/12/2023 10:26 AM
+BAG:hokage1 add 275xHoa hồng vàng (old: 274) lydo: Nhặt từ map at 03/12/2023 10:26 AM
+BAG:hokage1 add 29xViên Capsule kì bí (old: 28) lydo: Nhặt từ map at 03/12/2023 10:26 AM
+BAG:hokage1 add 276xHoa hồng vàng (old: 275) lydo: Nhặt từ map at 03/12/2023 10:26 AM
+BAG:hokage1 add 277xHoa hồng vàng (old: 276) lydo: Nhặt từ map at 03/12/2023 10:26 AM
+BAG:hokage1 add 30xViên Capsule kì bí (old: 29) lydo: Nhặt từ map at 03/12/2023 10:26 AM
+BAG:hokage1 add 31xViên Capsule kì bí (old: 30) lydo: Nhặt từ map at 03/12/2023 10:26 AM
+BAG:hokage1 add 32xViên Capsule kì bí (old: 31) lydo: Nhặt từ map at 03/12/2023 10:26 AM
+BAG:hokage1 add 33xViên Capsule kì bí (old: 32) lydo: Nhặt từ map at 03/12/2023 10:26 AM
+BAG:hokage1 add 222xHoa hồng đỏ (old: 221) lydo: Nhặt từ map at 03/12/2023 10:26 AM
+BAG:hokage1 add 223xHoa hồng đỏ (old: 222) lydo: Nhặt từ map at 03/12/2023 10:27 AM
+BAG:hokage1 add 34xViên Capsule kì bí (old: 33) lydo: Nhặt từ map at 03/12/2023 10:27 AM
+BAG:hokage1 add 210xHoa hồng xanh (old: 209) lydo: Nhặt từ map at 03/12/2023 10:27 AM
+BAG:hokage1 add 211xHoa hồng xanh (old: 210) lydo: Nhặt từ map at 03/12/2023 10:27 AM
+BAG:hokage1 add 35xViên Capsule kì bí (old: 34) lydo: Nhặt từ map at 03/12/2023 10:27 AM
+BAG:hokage1 add 278xHoa hồng vàng (old: 277) lydo: Nhặt từ map at 03/12/2023 10:27 AM
+BAG:hokage1 add 279xHoa hồng vàng (old: 278) lydo: Nhặt từ map at 03/12/2023 10:27 AM
+BAG:hokage1 add 224xHoa hồng đỏ (old: 223) lydo: Nhặt từ map at 03/12/2023 10:27 AM
+BAG:hokage1 add 36xViên Capsule kì bí (old: 35) lydo: Nhặt từ map at 03/12/2023 10:27 AM
+BAG:hokage1 add 280xHoa hồng vàng (old: 279) lydo: Nhặt từ map at 03/12/2023 10:27 AM
+BAG:hokage1 add 37xViên Capsule kì bí (old: 36) lydo: Nhặt từ map at 03/12/2023 10:27 AM
+BAG:hokage1 add 212xHoa hồng xanh (old: 211) lydo: Nhặt từ map at 03/12/2023 10:28 AM
+BAG:hokage1 add 38xViên Capsule kì bí (old: 37) lydo: Nhặt từ map at 03/12/2023 10:28 AM
+BAG:hokage1 add 225xHoa hồng đỏ (old: 224) lydo: Nhặt từ map at 03/12/2023 10:28 AM
+BAG:hokage1 add 281xHoa hồng vàng (old: 280) lydo: Nhặt từ map at 03/12/2023 10:28 AM
+BAG:hokage1 add 226xHoa hồng đỏ (old: 225) lydo: Nhặt từ map at 03/12/2023 10:28 AM
+BAG:hokage1 add 93xĐá thạch anh tím (old: 92) lydo: Nhặt từ map at 03/12/2023 10:28 AM
+BAG:hokage1 add 282xHoa hồng vàng (old: 281) lydo: Nhặt từ map at 03/12/2023 10:28 AM
+BAG:hokage1 add 283xHoa hồng vàng (old: 282) lydo: Nhặt từ map at 03/12/2023 10:28 AM
+BAG:hokage1 add 227xHoa hồng đỏ (old: 226) lydo: Nhặt từ map at 03/12/2023 10:28 AM
+BAG:hokage1 add 39xViên Capsule kì bí (old: 38) lydo: Nhặt từ map at 03/12/2023 10:28 AM
+BAG:hokage1 add 7xĐá Ruby (old: 6) lydo: Nhặt từ map at 03/12/2023 10:28 AM
+BAG:hokage1 add 9xNgọc Rồng 4 sao (old: 8) lydo: Nhặt từ map at 03/12/2023 10:28 AM
+BAG:hokage1 add 213xHoa hồng xanh (old: 212) lydo: Nhặt từ map at 03/12/2023 10:28 AM
+BAG:hokage1 add 214xHoa hồng xanh (old: 213) lydo: Nhặt từ map at 03/12/2023 10:28 AM
+BAG:hokage1 add 40xViên Capsule kì bí (old: 39) lydo: Nhặt từ map at 03/12/2023 10:28 AM
+BAG:hokage1 add 215xHoa hồng xanh (old: 214) lydo: Nhặt từ map at 03/12/2023 10:28 AM
+BAG:hokage1 add 41xViên Capsule kì bí (old: 40) lydo: Nhặt từ map at 03/12/2023 10:29 AM
+BAG:hokage1 add 228xHoa hồng đỏ (old: 227) lydo: Nhặt từ map at 03/12/2023 10:29 AM
+BAG:hokage1 add 94xĐá thạch anh tím (old: 93) lydo: Nhặt từ map at 03/12/2023 10:29 AM
+BAG:hokage1 add 11xNgọc Rồng 6 sao (old: 10) lydo: Nhặt từ map at 03/12/2023 10:29 AM
+BAG:hokage1 add 42xViên Capsule kì bí (old: 41) lydo: Nhặt từ map at 03/12/2023 10:29 AM
+BAG:hokage1 add 43xViên Capsule kì bí (old: 42) lydo: Nhặt từ map at 03/12/2023 10:29 AM
+BAG:hokage1 add 229xHoa hồng đỏ (old: 228) lydo: Nhặt từ map at 03/12/2023 10:29 AM
+BAG:hokage1 add 216xHoa hồng xanh (old: 215) lydo: Nhặt từ map at 03/12/2023 10:29 AM
+BAG:hokage1 add 217xHoa hồng xanh (old: 216) lydo: Nhặt từ map at 03/12/2023 10:29 AM
+BAG:hokage1 add 44xViên Capsule kì bí (old: 43) lydo: Nhặt từ map at 03/12/2023 10:29 AM
+BAG:hokage1 add 218xHoa hồng xanh (old: 217) lydo: Nhặt từ map at 03/12/2023 10:29 AM
+BAG:hokage1 add 284xHoa hồng vàng (old: 283) lydo: Nhặt từ map at 03/12/2023 10:29 AM
+BAG:hokage1 add 219xHoa hồng xanh (old: 218) lydo: Nhặt từ map at 03/12/2023 10:29 AM
+BAG:hokage1 add 285xHoa hồng vàng (old: 284) lydo: Nhặt từ map at 03/12/2023 10:29 AM
+BAG:hokage1 add 230xHoa hồng đỏ (old: 229) lydo: Nhặt từ map at 03/12/2023 10:29 AM
+BAG:hokage1 add 231xHoa hồng đỏ (old: 230) lydo: Nhặt từ map at 03/12/2023 10:29 AM
+BAG:hokage1 add 4xĐá lục bảo (old: 3) lydo: Nhặt từ map at 03/12/2023 10:29 AM
+BAG:hokage1 add 220xHoa hồng xanh (old: 219) lydo: Nhặt từ map at 03/12/2023 10:29 AM
+BAG:hokage1 add 10xNgọc Rồng 4 sao (old: 9) lydo: Nhặt từ map at 03/12/2023 10:29 AM
+BAG:hokage1 add 221xHoa hồng xanh (old: 220) lydo: Nhặt từ map at 03/12/2023 10:30 AM
+BAG:hokage1 add 45xViên Capsule kì bí (old: 44) lydo: Nhặt từ map at 03/12/2023 10:30 AM
+BAG:hokage1 add 46xViên Capsule kì bí (old: 45) lydo: Nhặt từ map at 03/12/2023 10:30 AM
+BAG:hokage1 add 8xĐá Ruby (old: 7) lydo: Nhặt từ map at 03/12/2023 10:30 AM
+BAG:hokage1 add 286xHoa hồng vàng (old: 285) lydo: Nhặt từ map at 03/12/2023 10:30 AM
+BAG:hokage1 add 9xĐá Ruby (old: 8) lydo: Nhặt từ map at 03/12/2023 10:30 AM
+BAG:hokage1 add 287xHoa hồng vàng (old: 286) lydo: Nhặt từ map at 03/12/2023 10:30 AM
+BAG:hokage1 add 288xHoa hồng vàng (old: 287) lydo: Nhặt từ map at 03/12/2023 10:30 AM
+BAG:hokage1 add 47xViên Capsule kì bí (old: 46) lydo: Nhặt từ map at 03/12/2023 10:30 AM
+BAG:hokage1 add 222xHoa hồng xanh (old: 221) lydo: Nhặt từ map at 03/12/2023 10:30 AM
+BAG:hokage1 add 289xHoa hồng vàng (old: 288) lydo: Nhặt từ map at 03/12/2023 10:30 AM
+BAG:hokage1 add 48xViên Capsule kì bí (old: 47) lydo: Nhặt từ map at 03/12/2023 10:30 AM
+BAG:hokage1 add 49xViên Capsule kì bí (old: 48) lydo: Nhặt từ map at 03/12/2023 10:30 AM
+BAG:hokage1 add 232xHoa hồng đỏ (old: 231) lydo: Nhặt từ map at 03/12/2023 10:30 AM
+BAG:hokage1 add 290xHoa hồng vàng (old: 289) lydo: Nhặt từ map at 03/12/2023 10:30 AM
+BAG:hokage1 add 50xViên Capsule kì bí (old: 49) lydo: Nhặt từ map at 03/12/2023 10:30 AM
+BAG:hokage1 add 223xHoa hồng xanh (old: 222) lydo: Nhặt từ map at 03/12/2023 10:30 AM
+BAG:hokage1 add 291xHoa hồng vàng (old: 290) lydo: Nhặt từ map at 03/12/2023 10:30 AM
+BAG:hokage1 add 233xHoa hồng đỏ (old: 232) lydo: Nhặt từ map at 03/12/2023 10:30 AM
+BAG:hokage1 add 234xHoa hồng đỏ (old: 233) lydo: Nhặt từ map at 03/12/2023 10:30 AM
+BAG:hokage1 add 51xViên Capsule kì bí (old: 50) lydo: Nhặt từ map at 03/12/2023 10:30 AM
+BAG:hokage1 add 224xHoa hồng xanh (old: 223) lydo: Nhặt từ map at 03/12/2023 10:31 AM
+BAG:hokage1 add 52xViên Capsule kì bí (old: 51) lydo: Nhặt từ map at 03/12/2023 10:31 AM
+BAG:hokage1 add 235xHoa hồng đỏ (old: 234) lydo: Nhặt từ map at 03/12/2023 10:31 AM
+BAG:hokage1 add 53xViên Capsule kì bí (old: 52) lydo: Nhặt từ map at 03/12/2023 10:31 AM
+BAG:hokage1 add 54xViên Capsule kì bí (old: 53) lydo: Nhặt từ map at 03/12/2023 10:31 AM
+BAG:hokage1 add 55xViên Capsule kì bí (old: 54) lydo: Nhặt từ map at 03/12/2023 10:31 AM
+BAG:hokage1 add 292xHoa hồng vàng (old: 291) lydo: Nhặt từ map at 03/12/2023 10:31 AM
+BAG:hokage1 add 293xHoa hồng vàng (old: 292) lydo: Nhặt từ map at 03/12/2023 10:31 AM
+BAG:hokage1 add 294xHoa hồng vàng (old: 293) lydo: Nhặt từ map at 03/12/2023 10:31 AM
+BAG:hokage1 add 95xĐá thạch anh tím (old: 94) lydo: Nhặt từ map at 03/12/2023 10:31 AM
+BAG:hokage1 add 225xHoa hồng xanh (old: 224) lydo: Nhặt từ map at 03/12/2023 10:31 AM
+BAG:hokage1 add 56xViên Capsule kì bí (old: 55) lydo: Nhặt từ map at 03/12/2023 10:31 AM
+BAG:hokage1 add 57xViên Capsule kì bí (old: 56) lydo: Nhặt từ map at 03/12/2023 10:32 AM
+BAG:hokage1 add 295xHoa hồng vàng (old: 294) lydo: Nhặt từ map at 03/12/2023 10:32 AM
+BAG:hokage1 add 58xViên Capsule kì bí (old: 57) lydo: Nhặt từ map at 03/12/2023 10:32 AM
+BAG:hokage1 add 59xViên Capsule kì bí (old: 58) lydo: Nhặt từ map at 03/12/2023 10:32 AM
+BAG:hokage1 add 60xViên Capsule kì bí (old: 59) lydo: Nhặt từ map at 03/12/2023 10:32 AM
+BAG:hokage1 add 61xViên Capsule kì bí (old: 60) lydo: Nhặt từ map at 03/12/2023 10:32 AM
+BAG:hokage1 add 62xViên Capsule kì bí (old: 61) lydo: Nhặt từ map at 03/12/2023 10:32 AM
+BAG:hokage1 add 4xĐá Titan (old: 3) lydo: Nhặt từ map at 03/12/2023 10:32 AM
+BAG:hokage1 add 226xHoa hồng xanh (old: 225) lydo: Nhặt từ map at 03/12/2023 10:32 AM
+BAG:hokage1 add 236xHoa hồng đỏ (old: 235) lydo: Nhặt từ map at 03/12/2023 10:32 AM
+BAG:hokage1 add 227xHoa hồng xanh (old: 226) lydo: Nhặt từ map at 03/12/2023 10:32 AM
+BAG:hokage1 add 228xHoa hồng xanh (old: 227) lydo: Nhặt từ map at 03/12/2023 10:32 AM
+BAG:hokage1 add 237xHoa hồng đỏ (old: 236) lydo: Nhặt từ map at 03/12/2023 10:32 AM
+BAG:hokage1 add 63xViên Capsule kì bí (old: 62) lydo: Nhặt từ map at 03/12/2023 10:32 AM
+BAG:hokage1 add 296xHoa hồng vàng (old: 295) lydo: Nhặt từ map at 03/12/2023 10:32 AM
+BAG:hokage1 add 11xNgọc Rồng 4 sao (old: 10) lydo: Nhặt từ map at 03/12/2023 10:32 AM
+BAG:hokage1 add 238xHoa hồng đỏ (old: 237) lydo: Nhặt từ map at 03/12/2023 10:32 AM
+BAG:hokage1 add 297xHoa hồng vàng (old: 296) lydo: Nhặt từ map at 03/12/2023 10:32 AM
+BAG:hokage1 add 64xViên Capsule kì bí (old: 63) lydo: Nhặt từ map at 03/12/2023 10:33 AM
+BAG:hokage1 add 65xViên Capsule kì bí (old: 64) lydo: Nhặt từ map at 03/12/2023 10:33 AM
+BAG:hokage1 add 12xNgọc Rồng 4 sao (old: 11) lydo: Nhặt từ map at 03/12/2023 10:33 AM
+BAG:hokage1 add 298xHoa hồng vàng (old: 297) lydo: Nhặt từ map at 03/12/2023 10:33 AM
+BAG:hokage1 add 229xHoa hồng xanh (old: 228) lydo: Nhặt từ map at 03/12/2023 10:33 AM
+BAG:hokage1 add 299xHoa hồng vàng (old: 298) lydo: Nhặt từ map at 03/12/2023 10:33 AM
+BAG:hokage1 add 239xHoa hồng đỏ (old: 238) lydo: Nhặt từ map at 03/12/2023 10:33 AM
+BAG:hokage1 add 66xViên Capsule kì bí (old: 65) lydo: Nhặt từ map at 03/12/2023 10:33 AM
+BAG:hokage1 add 240xHoa hồng đỏ (old: 239) lydo: Nhặt từ map at 03/12/2023 10:33 AM
+BAG:hokage1 add 230xHoa hồng xanh (old: 229) lydo: Nhặt từ map at 03/12/2023 10:33 AM
+BAG:hokage1 add 300xHoa hồng vàng (old: 299) lydo: Nhặt từ map at 03/12/2023 10:33 AM
+BAG:hokage1 add 67xViên Capsule kì bí (old: 66) lydo: Nhặt từ map at 03/12/2023 10:33 AM
+BAG:hokage1 add 241xHoa hồng đỏ (old: 240) lydo: Nhặt từ map at 03/12/2023 10:33 AM
+BAG:hokage1 add 301xHoa hồng vàng (old: 300) lydo: Nhặt từ map at 03/12/2023 10:33 AM
+BAG:hokage1 add 68xViên Capsule kì bí (old: 67) lydo: Nhặt từ map at 03/12/2023 10:33 AM
+BAG:hokage1 add 69xViên Capsule kì bí (old: 68) lydo: Nhặt từ map at 03/12/2023 10:33 AM
+BAG:hokage1 add 70xViên Capsule kì bí (old: 69) lydo: Nhặt từ map at 03/12/2023 10:33 AM
+BAG:hokage1 add 242xHoa hồng đỏ (old: 241) lydo: Nhặt từ map at 03/12/2023 10:33 AM
+BAG:hokage1 add 243xHoa hồng đỏ (old: 242) lydo: Nhặt từ map at 03/12/2023 10:34 AM
+BAG:hokage1 add 302xHoa hồng vàng (old: 301) lydo: Nhặt từ map at 03/12/2023 10:34 AM
+BAG:hokage1 add 231xHoa hồng xanh (old: 230) lydo: Nhặt từ map at 03/12/2023 10:34 AM
+BAG:hokage1 add 71xViên Capsule kì bí (old: 70) lydo: Nhặt từ map at 03/12/2023 10:34 AM
+BAG:hokage1 add 72xViên Capsule kì bí (old: 71) lydo: Nhặt từ map at 03/12/2023 10:34 AM
+BAG:hokage1 add 73xViên Capsule kì bí (old: 72) lydo: Nhặt từ map at 03/12/2023 10:34 AM
+BAG:hokage1 add 244xHoa hồng đỏ (old: 243) lydo: Nhặt từ map at 03/12/2023 10:34 AM
+BAG:hokage1 add 232xHoa hồng xanh (old: 231) lydo: Nhặt từ map at 03/12/2023 10:34 AM
+BAG:hokage1 add 233xHoa hồng xanh (old: 232) lydo: Nhặt từ map at 03/12/2023 10:34 AM
+BAG:hokage1 add 74xViên Capsule kì bí (old: 73) lydo: Nhặt từ map at 03/12/2023 10:34 AM
+BAG:hokage1 add 75xViên Capsule kì bí (old: 74) lydo: Nhặt từ map at 03/12/2023 10:34 AM
+BAG:hokage1 add 234xHoa hồng xanh (old: 233) lydo: Nhặt từ map at 03/12/2023 10:34 AM
+BAG:hokage1 add 76xViên Capsule kì bí (old: 75) lydo: Nhặt từ map at 03/12/2023 10:34 AM
+BAG:hokage1 add 1xGiáp tập luyện cấp 3 lydo: Lấy từ body vào hành trang at 03/12/2023 10:38 AM
+BAG:hokage1 add 235xHoa hồng xanh (old: 234) lydo: Nhặt từ map at 03/12/2023 10:38 AM
+BAG:hokage1 add 1xGiáp tập luyện cấp 3 lydo: Lấy từ body vào hành trang at 03/12/2023 10:50 AM
+BAG:hokage1 add 2xHộp bánh Trung Thu lydo: Mua từ cửa hàng at 03/12/2023 10:52 AM
+BAG:hokage1 add 245xHoa hồng đỏ (old: 244) lydo: Nhặt từ map at 03/12/2023 10:54 AM
+BAG:hokage1 add 1xGiáp tập luyện cấp 3 lydo: Lấy từ body vào hành trang at 03/12/2023 10:58 AM
+BAG:hokage1 add 1xNgọc Rồng 2 sao lydo: Nhặt từ map at 03/12/2023 11:00 AM
+BAG:hokage1 add 1xBổ khí lydo: CSKB at 03/12/2023 11:00 AM
+BAG:hokage1 add 19xCuồng nộ (old: 18) lydo: CSKB at 03/12/2023 11:01 AM
+BAG:hokage1 add 1xẨn danh lydo: CSKB at 03/12/2023 11:01 AM
+BAG:hokage1 add 1xẨn danh lydo: CSKB at 03/12/2023 11:01 AM
+BAG:hokage1 add 20xCuồng nộ (old: 19) lydo: CSKB at 03/12/2023 11:01 AM
+BAG:hokage1 add 236xHoa hồng xanh (old: 235) lydo: Nhặt từ map at 03/12/2023 11:01 AM
+BAG:hokage1 add 87xNgọc Rồng 3 sao (old: 86) lydo: Nhặt từ map at 03/12/2023 11:02 AM
+BAG:hokage1 add 13xNgọc Rồng 4 sao (old: 12) lydo: Nhặt từ map at 03/12/2023 11:02 AM
+BAG:hokage1 add 303xHoa hồng vàng (old: 302) lydo: Nhặt từ map at 03/12/2023 11:03 AM
+BAG:hokage1 add 246xHoa hồng đỏ (old: 245) lydo: Nhặt từ map at 03/12/2023 11:03 AM
+BAG:hokage1 add 304xHoa hồng vàng (old: 303) lydo: Nhặt từ map at 03/12/2023 11:03 AM
+BAG:hokage1 add 305xHoa hồng vàng (old: 304) lydo: Nhặt từ map at 03/12/2023 11:04 AM
+BAG:hokage1 add 247xHoa hồng đỏ (old: 246) lydo: Nhặt từ map at 03/12/2023 11:04 AM
+BAG:hokage1 add 1xĐá Titan lydo: Nhặt từ map at 03/12/2023 11:04 AM
+BAG:hokage1 add 96xĐá thạch anh tím (old: 95) lydo: Nhặt từ map at 03/12/2023 11:04 AM
+BAG:hokage1 add 88xNgọc Rồng 3 sao (old: 87) lydo: Nhặt từ map at 03/12/2023 11:05 AM
+BAG:hokage1 add 118xThỏi vàng (old: 113) lydo: Nhặt từ map at 03/12/2023 11:05 AM
+BAG:hokage1 add 1xĐá Hắc Hóa lydo: Nhặt từ map at 03/12/2023 11:08 AM
+BAG:hokage1 add 21xCuồng nộ (old: 20) lydo: CSKB at 03/12/2023 11:09 AM
+BAG:hokage1 add 22xCuồng nộ (old: 21) lydo: CSKB at 03/12/2023 11:09 AM
+BAG:hokage1 add 23xCuồng nộ (old: 22) lydo: CSKB at 03/12/2023 11:09 AM
+BAG:hokage1 add 15xBổ huyết (old: 14) lydo: CSKB at 03/12/2023 11:09 AM
+BAG:hokage1 add 23xCuồng nộ (old: 22) lydo: CSKB at 03/12/2023 11:10 AM
+BAG:hokage1 add 123xThỏi vàng (old: 118) lydo: Nhặt từ map at 03/12/2023 11:13 AM
+BAG:hokage1 add 14xNgọc Rồng 4 sao (old: 13) lydo: Nhặt từ map at 03/12/2023 11:13 AM
+BAG:hokage1 add 237xHoa hồng xanh (old: 236) lydo: Nhặt từ map at 03/12/2023 11:13 AM
+BAG:hokage1 add 306xHoa hồng vàng (old: 305) lydo: Nhặt từ map at 03/12/2023 11:13 AM
+BAG:hokage1 add 238xHoa hồng xanh (old: 237) lydo: Nhặt từ map at 03/12/2023 11:14 AM
+BAG:hokage1 add 307xHoa hồng vàng (old: 306) lydo: Nhặt từ map at 03/12/2023 11:14 AM
+BAG:hokage1 add 15xNgọc Rồng 4 sao (old: 14) lydo: Nhặt từ map at 03/12/2023 11:14 AM
+BAG:hokage1 add 16xNgọc Rồng 4 sao (old: 15) lydo: Nhặt từ map at 03/12/2023 11:14 AM
+BAG:hokage1 add 239xHoa hồng xanh (old: 238) lydo: Nhặt từ map at 03/12/2023 11:14 AM
+BAG:hokage1 add 12xNgọc Rồng 6 sao (old: 11) lydo: Nhặt từ map at 03/12/2023 11:14 AM
+BAG:hokage1 add 97xĐá thạch anh tím (old: 96) lydo: Nhặt từ map at 03/12/2023 11:14 AM
+BAG:hokage1 add 308xHoa hồng vàng (old: 307) lydo: Nhặt từ map at 03/12/2023 11:14 AM
+BAG:hokage1 add 17xNgọc Rồng 4 sao (old: 16) lydo: Nhặt từ map at 03/12/2023 11:14 AM
+BAG:hokage1 add 309xHoa hồng vàng (old: 308) lydo: Nhặt từ map at 03/12/2023 11:14 AM
+BAG:hokage1 add 248xHoa hồng đỏ (old: 247) lydo: Nhặt từ map at 03/12/2023 11:15 AM
+BAG:hokage1 add 310xHoa hồng vàng (old: 309) lydo: Nhặt từ map at 03/12/2023 11:15 AM
+BAG:hokage1 add 311xHoa hồng vàng (old: 310) lydo: Nhặt từ map at 03/12/2023 11:15 AM
+BAG:hokage1 add 1xĐá Saphia lydo: Nhặt từ map at 03/12/2023 11:15 AM
+BAG:hokage1 add 312xHoa hồng vàng (old: 311) lydo: Nhặt từ map at 03/12/2023 11:15 AM
+BAG:hokage1 add 98xĐá thạch anh tím (old: 97) lydo: Nhặt từ map at 03/12/2023 11:15 AM
+BAG:hokage1 add 313xHoa hồng vàng (old: 312) lydo: Nhặt từ map at 03/12/2023 11:15 AM
+BAG:hokage1 add 314xHoa hồng vàng (old: 313) lydo: Nhặt từ map at 03/12/2023 11:15 AM
+BAG:hokage1 add 13xNgọc Rồng 6 sao (old: 12) lydo: Nhặt từ map at 03/12/2023 11:15 AM
+BAG:hokage1 add 249xHoa hồng đỏ (old: 248) lydo: Nhặt từ map at 03/12/2023 11:15 AM
+BAG:hokage1 add 250xHoa hồng đỏ (old: 249) lydo: Nhặt từ map at 03/12/2023 11:15 AM
+BAG:hokage1 add 18xNgọc Rồng 4 sao (old: 17) lydo: Nhặt từ map at 03/12/2023 11:15 AM
+BAG:hokage1 add 1xĐá Ruby lydo: Nhặt từ map at 03/12/2023 11:15 AM
+BAG:hokage1 add 315xHoa hồng vàng (old: 314) lydo: Nhặt từ map at 03/12/2023 11:15 AM
+BAG:hokage1 add 2xĐá Saphia (old: 1) lydo: Nhặt từ map at 03/12/2023 11:15 AM
+BAG:hokage1 add 240xHoa hồng xanh (old: 239) lydo: Nhặt từ map at 03/12/2023 11:15 AM
+BAG:hokage1 add 241xHoa hồng xanh (old: 240) lydo: Nhặt từ map at 03/12/2023 11:16 AM
+BAG:hokage1 add 316xHoa hồng vàng (old: 315) lydo: Nhặt từ map at 03/12/2023 11:16 AM
+BAG:hokage1 add 317xHoa hồng vàng (old: 316) lydo: Nhặt từ map at 03/12/2023 11:16 AM
+BAG:hokage1 add 242xHoa hồng xanh (old: 241) lydo: Nhặt từ map at 03/12/2023 11:16 AM
+BAG:hokage1 add 318xHoa hồng vàng (old: 317) lydo: Nhặt từ map at 03/12/2023 11:16 AM
+BAG:hokage1 add 319xHoa hồng vàng (old: 318) lydo: Nhặt từ map at 03/12/2023 11:16 AM
+BAG:hokage1 add 320xHoa hồng vàng (old: 319) lydo: Nhặt từ map at 03/12/2023 11:16 AM
+BAG:hokage1 add 251xHoa hồng đỏ (old: 250) lydo: Nhặt từ map at 03/12/2023 11:16 AM
+BAG:hokage1 add 243xHoa hồng xanh (old: 242) lydo: Nhặt từ map at 03/12/2023 11:16 AM
+BAG:hokage1 add 19xNgọc Rồng 4 sao (old: 18) lydo: Nhặt từ map at 03/12/2023 11:16 AM
+BAG:hokage1 add 321xHoa hồng vàng (old: 320) lydo: Nhặt từ map at 03/12/2023 11:16 AM
+BAG:hokage1 add 322xHoa hồng vàng (old: 321) lydo: Nhặt từ map at 03/12/2023 11:16 AM
+BAG:hokage1 add 252xHoa hồng đỏ (old: 251) lydo: Nhặt từ map at 03/12/2023 11:16 AM
+BAG:hokage1 add 20xNgọc Rồng 4 sao (old: 19) lydo: Nhặt từ map at 03/12/2023 11:17 AM
+BAG:hokage1 add 99xĐá thạch anh tím (old: 98) lydo: Nhặt từ map at 03/12/2023 11:17 AM
+BAG:hokage1 add 323xHoa hồng vàng (old: 322) lydo: Nhặt từ map at 03/12/2023 11:17 AM
+BAG:hokage1 add 244xHoa hồng xanh (old: 243) lydo: Nhặt từ map at 03/12/2023 11:17 AM
+BAG:hokage1 add 21xNgọc Rồng 4 sao (old: 20) lydo: Nhặt từ map at 03/12/2023 11:17 AM
+BAG:hokage1 add 324xHoa hồng vàng (old: 323) lydo: Nhặt từ map at 03/12/2023 11:17 AM
+BAG:hokage1 add 2xĐá Ruby (old: 1) lydo: Nhặt từ map at 03/12/2023 11:17 AM
+BAG:hokage1 add 253xHoa hồng đỏ (old: 252) lydo: Nhặt từ map at 03/12/2023 11:17 AM
+BAG:hokage1 add 325xHoa hồng vàng (old: 324) lydo: Nhặt từ map at 03/12/2023 11:17 AM
+BAG:hokage1 add 254xHoa hồng đỏ (old: 253) lydo: Nhặt từ map at 03/12/2023 11:18 AM
+BAG:hokage1 add 255xHoa hồng đỏ (old: 254) lydo: Nhặt từ map at 03/12/2023 11:18 AM
+BAG:hokage1 add 326xHoa hồng vàng (old: 325) lydo: Nhặt từ map at 03/12/2023 11:18 AM
+BAG:hokage1 add 245xHoa hồng xanh (old: 244) lydo: Nhặt từ map at 03/12/2023 11:18 AM
+BAG:hokage1 add 327xHoa hồng vàng (old: 326) lydo: Nhặt từ map at 03/12/2023 11:18 AM
+BAG:hokage1 add 256xHoa hồng đỏ (old: 255) lydo: Nhặt từ map at 03/12/2023 11:18 AM
+BAG:hokage1 add 246xHoa hồng xanh (old: 245) lydo: Nhặt từ map at 03/12/2023 11:18 AM
+BAG:hokage1 add 247xHoa hồng xanh (old: 246) lydo: Nhặt từ map at 03/12/2023 11:18 AM
+BAG:hokage1 add 248xHoa hồng xanh (old: 247) lydo: Nhặt từ map at 03/12/2023 11:18 AM
+BAG:hokage1 add 249xHoa hồng xanh (old: 248) lydo: Nhặt từ map at 03/12/2023 11:18 AM
+BAG:hokage1 add 328xHoa hồng vàng (old: 327) lydo: Nhặt từ map at 03/12/2023 11:18 AM
+BAG:hokage1 add 257xHoa hồng đỏ (old: 256) lydo: Nhặt từ map at 03/12/2023 11:18 AM
+BAG:hokage1 add 258xHoa hồng đỏ (old: 257) lydo: Nhặt từ map at 03/12/2023 11:18 AM
+BAG:hokage1 add 329xHoa hồng vàng (old: 328) lydo: Nhặt từ map at 03/12/2023 11:18 AM
+BAG:hokage1 add 3xĐá Ruby (old: 2) lydo: Nhặt từ map at 03/12/2023 11:19 AM
+BAG:hokage1 add 330xHoa hồng vàng (old: 329) lydo: Nhặt từ map at 03/12/2023 11:19 AM
+BAG:hokage1 add 259xHoa hồng đỏ (old: 258) lydo: Nhặt từ map at 03/12/2023 11:19 AM
+BAG:hokage1 add 250xHoa hồng xanh (old: 249) lydo: Nhặt từ map at 03/12/2023 11:19 AM
+BAG:hokage1 add 251xHoa hồng xanh (old: 250) lydo: Nhặt từ map at 03/12/2023 11:19 AM
+BAG:hokage1 add 331xHoa hồng vàng (old: 330) lydo: Nhặt từ map at 03/12/2023 11:19 AM
+BAG:hokage1 add 252xHoa hồng xanh (old: 251) lydo: Nhặt từ map at 03/12/2023 11:19 AM
+BAG:hokage1 add 4xĐá Ruby (old: 3) lydo: Nhặt từ map at 03/12/2023 11:19 AM
+BAG:hokage1 add 253xHoa hồng xanh (old: 252) lydo: Nhặt từ map at 03/12/2023 11:19 AM
+BAG:hokage1 add 332xHoa hồng vàng (old: 331) lydo: Nhặt từ map at 03/12/2023 11:19 AM
+BAG:hokage1 add 260xHoa hồng đỏ (old: 259) lydo: Nhặt từ map at 03/12/2023 11:19 AM
+BAG:hokage1 add 333xHoa hồng vàng (old: 332) lydo: Nhặt từ map at 03/12/2023 11:19 AM
+BAG:hokage1 add 334xHoa hồng vàng (old: 333) lydo: Nhặt từ map at 03/12/2023 11:19 AM
+BAG:hokage1 add 261xHoa hồng đỏ (old: 260) lydo: Nhặt từ map at 03/12/2023 11:20 AM
+BAG:hokage1 add 262xHoa hồng đỏ (old: 261) lydo: Nhặt từ map at 03/12/2023 11:20 AM
+BAG:hokage1 add 3xĐá Saphia (old: 2) lydo: Nhặt từ map at 03/12/2023 11:20 AM
+BAG:hokage1 add 254xHoa hồng xanh (old: 253) lydo: Nhặt từ map at 03/12/2023 11:20 AM
+BAG:hokage1 add 335xHoa hồng vàng (old: 334) lydo: Nhặt từ map at 03/12/2023 11:20 AM
+BAG:hokage1 add 255xHoa hồng xanh (old: 254) lydo: Nhặt từ map at 03/12/2023 11:20 AM
+BAG:hokage1 add 256xHoa hồng xanh (old: 255) lydo: Nhặt từ map at 03/12/2023 11:20 AM
+BAG:hokage1 add 336xHoa hồng vàng (old: 335) lydo: Nhặt từ map at 03/12/2023 11:20 AM
+BAG:hokage1 add 263xHoa hồng đỏ (old: 262) lydo: Nhặt từ map at 03/12/2023 11:20 AM
+BAG:hokage1 add 337xHoa hồng vàng (old: 336) lydo: Nhặt từ map at 03/12/2023 11:20 AM
+BAG:hokage1 add 257xHoa hồng xanh (old: 256) lydo: Nhặt từ map at 03/12/2023 11:20 AM
+BAG:hokage1 add 258xHoa hồng xanh (old: 257) lydo: Nhặt từ map at 03/12/2023 11:21 AM
+BAG:hokage1 add 264xHoa hồng đỏ (old: 263) lydo: Nhặt từ map at 03/12/2023 11:21 AM
+BAG:hokage1 add 265xHoa hồng đỏ (old: 264) lydo: Nhặt từ map at 03/12/2023 11:21 AM
+BAG:hokage1 add 259xHoa hồng xanh (old: 258) lydo: Nhặt từ map at 03/12/2023 11:21 AM
+BAG:hokage1 add 260xHoa hồng xanh (old: 259) lydo: Nhặt từ map at 03/12/2023 11:21 AM
+BAG:hokage1 add 266xHoa hồng đỏ (old: 265) lydo: Nhặt từ map at 03/12/2023 11:21 AM
+BAG:hokage1 add 338xHoa hồng vàng (old: 337) lydo: Nhặt từ map at 03/12/2023 11:21 AM
+BAG:hokage1 add 5xĐá Ruby (old: 4) lydo: Nhặt từ map at 03/12/2023 11:21 AM
+BAG:hokage1 add 9xNgọc Rồng 5 sao (old: 8) lydo: Nhặt từ map at 03/12/2023 11:21 AM
+BAG:hokage1 add 339xHoa hồng vàng (old: 338) lydo: Nhặt từ map at 03/12/2023 11:21 AM
+BAG:hokage1 add 267xHoa hồng đỏ (old: 266) lydo: Nhặt từ map at 03/12/2023 11:21 AM
+BAG:hokage1 add 268xHoa hồng đỏ (old: 267) lydo: Nhặt từ map at 03/12/2023 11:21 AM
+BAG:hokage1 add 269xHoa hồng đỏ (old: 268) lydo: Nhặt từ map at 03/12/2023 11:21 AM
+BAG:hokage1 add 340xHoa hồng vàng (old: 339) lydo: Nhặt từ map at 03/12/2023 11:21 AM
+BAG:hokage1 add 270xHoa hồng đỏ (old: 269) lydo: Nhặt từ map at 03/12/2023 11:22 AM
+BAG:hokage1 add 271xHoa hồng đỏ (old: 270) lydo: Nhặt từ map at 03/12/2023 11:22 AM
+BAG:hokage1 add 341xHoa hồng vàng (old: 340) lydo: Nhặt từ map at 03/12/2023 11:22 AM
+BAG:hokage1 add 261xHoa hồng xanh (old: 260) lydo: Nhặt từ map at 03/12/2023 11:22 AM
+BAG:hokage1 add 342xHoa hồng vàng (old: 341) lydo: Nhặt từ map at 03/12/2023 11:22 AM
+BAG:hokage1 add 22xNgọc Rồng 4 sao (old: 21) lydo: Nhặt từ map at 03/12/2023 11:22 AM
+BAG:hokage1 add 272xHoa hồng đỏ (old: 271) lydo: Nhặt từ map at 03/12/2023 11:22 AM
+BAG:hokage1 add 273xHoa hồng đỏ (old: 272) lydo: Nhặt từ map at 03/12/2023 11:22 AM
+BAG:hokage1 add 343xHoa hồng vàng (old: 342) lydo: Nhặt từ map at 03/12/2023 11:22 AM
+BAG:hokage1 add 344xHoa hồng vàng (old: 343) lydo: Nhặt từ map at 03/12/2023 11:22 AM
+BAG:hokage1 add 262xHoa hồng xanh (old: 261) lydo: Nhặt từ map at 03/12/2023 11:22 AM
+BAG:hokage1 add 263xHoa hồng xanh (old: 262) lydo: Nhặt từ map at 03/12/2023 11:23 AM
+BAG:hokage1 add 264xHoa hồng xanh (old: 263) lydo: Nhặt từ map at 03/12/2023 11:23 AM
+BAG:hokage1 add 274xHoa hồng đỏ (old: 273) lydo: Nhặt từ map at 03/12/2023 11:23 AM
+BAG:hokage1 add 265xHoa hồng xanh (old: 264) lydo: Nhặt từ map at 03/12/2023 11:23 AM
+BAG:hokage1 add 275xHoa hồng đỏ (old: 274) lydo: Nhặt từ map at 03/12/2023 11:23 AM
+BAG:hokage1 add 345xHoa hồng vàng (old: 344) lydo: Nhặt từ map at 03/12/2023 11:23 AM
+BAG:hokage1 add 346xHoa hồng vàng (old: 345) lydo: Nhặt từ map at 03/12/2023 11:23 AM
+BAG:hokage1 add 266xHoa hồng xanh (old: 265) lydo: Nhặt từ map at 03/12/2023 11:23 AM
+BAG:hokage1 add 276xHoa hồng đỏ (old: 275) lydo: Nhặt từ map at 03/12/2023 11:23 AM
+BAG:hokage1 add 267xHoa hồng xanh (old: 266) lydo: Nhặt từ map at 03/12/2023 11:23 AM
+BAG:hokage1 add 268xHoa hồng xanh (old: 267) lydo: Nhặt từ map at 03/12/2023 11:23 AM
+BAG:hokage1 add 277xHoa hồng đỏ (old: 276) lydo: Nhặt từ map at 03/12/2023 11:24 AM
+BAG:hokage1 add 347xHoa hồng vàng (old: 346) lydo: Nhặt từ map at 03/12/2023 11:24 AM
+BAG:hokage1 add 269xHoa hồng xanh (old: 268) lydo: Nhặt từ map at 03/12/2023 11:24 AM
+BAG:hokage1 add 270xHoa hồng xanh (old: 269) lydo: Nhặt từ map at 03/12/2023 11:24 AM
+BAG:hokage1 add 278xHoa hồng đỏ (old: 277) lydo: Nhặt từ map at 03/12/2023 11:24 AM
+BAG:hokage1 add 348xHoa hồng vàng (old: 347) lydo: Nhặt từ map at 03/12/2023 11:24 AM
+BAG:hokage1 add 271xHoa hồng xanh (old: 270) lydo: Nhặt từ map at 03/12/2023 11:24 AM
+BAG:hokage1 add 279xHoa hồng đỏ (old: 278) lydo: Nhặt từ map at 03/12/2023 11:24 AM
+BAG:hokage1 add 280xHoa hồng đỏ (old: 279) lydo: Nhặt từ map at 03/12/2023 11:24 AM
+BAG:hokage1 add 281xHoa hồng đỏ (old: 280) lydo: Nhặt từ map at 03/12/2023 11:24 AM
+BAG:hokage1 add 349xHoa hồng vàng (old: 348) lydo: Nhặt từ map at 03/12/2023 11:24 AM
+BAG:hokage1 add 350xHoa hồng vàng (old: 349) lydo: Nhặt từ map at 03/12/2023 11:24 AM
+BAG:hokage1 add 272xHoa hồng xanh (old: 271) lydo: Nhặt từ map at 03/12/2023 11:24 AM
+BAG:hokage1 add 4xĐá Saphia (old: 3) lydo: Nhặt từ map at 03/12/2023 11:24 AM
+BAG:hokage1 add 14xNgọc Rồng 6 sao (old: 13) lydo: Nhặt từ map at 03/12/2023 11:24 AM
+BAG:hokage1 add 282xHoa hồng đỏ (old: 281) lydo: Nhặt từ map at 03/12/2023 11:24 AM
+BAG:hokage1 add 5xĐá Saphia (old: 4) lydo: Nhặt từ map at 03/12/2023 11:24 AM
+BAG:hokage1 add 273xHoa hồng xanh (old: 272) lydo: Nhặt từ map at 03/12/2023 11:24 AM
+BAG:hokage1 add 351xHoa hồng vàng (old: 350) lydo: Nhặt từ map at 03/12/2023 11:25 AM
+BAG:hokage1 add 274xHoa hồng xanh (old: 273) lydo: Nhặt từ map at 03/12/2023 11:25 AM
+BAG:hokage1 add 283xHoa hồng đỏ (old: 282) lydo: Nhặt từ map at 03/12/2023 11:25 AM
+BAG:hokage1 add 1xĐá Saphia lydo: Nhặt từ map at 03/12/2023 11:25 AM
+BAG:hokage1 add 352xHoa hồng vàng (old: 351) lydo: Nhặt từ map at 03/12/2023 11:25 AM
+BAG:hokage1 add 353xHoa hồng vàng (old: 352) lydo: Nhặt từ map at 03/12/2023 11:25 AM
+BAG:hokage1 add 284xHoa hồng đỏ (old: 283) lydo: Nhặt từ map at 03/12/2023 11:25 AM
+BAG:hokage1 add 1xĐá Titan lydo: Nhặt từ map at 03/12/2023 11:25 AM
+BAG:hokage1 add 285xHoa hồng đỏ (old: 284) lydo: Nhặt từ map at 03/12/2023 11:25 AM
+BAG:hokage1 add 275xHoa hồng xanh (old: 274) lydo: Nhặt từ map at 03/12/2023 11:25 AM
+BAG:hokage1 add 2xĐá Titan (old: 1) lydo: Nhặt từ map at 03/12/2023 11:25 AM
+BAG:hokage1 add 286xHoa hồng đỏ (old: 285) lydo: Nhặt từ map at 03/12/2023 11:25 AM
+BAG:hokage1 add 354xHoa hồng vàng (old: 353) lydo: Nhặt từ map at 03/12/2023 11:25 AM
+BAG:hokage1 add 287xHoa hồng đỏ (old: 286) lydo: Nhặt từ map at 03/12/2023 11:25 AM
+BAG:hokage1 add 15xNgọc Rồng 6 sao (old: 14) lydo: Nhặt từ map at 03/12/2023 11:26 AM
+BAG:hokage1 add 3xĐá Titan (old: 2) lydo: Nhặt từ map at 03/12/2023 11:26 AM
+BAG:hokage1 add 276xHoa hồng xanh (old: 275) lydo: Nhặt từ map at 03/12/2023 11:26 AM
+BAG:hokage1 add 277xHoa hồng xanh (old: 276) lydo: Nhặt từ map at 03/12/2023 11:26 AM
+BAG:hokage1 add 355xHoa hồng vàng (old: 354) lydo: Nhặt từ map at 03/12/2023 11:26 AM
+BAG:hokage1 add 278xHoa hồng xanh (old: 277) lydo: Nhặt từ map at 03/12/2023 11:26 AM
+BAG:hokage1 add 356xHoa hồng vàng (old: 355) lydo: Nhặt từ map at 03/12/2023 11:26 AM
+BAG:hokage1 add 357xHoa hồng vàng (old: 356) lydo: Nhặt từ map at 03/12/2023 11:26 AM
+BAG:hokage1 add 358xHoa hồng vàng (old: 357) lydo: Nhặt từ map at 03/12/2023 11:26 AM
+BAG:hokage1 add 288xHoa hồng đỏ (old: 287) lydo: Nhặt từ map at 03/12/2023 11:26 AM
+BAG:hokage1 add 359xHoa hồng vàng (old: 358) lydo: Nhặt từ map at 03/12/2023 11:26 AM
+BAG:hokage1 add 360xHoa hồng vàng (old: 359) lydo: Nhặt từ map at 03/12/2023 11:26 AM
+BAG:hokage1 add 289xHoa hồng đỏ (old: 288) lydo: Nhặt từ map at 03/12/2023 11:26 AM
+BAG:hokage1 add 361xHoa hồng vàng (old: 360) lydo: Nhặt từ map at 03/12/2023 11:26 AM
+BAG:hokage1 add 1xGiáp tập luyện cấp 3 lydo: Lấy từ body vào hành trang at 03/12/2023 11:27 AM
+BAG:hokage1 add 89xNgọc Rồng 3 sao (old: 88) lydo: Nhặt từ map at 03/12/2023 11:28 AM
+BAG:hokage1 add 90xNgọc Rồng 3 sao (old: 89) lydo: Nhặt từ map at 03/12/2023 11:30 AM
+BAG:hokage1 add 128xThỏi vàng (old: 123) lydo: Nhặt từ map at 03/12/2023 11:30 AM
+BAG:hokage1 add 290xHoa hồng đỏ (old: 289) lydo: Nhặt từ map at 03/12/2023 11:30 AM
+BAG:hokage1 add 1xĐá Titan lydo: Nhặt từ map at 03/12/2023 11:30 AM
+BAG:hokage1 add 279xHoa hồng xanh (old: 278) lydo: Nhặt từ map at 03/12/2023 11:31 AM
+BAG:hokage1 add 362xHoa hồng vàng (old: 361) lydo: Nhặt từ map at 03/12/2023 11:31 AM
+BAG:hokage1 add 2xNgọc Rồng 2 sao (old: 1) lydo: Lấy từ rương qua người at 03/12/2023 11:31 AM
+BAG:hokage1 add 2xĐá Hắc Hóa (old: 1) lydo: Lấy từ rương qua người at 03/12/2023 11:31 AM
+BAG:hokage1 add 14xBổ khí lydo: Lấy từ rương qua người at 03/12/2023 11:31 AM
+BAG:hokage1 add 1xSao pha lê lydo: Lấy từ rương qua người at 03/12/2023 11:31 AM
+BAG:hokage1 add 1xHộp bánh Trung Thu lydo: Lấy từ rương qua người at 03/12/2023 11:32 AM
+BAG:hokage1 add 2xHộp bánh Trung Thu lydo: Lấy từ rương qua người at 03/12/2023 11:32 AM
+BAG:hokage1 add 1xGiáp tập luyện cấp 3 lydo: Lấy từ body vào hành trang at 03/12/2023 11:32 AM
+BAG:hokage1 add 91xNgọc Rồng 3 sao (old: 90) lydo: Nhặt từ map at 03/12/2023 11:35 AM
+BAG:hokage1 add 1xGiáp tập luyện cấp 3 lydo: Lấy từ body vào hành trang at 03/12/2023 11:36 AM
+BAG:hokage1 add 133xThỏi vàng (old: 128) lydo: Nhặt từ map at 03/12/2023 11:37 AM
+BAG:hokage1 add 1xHoa hồng vàng lydo: Nhặt từ map at 03/12/2023 11:37 AM
+BAG:hokage1 add 2xHoa hồng vàng (old: 1) lydo: Nhặt từ map at 03/12/2023 11:37 AM
+BAG:hokage1 add 1xHoa hồng xanh lydo: Nhặt từ map at 03/12/2023 11:37 AM
+BAG:hokage1 add 3xHoa hồng vàng (old: 2) lydo: Nhặt từ map at 03/12/2023 11:37 AM
+BAG:hokage1 add 2xHoa hồng xanh (old: 1) lydo: Nhặt từ map at 03/12/2023 11:37 AM
+BAG:hokage1 add 4xHoa hồng vàng (old: 3) lydo: Nhặt từ map at 03/12/2023 11:38 AM
+BAG:hokage1 add 1xĐá Ruby lydo: Nhặt từ map at 03/12/2023 11:38 AM
+BAG:hokage1 add 5xHoa hồng vàng (old: 4) lydo: Nhặt từ map at 03/12/2023 11:38 AM
+BAG:hokage1 add 6xHoa hồng vàng (old: 5) lydo: Nhặt từ map at 03/12/2023 11:38 AM
+BAG:hokage1 add 7xHoa hồng vàng (old: 6) lydo: Nhặt từ map at 03/12/2023 11:38 AM
+BAG:hokage1 add 8xHoa hồng vàng (old: 7) lydo: Nhặt từ map at 03/12/2023 11:38 AM
+BAG:hokage1 add 9xHoa hồng vàng (old: 8) lydo: Nhặt từ map at 03/12/2023 11:38 AM
+BAG:hokage1 add 3xHoa hồng xanh (old: 2) lydo: Nhặt từ map at 03/12/2023 11:38 AM
+BAG:hokage1 add 10xHoa hồng vàng (old: 9) lydo: Nhặt từ map at 03/12/2023 11:38 AM
+BAG:hokage1 add 11xHoa hồng vàng (old: 10) lydo: Nhặt từ map at 03/12/2023 11:38 AM
+BAG:hokage1 add 1xHoa hồng đỏ lydo: Nhặt từ map at 03/12/2023 11:38 AM
+BAG:hokage1 add 12xHoa hồng vàng (old: 11) lydo: Nhặt từ map at 03/12/2023 11:38 AM
+BAG:hokage1 add 2xHoa hồng đỏ (old: 1) lydo: Nhặt từ map at 03/12/2023 11:38 AM
+BAG:hokage1 add 13xHoa hồng vàng (old: 12) lydo: Nhặt từ map at 03/12/2023 11:38 AM
+BAG:hokage1 add 4xHoa hồng xanh (old: 3) lydo: Nhặt từ map at 03/12/2023 11:39 AM
+BAG:hokage1 add 14xHoa hồng vàng (old: 13) lydo: Nhặt từ map at 03/12/2023 11:39 AM
+BAG:hokage1 add 3xHoa hồng đỏ (old: 2) lydo: Nhặt từ map at 03/12/2023 11:39 AM
+BAG:hokage1 add 15xHoa hồng vàng (old: 14) lydo: Nhặt từ map at 03/12/2023 11:39 AM
+BAG:hokage1 add 16xHoa hồng vàng (old: 15) lydo: Nhặt từ map at 03/12/2023 11:39 AM
+BAG:hokage1 add 1xĐá Saphia lydo: Nhặt từ map at 03/12/2023 11:39 AM
+BAG:hokage1 add 23xNgọc Rồng 4 sao (old: 22) lydo: Nhặt từ map at 03/12/2023 11:39 AM
+BAG:hokage1 add 17xHoa hồng vàng (old: 16) lydo: Nhặt từ map at 03/12/2023 11:39 AM
+BAG:hokage1 add 18xHoa hồng vàng (old: 17) lydo: Nhặt từ map at 03/12/2023 11:39 AM
+BAG:hokage1 add 5xHoa hồng xanh (old: 4) lydo: Nhặt từ map at 03/12/2023 11:39 AM
+BAG:hokage1 add 19xHoa hồng vàng (old: 18) lydo: Nhặt từ map at 03/12/2023 11:39 AM
+BAG:hokage1 add 2xĐá Saphia (old: 1) lydo: Nhặt từ map at 03/12/2023 11:39 AM
+BAG:hokage1 add 6xHoa hồng xanh (old: 5) lydo: Nhặt từ map at 03/12/2023 11:39 AM
+BAG:hokage1 add 24xNgọc Rồng 4 sao (old: 23) lydo: Nhặt từ map at 03/12/2023 11:39 AM
+BAG:hokage1 add 20xHoa hồng vàng (old: 19) lydo: Nhặt từ map at 03/12/2023 11:39 AM
+BAG:hokage1 add 4xHoa hồng đỏ (old: 3) lydo: Nhặt từ map at 03/12/2023 11:39 AM
+BAG:hokage1 add 21xHoa hồng vàng (old: 20) lydo: Nhặt từ map at 03/12/2023 11:40 AM
+BAG:hokage1 add 5xHoa hồng đỏ (old: 4) lydo: Nhặt từ map at 03/12/2023 11:40 AM
+BAG:hokage1 add 7xHoa hồng xanh (old: 6) lydo: Nhặt từ map at 03/12/2023 11:40 AM
+BAG:hokage1 add 6xHoa hồng đỏ (old: 5) lydo: Nhặt từ map at 03/12/2023 11:42 AM
+BAG:hokage1 add 8xHoa hồng xanh (old: 7) lydo: Nhặt từ map at 03/12/2023 11:46 AM
+BAG:hokage1 add 9xHoa hồng xanh (old: 8) lydo: Nhặt từ map at 03/12/2023 11:47 AM
+BAG:hokage1 add 10xHoa hồng xanh (old: 9) lydo: Nhặt từ map at 03/12/2023 11:47 AM
+BAG:hokage1 add 10xNgọc Rồng 5 sao (old: 9) lydo: Nhặt từ map at 03/12/2023 11:47 AM
+BAG:hokage1 add 22xHoa hồng vàng (old: 21) lydo: Nhặt từ map at 03/12/2023 11:50 AM
+BAG:hokage1 add 11xHoa hồng xanh (old: 10) lydo: Nhặt từ map at 03/12/2023 11:50 AM
+BAG:hokage1 add 12xHoa hồng xanh (old: 11) lydo: Nhặt từ map at 03/12/2023 11:50 AM
+BAG:hokage1 add 13xHoa hồng xanh (old: 12) lydo: Nhặt từ map at 03/12/2023 11:51 AM
+BAG:hokage1 add 1xGiáp tập luyện cấp 3 lydo: Lấy từ body vào hành trang at 03/12/2023 11:55 AM
+BAG:hokage1 add 92xNgọc Rồng 3 sao (old: 91) lydo: Nhặt từ map at 03/12/2023 11:56 AM
+BAG:hokage1 add 93xNgọc Rồng 3 sao (old: 92) lydo: Nhặt từ map at 03/12/2023 11:59 AM
+BAG:hokage1 add 23xHoa hồng vàng (old: 22) lydo: Nhặt từ map at 03/12/2023 11:59 AM
+BAG:hokage1 add 25xNgọc Rồng 4 sao (old: 24) lydo: Nhặt từ map at 03/12/2023 11:59 AM
+BAG:hokage1 add 1xHoa hồng đỏ lydo: Nhặt từ map at 03/12/2023 11:59 AM
+BAG:hokage1 add 24xHoa hồng vàng (old: 23) lydo: Nhặt từ map at 03/12/2023 11:59 AM
+BAG:hokage1 add 14xHoa hồng xanh (old: 13) lydo: Nhặt từ map at 03/12/2023 11:59 AM
+BAG:hokage1 add 15xHoa hồng xanh (old: 14) lydo: Nhặt từ map at 03/12/2023 11:59 AM
+BAG:hokage1 add 2xHoa hồng đỏ (old: 1) lydo: Nhặt từ map at 03/12/2023 11:59 AM
+BAG:hokage1 add 16xHoa hồng xanh (old: 15) lydo: Nhặt từ map at 03/12/2023 11:59 AM
+BAG:hokage1 add 1xĐá lục bảo lydo: Nhặt từ map at 03/12/2023 11:59 AM
+BAG:hokage1 add 17xHoa hồng xanh (old: 16) lydo: Nhặt từ map at 03/12/2023 11:59 AM
+BAG:hokage1 add 18xHoa hồng xanh (old: 17) lydo: Nhặt từ map at 03/12/2023 11:59 AM
+BAG:hokage1 add 25xHoa hồng vàng (old: 24) lydo: Nhặt từ map at 03/12/2023 11:59 AM
+BAG:hokage1 add 26xNgọc Rồng 4 sao (old: 25) lydo: Nhặt từ map at 03/12/2023 12:00 PM
+BAG:hokage1 add 27xNgọc Rồng 4 sao (old: 26) lydo: Nhặt từ map at 03/12/2023 12:00 PM
+BAG:hokage1 add 19xHoa hồng xanh (old: 18) lydo: Nhặt từ map at 03/12/2023 12:00 PM
+BAG:hokage1 add 26xHoa hồng vàng (old: 25) lydo: Nhặt từ map at 03/12/2023 12:00 PM
+BAG:hokage1 add 3xHoa hồng đỏ (old: 2) lydo: Nhặt từ map at 03/12/2023 12:00 PM
+BAG:hokage1 add 20xHoa hồng xanh (old: 19) lydo: Nhặt từ map at 03/12/2023 12:00 PM
+BAG:hokage1 add 27xHoa hồng vàng (old: 26) lydo: Nhặt từ map at 03/12/2023 12:00 PM
+BAG:hokage1 add 28xHoa hồng vàng (old: 27) lydo: Nhặt từ map at 03/12/2023 12:00 PM
+BAG:hokage1 add 2xĐá lục bảo (old: 1) lydo: Nhặt từ map at 03/12/2023 12:00 PM
+BAG:hokage1 add 29xHoa hồng vàng (old: 28) lydo: Nhặt từ map at 03/12/2023 12:00 PM
+BAG:hokage1 add 21xHoa hồng xanh (old: 20) lydo: Nhặt từ map at 03/12/2023 12:00 PM
+BAG:hokage1 add 4xHoa hồng đỏ (old: 3) lydo: Nhặt từ map at 03/12/2023 12:00 PM
+BAG:hokage1 add 30xHoa hồng vàng (old: 29) lydo: Nhặt từ map at 03/12/2023 12:00 PM
+BAG:hokage1 add 5xHoa hồng đỏ (old: 4) lydo: Nhặt từ map at 03/12/2023 12:00 PM
+BAG:hokage1 add 31xHoa hồng vàng (old: 30) lydo: Nhặt từ map at 03/12/2023 12:01 PM
+BAG:hokage1 add 32xHoa hồng vàng (old: 31) lydo: Nhặt từ map at 03/12/2023 12:01 PM
+BAG:hokage1 add 6xHoa hồng đỏ (old: 5) lydo: Nhặt từ map at 03/12/2023 12:01 PM
+BAG:hokage1 add 22xHoa hồng xanh (old: 21) lydo: Nhặt từ map at 03/12/2023 12:01 PM
+BAG:hokage1 add 7xHoa hồng đỏ (old: 6) lydo: Nhặt từ map at 03/12/2023 12:01 PM
+BAG:hokage1 add 33xHoa hồng vàng (old: 32) lydo: Nhặt từ map at 03/12/2023 12:01 PM
+BAG:hokage1 add 23xHoa hồng xanh (old: 22) lydo: Nhặt từ map at 03/12/2023 12:01 PM
+BAG:hokage1 add 28xNgọc Rồng 4 sao (old: 27) lydo: Nhặt từ map at 03/12/2023 12:01 PM
+BAG:hokage1 add 34xHoa hồng vàng (old: 33) lydo: Nhặt từ map at 03/12/2023 12:01 PM
+BAG:hokage1 add 8xHoa hồng đỏ (old: 7) lydo: Nhặt từ map at 03/12/2023 12:01 PM
+BAG:hokage1 add 35xHoa hồng vàng (old: 34) lydo: Nhặt từ map at 03/12/2023 12:01 PM
+BAG:hokage1 add 24xHoa hồng xanh (old: 23) lydo: Nhặt từ map at 03/12/2023 12:01 PM
+BAG:hokage1 add 29xNgọc Rồng 4 sao (old: 28) lydo: Nhặt từ map at 03/12/2023 12:02 PM
+BAG:hokage1 add 36xHoa hồng vàng (old: 35) lydo: Nhặt từ map at 03/12/2023 12:02 PM
+BAG:hokage1 add 9xHoa hồng đỏ (old: 8) lydo: Nhặt từ map at 03/12/2023 12:02 PM
+BAG:hokage1 add 25xHoa hồng xanh (old: 24) lydo: Nhặt từ map at 03/12/2023 12:02 PM
+BAG:hokage1 add 37xHoa hồng vàng (old: 36) lydo: Nhặt từ map at 03/12/2023 12:02 PM
+BAG:hokage1 add 38xHoa hồng vàng (old: 37) lydo: Nhặt từ map at 03/12/2023 12:02 PM
+BAG:hokage1 add 39xHoa hồng vàng (old: 38) lydo: Nhặt từ map at 03/12/2023 12:02 PM
+BAG:hokage1 add 40xHoa hồng vàng (old: 39) lydo: Nhặt từ map at 03/12/2023 12:02 PM
+BAG:hokage1 add 26xHoa hồng xanh (old: 25) lydo: Nhặt từ map at 03/12/2023 12:02 PM
+BAG:hokage1 add 41xHoa hồng vàng (old: 40) lydo: Nhặt từ map at 03/12/2023 12:02 PM
+BAG:hokage1 add 11xNgọc Rồng 5 sao (old: 10) lydo: Nhặt từ map at 03/12/2023 12:02 PM
+BAG:hokage1 add 10xHoa hồng đỏ (old: 9) lydo: Nhặt từ map at 03/12/2023 12:02 PM
+BAG:hokage1 add 27xHoa hồng xanh (old: 26) lydo: Nhặt từ map at 03/12/2023 12:02 PM
+BAG:hokage1 add 11xHoa hồng đỏ (old: 10) lydo: Nhặt từ map at 03/12/2023 12:02 PM
+BAG:hokage1 add 30xNgọc Rồng 4 sao (old: 29) lydo: Nhặt từ map at 03/12/2023 12:02 PM
+BAG:hokage1 add 28xHoa hồng xanh (old: 27) lydo: Nhặt từ map at 03/12/2023 12:02 PM
+BAG:hokage1 add 29xHoa hồng xanh (old: 28) lydo: Nhặt từ map at 03/12/2023 12:02 PM
+BAG:hokage1 add 30xHoa hồng xanh (old: 29) lydo: Nhặt từ map at 03/12/2023 12:02 PM
+BAG:hokage1 add 42xHoa hồng vàng (old: 41) lydo: Nhặt từ map at 03/12/2023 12:02 PM
+BAG:hokage1 add 43xHoa hồng vàng (old: 42) lydo: Nhặt từ map at 03/12/2023 12:03 PM
+BAG:hokage1 add 31xHoa hồng xanh (old: 30) lydo: Nhặt từ map at 03/12/2023 12:03 PM
+BAG:hokage1 add 44xHoa hồng vàng (old: 43) lydo: Nhặt từ map at 03/12/2023 12:03 PM
+BAG:hokage1 add 45xHoa hồng vàng (old: 44) lydo: Nhặt từ map at 03/12/2023 12:03 PM
+BAG:hokage1 add 32xHoa hồng xanh (old: 31) lydo: Nhặt từ map at 03/12/2023 12:03 PM
+BAG:hokage1 add 12xHoa hồng đỏ (old: 11) lydo: Nhặt từ map at 03/12/2023 12:03 PM
+BAG:hokage1 add 33xHoa hồng xanh (old: 32) lydo: Nhặt từ map at 03/12/2023 12:03 PM
+BAG:hokage1 add 46xHoa hồng vàng (old: 45) lydo: Nhặt từ map at 03/12/2023 12:03 PM
+BAG:hokage1 add 47xHoa hồng vàng (old: 46) lydo: Nhặt từ map at 03/12/2023 12:03 PM
+BAG:hokage1 add 16xNgọc Rồng 6 sao (old: 15) lydo: Nhặt từ map at 03/12/2023 12:04 PM
+BAG:hokage1 add 34xHoa hồng xanh (old: 33) lydo: Nhặt từ map at 03/12/2023 12:04 PM
+BAG:hokage1 add 35xHoa hồng xanh (old: 34) lydo: Nhặt từ map at 03/12/2023 12:04 PM
+BAG:hokage1 add 36xHoa hồng xanh (old: 35) lydo: Nhặt từ map at 03/12/2023 12:04 PM
+BAG:hokage1 add 13xHoa hồng đỏ (old: 12) lydo: Nhặt từ map at 03/12/2023 12:04 PM
+BAG:hokage1 add 37xHoa hồng xanh (old: 36) lydo: Nhặt từ map at 03/12/2023 12:04 PM
+BAG:hokage1 add 48xHoa hồng vàng (old: 47) lydo: Nhặt từ map at 03/12/2023 12:04 PM
+BAG:hokage1 add 14xHoa hồng đỏ (old: 13) lydo: Nhặt từ map at 03/12/2023 12:04 PM
+BAG:hokage1 add 49xHoa hồng vàng (old: 48) lydo: Nhặt từ map at 03/12/2023 12:04 PM
+BAG:hokage1 add 15xHoa hồng đỏ (old: 14) lydo: Nhặt từ map at 03/12/2023 12:05 PM
+BAG:hokage1 add 16xHoa hồng đỏ (old: 15) lydo: Nhặt từ map at 03/12/2023 12:05 PM
+BAG:hokage1 add 17xHoa hồng đỏ (old: 16) lydo: Nhặt từ map at 03/12/2023 12:05 PM
+BAG:hokage1 add 50xHoa hồng vàng (old: 49) lydo: Nhặt từ map at 03/12/2023 12:05 PM
+BAG:hokage1 add 38xHoa hồng xanh (old: 37) lydo: Nhặt từ map at 03/12/2023 12:05 PM
+BAG:hokage1 add 51xHoa hồng vàng (old: 50) lydo: Nhặt từ map at 03/12/2023 12:05 PM
+BAG:hokage1 add 39xHoa hồng xanh (old: 38) lydo: Nhặt từ map at 03/12/2023 12:05 PM
+BAG:hokage1 add 18xHoa hồng đỏ (old: 17) lydo: Nhặt từ map at 03/12/2023 12:05 PM
+BAG:hokage1 add 19xHoa hồng đỏ (old: 18) lydo: Nhặt từ map at 03/12/2023 12:05 PM
+BAG:hokage1 add 40xHoa hồng xanh (old: 39) lydo: Nhặt từ map at 03/12/2023 12:05 PM
+BAG:hokage1 add 52xHoa hồng vàng (old: 51) lydo: Nhặt từ map at 03/12/2023 12:05 PM
+BAG:hokage1 add 3xĐá lục bảo (old: 2) lydo: Nhặt từ map at 03/12/2023 12:05 PM
+BAG:hokage1 add 53xHoa hồng vàng (old: 52) lydo: Nhặt từ map at 03/12/2023 12:05 PM
+BAG:hokage1 add 41xHoa hồng xanh (old: 40) lydo: Nhặt từ map at 03/12/2023 12:06 PM
+BAG:hokage1 add 54xHoa hồng vàng (old: 53) lydo: Nhặt từ map at 03/12/2023 12:06 PM
+BAG:hokage1 add 55xHoa hồng vàng (old: 54) lydo: Nhặt từ map at 03/12/2023 12:06 PM
+BAG:hokage1 add 20xHoa hồng đỏ (old: 19) lydo: Nhặt từ map at 03/12/2023 12:06 PM
+BAG:hokage1 add 21xHoa hồng đỏ (old: 20) lydo: Nhặt từ map at 03/12/2023 12:06 PM
+BAG:hokage1 add 22xHoa hồng đỏ (old: 21) lydo: Nhặt từ map at 03/12/2023 12:06 PM
+BAG:hokage1 add 56xHoa hồng vàng (old: 55) lydo: Nhặt từ map at 03/12/2023 12:06 PM
+BAG:hokage1 add 23xHoa hồng đỏ (old: 22) lydo: Nhặt từ map at 03/12/2023 12:06 PM
+BAG:hokage1 add 31xNgọc Rồng 4 sao (old: 30) lydo: Nhặt từ map at 03/12/2023 12:06 PM
+BAG:hokage1 add 42xHoa hồng xanh (old: 41) lydo: Nhặt từ map at 03/12/2023 12:06 PM
+BAG:hokage1 add 57xHoa hồng vàng (old: 56) lydo: Nhặt từ map at 03/12/2023 12:06 PM
+BAG:hokage1 add 58xHoa hồng vàng (old: 57) lydo: Nhặt từ map at 03/12/2023 12:06 PM
+BAG:hokage1 add 24xHoa hồng đỏ (old: 23) lydo: Nhặt từ map at 03/12/2023 12:06 PM
+BAG:hokage1 add 43xHoa hồng xanh (old: 42) lydo: Nhặt từ map at 03/12/2023 12:07 PM
+BAG:hokage1 add 44xHoa hồng xanh (old: 43) lydo: Nhặt từ map at 03/12/2023 12:07 PM
+BAG:hokage1 add 59xHoa hồng vàng (old: 58) lydo: Nhặt từ map at 03/12/2023 12:07 PM
+BAG:hokage1 add 45xHoa hồng xanh (old: 44) lydo: Nhặt từ map at 03/12/2023 12:07 PM
+BAG:hokage1 add 17xNgọc Rồng 6 sao (old: 16) lydo: Nhặt từ map at 03/12/2023 12:07 PM
+BAG:hokage1 add 60xHoa hồng vàng (old: 59) lydo: Nhặt từ map at 03/12/2023 12:07 PM
+BAG:hokage1 add 46xHoa hồng xanh (old: 45) lydo: Nhặt từ map at 03/12/2023 12:07 PM
+BAG:hokage1 add 61xHoa hồng vàng (old: 60) lydo: Nhặt từ map at 03/12/2023 12:07 PM
+BAG:hokage1 add 62xHoa hồng vàng (old: 61) lydo: Nhặt từ map at 03/12/2023 12:07 PM
+BAG:hokage1 add 25xHoa hồng đỏ (old: 24) lydo: Nhặt từ map at 03/12/2023 12:07 PM
+BAG:hokage1 add 26xHoa hồng đỏ (old: 25) lydo: Nhặt từ map at 03/12/2023 12:07 PM
+BAG:hokage1 add 63xHoa hồng vàng (old: 62) lydo: Nhặt từ map at 03/12/2023 12:07 PM
+BAG:hokage1 add 2xĐá Ruby (old: 1) lydo: Nhặt từ map at 03/12/2023 12:07 PM
+BAG:hokage1 add 27xHoa hồng đỏ (old: 26) lydo: Nhặt từ map at 03/12/2023 12:07 PM
+BAG:hokage1 add 64xHoa hồng vàng (old: 63) lydo: Nhặt từ map at 03/12/2023 12:07 PM
+BAG:hokage1 add 3xĐá Ruby (old: 2) lydo: Nhặt từ map at 03/12/2023 12:07 PM
+BAG:hokage1 add 28xHoa hồng đỏ (old: 27) lydo: Nhặt từ map at 03/12/2023 12:07 PM
+BAG:hokage1 add 4xĐá lục bảo (old: 3) lydo: Nhặt từ map at 03/12/2023 12:07 PM
+BAG:hokage1 add 29xHoa hồng đỏ (old: 28) lydo: Nhặt từ map at 03/12/2023 12:07 PM
+BAG:hokage1 add 65xHoa hồng vàng (old: 64) lydo: Nhặt từ map at 03/12/2023 12:07 PM
+BAG:hokage1 add 66xHoa hồng vàng (old: 65) lydo: Nhặt từ map at 03/12/2023 12:08 PM
+BAG:hokage1 add 47xHoa hồng xanh (old: 46) lydo: Nhặt từ map at 03/12/2023 12:08 PM
+BAG:hokage1 add 67xHoa hồng vàng (old: 66) lydo: Nhặt từ map at 03/12/2023 12:08 PM
+BAG:hokage1 add 30xHoa hồng đỏ (old: 29) lydo: Nhặt từ map at 03/12/2023 12:08 PM
+BAG:hokage1 add 31xHoa hồng đỏ (old: 30) lydo: Nhặt từ map at 03/12/2023 12:08 PM
+BAG:hokage1 add 32xNgọc Rồng 4 sao (old: 31) lydo: Nhặt từ map at 03/12/2023 12:08 PM
+BAG:hokage1 add 12xNgọc Rồng 5 sao (old: 11) lydo: Nhặt từ map at 03/12/2023 12:08 PM
+BAG:hokage1 add 32xHoa hồng đỏ (old: 31) lydo: Nhặt từ map at 03/12/2023 12:08 PM
+BAG:hokage1 add 48xHoa hồng xanh (old: 47) lydo: Nhặt từ map at 03/12/2023 12:08 PM
+BAG:hokage1 add 5xĐá lục bảo (old: 4) lydo: Nhặt từ map at 03/12/2023 12:08 PM
+BAG:hokage1 add 49xHoa hồng xanh (old: 48) lydo: Nhặt từ map at 03/12/2023 12:08 PM
+BAG:hokage1 add 68xHoa hồng vàng (old: 67) lydo: Nhặt từ map at 03/12/2023 12:08 PM
+BAG:hokage1 add 69xHoa hồng vàng (old: 68) lydo: Nhặt từ map at 03/12/2023 12:11 PM
+BAG:hokage1 add 50xHoa hồng xanh (old: 49) lydo: Nhặt từ map at 03/12/2023 12:12 PM
+BAG:hokage1 add 1xHoa hồng đỏ lydo: Nhặt từ map at 03/12/2023 12:12 PM
+BAG:hokage1 add 1xGiáp tập luyện cấp 3 lydo: Lấy từ body vào hành trang at 03/12/2023 12:12 PM
+BAG:hokage1 add 2xHoa hồng đỏ (old: 1) lydo: Nhặt từ map at 03/12/2023 12:12 PM
+BAG:hokage1 add 33xNgọc Rồng 4 sao (old: 32) lydo: Nhặt từ map at 03/12/2023 12:12 PM
+BAG:hokage1 add 3xHoa hồng đỏ (old: 2) lydo: Nhặt từ map at 03/12/2023 12:12 PM
+BAG:hokage1 add 1xĐá Titan lydo: Nhặt từ map at 03/12/2023 12:12 PM
+BAG:hokage1 add 51xHoa hồng xanh (old: 50) lydo: Nhặt từ map at 03/12/2023 12:12 PM
+BAG:hokage1 add 70xHoa hồng vàng (old: 69) lydo: Nhặt từ map at 03/12/2023 12:12 PM
+BAG:hokage1 add 4xHoa hồng đỏ (old: 3) lydo: Nhặt từ map at 03/12/2023 12:12 PM
+BAG:hokage1 add 71xHoa hồng vàng (old: 70) lydo: Nhặt từ map at 03/12/2023 12:13 PM
+BAG:hokage1 add 4xĐá Ruby (old: 3) lydo: Nhặt từ map at 03/12/2023 12:13 PM
+BAG:hokage1 add 72xHoa hồng vàng (old: 71) lydo: Nhặt từ map at 03/12/2023 12:13 PM
+BAG:hokage1 add 5xĐá Ruby (old: 4) lydo: Nhặt từ map at 03/12/2023 12:13 PM
+BAG:hokage1 add 13xNgọc Rồng 5 sao (old: 12) lydo: Nhặt từ map at 03/12/2023 12:13 PM
+BAG:hokage1 add 73xHoa hồng vàng (old: 72) lydo: Nhặt từ map at 03/12/2023 12:13 PM
+BAG:hokage1 add 74xHoa hồng vàng (old: 73) lydo: Nhặt từ map at 03/12/2023 12:13 PM
+BAG:hokage1 add 5xHoa hồng đỏ (old: 4) lydo: Nhặt từ map at 03/12/2023 12:13 PM
+BAG:hokage1 add 6xHoa hồng đỏ (old: 5) lydo: Nhặt từ map at 03/12/2023 12:13 PM
+BAG:hokage1 add 52xHoa hồng xanh (old: 51) lydo: Nhặt từ map at 03/12/2023 12:13 PM
+BAG:hokage1 add 6xĐá Ruby (old: 5) lydo: Nhặt từ map at 03/12/2023 12:13 PM
+BAG:hokage1 add 2xĐá Titan (old: 1) lydo: Nhặt từ map at 03/12/2023 12:13 PM
+BAG:hokage1 add 75xHoa hồng vàng (old: 74) lydo: Nhặt từ map at 03/12/2023 12:13 PM
+BAG:hokage1 add 7xHoa hồng đỏ (old: 6) lydo: Nhặt từ map at 03/12/2023 12:13 PM
+BAG:hokage1 add 8xHoa hồng đỏ (old: 7) lydo: Nhặt từ map at 03/12/2023 12:13 PM
+BAG:hokage1 add 76xHoa hồng vàng (old: 75) lydo: Nhặt từ map at 03/12/2023 12:13 PM
+BAG:hokage1 add 7xĐá Ruby (old: 6) lydo: Nhặt từ map at 03/12/2023 12:13 PM
+BAG:hokage1 add 53xHoa hồng xanh (old: 52) lydo: Nhặt từ map at 03/12/2023 12:14 PM
+BAG:hokage1 add 77xHoa hồng vàng (old: 76) lydo: Nhặt từ map at 03/12/2023 12:14 PM
+BAG:hokage1 add 54xHoa hồng xanh (old: 53) lydo: Nhặt từ map at 03/12/2023 12:14 PM
+BAG:hokage1 add 9xHoa hồng đỏ (old: 8) lydo: Nhặt từ map at 03/12/2023 12:14 PM
+BAG:hokage1 add 8xĐá Ruby (old: 7) lydo: Nhặt từ map at 03/12/2023 12:14 PM
+BAG:hokage1 add 78xHoa hồng vàng (old: 77) lydo: Nhặt từ map at 03/12/2023 12:14 PM
+BAG:hokage1 add 79xHoa hồng vàng (old: 78) lydo: Nhặt từ map at 03/12/2023 12:14 PM
+BAG:hokage1 add 10xHoa hồng đỏ (old: 9) lydo: Nhặt từ map at 03/12/2023 12:14 PM
+BAG:hokage1 add 11xHoa hồng đỏ (old: 10) lydo: Nhặt từ map at 03/12/2023 12:14 PM
+BAG:hokage1 add 55xHoa hồng xanh (old: 54) lydo: Nhặt từ map at 03/12/2023 12:14 PM
+BAG:hokage1 add 12xHoa hồng đỏ (old: 11) lydo: Nhặt từ map at 03/12/2023 12:15 PM
+BAG:hokage1 add 56xHoa hồng xanh (old: 55) lydo: Nhặt từ map at 03/12/2023 12:15 PM
+BAG:hokage1 add 13xHoa hồng đỏ (old: 12) lydo: Nhặt từ map at 03/12/2023 12:15 PM
+BAG:hokage1 add 80xHoa hồng vàng (old: 79) lydo: Nhặt từ map at 03/12/2023 12:15 PM
+BAG:hokage1 add 14xHoa hồng đỏ (old: 13) lydo: Nhặt từ map at 03/12/2023 12:15 PM
+BAG:hokage1 add 15xHoa hồng đỏ (old: 14) lydo: Nhặt từ map at 03/12/2023 12:15 PM
+BAG:hokage1 add 57xHoa hồng xanh (old: 56) lydo: Nhặt từ map at 03/12/2023 12:15 PM
+BAG:hokage1 add 16xHoa hồng đỏ (old: 15) lydo: Nhặt từ map at 03/12/2023 12:15 PM
+BAG:hokage1 add 58xHoa hồng xanh (old: 57) lydo: Nhặt từ map at 03/12/2023 12:15 PM
+BAG:hokage1 add 59xHoa hồng xanh (old: 58) lydo: Nhặt từ map at 03/12/2023 12:15 PM
+BAG:hokage1 add 81xHoa hồng vàng (old: 80) lydo: Nhặt từ map at 03/12/2023 12:15 PM
+BAG:hokage1 add 34xNgọc Rồng 4 sao (old: 33) lydo: Nhặt từ map at 03/12/2023 12:15 PM
+BAG:hokage1 add 82xHoa hồng vàng (old: 81) lydo: Nhặt từ map at 03/12/2023 12:15 PM
+BAG:hokage1 add 83xHoa hồng vàng (old: 82) lydo: Nhặt từ map at 03/12/2023 12:15 PM
+BAG:hokage1 add 17xHoa hồng đỏ (old: 16) lydo: Nhặt từ map at 03/12/2023 12:16 PM
+BAG:hokage1 add 9xĐá Ruby (old: 8) lydo: Nhặt từ map at 03/12/2023 12:16 PM
+BAG:hokage1 add 60xHoa hồng xanh (old: 59) lydo: Nhặt từ map at 03/12/2023 12:16 PM
+BAG:hokage1 add 10xĐá Ruby (old: 9) lydo: Nhặt từ map at 03/12/2023 12:16 PM
+BAG:hokage1 add 84xHoa hồng vàng (old: 83) lydo: Nhặt từ map at 03/12/2023 12:16 PM
+BAG:hokage1 add 85xHoa hồng vàng (old: 84) lydo: Nhặt từ map at 03/12/2023 12:16 PM
+BAG:hokage1 add 18xHoa hồng đỏ (old: 17) lydo: Nhặt từ map at 03/12/2023 12:16 PM
+BAG:hokage1 add 35xNgọc Rồng 4 sao (old: 34) lydo: Nhặt từ map at 03/12/2023 12:16 PM
+BAG:hokage1 add 61xHoa hồng xanh (old: 60) lydo: Nhặt từ map at 03/12/2023 12:16 PM
+BAG:hokage1 add 62xHoa hồng xanh (old: 61) lydo: Nhặt từ map at 03/12/2023 12:16 PM
+BAG:hokage1 add 36xNgọc Rồng 4 sao (old: 35) lydo: Nhặt từ map at 03/12/2023 12:16 PM
+BAG:hokage1 add 14xNgọc Rồng 5 sao (old: 13) lydo: Nhặt từ map at 03/12/2023 12:17 PM
+BAG:hokage1 add 3xĐá Titan (old: 2) lydo: Nhặt từ map at 03/12/2023 12:17 PM
+BAG:hokage1 add 15xNgọc Rồng 5 sao (old: 14) lydo: Nhặt từ map at 03/12/2023 12:17 PM
+BAG:hokage1 add 86xHoa hồng vàng (old: 85) lydo: Nhặt từ map at 03/12/2023 12:17 PM
+BAG:hokage1 add 4xĐá Titan (old: 3) lydo: Nhặt từ map at 03/12/2023 12:17 PM
+BAG:hokage1 add 37xNgọc Rồng 4 sao (old: 36) lydo: Nhặt từ map at 03/12/2023 12:17 PM
+BAG:hokage1 add 63xHoa hồng xanh (old: 62) lydo: Nhặt từ map at 03/12/2023 12:17 PM
+BAG:hokage1 add 19xHoa hồng đỏ (old: 18) lydo: Nhặt từ map at 03/12/2023 12:17 PM
+BAG:hokage1 add 20xHoa hồng đỏ (old: 19) lydo: Nhặt từ map at 03/12/2023 12:17 PM
+BAG:hokage1 add 21xHoa hồng đỏ (old: 20) lydo: Nhặt từ map at 03/12/2023 12:17 PM
+BAG:hokage1 add 64xHoa hồng xanh (old: 63) lydo: Nhặt từ map at 03/12/2023 12:17 PM
+BAG:hokage1 add 22xHoa hồng đỏ (old: 21) lydo: Nhặt từ map at 03/12/2023 12:17 PM
+BAG:hokage1 add 87xHoa hồng vàng (old: 86) lydo: Nhặt từ map at 03/12/2023 12:17 PM
+BAG:hokage1 add 88xHoa hồng vàng (old: 87) lydo: Nhặt từ map at 03/12/2023 12:17 PM
+BAG:hokage1 add 65xHoa hồng xanh (old: 64) lydo: Nhặt từ map at 03/12/2023 12:17 PM
+BAG:hokage1 add 89xHoa hồng vàng (old: 88) lydo: Nhặt từ map at 03/12/2023 12:17 PM
+BAG:hokage1 add 5xĐá Titan (old: 4) lydo: Nhặt từ map at 03/12/2023 12:17 PM
+BAG:hokage1 add 23xHoa hồng đỏ (old: 22) lydo: Nhặt từ map at 03/12/2023 12:17 PM
+BAG:hokage1 add 66xHoa hồng xanh (old: 65) lydo: Nhặt từ map at 03/12/2023 12:18 PM
+BAG:hokage1 add 90xHoa hồng vàng (old: 89) lydo: Nhặt từ map at 03/12/2023 12:18 PM
+BAG:hokage1 add 38xNgọc Rồng 4 sao (old: 37) lydo: Nhặt từ map at 03/12/2023 12:18 PM
+BAG:hokage1 add 67xHoa hồng xanh (old: 66) lydo: Nhặt từ map at 03/12/2023 12:18 PM
+BAG:hokage1 add 11xĐá Ruby (old: 10) lydo: Nhặt từ map at 03/12/2023 12:18 PM
+BAG:hokage1 add 24xHoa hồng đỏ (old: 23) lydo: Nhặt từ map at 03/12/2023 12:18 PM
+BAG:hokage1 add 25xHoa hồng đỏ (old: 24) lydo: Nhặt từ map at 03/12/2023 12:18 PM
+BAG:hokage1 add 91xHoa hồng vàng (old: 90) lydo: Nhặt từ map at 03/12/2023 12:18 PM
+BAG:hokage1 add 92xHoa hồng vàng (old: 91) lydo: Nhặt từ map at 03/12/2023 12:18 PM
+BAG:hokage1 add 68xHoa hồng xanh (old: 67) lydo: Nhặt từ map at 03/12/2023 12:18 PM
+BAG:hokage1 add 12xĐá Ruby (old: 11) lydo: Nhặt từ map at 03/12/2023 12:18 PM
+BAG:hokage1 add 26xHoa hồng đỏ (old: 25) lydo: Nhặt từ map at 03/12/2023 12:18 PM
+BAG:hokage1 add 39xNgọc Rồng 4 sao (old: 38) lydo: Nhặt từ map at 03/12/2023 12:18 PM
+BAG:hokage1 add 93xHoa hồng vàng (old: 92) lydo: Nhặt từ map at 03/12/2023 12:18 PM
+BAG:hokage1 add 69xHoa hồng xanh (old: 68) lydo: Nhặt từ map at 03/12/2023 12:18 PM
+BAG:hokage1 add 94xHoa hồng vàng (old: 93) lydo: Nhặt từ map at 03/12/2023 12:18 PM
+BAG:hokage1 add 95xHoa hồng vàng (old: 94) lydo: Nhặt từ map at 03/12/2023 12:19 PM
+BAG:hokage1 add 27xHoa hồng đỏ (old: 26) lydo: Nhặt từ map at 03/12/2023 12:19 PM
+BAG:hokage1 add 96xHoa hồng vàng (old: 95) lydo: Nhặt từ map at 03/12/2023 12:19 PM
+BAG:hokage1 add 97xHoa hồng vàng (old: 96) lydo: Nhặt từ map at 03/12/2023 12:19 PM
+BAG:hokage1 add 28xHoa hồng đỏ (old: 27) lydo: Nhặt từ map at 03/12/2023 12:19 PM
+BAG:hokage1 add 98xHoa hồng vàng (old: 97) lydo: Nhặt từ map at 03/12/2023 12:19 PM
+BAG:hokage1 add 13xĐá Ruby (old: 12) lydo: Nhặt từ map at 03/12/2023 12:19 PM
+BAG:hokage1 add 70xHoa hồng xanh (old: 69) lydo: Nhặt từ map at 03/12/2023 12:19 PM
+BAG:hokage1 add 71xHoa hồng xanh (old: 70) lydo: Nhặt từ map at 03/12/2023 12:19 PM
+BAG:hokage1 add 99xHoa hồng vàng (old: 98) lydo: Nhặt từ map at 03/12/2023 12:19 PM
+BAG:hokage1 add 72xHoa hồng xanh (old: 71) lydo: Nhặt từ map at 03/12/2023 12:19 PM
+BAG:hokage1 add 14xĐá Ruby (old: 13) lydo: Nhặt từ map at 03/12/2023 12:19 PM
+BAG:hokage1 add 73xHoa hồng xanh (old: 72) lydo: Nhặt từ map at 03/12/2023 12:19 PM
+BAG:hokage1 add 100xHoa hồng vàng (old: 99) lydo: Nhặt từ map at 03/12/2023 12:20 PM
+BAG:hokage1 add 74xHoa hồng xanh (old: 73) lydo: Nhặt từ map at 03/12/2023 12:20 PM
+BAG:hokage1 add 101xHoa hồng vàng (old: 100) lydo: Nhặt từ map at 03/12/2023 12:20 PM
+BAG:hokage1 add 29xHoa hồng đỏ (old: 28) lydo: Nhặt từ map at 03/12/2023 12:20 PM
+BAG:hokage1 add 75xHoa hồng xanh (old: 74) lydo: Nhặt từ map at 03/12/2023 12:20 PM
+BAG:hokage1 add 30xHoa hồng đỏ (old: 29) lydo: Nhặt từ map at 03/12/2023 12:20 PM
+BAG:hokage1 add 16xNgọc Rồng 5 sao (old: 15) lydo: Nhặt từ map at 03/12/2023 12:20 PM
+BAG:hokage1 add 76xHoa hồng xanh (old: 75) lydo: Nhặt từ map at 03/12/2023 12:20 PM
+BAG:hokage1 add 40xNgọc Rồng 4 sao (old: 39) lydo: Nhặt từ map at 03/12/2023 12:20 PM
+BAG:hokage1 add 77xHoa hồng xanh (old: 76) lydo: Nhặt từ map at 03/12/2023 12:20 PM
+BAG:hokage1 add 6xĐá Titan (old: 5) lydo: Nhặt từ map at 03/12/2023 12:20 PM
+BAG:hokage1 add 78xHoa hồng xanh (old: 77) lydo: Nhặt từ map at 03/12/2023 12:20 PM
+BAG:hokage1 add 102xHoa hồng vàng (old: 101) lydo: Nhặt từ map at 03/12/2023 12:20 PM
+BAG:hokage1 add 103xHoa hồng vàng (old: 102) lydo: Nhặt từ map at 03/12/2023 12:21 PM
+BAG:hokage1 add 79xHoa hồng xanh (old: 78) lydo: Nhặt từ map at 03/12/2023 12:21 PM
+BAG:hokage1 add 104xHoa hồng vàng (old: 103) lydo: Nhặt từ map at 03/12/2023 12:21 PM
+BAG:hokage1 add 105xHoa hồng vàng (old: 104) lydo: Nhặt từ map at 03/12/2023 12:21 PM
+BAG:hokage1 add 31xHoa hồng đỏ (old: 30) lydo: Nhặt từ map at 03/12/2023 12:21 PM
+BAG:hokage1 add 106xHoa hồng vàng (old: 105) lydo: Nhặt từ map at 03/12/2023 12:21 PM
+BAG:hokage1 add 32xHoa hồng đỏ (old: 31) lydo: Nhặt từ map at 03/12/2023 12:21 PM
+BAG:hokage1 add 33xHoa hồng đỏ (old: 32) lydo: Nhặt từ map at 03/12/2023 12:21 PM
+BAG:hokage1 add 41xNgọc Rồng 4 sao (old: 40) lydo: Nhặt từ map at 03/12/2023 12:21 PM
+BAG:hokage1 add 80xHoa hồng xanh (old: 79) lydo: Nhặt từ map at 03/12/2023 12:21 PM
+BAG:hokage1 add 81xHoa hồng xanh (old: 80) lydo: Nhặt từ map at 03/12/2023 12:21 PM
+BAG:hokage1 add 107xHoa hồng vàng (old: 106) lydo: Nhặt từ map at 03/12/2023 12:22 PM
+BAG:hokage1 add 82xHoa hồng xanh (old: 81) lydo: Nhặt từ map at 03/12/2023 12:22 PM
+BAG:hokage1 add 108xHoa hồng vàng (old: 107) lydo: Nhặt từ map at 03/12/2023 12:22 PM
+BAG:hokage1 add 15xĐá Ruby (old: 14) lydo: Nhặt từ map at 03/12/2023 12:22 PM
+BAG:hokage1 add 34xHoa hồng đỏ (old: 33) lydo: Nhặt từ map at 03/12/2023 12:22 PM
+BAG:hokage1 add 35xHoa hồng đỏ (old: 34) lydo: Nhặt từ map at 03/12/2023 12:22 PM
+BAG:hokage1 add 7xĐá Titan (old: 6) lydo: Nhặt từ map at 03/12/2023 12:22 PM
+BAG:hokage1 add 36xHoa hồng đỏ (old: 35) lydo: Nhặt từ map at 03/12/2023 12:22 PM
+BAG:hokage1 add 37xHoa hồng đỏ (old: 36) lydo: Nhặt từ map at 03/12/2023 12:22 PM
+BAG:hokage1 add 38xHoa hồng đỏ (old: 37) lydo: Nhặt từ map at 03/12/2023 12:23 PM
+BAG:hokage1 add 109xHoa hồng vàng (old: 108) lydo: Nhặt từ map at 03/12/2023 12:23 PM
+BAG:hokage1 add 39xHoa hồng đỏ (old: 38) lydo: Nhặt từ map at 03/12/2023 12:23 PM
+BAG:hokage1 add 110xHoa hồng vàng (old: 109) lydo: Nhặt từ map at 03/12/2023 12:23 PM
+BAG:hokage1 add 83xHoa hồng xanh (old: 82) lydo: Nhặt từ map at 03/12/2023 12:23 PM
+BAG:hokage1 add 84xHoa hồng xanh (old: 83) lydo: Nhặt từ map at 03/12/2023 12:23 PM
+BAG:hokage1 add 40xHoa hồng đỏ (old: 39) lydo: Nhặt từ map at 03/12/2023 12:23 PM
+BAG:hokage1 add 16xĐá Ruby (old: 15) lydo: Nhặt từ map at 03/12/2023 12:23 PM
+BAG:hokage1 add 111xHoa hồng vàng (old: 110) lydo: Nhặt từ map at 03/12/2023 12:23 PM
+BAG:hokage1 add 112xHoa hồng vàng (old: 111) lydo: Nhặt từ map at 03/12/2023 12:23 PM
+BAG:hokage1 add 113xHoa hồng vàng (old: 112) lydo: Nhặt từ map at 03/12/2023 12:23 PM
+BAG:hokage1 add 85xHoa hồng xanh (old: 84) lydo: Nhặt từ map at 03/12/2023 12:23 PM
+BAG:hokage1 add 17xĐá Ruby (old: 16) lydo: Nhặt từ map at 03/12/2023 12:23 PM
+BAG:hokage1 add 17xNgọc Rồng 5 sao (old: 16) lydo: Nhặt từ map at 03/12/2023 12:23 PM
+BAG:hokage1 add 42xNgọc Rồng 4 sao (old: 41) lydo: Nhặt từ map at 03/12/2023 12:23 PM
+BAG:hokage1 add 114xHoa hồng vàng (old: 113) lydo: Nhặt từ map at 03/12/2023 12:23 PM
+BAG:hokage1 add 41xHoa hồng đỏ (old: 40) lydo: Nhặt từ map at 03/12/2023 12:24 PM
+BAG:hokage1 add 42xHoa hồng đỏ (old: 41) lydo: Nhặt từ map at 03/12/2023 12:24 PM
+BAG:hokage1 add 115xHoa hồng vàng (old: 114) lydo: Nhặt từ map at 03/12/2023 12:24 PM
+BAG:hokage1 add 43xHoa hồng đỏ (old: 42) lydo: Nhặt từ map at 03/12/2023 12:24 PM
+BAG:hokage1 add 86xHoa hồng xanh (old: 85) lydo: Nhặt từ map at 03/12/2023 12:24 PM
+BAG:hokage1 add 87xHoa hồng xanh (old: 86) lydo: Nhặt từ map at 03/12/2023 12:24 PM
+BAG:hokage1 add 116xHoa hồng vàng (old: 115) lydo: Nhặt từ map at 03/12/2023 12:24 PM
+BAG:hokage1 add 117xHoa hồng vàng (old: 116) lydo: Nhặt từ map at 03/12/2023 12:24 PM
+BAG:hokage1 add 44xHoa hồng đỏ (old: 43) lydo: Nhặt từ map at 03/12/2023 12:24 PM
+BAG:hokage1 add 88xHoa hồng xanh (old: 87) lydo: Nhặt từ map at 03/12/2023 12:24 PM
+BAG:hokage1 add 45xHoa hồng đỏ (old: 44) lydo: Nhặt từ map at 03/12/2023 12:24 PM
+BAG:hokage1 add 46xHoa hồng đỏ (old: 45) lydo: Nhặt từ map at 03/12/2023 12:24 PM
+BAG:hokage1 add 47xHoa hồng đỏ (old: 46) lydo: Nhặt từ map at 03/12/2023 12:25 PM
+BAG:hokage1 add 89xHoa hồng xanh (old: 88) lydo: Nhặt từ map at 03/12/2023 12:25 PM
+BAG:hokage1 add 48xHoa hồng đỏ (old: 47) lydo: Nhặt từ map at 03/12/2023 12:25 PM
+BAG:hokage1 add 49xHoa hồng đỏ (old: 48) lydo: Nhặt từ map at 03/12/2023 12:25 PM
+BAG:hokage1 add 8xĐá Titan (old: 7) lydo: Nhặt từ map at 03/12/2023 12:25 PM
+BAG:hokage1 add 50xHoa hồng đỏ (old: 49) lydo: Nhặt từ map at 03/12/2023 12:25 PM
+BAG:hokage1 add 51xHoa hồng đỏ (old: 50) lydo: Nhặt từ map at 03/12/2023 12:25 PM
+BAG:hokage1 add 90xHoa hồng xanh (old: 89) lydo: Nhặt từ map at 03/12/2023 12:25 PM
+BAG:hokage1 add 91xHoa hồng xanh (old: 90) lydo: Nhặt từ map at 03/12/2023 12:25 PM
+BAG:hokage1 add 92xHoa hồng xanh (old: 91) lydo: Nhặt từ map at 03/12/2023 12:25 PM
+BAG:hokage1 add 118xHoa hồng vàng (old: 117) lydo: Nhặt từ map at 03/12/2023 12:25 PM
+BAG:hokage1 add 52xHoa hồng đỏ (old: 51) lydo: Nhặt từ map at 03/12/2023 12:26 PM
+BAG:hokage1 add 1xHoa hồng đỏ lydo: Nhặt từ map at 03/12/2023 12:27 PM
+BAG:hokage1 add 1xViên Capsule kì bí lydo: Nhặt từ map at 03/12/2023 12:27 PM
+BAG:hokage1 add 119xHoa hồng vàng (old: 118) lydo: Nhặt từ map at 03/12/2023 12:27 PM
+BAG:hokage1 add 1xĐá Saphia lydo: Nhặt từ map at 03/12/2023 12:27 PM
+BAG:hokage1 add 2xViên Capsule kì bí (old: 1) lydo: Nhặt từ map at 03/12/2023 12:27 PM
+BAG:hokage1 add 120xHoa hồng vàng (old: 119) lydo: Nhặt từ map at 03/12/2023 12:27 PM
+BAG:hokage1 add 3xViên Capsule kì bí (old: 2) lydo: Nhặt từ map at 03/12/2023 12:27 PM
+BAG:hokage1 add 121xHoa hồng vàng (old: 120) lydo: Nhặt từ map at 03/12/2023 12:27 PM
+BAG:hokage1 add 4xViên Capsule kì bí (old: 3) lydo: Nhặt từ map at 03/12/2023 12:27 PM
+BAG:hokage1 add 1xHoa hồng xanh lydo: Nhặt từ map at 03/12/2023 12:27 PM
+BAG:hokage1 add 1xĐá Titan lydo: Nhặt từ map at 03/12/2023 12:27 PM
+BAG:hokage1 add 2xHoa hồng xanh (old: 1) lydo: Nhặt từ map at 03/12/2023 12:27 PM
+BAG:hokage1 add 2xHoa hồng đỏ (old: 1) lydo: Nhặt từ map at 03/12/2023 12:27 PM
+BAG:hokage1 add 122xHoa hồng vàng (old: 121) lydo: Nhặt từ map at 03/12/2023 12:27 PM
+BAG:hokage1 add 3xHoa hồng đỏ (old: 2) lydo: Nhặt từ map at 03/12/2023 12:28 PM
+BAG:hokage1 add 5xViên Capsule kì bí (old: 4) lydo: Nhặt từ map at 03/12/2023 12:28 PM
+BAG:hokage1 add 123xHoa hồng vàng (old: 122) lydo: Nhặt từ map at 03/12/2023 12:28 PM
+BAG:hokage1 add 4xHoa hồng đỏ (old: 3) lydo: Nhặt từ map at 03/12/2023 12:28 PM
+BAG:hokage1 add 5xHoa hồng đỏ (old: 4) lydo: Nhặt từ map at 03/12/2023 12:28 PM
+BAG:hokage1 add 6xViên Capsule kì bí (old: 5) lydo: Nhặt từ map at 03/12/2023 12:28 PM
+BAG:hokage1 add 7xViên Capsule kì bí (old: 6) lydo: Nhặt từ map at 03/12/2023 12:28 PM
+BAG:hokage1 add 6xHoa hồng đỏ (old: 5) lydo: Nhặt từ map at 03/12/2023 12:28 PM
+BAG:hokage1 add 124xHoa hồng vàng (old: 123) lydo: Nhặt từ map at 03/12/2023 12:28 PM
+BAG:hokage1 add 7xHoa hồng đỏ (old: 6) lydo: Nhặt từ map at 03/12/2023 12:28 PM
+BAG:hokage1 add 3xHoa hồng xanh (old: 2) lydo: Nhặt từ map at 03/12/2023 12:28 PM
+BAG:hokage1 add 125xHoa hồng vàng (old: 124) lydo: Nhặt từ map at 03/12/2023 12:28 PM
+BAG:hokage1 add 126xHoa hồng vàng (old: 125) lydo: Nhặt từ map at 03/12/2023 12:28 PM
+BAG:hokage1 add 4xHoa hồng xanh (old: 3) lydo: Nhặt từ map at 03/12/2023 12:28 PM
+BAG:hokage1 add 8xHoa hồng đỏ (old: 7) lydo: Nhặt từ map at 03/12/2023 12:28 PM
+BAG:hokage1 add 5xHoa hồng xanh (old: 4) lydo: Nhặt từ map at 03/12/2023 12:28 PM
+BAG:hokage1 add 9xHoa hồng đỏ (old: 8) lydo: Nhặt từ map at 03/12/2023 12:28 PM
+BAG:hokage1 add 6xHoa hồng xanh (old: 5) lydo: Nhặt từ map at 03/12/2023 12:28 PM
+BAG:hokage1 add 10xHoa hồng đỏ (old: 9) lydo: Nhặt từ map at 03/12/2023 12:28 PM
+BAG:hokage1 add 11xHoa hồng đỏ (old: 10) lydo: Nhặt từ map at 03/12/2023 12:28 PM
+BAG:hokage1 add 12xHoa hồng đỏ (old: 11) lydo: Nhặt từ map at 03/12/2023 12:28 PM
+BAG:hokage1 add 127xHoa hồng vàng (old: 126) lydo: Nhặt từ map at 03/12/2023 12:29 PM
+BAG:hokage1 add 13xHoa hồng đỏ (old: 12) lydo: Nhặt từ map at 03/12/2023 12:29 PM
+BAG:hokage1 add 128xHoa hồng vàng (old: 127) lydo: Nhặt từ map at 03/12/2023 12:29 PM
+BAG:hokage1 add 8xViên Capsule kì bí (old: 7) lydo: Nhặt từ map at 03/12/2023 12:29 PM
+BAG:hokage1 add 9xViên Capsule kì bí (old: 8) lydo: Nhặt từ map at 03/12/2023 12:29 PM
+BAG:hokage1 add 7xHoa hồng xanh (old: 6) lydo: Nhặt từ map at 03/12/2023 12:29 PM
+BAG:hokage1 add 10xViên Capsule kì bí (old: 9) lydo: Nhặt từ map at 03/12/2023 12:29 PM
+BAG:hokage1 add 11xViên Capsule kì bí (old: 10) lydo: Nhặt từ map at 03/12/2023 12:29 PM
+BAG:hokage1 add 12xViên Capsule kì bí (old: 11) lydo: Nhặt từ map at 03/12/2023 12:29 PM
+BAG:hokage1 add 13xViên Capsule kì bí (old: 12) lydo: Nhặt từ map at 03/12/2023 12:29 PM
+BAG:hokage1 add 2xĐá Titan (old: 1) lydo: Nhặt từ map at 03/12/2023 12:29 PM
+BAG:hokage1 add 129xHoa hồng vàng (old: 128) lydo: Nhặt từ map at 03/12/2023 12:29 PM
+BAG:hokage1 add 14xHoa hồng đỏ (old: 13) lydo: Nhặt từ map at 03/12/2023 12:29 PM
+BAG:hokage1 add 14xViên Capsule kì bí (old: 13) lydo: Nhặt từ map at 03/12/2023 12:29 PM
+BAG:hokage1 add 15xViên Capsule kì bí (old: 14) lydo: Nhặt từ map at 03/12/2023 12:29 PM
+BAG:hokage1 add 16xViên Capsule kì bí (old: 15) lydo: Nhặt từ map at 03/12/2023 12:29 PM
+BAG:hokage1 add 17xViên Capsule kì bí (old: 16) lydo: Nhặt từ map at 03/12/2023 12:29 PM
+BAG:hokage1 add 18xViên Capsule kì bí (old: 17) lydo: Nhặt từ map at 03/12/2023 12:29 PM
+BAG:hokage1 add 19xViên Capsule kì bí (old: 18) lydo: Nhặt từ map at 03/12/2023 12:30 PM
+BAG:hokage1 add 20xViên Capsule kì bí (old: 19) lydo: Nhặt từ map at 03/12/2023 12:30 PM
+BAG:hokage1 add 15xHoa hồng đỏ (old: 14) lydo: Nhặt từ map at 03/12/2023 12:30 PM
+BAG:hokage1 add 8xHoa hồng xanh (old: 7) lydo: Nhặt từ map at 03/12/2023 12:30 PM
+BAG:hokage1 add 21xViên Capsule kì bí (old: 20) lydo: Nhặt từ map at 03/12/2023 12:30 PM
+BAG:hokage1 add 22xViên Capsule kì bí (old: 21) lydo: Nhặt từ map at 03/12/2023 12:30 PM
+BAG:hokage1 add 130xHoa hồng vàng (old: 129) lydo: Nhặt từ map at 03/12/2023 12:30 PM
+BAG:hokage1 add 16xHoa hồng đỏ (old: 15) lydo: Nhặt từ map at 03/12/2023 12:30 PM
+BAG:hokage1 add 17xHoa hồng đỏ (old: 16) lydo: Nhặt từ map at 03/12/2023 12:30 PM
+BAG:hokage1 add 23xViên Capsule kì bí (old: 22) lydo: Nhặt từ map at 03/12/2023 12:30 PM
+BAG:hokage1 add 131xHoa hồng vàng (old: 130) lydo: Nhặt từ map at 03/12/2023 12:30 PM
+BAG:hokage1 add 24xViên Capsule kì bí (old: 23) lydo: Nhặt từ map at 03/12/2023 12:30 PM
+BAG:hokage1 add 9xHoa hồng xanh (old: 8) lydo: Nhặt từ map at 03/12/2023 12:30 PM
+BAG:hokage1 add 10xHoa hồng xanh (old: 9) lydo: Nhặt từ map at 03/12/2023 12:30 PM
+BAG:hokage1 add 25xViên Capsule kì bí (old: 24) lydo: Nhặt từ map at 03/12/2023 12:30 PM
+BAG:hokage1 add 26xViên Capsule kì bí (old: 25) lydo: Nhặt từ map at 03/12/2023 12:30 PM
+BAG:hokage1 add 11xHoa hồng xanh (old: 10) lydo: Nhặt từ map at 03/12/2023 12:30 PM
+BAG:hokage1 add 27xViên Capsule kì bí (old: 26) lydo: Nhặt từ map at 03/12/2023 12:30 PM
+BAG:hokage1 add 12xHoa hồng xanh (old: 11) lydo: Nhặt từ map at 03/12/2023 12:30 PM
+BAG:hokage1 add 18xHoa hồng đỏ (old: 17) lydo: Nhặt từ map at 03/12/2023 12:30 PM
+BAG:hokage1 add 28xViên Capsule kì bí (old: 27) lydo: Nhặt từ map at 03/12/2023 12:30 PM
+BAG:hokage1 add 13xHoa hồng xanh (old: 12) lydo: Nhặt từ map at 03/12/2023 12:31 PM
+BAG:hokage1 add 29xViên Capsule kì bí (old: 28) lydo: Nhặt từ map at 03/12/2023 12:31 PM
+BAG:hokage1 add 132xHoa hồng vàng (old: 131) lydo: Nhặt từ map at 03/12/2023 12:31 PM
+BAG:hokage1 add 30xViên Capsule kì bí (old: 29) lydo: Nhặt từ map at 03/12/2023 12:31 PM
+BAG:hokage1 add 133xHoa hồng vàng (old: 132) lydo: Nhặt từ map at 03/12/2023 12:31 PM
+BAG:hokage1 add 14xHoa hồng xanh (old: 13) lydo: Nhặt từ map at 03/12/2023 12:31 PM
+BAG:hokage1 add 19xHoa hồng đỏ (old: 18) lydo: Nhặt từ map at 03/12/2023 12:31 PM
+BAG:hokage1 add 31xViên Capsule kì bí (old: 30) lydo: Nhặt từ map at 03/12/2023 12:31 PM
+BAG:hokage1 add 15xHoa hồng xanh (old: 14) lydo: Nhặt từ map at 03/12/2023 12:31 PM
+BAG:hokage1 add 134xHoa hồng vàng (old: 133) lydo: Nhặt từ map at 03/12/2023 12:31 PM
+BAG:hokage1 add 32xViên Capsule kì bí (old: 31) lydo: Nhặt từ map at 03/12/2023 12:31 PM
+BAG:hokage1 add 33xViên Capsule kì bí (old: 32) lydo: Nhặt từ map at 03/12/2023 12:31 PM
+BAG:hokage1 add 34xViên Capsule kì bí (old: 33) lydo: Nhặt từ map at 03/12/2023 12:31 PM
+BAG:hokage1 add 16xHoa hồng xanh (old: 15) lydo: Nhặt từ map at 03/12/2023 12:31 PM
+BAG:hokage1 add 35xViên Capsule kì bí (old: 34) lydo: Nhặt từ map at 03/12/2023 12:31 PM
+BAG:hokage1 add 17xHoa hồng xanh (old: 16) lydo: Nhặt từ map at 03/12/2023 12:31 PM
+BAG:hokage1 add 20xHoa hồng đỏ (old: 19) lydo: Nhặt từ map at 03/12/2023 12:31 PM
+BAG:hokage1 add 18xHoa hồng xanh (old: 17) lydo: Nhặt từ map at 03/12/2023 12:31 PM
+BAG:hokage1 add 19xHoa hồng xanh (old: 18) lydo: Nhặt từ map at 03/12/2023 12:31 PM
+BAG:hokage1 add 36xViên Capsule kì bí (old: 35) lydo: Nhặt từ map at 03/12/2023 12:31 PM
+BAG:hokage1 add 21xHoa hồng đỏ (old: 20) lydo: Nhặt từ map at 03/12/2023 12:31 PM
+BAG:hokage1 add 37xViên Capsule kì bí (old: 36) lydo: Nhặt từ map at 03/12/2023 12:31 PM
+BAG:hokage1 add 38xViên Capsule kì bí (old: 37) lydo: Nhặt từ map at 03/12/2023 12:31 PM
+BAG:hokage1 add 39xViên Capsule kì bí (old: 38) lydo: Nhặt từ map at 03/12/2023 12:31 PM
+BAG:hokage1 add 20xHoa hồng xanh (old: 19) lydo: Nhặt từ map at 03/12/2023 12:31 PM
+BAG:hokage1 add 40xViên Capsule kì bí (old: 39) lydo: Nhặt từ map at 03/12/2023 12:32 PM
+BAG:hokage1 add 41xViên Capsule kì bí (old: 40) lydo: Nhặt từ map at 03/12/2023 12:32 PM
+BAG:hokage1 add 135xHoa hồng vàng (old: 134) lydo: Nhặt từ map at 03/12/2023 12:32 PM
+BAG:hokage1 add 42xViên Capsule kì bí (old: 41) lydo: Nhặt từ map at 03/12/2023 12:32 PM
+BAG:hokage1 add 43xViên Capsule kì bí (old: 42) lydo: Nhặt từ map at 03/12/2023 12:32 PM
+BAG:hokage1 add 18xNgọc Rồng 6 sao (old: 17) lydo: Nhặt từ map at 03/12/2023 12:32 PM
+BAG:hokage1 add 44xViên Capsule kì bí (old: 43) lydo: Nhặt từ map at 03/12/2023 12:32 PM
+BAG:hokage1 add 21xHoa hồng xanh (old: 20) lydo: Nhặt từ map at 03/12/2023 12:32 PM
+BAG:hokage1 add 45xViên Capsule kì bí (old: 44) lydo: Nhặt từ map at 03/12/2023 12:32 PM
+BAG:hokage1 add 46xViên Capsule kì bí (old: 45) lydo: Nhặt từ map at 03/12/2023 12:32 PM
+BAG:hokage1 add 22xHoa hồng xanh (old: 21) lydo: Nhặt từ map at 03/12/2023 12:32 PM
+BAG:hokage1 add 136xHoa hồng vàng (old: 135) lydo: Nhặt từ map at 03/12/2023 12:32 PM
+BAG:hokage1 add 19xNgọc Rồng 6 sao (old: 18) lydo: Nhặt từ map at 03/12/2023 12:32 PM
+BAG:hokage1 add 43xNgọc Rồng 4 sao (old: 42) lydo: Nhặt từ map at 03/12/2023 12:32 PM
+BAG:hokage1 add 47xViên Capsule kì bí (old: 46) lydo: Nhặt từ map at 03/12/2023 12:32 PM
+BAG:hokage1 add 48xViên Capsule kì bí (old: 47) lydo: Nhặt từ map at 03/12/2023 12:32 PM
+BAG:hokage1 add 49xViên Capsule kì bí (old: 48) lydo: Nhặt từ map at 03/12/2023 12:33 PM
+BAG:hokage1 add 50xViên Capsule kì bí (old: 49) lydo: Nhặt từ map at 03/12/2023 12:33 PM
+BAG:hokage1 add 23xHoa hồng xanh (old: 22) lydo: Nhặt từ map at 03/12/2023 12:33 PM
+BAG:hokage1 add 51xViên Capsule kì bí (old: 50) lydo: Nhặt từ map at 03/12/2023 12:33 PM
+BAG:hokage1 add 22xHoa hồng đỏ (old: 21) lydo: Nhặt từ map at 03/12/2023 12:33 PM
+BAG:hokage1 add 52xViên Capsule kì bí (old: 51) lydo: Nhặt từ map at 03/12/2023 12:33 PM
+BAG:hokage1 add 3xĐá Titan (old: 2) lydo: Nhặt từ map at 03/12/2023 12:33 PM
+BAG:hokage1 add 137xHoa hồng vàng (old: 136) lydo: Nhặt từ map at 03/12/2023 12:33 PM
+BAG:hokage1 add 53xViên Capsule kì bí (old: 52) lydo: Nhặt từ map at 03/12/2023 12:33 PM
+BAG:hokage1 add 138xHoa hồng vàng (old: 137) lydo: Nhặt từ map at 03/12/2023 12:33 PM
+BAG:hokage1 add 24xHoa hồng xanh (old: 23) lydo: Nhặt từ map at 03/12/2023 12:33 PM
+BAG:hokage1 add 54xViên Capsule kì bí (old: 53) lydo: Nhặt từ map at 03/12/2023 12:33 PM
+BAG:hokage1 add 25xHoa hồng xanh (old: 24) lydo: Nhặt từ map at 03/12/2023 12:33 PM
+BAG:hokage1 add 139xHoa hồng vàng (old: 138) lydo: Nhặt từ map at 03/12/2023 12:33 PM
+BAG:hokage1 add 55xViên Capsule kì bí (old: 54) lydo: Nhặt từ map at 03/12/2023 12:33 PM
+BAG:hokage1 add 4xĐá Titan (old: 3) lydo: Nhặt từ map at 03/12/2023 12:33 PM
+BAG:hokage1 add 56xViên Capsule kì bí (old: 55) lydo: Nhặt từ map at 03/12/2023 12:33 PM
+BAG:hokage1 add 23xHoa hồng đỏ (old: 22) lydo: Nhặt từ map at 03/12/2023 12:33 PM
+BAG:hokage1 add 57xViên Capsule kì bí (old: 56) lydo: Nhặt từ map at 03/12/2023 12:33 PM
+BAG:hokage1 add 24xHoa hồng đỏ (old: 23) lydo: Nhặt từ map at 03/12/2023 12:33 PM
+BAG:hokage1 add 58xViên Capsule kì bí (old: 57) lydo: Nhặt từ map at 03/12/2023 12:34 PM
+BAG:hokage1 add 140xHoa hồng vàng (old: 139) lydo: Nhặt từ map at 03/12/2023 12:34 PM
+BAG:hokage1 add 59xViên Capsule kì bí (old: 58) lydo: Nhặt từ map at 03/12/2023 12:34 PM
+BAG:hokage1 add 20xNgọc Rồng 6 sao (old: 19) lydo: Nhặt từ map at 03/12/2023 12:34 PM
+BAG:hokage1 add 25xHoa hồng đỏ (old: 24) lydo: Nhặt từ map at 03/12/2023 12:34 PM
+BAG:hokage1 add 26xHoa hồng xanh (old: 25) lydo: Nhặt từ map at 03/12/2023 12:34 PM
+BAG:hokage1 add 60xViên Capsule kì bí (old: 59) lydo: Nhặt từ map at 03/12/2023 12:34 PM
+BAG:hokage1 add 27xHoa hồng xanh (old: 26) lydo: Nhặt từ map at 03/12/2023 12:34 PM
+BAG:hokage1 add 141xHoa hồng vàng (old: 140) lydo: Nhặt từ map at 03/12/2023 12:34 PM
+BAG:hokage1 add 61xViên Capsule kì bí (old: 60) lydo: Nhặt từ map at 03/12/2023 12:34 PM
+BAG:hokage1 add 26xHoa hồng đỏ (old: 25) lydo: Nhặt từ map at 03/12/2023 12:34 PM
+BAG:hokage1 add 142xHoa hồng vàng (old: 141) lydo: Nhặt từ map at 03/12/2023 12:34 PM
+BAG:hokage1 add 143xHoa hồng vàng (old: 142) lydo: Nhặt từ map at 03/12/2023 12:34 PM
+BAG:hokage1 add 27xHoa hồng đỏ (old: 26) lydo: Nhặt từ map at 03/12/2023 12:34 PM
+BAG:hokage1 add 144xHoa hồng vàng (old: 143) lydo: Nhặt từ map at 03/12/2023 12:34 PM
+BAG:hokage1 add 62xViên Capsule kì bí (old: 61) lydo: Nhặt từ map at 03/12/2023 12:34 PM
+BAG:hokage1 add 63xViên Capsule kì bí (old: 62) lydo: Nhặt từ map at 03/12/2023 12:34 PM
+BAG:hokage1 add 64xViên Capsule kì bí (old: 63) lydo: Nhặt từ map at 03/12/2023 12:34 PM
+BAG:hokage1 add 145xHoa hồng vàng (old: 144) lydo: Nhặt từ map at 03/12/2023 12:35 PM
+BAG:hokage1 add 28xHoa hồng đỏ (old: 27) lydo: Nhặt từ map at 03/12/2023 12:35 PM
+BAG:hokage1 add 28xHoa hồng xanh (old: 27) lydo: Nhặt từ map at 03/12/2023 12:35 PM
+BAG:hokage1 add 146xHoa hồng vàng (old: 145) lydo: Nhặt từ map at 03/12/2023 12:35 PM
+BAG:hokage1 add 65xViên Capsule kì bí (old: 64) lydo: Nhặt từ map at 03/12/2023 12:35 PM
+BAG:hokage1 add 66xViên Capsule kì bí (old: 65) lydo: Nhặt từ map at 03/12/2023 12:35 PM
+BAG:hokage1 add 29xHoa hồng đỏ (old: 28) lydo: Nhặt từ map at 03/12/2023 12:35 PM
+BAG:hokage1 add 67xViên Capsule kì bí (old: 66) lydo: Nhặt từ map at 03/12/2023 12:35 PM
+BAG:hokage1 add 147xHoa hồng vàng (old: 146) lydo: Nhặt từ map at 03/12/2023 12:35 PM
+BAG:hokage1 add 148xHoa hồng vàng (old: 147) lydo: Nhặt từ map at 03/12/2023 12:35 PM
+BAG:hokage1 add 29xHoa hồng xanh (old: 28) lydo: Nhặt từ map at 03/12/2023 12:35 PM
+BAG:hokage1 add 149xHoa hồng vàng (old: 148) lydo: Nhặt từ map at 03/12/2023 12:35 PM
+BAG:hokage1 add 68xViên Capsule kì bí (old: 67) lydo: Nhặt từ map at 03/12/2023 12:35 PM
+BAG:hokage1 add 150xHoa hồng vàng (old: 149) lydo: Nhặt từ map at 03/12/2023 12:35 PM
+BAG:hokage1 add 69xViên Capsule kì bí (old: 68) lydo: Nhặt từ map at 03/12/2023 12:35 PM
+BAG:hokage1 add 70xViên Capsule kì bí (old: 69) lydo: Nhặt từ map at 03/12/2023 12:35 PM
+BAG:hokage1 add 71xViên Capsule kì bí (old: 70) lydo: Nhặt từ map at 03/12/2023 12:35 PM
+BAG:hokage1 add 30xHoa hồng đỏ (old: 29) lydo: Nhặt từ map at 03/12/2023 12:35 PM
+BAG:hokage1 add 151xHoa hồng vàng (old: 150) lydo: Nhặt từ map at 03/12/2023 12:35 PM
+BAG:hokage1 add 72xViên Capsule kì bí (old: 71) lydo: Nhặt từ map at 03/12/2023 12:35 PM
+BAG:hokage1 add 73xViên Capsule kì bí (old: 72) lydo: Nhặt từ map at 03/12/2023 12:35 PM
+BAG:hokage1 add 152xHoa hồng vàng (old: 151) lydo: Nhặt từ map at 03/12/2023 12:36 PM
+BAG:hokage1 add 31xHoa hồng đỏ (old: 30) lydo: Nhặt từ map at 03/12/2023 12:36 PM
+BAG:hokage1 add 74xViên Capsule kì bí (old: 73) lydo: Nhặt từ map at 03/12/2023 12:36 PM
+BAG:hokage1 add 75xViên Capsule kì bí (old: 74) lydo: Nhặt từ map at 03/12/2023 12:36 PM
+BAG:hokage1 add 5xĐá Titan (old: 4) lydo: Nhặt từ map at 03/12/2023 12:36 PM
+BAG:hokage1 add 30xHoa hồng xanh (old: 29) lydo: Nhặt từ map at 03/12/2023 12:36 PM
+BAG:hokage1 add 31xHoa hồng xanh (old: 30) lydo: Nhặt từ map at 03/12/2023 12:36 PM
+BAG:hokage1 add 32xHoa hồng xanh (old: 31) lydo: Nhặt từ map at 03/12/2023 12:36 PM
+BAG:hokage1 add 153xHoa hồng vàng (old: 152) lydo: Nhặt từ map at 03/12/2023 12:36 PM
+BAG:hokage1 add 76xViên Capsule kì bí (old: 75) lydo: Nhặt từ map at 03/12/2023 12:36 PM
+BAG:hokage1 add 154xHoa hồng vàng (old: 153) lydo: Nhặt từ map at 03/12/2023 12:36 PM
+BAG:hokage1 add 77xViên Capsule kì bí (old: 76) lydo: Nhặt từ map at 03/12/2023 12:36 PM
+BAG:hokage1 add 155xHoa hồng vàng (old: 154) lydo: Nhặt từ map at 03/12/2023 12:36 PM
+BAG:hokage1 add 78xViên Capsule kì bí (old: 77) lydo: Nhặt từ map at 03/12/2023 12:36 PM
+BAG:hokage1 add 79xViên Capsule kì bí (old: 78) lydo: Nhặt từ map at 03/12/2023 12:36 PM
+BAG:hokage1 add 80xViên Capsule kì bí (old: 79) lydo: Nhặt từ map at 03/12/2023 12:36 PM
+BAG:hokage1 add 32xHoa hồng đỏ (old: 31) lydo: Nhặt từ map at 03/12/2023 12:36 PM
+BAG:hokage1 add 81xViên Capsule kì bí (old: 80) lydo: Nhặt từ map at 03/12/2023 12:36 PM
+BAG:hokage1 add 82xViên Capsule kì bí (old: 81) lydo: Nhặt từ map at 03/12/2023 12:36 PM
+BAG:hokage1 add 33xHoa hồng xanh (old: 32) lydo: Nhặt từ map at 03/12/2023 12:36 PM
+BAG:hokage1 add 34xHoa hồng xanh (old: 33) lydo: Nhặt từ map at 03/12/2023 12:36 PM
+BAG:hokage1 add 35xHoa hồng xanh (old: 34) lydo: Nhặt từ map at 03/12/2023 12:36 PM
+BAG:hokage1 add 156xHoa hồng vàng (old: 155) lydo: Nhặt từ map at 03/12/2023 12:37 PM
+BAG:hokage1 add 83xViên Capsule kì bí (old: 82) lydo: Nhặt từ map at 03/12/2023 12:37 PM
+BAG:hokage1 add 84xViên Capsule kì bí (old: 83) lydo: Nhặt từ map at 03/12/2023 12:37 PM
+BAG:hokage1 add 85xViên Capsule kì bí (old: 84) lydo: Nhặt từ map at 03/12/2023 12:37 PM
+BAG:hokage1 add 33xHoa hồng đỏ (old: 32) lydo: Nhặt từ map at 03/12/2023 12:37 PM
+BAG:hokage1 add 34xHoa hồng đỏ (old: 33) lydo: Nhặt từ map at 03/12/2023 12:37 PM
+BAG:hokage1 add 157xHoa hồng vàng (old: 156) lydo: Nhặt từ map at 03/12/2023 12:37 PM
+BAG:hokage1 add 86xViên Capsule kì bí (old: 85) lydo: Nhặt từ map at 03/12/2023 12:37 PM
+BAG:hokage1 add 158xHoa hồng vàng (old: 157) lydo: Nhặt từ map at 03/12/2023 12:37 PM
+BAG:hokage1 add 36xHoa hồng xanh (old: 35) lydo: Nhặt từ map at 03/12/2023 12:37 PM
+BAG:hokage1 add 37xHoa hồng xanh (old: 36) lydo: Nhặt từ map at 03/12/2023 12:37 PM
+BAG:hokage1 add 35xHoa hồng đỏ (old: 34) lydo: Nhặt từ map at 03/12/2023 12:37 PM
+BAG:hokage1 add 87xViên Capsule kì bí (old: 86) lydo: Nhặt từ map at 03/12/2023 12:37 PM
+BAG:hokage1 add 88xViên Capsule kì bí (old: 87) lydo: Nhặt từ map at 03/12/2023 12:37 PM
+BAG:hokage1 add 89xViên Capsule kì bí (old: 88) lydo: Nhặt từ map at 03/12/2023 12:37 PM
+BAG:hokage1 add 90xViên Capsule kì bí (old: 89) lydo: Nhặt từ map at 03/12/2023 12:37 PM
+BAG:hokage1 add 159xHoa hồng vàng (old: 158) lydo: Nhặt từ map at 03/12/2023 12:37 PM
+BAG:hokage1 add 91xViên Capsule kì bí (old: 90) lydo: Nhặt từ map at 03/12/2023 12:37 PM
+BAG:hokage1 add 92xViên Capsule kì bí (old: 91) lydo: Nhặt từ map at 03/12/2023 12:37 PM
+BAG:hokage1 add 36xHoa hồng đỏ (old: 35) lydo: Nhặt từ map at 03/12/2023 12:37 PM
+BAG:hokage1 add 93xViên Capsule kì bí (old: 92) lydo: Nhặt từ map at 03/12/2023 12:37 PM
+BAG:hokage1 add 38xHoa hồng xanh (old: 37) lydo: Nhặt từ map at 03/12/2023 12:37 PM
+BAG:hokage1 add 94xViên Capsule kì bí (old: 93) lydo: Nhặt từ map at 03/12/2023 12:37 PM
+BAG:hokage1 add 160xHoa hồng vàng (old: 159) lydo: Nhặt từ map at 03/12/2023 12:37 PM
+BAG:hokage1 add 95xViên Capsule kì bí (old: 94) lydo: Nhặt từ map at 03/12/2023 12:37 PM
+BAG:hokage1 add 39xHoa hồng xanh (old: 38) lydo: Nhặt từ map at 03/12/2023 12:37 PM
+BAG:hokage1 add 37xHoa hồng đỏ (old: 36) lydo: Nhặt từ map at 03/12/2023 12:38 PM
+BAG:hokage1 add 40xHoa hồng xanh (old: 39) lydo: Nhặt từ map at 03/12/2023 12:38 PM
+BAG:hokage1 add 41xHoa hồng xanh (old: 40) lydo: Nhặt từ map at 03/12/2023 12:38 PM
+BAG:hokage1 add 161xHoa hồng vàng (old: 160) lydo: Nhặt từ map at 03/12/2023 12:38 PM
+BAG:hokage1 add 38xHoa hồng đỏ (old: 37) lydo: Nhặt từ map at 03/12/2023 12:38 PM
+BAG:hokage1 add 42xHoa hồng xanh (old: 41) lydo: Nhặt từ map at 03/12/2023 12:38 PM
+BAG:hokage1 add 96xViên Capsule kì bí (old: 95) lydo: Nhặt từ map at 03/12/2023 12:38 PM
+BAG:hokage1 add 97xViên Capsule kì bí (old: 96) lydo: Nhặt từ map at 03/12/2023 12:38 PM
+BAG:hokage1 add 98xViên Capsule kì bí (old: 97) lydo: Nhặt từ map at 03/12/2023 12:38 PM
+BAG:hokage1 add 39xHoa hồng đỏ (old: 38) lydo: Nhặt từ map at 03/12/2023 12:38 PM
+BAG:hokage1 add 99xViên Capsule kì bí (old: 98) lydo: Nhặt từ map at 03/12/2023 12:38 PM
+BAG:hokage1 add 1xViên Capsule kì bí lydo: Nhặt từ map at 03/12/2023 12:38 PM
+BAG:hokage1 add 2xViên Capsule kì bí (old: 1) lydo: Nhặt từ map at 03/12/2023 12:38 PM
+BAG:hokage1 add 1xĐá Titan lydo: Nhặt từ map at 03/12/2023 12:38 PM
+BAG:hokage1 add 162xHoa hồng vàng (old: 161) lydo: Nhặt từ map at 03/12/2023 12:38 PM
+BAG:hokage1 add 163xHoa hồng vàng (old: 162) lydo: Nhặt từ map at 03/12/2023 12:38 PM
+BAG:hokage1 add 164xHoa hồng vàng (old: 163) lydo: Nhặt từ map at 03/12/2023 12:38 PM
+BAG:hokage1 add 3xViên Capsule kì bí (old: 2) lydo: Nhặt từ map at 03/12/2023 12:38 PM
+BAG:hokage1 add 1xHoa hồng đỏ lydo: Nhặt từ map at 03/12/2023 12:39 PM
+BAG:hokage1 add 165xHoa hồng vàng (old: 164) lydo: Nhặt từ map at 03/12/2023 12:39 PM
+BAG:hokage1 add 1xHoa hồng xanh lydo: Nhặt từ map at 03/12/2023 12:39 PM
+BAG:hokage1 add 1xHoa hồng vàng lydo: Nhặt từ map at 03/12/2023 12:39 PM
+BAG:hokage1 add 4xViên Capsule kì bí (old: 3) lydo: Nhặt từ map at 03/12/2023 12:39 PM
+BAG:hokage1 add 5xViên Capsule kì bí (old: 4) lydo: Nhặt từ map at 03/12/2023 12:39 PM
+BAG:hokage1 add 21xNgọc Rồng 6 sao (old: 20) lydo: Nhặt từ map at 03/12/2023 12:39 PM
+BAG:hokage1 add 1xHoa hồng vàng lydo: Nhặt từ map at 03/12/2023 12:39 PM
+BAG:hokage1 add 2xHoa hồng xanh (old: 1) lydo: Nhặt từ map at 03/12/2023 12:39 PM
+BAG:hokage1 add 2xHoa hồng vàng (old: 1) lydo: Nhặt từ map at 03/12/2023 12:39 PM
+BAG:hokage1 add 3xHoa hồng vàng (old: 2) lydo: Nhặt từ map at 03/12/2023 12:39 PM
+BAG:hokage1 add 3xHoa hồng xanh (old: 2) lydo: Nhặt từ map at 03/12/2023 12:39 PM
+BAG:hokage1 add 4xHoa hồng vàng (old: 3) lydo: Nhặt từ map at 03/12/2023 12:39 PM
+BAG:hokage1 add 6xViên Capsule kì bí (old: 5) lydo: Nhặt từ map at 03/12/2023 12:39 PM
+BAG:hokage1 add 5xHoa hồng vàng (old: 4) lydo: Nhặt từ map at 03/12/2023 12:39 PM
+BAG:hokage1 add 4xHoa hồng xanh (old: 3) lydo: Nhặt từ map at 03/12/2023 12:39 PM
+BAG:hokage1 add 22xNgọc Rồng 6 sao (old: 21) lydo: Nhặt từ map at 03/12/2023 12:39 PM
+BAG:hokage1 add 6xHoa hồng vàng (old: 5) lydo: Nhặt từ map at 03/12/2023 12:39 PM
+BAG:hokage1 add 7xViên Capsule kì bí (old: 6) lydo: Nhặt từ map at 03/12/2023 12:40 PM
+BAG:hokage1 add 44xNgọc Rồng 4 sao (old: 43) lydo: Nhặt từ map at 03/12/2023 12:40 PM
+BAG:hokage1 add 8xViên Capsule kì bí (old: 7) lydo: Nhặt từ map at 03/12/2023 12:40 PM
+BAG:hokage1 add 45xNgọc Rồng 4 sao (old: 44) lydo: Nhặt từ map at 03/12/2023 12:40 PM
+BAG:hokage1 add 7xHoa hồng vàng (old: 6) lydo: Nhặt từ map at 03/12/2023 12:40 PM
+BAG:hokage1 add 9xViên Capsule kì bí (old: 8) lydo: Nhặt từ map at 03/12/2023 12:40 PM
+BAG:hokage1 add 10xViên Capsule kì bí (old: 9) lydo: Nhặt từ map at 03/12/2023 12:40 PM
+BAG:hokage1 add 1xHoa hồng đỏ lydo: Nhặt từ map at 03/12/2023 12:40 PM
+BAG:hokage1 add 11xViên Capsule kì bí (old: 10) lydo: Nhặt từ map at 03/12/2023 12:40 PM
+BAG:hokage1 add 2xHoa hồng đỏ (old: 1) lydo: Nhặt từ map at 03/12/2023 12:40 PM
+BAG:hokage1 add 8xHoa hồng vàng (old: 7) lydo: Nhặt từ map at 03/12/2023 12:40 PM
+BAG:hokage1 add 12xViên Capsule kì bí (old: 11) lydo: Nhặt từ map at 03/12/2023 12:40 PM
+BAG:hokage1 add 3xHoa hồng đỏ (old: 2) lydo: Nhặt từ map at 03/12/2023 12:40 PM
+BAG:hokage1 add 1xĐá lục bảo lydo: Nhặt từ map at 03/12/2023 12:40 PM
+BAG:hokage1 add 4xHoa hồng đỏ (old: 3) lydo: Nhặt từ map at 03/12/2023 12:40 PM
+BAG:hokage1 add 13xViên Capsule kì bí (old: 12) lydo: Nhặt từ map at 03/12/2023 12:40 PM
+BAG:hokage1 add 14xViên Capsule kì bí (old: 13) lydo: Nhặt từ map at 03/12/2023 12:41 PM
+BAG:hokage1 add 9xHoa hồng vàng (old: 8) lydo: Nhặt từ map at 03/12/2023 12:41 PM
+BAG:hokage1 add 5xHoa hồng đỏ (old: 4) lydo: Nhặt từ map at 03/12/2023 12:41 PM
+BAG:hokage1 add 5xHoa hồng xanh (old: 4) lydo: Nhặt từ map at 03/12/2023 12:41 PM
+BAG:hokage1 add 10xHoa hồng vàng (old: 9) lydo: Nhặt từ map at 03/12/2023 12:41 PM
+BAG:hokage1 add 15xViên Capsule kì bí (old: 14) lydo: Nhặt từ map at 03/12/2023 12:41 PM
+BAG:hokage1 add 11xHoa hồng vàng (old: 10) lydo: Nhặt từ map at 03/12/2023 12:41 PM
+BAG:hokage1 add 16xViên Capsule kì bí (old: 15) lydo: Nhặt từ map at 03/12/2023 12:41 PM
+BAG:hokage1 add 6xHoa hồng đỏ (old: 5) lydo: Nhặt từ map at 03/12/2023 12:41 PM
+BAG:hokage1 add 18xNgọc Rồng 5 sao (old: 17) lydo: Nhặt từ map at 03/12/2023 12:41 PM
+BAG:hokage1 add 12xHoa hồng vàng (old: 11) lydo: Nhặt từ map at 03/12/2023 12:41 PM
+BAG:hokage1 add 17xViên Capsule kì bí (old: 16) lydo: Nhặt từ map at 03/12/2023 12:41 PM
+BAG:hokage1 add 7xHoa hồng đỏ (old: 6) lydo: Nhặt từ map at 03/12/2023 12:41 PM
+BAG:hokage1 add 18xViên Capsule kì bí (old: 17) lydo: Nhặt từ map at 03/12/2023 12:41 PM
+BAG:hokage1 add 6xHoa hồng xanh (old: 5) lydo: Nhặt từ map at 03/12/2023 12:41 PM
+BAG:hokage1 add 8xHoa hồng đỏ (old: 7) lydo: Nhặt từ map at 03/12/2023 12:41 PM
+BAG:hokage1 add 7xHoa hồng xanh (old: 6) lydo: Nhặt từ map at 03/12/2023 12:41 PM
+BAG:hokage1 add 19xViên Capsule kì bí (old: 18) lydo: Nhặt từ map at 03/12/2023 12:42 PM
+BAG:hokage1 add 20xViên Capsule kì bí (old: 19) lydo: Nhặt từ map at 03/12/2023 12:42 PM
+BAG:hokage1 add 13xHoa hồng vàng (old: 12) lydo: Nhặt từ map at 03/12/2023 12:42 PM
+BAG:hokage1 add 21xViên Capsule kì bí (old: 20) lydo: Nhặt từ map at 03/12/2023 12:42 PM
+BAG:hokage1 add 14xHoa hồng vàng (old: 13) lydo: Nhặt từ map at 03/12/2023 12:42 PM
+BAG:hokage1 add 22xViên Capsule kì bí (old: 21) lydo: Nhặt từ map at 03/12/2023 12:42 PM
+BAG:hokage1 add 23xViên Capsule kì bí (old: 22) lydo: Nhặt từ map at 03/12/2023 12:42 PM
+BAG:hokage1 add 8xHoa hồng xanh (old: 7) lydo: Nhặt từ map at 03/12/2023 12:42 PM
+BAG:hokage1 add 24xViên Capsule kì bí (old: 23) lydo: Nhặt từ map at 03/12/2023 12:42 PM
+BAG:hokage1 add 46xNgọc Rồng 4 sao (old: 45) lydo: Nhặt từ map at 03/12/2023 12:42 PM
+BAG:hokage1 add 9xHoa hồng xanh (old: 8) lydo: Nhặt từ map at 03/12/2023 12:42 PM
+BAG:hokage1 add 15xHoa hồng vàng (old: 14) lydo: Nhặt từ map at 03/12/2023 12:42 PM
+BAG:hokage1 add 25xViên Capsule kì bí (old: 24) lydo: Nhặt từ map at 03/12/2023 12:42 PM
+BAG:hokage1 add 26xViên Capsule kì bí (old: 25) lydo: Nhặt từ map at 03/12/2023 12:42 PM
+BAG:hokage1 add 10xHoa hồng xanh (old: 9) lydo: Nhặt từ map at 03/12/2023 12:42 PM
+BAG:hokage1 add 2xĐá lục bảo (old: 1) lydo: Nhặt từ map at 03/12/2023 12:42 PM
+BAG:hokage1 add 27xViên Capsule kì bí (old: 26) lydo: Nhặt từ map at 03/12/2023 12:42 PM
+BAG:hokage1 add 28xViên Capsule kì bí (old: 27) lydo: Nhặt từ map at 03/12/2023 12:42 PM
+BAG:hokage1 add 29xViên Capsule kì bí (old: 28) lydo: Nhặt từ map at 03/12/2023 12:42 PM
+BAG:hokage1 add 30xViên Capsule kì bí (old: 29) lydo: Nhặt từ map at 03/12/2023 12:43 PM
+BAG:hokage1 add 31xViên Capsule kì bí (old: 30) lydo: Nhặt từ map at 03/12/2023 12:43 PM
+BAG:hokage1 add 32xViên Capsule kì bí (old: 31) lydo: Nhặt từ map at 03/12/2023 12:43 PM
+BAG:hokage1 add 33xViên Capsule kì bí (old: 32) lydo: Nhặt từ map at 03/12/2023 12:43 PM
+BAG:hokage1 add 34xViên Capsule kì bí (old: 33) lydo: Nhặt từ map at 03/12/2023 12:43 PM
+BAG:hokage1 add 9xHoa hồng đỏ (old: 8) lydo: Nhặt từ map at 03/12/2023 12:43 PM
+BAG:hokage1 add 47xNgọc Rồng 4 sao (old: 46) lydo: Nhặt từ map at 03/12/2023 12:43 PM
+BAG:hokage1 add 35xViên Capsule kì bí (old: 34) lydo: Nhặt từ map at 03/12/2023 12:43 PM
+BAG:hokage1 add 36xViên Capsule kì bí (old: 35) lydo: Nhặt từ map at 03/12/2023 12:43 PM
+BAG:hokage1 add 10xHoa hồng đỏ (old: 9) lydo: Nhặt từ map at 03/12/2023 12:43 PM
+BAG:hokage1 add 11xHoa hồng xanh (old: 10) lydo: Nhặt từ map at 03/12/2023 12:43 PM
+BAG:hokage1 add 12xHoa hồng xanh (old: 11) lydo: Nhặt từ map at 03/12/2023 12:43 PM
+BAG:hokage1 add 37xViên Capsule kì bí (old: 36) lydo: Nhặt từ map at 03/12/2023 12:43 PM
+BAG:hokage1 add 16xHoa hồng vàng (old: 15) lydo: Nhặt từ map at 03/12/2023 12:43 PM
+BAG:hokage1 add 13xHoa hồng xanh (old: 12) lydo: Nhặt từ map at 03/12/2023 12:43 PM
+BAG:hokage1 add 38xViên Capsule kì bí (old: 37) lydo: Nhặt từ map at 03/12/2023 12:43 PM
+BAG:hokage1 add 39xViên Capsule kì bí (old: 38) lydo: Nhặt từ map at 03/12/2023 12:43 PM
+BAG:hokage1 add 14xHoa hồng xanh (old: 13) lydo: Nhặt từ map at 03/12/2023 12:43 PM
+BAG:hokage1 add 17xHoa hồng vàng (old: 16) lydo: Nhặt từ map at 03/12/2023 12:43 PM
+BAG:hokage1 add 15xHoa hồng xanh (old: 14) lydo: Nhặt từ map at 03/12/2023 12:43 PM
+BAG:hokage1 add 40xViên Capsule kì bí (old: 39) lydo: Nhặt từ map at 03/12/2023 12:43 PM
+BAG:hokage1 add 16xHoa hồng xanh (old: 15) lydo: Nhặt từ map at 03/12/2023 12:43 PM
+BAG:hokage1 add 11xHoa hồng đỏ (old: 10) lydo: Nhặt từ map at 03/12/2023 12:43 PM
+BAG:hokage1 add 41xViên Capsule kì bí (old: 40) lydo: Nhặt từ map at 03/12/2023 12:44 PM
+BAG:hokage1 add 42xViên Capsule kì bí (old: 41) lydo: Nhặt từ map at 03/12/2023 12:44 PM
+BAG:hokage1 add 18xHoa hồng vàng (old: 17) lydo: Nhặt từ map at 03/12/2023 12:44 PM
+BAG:hokage1 add 19xHoa hồng vàng (old: 18) lydo: Nhặt từ map at 03/12/2023 12:44 PM
+BAG:hokage1 add 12xHoa hồng đỏ (old: 11) lydo: Nhặt từ map at 03/12/2023 12:44 PM
+BAG:hokage1 add 48xNgọc Rồng 4 sao (old: 47) lydo: Nhặt từ map at 03/12/2023 12:44 PM
+BAG:hokage1 add 20xHoa hồng vàng (old: 19) lydo: Nhặt từ map at 03/12/2023 12:44 PM
+BAG:hokage1 add 13xHoa hồng đỏ (old: 12) lydo: Nhặt từ map at 03/12/2023 12:44 PM
+BAG:hokage1 add 43xViên Capsule kì bí (old: 42) lydo: Nhặt từ map at 03/12/2023 12:44 PM
+BAG:hokage1 add 21xHoa hồng vàng (old: 20) lydo: Nhặt từ map at 03/12/2023 12:44 PM
+BAG:hokage1 add 44xViên Capsule kì bí (old: 43) lydo: Nhặt từ map at 03/12/2023 12:44 PM
+BAG:hokage1 add 45xViên Capsule kì bí (old: 44) lydo: Nhặt từ map at 03/12/2023 12:44 PM
+BAG:hokage1 add 17xHoa hồng xanh (old: 16) lydo: Nhặt từ map at 03/12/2023 12:44 PM
+BAG:hokage1 add 22xHoa hồng vàng (old: 21) lydo: Nhặt từ map at 03/12/2023 12:44 PM
+BAG:hokage1 add 23xHoa hồng vàng (old: 22) lydo: Nhặt từ map at 03/12/2023 12:44 PM
+BAG:hokage1 add 49xNgọc Rồng 4 sao (old: 48) lydo: Nhặt từ map at 03/12/2023 12:44 PM
+BAG:hokage1 add 14xHoa hồng đỏ (old: 13) lydo: Nhặt từ map at 03/12/2023 12:44 PM
+BAG:hokage1 add 18xHoa hồng xanh (old: 17) lydo: Nhặt từ map at 03/12/2023 12:44 PM
+BAG:hokage1 add 46xViên Capsule kì bí (old: 45) lydo: Nhặt từ map at 03/12/2023 12:44 PM
+BAG:hokage1 add 47xViên Capsule kì bí (old: 46) lydo: Nhặt từ map at 03/12/2023 12:45 PM
+BAG:hokage1 add 24xHoa hồng vàng (old: 23) lydo: Nhặt từ map at 03/12/2023 12:45 PM
+BAG:hokage1 add 25xHoa hồng vàng (old: 24) lydo: Nhặt từ map at 03/12/2023 12:45 PM
+BAG:hokage1 add 19xHoa hồng xanh (old: 18) lydo: Nhặt từ map at 03/12/2023 12:45 PM
+BAG:hokage1 add 26xHoa hồng vàng (old: 25) lydo: Nhặt từ map at 03/12/2023 12:45 PM
+BAG:hokage1 add 48xViên Capsule kì bí (old: 47) lydo: Nhặt từ map at 03/12/2023 12:45 PM
+BAG:hokage1 add 27xHoa hồng vàng (old: 26) lydo: Nhặt từ map at 03/12/2023 12:45 PM
+BAG:hokage1 add 15xHoa hồng đỏ (old: 14) lydo: Nhặt từ map at 03/12/2023 12:45 PM
+BAG:hokage1 add 20xHoa hồng xanh (old: 19) lydo: Nhặt từ map at 03/12/2023 12:45 PM
+BAG:hokage1 add 16xHoa hồng đỏ (old: 15) lydo: Nhặt từ map at 03/12/2023 12:45 PM
+BAG:hokage1 add 21xHoa hồng xanh (old: 20) lydo: Nhặt từ map at 03/12/2023 12:45 PM
+BAG:hokage1 add 17xHoa hồng đỏ (old: 16) lydo: Nhặt từ map at 03/12/2023 12:45 PM
+BAG:hokage1 add 18xHoa hồng đỏ (old: 17) lydo: Nhặt từ map at 03/12/2023 12:45 PM
+BAG:hokage1 add 23xNgọc Rồng 6 sao (old: 22) lydo: Nhặt từ map at 03/12/2023 12:45 PM
+BAG:hokage1 add 28xHoa hồng vàng (old: 27) lydo: Nhặt từ map at 03/12/2023 12:45 PM
+BAG:hokage1 add 49xViên Capsule kì bí (old: 48) lydo: Nhặt từ map at 03/12/2023 12:45 PM
+BAG:hokage1 add 22xHoa hồng xanh (old: 21) lydo: Nhặt từ map at 03/12/2023 12:45 PM
+BAG:hokage1 add 50xViên Capsule kì bí (old: 49) lydo: Nhặt từ map at 03/12/2023 12:45 PM
+BAG:hokage1 add 3xĐá lục bảo (old: 2) lydo: Nhặt từ map at 03/12/2023 12:45 PM
+BAG:hokage1 add 19xHoa hồng đỏ (old: 18) lydo: Nhặt từ map at 03/12/2023 12:45 PM
+BAG:hokage1 add 23xHoa hồng xanh (old: 22) lydo: Nhặt từ map at 03/12/2023 12:45 PM
+BAG:hokage1 add 24xHoa hồng xanh (old: 23) lydo: Nhặt từ map at 03/12/2023 12:45 PM
+BAG:hokage1 add 20xHoa hồng đỏ (old: 19) lydo: Nhặt từ map at 03/12/2023 12:45 PM
+BAG:hokage1 add 51xViên Capsule kì bí (old: 50) lydo: Nhặt từ map at 03/12/2023 12:46 PM
+BAG:hokage1 add 52xViên Capsule kì bí (old: 51) lydo: Nhặt từ map at 03/12/2023 12:46 PM
+BAG:hokage1 add 53xViên Capsule kì bí (old: 52) lydo: Nhặt từ map at 03/12/2023 12:46 PM
+BAG:hokage1 add 54xViên Capsule kì bí (old: 53) lydo: Nhặt từ map at 03/12/2023 12:46 PM
+BAG:hokage1 add 55xViên Capsule kì bí (old: 54) lydo: Nhặt từ map at 03/12/2023 12:46 PM
+BAG:hokage1 add 56xViên Capsule kì bí (old: 55) lydo: Nhặt từ map at 03/12/2023 12:46 PM
+BAG:hokage1 add 57xViên Capsule kì bí (old: 56) lydo: Nhặt từ map at 03/12/2023 12:46 PM
+BAG:hokage1 add 58xViên Capsule kì bí (old: 57) lydo: Nhặt từ map at 03/12/2023 12:46 PM
+BAG:hokage1 add 29xHoa hồng vàng (old: 28) lydo: Nhặt từ map at 03/12/2023 12:46 PM
+BAG:hokage1 add 25xHoa hồng xanh (old: 24) lydo: Nhặt từ map at 03/12/2023 12:46 PM
+BAG:hokage1 add 21xHoa hồng đỏ (old: 20) lydo: Nhặt từ map at 03/12/2023 12:46 PM
+BAG:hokage1 add 59xViên Capsule kì bí (old: 58) lydo: Nhặt từ map at 03/12/2023 12:46 PM
+BAG:hokage1 add 30xHoa hồng vàng (old: 29) lydo: Nhặt từ map at 03/12/2023 12:46 PM
+BAG:hokage1 add 26xHoa hồng xanh (old: 25) lydo: Nhặt từ map at 03/12/2023 12:46 PM
+BAG:hokage1 add 22xHoa hồng đỏ (old: 21) lydo: Nhặt từ map at 03/12/2023 12:46 PM
+BAG:hokage1 add 31xHoa hồng vàng (old: 30) lydo: Nhặt từ map at 03/12/2023 12:47 PM
+BAG:hokage1 add 27xHoa hồng xanh (old: 26) lydo: Nhặt từ map at 03/12/2023 12:47 PM
+BAG:hokage1 add 60xViên Capsule kì bí (old: 59) lydo: Nhặt từ map at 03/12/2023 12:47 PM
+BAG:hokage1 add 23xHoa hồng đỏ (old: 22) lydo: Nhặt từ map at 03/12/2023 12:47 PM
+BAG:hokage1 add 50xNgọc Rồng 4 sao (old: 49) lydo: Nhặt từ map at 03/12/2023 12:47 PM
+BAG:hokage1 add 32xHoa hồng vàng (old: 31) lydo: Nhặt từ map at 03/12/2023 12:47 PM
+BAG:hokage1 add 28xHoa hồng xanh (old: 27) lydo: Nhặt từ map at 03/12/2023 12:47 PM
+BAG:hokage1 add 61xViên Capsule kì bí (old: 60) lydo: Nhặt từ map at 03/12/2023 12:47 PM
+BAG:hokage1 add 62xViên Capsule kì bí (old: 61) lydo: Nhặt từ map at 03/12/2023 12:47 PM
+BAG:hokage1 add 63xViên Capsule kì bí (old: 62) lydo: Nhặt từ map at 03/12/2023 12:47 PM
+BAG:hokage1 add 64xViên Capsule kì bí (old: 63) lydo: Nhặt từ map at 03/12/2023 12:47 PM
+BAG:hokage1 add 65xViên Capsule kì bí (old: 64) lydo: Nhặt từ map at 03/12/2023 12:47 PM
+BAG:hokage1 add 66xViên Capsule kì bí (old: 65) lydo: Nhặt từ map at 03/12/2023 12:47 PM
+BAG:hokage1 add 1xĐá Titan lydo: Nhặt từ map at 03/12/2023 12:47 PM
+BAG:hokage1 add 24xHoa hồng đỏ (old: 23) lydo: Nhặt từ map at 03/12/2023 12:48 PM
+BAG:hokage1 add 33xHoa hồng vàng (old: 32) lydo: Nhặt từ map at 03/12/2023 12:48 PM
+BAG:hokage1 add 34xHoa hồng vàng (old: 33) lydo: Nhặt từ map at 03/12/2023 12:48 PM
+BAG:hokage1 add 1xĐá thạch anh tím lydo: Nhặt từ map at 03/12/2023 12:48 PM
+BAG:hokage1 add 67xViên Capsule kì bí (old: 66) lydo: Nhặt từ map at 03/12/2023 12:48 PM
+BAG:hokage1 add 68xViên Capsule kì bí (old: 67) lydo: Nhặt từ map at 03/12/2023 12:48 PM
+BAG:hokage1 add 69xViên Capsule kì bí (old: 68) lydo: Nhặt từ map at 03/12/2023 12:48 PM
+BAG:hokage1 add 70xViên Capsule kì bí (old: 69) lydo: Nhặt từ map at 03/12/2023 12:48 PM
+BAG:hokage1 add 71xViên Capsule kì bí (old: 70) lydo: Nhặt từ map at 03/12/2023 12:48 PM
+BAG:hokage1 add 35xHoa hồng vàng (old: 34) lydo: Nhặt từ map at 03/12/2023 12:48 PM
+BAG:hokage1 add 36xHoa hồng vàng (old: 35) lydo: Nhặt từ map at 03/12/2023 12:48 PM
+BAG:hokage1 add 72xViên Capsule kì bí (old: 71) lydo: Nhặt từ map at 03/12/2023 12:48 PM
+BAG:hokage1 add 37xHoa hồng vàng (old: 36) lydo: Nhặt từ map at 03/12/2023 12:48 PM
+BAG:hokage1 add 19xNgọc Rồng 5 sao (old: 18) lydo: Nhặt từ map at 03/12/2023 12:48 PM
+BAG:hokage1 add 38xHoa hồng vàng (old: 37) lydo: Nhặt từ map at 03/12/2023 12:49 PM
+BAG:hokage1 add 2xĐá Titan (old: 1) lydo: Nhặt từ map at 03/12/2023 12:49 PM
+BAG:hokage1 add 39xHoa hồng vàng (old: 38) lydo: Nhặt từ map at 03/12/2023 12:49 PM
+BAG:hokage1 add 73xViên Capsule kì bí (old: 72) lydo: Nhặt từ map at 03/12/2023 12:49 PM
+BAG:hokage1 add 74xViên Capsule kì bí (old: 73) lydo: Nhặt từ map at 03/12/2023 12:49 PM
+BAG:hokage1 add 75xViên Capsule kì bí (old: 74) lydo: Nhặt từ map at 03/12/2023 12:49 PM
+BAG:hokage1 add 76xViên Capsule kì bí (old: 75) lydo: Nhặt từ map at 03/12/2023 12:49 PM
+BAG:hokage1 add 40xHoa hồng vàng (old: 39) lydo: Nhặt từ map at 03/12/2023 12:49 PM
+BAG:hokage1 add 41xHoa hồng vàng (old: 40) lydo: Nhặt từ map at 03/12/2023 12:49 PM
+BAG:hokage1 add 77xViên Capsule kì bí (old: 76) lydo: Nhặt từ map at 03/12/2023 12:49 PM
+BAG:hokage1 add 78xViên Capsule kì bí (old: 77) lydo: Nhặt từ map at 03/12/2023 12:49 PM
+BAG:hokage1 add 79xViên Capsule kì bí (old: 78) lydo: Nhặt từ map at 03/12/2023 12:49 PM
+BAG:hokage1 add 80xViên Capsule kì bí (old: 79) lydo: Nhặt từ map at 03/12/2023 12:49 PM
+BAG:hokage1 add 42xHoa hồng vàng (old: 41) lydo: Nhặt từ map at 03/12/2023 12:49 PM
+BAG:hokage1 add 81xViên Capsule kì bí (old: 80) lydo: Nhặt từ map at 03/12/2023 12:49 PM
+BAG:hokage1 add 43xHoa hồng vàng (old: 42) lydo: Nhặt từ map at 03/12/2023 12:49 PM
+BAG:hokage1 add 44xHoa hồng vàng (old: 43) lydo: Nhặt từ map at 03/12/2023 12:49 PM
+BAG:hokage1 add 2xĐá thạch anh tím (old: 1) lydo: Nhặt từ map at 03/12/2023 12:50 PM
+BAG:hokage1 add 82xViên Capsule kì bí (old: 81) lydo: Nhặt từ map at 03/12/2023 12:50 PM
+BAG:hokage1 add 45xHoa hồng vàng (old: 44) lydo: Nhặt từ map at 03/12/2023 12:50 PM
+BAG:hokage1 add 83xViên Capsule kì bí (old: 82) lydo: Nhặt từ map at 03/12/2023 12:50 PM
+BAG:hokage1 add 46xHoa hồng vàng (old: 45) lydo: Nhặt từ map at 03/12/2023 12:50 PM
+BAG:hokage1 add 47xHoa hồng vàng (old: 46) lydo: Nhặt từ map at 03/12/2023 12:50 PM
+BAG:hokage1 add 48xHoa hồng vàng (old: 47) lydo: Nhặt từ map at 03/12/2023 12:50 PM
+BAG:hokage1 add 49xHoa hồng vàng (old: 48) lydo: Nhặt từ map at 03/12/2023 12:50 PM
+BAG:hokage1 add 50xHoa hồng vàng (old: 49) lydo: Nhặt từ map at 03/12/2023 12:50 PM
+BAG:hokage1 add 84xViên Capsule kì bí (old: 83) lydo: Nhặt từ map at 03/12/2023 12:50 PM
+BAG:hokage1 add 85xViên Capsule kì bí (old: 84) lydo: Nhặt từ map at 03/12/2023 12:50 PM
+BAG:hokage1 add 51xNgọc Rồng 4 sao (old: 50) lydo: Nhặt từ map at 03/12/2023 12:50 PM
+BAG:hokage1 add 51xHoa hồng vàng (old: 50) lydo: Nhặt từ map at 03/12/2023 12:50 PM
+BAG:hokage1 add 52xNgọc Rồng 4 sao (old: 51) lydo: Nhặt từ map at 03/12/2023 12:51 PM
+BAG:hokage1 add 86xViên Capsule kì bí (old: 85) lydo: Nhặt từ map at 03/12/2023 12:51 PM
+BAG:hokage1 add 20xNgọc Rồng 5 sao (old: 19) lydo: Nhặt từ map at 03/12/2023 12:51 PM
+BAG:hokage1 add 87xViên Capsule kì bí (old: 86) lydo: Nhặt từ map at 03/12/2023 12:51 PM
+BAG:hokage1 add 88xViên Capsule kì bí (old: 87) lydo: Nhặt từ map at 03/12/2023 12:51 PM
+BAG:hokage1 add 89xViên Capsule kì bí (old: 88) lydo: Nhặt từ map at 03/12/2023 12:51 PM
+BAG:hokage1 add 52xHoa hồng vàng (old: 51) lydo: Nhặt từ map at 03/12/2023 12:51 PM
+BAG:hokage1 add 90xViên Capsule kì bí (old: 89) lydo: Nhặt từ map at 03/12/2023 12:51 PM
+BAG:hokage1 add 53xHoa hồng vàng (old: 52) lydo: Nhặt từ map at 03/12/2023 12:51 PM
+BAG:hokage1 add 91xViên Capsule kì bí (old: 90) lydo: Nhặt từ map at 03/12/2023 12:51 PM
+BAG:hokage1 add 54xHoa hồng vàng (old: 53) lydo: Nhặt từ map at 03/12/2023 12:51 PM
+BAG:hokage1 add 92xViên Capsule kì bí (old: 91) lydo: Nhặt từ map at 03/12/2023 12:51 PM
+BAG:hokage1 add 93xViên Capsule kì bí (old: 92) lydo: Nhặt từ map at 03/12/2023 12:51 PM
+BAG:hokage1 add 94xViên Capsule kì bí (old: 93) lydo: Nhặt từ map at 03/12/2023 12:51 PM
+BAG:hokage1 add 55xHoa hồng vàng (old: 54) lydo: Nhặt từ map at 03/12/2023 12:51 PM
+BAG:hokage1 add 95xViên Capsule kì bí (old: 94) lydo: Nhặt từ map at 03/12/2023 12:51 PM
+BAG:hokage1 add 56xHoa hồng vàng (old: 55) lydo: Nhặt từ map at 03/12/2023 12:51 PM
+BAG:hokage1 add 57xHoa hồng vàng (old: 56) lydo: Nhặt từ map at 03/12/2023 12:51 PM
+BAG:hokage1 add 96xViên Capsule kì bí (old: 95) lydo: Nhặt từ map at 03/12/2023 12:51 PM
+BAG:hokage1 add 3xĐá Titan (old: 2) lydo: Nhặt từ map at 03/12/2023 12:51 PM
+BAG:hokage1 add 97xViên Capsule kì bí (old: 96) lydo: Nhặt từ map at 03/12/2023 12:52 PM
+BAG:hokage1 add 98xViên Capsule kì bí (old: 97) lydo: Nhặt từ map at 03/12/2023 12:52 PM
+BAG:hokage1 add 99xViên Capsule kì bí (old: 98) lydo: Nhặt từ map at 03/12/2023 12:52 PM
+BAG:hokage1 add 3xĐá thạch anh tím (old: 2) lydo: Nhặt từ map at 03/12/2023 12:52 PM
+BAG:hokage1 add 58xHoa hồng vàng (old: 57) lydo: Nhặt từ map at 03/12/2023 12:52 PM
+BAG:hokage1 add 59xHoa hồng vàng (old: 58) lydo: Nhặt từ map at 03/12/2023 12:52 PM
+BAG:hokage1 add 60xHoa hồng vàng (old: 59) lydo: Nhặt từ map at 03/12/2023 12:53 PM
+BAG:hokage1 add 61xHoa hồng vàng (old: 60) lydo: Nhặt từ map at 03/12/2023 12:53 PM
+BAG:hokage1 add 62xHoa hồng vàng (old: 61) lydo: Nhặt từ map at 03/12/2023 12:53 PM
+BAG:hokage1 add 24xNgọc Rồng 6 sao (old: 23) lydo: Nhặt từ map at 03/12/2023 12:53 PM
+BAG:hokage1 add 63xHoa hồng vàng (old: 62) lydo: Nhặt từ map at 03/12/2023 12:53 PM
+BAG:hokage1 add 64xHoa hồng vàng (old: 63) lydo: Nhặt từ map at 03/12/2023 12:53 PM
+BAG:hokage1 add 1xHoa hồng xanh lydo: Nhặt từ map at 03/12/2023 12:53 PM
+BAG:hokage1 add 65xHoa hồng vàng (old: 64) lydo: Nhặt từ map at 03/12/2023 12:53 PM
+BAG:hokage1 add 2xHoa hồng xanh (old: 1) lydo: Nhặt từ map at 03/12/2023 12:53 PM
+BAG:hokage1 add 1xViên Capsule kì bí lydo: Nhặt từ map at 03/12/2023 12:54 PM
+BAG:hokage1 add 2xViên Capsule kì bí (old: 1) lydo: Nhặt từ map at 03/12/2023 12:54 PM
+BAG:hokage1 add 1xĐá lục bảo lydo: Nhặt từ map at 03/12/2023 12:54 PM
+BAG:hokage1 add 1xHoa hồng đỏ lydo: Nhặt từ map at 03/12/2023 12:54 PM
+BAG:hokage1 add 2xHoa hồng đỏ (old: 1) lydo: Nhặt từ map at 03/12/2023 12:54 PM
+BAG:hokage1 add 3xViên Capsule kì bí (old: 2) lydo: Nhặt từ map at 03/12/2023 12:54 PM
+BAG:hokage1 add 4xĐá thạch anh tím (old: 3) lydo: Nhặt từ map at 03/12/2023 12:54 PM
+BAG:hokage1 add 4xViên Capsule kì bí (old: 3) lydo: Nhặt từ map at 03/12/2023 12:54 PM
+BAG:hokage1 add 5xViên Capsule kì bí (old: 4) lydo: Nhặt từ map at 03/12/2023 12:54 PM
+BAG:hokage1 add 6xViên Capsule kì bí (old: 5) lydo: Nhặt từ map at 03/12/2023 12:54 PM
+BAG:hokage1 add 7xViên Capsule kì bí (old: 6) lydo: Nhặt từ map at 03/12/2023 12:54 PM
+BAG:hokage1 add 8xViên Capsule kì bí (old: 7) lydo: Nhặt từ map at 03/12/2023 12:55 PM
+BAG:hokage1 add 9xViên Capsule kì bí (old: 8) lydo: Nhặt từ map at 03/12/2023 12:55 PM
+BAG:hokage1 add 10xViên Capsule kì bí (old: 9) lydo: Nhặt từ map at 03/12/2023 12:55 PM
+BAG:hokage1 add 11xViên Capsule kì bí (old: 10) lydo: Nhặt từ map at 03/12/2023 12:55 PM
+BAG:hokage1 add 12xViên Capsule kì bí (old: 11) lydo: Nhặt từ map at 03/12/2023 12:55 PM
+BAG:hokage1 add 3xHoa hồng đỏ (old: 2) lydo: Nhặt từ map at 03/12/2023 12:55 PM
+BAG:hokage1 add 13xViên Capsule kì bí (old: 12) lydo: Nhặt từ map at 03/12/2023 12:55 PM
+BAG:hokage1 add 14xViên Capsule kì bí (old: 13) lydo: Nhặt từ map at 03/12/2023 12:55 PM
+BAG:hokage1 add 15xViên Capsule kì bí (old: 14) lydo: Nhặt từ map at 03/12/2023 12:55 PM
+BAG:hokage1 add 16xViên Capsule kì bí (old: 15) lydo: Nhặt từ map at 03/12/2023 12:55 PM
+BAG:hokage1 add 17xViên Capsule kì bí (old: 16) lydo: Nhặt từ map at 03/12/2023 12:55 PM
+BAG:hokage1 add 18xViên Capsule kì bí (old: 17) lydo: Nhặt từ map at 03/12/2023 12:55 PM
+BAG:hokage1 add 4xHoa hồng đỏ (old: 3) lydo: Nhặt từ map at 03/12/2023 12:55 PM
+BAG:hokage1 add 19xViên Capsule kì bí (old: 18) lydo: Nhặt từ map at 03/12/2023 12:56 PM
+BAG:hokage1 add 5xĐá thạch anh tím (old: 4) lydo: Nhặt từ map at 03/12/2023 12:56 PM
+BAG:hokage1 add 5xHoa hồng đỏ (old: 4) lydo: Nhặt từ map at 03/12/2023 12:56 PM
+BAG:hokage1 add 20xViên Capsule kì bí (old: 19) lydo: Nhặt từ map at 03/12/2023 12:56 PM
+BAG:hokage1 add 21xNgọc Rồng 5 sao (old: 20) lydo: Nhặt từ map at 03/12/2023 12:56 PM
+BAG:hokage1 add 21xViên Capsule kì bí (old: 20) lydo: Nhặt từ map at 03/12/2023 12:56 PM
+BAG:hokage1 add 22xViên Capsule kì bí (old: 21) lydo: Nhặt từ map at 03/12/2023 12:56 PM
+BAG:hokage1 add 23xViên Capsule kì bí (old: 22) lydo: Nhặt từ map at 03/12/2023 12:56 PM
+BAG:hokage1 add 6xHoa hồng đỏ (old: 5) lydo: Nhặt từ map at 03/12/2023 12:56 PM
+BAG:hokage1 add 24xViên Capsule kì bí (old: 23) lydo: Nhặt từ map at 03/12/2023 12:56 PM
+BAG:hokage1 add 7xHoa hồng đỏ (old: 6) lydo: Nhặt từ map at 03/12/2023 12:57 PM
+BAG:hokage1 add 25xViên Capsule kì bí (old: 24) lydo: Nhặt từ map at 03/12/2023 12:57 PM
+BAG:hokage1 add 26xViên Capsule kì bí (old: 25) lydo: Nhặt từ map at 03/12/2023 12:57 PM
+BAG:hokage1 add 8xHoa hồng đỏ (old: 7) lydo: Nhặt từ map at 03/12/2023 12:57 PM
+BAG:hokage1 add 27xViên Capsule kì bí (old: 26) lydo: Nhặt từ map at 03/12/2023 12:57 PM
+BAG:hokage1 add 28xViên Capsule kì bí (old: 27) lydo: Nhặt từ map at 03/12/2023 12:57 PM
+BAG:hokage1 add 29xViên Capsule kì bí (old: 28) lydo: Nhặt từ map at 03/12/2023 12:57 PM
+BAG:hokage1 add 30xViên Capsule kì bí (old: 29) lydo: Nhặt từ map at 03/12/2023 12:58 PM
+BAG:hokage1 add 9xHoa hồng đỏ (old: 8) lydo: Nhặt từ map at 03/12/2023 12:58 PM
+BAG:hokage1 add 10xHoa hồng đỏ (old: 9) lydo: Nhặt từ map at 03/12/2023 12:58 PM
+BAG:hokage1 add 31xViên Capsule kì bí (old: 30) lydo: Nhặt từ map at 03/12/2023 12:58 PM
+BAG:hokage1 add 32xViên Capsule kì bí (old: 31) lydo: Nhặt từ map at 03/12/2023 12:58 PM
+BAG:hokage1 add 33xViên Capsule kì bí (old: 32) lydo: Nhặt từ map at 03/12/2023 12:58 PM
+BAG:hokage1 add 34xViên Capsule kì bí (old: 33) lydo: Nhặt từ map at 03/12/2023 12:58 PM
+BAG:hokage1 add 1xĐá Titan lydo: Nhặt từ map at 03/12/2023 12:58 PM
+BAG:hokage1 add 11xHoa hồng đỏ (old: 10) lydo: Nhặt từ map at 03/12/2023 12:58 PM
+BAG:hokage1 add 12xHoa hồng đỏ (old: 11) lydo: Nhặt từ map at 03/12/2023 12:58 PM
+BAG:hokage1 add 35xViên Capsule kì bí (old: 34) lydo: Nhặt từ map at 03/12/2023 12:58 PM
+BAG:hokage1 add 13xHoa hồng đỏ (old: 12) lydo: Nhặt từ map at 03/12/2023 12:58 PM
+BAG:hokage1 add 36xViên Capsule kì bí (old: 35) lydo: Nhặt từ map at 03/12/2023 12:59 PM
+BAG:hokage1 add 14xHoa hồng đỏ (old: 13) lydo: Nhặt từ map at 03/12/2023 12:59 PM
+BAG:hokage1 add 37xViên Capsule kì bí (old: 36) lydo: Nhặt từ map at 03/12/2023 12:59 PM
+BAG:hokage1 add 38xViên Capsule kì bí (old: 37) lydo: Nhặt từ map at 03/12/2023 12:59 PM
+BAG:hokage1 add 15xHoa hồng đỏ (old: 14) lydo: Nhặt từ map at 03/12/2023 12:59 PM
+BAG:hokage1 add 39xViên Capsule kì bí (old: 38) lydo: Nhặt từ map at 03/12/2023 12:59 PM
+BAG:hokage1 add 40xViên Capsule kì bí (old: 39) lydo: Nhặt từ map at 03/12/2023 12:59 PM
+BAG:hokage1 add 41xViên Capsule kì bí (old: 40) lydo: Nhặt từ map at 03/12/2023 12:59 PM
+BAG:hokage1 add 16xHoa hồng đỏ (old: 15) lydo: Nhặt từ map at 03/12/2023 12:59 PM
+BAG:hokage1 add 42xViên Capsule kì bí (old: 41) lydo: Nhặt từ map at 03/12/2023 12:59 PM
+BAG:hokage1 add 17xHoa hồng đỏ (old: 16) lydo: Nhặt từ map at 03/12/2023 12:59 PM
+BAG:hokage1 add 18xHoa hồng đỏ (old: 17) lydo: Nhặt từ map at 03/12/2023 12:59 PM
+BAG:hokage1 add 43xViên Capsule kì bí (old: 42) lydo: Nhặt từ map at 03/12/2023 12:59 PM
+BAG:hokage1 add 25xNgọc Rồng 6 sao (old: 24) lydo: Nhặt từ map at 03/12/2023 12:59 PM
+BAG:hokage1 add 53xNgọc Rồng 4 sao (old: 52) lydo: Nhặt từ map at 03/12/2023 1:00 PM
+BAG:hokage1 add 44xViên Capsule kì bí (old: 43) lydo: Nhặt từ map at 03/12/2023 1:00 PM
+BAG:hokage1 add 45xViên Capsule kì bí (old: 44) lydo: Nhặt từ map at 03/12/2023 1:00 PM
+BAG:hokage1 add 46xViên Capsule kì bí (old: 45) lydo: Nhặt từ map at 03/12/2023 1:00 PM
+BAG:hokage1 add 47xViên Capsule kì bí (old: 46) lydo: Nhặt từ map at 03/12/2023 1:00 PM
+BAG:hokage1 add 48xViên Capsule kì bí (old: 47) lydo: Nhặt từ map at 03/12/2023 1:00 PM
+BAG:hokage1 add 49xViên Capsule kì bí (old: 48) lydo: Nhặt từ map at 03/12/2023 1:00 PM
+BAG:hokage1 add 19xHoa hồng đỏ (old: 18) lydo: Nhặt từ map at 03/12/2023 1:00 PM
+BAG:hokage1 add 50xViên Capsule kì bí (old: 49) lydo: Nhặt từ map at 03/12/2023 1:00 PM
+BAG:hokage1 add 20xHoa hồng đỏ (old: 19) lydo: Nhặt từ map at 03/12/2023 1:00 PM
+BAG:hokage1 add 51xViên Capsule kì bí (old: 50) lydo: Nhặt từ map at 03/12/2023 1:00 PM
+BAG:hokage1 add 52xViên Capsule kì bí (old: 51) lydo: Nhặt từ map at 03/12/2023 1:01 PM
+BAG:hokage1 add 53xViên Capsule kì bí (old: 52) lydo: Nhặt từ map at 03/12/2023 1:01 PM
+BAG:hokage1 add 54xViên Capsule kì bí (old: 53) lydo: Nhặt từ map at 03/12/2023 1:01 PM
+BAG:hokage1 add 21xHoa hồng đỏ (old: 20) lydo: Nhặt từ map at 03/12/2023 1:01 PM
+BAG:hokage1 add 2xĐá Titan (old: 1) lydo: Nhặt từ map at 03/12/2023 1:01 PM
+BAG:hokage1 add 55xViên Capsule kì bí (old: 54) lydo: Nhặt từ map at 03/12/2023 1:01 PM
+BAG:hokage1 add 56xViên Capsule kì bí (old: 55) lydo: Nhặt từ map at 03/12/2023 1:01 PM
+BAG:hokage1 add 57xViên Capsule kì bí (old: 56) lydo: Nhặt từ map at 03/12/2023 1:01 PM
+BAG:hokage1 add 22xHoa hồng đỏ (old: 21) lydo: Nhặt từ map at 03/12/2023 1:01 PM
+BAG:hokage1 add 58xViên Capsule kì bí (old: 57) lydo: Nhặt từ map at 03/12/2023 1:02 PM
+BAG:hokage1 add 59xViên Capsule kì bí (old: 58) lydo: Nhặt từ map at 03/12/2023 1:02 PM
+BAG:hokage1 add 23xHoa hồng đỏ (old: 22) lydo: Nhặt từ map at 03/12/2023 1:02 PM
+BAG:hokage1 add 24xHoa hồng đỏ (old: 23) lydo: Nhặt từ map at 03/12/2023 1:02 PM
+BAG:hokage1 add 60xViên Capsule kì bí (old: 59) lydo: Nhặt từ map at 03/12/2023 1:02 PM
+BAG:hokage1 add 25xHoa hồng đỏ (old: 24) lydo: Nhặt từ map at 03/12/2023 1:02 PM
+BAG:hokage1 add 26xHoa hồng đỏ (old: 25) lydo: Nhặt từ map at 03/12/2023 1:02 PM
+BAG:hokage1 add 61xViên Capsule kì bí (old: 60) lydo: Nhặt từ map at 03/12/2023 1:02 PM
+BAG:hokage1 add 27xHoa hồng đỏ (old: 26) lydo: Nhặt từ map at 03/12/2023 1:03 PM
+BAG:hokage1 add 3xĐá Titan (old: 2) lydo: Nhặt từ map at 03/12/2023 1:03 PM
+BAG:hokage1 add 62xViên Capsule kì bí (old: 61) lydo: Nhặt từ map at 03/12/2023 1:03 PM
+BAG:hokage1 add 63xViên Capsule kì bí (old: 62) lydo: Nhặt từ map at 03/12/2023 1:03 PM
+BAG:hokage1 add 28xHoa hồng đỏ (old: 27) lydo: Nhặt từ map at 03/12/2023 1:03 PM
+BAG:hokage1 add 64xViên Capsule kì bí (old: 63) lydo: Nhặt từ map at 03/12/2023 1:03 PM
+BAG:hokage1 add 65xViên Capsule kì bí (old: 64) lydo: Nhặt từ map at 03/12/2023 1:04 PM
+BAG:hokage1 add 66xViên Capsule kì bí (old: 65) lydo: Nhặt từ map at 03/12/2023 1:04 PM
+BAG:hokage1 add 6xĐá thạch anh tím (old: 5) lydo: Nhặt từ map at 03/12/2023 1:04 PM
+BAG:hokage1 add 67xViên Capsule kì bí (old: 66) lydo: Nhặt từ map at 03/12/2023 1:04 PM
+BAG:hokage1 add 68xViên Capsule kì bí (old: 67) lydo: Nhặt từ map at 03/12/2023 1:04 PM
+BAG:hokage1 add 29xHoa hồng đỏ (old: 28) lydo: Nhặt từ map at 03/12/2023 1:04 PM
+BAG:hokage1 add 69xViên Capsule kì bí (old: 68) lydo: Nhặt từ map at 03/12/2023 1:04 PM
+BAG:hokage1 add 70xViên Capsule kì bí (old: 69) lydo: Nhặt từ map at 03/12/2023 1:04 PM
+BAG:hokage1 add 71xViên Capsule kì bí (old: 70) lydo: Nhặt từ map at 03/12/2023 1:04 PM
+BAG:hokage1 add 72xViên Capsule kì bí (old: 71) lydo: Nhặt từ map at 03/12/2023 1:04 PM
+BAG:hokage1 add 30xHoa hồng đỏ (old: 29) lydo: Nhặt từ map at 03/12/2023 1:04 PM
+BAG:hokage1 add 73xViên Capsule kì bí (old: 72) lydo: Nhặt từ map at 03/12/2023 1:04 PM
+BAG:hokage1 add 74xViên Capsule kì bí (old: 73) lydo: Nhặt từ map at 03/12/2023 1:05 PM
+BAG:hokage1 add 31xHoa hồng đỏ (old: 30) lydo: Nhặt từ map at 03/12/2023 1:05 PM
+BAG:hokage1 add 75xViên Capsule kì bí (old: 74) lydo: Nhặt từ map at 03/12/2023 1:05 PM
+BAG:hokage1 add 76xViên Capsule kì bí (old: 75) lydo: Nhặt từ map at 03/12/2023 1:05 PM
+BAG:hokage1 add 22xNgọc Rồng 5 sao (old: 21) lydo: Nhặt từ map at 03/12/2023 1:05 PM
+BAG:hokage1 add 77xViên Capsule kì bí (old: 76) lydo: Nhặt từ map at 03/12/2023 1:05 PM
+BAG:hokage1 add 7xĐá thạch anh tím (old: 6) lydo: Nhặt từ map at 03/12/2023 1:05 PM
+BAG:hokage1 add 78xViên Capsule kì bí (old: 77) lydo: Nhặt từ map at 03/12/2023 1:05 PM
+BAG:hokage1 add 79xViên Capsule kì bí (old: 78) lydo: Nhặt từ map at 03/12/2023 1:05 PM
+BAG:hokage1 add 32xHoa hồng đỏ (old: 31) lydo: Nhặt từ map at 03/12/2023 1:05 PM
+BAG:hokage1 add 80xViên Capsule kì bí (old: 79) lydo: Nhặt từ map at 03/12/2023 1:05 PM
+BAG:hokage1 add 33xHoa hồng đỏ (old: 32) lydo: Nhặt từ map at 03/12/2023 1:06 PM
+BAG:hokage1 add 81xViên Capsule kì bí (old: 80) lydo: Nhặt từ map at 03/12/2023 1:06 PM
+BAG:hokage1 add 82xViên Capsule kì bí (old: 81) lydo: Nhặt từ map at 03/12/2023 1:06 PM
+BAG:hokage1 add 23xNgọc Rồng 5 sao (old: 22) lydo: Nhặt từ map at 03/12/2023 1:06 PM
+BAG:hokage1 add 34xHoa hồng đỏ (old: 33) lydo: Nhặt từ map at 03/12/2023 1:06 PM
+BAG:hokage1 add 35xHoa hồng đỏ (old: 34) lydo: Nhặt từ map at 03/12/2023 1:06 PM
+BAG:hokage1 add 83xViên Capsule kì bí (old: 82) lydo: Nhặt từ map at 03/12/2023 1:06 PM
+BAG:hokage1 add 8xĐá thạch anh tím (old: 7) lydo: Nhặt từ map at 03/12/2023 1:06 PM
+BAG:hokage1 add 84xViên Capsule kì bí (old: 83) lydo: Nhặt từ map at 03/12/2023 1:06 PM
+BAG:hokage1 add 9xĐá thạch anh tím (old: 8) lydo: Nhặt từ map at 03/12/2023 1:06 PM
+BAG:hokage1 add 85xViên Capsule kì bí (old: 84) lydo: Nhặt từ map at 03/12/2023 1:06 PM
+BAG:hokage1 add 36xHoa hồng đỏ (old: 35) lydo: Nhặt từ map at 03/12/2023 1:06 PM
+BAG:hokage1 add 86xViên Capsule kì bí (old: 85) lydo: Nhặt từ map at 03/12/2023 1:06 PM
+BAG:hokage1 add 87xViên Capsule kì bí (old: 86) lydo: Nhặt từ map at 03/12/2023 1:06 PM
+BAG:hokage1 add 88xViên Capsule kì bí (old: 87) lydo: Nhặt từ map at 03/12/2023 1:06 PM
+BAG:hokage1 add 89xViên Capsule kì bí (old: 88) lydo: Nhặt từ map at 03/12/2023 1:07 PM
+BAG:hokage1 add 90xViên Capsule kì bí (old: 89) lydo: Nhặt từ map at 03/12/2023 1:07 PM
+BAG:hokage1 add 37xHoa hồng đỏ (old: 36) lydo: Nhặt từ map at 03/12/2023 1:07 PM
+BAG:hokage1 add 91xViên Capsule kì bí (old: 90) lydo: Nhặt từ map at 03/12/2023 1:07 PM
+BAG:hokage1 add 92xViên Capsule kì bí (old: 91) lydo: Nhặt từ map at 03/12/2023 1:07 PM
+BAG:hokage1 add 93xViên Capsule kì bí (old: 92) lydo: Nhặt từ map at 03/12/2023 1:07 PM
+BAG:hokage1 add 38xHoa hồng đỏ (old: 37) lydo: Nhặt từ map at 03/12/2023 1:07 PM
+BAG:hokage1 add 39xHoa hồng đỏ (old: 38) lydo: Nhặt từ map at 03/12/2023 1:07 PM
+BAG:hokage1 add 40xHoa hồng đỏ (old: 39) lydo: Nhặt từ map at 03/12/2023 1:07 PM
+BAG:hokage1 add 94xViên Capsule kì bí (old: 93) lydo: Nhặt từ map at 03/12/2023 1:07 PM
+BAG:hokage1 add 95xViên Capsule kì bí (old: 94) lydo: Nhặt từ map at 03/12/2023 1:08 PM
+BAG:hokage1 add 4xĐá Titan (old: 3) lydo: Nhặt từ map at 03/12/2023 1:08 PM
+BAG:hokage1 add 96xViên Capsule kì bí (old: 95) lydo: Nhặt từ map at 03/12/2023 1:08 PM
+BAG:hokage1 add 97xViên Capsule kì bí (old: 96) lydo: Nhặt từ map at 03/12/2023 1:08 PM
+BAG:hokage1 add 98xViên Capsule kì bí (old: 97) lydo: Nhặt từ map at 03/12/2023 1:08 PM
+BAG:hokage1 add 99xViên Capsule kì bí (old: 98) lydo: Nhặt từ map at 03/12/2023 1:08 PM
+BAG:hokage1 add 1xHoa hồng vàng lydo: Nhặt từ map at 03/12/2023 1:08 PM
+BAG:hokage1 add 1xViên Capsule kì bí lydo: Nhặt từ map at 03/12/2023 1:08 PM
+BAG:hokage1 add 1xHoa hồng vàng lydo: Nhặt từ map at 03/12/2023 1:08 PM
+BAG:hokage1 add 54xNgọc Rồng 4 sao (old: 53) lydo: Nhặt từ map at 03/12/2023 1:09 PM
+BAG:hokage1 add 2xViên Capsule kì bí (old: 1) lydo: Nhặt từ map at 03/12/2023 1:09 PM
+BAG:hokage1 add 2xHoa hồng vàng (old: 1) lydo: Nhặt từ map at 03/12/2023 1:09 PM
+BAG:hokage1 add 3xHoa hồng vàng (old: 2) lydo: Nhặt từ map at 03/12/2023 1:09 PM
+BAG:hokage1 add 3xViên Capsule kì bí (old: 2) lydo: Nhặt từ map at 03/12/2023 1:09 PM
+BAG:hokage1 add 4xViên Capsule kì bí (old: 3) lydo: Nhặt từ map at 03/12/2023 1:09 PM
+BAG:hokage1 add 55xNgọc Rồng 4 sao (old: 54) lydo: Nhặt từ map at 03/12/2023 1:09 PM
+BAG:hokage1 add 56xNgọc Rồng 4 sao (old: 55) lydo: Nhặt từ map at 03/12/2023 1:09 PM
+BAG:hokage1 add 5xViên Capsule kì bí (old: 4) lydo: Nhặt từ map at 03/12/2023 1:10 PM
+BAG:hokage1 add 6xViên Capsule kì bí (old: 5) lydo: Nhặt từ map at 03/12/2023 1:10 PM
+BAG:hokage1 add 4xHoa hồng vàng (old: 3) lydo: Nhặt từ map at 03/12/2023 1:10 PM
+BAG:hokage1 add 7xViên Capsule kì bí (old: 6) lydo: Nhặt từ map at 03/12/2023 1:10 PM
+BAG:hokage1 add 5xHoa hồng vàng (old: 4) lydo: Nhặt từ map at 03/12/2023 1:10 PM
+BAG:hokage1 add 8xViên Capsule kì bí (old: 7) lydo: Nhặt từ map at 03/12/2023 1:10 PM
+BAG:hokage1 add 9xViên Capsule kì bí (old: 8) lydo: Nhặt từ map at 03/12/2023 1:10 PM
+BAG:hokage1 add 10xViên Capsule kì bí (old: 9) lydo: Nhặt từ map at 03/12/2023 1:10 PM
+BAG:hokage1 add 11xViên Capsule kì bí (old: 10) lydo: Nhặt từ map at 03/12/2023 1:10 PM
+BAG:hokage1 add 12xViên Capsule kì bí (old: 11) lydo: Nhặt từ map at 03/12/2023 1:10 PM
+BAG:hokage1 add 6xHoa hồng vàng (old: 5) lydo: Nhặt từ map at 03/12/2023 1:10 PM
+BAG:hokage1 add 7xHoa hồng vàng (old: 6) lydo: Nhặt từ map at 03/12/2023 1:10 PM
+BAG:hokage1 add 10xĐá thạch anh tím (old: 9) lydo: Nhặt từ map at 03/12/2023 1:10 PM
+BAG:hokage1 add 13xViên Capsule kì bí (old: 12) lydo: Nhặt từ map at 03/12/2023 1:11 PM
+BAG:hokage1 add 14xViên Capsule kì bí (old: 13) lydo: Nhặt từ map at 03/12/2023 1:11 PM
+BAG:hokage1 add 8xHoa hồng vàng (old: 7) lydo: Nhặt từ map at 03/12/2023 1:11 PM
+BAG:hokage1 add 9xHoa hồng vàng (old: 8) lydo: Nhặt từ map at 03/12/2023 1:11 PM
+BAG:hokage1 add 10xHoa hồng vàng (old: 9) lydo: Nhặt từ map at 03/12/2023 1:11 PM
+BAG:hokage1 add 11xHoa hồng vàng (old: 10) lydo: Nhặt từ map at 03/12/2023 1:11 PM
+BAG:hokage1 add 15xViên Capsule kì bí (old: 14) lydo: Nhặt từ map at 03/12/2023 1:11 PM
+BAG:hokage1 add 16xViên Capsule kì bí (old: 15) lydo: Nhặt từ map at 03/12/2023 1:11 PM
+BAG:hokage1 add 17xViên Capsule kì bí (old: 16) lydo: Nhặt từ map at 03/12/2023 1:12 PM
+BAG:hokage1 add 18xViên Capsule kì bí (old: 17) lydo: Nhặt từ map at 03/12/2023 1:12 PM
+BAG:hokage1 add 11xĐá thạch anh tím (old: 10) lydo: Nhặt từ map at 03/12/2023 1:12 PM
+BAG:hokage1 add 12xHoa hồng vàng (old: 11) lydo: Nhặt từ map at 03/12/2023 1:12 PM
+BAG:hokage1 add 19xViên Capsule kì bí (old: 18) lydo: Nhặt từ map at 03/12/2023 1:12 PM
+BAG:hokage1 add 13xHoa hồng vàng (old: 12) lydo: Nhặt từ map at 03/12/2023 1:12 PM
+BAG:hokage1 add 14xHoa hồng vàng (old: 13) lydo: Nhặt từ map at 03/12/2023 1:12 PM
+BAG:hokage1 add 20xViên Capsule kì bí (old: 19) lydo: Nhặt từ map at 03/12/2023 1:12 PM
+BAG:hokage1 add 15xHoa hồng vàng (old: 14) lydo: Nhặt từ map at 03/12/2023 1:12 PM
+BAG:hokage1 add 21xViên Capsule kì bí (old: 20) lydo: Nhặt từ map at 03/12/2023 1:12 PM
+BAG:hokage1 add 24xNgọc Rồng 5 sao (old: 23) lydo: Nhặt từ map at 03/12/2023 1:12 PM
+BAG:hokage1 add 22xViên Capsule kì bí (old: 21) lydo: Nhặt từ map at 03/12/2023 1:12 PM
+BAG:hokage1 add 23xViên Capsule kì bí (old: 22) lydo: Nhặt từ map at 03/12/2023 1:12 PM
+BAG:hokage1 add 24xViên Capsule kì bí (old: 23) lydo: Nhặt từ map at 03/12/2023 1:12 PM
+BAG:hokage1 add 25xViên Capsule kì bí (old: 24) lydo: Nhặt từ map at 03/12/2023 1:12 PM
+BAG:hokage1 add 16xHoa hồng vàng (old: 15) lydo: Nhặt từ map at 03/12/2023 1:12 PM
+BAG:hokage1 add 26xNgọc Rồng 6 sao (old: 25) lydo: Nhặt từ map at 03/12/2023 1:13 PM
+BAG:hokage1 add 1xHoa hồng xanh lydo: Nhặt từ map at 03/12/2023 1:13 PM
+BAG:hokage1 add 26xViên Capsule kì bí (old: 25) lydo: Nhặt từ map at 03/12/2023 1:13 PM
+BAG:hokage1 add 27xViên Capsule kì bí (old: 26) lydo: Nhặt từ map at 03/12/2023 1:13 PM
+BAG:hokage1 add 28xViên Capsule kì bí (old: 27) lydo: Nhặt từ map at 03/12/2023 1:13 PM
+BAG:hokage1 add 29xViên Capsule kì bí (old: 28) lydo: Nhặt từ map at 03/12/2023 1:13 PM
+BAG:hokage1 add 2xHoa hồng xanh (old: 1) lydo: Nhặt từ map at 03/12/2023 1:13 PM
+BAG:hokage1 add 30xViên Capsule kì bí (old: 29) lydo: Nhặt từ map at 03/12/2023 1:13 PM
+BAG:hokage1 add 31xViên Capsule kì bí (old: 30) lydo: Nhặt từ map at 03/12/2023 1:13 PM
+BAG:hokage1 add 3xHoa hồng xanh (old: 2) lydo: Nhặt từ map at 03/12/2023 1:13 PM
+BAG:hokage1 add 32xViên Capsule kì bí (old: 31) lydo: Nhặt từ map at 03/12/2023 1:14 PM
+BAG:hokage1 add 33xViên Capsule kì bí (old: 32) lydo: Nhặt từ map at 03/12/2023 1:14 PM
+BAG:hokage1 add 25xNgọc Rồng 5 sao (old: 24) lydo: Nhặt từ map at 03/12/2023 1:14 PM
+BAG:hokage1 add 4xHoa hồng xanh (old: 3) lydo: Nhặt từ map at 03/12/2023 1:14 PM
+BAG:hokage1 add 34xViên Capsule kì bí (old: 33) lydo: Nhặt từ map at 03/12/2023 1:14 PM
+BAG:hokage1 add 35xViên Capsule kì bí (old: 34) lydo: Nhặt từ map at 03/12/2023 1:14 PM
+BAG:hokage1 add 5xHoa hồng xanh (old: 4) lydo: Nhặt từ map at 03/12/2023 1:14 PM
+BAG:hokage1 add 6xHoa hồng xanh (old: 5) lydo: Nhặt từ map at 03/12/2023 1:14 PM
+BAG:hokage1 add 36xViên Capsule kì bí (old: 35) lydo: Nhặt từ map at 03/12/2023 1:14 PM
+BAG:hokage1 add 7xHoa hồng xanh (old: 6) lydo: Nhặt từ map at 03/12/2023 1:14 PM
+BAG:hokage1 add 37xViên Capsule kì bí (old: 36) lydo: Nhặt từ map at 03/12/2023 1:14 PM
+BAG:hokage1 add 38xViên Capsule kì bí (old: 37) lydo: Nhặt từ map at 03/12/2023 1:14 PM
+BAG:hokage1 add 39xViên Capsule kì bí (old: 38) lydo: Nhặt từ map at 03/12/2023 1:15 PM
+BAG:hokage1 add 8xHoa hồng xanh (old: 7) lydo: Nhặt từ map at 03/12/2023 1:15 PM
+BAG:hokage1 add 40xViên Capsule kì bí (old: 39) lydo: Nhặt từ map at 03/12/2023 1:15 PM
+BAG:hokage1 add 9xHoa hồng xanh (old: 8) lydo: Nhặt từ map at 03/12/2023 1:15 PM
+BAG:hokage1 add 26xNgọc Rồng 5 sao (old: 25) lydo: Nhặt từ map at 03/12/2023 1:15 PM
+BAG:hokage1 add 41xViên Capsule kì bí (old: 40) lydo: Nhặt từ map at 03/12/2023 1:15 PM
+BAG:hokage1 add 42xViên Capsule kì bí (old: 41) lydo: Nhặt từ map at 03/12/2023 1:15 PM
+BAG:hokage1 add 43xViên Capsule kì bí (old: 42) lydo: Nhặt từ map at 03/12/2023 1:16 PM
+BAG:hokage1 add 44xViên Capsule kì bí (old: 43) lydo: Nhặt từ map at 03/12/2023 1:16 PM
+BAG:hokage1 add 45xViên Capsule kì bí (old: 44) lydo: Nhặt từ map at 03/12/2023 1:16 PM
+BAG:hokage1 add 46xViên Capsule kì bí (old: 45) lydo: Nhặt từ map at 03/12/2023 1:16 PM
+BAG:hokage1 add 47xViên Capsule kì bí (old: 46) lydo: Nhặt từ map at 03/12/2023 1:16 PM
+BAG:hokage1 add 48xViên Capsule kì bí (old: 47) lydo: Nhặt từ map at 03/12/2023 1:16 PM
+BAG:hokage1 add 27xNgọc Rồng 6 sao (old: 26) lydo: Nhặt từ map at 03/12/2023 1:16 PM
+BAG:hokage1 add 49xViên Capsule kì bí (old: 48) lydo: Nhặt từ map at 03/12/2023 1:16 PM
+BAG:hokage1 add 50xViên Capsule kì bí (old: 49) lydo: Nhặt từ map at 03/12/2023 1:16 PM
+BAG:hokage1 add 51xViên Capsule kì bí (old: 50) lydo: Nhặt từ map at 03/12/2023 1:16 PM
+BAG:hokage1 add 10xHoa hồng xanh (old: 9) lydo: Nhặt từ map at 03/12/2023 1:16 PM
+BAG:hokage1 add 11xHoa hồng xanh (old: 10) lydo: Nhặt từ map at 03/12/2023 1:16 PM
+BAG:hokage1 add 52xViên Capsule kì bí (old: 51) lydo: Nhặt từ map at 03/12/2023 1:16 PM
+BAG:hokage1 add 53xViên Capsule kì bí (old: 52) lydo: Nhặt từ map at 03/12/2023 1:16 PM
+BAG:hokage1 add 12xHoa hồng xanh (old: 11) lydo: Nhặt từ map at 03/12/2023 1:16 PM
+BAG:hokage1 add 54xViên Capsule kì bí (old: 53) lydo: Nhặt từ map at 03/12/2023 1:17 PM
+BAG:hokage1 add 13xHoa hồng xanh (old: 12) lydo: Nhặt từ map at 03/12/2023 1:17 PM
+BAG:hokage1 add 55xViên Capsule kì bí (old: 54) lydo: Nhặt từ map at 03/12/2023 1:17 PM
+BAG:hokage1 add 56xViên Capsule kì bí (old: 55) lydo: Nhặt từ map at 03/12/2023 1:17 PM
+BAG:hokage1 add 57xViên Capsule kì bí (old: 56) lydo: Nhặt từ map at 03/12/2023 1:17 PM
+BAG:hokage1 add 27xNgọc Rồng 5 sao (old: 26) lydo: Nhặt từ map at 03/12/2023 1:17 PM
+BAG:hokage1 add 14xHoa hồng xanh (old: 13) lydo: Nhặt từ map at 03/12/2023 1:17 PM
+BAG:hokage1 add 58xViên Capsule kì bí (old: 57) lydo: Nhặt từ map at 03/12/2023 1:17 PM
+BAG:hokage1 add 12xĐá thạch anh tím (old: 11) lydo: Nhặt từ map at 03/12/2023 1:18 PM
+BAG:hokage1 add 59xViên Capsule kì bí (old: 58) lydo: Nhặt từ map at 03/12/2023 1:18 PM
+BAG:hokage1 add 60xViên Capsule kì bí (old: 59) lydo: Nhặt từ map at 03/12/2023 1:18 PM
+BAG:hokage1 add 61xViên Capsule kì bí (old: 60) lydo: Nhặt từ map at 03/12/2023 1:18 PM
+BAG:hokage1 add 62xViên Capsule kì bí (old: 61) lydo: Nhặt từ map at 03/12/2023 1:18 PM
+BAG:hokage1 add 63xViên Capsule kì bí (old: 62) lydo: Nhặt từ map at 03/12/2023 1:18 PM
+BAG:hokage1 add 64xViên Capsule kì bí (old: 63) lydo: Nhặt từ map at 03/12/2023 1:18 PM
+BAG:hokage1 add 65xViên Capsule kì bí (old: 64) lydo: Nhặt từ map at 03/12/2023 1:18 PM
+BAG:hokage1 add 13xĐá thạch anh tím (old: 12) lydo: Nhặt từ map at 03/12/2023 1:18 PM
+BAG:hokage1 add 66xViên Capsule kì bí (old: 65) lydo: Nhặt từ map at 03/12/2023 1:18 PM
+BAG:hokage1 add 15xHoa hồng xanh (old: 14) lydo: Nhặt từ map at 03/12/2023 1:18 PM
+BAG:hokage1 add 67xViên Capsule kì bí (old: 66) lydo: Nhặt từ map at 03/12/2023 1:18 PM
+BAG:hokage1 add 68xViên Capsule kì bí (old: 67) lydo: Nhặt từ map at 03/12/2023 1:18 PM
+BAG:hokage1 add 69xViên Capsule kì bí (old: 68) lydo: Nhặt từ map at 03/12/2023 1:18 PM
+BAG:hokage1 add 70xViên Capsule kì bí (old: 69) lydo: Nhặt từ map at 03/12/2023 1:18 PM
+BAG:hokage1 add 71xViên Capsule kì bí (old: 70) lydo: Nhặt từ map at 03/12/2023 1:19 PM
+BAG:hokage1 add 72xViên Capsule kì bí (old: 71) lydo: Nhặt từ map at 03/12/2023 1:19 PM
+BAG:hokage1 add 73xViên Capsule kì bí (old: 72) lydo: Nhặt từ map at 03/12/2023 1:19 PM
+BAG:hokage1 add 74xViên Capsule kì bí (old: 73) lydo: Nhặt từ map at 03/12/2023 1:19 PM
+BAG:hokage1 add 75xViên Capsule kì bí (old: 74) lydo: Nhặt từ map at 03/12/2023 1:19 PM
+BAG:hokage1 add 76xViên Capsule kì bí (old: 75) lydo: Nhặt từ map at 03/12/2023 1:19 PM
+BAG:hokage1 add 77xViên Capsule kì bí (old: 76) lydo: Nhặt từ map at 03/12/2023 1:19 PM
+BAG:hokage1 add 78xViên Capsule kì bí (old: 77) lydo: Nhặt từ map at 03/12/2023 1:19 PM
+BAG:hokage1 add 79xViên Capsule kì bí (old: 78) lydo: Nhặt từ map at 03/12/2023 1:19 PM
+BAG:hokage1 add 80xViên Capsule kì bí (old: 79) lydo: Nhặt từ map at 03/12/2023 1:19 PM
+BAG:hokage1 add 81xViên Capsule kì bí (old: 80) lydo: Nhặt từ map at 03/12/2023 1:19 PM
+BAG:hokage1 add 82xViên Capsule kì bí (old: 81) lydo: Nhặt từ map at 03/12/2023 1:19 PM
+BAG:hokage1 add 83xViên Capsule kì bí (old: 82) lydo: Nhặt từ map at 03/12/2023 1:20 PM
+BAG:hokage1 add 28xNgọc Rồng 5 sao (old: 27) lydo: Nhặt từ map at 03/12/2023 1:20 PM
+BAG:hokage1 add 29xNgọc Rồng 5 sao (old: 28) lydo: Nhặt từ map at 03/12/2023 1:20 PM
+BAG:hokage1 add 84xViên Capsule kì bí (old: 83) lydo: Nhặt từ map at 03/12/2023 1:20 PM
+BAG:hokage1 add 85xViên Capsule kì bí (old: 84) lydo: Nhặt từ map at 03/12/2023 1:20 PM
+BAG:hokage1 add 86xViên Capsule kì bí (old: 85) lydo: Nhặt từ map at 03/12/2023 1:20 PM
+BAG:hokage1 add 87xViên Capsule kì bí (old: 86) lydo: Nhặt từ map at 03/12/2023 1:20 PM
+BAG:hokage1 add 88xViên Capsule kì bí (old: 87) lydo: Nhặt từ map at 03/12/2023 1:20 PM
+BAG:hokage1 add 89xViên Capsule kì bí (old: 88) lydo: Nhặt từ map at 03/12/2023 1:20 PM
+BAG:hokage1 add 90xViên Capsule kì bí (old: 89) lydo: Nhặt từ map at 03/12/2023 1:20 PM
+BAG:hokage1 add 16xHoa hồng xanh (old: 15) lydo: Nhặt từ map at 03/12/2023 1:21 PM
+BAG:hokage1 add 17xHoa hồng xanh (old: 16) lydo: Nhặt từ map at 03/12/2023 1:21 PM
+BAG:hokage1 add 91xViên Capsule kì bí (old: 90) lydo: Nhặt từ map at 03/12/2023 1:21 PM
+BAG:hokage1 add 92xViên Capsule kì bí (old: 91) lydo: Nhặt từ map at 03/12/2023 1:21 PM
+BAG:hokage1 add 18xHoa hồng xanh (old: 17) lydo: Nhặt từ map at 03/12/2023 1:21 PM
+BAG:hokage1 add 93xViên Capsule kì bí (old: 92) lydo: Nhặt từ map at 03/12/2023 1:21 PM
+BAG:hokage1 add 94xViên Capsule kì bí (old: 93) lydo: Nhặt từ map at 03/12/2023 1:21 PM
+BAG:hokage1 add 95xViên Capsule kì bí (old: 94) lydo: Nhặt từ map at 03/12/2023 1:21 PM
+BAG:hokage1 add 19xHoa hồng xanh (old: 18) lydo: Nhặt từ map at 03/12/2023 1:21 PM
+BAG:hokage1 add 20xHoa hồng xanh (old: 19) lydo: Nhặt từ map at 03/12/2023 1:22 PM
+BAG:hokage1 add 96xViên Capsule kì bí (old: 95) lydo: Nhặt từ map at 03/12/2023 1:22 PM
+BAG:hokage1 add 21xHoa hồng xanh (old: 20) lydo: Nhặt từ map at 03/12/2023 1:22 PM
+BAG:hokage1 add 22xHoa hồng xanh (old: 21) lydo: Nhặt từ map at 03/12/2023 1:22 PM
+BAG:hokage1 add 97xViên Capsule kì bí (old: 96) lydo: Nhặt từ map at 03/12/2023 1:22 PM
+BAG:hokage1 add 23xHoa hồng xanh (old: 22) lydo: Nhặt từ map at 03/12/2023 1:22 PM
+BAG:hokage1 add 98xViên Capsule kì bí (old: 97) lydo: Nhặt từ map at 03/12/2023 1:22 PM
+BAG:hokage1 add 99xViên Capsule kì bí (old: 98) lydo: Nhặt từ map at 03/12/2023 1:22 PM
+BAG:hokage1 add 30xNgọc Rồng 5 sao (old: 29) lydo: Nhặt từ map at 03/12/2023 1:22 PM
+BAG:hokage1 add 24xHoa hồng xanh (old: 23) lydo: Nhặt từ map at 03/12/2023 1:23 PM
+BAG:hokage1 add 25xHoa hồng xanh (old: 24) lydo: Nhặt từ map at 03/12/2023 1:23 PM
+BAG:hokage1 add 26xHoa hồng xanh (old: 25) lydo: Nhặt từ map at 03/12/2023 1:23 PM
+BAG:hokage1 add 27xHoa hồng xanh (old: 26) lydo: Nhặt từ map at 03/12/2023 1:23 PM
+BAG:hokage1 add 14xĐá thạch anh tím (old: 13) lydo: Nhặt từ map at 03/12/2023 1:23 PM
+BAG:hokage1 add 31xNgọc Rồng 5 sao (old: 30) lydo: Nhặt từ map at 03/12/2023 1:24 PM
+BAG:hokage1 add 28xHoa hồng xanh (old: 27) lydo: Nhặt từ map at 03/12/2023 1:24 PM
+BAG:hokage1 add 1xViên Capsule kì bí lydo: Nhặt từ map at 03/12/2023 1:24 PM
+BAG:hokage1 add 2xViên Capsule kì bí (old: 1) lydo: Nhặt từ map at 03/12/2023 1:24 PM
+BAG:hokage1 add 15xĐá thạch anh tím (old: 14) lydo: Nhặt từ map at 03/12/2023 1:24 PM
+BAG:hokage1 add 3xViên Capsule kì bí (old: 2) lydo: Nhặt từ map at 03/12/2023 1:24 PM
+BAG:hokage1 add 4xViên Capsule kì bí (old: 3) lydo: Nhặt từ map at 03/12/2023 1:24 PM
+BAG:hokage1 add 5xViên Capsule kì bí (old: 4) lydo: Nhặt từ map at 03/12/2023 1:24 PM
+BAG:hokage1 add 6xViên Capsule kì bí (old: 5) lydo: Nhặt từ map at 03/12/2023 1:25 PM
+BAG:hokage1 add 7xViên Capsule kì bí (old: 6) lydo: Nhặt từ map at 03/12/2023 1:25 PM
+BAG:hokage1 add 8xViên Capsule kì bí (old: 7) lydo: Nhặt từ map at 03/12/2023 1:25 PM
+BAG:hokage1 add 9xViên Capsule kì bí (old: 8) lydo: Nhặt từ map at 03/12/2023 1:25 PM
+BAG:hokage1 add 10xViên Capsule kì bí (old: 9) lydo: Nhặt từ map at 03/12/2023 1:25 PM
+BAG:hokage1 add 11xViên Capsule kì bí (old: 10) lydo: Nhặt từ map at 03/12/2023 1:25 PM
+BAG:hokage1 add 12xViên Capsule kì bí (old: 11) lydo: Nhặt từ map at 03/12/2023 1:25 PM
+BAG:hokage1 add 13xViên Capsule kì bí (old: 12) lydo: Nhặt từ map at 03/12/2023 1:25 PM
+BAG:hokage1 add 14xViên Capsule kì bí (old: 13) lydo: Nhặt từ map at 03/12/2023 1:25 PM
+BAG:hokage1 add 16xĐá thạch anh tím (old: 15) lydo: Nhặt từ map at 03/12/2023 1:25 PM
+BAG:hokage1 add 15xViên Capsule kì bí (old: 14) lydo: Nhặt từ map at 03/12/2023 1:25 PM
+BAG:hokage1 add 16xViên Capsule kì bí (old: 15) lydo: Nhặt từ map at 03/12/2023 1:25 PM
+BAG:hokage1 add 17xViên Capsule kì bí (old: 16) lydo: Nhặt từ map at 03/12/2023 1:25 PM
+BAG:hokage1 add 18xViên Capsule kì bí (old: 17) lydo: Nhặt từ map at 03/12/2023 1:25 PM
+BAG:hokage1 add 19xViên Capsule kì bí (old: 18) lydo: Nhặt từ map at 03/12/2023 1:25 PM
+BAG:hokage1 add 20xViên Capsule kì bí (old: 19) lydo: Nhặt từ map at 03/12/2023 1:26 PM
+BAG:hokage1 add 21xViên Capsule kì bí (old: 20) lydo: Nhặt từ map at 03/12/2023 1:26 PM
+BAG:hokage1 add 22xViên Capsule kì bí (old: 21) lydo: Nhặt từ map at 03/12/2023 1:26 PM
+BAG:hokage1 add 23xViên Capsule kì bí (old: 22) lydo: Nhặt từ map at 03/12/2023 1:26 PM
+BAG:hokage1 add 24xViên Capsule kì bí (old: 23) lydo: Nhặt từ map at 03/12/2023 1:26 PM
+BAG:hokage1 add 25xViên Capsule kì bí (old: 24) lydo: Nhặt từ map at 03/12/2023 1:26 PM
+BAG:hokage1 add 26xViên Capsule kì bí (old: 25) lydo: Nhặt từ map at 03/12/2023 1:26 PM
+BAG:hokage1 add 17xĐá thạch anh tím (old: 16) lydo: Nhặt từ map at 03/12/2023 1:26 PM
+BAG:hokage1 add 27xViên Capsule kì bí (old: 26) lydo: Nhặt từ map at 03/12/2023 1:26 PM
+BAG:hokage1 add 28xViên Capsule kì bí (old: 27) lydo: Nhặt từ map at 03/12/2023 1:27 PM
+BAG:hokage1 add 29xViên Capsule kì bí (old: 28) lydo: Nhặt từ map at 03/12/2023 1:27 PM
+BAG:hokage1 add 30xViên Capsule kì bí (old: 29) lydo: Nhặt từ map at 03/12/2023 1:27 PM
+BAG:hokage1 add 31xViên Capsule kì bí (old: 30) lydo: Nhặt từ map at 03/12/2023 1:27 PM
+BAG:hokage1 add 32xViên Capsule kì bí (old: 31) lydo: Nhặt từ map at 03/12/2023 1:27 PM
+BAG:hokage1 add 18xĐá thạch anh tím (old: 17) lydo: Nhặt từ map at 03/12/2023 1:28 PM
+BAG:hokage1 add 32xNgọc Rồng 5 sao (old: 31) lydo: Nhặt từ map at 03/12/2023 1:28 PM
+BAG:hokage1 add 19xĐá thạch anh tím (old: 18) lydo: Nhặt từ map at 03/12/2023 1:28 PM
+BAG:hokage1 add 28xNgọc Rồng 6 sao (old: 27) lydo: Nhặt từ map at 03/12/2023 1:28 PM
+BAG:hokage1 add 1xGiáp tập luyện cấp 3 lydo: Lấy từ body vào hành trang at 03/12/2023 7:07 PM
+BAG:hokage1 add 1xGiáp tập luyện cấp 3 lydo: Lấy từ body vào hành trang at 03/12/2023 7:11 PM
+BAG:hokage1 add 138xThỏi vàng (old: 133) lydo: Nhặt từ map at 03/12/2023 7:11 PM
+BAG:hokage1 add 20xCuồng nộ (old: 19) lydo: CSKB at 03/12/2023 7:15 PM
+BAG:hokage1 add 1xẨn danh lydo: CSKB at 03/12/2023 7:15 PM
+BAG:hokage1 add 1xBổ khí lydo: CSKB at 03/12/2023 7:15 PM
+BAG:hokage1 add 1xĐá Ruby lydo: Nhặt từ map at 03/12/2023 7:16 PM
+BAG:hokage1 add 1xẨn danh lydo: CSKB at 03/12/2023 7:19 PM
+BAG:hokage1 add 16xBổ huyết (old: 15) lydo: CSKB at 03/12/2023 7:19 PM
+BAG:hokage1 add 2xẨn danh (old: 1) lydo: CSKB at 03/12/2023 7:19 PM
+BAG:hokage1 add 1xGiáp tập luyện cấp 3 lydo: Lấy từ body vào hành trang at 03/12/2023 7:21 PM
+BAG:hokage1 add 94xNgọc Rồng 3 sao (old: 93) lydo: Nhặt từ map at 03/12/2023 7:22 PM
+BAG:hokage1 add 143xThỏi vàng (old: 138) lydo: Nhặt từ map at 03/12/2023 7:22 PM
+BAG:hokage1 add 1xĐá lục bảo lydo: Nhặt từ map at 03/12/2023 7:43 PM

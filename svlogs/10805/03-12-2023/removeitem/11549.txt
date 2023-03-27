@@ -1,0 +1,455 @@
+BAG:kamebubu remove Cải trang Hatchiyack lydo: Tự Xóa vật phẩm at 03/12/2023 2:00 PM
+BAG:kamebubu remove Cải trang Hatchiyack lydo: Tự Xóa vật phẩm at 03/12/2023 2:01 PM
+BAG:kamebubu remove Cải trang Hatchiyack lydo: Tự Xóa vật phẩm at 03/12/2023 2:01 PM
+BAG:kamebubu remove Cải trang mồn lèo lydo: Tự Xóa vật phẩm at 03/12/2023 2:01 PM
+BAG:kamebubu remove Mảnh Khủng long lydo: Tự Xóa vật phẩm at 03/12/2023 2:01 PM
+BAG:kamebubu remove Hoa hồng đỏ lydo: Tự Xóa vật phẩm at 03/12/2023 2:01 PM
+BAG:kamebubu remove Hoa hồng vàng lydo: Tự Xóa vật phẩm at 03/12/2023 2:01 PM
+BAG:kamebubu remove 7xĐá lục bảo lydo: Bán cho shop at 03/12/2023 2:01 PM
+BAG:kamebubu remove 4xĐá Ruby lydo: Bán cho shop at 03/12/2023 2:02 PM
+BAG:kamebubu remove 5xNgọc Rồng 6 sao lydo: Bán cho shop at 03/12/2023 2:02 PM
+BAG:kamebubu remove 6xSao pha lê lydo: Bán cho shop at 03/12/2023 2:02 PM
+BAG:kamebubu remove 3xSao pha lê lydo: Bán cho shop at 03/12/2023 2:02 PM
+BAG:kamebubu remove 2xSao pha lê lydo: Bán cho shop at 03/12/2023 2:02 PM
+BAG:kamebubu remove 3xSao pha lê lydo: Bán cho shop at 03/12/2023 2:03 PM
+BAG:kamebubu remove Đá thạch anh tím lydo: Cất vào rương at 03/12/2023 2:04 PM
+BAG:kamebubu remove Sao pha lê lydo: Cất vào rương at 03/12/2023 2:04 PM
+BAG:kamebubu remove Ngọc Rồng 5 sao lydo: Cất vào rương at 03/12/2023 2:04 PM
+BAG:kamebubu remove Sao pha lê lydo: Cất vào rương at 03/12/2023 2:04 PM
+BAG:kamebubu remove Vệ tinh sinh lực lydo: Cất vào rương at 03/12/2023 2:04 PM
+BAG:kamebubu remove Vệ tinh phòng thủ lydo: Cất vào rương at 03/12/2023 2:04 PM
+BAG:kamebubu remove Cải trang mồn lèo lydo: Tự Xóa vật phẩm at 03/12/2023 2:05 PM
+BAG:kamebubu remove Cải trang Hatchiyack lydo: Tự Xóa vật phẩm at 03/12/2023 2:05 PM
+BAG:kamebubu remove CT Genma 02 lydo: Tự Xóa vật phẩm at 03/12/2023 2:05 PM
+BAG:kamebubu remove Tanjiro lydo: Mặc vào người at 03/12/2023 2:06 PM
+BAG:kamebubu remove 1xMảnh Khủng long lydo: Dùng thẻ sưu tầm at 03/12/2023 2:06 PM
+BAG:kamebubu remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/12/2023 2:06 PM
+BAG:kamebubu remove Ngọc Rồng 6 sao lydo: Tự Xóa vật phẩm at 03/12/2023 2:07 PM
+BAG:kamebubu remove Ngọc Rồng 7 sao lydo: Tự Xóa vật phẩm at 03/12/2023 2:08 PM
+BAG:kamebubu remove Sao pha lê lydo: Tự Xóa vật phẩm at 03/12/2023 2:08 PM
+BAG:kamebubu remove Vệ tinh trí lực lydo: Tự Xóa vật phẩm at 03/12/2023 2:08 PM
+BAG:kamebubu remove Ngọc Rồng 4 sao lydo: Tự Xóa vật phẩm at 03/12/2023 2:08 PM
+BAG:kamebubu remove Áo vải 3 lỗ lydo: Tự Xóa vật phẩm at 03/12/2023 2:09 PM
+BAG:kamebubu remove Rada cấp 1 lydo: Mặc cho đệ tử at 03/12/2023 2:09 PM
+BAG:kamebubu remove Quần vải đen lydo: Tự Xóa vật phẩm at 03/12/2023 2:10 PM
+BAG:kamebubu remove Quần vải đen lydo: Tự Xóa vật phẩm at 03/12/2023 2:10 PM
+BAG:kamebubu remove Sao pha lê lydo: Tự Xóa vật phẩm at 03/12/2023 2:10 PM
+BAG:kamebubu remove Găng vải đen lydo: Tự Xóa vật phẩm at 03/12/2023 2:10 PM
+BAG:kamebubu remove Găng vải đen lydo: Tự Xóa vật phẩm at 03/12/2023 2:11 PM
+BAG:kamebubu remove Áo vải 3 lỗ lydo: Tự Xóa vật phẩm at 03/12/2023 2:11 PM
+BAG:kamebubu remove Rada cấp 1 lydo: Tự Xóa vật phẩm at 03/12/2023 2:11 PM
+BAG:kamebubu remove Đá lục bảo lydo: Tự Xóa vật phẩm at 03/12/2023 2:12 PM
+BAG:kamebubu remove 1xMảnh Khủng long lydo: Dùng thẻ sưu tầm at 03/12/2023 2:12 PM
+BAG:kamebubu remove 1xMảnh Khủng long lydo: Dùng thẻ sưu tầm at 03/12/2023 2:12 PM
+BAG:kamebubu remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/12/2023 2:12 PM
+BAG:kamebubu remove Áo vải 3 lỗ lydo: Tự Xóa vật phẩm at 03/12/2023 2:12 PM
+BAG:kamebubu remove Găng vải đen lydo: Tự Xóa vật phẩm at 03/12/2023 2:12 PM
+BAG:kamebubu remove Rada cấp 1 lydo: Tự Xóa vật phẩm at 03/12/2023 2:12 PM
+BAG:kamebubu remove Giầy nhựa lydo: Tự Xóa vật phẩm at 03/12/2023 2:13 PM
+BAG:kamebubu remove Giầy nhựa lydo: Tự Xóa vật phẩm at 03/12/2023 2:13 PM
+BAG:kamebubu remove Quần vải đen lydo: Tự Xóa vật phẩm at 03/12/2023 2:13 PM
+BAG:kamebubu remove Áo vải 3 lỗ lydo: Tự Xóa vật phẩm at 03/12/2023 2:13 PM
+BAG:kamebubu remove Áo vải 3 lỗ lydo: Tự Xóa vật phẩm at 03/12/2023 2:14 PM
+BAG:kamebubu remove Quần vải đen lydo: Tự Xóa vật phẩm at 03/12/2023 2:14 PM
+BAG:kamebubu remove Quần vải đen lydo: Tự Xóa vật phẩm at 03/12/2023 2:14 PM
+BAG:kamebubu remove Găng vải đen lydo: Tự Xóa vật phẩm at 03/12/2023 2:14 PM
+BAG:kamebubu remove Đá Titan lydo: Tự Xóa vật phẩm at 03/12/2023 2:14 PM
+BAG:kamebubu remove Đá lục bảo lydo: Tự Xóa vật phẩm at 03/12/2023 2:14 PM
+BAG:kamebubu remove Đá Saphia lydo: Tự Xóa vật phẩm at 03/12/2023 2:14 PM
+BAG:kamebubu remove 1xMảnh Khủng long lydo: Dùng thẻ sưu tầm at 03/12/2023 2:15 PM
+BAG:kamebubu remove Áo vải 3 lỗ lydo: Tự Xóa vật phẩm at 03/12/2023 2:15 PM
+BAG:kamebubu remove Quần vải đen lydo: Tự Xóa vật phẩm at 03/12/2023 2:16 PM
+BAG:kamebubu remove Găng vải đen lydo: Tự Xóa vật phẩm at 03/12/2023 2:16 PM
+BAG:kamebubu remove Đá Ruby lydo: Tự Xóa vật phẩm at 03/12/2023 2:16 PM
+BAG:kamebubu remove Đá lục bảo lydo: Tự Xóa vật phẩm at 03/12/2023 2:16 PM
+BAG:kamebubu remove Ngọc Rồng 6 sao lydo: Tự Xóa vật phẩm at 03/12/2023 2:16 PM
+BAG:kamebubu remove Áo vải 3 lỗ lydo: Tự Xóa vật phẩm at 03/12/2023 2:17 PM
+BAG:kamebubu remove Đá lục bảo lydo: Tự Xóa vật phẩm at 03/12/2023 2:17 PM
+BAG:kamebubu remove Găng vải đen lydo: Tự Xóa vật phẩm at 03/12/2023 2:17 PM
+BAG:kamebubu remove Quần vải đen lydo: Tự Xóa vật phẩm at 03/12/2023 2:17 PM
+BAG:kamebubu remove Giầy nhựa lydo: Tự Xóa vật phẩm at 03/12/2023 2:17 PM
+BAG:kamebubu remove 1xMảnh Khủng long lydo: Dùng thẻ sưu tầm at 03/12/2023 2:17 PM
+BAG:kamebubu remove Giầy nhựa lydo: Tự Xóa vật phẩm at 03/12/2023 2:18 PM
+BAG:kamebubu remove Áo vải 3 lỗ lydo: Tự Xóa vật phẩm at 03/12/2023 2:18 PM
+BAG:kamebubu remove Ngọc Rồng 6 sao lydo: Tự Xóa vật phẩm at 03/12/2023 2:18 PM
+BAG:kamebubu remove Giầy nhựa lydo: Tự Xóa vật phẩm at 03/12/2023 2:18 PM
+BAG:kamebubu remove Giầy nhựa lydo: Tự Xóa vật phẩm at 03/12/2023 2:18 PM
+BAG:kamebubu remove Găng vải đen lydo: Tự Xóa vật phẩm at 03/12/2023 2:19 PM
+BAG:kamebubu remove Áo vải 3 lỗ lydo: Tự Xóa vật phẩm at 03/12/2023 2:19 PM
+BAG:kamebubu remove Găng vải đen lydo: Tự Xóa vật phẩm at 03/12/2023 2:19 PM
+BAG:kamebubu remove 1xMảnh Khủng long lydo: Dùng thẻ sưu tầm at 03/12/2023 2:20 PM
+BAG:kamebubu remove Đá Saphia lydo: Tự Xóa vật phẩm at 03/12/2023 2:20 PM
+BAG:kamebubu remove Giầy nhựa lydo: Tự Xóa vật phẩm at 03/12/2023 2:20 PM
+BAG:kamebubu remove 1xMảnh Khủng long lydo: Dùng thẻ sưu tầm at 03/12/2023 2:20 PM
+BAG:kamebubu remove Quần vải đen lydo: Cất vào rương at 03/12/2023 2:21 PM
+BAG:kamebubu remove Giầy nhựa lydo: Cất vào rương at 03/12/2023 2:21 PM
+BAG:kamebubu remove Găng vải đen lydo: Cất vào rương at 03/12/2023 2:21 PM
+BAG:kamebubu remove 1xThỏi vàng lydo: Bán cho shop at 03/12/2023 2:23 PM
+BAG:kamebubu remove 10xHoa hồng đỏ lydo: Đổi hoa at 03/12/2023 2:24 PM
+BAG:kamebubu remove 10xHoa hồng xanh lydo: Đổi hoa at 03/12/2023 2:24 PM
+BAG:kamebubu remove 10xHoa hồng vàng lydo: Đổi hoa at 03/12/2023 2:24 PM
+BAG:kamebubu remove Bó hoa hồng đỏ lydo: Cất vào rương at 03/12/2023 2:25 PM
+BAG:kamebubu remove Bó hoa hồng xanh lydo: Cất vào rương at 03/12/2023 2:25 PM
+BAG:kamebubu remove Bó hoa hồng vàng lydo: Cất vào rương at 03/12/2023 2:26 PM
+BAG:kamebubu remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/12/2023 2:26 PM
+BAG:kamebubu remove Quần vải đen lydo: Tự Xóa vật phẩm at 03/12/2023 2:26 PM
+BAG:kamebubu remove Giầy nhựa lydo: Tự Xóa vật phẩm at 03/12/2023 2:26 PM
+BAG:kamebubu remove Rada cấp 1 lydo: Tự Xóa vật phẩm at 03/12/2023 2:28 PM
+BAG:kamebubu remove Rada cấp 1 lydo: Tự Xóa vật phẩm at 03/12/2023 2:28 PM
+BAG:kamebubu remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/12/2023 2:30 PM
+BAG:kamebubu remove Găng vải đen lydo: Tự Xóa vật phẩm at 03/12/2023 2:30 PM
+BAG:kamebubu remove Giầy nhựa lydo: Tự Xóa vật phẩm at 03/12/2023 2:30 PM
+BAG:kamebubu remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/12/2023 2:31 PM
+BAG:kamebubu remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/12/2023 2:31 PM
+BAG:kamebubu remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/12/2023 2:33 PM
+BAG:kamebubu remove Giầy nhựa lydo: Cất vào rương at 03/12/2023 2:35 PM
+BAG:kamebubu remove Vệ tinh trí tuệ lydo: Cất vào rương at 03/12/2023 2:35 PM
+BAG:kamebubu remove Găng vải đen lydo: Tự Xóa vật phẩm at 03/12/2023 2:36 PM
+BAG:kamebubu remove Găng vải đen lydo: Tự Xóa vật phẩm at 03/12/2023 2:36 PM
+BAG:kamebubu remove Giầy nhựa lydo: Tự Xóa vật phẩm at 03/12/2023 2:36 PM
+BAG:kamebubu remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/12/2023 2:37 PM
+BAG:kamebubu remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/12/2023 2:37 PM
+BAG:kamebubu remove 1xThỏi vàng lydo: Bán cho shop at 03/12/2023 2:41 PM
+BAG:kamebubu remove 1xThỏi vàng lydo: Bán cho shop at 03/12/2023 2:41 PM
+BAG:kamebubu remove 1xThỏi vàng lydo: Bán cho shop at 03/12/2023 2:41 PM
+BAG:kamebubu remove 1xĐá lục bảo lydo: Bán cho shop at 03/12/2023 2:42 PM
+BAG:kamebubu remove 1xĐá Saphia lydo: Bán cho shop at 03/12/2023 2:42 PM
+BAG:kamebubu remove 1xĐổi đệ tử lydo: Dùng đổi đệ tử at 03/12/2023 2:42 PM
+BAG:kamebubu remove Giầy nhựa lydo: Mặc cho đệ tử at 03/12/2023 2:42 PM
+BAG:kamebubu remove Quần vải đen lydo: Mặc cho đệ tử at 03/12/2023 2:42 PM
+BAG:kamebubu remove Áo vải 3 lỗ lydo: Mặc cho đệ tử at 03/12/2023 2:42 PM
+BAG:kamebubu remove Rada cấp 1 lydo: Mặc cho đệ tử at 03/12/2023 2:43 PM
+BAG:kamebubu remove CT Genma 02 lydo: Mặc cho đệ tử at 03/12/2023 2:43 PM
+BAG:kamebubu remove 2xĐổi đệ tử lydo: Bán cho shop at 03/12/2023 2:43 PM
+BAG:kamebubu remove 1xThỏi vàng lydo: Bán cho shop at 03/12/2023 2:43 PM
+BAG:kamebubu remove 1xThỏi vàng lydo: Bán cho shop at 03/12/2023 2:43 PM
+BAG:kamebubu remove 1xThỏi vàng lydo: Bán cho shop at 03/12/2023 2:43 PM
+BAG:kamebubu remove 1xThỏi vàng lydo: Bán cho shop at 03/12/2023 2:44 PM
+BAG:kamebubu remove 1xThỏi vàng lydo: Bán cho shop at 03/12/2023 2:44 PM
+BAG:kamebubu remove 1xThỏi vàng lydo: Bán cho shop at 03/12/2023 2:44 PM
+BAG:kamebubu remove 1xThỏi vàng lydo: Bán cho shop at 03/12/2023 2:45 PM
+BAG:kamebubu remove 1xThỏi vàng lydo: Bán cho shop at 03/12/2023 2:46 PM
+BAG:kamebubu remove 1xThỏi vàng lydo: Bán cho shop at 03/12/2023 2:46 PM
+BAG:kamebubu remove 1xThỏi vàng lydo: Bán cho shop at 03/12/2023 2:47 PM
+BAG:kamebubu remove 1xThỏi vàng lydo: Bán cho shop at 03/12/2023 2:47 PM
+BAG:kamebubu remove 1xThỏi vàng lydo: Bán cho shop at 03/12/2023 2:47 PM
+BAG:kamebubu remove 1xThỏi vàng lydo: Bán cho shop at 03/12/2023 2:48 PM
+BAG:kamebubu remove 1xThỏi vàng lydo: Bán cho shop at 03/12/2023 2:48 PM
+BAG:kamebubu remove 1xThỏi vàng lydo: Bán cho shop at 03/12/2023 2:48 PM
+BAG:kamebubu remove 1xThỏi vàng lydo: Bán cho shop at 03/12/2023 2:49 PM
+BAG:kamebubu remove 1xThỏi vàng lydo: Bán cho shop at 03/12/2023 2:49 PM
+BAG:kamebubu remove 1xThỏi vàng lydo: Bán cho shop at 03/12/2023 2:49 PM
+BAG:kamebubu remove Giầy nhựa lydo: Mặc vào người at 03/12/2023 2:49 PM
+BAG:kamebubu remove Găng vải đen lydo: Mặc vào người at 03/12/2023 2:49 PM
+BAG:kamebubu remove Giáp tập luyện cấp 1 lydo: Mặc vào người at 03/12/2023 2:49 PM
+BAG:kamebubu remove Quần vải đen lydo: Mặc vào người at 03/12/2023 2:49 PM
+BAG:kamebubu remove Áo vải 3 lỗ lydo: Mặc vào người at 03/12/2023 2:49 PM
+BAG:kamebubu remove Giáp tập luyện cấp 1 lydo: Mặc vào người at 03/12/2023 2:50 PM
+BAG:kamebubu remove 1xThỏi vàng lydo: Bán cho shop at 03/12/2023 2:50 PM
+BAG:kamebubu remove 1xThỏi vàng lydo: Bán cho shop at 03/12/2023 2:50 PM
+BAG:kamebubu remove 1xThỏi vàng lydo: Bán cho shop at 03/12/2023 2:50 PM
+BAG:kamebubu remove Tanjiro lydo: Mặc vào người at 03/12/2023 2:51 PM
+BAG:kamebubu remove 1xThỏi vàng lydo: Bán cho shop at 03/12/2023 2:51 PM
+BAG:kamebubu remove 1xThỏi vàng lydo: Bán cho shop at 03/12/2023 2:51 PM
+BAG:kamebubu remove 1xThỏi vàng lydo: Bán cho shop at 03/12/2023 2:51 PM
+BAG:kamebubu remove Rada cấp 1 lydo: Mặc vào người at 03/12/2023 2:52 PM
+BAG:kamebubu remove Áo vải 3 lỗ lydo: Mặc cho đệ tử at 03/12/2023 2:52 PM
+BAG:kamebubu remove 1xThỏi vàng lydo: Bán cho shop at 03/12/2023 2:52 PM
+BAG:kamebubu remove 1xThỏi vàng lydo: Bán cho shop at 03/12/2023 2:52 PM
+BAG:kamebubu remove 1xThỏi vàng lydo: Bán cho shop at 03/12/2023 2:52 PM
+BAG:kamebubu remove 1xThỏi vàng lydo: Bán cho shop at 03/12/2023 2:53 PM
+BAG:kamebubu remove 1xThỏi vàng lydo: Bán cho shop at 03/12/2023 2:53 PM
+BAG:kamebubu remove 1xThỏi vàng lydo: Bán cho shop at 03/12/2023 2:53 PM
+BAG:kamebubu remove Cải trang Hatchiyack lydo: Mặc cho đệ tử at 03/12/2023 2:53 PM
+BAG:kamebubu remove Quần vải đen lydo: Mặc cho đệ tử at 03/12/2023 2:54 PM
+BAG:kamebubu remove 1xThỏi vàng lydo: Bán cho shop at 03/12/2023 2:55 PM
+BAG:kamebubu remove 1xThỏi vàng lydo: Bán cho shop at 03/12/2023 2:55 PM
+BAG:kamebubu remove 1xThỏi vàng lydo: Bán cho shop at 03/12/2023 2:55 PM
+BAG:kamebubu remove Giầy nhựa lydo: Mặc cho đệ tử at 03/12/2023 2:55 PM
+BAG:kamebubu remove 1xThỏi vàng lydo: Bán cho shop at 03/12/2023 2:56 PM
+BAG:kamebubu remove 1xThỏi vàng lydo: Bán cho shop at 03/12/2023 2:56 PM
+BAG:kamebubu remove 1xThỏi vàng lydo: Bán cho shop at 03/12/2023 2:56 PM
+BAG:kamebubu remove 1xThỏi vàng lydo: Bán cho shop at 03/12/2023 2:57 PM
+BAG:kamebubu remove 1xThỏi vàng lydo: Bán cho shop at 03/12/2023 2:57 PM
+BAG:kamebubu remove 1xThỏi vàng lydo: Bán cho shop at 03/12/2023 2:57 PM
+BAG:kamebubu remove 1xThỏi vàng lydo: Bán cho shop at 03/12/2023 2:59 PM
+BAG:kamebubu remove 1xThỏi vàng lydo: Bán cho shop at 03/12/2023 2:59 PM
+BAG:kamebubu remove 1xThỏi vàng lydo: Bán cho shop at 03/12/2023 3:00 PM
+BAG:kamebubu remove Áo vải 3 lỗ lydo: Mặc vào người at 03/12/2023 3:01 PM
+BAG:kamebubu remove Quần vải đen lydo: Mặc vào người at 03/12/2023 3:01 PM
+BAG:kamebubu remove Giầy nhựa lydo: Mặc vào người at 03/12/2023 3:01 PM
+BAG:kamebubu remove Tanjiro lydo: Mặc vào người at 03/12/2023 3:01 PM
+BAG:kamebubu remove 1xThỏi vàng lydo: Bán cho shop at 03/12/2023 3:02 PM
+BAG:kamebubu remove 1xThỏi vàng lydo: Bán cho shop at 03/12/2023 3:02 PM
+BAG:kamebubu remove 1xThỏi vàng lydo: Bán cho shop at 03/12/2023 3:02 PM
+BAG:kamebubu remove 1xThỏi vàng lydo: Bán cho shop at 03/12/2023 3:03 PM
+BAG:kamebubu remove 1xThỏi vàng lydo: Bán cho shop at 03/12/2023 3:03 PM
+BAG:kamebubu remove 1xThỏi vàng lydo: Bán cho shop at 03/12/2023 3:03 PM
+BAG:kamebubu remove Quần vải đen lydo: Mặc vào người at 03/12/2023 3:04 PM
+BAG:kamebubu remove Áo vải 3 lỗ lydo: Mặc vào người at 03/12/2023 3:04 PM
+BAG:kamebubu remove 1xThỏi vàng lydo: Bán cho shop at 03/12/2023 3:04 PM
+BAG:kamebubu remove 1xThỏi vàng lydo: Bán cho shop at 03/12/2023 3:04 PM
+BAG:kamebubu remove 1xThỏi vàng lydo: Bán cho shop at 03/12/2023 3:05 PM
+BAG:kamebubu remove Giáp tập luyện cấp 1 lydo: Mặc cho đệ tử at 03/12/2023 3:05 PM
+BAG:kamebubu remove Quần vải đen lydo: Mặc cho đệ tử at 03/12/2023 3:05 PM
+BAG:kamebubu remove Giáp tập luyện cấp 1 lydo: Tự Xóa vật phẩm at 03/12/2023 3:05 PM
+BAG:kamebubu remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 03/12/2023 3:06 PM
+BAG:kamebubu remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 03/12/2023 3:06 PM
+BAG:kamebubu remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 03/12/2023 3:06 PM
+BAG:kamebubu remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 03/12/2023 3:06 PM
+BAG:kamebubu remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 03/12/2023 3:07 PM
+BAG:kamebubu remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 03/12/2023 3:07 PM
+BAG:kamebubu remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 03/12/2023 3:07 PM
+BAG:kamebubu remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 03/12/2023 3:07 PM
+BAG:kamebubu remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 03/12/2023 3:08 PM
+BAG:kamebubu remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 03/12/2023 3:08 PM
+BAG:kamebubu remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 03/12/2023 3:08 PM
+BAG:kamebubu remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 03/12/2023 3:08 PM
+BAG:kamebubu remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 03/12/2023 3:08 PM
+BAG:kamebubu remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 03/12/2023 3:08 PM
+BAG:kamebubu remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 03/12/2023 3:09 PM
+BAG:kamebubu remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 03/12/2023 3:09 PM
+BAG:kamebubu remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 03/12/2023 3:09 PM
+BAG:kamebubu remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 03/12/2023 3:09 PM
+BAG:kamebubu remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 03/12/2023 3:09 PM
+BAG:kamebubu remove Áo vải 3 lỗ lydo: Mặc vào người at 03/12/2023 3:09 PM
+BAG:kamebubu remove Quần vải đen lydo: Mặc vào người at 03/12/2023 3:09 PM
+BAG:kamebubu remove Giầy nhựa lydo: Mặc vào người at 03/12/2023 3:09 PM
+BAG:kamebubu remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 03/12/2023 3:11 PM
+BAG:kamebubu remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 03/12/2023 3:11 PM
+BAG:kamebubu remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 03/12/2023 3:11 PM
+BAG:kamebubu remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 03/12/2023 3:11 PM
+BAG:kamebubu remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 03/12/2023 3:12 PM
+BAG:kamebubu remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 03/12/2023 3:12 PM
+BAG:kamebubu remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 03/12/2023 3:12 PM
+BAG:kamebubu remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 03/12/2023 3:12 PM
+BAG:kamebubu remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 03/12/2023 3:12 PM
+BAG:kamebubu remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 03/12/2023 3:12 PM
+BAG:kamebubu remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 03/12/2023 3:13 PM
+BAG:kamebubu remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 03/12/2023 3:13 PM
+BAG:kamebubu remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 03/12/2023 3:13 PM
+BAG:kamebubu remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 03/12/2023 3:13 PM
+BAG:kamebubu remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 03/12/2023 3:13 PM
+BAG:kamebubu remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 03/12/2023 3:13 PM
+BAG:kamebubu remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 03/12/2023 3:14 PM
+BAG:kamebubu remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 03/12/2023 3:14 PM
+BAG:kamebubu remove Tanjiro lydo: Mặc vào người at 03/12/2023 3:14 PM
+BAG:kamebubu remove Rada cấp 1 lydo: Mặc vào người at 03/12/2023 3:14 PM
+BAG:kamebubu remove Găng vải đen lydo: Mặc vào người at 03/12/2023 3:14 PM
+BAG:kamebubu remove 1xSao pha lê lydo: Ép ngọc rồng at 03/12/2023 3:14 PM
+BAG:kamebubu remove 1xSao pha lê lydo: Ép ngọc rồng at 03/12/2023 3:15 PM
+BAG:kamebubu remove 1xSao pha lê lydo: Ép ngọc rồng at 03/12/2023 3:15 PM
+BAG:kamebubu remove 1xSao pha lê lydo: Ép ngọc rồng at 03/12/2023 3:15 PM
+BAG:kamebubu remove 1xSao pha lê lydo: Ép ngọc rồng at 03/12/2023 3:15 PM
+BAG:kamebubu remove 1xSao pha lê lydo: Ép ngọc rồng at 03/12/2023 3:15 PM
+BAG:kamebubu remove Rada cấp 1 lydo: Mặc cho đệ tử at 03/12/2023 3:16 PM
+BAG:kamebubu remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 03/12/2023 3:16 PM
+BAG:kamebubu remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 03/12/2023 3:16 PM
+BAG:kamebubu remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 03/12/2023 3:17 PM
+BAG:kamebubu remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 03/12/2023 3:17 PM
+BAG:kamebubu remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 03/12/2023 3:17 PM
+BAG:kamebubu remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 03/12/2023 3:17 PM
+BAG:kamebubu remove Giáp tập luyện cấp 1 lydo: Mặc cho đệ tử at 03/12/2023 3:17 PM
+BAG:kamebubu remove Giầy nhựa lydo: Mặc vào người at 03/12/2023 3:17 PM
+BAG:kamebubu remove Áo vải 3 lỗ lydo: Mặc vào người at 03/12/2023 3:17 PM
+BAG:kamebubu remove Quần vải đen lydo: Mặc vào người at 03/12/2023 3:17 PM
+BAG:kamebubu remove Rada cấp 1 lydo: Mặc vào người at 03/12/2023 3:18 PM
+BAG:kamebubu remove 1xNâng cấp kỹ năng 1 đệ tử lydo: Dùng sách kĩ năng đệ tử at 03/12/2023 3:18 PM
+BAG:kamebubu remove 1xNâng cấp kỹ năng 1 đệ tử lydo: Dùng sách kĩ năng đệ tử at 03/12/2023 3:18 PM
+BAG:kamebubu remove 1xNâng cấp kỹ năng 1 đệ tử lydo: Dùng sách kĩ năng đệ tử at 03/12/2023 3:18 PM
+BAG:kamebubu remove 1xNâng cấp kỹ năng 1 đệ tử lydo: Dùng sách kĩ năng đệ tử at 03/12/2023 3:19 PM
+BAG:kamebubu remove 1xNâng cấp kỹ năng 1 đệ tử lydo: Dùng sách kĩ năng đệ tử at 03/12/2023 3:19 PM
+BAG:kamebubu remove 1xNâng cấp kỹ năng 1 đệ tử lydo: Dùng sách kĩ năng đệ tử at 03/12/2023 3:19 PM
+BAG:kamebubu remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/12/2023 3:19 PM
+BAG:kamebubu remove Găng thun dày lydo: Mặc cho đệ tử at 03/12/2023 3:19 PM
+BAG:kamebubu remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/12/2023 3:20 PM
+BAG:kamebubu remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/12/2023 3:20 PM
+BAG:kamebubu remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/12/2023 3:21 PM
+BAG:kamebubu remove 1xGăng thun dày lydo: Bán cho shop at 03/12/2023 3:21 PM
+BAG:kamebubu remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/12/2023 3:22 PM
+BAG:kamebubu remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/12/2023 3:22 PM
+BAG:kamebubu remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/12/2023 3:23 PM
+BAG:kamebubu remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/12/2023 3:23 PM
+BAG:kamebubu remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/12/2023 3:24 PM
+BAG:kamebubu remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/12/2023 3:24 PM
+BAG:kamebubu remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/12/2023 3:24 PM
+BAG:kamebubu remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/12/2023 3:25 PM
+BAG:kamebubu remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/12/2023 3:25 PM
+BAG:kamebubu remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/12/2023 3:27 PM
+BAG:kamebubu remove Sách đấm Dragon lv2 lydo: Sách kĩ năng at 03/12/2023 3:28 PM
+BAG:kamebubu remove Sách đấm Dragon lv3 lydo: Sách kĩ năng at 03/12/2023 3:28 PM
+BAG:kamebubu remove Sách đấm Dragon lv4 lydo: Sách kĩ năng at 03/12/2023 3:28 PM
+BAG:kamebubu remove Sách đấm Dragon lv5 lydo: Sách kĩ năng at 03/12/2023 3:28 PM
+BAG:kamebubu remove Sách đấm Dragon lv6 lydo: Sách kĩ năng at 03/12/2023 3:28 PM
+BAG:kamebubu remove Sách đấm Dragon lv7 lydo: Sách kĩ năng at 03/12/2023 3:28 PM
+BAG:kamebubu remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/12/2023 3:41 PM
+BAG:kamebubu remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/12/2023 3:41 PM
+BAG:kamebubu remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/12/2023 3:43 PM
+BAG:kamebubu remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/12/2023 3:43 PM
+BAG:kamebubu remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/12/2023 3:44 PM
+BAG:kamebubu remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/12/2023 3:47 PM
+BAG:kamebubu remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/12/2023 3:47 PM
+BAG:kamebubu remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/12/2023 3:48 PM
+BAG:kamebubu remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/12/2023 3:49 PM
+BAG:kamebubu remove 1xVệ tinh trí tuệ lydo: Dùng vệ tinh at 03/12/2023 3:50 PM
+BAG:kamebubu remove 4xĐá lục bảo lydo: Bán cho shop at 03/12/2023 3:50 PM
+BAG:kamebubu remove 4xĐá Saphia lydo: Bán cho shop at 03/12/2023 3:50 PM
+BAG:kamebubu remove 5xĐá Titan lydo: Bán cho shop at 03/12/2023 3:50 PM
+BAG:kamebubu remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/12/2023 3:50 PM
+BAG:kamebubu remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/12/2023 3:52 PM
+BAG:kamebubu remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/12/2023 3:53 PM
+BAG:kamebubu remove Găng vải Kame lydo: Tự Xóa vật phẩm at 03/12/2023 3:54 PM
+BAG:kamebubu remove 1xVệ tinh trí tuệ lydo: Dùng vệ tinh at 03/12/2023 3:54 PM
+BAG:kamebubu remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/12/2023 3:55 PM
+BAG:kamebubu remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/12/2023 3:56 PM
+BAG:kamebubu remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/12/2023 3:56 PM
+BAG:kamebubu remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/12/2023 3:56 PM
+BAG:kamebubu remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/12/2023 3:56 PM
+BAG:kamebubu remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/12/2023 3:57 PM
+BAG:kamebubu remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/12/2023 3:57 PM
+BAG:kamebubu remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/12/2023 3:57 PM
+BAG:kamebubu remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/12/2023 3:57 PM
+BAG:kamebubu remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/12/2023 3:57 PM
+BAG:kamebubu remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/12/2023 3:58 PM
+BAG:kamebubu remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/12/2023 3:58 PM
+BAG:kamebubu remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/12/2023 3:58 PM
+BAG:kamebubu remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/12/2023 3:58 PM
+BAG:kamebubu remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/12/2023 3:59 PM
+BAG:kamebubu remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/12/2023 3:59 PM
+BAG:kamebubu remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/12/2023 3:59 PM
+BAG:kamebubu remove CT Genma 02 lydo: Mặc vào người at 03/12/2023 4:00 PM
+BAG:kamebubu remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/12/2023 4:00 PM
+BAG:kamebubu remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/12/2023 4:01 PM
+BAG:kamebubu remove Rada cấp 1 lydo: Mặc vào người at 03/12/2023 4:01 PM
+BAG:kamebubu remove Giầy nhựa lydo: Mặc vào người at 03/12/2023 4:01 PM
+BAG:kamebubu remove Áo vải 3 lỗ lydo: Mặc cho đệ tử at 03/12/2023 4:01 PM
+BAG:kamebubu remove Quần vải đen lydo: Mặc cho đệ tử at 03/12/2023 4:01 PM
+BAG:kamebubu remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/12/2023 4:02 PM
+BAG:kamebubu remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/12/2023 4:02 PM
+BAG:kamebubu remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/12/2023 4:02 PM
+BAG:kamebubu remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/12/2023 4:03 PM
+BAG:kamebubu remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/12/2023 4:03 PM
+BAG:kamebubu remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/12/2023 4:04 PM
+BAG:kamebubu remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/12/2023 4:05 PM
+BAG:kamebubu remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/12/2023 4:05 PM
+BAG:kamebubu remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/12/2023 4:06 PM
+BAG:kamebubu remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/12/2023 4:06 PM
+BAG:kamebubu remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/12/2023 4:07 PM
+BAG:kamebubu remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/12/2023 4:07 PM
+BAG:kamebubu remove Đá lục bảo lydo: Tự Xóa vật phẩm at 03/12/2023 4:07 PM
+BAG:kamebubu remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/12/2023 4:07 PM
+BAG:kamebubu remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/12/2023 4:08 PM
+BAG:kamebubu remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/12/2023 4:09 PM
+BAG:kamebubu remove Cải trang Hatchiyack lydo: Cất vào rương at 03/12/2023 4:09 PM
+BAG:kamebubu remove Sao pha lê lydo: Cất vào rương at 03/12/2023 4:09 PM
+BAG:kamebubu remove Thỏi vàng lydo: Cất vào rương at 03/12/2023 4:09 PM
+BAG:kamebubu remove 1xĐá lục bảo lydo: Bán cho shop at 03/12/2023 4:10 PM
+BAG:kamebubu remove Tanjiro lydo: Mặc vào người at 03/12/2023 4:10 PM
+BAG:kamebubu remove Rada cấp 1 lydo: Mặc vào người at 03/12/2023 4:10 PM
+BAG:kamebubu remove Áo vải 3 lỗ lydo: Mặc vào người at 03/12/2023 4:10 PM
+BAG:kamebubu remove Giầy nhựa lydo: Mặc vào người at 03/12/2023 4:10 PM
+BAG:kamebubu remove Quần vải đen lydo: Mặc vào người at 03/12/2023 4:10 PM
+BAG:kamebubu remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/12/2023 4:12 PM
+BAG:kamebubu remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/12/2023 4:12 PM
+BAG:kamebubu remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/12/2023 4:12 PM
+BAG:kamebubu remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/12/2023 4:13 PM
+BAG:kamebubu remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/12/2023 4:13 PM
+BAG:kamebubu remove 1xVệ tinh trí tuệ lydo: Dùng vệ tinh at 03/12/2023 4:13 PM
+BAG:kamebubu remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/12/2023 4:15 PM
+BAG:kamebubu remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/12/2023 4:18 PM
+BAG:kamebubu remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/12/2023 4:21 PM
+BAG:kamebubu remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/12/2023 4:23 PM
+BAG:kamebubu remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/12/2023 4:23 PM
+BAG:kamebubu remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/12/2023 4:24 PM
+BAG:kamebubu remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/12/2023 4:28 PM
+BAG:kamebubu remove Găng vải đen lydo: Mặc vào người at 03/12/2023 4:28 PM
+BAG:kamebubu remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/12/2023 4:30 PM
+BAG:kamebubu remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/12/2023 4:30 PM
+BAG:kamebubu remove 1xVệ tinh trí tuệ lydo: Dùng vệ tinh at 03/12/2023 4:31 PM
+BAG:kamebubu remove Tanjiro lydo: Mặc vào người at 03/12/2023 4:32 PM
+BAG:kamebubu remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/12/2023 4:34 PM
+BAG:kamebubu remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/12/2023 4:40 PM
+BAG:kamebubu remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/12/2023 4:43 PM
+BAG:kamebubu remove Tanjiro lydo: Mặc vào người at 03/12/2023 4:43 PM
+BAG:kamebubu remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/12/2023 4:43 PM
+BAG:kamebubu remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/12/2023 4:47 PM
+BAG:kamebubu remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/12/2023 4:50 PM
+BAG:kamebubu remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/12/2023 4:50 PM
+BAG:kamebubu remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/12/2023 4:59 PM
+BAG:kamebubu remove Tanjiro lydo: Mặc vào người at 03/12/2023 5:02 PM
+BAG:kamebubu remove 7xĐá Ruby lydo: Bán cho shop at 03/12/2023 5:02 PM
+BAG:kamebubu remove 1xTự động luyện tập lydo: Bán cho shop at 03/12/2023 5:02 PM
+BAG:kamebubu remove Hoa hồng vàng lydo: Cất vào rương at 03/12/2023 5:03 PM
+BAG:kamebubu remove Hoa hồng đỏ lydo: Cất vào rương at 03/12/2023 5:03 PM
+BAG:kamebubu remove Hoa hồng xanh lydo: Cất vào rương at 03/12/2023 5:03 PM
+BAG:kamebubu remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/12/2023 5:03 PM
+BAG:kamebubu remove 1xThỏi vàng lydo: Bán cho shop at 03/12/2023 5:03 PM
+BAG:kamebubu remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 03/12/2023 5:04 PM
+BAG:kamebubu remove 1xĐổi đệ tử lydo: Dùng đổi đệ tử at 03/12/2023 5:05 PM
+BAG:kamebubu remove 1xĐổi đệ tử lydo: Dùng đổi đệ tử at 03/12/2023 5:05 PM
+BAG:kamebubu remove 1xĐổi đệ tử lydo: Dùng đổi đệ tử at 03/12/2023 5:05 PM
+BAG:kamebubu remove 1xĐổi đệ tử lydo: Dùng đổi đệ tử at 03/12/2023 5:06 PM
+BAG:kamebubu remove 1xĐổi đệ tử lydo: Dùng đổi đệ tử at 03/12/2023 5:06 PM
+BAG:kamebubu remove 1xĐổi đệ tử lydo: Dùng đổi đệ tử at 03/12/2023 5:06 PM
+BAG:kamebubu remove 1xĐổi đệ tử lydo: Dùng đổi đệ tử at 03/12/2023 5:06 PM
+BAG:kamebubu remove 1xĐổi đệ tử lydo: Dùng đổi đệ tử at 03/12/2023 5:06 PM
+BAG:kamebubu remove 1xĐổi đệ tử lydo: Dùng đổi đệ tử at 03/12/2023 5:06 PM
+BAG:kamebubu remove 1xĐổi đệ tử lydo: Dùng đổi đệ tử at 03/12/2023 5:07 PM
+BAG:kamebubu remove 1xĐổi đệ tử lydo: Dùng đổi đệ tử at 03/12/2023 5:07 PM
+BAG:kamebubu remove 1xĐổi đệ tử lydo: Dùng đổi đệ tử at 03/12/2023 5:07 PM
+BAG:kamebubu remove 1xĐổi đệ tử lydo: Dùng đổi đệ tử at 03/12/2023 5:07 PM
+BAG:kamebubu remove 1xĐổi đệ tử lydo: Dùng đổi đệ tử at 03/12/2023 5:07 PM
+BAG:kamebubu remove 1xĐổi đệ tử lydo: Dùng đổi đệ tử at 03/12/2023 5:08 PM
+BAG:kamebubu remove 1xĐổi đệ tử lydo: Dùng đổi đệ tử at 03/12/2023 5:08 PM
+BAG:kamebubu remove 1xĐổi đệ tử lydo: Dùng đổi đệ tử at 03/12/2023 5:09 PM
+BAG:kamebubu remove 1xĐổi đệ tử lydo: Dùng đổi đệ tử at 03/12/2023 5:09 PM
+BAG:kamebubu remove 1xĐổi đệ tử lydo: Dùng đổi đệ tử at 03/12/2023 5:09 PM
+BAG:kamebubu remove 1xĐổi đệ tử lydo: Dùng đổi đệ tử at 03/12/2023 5:09 PM
+BAG:kamebubu remove 1xĐổi đệ tử lydo: Dùng đổi đệ tử at 03/12/2023 5:09 PM
+BAG:kamebubu remove 1xĐổi đệ tử lydo: Dùng đổi đệ tử at 03/12/2023 5:09 PM
+BAG:kamebubu remove 1xĐổi đệ tử lydo: Dùng đổi đệ tử at 03/12/2023 5:09 PM
+BAG:kamebubu remove 1xĐổi đệ tử lydo: Dùng đổi đệ tử at 03/12/2023 5:09 PM
+BAG:kamebubu remove 1xĐổi đệ tử lydo: Dùng đổi đệ tử at 03/12/2023 5:09 PM
+BAG:kamebubu remove 1xĐổi đệ tử lydo: Dùng đổi đệ tử at 03/12/2023 5:09 PM
+BAG:kamebubu remove 1xĐổi đệ tử lydo: Dùng đổi đệ tử at 03/12/2023 5:10 PM
+BAG:kamebubu remove 1xĐổi đệ tử lydo: Dùng đổi đệ tử at 03/12/2023 5:10 PM
+BAG:kamebubu remove 1xĐổi đệ tử lydo: Dùng đổi đệ tử at 03/12/2023 5:10 PM
+BAG:kamebubu remove 1xĐổi đệ tử lydo: Dùng đổi đệ tử at 03/12/2023 5:10 PM
+BAG:kamebubu remove 1xĐổi đệ tử lydo: Dùng đổi đệ tử at 03/12/2023 5:10 PM
+BAG:kamebubu remove 1xĐổi đệ tử lydo: Dùng đổi đệ tử at 03/12/2023 5:10 PM
+BAG:kamebubu remove 1xĐổi đệ tử lydo: Dùng đổi đệ tử at 03/12/2023 5:10 PM
+BAG:kamebubu remove 1xĐổi đệ tử lydo: Dùng đổi đệ tử at 03/12/2023 5:11 PM
+BAG:kamebubu remove 1xĐổi đệ tử lydo: Dùng đổi đệ tử at 03/12/2023 5:11 PM
+BAG:kamebubu remove 1xĐổi đệ tử lydo: Dùng đổi đệ tử at 03/12/2023 5:11 PM
+BAG:kamebubu remove 1xĐổi đệ tử lydo: Dùng đổi đệ tử at 03/12/2023 5:11 PM
+BAG:kamebubu remove 1xĐổi đệ tử lydo: Dùng đổi đệ tử at 03/12/2023 5:11 PM
+BAG:kamebubu remove 1xĐổi đệ tử lydo: Dùng đổi đệ tử at 03/12/2023 5:12 PM
+BAG:kamebubu remove 1xĐổi đệ tử lydo: Dùng đổi đệ tử at 03/12/2023 5:12 PM
+BAG:kamebubu remove 1xĐổi đệ tử lydo: Dùng đổi đệ tử at 03/12/2023 5:12 PM
+BAG:kamebubu remove 1xĐổi đệ tử lydo: Dùng đổi đệ tử at 03/12/2023 5:12 PM
+BAG:kamebubu remove 1xĐổi đệ tử lydo: Dùng đổi đệ tử at 03/12/2023 5:12 PM
+BAG:kamebubu remove 1xĐổi đệ tử lydo: Dùng đổi đệ tử at 03/12/2023 5:12 PM
+BAG:kamebubu remove 1xĐổi đệ tử lydo: Dùng đổi đệ tử at 03/12/2023 5:12 PM
+BAG:kamebubu remove 1xĐổi đệ tử lydo: Dùng đổi đệ tử at 03/12/2023 5:12 PM
+BAG:kamebubu remove Đổi đệ tử lydo: Tự Xóa vật phẩm at 03/12/2023 5:12 PM
+BAG:kamebubu remove 1xThỏi vàng lydo: Bán cho shop at 03/12/2023 5:13 PM
+BAG:kamebubu remove 1xThỏi vàng lydo: Bán cho shop at 03/12/2023 5:13 PM
+BAG:kamebubu remove 1xThỏi vàng lydo: Bán cho shop at 03/12/2023 5:13 PM
+BAG:kamebubu remove 1xThỏi vàng lydo: Bán cho shop at 03/12/2023 5:14 PM
+BAG:kamebubu remove 1xThỏi vàng lydo: Bán cho shop at 03/12/2023 5:14 PM
+BAG:kamebubu remove 1xThỏi vàng lydo: Bán cho shop at 03/12/2023 5:14 PM
+BAG:kamebubu remove 4xNgọc Rồng 5 sao lydo: Bán cho shop at 03/12/2023 5:15 PM
+BAG:kamebubu remove Giáp tập luyện cấp 3 lydo: Mặc vào người at 03/12/2023 5:15 PM
+BAG:kamebubu remove Cột nhà lydo: Cất vào rương at 03/12/2023 5:16 PM
+BAG:kamebubu remove 1xThỏi vàng lydo: Bán cho shop at 03/12/2023 5:16 PM
+BAG:kamebubu remove 1xThỏi vàng lydo: Bán cho shop at 03/12/2023 5:16 PM
+BAG:kamebubu remove 1xThỏi vàng lydo: Bán cho shop at 03/12/2023 5:16 PM
+BAG:kamebubu remove 1xThỏi vàng lydo: Bán cho shop at 03/12/2023 5:17 PM
+BAG:kamebubu remove 1xThỏi vàng lydo: Bán cho shop at 03/12/2023 5:17 PM
+BAG:kamebubu remove 1xThỏi vàng lydo: Bán cho shop at 03/12/2023 5:17 PM
+BAG:kamebubu remove 1xThỏi vàng lydo: Bán cho shop at 03/12/2023 5:18 PM
+BAG:kamebubu remove 1xThỏi vàng lydo: Bán cho shop at 03/12/2023 5:19 PM
+BAG:kamebubu remove 1xThỏi vàng lydo: Bán cho shop at 03/12/2023 5:19 PM
+BAG:kamebubu remove 1xThỏi vàng lydo: Bán cho shop at 03/12/2023 5:19 PM
+BAG:kamebubu remove 1xThỏi vàng lydo: Bán cho shop at 03/12/2023 5:19 PM
+BAG:kamebubu remove 1xThỏi vàng lydo: Bán cho shop at 03/12/2023 5:19 PM

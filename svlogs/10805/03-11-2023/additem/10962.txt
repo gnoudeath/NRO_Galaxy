@@ -1,0 +1,68 @@
+BAG:phopho221 add 226xThỏi vàng (old: 126) lydo: Giftcode at 03/11/2023 9:18 AM
+BAG:phopho221 add 46xĐậu thần cấp 10 (old: 26) lydo: Lấy từ rương qua người at 03/11/2023 9:19 AM
+BAG:phopho221 add 66xĐậu thần cấp 10 (old: 46) lydo: Lấy từ rương qua người at 03/11/2023 9:20 AM
+BAG:phopho221 add 86xĐậu thần cấp 10 (old: 66) lydo: Lấy từ rương qua người at 03/11/2023 9:20 AM
+BAG:phopho221 add 7xĐậu thần cấp 10 lydo: Lấy từ rương qua người at 03/11/2023 9:20 AM
+BAG:phopho221 add 99xĐậu thần cấp 10 (old: 86) lydo: Lấy từ rương qua người at 03/11/2023 9:20 AM
+BAG:phopho221 add 1xGăng võ goku lydo: Mua từ cửa hàng at 03/11/2023 9:21 AM
+BAG:phopho221 add 210xHoa hồng vàng (old: 209) lydo: Nhặt từ map at 03/11/2023 9:22 AM
+BAG:phopho221 add 211xHoa hồng vàng (old: 210) lydo: Nhặt từ map at 03/11/2023 9:22 AM
+BAG:phopho221 add 1xGăng vải đen lydo: Nhặt từ map at 03/11/2023 9:23 AM
+BAG:phopho221 add 170xHoa hồng xanh (old: 169) lydo: Nhặt từ map at 03/11/2023 9:24 AM
+BAG:phopho221 add 1xÁo vải 3 lỗ lydo: Lấy từ body đệ vào hành trang at 03/11/2023 9:24 AM
+BAG:phopho221 add 1xQuần vải đen lydo: Lấy từ body đệ vào hành trang at 03/11/2023 9:25 AM
+BAG:phopho221 add 1xGiầy nhựa lydo: Lấy từ body đệ vào hành trang at 03/11/2023 9:25 AM
+BAG:phopho221 add 1xRada cấp 1 lydo: Lấy từ body đệ vào hành trang at 03/11/2023 9:25 AM
+BAG:phopho221 add 1xCT Genma 01 lydo: Lấy từ body vào hành trang at 03/11/2023 9:30 AM
+BAG:phopho221 add 1xÁo vải 3 lỗ lydo: Lấy từ body vào hành trang at 03/11/2023 9:31 AM
+BAG:phopho221 add 1xQuần vải đen lydo: Lấy từ body vào hành trang at 03/11/2023 9:31 AM
+BAG:phopho221 add 160xHoa hồng đỏ (old: 159) lydo: Nhặt từ map at 03/11/2023 9:31 AM
+BAG:phopho221 add 1xGiầy nhựa lydo: Lấy từ body vào hành trang at 03/11/2023 9:31 AM
+BAG:phopho221 add 1xRada cấp 1 lydo: Lấy từ body vào hành trang at 03/11/2023 9:31 AM
+BAG:phopho221 add 1xĐá Titan lydo: Nhặt từ map at 03/11/2023 9:31 AM
+BAG:phopho221 add 171xHoa hồng xanh (old: 170) lydo: Nhặt từ map at 03/11/2023 9:32 AM
+BAG:phopho221 add 161xHoa hồng đỏ (old: 160) lydo: Nhặt từ map at 03/11/2023 9:32 AM
+BAG:phopho221 add 162xHoa hồng đỏ (old: 161) lydo: Nhặt từ map at 03/11/2023 9:32 AM
+BAG:phopho221 add 172xHoa hồng xanh (old: 171) lydo: Nhặt từ map at 03/11/2023 9:32 AM
+BAG:phopho221 add 163xHoa hồng đỏ (old: 162) lydo: Nhặt từ map at 03/11/2023 9:32 AM
+BAG:phopho221 add 212xHoa hồng vàng (old: 211) lydo: Nhặt từ map at 03/11/2023 9:32 AM
+BAG:phopho221 add 173xHoa hồng xanh (old: 172) lydo: Nhặt từ map at 03/11/2023 9:32 AM
+BAG:phopho221 add 164xHoa hồng đỏ (old: 163) lydo: Nhặt từ map at 03/11/2023 9:32 AM
+BAG:phopho221 add 165xHoa hồng đỏ (old: 164) lydo: Nhặt từ map at 03/11/2023 9:33 AM
+BAG:phopho221 add 174xHoa hồng xanh (old: 173) lydo: Nhặt từ map at 03/11/2023 9:33 AM
+BAG:phopho221 add 1xĐá thạch anh tím lydo: Nhặt từ map at 03/11/2023 9:33 AM
+BAG:phopho221 add 166xHoa hồng đỏ (old: 165) lydo: Nhặt từ map at 03/11/2023 9:33 AM
+BAG:phopho221 add 167xHoa hồng đỏ (old: 166) lydo: Nhặt từ map at 03/11/2023 9:33 AM
+BAG:phopho221 add 213xHoa hồng vàng (old: 212) lydo: Nhặt từ map at 03/11/2023 9:33 AM
+BAG:phopho221 add 214xHoa hồng vàng (old: 213) lydo: Nhặt từ map at 03/11/2023 9:33 AM
+BAG:phopho221 add 175xHoa hồng xanh (old: 174) lydo: Nhặt từ map at 03/11/2023 9:34 AM
+BAG:phopho221 add 168xHoa hồng đỏ (old: 167) lydo: Nhặt từ map at 03/11/2023 9:34 AM
+BAG:phopho221 add 215xHoa hồng vàng (old: 214) lydo: Nhặt từ map at 03/11/2023 9:34 AM
+BAG:phopho221 add 176xHoa hồng xanh (old: 175) lydo: Nhặt từ map at 03/11/2023 9:34 AM
+BAG:phopho221 add 216xHoa hồng vàng (old: 215) lydo: Nhặt từ map at 03/11/2023 9:34 AM
+BAG:phopho221 add 217xHoa hồng vàng (old: 216) lydo: Nhặt từ map at 03/11/2023 9:34 AM
+BAG:phopho221 add 169xHoa hồng đỏ (old: 168) lydo: Nhặt từ map at 03/11/2023 9:35 AM
+BAG:phopho221 add 218xHoa hồng vàng (old: 217) lydo: Nhặt từ map at 03/11/2023 9:35 AM
+BAG:phopho221 add 177xHoa hồng xanh (old: 176) lydo: Nhặt từ map at 03/11/2023 9:35 AM
+BAG:phopho221 add 2xĐá thạch anh tím (old: 1) lydo: Nhặt từ map at 03/11/2023 9:35 AM
+BAG:phopho221 add 170xHoa hồng đỏ (old: 169) lydo: Nhặt từ map at 03/11/2023 9:35 AM
+BAG:phopho221 add 219xHoa hồng vàng (old: 218) lydo: Nhặt từ map at 03/11/2023 9:35 AM
+BAG:phopho221 add 178xHoa hồng xanh (old: 177) lydo: Nhặt từ map at 03/11/2023 9:35 AM
+BAG:phopho221 add 179xHoa hồng xanh (old: 178) lydo: Nhặt từ map at 03/11/2023 9:36 AM
+BAG:phopho221 add 171xHoa hồng đỏ (old: 170) lydo: Nhặt từ map at 03/11/2023 9:36 AM
+BAG:phopho221 add 172xHoa hồng đỏ (old: 171) lydo: Nhặt từ map at 03/11/2023 9:36 AM
+BAG:phopho221 add 220xHoa hồng vàng (old: 219) lydo: Nhặt từ map at 03/11/2023 9:36 AM
+BAG:phopho221 add 180xHoa hồng xanh (old: 179) lydo: Nhặt từ map at 03/11/2023 9:36 AM
+BAG:phopho221 add 221xHoa hồng vàng (old: 220) lydo: Nhặt từ map at 03/11/2023 12:40 PM
+BAG:phopho221 add 173xHoa hồng đỏ (old: 172) lydo: Nhặt từ map at 03/11/2023 12:40 PM
+BAG:phopho221 add 3xĐá thạch anh tím (old: 2) lydo: Nhặt từ map at 03/11/2023 12:40 PM
+BAG:phopho221 add 174xHoa hồng đỏ (old: 173) lydo: Nhặt từ map at 03/11/2023 12:40 PM
+BAG:phopho221 add 181xHoa hồng xanh (old: 180) lydo: Nhặt từ map at 03/11/2023 12:41 PM
+BAG:phopho221 add 175xHoa hồng đỏ (old: 174) lydo: Nhặt từ map at 03/11/2023 12:41 PM
+BAG:phopho221 add 176xHoa hồng đỏ (old: 175) lydo: Nhặt từ map at 03/11/2023 12:43 PM
+BAG:phopho221 add 177xHoa hồng đỏ (old: 176) lydo: Nhặt từ map at 03/11/2023 12:43 PM
+BAG:phopho221 add 222xHoa hồng vàng (old: 221) lydo: Nhặt từ map at 03/11/2023 12:43 PM
+BAG:phopho221 add 178xHoa hồng đỏ (old: 177) lydo: Nhặt từ map at 03/11/2023 12:43 PM
+BAG:phopho221 add 182xHoa hồng xanh (old: 181) lydo: Nhặt từ map at 03/11/2023 12:43 PM
+BAG:phopho221 add 179xHoa hồng đỏ (old: 178) lydo: Nhặt từ map at 03/11/2023 12:44 PM
+BAG:phopho221 add 183xHoa hồng xanh (old: 182) lydo: Nhặt từ map at 03/11/2023 12:44 PM

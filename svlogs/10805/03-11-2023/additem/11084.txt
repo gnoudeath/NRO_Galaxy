@@ -1,0 +1,108 @@
+BAG:ocxiga add 1xRada cấp 1 lydo: Lấy từ body vào hành trang at 03/11/2023 6:49 AM
+BAG:ocxiga add 10xĐậu thần cấp 7 lydo: Thu hoạch đậu at 03/11/2023 6:50 AM
+BAG:ocxiga add 174xThỏi vàng (old: 74) lydo: Giftcode at 03/11/2023 6:50 AM
+BAG:ocxiga add 99xViên Capsule kì bí lydo: Mua từ bill at 03/11/2023 6:51 AM
+BAG:ocxiga add 99xViên Capsule kì bí lydo: Mua từ bill at 03/11/2023 6:51 AM
+BAG:ocxiga add 99xViên Capsule kì bí lydo: Mua từ bill at 03/11/2023 6:51 AM
+BAG:ocxiga add 99xViên Capsule kì bí lydo: Mua từ bill at 03/11/2023 6:51 AM
+BAG:ocxiga add 99xViên Capsule kì bí lydo: Mua từ bill at 03/11/2023 6:51 AM
+BAG:ocxiga add 18xCuồng nộ (old: 17) lydo: CSKB at 03/11/2023 6:51 AM
+BAG:ocxiga add 1xẨn danh lydo: CSKB at 03/11/2023 6:51 AM
+BAG:ocxiga add 1xBổ khí lydo: CSKB at 03/11/2023 6:51 AM
+BAG:ocxiga add 2xẨn danh (old: 1) lydo: CSKB at 03/11/2023 6:51 AM
+BAG:ocxiga add 3xẨn danh (old: 2) lydo: CSKB at 03/11/2023 6:51 AM
+BAG:ocxiga add 19xCuồng nộ (old: 18) lydo: CSKB at 03/11/2023 6:51 AM
+BAG:ocxiga add 2xBổ khí (old: 1) lydo: CSKB at 03/11/2023 7:26 AM
+BAG:ocxiga add 20xCuồng nộ (old: 19) lydo: CSKB at 03/11/2023 7:26 AM
+BAG:ocxiga add 4xẨn danh (old: 3) lydo: CSKB at 03/11/2023 7:26 AM
+BAG:ocxiga add 5xẨn danh (old: 4) lydo: CSKB at 03/11/2023 7:26 AM
+BAG:ocxiga add 6xẨn danh (old: 5) lydo: CSKB at 03/11/2023 7:26 AM
+BAG:ocxiga add 7xẨn danh (old: 6) lydo: CSKB at 03/11/2023 7:26 AM
+BAG:ocxiga add 3xBổ khí (old: 2) lydo: CSKB at 03/11/2023 7:26 AM
+BAG:ocxiga add 3xBổ huyết (old: 2) lydo: CSKB at 03/11/2023 7:26 AM
+BAG:ocxiga add 8xẨn danh (old: 7) lydo: CSKB at 03/11/2023 7:26 AM
+BAG:ocxiga add 9xẨn danh (old: 8) lydo: CSKB at 03/11/2023 7:26 AM
+BAG:ocxiga add 21xCuồng nộ (old: 20) lydo: CSKB at 03/11/2023 7:26 AM
+BAG:ocxiga add 4xBổ huyết (old: 3) lydo: CSKB at 03/11/2023 7:26 AM
+BAG:ocxiga add 10xẨn danh (old: 9) lydo: CSKB at 03/11/2023 7:26 AM
+BAG:ocxiga add 4xBổ khí (old: 3) lydo: CSKB at 03/11/2023 7:26 AM
+BAG:ocxiga add 11xẨn danh (old: 10) lydo: CSKB at 03/11/2023 7:26 AM
+BAG:ocxiga add 22xCuồng nộ (old: 21) lydo: CSKB at 03/11/2023 7:26 AM
+BAG:ocxiga add 12xẨn danh (old: 11) lydo: CSKB at 03/11/2023 7:27 AM
+BAG:ocxiga add 5xBổ khí (old: 4) lydo: CSKB at 03/11/2023 7:27 AM
+BAG:ocxiga add 6xBổ khí (old: 5) lydo: CSKB at 03/11/2023 7:27 AM
+BAG:ocxiga add 23xCuồng nộ (old: 22) lydo: CSKB at 03/11/2023 7:27 AM
+BAG:ocxiga add 24xCuồng nộ (old: 23) lydo: CSKB at 03/11/2023 7:27 AM
+BAG:ocxiga add 5xBổ huyết (old: 4) lydo: CSKB at 03/11/2023 7:27 AM
+BAG:ocxiga add 13xẨn danh (old: 12) lydo: CSKB at 03/11/2023 7:27 AM
+BAG:ocxiga add 14xẨn danh (old: 13) lydo: CSKB at 03/11/2023 7:27 AM
+BAG:ocxiga add 15xẨn danh (old: 14) lydo: CSKB at 03/11/2023 7:27 AM
+BAG:ocxiga add 6xBổ huyết (old: 5) lydo: CSKB at 03/11/2023 7:27 AM
+BAG:ocxiga add 16xẨn danh (old: 15) lydo: CSKB at 03/11/2023 7:28 AM
+BAG:ocxiga add 17xẨn danh (old: 16) lydo: CSKB at 03/11/2023 7:28 AM
+BAG:ocxiga add 1xHoa hồng xanh lydo: Nhặt từ map at 03/11/2023 7:28 AM
+BAG:ocxiga add 7xBổ huyết (old: 6) lydo: CSKB at 03/11/2023 7:28 AM
+BAG:ocxiga add 18xẨn danh (old: 17) lydo: CSKB at 03/11/2023 7:28 AM
+BAG:ocxiga add 7xBổ khí (old: 6) lydo: CSKB at 03/11/2023 7:28 AM
+BAG:ocxiga add 25xCuồng nộ (old: 24) lydo: CSKB at 03/11/2023 12:29 PM
+BAG:ocxiga add 19xẨn danh (old: 18) lydo: CSKB at 03/11/2023 12:29 PM
+BAG:ocxiga add 8xBổ huyết (old: 7) lydo: CSKB at 03/11/2023 12:29 PM
+BAG:ocxiga add 8xBổ khí (old: 7) lydo: CSKB at 03/11/2023 12:29 PM
+BAG:ocxiga add 26xCuồng nộ (old: 25) lydo: CSKB at 03/11/2023 12:29 PM
+BAG:ocxiga add 20xẨn danh (old: 19) lydo: CSKB at 03/11/2023 12:29 PM
+BAG:ocxiga add 21xẨn danh (old: 20) lydo: CSKB at 03/11/2023 12:29 PM
+BAG:ocxiga add 9xBổ khí (old: 8) lydo: CSKB at 03/11/2023 12:29 PM
+BAG:ocxiga add 27xCuồng nộ (old: 26) lydo: CSKB at 03/11/2023 12:29 PM
+BAG:ocxiga add 28xCuồng nộ (old: 27) lydo: CSKB at 03/11/2023 12:30 PM
+BAG:ocxiga add 22xẨn danh (old: 21) lydo: CSKB at 03/11/2023 12:30 PM
+BAG:ocxiga add 10xBổ khí (old: 9) lydo: CSKB at 03/11/2023 12:30 PM
+BAG:ocxiga add 23xẨn danh (old: 22) lydo: CSKB at 03/11/2023 12:30 PM
+BAG:ocxiga add 24xẨn danh (old: 23) lydo: CSKB at 03/11/2023 12:30 PM
+BAG:ocxiga add 25xẨn danh (old: 24) lydo: CSKB at 03/11/2023 12:30 PM
+BAG:ocxiga add 29xCuồng nộ (old: 28) lydo: CSKB at 03/11/2023 12:30 PM
+BAG:ocxiga add 11xBổ khí (old: 10) lydo: CSKB at 03/11/2023 12:30 PM
+BAG:ocxiga add 26xẨn danh (old: 25) lydo: CSKB at 03/11/2023 12:30 PM
+BAG:ocxiga add 30xCuồng nộ (old: 29) lydo: CSKB at 03/11/2023 12:30 PM
+BAG:ocxiga add 31xCuồng nộ (old: 30) lydo: CSKB at 03/11/2023 12:31 PM
+BAG:ocxiga add 27xẨn danh (old: 26) lydo: CSKB at 03/11/2023 12:31 PM
+BAG:ocxiga add 28xẨn danh (old: 27) lydo: CSKB at 03/11/2023 12:31 PM
+BAG:ocxiga add 9xBổ huyết (old: 8) lydo: CSKB at 03/11/2023 12:31 PM
+BAG:ocxiga add 32xCuồng nộ (old: 31) lydo: CSKB at 03/11/2023 12:31 PM
+BAG:ocxiga add 33xCuồng nộ (old: 32) lydo: CSKB at 03/11/2023 12:31 PM
+BAG:ocxiga add 34xCuồng nộ (old: 33) lydo: CSKB at 03/11/2023 12:31 PM
+BAG:ocxiga add 29xẨn danh (old: 28) lydo: CSKB at 03/11/2023 12:31 PM
+BAG:ocxiga add 12xBổ khí (old: 11) lydo: CSKB at 03/11/2023 12:31 PM
+BAG:ocxiga add 30xẨn danh (old: 29) lydo: CSKB at 03/11/2023 12:31 PM
+BAG:ocxiga add 35xCuồng nộ (old: 34) lydo: CSKB at 03/11/2023 12:31 PM
+BAG:ocxiga add 31xẨn danh (old: 30) lydo: CSKB at 03/11/2023 12:32 PM
+BAG:ocxiga add 32xẨn danh (old: 31) lydo: CSKB at 03/11/2023 12:32 PM
+BAG:ocxiga add 33xẨn danh (old: 32) lydo: CSKB at 03/11/2023 12:32 PM
+BAG:ocxiga add 34xẨn danh (old: 33) lydo: CSKB at 03/11/2023 12:32 PM
+BAG:ocxiga add 35xẨn danh (old: 34) lydo: CSKB at 03/11/2023 12:32 PM
+BAG:ocxiga add 36xẨn danh (old: 35) lydo: CSKB at 03/11/2023 12:32 PM
+BAG:ocxiga add 36xCuồng nộ (old: 35) lydo: CSKB at 03/11/2023 12:32 PM
+BAG:ocxiga add 37xẨn danh (old: 36) lydo: CSKB at 03/11/2023 12:32 PM
+BAG:ocxiga add 37xCuồng nộ (old: 36) lydo: CSKB at 03/11/2023 12:32 PM
+BAG:ocxiga add 38xẨn danh (old: 37) lydo: CSKB at 03/11/2023 12:32 PM
+BAG:ocxiga add 38xCuồng nộ (old: 37) lydo: CSKB at 03/11/2023 12:32 PM
+BAG:ocxiga add 39xCuồng nộ (old: 38) lydo: CSKB at 03/11/2023 12:32 PM
+BAG:ocxiga add 39xẨn danh (old: 38) lydo: CSKB at 03/11/2023 12:32 PM
+BAG:ocxiga add 40xCuồng nộ (old: 39) lydo: CSKB at 03/11/2023 12:32 PM
+BAG:ocxiga add 13xBổ khí (old: 12) lydo: CSKB at 03/11/2023 12:33 PM
+BAG:ocxiga add 40xẨn danh (old: 39) lydo: CSKB at 03/11/2023 12:33 PM
+BAG:ocxiga add 41xẨn danh (old: 40) lydo: CSKB at 03/11/2023 12:33 PM
+BAG:ocxiga add 42xẨn danh (old: 41) lydo: CSKB at 03/11/2023 12:33 PM
+BAG:ocxiga add 43xẨn danh (old: 42) lydo: CSKB at 03/11/2023 12:33 PM
+BAG:ocxiga add 44xẨn danh (old: 43) lydo: CSKB at 03/11/2023 12:33 PM
+BAG:ocxiga add 10xBổ huyết (old: 9) lydo: CSKB at 03/11/2023 12:33 PM
+BAG:ocxiga add 45xẨn danh (old: 44) lydo: CSKB at 03/11/2023 12:33 PM
+BAG:ocxiga add 46xẨn danh (old: 45) lydo: CSKB at 03/11/2023 12:33 PM
+BAG:ocxiga add 1xGiáp tập luyện cấp 1 lydo: Lấy từ body vào hành trang at 03/11/2023 12:34 PM
+BAG:ocxiga add 40xCuồng nộ (old: 39) lydo: CSKB at 03/11/2023 12:34 PM
+BAG:ocxiga add 14xBổ khí (old: 13) lydo: CSKB at 03/11/2023 12:34 PM
+BAG:ocxiga add 47xẨn danh (old: 46) lydo: CSKB at 03/11/2023 12:34 PM
+BAG:ocxiga add 11xBổ huyết (old: 10) lydo: CSKB at 03/11/2023 12:34 PM
+BAG:ocxiga add 41xCuồng nộ (old: 40) lydo: CSKB at 03/11/2023 12:34 PM
+BAG:ocxiga add 15xBổ khí (old: 14) lydo: CSKB at 03/11/2023 12:34 PM
+BAG:ocxiga add 42xCuồng nộ (old: 41) lydo: CSKB at 03/11/2023 12:34 PM
+BAG:ocxiga add 1xHoa hồng vàng lydo: Nhặt từ map at 03/11/2023 12:35 PM

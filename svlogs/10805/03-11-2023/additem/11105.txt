@@ -1,0 +1,89 @@
+BAG:pocolo add 1xQuần sợi len lydo: Nhặt từ map at 03/11/2023 10:23 AM
+BAG:pocolo add 4xHoa hồng đỏ (old: 3) lydo: Nhặt từ map at 03/11/2023 10:24 AM
+BAG:pocolo add 6xHoa hồng xanh (old: 5) lydo: Nhặt từ map at 03/11/2023 10:24 AM
+BAG:pocolo add 15xHoa hồng vàng (old: 14) lydo: Nhặt từ map at 03/11/2023 10:24 AM
+BAG:pocolo add 7xHoa hồng xanh (old: 6) lydo: Nhặt từ map at 03/11/2023 10:24 AM
+BAG:pocolo add 5xĐậu thần cấp 1 lydo: Thu hoạch đậu at 03/11/2023 10:26 AM
+BAG:pocolo add 10xĐậu thần cấp 1 (old: 5) lydo: Thu hoạch đậu at 03/11/2023 10:26 AM
+BAG:pocolo add 1xRada cấp 1 lydo: Lấy từ rương qua người at 03/11/2023 10:26 AM
+BAG:pocolo add 16xHoa hồng vàng (old: 15) lydo: Nhặt từ map at 03/11/2023 10:26 AM
+BAG:pocolo add 1xNgọc Rồng 5 sao lydo: Nhặt từ map at 03/11/2023 10:26 AM
+BAG:pocolo add 1xRada cấp 1 lydo: Nhặt từ map at 03/11/2023 10:26 AM
+BAG:pocolo add 1xRada cấp 1 lydo: Nhặt từ map at 03/11/2023 10:27 AM
+BAG:pocolo add 4xĐá Saphia (old: 3) lydo: Nhặt từ map at 03/11/2023 10:27 AM
+BAG:pocolo add 8xHoa hồng xanh (old: 7) lydo: Nhặt từ map at 03/11/2023 10:27 AM
+BAG:pocolo add 9xHoa hồng xanh (old: 8) lydo: Nhặt từ map at 03/11/2023 10:27 AM
+BAG:pocolo add 10xHoa hồng xanh (old: 9) lydo: Nhặt từ map at 03/11/2023 10:28 AM
+BAG:pocolo add 11xHoa hồng xanh (old: 10) lydo: Nhặt từ map at 03/11/2023 10:28 AM
+BAG:pocolo add 17xHoa hồng vàng (old: 16) lydo: Nhặt từ map at 03/11/2023 10:29 AM
+BAG:pocolo add 5xHoa hồng đỏ (old: 4) lydo: Nhặt từ map at 03/11/2023 10:29 AM
+BAG:pocolo add 1xCải Trang Thần Zeno Namec lydo: Mua từ bill at 03/11/2023 10:30 AM
+BAG:pocolo add 10xĐậu thần cấp 1 (old: 5) lydo: Thu hoạch đậu at 03/11/2023 10:31 AM
+BAG:pocolo add 1xPhi Long VIP lydo: Mua từ cửa hàng at 03/11/2023 10:31 AM
+BAG:pocolo add 18xHoa hồng vàng (old: 17) lydo: Nhặt từ map at 03/11/2023 10:32 AM
+BAG:pocolo add 6xHoa hồng đỏ (old: 5) lydo: Nhặt từ map at 03/11/2023 10:32 AM
+BAG:pocolo add 3xĐá lục bảo (old: 2) lydo: Nhặt từ map at 03/11/2023 10:33 AM
+BAG:pocolo add 7xHoa hồng đỏ (old: 6) lydo: Nhặt từ map at 03/11/2023 10:33 AM
+BAG:pocolo add 1xĐá thạch anh tím lydo: Nhặt từ map at 03/11/2023 10:34 AM
+BAG:pocolo add 1xĐá Ruby lydo: Nhặt từ map at 03/11/2023 10:34 AM
+BAG:pocolo add 8xHoa hồng đỏ (old: 7) lydo: Nhặt từ map at 03/11/2023 10:35 AM
+BAG:pocolo add 1xViên Capsule đặc biệt lydo: Mua từ cửa hàng at 03/11/2023 10:35 AM
+BAG:pocolo add 19xHoa hồng vàng (old: 18) lydo: Nhặt từ map at 03/11/2023 10:36 AM
+BAG:pocolo add 20xHoa hồng vàng (old: 19) lydo: Nhặt từ map at 03/11/2023 10:36 AM
+BAG:pocolo add 1xÁo sợi len lydo: Nhặt từ map at 03/11/2023 10:36 AM
+BAG:pocolo add 1xRada cấp 1 lydo: Nhặt từ map at 03/11/2023 10:37 AM
+BAG:pocolo add 21xHoa hồng vàng (old: 20) lydo: Nhặt từ map at 03/11/2023 10:37 AM
+BAG:pocolo add 22xHoa hồng vàng (old: 21) lydo: Nhặt từ map at 03/11/2023 10:37 AM
+BAG:pocolo add 1xÁo sợi len lydo: Nhặt từ map at 03/11/2023 10:38 AM
+BAG:pocolo add 1xQuần sợi len lydo: Nhặt từ map at 03/11/2023 10:38 AM
+BAG:pocolo add 12xHoa hồng xanh (old: 11) lydo: Nhặt từ map at 03/11/2023 10:38 AM
+BAG:pocolo add 1xĐá Ruby lydo: Nhặt từ map at 03/11/2023 10:39 AM
+BAG:pocolo add 2xĐá Ruby (old: 1) lydo: Nhặt từ map at 03/11/2023 10:39 AM
+BAG:pocolo add 1xĐá Saphia lydo: Nhặt từ map at 03/11/2023 10:39 AM
+BAG:pocolo add 23xHoa hồng vàng (old: 22) lydo: Nhặt từ map at 03/11/2023 10:39 AM
+BAG:pocolo add 1xGiầy sợi len lydo: Nhặt từ map at 03/11/2023 10:40 AM
+BAG:pocolo add 1xÁo sợi len lydo: Nhặt từ map at 03/11/2023 10:40 AM
+BAG:pocolo add 24xHoa hồng vàng (old: 23) lydo: Nhặt từ map at 03/11/2023 10:40 AM
+BAG:pocolo add 1xRada cấp 1 lydo: Nhặt từ map at 03/11/2023 10:40 AM
+BAG:pocolo add 9xHoa hồng đỏ (old: 8) lydo: Nhặt từ map at 03/11/2023 10:40 AM
+BAG:pocolo add 25xHoa hồng vàng (old: 24) lydo: Nhặt từ map at 03/11/2023 10:40 AM
+BAG:pocolo add 26xHoa hồng vàng (old: 25) lydo: Nhặt từ map at 03/11/2023 10:41 AM
+BAG:pocolo add 27xHoa hồng vàng (old: 26) lydo: Nhặt từ map at 03/11/2023 10:41 AM
+BAG:pocolo add 1xRada cấp 1 lydo: Nhặt từ map at 03/11/2023 10:41 AM
+BAG:pocolo add 1xGiầy sợi len lydo: Nhặt từ map at 03/11/2023 10:41 AM
+BAG:pocolo add 10xHoa hồng đỏ (old: 9) lydo: Nhặt từ map at 03/11/2023 10:41 AM
+BAG:pocolo add 1xQuần sợi len lydo: Nhặt từ map at 03/11/2023 10:42 AM
+BAG:pocolo add 1xRada cấp 1 lydo: Nhặt từ map at 03/11/2023 10:42 AM
+BAG:pocolo add 5xĐậu thần cấp 1 lydo: Thu hoạch đậu at 03/11/2023 10:45 AM
+BAG:pocolo add 10xĐậu thần cấp 1 (old: 5) lydo: Thu hoạch đậu at 03/11/2023 10:45 AM
+BAG:pocolo add 1xGiỏ hoa lydo: Mua từ bill at 03/11/2023 10:46 AM
+BAG:pocolo add 1xBó hoa hồng đỏ lydo: Đổi bó hoa hồng đỏ at 03/11/2023 10:46 AM
+BAG:pocolo add 2xGiỏ hoa (old: 1) lydo: Mua từ bill at 03/11/2023 10:46 AM
+BAG:pocolo add 1xSách đấm Demon lv2 lydo: Mua từ cửa hàng at 03/11/2023 10:48 AM
+BAG:pocolo add 1xSách đấm Demon lv3 lydo: Mua từ cửa hàng at 03/11/2023 10:48 AM
+BAG:pocolo add 1xSách đấm Demon lv4 lydo: Mua từ cửa hàng at 03/11/2023 10:48 AM
+BAG:pocolo add 1xSách đấm Demon lv5 lydo: Mua từ cửa hàng at 03/11/2023 10:48 AM
+BAG:pocolo add 1xSách đấm Demon lv6 lydo: Mua từ cửa hàng at 03/11/2023 10:48 AM
+BAG:pocolo add 1xSách đấm Demon lv7 lydo: Mua từ cửa hàng at 03/11/2023 10:48 AM
+BAG:pocolo add 28xHoa hồng vàng (old: 27) lydo: Nhặt từ map at 03/11/2023 10:49 AM
+BAG:pocolo add 13xHoa hồng xanh (old: 12) lydo: Nhặt từ map at 03/11/2023 10:49 AM
+BAG:pocolo add 29xHoa hồng vàng (old: 28) lydo: Nhặt từ map at 03/11/2023 10:49 AM
+BAG:pocolo add 1xRada cấp 1 lydo: Nhặt từ map at 03/11/2023 10:50 AM
+BAG:pocolo add 1xMảnh Lợn lòi lydo: Nhặt từ map at 03/11/2023 10:50 AM
+BAG:pocolo add 1xHoa hồng đỏ lydo: Nhặt từ map at 03/11/2023 10:50 AM
+BAG:pocolo add 5xĐậu thần cấp 1 lydo: Thu hoạch đậu at 03/11/2023 10:50 AM
+BAG:pocolo add 10xĐậu thần cấp 1 (old: 5) lydo: Thu hoạch đậu at 03/11/2023 10:50 AM
+BAG:pocolo add 1xGiầy sợi len lydo: Nhặt từ map at 03/11/2023 10:50 AM
+BAG:pocolo add 1xQuần sợi len lydo: Nhặt từ map at 03/11/2023 10:50 AM
+BAG:pocolo add 1xÁo sợi len lydo: Nhặt từ map at 03/11/2023 10:50 AM
+BAG:pocolo add 1xRada cấp 1 lydo: Nhặt từ map at 03/11/2023 10:51 AM
+BAG:pocolo add 1xGiầy sợi len lydo: Nhặt từ map at 03/11/2023 10:51 AM
+BAG:pocolo add 1xRada cấp 1 lydo: Nhặt từ map at 03/11/2023 10:51 AM
+BAG:pocolo add 1xCải Trang Thần Zeno Namec lydo: Lấy từ body vào hành trang at 03/11/2023 10:51 AM
+BAG:pocolo add 2xHoa hồng đỏ (old: 1) lydo: Nhặt từ map at 03/11/2023 10:51 AM
+BAG:pocolo add 3xHoa hồng đỏ (old: 2) lydo: Nhặt từ map at 03/11/2023 10:52 AM
+BAG:pocolo add 1xQuần sợi len lydo: Nhặt từ map at 03/11/2023 10:52 AM
+BAG:pocolo add 1xQuần sợi len lydo: Nhặt từ map at 03/11/2023 10:52 AM
+BAG:pocolo add 1xQuần sợi len lydo: Nhặt từ map at 03/11/2023 10:53 AM
+BAG:pocolo add 30xHoa hồng vàng (old: 29) lydo: Nhặt từ map at 03/11/2023 10:53 AM
+BAG:pocolo add 1xÁo sợi len lydo: Nhặt từ map at 03/11/2023 10:53 AM

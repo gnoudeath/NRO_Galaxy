@@ -1,0 +1,348 @@
+BAG:galaxytest remove Cải trang Chill cấp 2 lydo: Mặc cho đệ tử at 03/12/2023 7:20 AM
+BAG:galaxytest remove Rada cấp 1 lydo: Mặc cho đệ tử at 03/12/2023 7:20 AM
+BAG:galaxytest remove 1xĐậu thần cấp 5 lydo: Ăn đậu at 03/12/2023 7:20 AM
+BAG:galaxytest remove 1xĐậu thần cấp 5 lydo: Ăn đậu at 03/12/2023 7:21 AM
+BAG:galaxytest remove 1xĐậu thần cấp 5 lydo: Ăn đậu at 03/12/2023 7:21 AM
+BAG:galaxytest remove Giầy nhựa lydo: Mặc cho đệ tử at 03/12/2023 7:21 AM
+BAG:galaxytest remove Giầy nhựa lydo: Tự Xóa vật phẩm at 03/12/2023 7:21 AM
+BAG:galaxytest remove Găng vải đen lydo: Tự Xóa vật phẩm at 03/12/2023 7:21 AM
+BAG:galaxytest remove Găng vải đen lydo: Tự Xóa vật phẩm at 03/12/2023 7:21 AM
+BAG:galaxytest remove Găng vải đen lydo: Tự Xóa vật phẩm at 03/12/2023 7:22 AM
+BAG:galaxytest remove Rada cấp 1 lydo: Tự Xóa vật phẩm at 03/12/2023 7:22 AM
+BAG:galaxytest remove Rada cấp 1 lydo: Tự Xóa vật phẩm at 03/12/2023 7:22 AM
+BAG:galaxytest remove Quần vải đen lydo: Mặc cho đệ tử at 03/12/2023 7:22 AM
+BAG:galaxytest remove Quần vải đen lydo: Tự Xóa vật phẩm at 03/12/2023 7:22 AM
+BAG:galaxytest remove 1xĐậu thần cấp 5 lydo: Ăn đậu at 03/12/2023 7:22 AM
+BAG:galaxytest remove Găng vải đen lydo: Tự Xóa vật phẩm at 03/12/2023 7:23 AM
+BAG:galaxytest remove Giầy nhựa lydo: Tự Xóa vật phẩm at 03/12/2023 7:23 AM
+BAG:galaxytest remove Găng vải đen lydo: Tự Xóa vật phẩm at 03/12/2023 7:23 AM
+BAG:galaxytest remove Quần vải đen lydo: Tự Xóa vật phẩm at 03/12/2023 7:23 AM
+BAG:galaxytest remove 1xĐậu thần cấp 5 lydo: Ăn đậu at 03/12/2023 7:23 AM
+BAG:galaxytest remove 1xMảnh Khủng long lydo: Dùng thẻ sưu tầm at 03/12/2023 7:23 AM
+BAG:galaxytest remove 1xMảnh Khủng long lydo: Dùng thẻ sưu tầm at 03/12/2023 7:23 AM
+BAG:galaxytest remove Giầy nhựa lydo: Tự Xóa vật phẩm at 03/12/2023 7:23 AM
+BAG:galaxytest remove Áo vải 3 lỗ lydo: Mặc cho đệ tử at 03/12/2023 7:23 AM
+BAG:galaxytest remove Rada cấp 1 lydo: Tự Xóa vật phẩm at 03/12/2023 7:23 AM
+BAG:galaxytest remove Rada cấp 1 lydo: Tự Xóa vật phẩm at 03/12/2023 7:24 AM
+BAG:galaxytest remove Giầy nhựa lydo: Tự Xóa vật phẩm at 03/12/2023 7:24 AM
+BAG:galaxytest remove Găng vải đen lydo: Tự Xóa vật phẩm at 03/12/2023 7:24 AM
+BAG:galaxytest remove Mảnh Thằn lằn bay lydo: Tự Xóa vật phẩm at 03/12/2023 7:24 AM
+BAG:galaxytest remove Áo vải 3 lỗ lydo: Tự Xóa vật phẩm at 03/12/2023 7:24 AM
+BAG:galaxytest remove 1xĐậu thần cấp 5 lydo: Ăn đậu at 03/12/2023 7:24 AM
+BAG:galaxytest remove Giầy nhựa lydo: Tự Xóa vật phẩm at 03/12/2023 7:24 AM
+BAG:galaxytest remove 1xĐậu thần cấp 5 lydo: Ăn đậu at 03/12/2023 7:24 AM
+BAG:galaxytest remove 1xĐậu thần cấp 5 lydo: Ăn đậu at 03/12/2023 7:25 AM
+BAG:galaxytest remove 1xĐậu thần cấp 5 lydo: Ăn đậu at 03/12/2023 7:25 AM
+BAG:galaxytest remove Áo vải 3 lỗ lydo: Tự Xóa vật phẩm at 03/12/2023 7:25 AM
+BAG:galaxytest remove Găng vải đen lydo: Tự Xóa vật phẩm at 03/12/2023 7:25 AM
+BAG:galaxytest remove Áo vải 3 lỗ lydo: Tự Xóa vật phẩm at 03/12/2023 7:25 AM
+BAG:galaxytest remove Giầy nhựa lydo: Tự Xóa vật phẩm at 03/12/2023 7:25 AM
+BAG:galaxytest remove 1xĐậu thần cấp 5 lydo: Ăn đậu at 03/12/2023 7:25 AM
+BAG:galaxytest remove 1xĐậu thần cấp 5 lydo: Ăn đậu at 03/12/2023 7:26 AM
+BAG:galaxytest remove Quần vải đen lydo: Tự Xóa vật phẩm at 03/12/2023 7:26 AM
+BAG:galaxytest remove Giầy nhựa lydo: Tự Xóa vật phẩm at 03/12/2023 7:26 AM
+BAG:galaxytest remove Rada cấp 1 lydo: Tự Xóa vật phẩm at 03/12/2023 7:26 AM
+BAG:galaxytest remove Giầy nhựa lydo: Tự Xóa vật phẩm at 03/12/2023 7:26 AM
+BAG:galaxytest remove Quần vải đen lydo: Tự Xóa vật phẩm at 03/12/2023 7:26 AM
+BAG:galaxytest remove Găng vải đen lydo: Tự Xóa vật phẩm at 03/12/2023 7:26 AM
+BAG:galaxytest remove Găng vải đen lydo: Tự Xóa vật phẩm at 03/12/2023 7:27 AM
+BAG:galaxytest remove Áo vải 3 lỗ lydo: Tự Xóa vật phẩm at 03/12/2023 7:27 AM
+BAG:galaxytest remove 1xĐậu thần cấp 5 lydo: Ăn đậu at 03/12/2023 7:27 AM
+BAG:galaxytest remove Áo vải 3 lỗ lydo: Tự Xóa vật phẩm at 03/12/2023 7:27 AM
+BAG:galaxytest remove Quần vải đen lydo: Tự Xóa vật phẩm at 03/12/2023 7:27 AM
+BAG:galaxytest remove Găng vải đen lydo: Tự Xóa vật phẩm at 03/12/2023 7:27 AM
+BAG:galaxytest remove Giầy nhựa lydo: Tự Xóa vật phẩm at 03/12/2023 7:27 AM
+BAG:galaxytest remove Giầy nhựa lydo: Tự Xóa vật phẩm at 03/12/2023 7:27 AM
+BAG:galaxytest remove Rada cấp 1 lydo: Tự Xóa vật phẩm at 03/12/2023 7:27 AM
+BAG:galaxytest remove 1xThỏi vàng lydo: Bán cho shop at 03/12/2023 7:30 AM
+BAG:galaxytest remove 1xThỏi vàng lydo: Bán cho shop at 03/12/2023 7:30 AM
+BAG:galaxytest remove 1xThỏi vàng lydo: Bán cho shop at 03/12/2023 7:30 AM
+BAG:galaxytest remove 1xThỏi vàng lydo: Bán cho shop at 03/12/2023 7:30 AM
+BAG:galaxytest remove 1xThỏi vàng lydo: Bán cho shop at 03/12/2023 7:30 AM
+BAG:galaxytest remove 1xThỏi vàng lydo: Bán cho shop at 03/12/2023 7:30 AM
+BAG:galaxytest remove 1xThỏi vàng lydo: Bán cho shop at 03/12/2023 7:31 AM
+BAG:galaxytest remove 1xThỏi vàng lydo: Bán cho shop at 03/12/2023 7:31 AM
+BAG:galaxytest remove 1xThỏi vàng lydo: Bán cho shop at 03/12/2023 7:31 AM
+BAG:galaxytest remove 1xThỏi vàng lydo: Bán cho shop at 03/12/2023 7:33 AM
+BAG:galaxytest remove 1xThỏi vàng lydo: Bán cho shop at 03/12/2023 7:33 AM
+BAG:galaxytest remove 1xThỏi vàng lydo: Bán cho shop at 03/12/2023 7:33 AM
+BAG:galaxytest remove 1xThỏi vàng lydo: Bán cho shop at 03/12/2023 7:34 AM
+BAG:galaxytest remove 1xThỏi vàng lydo: Bán cho shop at 03/12/2023 7:34 AM
+BAG:galaxytest remove 1xThỏi vàng lydo: Bán cho shop at 03/12/2023 7:34 AM
+BAG:galaxytest remove 1xThỏi vàng lydo: Bán cho shop at 03/12/2023 7:35 AM
+BAG:galaxytest remove 1xThỏi vàng lydo: Bán cho shop at 03/12/2023 7:35 AM
+BAG:galaxytest remove 1xThỏi vàng lydo: Bán cho shop at 03/12/2023 7:35 AM
+BAG:galaxytest remove 1xThỏi vàng lydo: Bán cho shop at 03/12/2023 7:36 AM
+BAG:galaxytest remove 1xThỏi vàng lydo: Bán cho shop at 03/12/2023 7:36 AM
+BAG:galaxytest remove 1xThỏi vàng lydo: Bán cho shop at 03/12/2023 7:36 AM
+BAG:galaxytest remove 1xThỏi vàng lydo: Bán cho shop at 03/12/2023 7:37 AM
+BAG:galaxytest remove 99xThỏi vàng lydo: Tách thỏi vàng at 03/12/2023 7:37 AM
+BAG:galaxytest remove 1xThỏi vàng lydo: Bán cho shop at 03/12/2023 7:37 AM
+BAG:galaxytest remove 1xThỏi vàng lydo: Bán cho shop at 03/12/2023 7:37 AM
+BAG:galaxytest remove 1xThỏi vàng lydo: Bán cho shop at 03/12/2023 7:38 AM
+BAG:galaxytest remove 1xThỏi vàng lydo: Bán cho shop at 03/12/2023 7:38 AM
+BAG:galaxytest remove 1xThỏi vàng lydo: Bán cho shop at 03/12/2023 7:38 AM
+BAG:galaxytest remove 1xThỏi vàng lydo: Bán cho shop at 03/12/2023 7:39 AM
+BAG:galaxytest remove 1xThỏi vàng lydo: Bán cho shop at 03/12/2023 7:39 AM
+BAG:galaxytest remove 1xThỏi vàng lydo: Bán cho shop at 03/12/2023 7:39 AM
+BAG:galaxytest remove 1xThỏi vàng lydo: Bán cho shop at 03/12/2023 7:40 AM
+BAG:galaxytest remove 1xThỏi vàng lydo: Bán cho shop at 03/12/2023 7:40 AM
+BAG:galaxytest remove 1xThỏi vàng lydo: Bán cho shop at 03/12/2023 7:40 AM
+BAG:galaxytest remove 1xThỏi vàng lydo: Bán cho shop at 03/12/2023 7:41 AM
+BAG:galaxytest remove 1xThỏi vàng lydo: Bán cho shop at 03/12/2023 7:41 AM
+BAG:galaxytest remove 1xThỏi vàng lydo: Bán cho shop at 03/12/2023 7:41 AM
+BAG:galaxytest remove 1xThỏi vàng lydo: Bán cho shop at 03/12/2023 7:42 AM
+BAG:galaxytest remove 1xThỏi vàng lydo: Bán cho shop at 03/12/2023 7:42 AM
+BAG:galaxytest remove 1xThỏi vàng lydo: Bán cho shop at 03/12/2023 7:42 AM
+BAG:galaxytest remove Áo vải 3 lỗ lydo: Mặc vào người at 03/12/2023 7:42 AM
+BAG:galaxytest remove Găng vải đen lydo: Mặc vào người at 03/12/2023 7:43 AM
+BAG:galaxytest remove Giầy nhựa lydo: Mặc vào người at 03/12/2023 7:43 AM
+BAG:galaxytest remove Quần vải đen lydo: Mặc vào người at 03/12/2023 7:43 AM
+BAG:galaxytest remove Rada cấp 1 lydo: Mặc vào người at 03/12/2023 7:43 AM
+BAG:galaxytest remove Cải trang Chill cấp 2 lydo: Mặc vào người at 03/12/2023 7:43 AM
+BAG:galaxytest remove Giáp tập luyện cấp 1 lydo: Mặc vào người at 03/12/2023 7:43 AM
+BAG:galaxytest remove 1xThỏi vàng lydo: Bán cho shop at 03/12/2023 7:44 AM
+BAG:galaxytest remove 1xThỏi vàng lydo: Bán cho shop at 03/12/2023 7:44 AM
+BAG:galaxytest remove 1xThỏi vàng lydo: Bán cho shop at 03/12/2023 7:44 AM
+BAG:galaxytest remove 1xThỏi vàng lydo: Bán cho shop at 03/12/2023 7:44 AM
+BAG:galaxytest remove 1xThỏi vàng lydo: Bán cho shop at 03/12/2023 7:44 AM
+BAG:galaxytest remove 1xThỏi vàng lydo: Bán cho shop at 03/12/2023 7:45 AM
+BAG:galaxytest remove 1xThỏi vàng lydo: Bán cho shop at 03/12/2023 7:46 AM
+BAG:galaxytest remove 1xThỏi vàng lydo: Bán cho shop at 03/12/2023 7:46 AM
+BAG:galaxytest remove 1xThỏi vàng lydo: Bán cho shop at 03/12/2023 7:46 AM
+BAG:galaxytest remove 1xThỏi vàng lydo: Bán cho shop at 03/12/2023 7:47 AM
+BAG:galaxytest remove 1xThỏi vàng lydo: Bán cho shop at 03/12/2023 7:47 AM
+BAG:galaxytest remove 1xThỏi vàng lydo: Bán cho shop at 03/12/2023 7:47 AM
+BAG:galaxytest remove 1xThỏi vàng lydo: Bán cho shop at 03/12/2023 7:48 AM
+BAG:galaxytest remove 1xThỏi vàng lydo: Bán cho shop at 03/12/2023 7:48 AM
+BAG:galaxytest remove 1xThỏi vàng lydo: Bán cho shop at 03/12/2023 7:48 AM
+BAG:galaxytest remove 1xThỏi vàng lydo: Bán cho shop at 03/12/2023 7:49 AM
+BAG:galaxytest remove 1xThỏi vàng lydo: Bán cho shop at 03/12/2023 7:49 AM
+BAG:galaxytest remove 1xThỏi vàng lydo: Bán cho shop at 03/12/2023 7:50 AM
+BAG:galaxytest remove 1xĐậu thần cấp 5 lydo: Ăn đậu at 03/12/2023 7:50 AM
+BAG:galaxytest remove 1xThỏi vàng lydo: Bán cho shop at 03/12/2023 7:51 AM
+BAG:galaxytest remove 1xThỏi vàng lydo: Bán cho shop at 03/12/2023 7:51 AM
+BAG:galaxytest remove 1xThỏi vàng lydo: Bán cho shop at 03/12/2023 7:51 AM
+BAG:galaxytest remove Áo vải 3 lỗ lydo: Mặc cho đệ tử at 03/12/2023 7:51 AM
+BAG:galaxytest remove Quần vải đen lydo: Mặc cho đệ tử at 03/12/2023 7:51 AM
+BAG:galaxytest remove Giầy nhựa lydo: Mặc cho đệ tử at 03/12/2023 7:51 AM
+BAG:galaxytest remove Rada cấp 1 lydo: Mặc cho đệ tử at 03/12/2023 7:51 AM
+BAG:galaxytest remove Cải trang Chill cấp 2 lydo: Mặc cho đệ tử at 03/12/2023 7:51 AM
+BAG:galaxytest remove Giáp tập luyện cấp 1 lydo: Mặc vào người at 03/12/2023 7:51 AM
+BAG:galaxytest remove 1xThỏi vàng lydo: Bán cho shop at 03/12/2023 7:54 AM
+BAG:galaxytest remove 1xThỏi vàng lydo: Bán cho shop at 03/12/2023 7:54 AM
+BAG:galaxytest remove 1xThỏi vàng lydo: Bán cho shop at 03/12/2023 7:54 AM
+BAG:galaxytest remove 2xVệ tinh trí lực lydo: Bán cho shop at 03/12/2023 7:55 AM
+BAG:galaxytest remove 2xVệ tinh phòng thủ lydo: Bán cho shop at 03/12/2023 7:55 AM
+BAG:galaxytest remove 1xVệ tinh trí tuệ lydo: Bán cho shop at 03/12/2023 7:55 AM
+BAG:galaxytest remove 2xSao pha lê lydo: Bán cho shop at 03/12/2023 7:56 AM
+BAG:galaxytest remove 5xĐá Ruby lydo: Bán cho shop at 03/12/2023 7:56 AM
+BAG:galaxytest remove 8xĐá Saphia lydo: Bán cho shop at 03/12/2023 7:56 AM
+BAG:galaxytest remove 5xĐá Titan lydo: Bán cho shop at 03/12/2023 7:56 AM
+BAG:galaxytest remove 8xĐá lục bảo lydo: Bán cho shop at 03/12/2023 7:56 AM
+BAG:galaxytest remove 1xVệ tinh trí tuệ lydo: Bán cho shop at 03/12/2023 7:56 AM
+BAG:galaxytest remove 1xSao pha lê lydo: Bán cho shop at 03/12/2023 7:56 AM
+BAG:galaxytest remove 2xVệ tinh phòng thủ lydo: Bán cho shop at 03/12/2023 7:56 AM
+BAG:galaxytest remove 1xVệ tinh sinh lực lydo: Bán cho shop at 03/12/2023 7:56 AM
+BAG:galaxytest remove 1xSao pha lê lydo: Bán cho shop at 03/12/2023 7:56 AM
+BAG:galaxytest remove 1xVệ tinh sinh lực lydo: Bán cho shop at 03/12/2023 7:56 AM
+BAG:galaxytest remove 1xSao pha lê lydo: Bán cho shop at 03/12/2023 7:56 AM
+BAG:galaxytest remove 1xSao pha lê lydo: Bán cho shop at 03/12/2023 7:56 AM
+BAG:galaxytest remove 1xVệ tinh trí lực lydo: Bán cho shop at 03/12/2023 7:57 AM
+BAG:galaxytest remove 2xSao pha lê lydo: Bán cho shop at 03/12/2023 7:57 AM
+BAG:galaxytest remove 1xSao pha lê lydo: Bán cho shop at 03/12/2023 7:57 AM
+BAG:galaxytest remove 36xHoa hồng vàng lydo: Bán cho shop at 03/12/2023 7:57 AM
+BAG:galaxytest remove 34xHoa hồng đỏ lydo: Bán cho shop at 03/12/2023 7:57 AM
+BAG:galaxytest remove 25xHoa hồng xanh lydo: Bán cho shop at 03/12/2023 7:57 AM
+BAG:galaxytest remove 3xĐá thạch anh tím lydo: Bán cho shop at 03/12/2023 7:57 AM
+BAG:galaxytest remove 1xSao pha lê lydo: Bán cho shop at 03/12/2023 7:57 AM
+BAG:galaxytest remove 1xSao pha lê lydo: Bán cho shop at 03/12/2023 7:57 AM
+BAG:galaxytest remove 1xVệ tinh trí lực lydo: Bán cho shop at 03/12/2023 7:57 AM
+BAG:galaxytest remove 1xSao pha lê lydo: Bán cho shop at 03/12/2023 7:58 AM
+BAG:galaxytest remove 1xVệ tinh phòng thủ lydo: Bán cho shop at 03/12/2023 7:58 AM
+BAG:galaxytest remove 1xSao pha lê lydo: Bán cho shop at 03/12/2023 7:58 AM
+BAG:galaxytest remove 1xVệ tinh trí lực lydo: Bán cho shop at 03/12/2023 7:58 AM
+BAG:galaxytest remove 2xSao pha lê lydo: Bán cho shop at 03/12/2023 7:58 AM
+BAG:galaxytest remove 1xVệ tinh trí tuệ lydo: Bán cho shop at 03/12/2023 7:58 AM
+BAG:galaxytest remove 1xSao pha lê lydo: Bán cho shop at 03/12/2023 7:58 AM
+BAG:galaxytest remove 1xVệ tinh phòng thủ lydo: Bán cho shop at 03/12/2023 7:58 AM
+BAG:galaxytest remove 1xSao pha lê lydo: Bán cho shop at 03/12/2023 7:58 AM
+BAG:galaxytest remove 1xVệ tinh sinh lực lydo: Bán cho shop at 03/12/2023 7:58 AM
+BAG:galaxytest remove 1xSao pha lê lydo: Bán cho shop at 03/12/2023 7:58 AM
+BAG:galaxytest remove 1xSao pha lê lydo: Bán cho shop at 03/12/2023 7:58 AM
+BAG:galaxytest remove 1xThỏi vàng lydo: Bán cho shop at 03/12/2023 7:58 AM
+BAG:galaxytest remove 1xThỏi vàng lydo: Bán cho shop at 03/12/2023 7:58 AM
+BAG:galaxytest remove 1xThỏi vàng lydo: Bán cho shop at 03/12/2023 7:58 AM
+BAG:galaxytest remove Cải trang mồn lèo lydo: Tự Xóa vật phẩm at 03/12/2023 7:59 AM
+BAG:galaxytest remove Cải trang mồn lèo lydo: Tự Xóa vật phẩm at 03/12/2023 7:59 AM
+BAG:galaxytest remove 1xĐá Ruby lydo: Bán cho shop at 03/12/2023 8:01 AM
+BAG:galaxytest remove 2xVệ tinh trí tuệ lydo: Bán cho shop at 03/12/2023 8:01 AM
+BAG:galaxytest remove 4xSao pha lê lydo: Bán cho shop at 03/12/2023 8:01 AM
+BAG:galaxytest remove 1xVệ tinh sinh lực lydo: Bán cho shop at 03/12/2023 8:01 AM
+BAG:galaxytest remove 1xSao pha lê lydo: Bán cho shop at 03/12/2023 8:01 AM
+BAG:galaxytest remove 1xSao pha lê lydo: Bán cho shop at 03/12/2023 8:01 AM
+BAG:galaxytest remove 1xVệ tinh phòng thủ lydo: Bán cho shop at 03/12/2023 8:01 AM
+BAG:galaxytest remove 1xVệ tinh trí lực lydo: Bán cho shop at 03/12/2023 8:01 AM
+BAG:galaxytest remove 1xVệ tinh phòng thủ lydo: Bán cho shop at 03/12/2023 8:01 AM
+BAG:galaxytest remove 1xSao pha lê lydo: Bán cho shop at 03/12/2023 8:01 AM
+BAG:galaxytest remove 1xVệ tinh sinh lực lydo: Bán cho shop at 03/12/2023 8:01 AM
+BAG:galaxytest remove 1xVệ tinh trí lực lydo: Bán cho shop at 03/12/2023 8:01 AM
+BAG:galaxytest remove 1xSao pha lê lydo: Bán cho shop at 03/12/2023 8:01 AM
+BAG:galaxytest remove 1xSao pha lê lydo: Bán cho shop at 03/12/2023 8:01 AM
+BAG:galaxytest remove 1xVệ tinh trí tuệ lydo: Bán cho shop at 03/12/2023 8:01 AM
+BAG:galaxytest remove 3xSao pha lê lydo: Bán cho shop at 03/12/2023 8:02 AM
+BAG:galaxytest remove 2xVệ tinh sinh lực lydo: Bán cho shop at 03/12/2023 8:02 AM
+BAG:galaxytest remove 1xVệ tinh trí tuệ lydo: Bán cho shop at 03/12/2023 8:02 AM
+BAG:galaxytest remove 1xSao pha lê lydo: Bán cho shop at 03/12/2023 8:02 AM
+BAG:galaxytest remove 1xSao pha lê lydo: Bán cho shop at 03/12/2023 8:02 AM
+BAG:galaxytest remove 1xSao pha lê lydo: Bán cho shop at 03/12/2023 8:02 AM
+BAG:galaxytest remove 1xVệ tinh trí lực lydo: Bán cho shop at 03/12/2023 8:02 AM
+BAG:galaxytest remove 1xVệ tinh trí tuệ lydo: Bán cho shop at 03/12/2023 8:02 AM
+BAG:galaxytest remove 2xSao pha lê lydo: Bán cho shop at 03/12/2023 8:02 AM
+BAG:galaxytest remove 1xThỏi vàng lydo: Bán cho shop at 03/12/2023 8:03 AM
+BAG:galaxytest remove 1xThỏi vàng lydo: Bán cho shop at 03/12/2023 8:03 AM
+BAG:galaxytest remove 1xThỏi vàng lydo: Bán cho shop at 03/12/2023 8:03 AM
+BAG:galaxytest remove 1xThỏi vàng lydo: Bán cho shop at 03/12/2023 8:04 AM
+BAG:galaxytest remove 1xThỏi vàng lydo: Bán cho shop at 03/12/2023 8:04 AM
+BAG:galaxytest remove 1xThỏi vàng lydo: Bán cho shop at 03/12/2023 8:04 AM
+BAG:galaxytest remove 1xThỏi vàng lydo: Bán cho shop at 03/12/2023 8:05 AM
+BAG:galaxytest remove 1xThỏi vàng lydo: Bán cho shop at 03/12/2023 8:05 AM
+BAG:galaxytest remove 1xThỏi vàng lydo: Bán cho shop at 03/12/2023 8:05 AM
+BAG:galaxytest remove Cải trang mồn lèo lydo: Tự Xóa vật phẩm at 03/12/2023 8:06 AM
+BAG:galaxytest remove Cải trang mồn lèo lydo: Tự Xóa vật phẩm at 03/12/2023 8:06 AM
+BAG:galaxytest remove Hoa hồng vàng lydo: Tự Xóa vật phẩm at 03/12/2023 8:06 AM
+BAG:galaxytest remove Hoa hồng xanh lydo: Tự Xóa vật phẩm at 03/12/2023 8:06 AM
+BAG:galaxytest remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 03/12/2023 8:07 AM
+BAG:galaxytest remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 03/12/2023 8:07 AM
+BAG:galaxytest remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 03/12/2023 8:09 AM
+BAG:galaxytest remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 03/12/2023 8:09 AM
+BAG:galaxytest remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 03/12/2023 8:09 AM
+BAG:galaxytest remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 03/12/2023 8:09 AM
+BAG:galaxytest remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 03/12/2023 8:10 AM
+BAG:galaxytest remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 03/12/2023 8:10 AM
+BAG:galaxytest remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 03/12/2023 8:10 AM
+BAG:galaxytest remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 03/12/2023 8:10 AM
+BAG:galaxytest remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 03/12/2023 8:10 AM
+BAG:galaxytest remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 03/12/2023 8:10 AM
+BAG:galaxytest remove 1xĐậu thần cấp 5 lydo: Ăn đậu at 03/12/2023 8:11 AM
+BAG:galaxytest remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 03/12/2023 8:11 AM
+BAG:galaxytest remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 03/12/2023 8:11 AM
+BAG:galaxytest remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 03/12/2023 8:11 AM
+BAG:galaxytest remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 03/12/2023 8:11 AM
+BAG:galaxytest remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 03/12/2023 8:11 AM
+BAG:galaxytest remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 03/12/2023 8:12 AM
+BAG:galaxytest remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 03/12/2023 8:12 AM
+BAG:galaxytest remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 03/12/2023 8:12 AM
+BAG:galaxytest remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 03/12/2023 8:12 AM
+BAG:galaxytest remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 03/12/2023 8:13 AM
+BAG:galaxytest remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 03/12/2023 8:13 AM
+BAG:galaxytest remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 03/12/2023 8:13 AM
+BAG:galaxytest remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 03/12/2023 8:13 AM
+BAG:galaxytest remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 03/12/2023 8:13 AM
+BAG:galaxytest remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 03/12/2023 8:14 AM
+BAG:galaxytest remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 03/12/2023 8:14 AM
+BAG:galaxytest remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 03/12/2023 8:14 AM
+BAG:galaxytest remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 03/12/2023 8:14 AM
+BAG:galaxytest remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 03/12/2023 8:14 AM
+BAG:galaxytest remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 03/12/2023 8:15 AM
+BAG:galaxytest remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 03/12/2023 8:15 AM
+BAG:galaxytest remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 03/12/2023 8:15 AM
+BAG:galaxytest remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 03/12/2023 8:15 AM
+BAG:galaxytest remove 1xSao pha lê lydo: Ép ngọc rồng at 03/12/2023 8:15 AM
+BAG:galaxytest remove 1xSao pha lê lydo: Ép ngọc rồng at 03/12/2023 8:16 AM
+BAG:galaxytest remove 1xSao pha lê lydo: Ép ngọc rồng at 03/12/2023 8:16 AM
+BAG:galaxytest remove 1xSao pha lê lydo: Ép ngọc rồng at 03/12/2023 8:16 AM
+BAG:galaxytest remove 1xSao pha lê lydo: Ép ngọc rồng at 03/12/2023 8:16 AM
+BAG:galaxytest remove Cải trang Hatchiyack lydo: Mặc vào người at 03/12/2023 8:16 AM
+BAG:galaxytest remove Áo vải 3 lỗ lydo: Mặc vào người at 03/12/2023 8:16 AM
+BAG:galaxytest remove Găng vải đen lydo: Mặc vào người at 03/12/2023 8:16 AM
+BAG:galaxytest remove Quần vải đen lydo: Mặc vào người at 03/12/2023 8:16 AM
+BAG:galaxytest remove Giầy nhựa lydo: Mặc vào người at 03/12/2023 8:16 AM
+BAG:galaxytest remove Rada cấp 1 lydo: Mặc vào người at 03/12/2023 8:16 AM
+BAG:galaxytest remove Giáp tập luyện cấp 1 lydo: Mặc vào người at 03/12/2023 8:16 AM
+BAG:galaxytest remove Giáp tập luyện cấp 1 lydo: Mặc cho đệ tử at 03/12/2023 8:16 AM
+BAG:galaxytest remove 1xGiáp tập luyện cấp 1 lydo: Bán cho shop at 03/12/2023 8:19 AM
+BAG:galaxytest remove 1xGiáp tập luyện cấp 1 lydo: Bán cho shop at 03/12/2023 8:19 AM
+BAG:galaxytest remove 1xÁo thun Kame lydo: Bán cho shop at 03/12/2023 8:19 AM
+BAG:galaxytest remove 1xÁo thun Kame lydo: Bán cho shop at 03/12/2023 8:19 AM
+BAG:galaxytest remove 1xÁo thun Kame lydo: Bán cho shop at 03/12/2023 8:19 AM
+BAG:galaxytest remove 1xÁo thun Kame lydo: Bán cho shop at 03/12/2023 8:19 AM
+BAG:galaxytest remove 1xÁo thun Kame lydo: Bán cho shop at 03/12/2023 8:19 AM
+BAG:galaxytest remove 1xÁo thun Kame lydo: Bán cho shop at 03/12/2023 8:19 AM
+BAG:galaxytest remove 1xÁo thun Kame lydo: Bán cho shop at 03/12/2023 8:19 AM
+BAG:galaxytest remove 1xĐậu thần cấp 5 lydo: Ăn đậu at 03/12/2023 8:20 AM
+BAG:galaxytest remove 1xÁo thun Kame lydo: Bán cho shop at 03/12/2023 8:20 AM
+BAG:galaxytest remove 1xÁo thun Kame lydo: Bán cho shop at 03/12/2023 8:21 AM
+BAG:galaxytest remove 1xÁo thun Kame lydo: Bán cho shop at 03/12/2023 8:21 AM
+BAG:galaxytest remove 1xÁo thun Kame lydo: Bán cho shop at 03/12/2023 8:21 AM
+BAG:galaxytest remove 1xRada cấp 6 lydo: Bán cho shop at 03/12/2023 8:21 AM
+BAG:galaxytest remove 1xHoa hồng vàng lydo: Bán cho shop at 03/12/2023 8:21 AM
+BAG:galaxytest remove 2xĐá Titan lydo: Bán cho shop at 03/12/2023 8:21 AM
+BAG:galaxytest remove 2xĐá lục bảo lydo: Bán cho shop at 03/12/2023 8:21 AM
+BAG:galaxytest remove 2xHoa hồng đỏ lydo: Bán cho shop at 03/12/2023 8:21 AM
+BAG:galaxytest remove 1xRada cấp 6 lydo: Bán cho shop at 03/12/2023 8:21 AM
+BAG:galaxytest remove 1xRada cấp 6 lydo: Bán cho shop at 03/12/2023 8:21 AM
+BAG:galaxytest remove 1xRada cấp 6 lydo: Bán cho shop at 03/12/2023 8:21 AM
+BAG:galaxytest remove 1xRada cấp 6 lydo: Bán cho shop at 03/12/2023 8:21 AM
+BAG:galaxytest remove 1xRada cấp 6 lydo: Bán cho shop at 03/12/2023 8:21 AM
+BAG:galaxytest remove 1xRada cấp 4 lydo: Bán cho shop at 03/12/2023 8:21 AM
+BAG:galaxytest remove 1xRada cấp 3 lydo: Bán cho shop at 03/12/2023 8:21 AM
+BAG:galaxytest remove 1xRada cấp 2 lydo: Bán cho shop at 03/12/2023 8:22 AM
+BAG:galaxytest remove 1xRada cấp 1 lydo: Bán cho shop at 03/12/2023 8:22 AM
+BAG:galaxytest remove 1xRada cấp 6 lydo: Bán cho shop at 03/12/2023 8:22 AM
+BAG:galaxytest remove 1xRada cấp 4 lydo: Bán cho shop at 03/12/2023 8:22 AM
+BAG:galaxytest remove 1xRada cấp 3 lydo: Bán cho shop at 03/12/2023 8:22 AM
+BAG:galaxytest remove 1xRada cấp 4 lydo: Bán cho shop at 03/12/2023 8:22 AM
+BAG:galaxytest remove 1xRada cấp 3 lydo: Bán cho shop at 03/12/2023 8:22 AM
+BAG:galaxytest remove 1xRada cấp 1 lydo: Bán cho shop at 03/12/2023 8:23 AM
+BAG:galaxytest remove 1xRada cấp 3 lydo: Bán cho shop at 03/12/2023 8:23 AM
+BAG:galaxytest remove 1xRada cấp 1 lydo: Bán cho shop at 03/12/2023 8:23 AM
+BAG:galaxytest remove 1xRada cấp 1 lydo: Bán cho shop at 03/12/2023 8:23 AM
+BAG:galaxytest remove 1xRada cấp 1 lydo: Bán cho shop at 03/12/2023 8:23 AM
+BAG:galaxytest remove 1xRada cấp 1 lydo: Bán cho shop at 03/12/2023 8:23 AM
+BAG:galaxytest remove Rada cấp 1 lydo: Tự Xóa vật phẩm at 03/12/2023 8:23 AM
+BAG:galaxytest remove Giáp tập luyện cấp 1 lydo: Tự Xóa vật phẩm at 03/12/2023 8:24 AM
+BAG:galaxytest remove Rada cấp 1 lydo: Tự Xóa vật phẩm at 03/12/2023 8:24 AM
+BAG:galaxytest remove Rada cấp 1 lydo: Tự Xóa vật phẩm at 03/12/2023 8:24 AM
+BAG:galaxytest remove Rada cấp 1 lydo: Tự Xóa vật phẩm at 03/12/2023 8:24 AM
+BAG:galaxytest remove Rada cấp 1 lydo: Tự Xóa vật phẩm at 03/12/2023 8:24 AM
+BAG:galaxytest remove Rada cấp 1 lydo: Tự Xóa vật phẩm at 03/12/2023 8:24 AM
+BAG:galaxytest remove 1xThỏi vàng lydo: Bán cho shop at 03/12/2023 8:26 AM
+BAG:galaxytest remove 1xThỏi vàng lydo: Bán cho shop at 03/12/2023 8:26 AM
+BAG:galaxytest remove 1xThỏi vàng lydo: Bán cho shop at 03/12/2023 8:26 AM
+BAG:galaxytest remove Cải trang Hatchiyack lydo: Mặc vào người at 03/12/2023 8:27 AM
+BAG:galaxytest remove Cải trang lydo: Tự Xóa vật phẩm at 03/12/2023 8:27 AM
+BAG:galaxytest remove 21xĐậu thần cấp 4 lydo: Bán cho shop at 03/12/2023 8:27 AM
+BAG:galaxytest remove 4xĐậu thần cấp 5 lydo: Bán cho shop at 03/12/2023 8:27 AM
+BAG:galaxytest remove 1xThỏi vàng lydo: Bán cho shop at 03/12/2023 8:29 AM
+BAG:galaxytest remove 1xThỏi vàng lydo: Bán cho shop at 03/12/2023 8:29 AM
+BAG:galaxytest remove 1xThỏi vàng lydo: Bán cho shop at 03/12/2023 8:29 AM
+BAG:galaxytest remove 1xSao pha lê lydo: Ép ngọc rồng at 03/12/2023 8:30 AM
+BAG:galaxytest remove 1xSao pha lê lydo: Ép ngọc rồng at 03/12/2023 8:31 AM
+BAG:galaxytest remove 1xSao pha lê lydo: Ép ngọc rồng at 03/12/2023 8:31 AM
+BAG:galaxytest remove 1xSao pha lê lydo: Ép ngọc rồng at 03/12/2023 8:31 AM
+BAG:galaxytest remove 1xSao pha lê lydo: Ép ngọc rồng at 03/12/2023 8:32 AM
+BAG:galaxytest remove 1xSao pha lê lydo: Ép ngọc rồng at 03/12/2023 8:32 AM
+BAG:galaxytest remove Giáp tập luyện cấp 1 lydo: Mặc vào người at 03/12/2023 8:33 AM
+BAG:galaxytest remove 1xĐậu thần cấp 4 lydo: Ăn đậu at 03/12/2023 8:39 AM
+BAG:galaxytest remove 1xĐậu thần cấp 4 lydo: Ăn đậu at 03/12/2023 8:40 AM
+BAG:galaxytest remove 1xĐậu thần cấp 4 lydo: Ăn đậu at 03/12/2023 8:42 AM
+BAG:galaxytest remove Sách Kamejoko lv1 lydo: Sách kĩ năng at 03/12/2023 8:43 AM
+BAG:galaxytest remove Sách Kamejoko lv2 lydo: Sách kĩ năng at 03/12/2023 8:43 AM
+BAG:galaxytest remove Sách Kamejoko lv3 lydo: Sách kĩ năng at 03/12/2023 8:43 AM
+BAG:galaxytest remove Sách Kamejoko lv4 lydo: Sách kĩ năng at 03/12/2023 8:43 AM
+BAG:galaxytest remove Thái Dương Hạ San lv1 lydo: Sách kĩ năng at 03/12/2023 8:43 AM
+BAG:galaxytest remove Thái Dương Hạ San lv2 lydo: Sách kĩ năng at 03/12/2023 8:43 AM
+BAG:galaxytest remove Thái Dương Hạ San lv3 lydo: Sách kĩ năng at 03/12/2023 8:44 AM
+BAG:galaxytest remove Thái Dương Hạ San lv4 lydo: Sách kĩ năng at 03/12/2023 8:44 AM
+BAG:galaxytest remove 1xĐậu thần cấp 4 lydo: Ăn đậu at 03/12/2023 8:50 AM
+BAG:galaxytest remove 1xĐậu thần cấp 4 lydo: Ăn đậu at 03/12/2023 8:52 AM
+BAG:galaxytest remove 1xĐậu thần cấp 4 lydo: Ăn đậu at 03/12/2023 8:57 AM
+BAG:galaxytest remove 1xĐậu thần cấp 4 lydo: Ăn đậu at 03/12/2023 8:59 AM
+BAG:galaxytest remove Đá Saphia lydo: Tự Xóa vật phẩm at 03/12/2023 9:10 AM
+BAG:galaxytest remove Hoa hồng vàng lydo: Tự Xóa vật phẩm at 03/12/2023 9:10 AM
+BAG:galaxytest remove Đá thạch anh tím lydo: Tự Xóa vật phẩm at 03/12/2023 9:10 AM
+BAG:galaxytest remove Hoa hồng xanh lydo: Tự Xóa vật phẩm at 03/12/2023 9:10 AM
+BAG:galaxytest remove Hoa hồng đỏ lydo: Tự Xóa vật phẩm at 03/12/2023 9:10 AM
+BAG:galaxytest remove 1xThỏi vàng lydo: Bán cho shop at 03/12/2023 9:10 AM
+BAG:galaxytest remove 1xThỏi vàng lydo: Bán cho shop at 03/12/2023 9:10 AM

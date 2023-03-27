@@ -1,0 +1,186 @@
+BAG:manhaut add 1xBó hoa hồng đỏ lydo: Đổi bó hoa hồng đỏ at 03/12/2023 7:59 AM
+BAG:manhaut add 2xBó hoa hồng đỏ (old: 1) lydo: Đổi bó hoa hồng đỏ at 03/12/2023 8:00 AM
+BAG:manhaut add 3xBó hoa hồng đỏ (old: 2) lydo: Đổi bó hoa hồng đỏ at 03/12/2023 8:00 AM
+BAG:manhaut add 4xBó hoa hồng đỏ (old: 3) lydo: Đổi bó hoa hồng đỏ at 03/12/2023 8:00 AM
+BAG:manhaut add 5xBó hoa hồng đỏ (old: 4) lydo: Đổi bó hoa hồng đỏ at 03/12/2023 8:00 AM
+BAG:manhaut add 6xBó hoa hồng đỏ (old: 5) lydo: Đổi bó hoa hồng đỏ at 03/12/2023 8:00 AM
+BAG:manhaut add 1xBó hoa hồng xanh lydo: Đổi bó hoa hồng xanh at 03/12/2023 8:00 AM
+BAG:manhaut add 2xBó hoa hồng xanh (old: 1) lydo: Đổi bó hoa hồng xanh at 03/12/2023 8:01 AM
+BAG:manhaut add 3xBó hoa hồng xanh (old: 2) lydo: Đổi bó hoa hồng xanh at 03/12/2023 8:01 AM
+BAG:manhaut add 4xBó hoa hồng xanh (old: 3) lydo: Đổi bó hoa hồng xanh at 03/12/2023 8:01 AM
+BAG:manhaut add 5xBó hoa hồng xanh (old: 4) lydo: Đổi bó hoa hồng xanh at 03/12/2023 8:01 AM
+BAG:manhaut add 1xBó hoa hồng vàng lydo: Đổi bó hoa hồng đỏ at 03/12/2023 8:01 AM
+BAG:manhaut add 2xBó hoa hồng vàng (old: 1) lydo: Đổi bó hoa hồng đỏ at 03/12/2023 8:01 AM
+BAG:manhaut add 3xBó hoa hồng vàng (old: 2) lydo: Đổi bó hoa hồng đỏ at 03/12/2023 8:01 AM
+BAG:manhaut add 4xBó hoa hồng vàng (old: 3) lydo: Đổi bó hoa hồng đỏ at 03/12/2023 8:01 AM
+BAG:manhaut add 5xBó hoa hồng vàng (old: 4) lydo: Đổi bó hoa hồng đỏ at 03/12/2023 8:01 AM
+BAG:manhaut add 1xGiỏ hoa lydo: Mua từ bill at 03/12/2023 8:02 AM
+BAG:manhaut add 1xThiệp chúc mừng đỏ lydo: Mua từ bill at 03/12/2023 8:02 AM
+BAG:manhaut add 7xBó hoa hồng đỏ (old: 6) lydo: Đổi bó hoa hồng đỏ at 03/12/2023 8:03 AM
+BAG:manhaut add 8xBó hoa hồng đỏ (old: 7) lydo: Đổi bó hoa hồng đỏ at 03/12/2023 8:03 AM
+BAG:manhaut add 9xBó hoa hồng đỏ (old: 8) lydo: Đổi bó hoa hồng đỏ at 03/12/2023 8:03 AM
+BAG:manhaut add 10xBó hoa hồng đỏ (old: 9) lydo: Đổi bó hoa hồng đỏ at 03/12/2023 8:03 AM
+BAG:manhaut add 11xBó hoa hồng đỏ (old: 10) lydo: Đổi bó hoa hồng đỏ at 03/12/2023 8:03 AM
+BAG:manhaut add 12xBó hoa hồng đỏ (old: 11) lydo: Đổi bó hoa hồng đỏ at 03/12/2023 8:03 AM
+BAG:manhaut add 13xBó hoa hồng đỏ (old: 12) lydo: Đổi bó hoa hồng đỏ at 03/12/2023 8:03 AM
+BAG:manhaut add 14xBó hoa hồng đỏ (old: 13) lydo: Đổi bó hoa hồng đỏ at 03/12/2023 8:03 AM
+BAG:manhaut add 15xBó hoa hồng đỏ (old: 14) lydo: Đổi bó hoa hồng đỏ at 03/12/2023 8:03 AM
+BAG:manhaut add 16xBó hoa hồng đỏ (old: 15) lydo: Đổi bó hoa hồng đỏ at 03/12/2023 8:04 AM
+BAG:manhaut add 17xBó hoa hồng đỏ (old: 16) lydo: Đổi bó hoa hồng đỏ at 03/12/2023 8:04 AM
+BAG:manhaut add 18xBó hoa hồng đỏ (old: 17) lydo: Đổi bó hoa hồng đỏ at 03/12/2023 8:04 AM
+BAG:manhaut add 19xBó hoa hồng đỏ (old: 18) lydo: Đổi bó hoa hồng đỏ at 03/12/2023 8:04 AM
+BAG:manhaut add 20xBó hoa hồng đỏ (old: 19) lydo: Đổi bó hoa hồng đỏ at 03/12/2023 8:04 AM
+BAG:manhaut add 21xBó hoa hồng đỏ (old: 20) lydo: Đổi bó hoa hồng đỏ at 03/12/2023 8:04 AM
+BAG:manhaut add 22xBó hoa hồng đỏ (old: 21) lydo: Đổi bó hoa hồng đỏ at 03/12/2023 8:04 AM
+BAG:manhaut add 23xBó hoa hồng đỏ (old: 22) lydo: Đổi bó hoa hồng đỏ at 03/12/2023 8:04 AM
+BAG:manhaut add 24xBó hoa hồng đỏ (old: 23) lydo: Đổi bó hoa hồng đỏ at 03/12/2023 8:04 AM
+BAG:manhaut add 6xBó hoa hồng xanh (old: 5) lydo: Đổi bó hoa hồng xanh at 03/12/2023 8:05 AM
+BAG:manhaut add 7xBó hoa hồng xanh (old: 6) lydo: Đổi bó hoa hồng xanh at 03/12/2023 8:05 AM
+BAG:manhaut add 8xBó hoa hồng xanh (old: 7) lydo: Đổi bó hoa hồng xanh at 03/12/2023 8:05 AM
+BAG:manhaut add 9xBó hoa hồng xanh (old: 8) lydo: Đổi bó hoa hồng xanh at 03/12/2023 8:05 AM
+BAG:manhaut add 10xBó hoa hồng xanh (old: 9) lydo: Đổi bó hoa hồng xanh at 03/12/2023 8:05 AM
+BAG:manhaut add 6xBó hoa hồng vàng (old: 5) lydo: Đổi bó hoa hồng đỏ at 03/12/2023 8:05 AM
+BAG:manhaut add 7xBó hoa hồng vàng (old: 6) lydo: Đổi bó hoa hồng đỏ at 03/12/2023 8:05 AM
+BAG:manhaut add 8xBó hoa hồng vàng (old: 7) lydo: Đổi bó hoa hồng đỏ at 03/12/2023 8:05 AM
+BAG:manhaut add 9xBó hoa hồng vàng (old: 8) lydo: Đổi bó hoa hồng đỏ at 03/12/2023 8:05 AM
+BAG:manhaut add 10xBó hoa hồng vàng (old: 9) lydo: Đổi bó hoa hồng đỏ at 03/12/2023 8:05 AM
+BAG:manhaut add 1xGiỏ hoa hồng đỏ lydo: Đổi giỏ hoa hồng đỏ at 03/12/2023 8:05 AM
+BAG:manhaut add 11xBó hoa hồng xanh (old: 10) lydo: Đổi bó hoa hồng xanh at 03/12/2023 8:06 AM
+BAG:manhaut add 11xBó hoa hồng vàng (old: 10) lydo: Đổi bó hoa hồng đỏ at 03/12/2023 8:07 AM
+BAG:manhaut add 12xBó hoa hồng vàng (old: 11) lydo: Đổi bó hoa hồng đỏ at 03/12/2023 8:07 AM
+BAG:manhaut add 13xBó hoa hồng vàng (old: 12) lydo: Đổi bó hoa hồng đỏ at 03/12/2023 8:07 AM
+BAG:manhaut add 14xBó hoa hồng vàng (old: 13) lydo: Đổi bó hoa hồng đỏ at 03/12/2023 8:07 AM
+BAG:manhaut add 15xBó hoa hồng vàng (old: 14) lydo: Đổi bó hoa hồng đỏ at 03/12/2023 8:07 AM
+BAG:manhaut add 16xBó hoa hồng vàng (old: 15) lydo: Đổi bó hoa hồng đỏ at 03/12/2023 8:07 AM
+BAG:manhaut add 17xBó hoa hồng vàng (old: 16) lydo: Đổi bó hoa hồng đỏ at 03/12/2023 8:07 AM
+BAG:manhaut add 18xBó hoa hồng vàng (old: 17) lydo: Đổi bó hoa hồng đỏ at 03/12/2023 8:07 AM
+BAG:manhaut add 19xBó hoa hồng vàng (old: 18) lydo: Đổi bó hoa hồng đỏ at 03/12/2023 8:07 AM
+BAG:manhaut add 20xBó hoa hồng vàng (old: 19) lydo: Đổi bó hoa hồng đỏ at 03/12/2023 8:07 AM
+BAG:manhaut add 12xBó hoa hồng xanh (old: 11) lydo: Đổi bó hoa hồng xanh at 03/12/2023 8:07 AM
+BAG:manhaut add 1xGiỏ hoa lydo: Mua từ bill at 03/12/2023 8:09 AM
+BAG:manhaut add 2xGiỏ hoa (old: 1) lydo: Mua từ bill at 03/12/2023 8:09 AM
+BAG:manhaut add 1xGiỏ hoa hồng xanh lydo: Đổi giỏ hoa hồng xanh at 03/12/2023 8:09 AM
+BAG:manhaut add 1xGiỏ hoa hồng vàng lydo: Đổi giỏ hoa hồng vàng at 03/12/2023 8:09 AM
+BAG:manhaut add 1xHộp quà 8/3 lydo: Đổi hộp quà 8/3 at 03/12/2023 8:09 AM
+BAG:manhaut add 1xNgọc Rồng 2 sao lydo: CSKB at 03/12/2023 8:09 AM
+BAG:manhaut add 3xBó hoa hồng xanh (old: 2) lydo: Đổi bó hoa hồng xanh at 03/12/2023 8:10 AM
+BAG:manhaut add 4xBó hoa hồng xanh (old: 3) lydo: Đổi bó hoa hồng xanh at 03/12/2023 8:10 AM
+BAG:manhaut add 5xBó hoa hồng xanh (old: 4) lydo: Đổi bó hoa hồng xanh at 03/12/2023 8:10 AM
+BAG:manhaut add 6xBó hoa hồng xanh (old: 5) lydo: Đổi bó hoa hồng xanh at 03/12/2023 8:10 AM
+BAG:manhaut add 7xBó hoa hồng xanh (old: 6) lydo: Đổi bó hoa hồng xanh at 03/12/2023 8:10 AM
+BAG:manhaut add 8xBó hoa hồng xanh (old: 7) lydo: Đổi bó hoa hồng xanh at 03/12/2023 8:10 AM
+BAG:manhaut add 9xBó hoa hồng xanh (old: 8) lydo: Đổi bó hoa hồng xanh at 03/12/2023 8:10 AM
+BAG:manhaut add 10xBó hoa hồng xanh (old: 9) lydo: Đổi bó hoa hồng xanh at 03/12/2023 8:10 AM
+BAG:manhaut add 11xBó hoa hồng xanh (old: 10) lydo: Đổi bó hoa hồng xanh at 03/12/2023 8:10 AM
+BAG:manhaut add 12xBó hoa hồng xanh (old: 11) lydo: Đổi bó hoa hồng xanh at 03/12/2023 8:10 AM
+BAG:manhaut add 13xBó hoa hồng xanh (old: 12) lydo: Đổi bó hoa hồng xanh at 03/12/2023 8:10 AM
+BAG:manhaut add 14xBó hoa hồng xanh (old: 13) lydo: Đổi bó hoa hồng xanh at 03/12/2023 8:10 AM
+BAG:manhaut add 15xBó hoa hồng xanh (old: 14) lydo: Đổi bó hoa hồng xanh at 03/12/2023 8:10 AM
+BAG:manhaut add 16xBó hoa hồng xanh (old: 15) lydo: Đổi bó hoa hồng xanh at 03/12/2023 8:11 AM
+BAG:manhaut add 17xBó hoa hồng xanh (old: 16) lydo: Đổi bó hoa hồng xanh at 03/12/2023 8:11 AM
+BAG:manhaut add 18xBó hoa hồng xanh (old: 17) lydo: Đổi bó hoa hồng xanh at 03/12/2023 8:11 AM
+BAG:manhaut add 19xBó hoa hồng xanh (old: 18) lydo: Đổi bó hoa hồng xanh at 03/12/2023 8:11 AM
+BAG:manhaut add 20xBó hoa hồng xanh (old: 19) lydo: Đổi bó hoa hồng xanh at 03/12/2023 8:11 AM
+BAG:manhaut add 15xBó hoa hồng đỏ (old: 14) lydo: Đổi bó hoa hồng đỏ at 03/12/2023 8:11 AM
+BAG:manhaut add 16xBó hoa hồng đỏ (old: 15) lydo: Đổi bó hoa hồng đỏ at 03/12/2023 8:11 AM
+BAG:manhaut add 17xBó hoa hồng đỏ (old: 16) lydo: Đổi bó hoa hồng đỏ at 03/12/2023 8:11 AM
+BAG:manhaut add 18xBó hoa hồng đỏ (old: 17) lydo: Đổi bó hoa hồng đỏ at 03/12/2023 8:11 AM
+BAG:manhaut add 19xBó hoa hồng đỏ (old: 18) lydo: Đổi bó hoa hồng đỏ at 03/12/2023 8:11 AM
+BAG:manhaut add 20xBó hoa hồng đỏ (old: 19) lydo: Đổi bó hoa hồng đỏ at 03/12/2023 8:11 AM
+BAG:manhaut add 21xBó hoa hồng đỏ (old: 20) lydo: Đổi bó hoa hồng đỏ at 03/12/2023 8:11 AM
+BAG:manhaut add 11xBó hoa hồng vàng (old: 10) lydo: Đổi bó hoa hồng đỏ at 03/12/2023 8:11 AM
+BAG:manhaut add 12xBó hoa hồng vàng (old: 11) lydo: Đổi bó hoa hồng đỏ at 03/12/2023 8:11 AM
+BAG:manhaut add 13xBó hoa hồng vàng (old: 12) lydo: Đổi bó hoa hồng đỏ at 03/12/2023 8:11 AM
+BAG:manhaut add 14xBó hoa hồng vàng (old: 13) lydo: Đổi bó hoa hồng đỏ at 03/12/2023 8:11 AM
+BAG:manhaut add 15xBó hoa hồng vàng (old: 14) lydo: Đổi bó hoa hồng đỏ at 03/12/2023 8:11 AM
+BAG:manhaut add 16xBó hoa hồng vàng (old: 15) lydo: Đổi bó hoa hồng đỏ at 03/12/2023 8:12 AM
+BAG:manhaut add 17xBó hoa hồng vàng (old: 16) lydo: Đổi bó hoa hồng đỏ at 03/12/2023 8:12 AM
+BAG:manhaut add 18xBó hoa hồng vàng (old: 17) lydo: Đổi bó hoa hồng đỏ at 03/12/2023 8:12 AM
+BAG:manhaut add 19xBó hoa hồng vàng (old: 18) lydo: Đổi bó hoa hồng đỏ at 03/12/2023 8:12 AM
+BAG:manhaut add 20xBó hoa hồng vàng (old: 19) lydo: Đổi bó hoa hồng đỏ at 03/12/2023 8:12 AM
+BAG:manhaut add 1xGiỏ hoa lydo: Mua từ bill at 03/12/2023 8:12 AM
+BAG:manhaut add 2xGiỏ hoa (old: 1) lydo: Mua từ bill at 03/12/2023 8:12 AM
+BAG:manhaut add 3xGiỏ hoa (old: 2) lydo: Mua từ bill at 03/12/2023 8:12 AM
+BAG:manhaut add 4xGiỏ hoa (old: 3) lydo: Mua từ bill at 03/12/2023 8:12 AM
+BAG:manhaut add 5xGiỏ hoa (old: 4) lydo: Mua từ bill at 03/12/2023 8:12 AM
+BAG:manhaut add 6xGiỏ hoa (old: 5) lydo: Mua từ bill at 03/12/2023 8:12 AM
+BAG:manhaut add 1xGiỏ hoa hồng đỏ lydo: Đổi giỏ hoa hồng đỏ at 03/12/2023 8:12 AM
+BAG:manhaut add 2xGiỏ hoa hồng đỏ (old: 1) lydo: Đổi giỏ hoa hồng đỏ at 03/12/2023 8:12 AM
+BAG:manhaut add 1xGiỏ hoa hồng xanh lydo: Đổi giỏ hoa hồng xanh at 03/12/2023 8:12 AM
+BAG:manhaut add 2xGiỏ hoa hồng xanh (old: 1) lydo: Đổi giỏ hoa hồng xanh at 03/12/2023 8:13 AM
+BAG:manhaut add 1xGiỏ hoa hồng vàng lydo: Đổi giỏ hoa hồng vàng at 03/12/2023 8:13 AM
+BAG:manhaut add 2xGiỏ hoa hồng vàng (old: 1) lydo: Đổi giỏ hoa hồng vàng at 03/12/2023 8:13 AM
+BAG:manhaut add 1xHộp quà 8/3 lydo: Đổi hộp quà 8/3 at 03/12/2023 8:13 AM
+BAG:manhaut add 1xHộp quà 8/3 lydo: Đổi hộp quà 8/3 at 03/12/2023 8:13 AM
+BAG:manhaut add 2xNgọc Rồng 2 sao (old: 1) lydo: CSKB at 03/12/2023 8:13 AM
+BAG:manhaut add 3xNgọc Rồng 2 sao (old: 2) lydo: CSKB at 03/12/2023 8:13 AM
+BAG:manhaut add 7xNgọc Rồng 2 sao (old: 3) lydo: Lấy từ rương qua người at 03/12/2023 8:14 AM
+BAG:manhaut add 1xNgọc Rồng 3 sao lydo: Lấy từ rương qua người at 03/12/2023 8:14 AM
+BAG:manhaut add 1xGiỏ hoa lydo: Mua từ bill at 03/12/2023 8:14 AM
+BAG:manhaut add 2xGiỏ hoa (old: 1) lydo: Mua từ bill at 03/12/2023 8:14 AM
+BAG:manhaut add 3xGiỏ hoa (old: 2) lydo: Mua từ bill at 03/12/2023 8:14 AM
+BAG:manhaut add 1xBó hoa hồng đỏ lydo: Đổi bó hoa hồng đỏ at 03/12/2023 8:14 AM
+BAG:manhaut add 2xBó hoa hồng đỏ (old: 1) lydo: Đổi bó hoa hồng đỏ at 03/12/2023 8:14 AM
+BAG:manhaut add 3xBó hoa hồng đỏ (old: 2) lydo: Đổi bó hoa hồng đỏ at 03/12/2023 8:14 AM
+BAG:manhaut add 4xBó hoa hồng đỏ (old: 3) lydo: Đổi bó hoa hồng đỏ at 03/12/2023 8:14 AM
+BAG:manhaut add 5xBó hoa hồng đỏ (old: 4) lydo: Đổi bó hoa hồng đỏ at 03/12/2023 8:14 AM
+BAG:manhaut add 6xBó hoa hồng đỏ (old: 5) lydo: Đổi bó hoa hồng đỏ at 03/12/2023 8:14 AM
+BAG:manhaut add 7xBó hoa hồng đỏ (old: 6) lydo: Đổi bó hoa hồng đỏ at 03/12/2023 8:14 AM
+BAG:manhaut add 8xBó hoa hồng đỏ (old: 7) lydo: Đổi bó hoa hồng đỏ at 03/12/2023 8:14 AM
+BAG:manhaut add 9xBó hoa hồng đỏ (old: 8) lydo: Đổi bó hoa hồng đỏ at 03/12/2023 8:14 AM
+BAG:manhaut add 10xBó hoa hồng đỏ (old: 9) lydo: Đổi bó hoa hồng đỏ at 03/12/2023 8:15 AM
+BAG:manhaut add 1xBó hoa hồng xanh lydo: Đổi bó hoa hồng xanh at 03/12/2023 8:15 AM
+BAG:manhaut add 2xBó hoa hồng xanh (old: 1) lydo: Đổi bó hoa hồng xanh at 03/12/2023 8:15 AM
+BAG:manhaut add 3xBó hoa hồng xanh (old: 2) lydo: Đổi bó hoa hồng xanh at 03/12/2023 8:15 AM
+BAG:manhaut add 4xBó hoa hồng xanh (old: 3) lydo: Đổi bó hoa hồng xanh at 03/12/2023 8:15 AM
+BAG:manhaut add 5xBó hoa hồng xanh (old: 4) lydo: Đổi bó hoa hồng xanh at 03/12/2023 8:15 AM
+BAG:manhaut add 6xBó hoa hồng xanh (old: 5) lydo: Đổi bó hoa hồng xanh at 03/12/2023 8:15 AM
+BAG:manhaut add 7xBó hoa hồng xanh (old: 6) lydo: Đổi bó hoa hồng xanh at 03/12/2023 8:15 AM
+BAG:manhaut add 8xBó hoa hồng xanh (old: 7) lydo: Đổi bó hoa hồng xanh at 03/12/2023 8:15 AM
+BAG:manhaut add 9xBó hoa hồng xanh (old: 8) lydo: Đổi bó hoa hồng xanh at 03/12/2023 8:15 AM
+BAG:manhaut add 10xBó hoa hồng xanh (old: 9) lydo: Đổi bó hoa hồng xanh at 03/12/2023 8:15 AM
+BAG:manhaut add 1xBó hoa hồng vàng lydo: Đổi bó hoa hồng đỏ at 03/12/2023 8:15 AM
+BAG:manhaut add 2xBó hoa hồng vàng (old: 1) lydo: Đổi bó hoa hồng đỏ at 03/12/2023 8:15 AM
+BAG:manhaut add 3xBó hoa hồng vàng (old: 2) lydo: Đổi bó hoa hồng đỏ at 03/12/2023 8:15 AM
+BAG:manhaut add 4xBó hoa hồng vàng (old: 3) lydo: Đổi bó hoa hồng đỏ at 03/12/2023 8:15 AM
+BAG:manhaut add 5xBó hoa hồng vàng (old: 4) lydo: Đổi bó hoa hồng đỏ at 03/12/2023 8:15 AM
+BAG:manhaut add 6xBó hoa hồng vàng (old: 5) lydo: Đổi bó hoa hồng đỏ at 03/12/2023 8:15 AM
+BAG:manhaut add 7xBó hoa hồng vàng (old: 6) lydo: Đổi bó hoa hồng đỏ at 03/12/2023 8:15 AM
+BAG:manhaut add 8xBó hoa hồng vàng (old: 7) lydo: Đổi bó hoa hồng đỏ at 03/12/2023 8:15 AM
+BAG:manhaut add 9xBó hoa hồng vàng (old: 8) lydo: Đổi bó hoa hồng đỏ at 03/12/2023 8:16 AM
+BAG:manhaut add 10xBó hoa hồng vàng (old: 9) lydo: Đổi bó hoa hồng đỏ at 03/12/2023 8:16 AM
+BAG:manhaut add 1xGiỏ hoa hồng đỏ lydo: Đổi giỏ hoa hồng đỏ at 03/12/2023 8:16 AM
+BAG:manhaut add 1xGiỏ hoa hồng xanh lydo: Đổi giỏ hoa hồng xanh at 03/12/2023 8:16 AM
+BAG:manhaut add 1xGiỏ hoa hồng vàng lydo: Đổi giỏ hoa hồng vàng at 03/12/2023 8:16 AM
+BAG:manhaut add 1xHộp quà 8/3 lydo: Đổi hộp quà 8/3 at 03/12/2023 8:16 AM
+BAG:manhaut add 8xNgọc Rồng 2 sao (old: 7) lydo: CSKB at 03/12/2023 8:16 AM
+BAG:manhaut add 1xNgọc Rồng 3 sao lydo: Lấy từ rương qua người at 03/12/2023 8:16 AM
+BAG:manhaut add 21xNgọc Rồng 5 sao lydo: Lấy từ rương qua người at 03/12/2023 8:16 AM
+BAG:manhaut add 29xNgọc Rồng 6 sao lydo: Lấy từ rương qua người at 03/12/2023 8:16 AM
+BAG:manhaut add 13xNgọc Rồng 4 sao lydo: Lấy từ rương qua người at 03/12/2023 8:16 AM
+BAG:manhaut add 1xNgọc Rồng 1 sao lydo: Nhập ngọc at 03/12/2023 8:17 AM
+BAG:manhaut add 1xNgọc Rồng 7 sao lydo: Lấy từ lucky box at 03/12/2023 8:20 AM
+BAG:manhaut add 792xHoa hồng vàng (old: 791) lydo: Nhặt từ map at 03/12/2023 8:22 AM
+BAG:manhaut add 455xHoa hồng xanh (old: 454) lydo: Nhặt từ map at 03/12/2023 8:22 AM
+BAG:manhaut add 793xHoa hồng vàng (old: 792) lydo: Nhặt từ map at 03/12/2023 8:22 AM
+BAG:manhaut add 1xĐá Saphia lydo: Nhặt từ map at 03/12/2023 8:22 AM
+BAG:manhaut add 442xHoa hồng đỏ (old: 441) lydo: Nhặt từ map at 03/12/2023 8:22 AM
+BAG:manhaut add 456xHoa hồng xanh (old: 455) lydo: Nhặt từ map at 03/12/2023 8:22 AM
+BAG:manhaut add 443xHoa hồng đỏ (old: 442) lydo: Nhặt từ map at 03/12/2023 8:22 AM
+BAG:manhaut add 1xGiáp tập luyện cấp 3 lydo: Lấy từ body vào hành trang at 03/12/2023 9:41 AM
+BAG:manhaut add 457xHoa hồng xanh (old: 456) lydo: Nhặt từ map at 03/12/2023 9:41 AM
+BAG:manhaut add 794xHoa hồng vàng (old: 793) lydo: Nhặt từ map at 03/12/2023 9:45 AM
+BAG:manhaut add 1xĐá thạch anh tím lydo: Nhặt từ map at 03/12/2023 9:45 AM
+BAG:manhaut add 1xĐá lục bảo lydo: Nhặt từ map at 03/12/2023 9:45 AM
+BAG:manhaut add 795xHoa hồng vàng (old: 794) lydo: Nhặt từ map at 03/12/2023 9:51 AM
+BAG:manhaut add 1xNgọc Rồng 3 sao lydo: Nhặt từ map at 03/12/2023 9:52 AM
+BAG:manhaut add 5xThỏi vàng lydo: Nhặt từ map at 03/12/2023 9:53 AM
+BAG:manhaut add 1xBổ khí lydo: CSKB at 03/12/2023 7:32 PM
+BAG:manhaut add 1xẨn danh lydo: CSKB at 03/12/2023 7:32 PM
+BAG:manhaut add 2xCuồng nộ (old: 1) lydo: CSKB at 03/12/2023 7:32 PM
+BAG:manhaut add 2xẨn danh (old: 1) lydo: CSKB at 03/12/2023 7:32 PM
+BAG:manhaut add 3xẨn danh (old: 2) lydo: CSKB at 03/12/2023 7:32 PM
+BAG:manhaut add 4xẨn danh (old: 3) lydo: CSKB at 03/12/2023 7:32 PM
+BAG:manhaut add 3xCuồng nộ (old: 2) lydo: CSKB at 03/12/2023 7:33 PM
+BAG:manhaut add 5xẨn danh (old: 4) lydo: CSKB at 03/12/2023 7:33 PM
+BAG:manhaut add 1xGiáp tập luyện cấp 1 lydo: Lấy từ body vào hành trang at 03/12/2023 7:33 PM

@@ -1,0 +1,17 @@
+BAG:nameckid add 7xĐậu thần cấp 2 lydo: Thu hoạch đậu at 03/11/2023 12:05 PM
+BAG:nameckid add 3xĐậu thần cấp 10 lydo: Thu hoạch đậu at 03/11/2023 12:05 PM
+BAG:nameckid add 23xĐậu thần cấp 10 (old: 3) lydo: Lấy từ rương qua người at 03/11/2023 12:05 PM
+BAG:nameckid add 43xĐậu thần cấp 10 (old: 23) lydo: Lấy từ rương qua người at 03/11/2023 12:05 PM
+BAG:nameckid add 1xRada cấp 1 lydo: Lấy từ rương qua người at 03/11/2023 12:05 PM
+BAG:nameckid add 63xĐậu thần cấp 10 (old: 43) lydo: Lấy từ rương qua người at 03/11/2023 12:06 PM
+BAG:nameckid add 83xĐậu thần cấp 10 (old: 63) lydo: Lấy từ rương qua người at 03/11/2023 12:06 PM
+BAG:nameckid add 150xThỏi vàng lydo: Giftcode at 03/11/2023 12:09 PM
+BAG:nameckid add 99xNgọc Rồng 3 sao lydo: Giftcode at 03/11/2023 12:09 PM
+BAG:nameckid add 1xHoa hồng vàng lydo: Nhặt từ map at 03/11/2023 12:13 PM
+BAG:nameckid add 1xQuần sợi len lydo: Nhặt từ map at 03/11/2023 12:13 PM
+BAG:nameckid add 2xHoa hồng vàng (old: 1) lydo: Nhặt từ map at 03/11/2023 12:13 PM
+BAG:nameckid add 1xHoa hồng đỏ lydo: Nhặt từ map at 03/11/2023 12:14 PM
+BAG:nameckid add 2xHoa hồng đỏ (old: 1) lydo: Nhặt từ map at 03/11/2023 12:14 PM
+BAG:nameckid add 1xÁo sợi len lydo: Nhặt từ map at 03/11/2023 12:15 PM
+BAG:nameckid add 3xHoa hồng đỏ (old: 2) lydo: Nhặt từ map at 03/11/2023 12:15 PM
+BAG:nameckid add 3xHoa hồng vàng (old: 2) lydo: Nhặt từ map at 03/11/2023 12:20 PM

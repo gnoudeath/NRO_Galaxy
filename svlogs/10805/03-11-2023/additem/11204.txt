@@ -1,0 +1,802 @@
+BAG:namek1705 add 9xĐá Saphia (old: 8) lydo: Nhặt từ map at 03/11/2023 6:19 AM
+BAG:namek1705 add 10xĐá Saphia (old: 9) lydo: Nhặt từ map at 03/11/2023 6:20 AM
+BAG:namek1705 add 1xQuần sợi len lydo: Lấy từ body vào hành trang at 03/11/2023 6:20 AM
+BAG:namek1705 add 22xĐá lục bảo (old: 21) lydo: Nhặt từ map at 03/11/2023 6:21 AM
+BAG:namek1705 add 21xĐá Ruby (old: 20) lydo: Nhặt từ map at 03/11/2023 6:22 AM
+BAG:namek1705 add 1xCải Trang Thần Zeno Namec lydo: Lấy từ body vào hành trang at 03/11/2023 6:22 AM
+BAG:namek1705 add 97xHoa hồng xanh (old: 96) lydo: Nhặt từ map at 03/11/2023 6:23 AM
+BAG:namek1705 add 98xHoa hồng xanh (old: 97) lydo: Nhặt từ map at 03/11/2023 6:23 AM
+BAG:namek1705 add 1xĐá thạch anh tím lydo: Nhặt từ map at 03/11/2023 6:23 AM
+BAG:namek1705 add 99xHoa hồng xanh (old: 98) lydo: Nhặt từ map at 03/11/2023 6:24 AM
+BAG:namek1705 add 103xHoa hồng vàng (old: 102) lydo: Nhặt từ map at 03/11/2023 6:24 AM
+BAG:namek1705 add 104xHoa hồng vàng (old: 103) lydo: Nhặt từ map at 03/11/2023 6:24 AM
+BAG:namek1705 add 2xĐá thạch anh tím (old: 1) lydo: Nhặt từ map at 03/11/2023 6:25 AM
+BAG:namek1705 add 11xĐá Saphia (old: 10) lydo: Nhặt từ map at 03/11/2023 6:25 AM
+BAG:namek1705 add 100xHoa hồng xanh (old: 99) lydo: Nhặt từ map at 03/11/2023 6:26 AM
+BAG:namek1705 add 22xĐá Ruby (old: 21) lydo: Nhặt từ map at 03/11/2023 6:26 AM
+BAG:namek1705 add 83xHoa hồng đỏ (old: 82) lydo: Nhặt từ map at 03/11/2023 6:27 AM
+BAG:namek1705 add 101xHoa hồng xanh (old: 100) lydo: Nhặt từ map at 03/11/2023 6:27 AM
+BAG:namek1705 add 84xHoa hồng đỏ (old: 83) lydo: Nhặt từ map at 03/11/2023 6:28 AM
+BAG:namek1705 add 105xHoa hồng vàng (old: 104) lydo: Nhặt từ map at 03/11/2023 6:28 AM
+BAG:namek1705 add 102xHoa hồng xanh (old: 101) lydo: Nhặt từ map at 03/11/2023 6:29 AM
+BAG:namek1705 add 106xHoa hồng vàng (old: 105) lydo: Nhặt từ map at 03/11/2023 6:29 AM
+BAG:namek1705 add 3xĐá thạch anh tím (old: 2) lydo: Nhặt từ map at 03/11/2023 6:30 AM
+BAG:namek1705 add 85xHoa hồng đỏ (old: 84) lydo: Nhặt từ map at 03/11/2023 6:31 AM
+BAG:namek1705 add 107xHoa hồng vàng (old: 106) lydo: Nhặt từ map at 03/11/2023 6:32 AM
+BAG:namek1705 add 23xĐá lục bảo (old: 22) lydo: Nhặt từ map at 03/11/2023 6:33 AM
+BAG:namek1705 add 103xHoa hồng xanh (old: 102) lydo: Nhặt từ map at 03/11/2023 6:33 AM
+BAG:namek1705 add 86xHoa hồng đỏ (old: 85) lydo: Nhặt từ map at 03/11/2023 6:34 AM
+BAG:namek1705 add 108xHoa hồng vàng (old: 107) lydo: Nhặt từ map at 03/11/2023 6:35 AM
+BAG:namek1705 add 104xHoa hồng xanh (old: 103) lydo: Nhặt từ map at 03/11/2023 6:37 AM
+BAG:namek1705 add 4xĐá thạch anh tím (old: 3) lydo: Nhặt từ map at 03/11/2023 6:38 AM
+BAG:namek1705 add 105xHoa hồng xanh (old: 104) lydo: Nhặt từ map at 03/11/2023 6:38 AM
+BAG:namek1705 add 87xHoa hồng đỏ (old: 86) lydo: Nhặt từ map at 03/11/2023 6:40 AM
+BAG:namek1705 add 106xHoa hồng xanh (old: 105) lydo: Nhặt từ map at 03/11/2023 6:41 AM
+BAG:namek1705 add 88xHoa hồng đỏ (old: 87) lydo: Nhặt từ map at 03/11/2023 6:42 AM
+BAG:namek1705 add 89xHoa hồng đỏ (old: 88) lydo: Nhặt từ map at 03/11/2023 6:42 AM
+BAG:namek1705 add 21xĐá Titan (old: 20) lydo: Nhặt từ map at 03/11/2023 6:43 AM
+BAG:namek1705 add 109xHoa hồng vàng (old: 108) lydo: Nhặt từ map at 03/11/2023 6:44 AM
+BAG:namek1705 add 110xHoa hồng vàng (old: 109) lydo: Nhặt từ map at 03/11/2023 6:44 AM
+BAG:namek1705 add 90xHoa hồng đỏ (old: 89) lydo: Nhặt từ map at 03/11/2023 6:45 AM
+BAG:namek1705 add 91xHoa hồng đỏ (old: 90) lydo: Nhặt từ map at 03/11/2023 6:45 AM
+BAG:namek1705 add 111xHoa hồng vàng (old: 110) lydo: Nhặt từ map at 03/11/2023 6:45 AM
+BAG:namek1705 add 92xHoa hồng đỏ (old: 91) lydo: Nhặt từ map at 03/11/2023 6:46 AM
+BAG:namek1705 add 93xHoa hồng đỏ (old: 92) lydo: Nhặt từ map at 03/11/2023 6:49 AM
+BAG:namek1705 add 107xHoa hồng xanh (old: 106) lydo: Nhặt từ map at 03/11/2023 6:49 AM
+BAG:namek1705 add 112xHoa hồng vàng (old: 111) lydo: Nhặt từ map at 03/11/2023 6:50 AM
+BAG:namek1705 add 113xHoa hồng vàng (old: 112) lydo: Nhặt từ map at 03/11/2023 6:51 AM
+BAG:namek1705 add 114xHoa hồng vàng (old: 113) lydo: Nhặt từ map at 03/11/2023 6:51 AM
+BAG:namek1705 add 115xHoa hồng vàng (old: 114) lydo: Nhặt từ map at 03/11/2023 6:53 AM
+BAG:namek1705 add 116xHoa hồng vàng (old: 115) lydo: Nhặt từ map at 03/11/2023 6:53 AM
+BAG:namek1705 add 22xĐá Titan (old: 21) lydo: Nhặt từ map at 03/11/2023 6:55 AM
+BAG:namek1705 add 24xĐá lục bảo (old: 23) lydo: Nhặt từ map at 03/11/2023 6:56 AM
+BAG:namek1705 add 94xHoa hồng đỏ (old: 93) lydo: Nhặt từ map at 03/11/2023 6:56 AM
+BAG:namek1705 add 117xHoa hồng vàng (old: 116) lydo: Nhặt từ map at 03/11/2023 6:57 AM
+BAG:namek1705 add 5xĐá thạch anh tím (old: 4) lydo: Nhặt từ map at 03/11/2023 6:57 AM
+BAG:namek1705 add 118xHoa hồng vàng (old: 117) lydo: Nhặt từ map at 03/11/2023 6:57 AM
+BAG:namek1705 add 25xĐá lục bảo (old: 24) lydo: Nhặt từ map at 03/11/2023 6:58 AM
+BAG:namek1705 add 119xHoa hồng vàng (old: 118) lydo: Nhặt từ map at 03/11/2023 6:59 AM
+BAG:namek1705 add 108xHoa hồng xanh (old: 107) lydo: Nhặt từ map at 03/11/2023 6:59 AM
+BAG:namek1705 add 95xHoa hồng đỏ (old: 94) lydo: Nhặt từ map at 03/11/2023 6:59 AM
+BAG:namek1705 add 109xHoa hồng xanh (old: 108) lydo: Nhặt từ map at 03/11/2023 7:00 AM
+BAG:namek1705 add 110xHoa hồng xanh (old: 109) lydo: Nhặt từ map at 03/11/2023 7:01 AM
+BAG:namek1705 add 23xĐá Titan (old: 22) lydo: Nhặt từ map at 03/11/2023 7:01 AM
+BAG:namek1705 add 96xHoa hồng đỏ (old: 95) lydo: Nhặt từ map at 03/11/2023 7:01 AM
+BAG:namek1705 add 111xHoa hồng xanh (old: 110) lydo: Nhặt từ map at 03/11/2023 7:02 AM
+BAG:namek1705 add 120xHoa hồng vàng (old: 119) lydo: Nhặt từ map at 03/11/2023 7:02 AM
+BAG:namek1705 add 121xHoa hồng vàng (old: 120) lydo: Nhặt từ map at 03/11/2023 7:03 AM
+BAG:namek1705 add 112xHoa hồng xanh (old: 111) lydo: Nhặt từ map at 03/11/2023 7:04 AM
+BAG:namek1705 add 113xHoa hồng xanh (old: 112) lydo: Nhặt từ map at 03/11/2023 7:05 AM
+BAG:namek1705 add 122xHoa hồng vàng (old: 121) lydo: Nhặt từ map at 03/11/2023 7:05 AM
+BAG:namek1705 add 123xHoa hồng vàng (old: 122) lydo: Nhặt từ map at 03/11/2023 7:06 AM
+BAG:namek1705 add 26xĐá lục bảo (old: 25) lydo: Nhặt từ map at 03/11/2023 7:06 AM
+BAG:namek1705 add 124xHoa hồng vàng (old: 123) lydo: Nhặt từ map at 03/11/2023 7:06 AM
+BAG:namek1705 add 97xHoa hồng đỏ (old: 96) lydo: Nhặt từ map at 03/11/2023 7:07 AM
+BAG:namek1705 add 98xHoa hồng đỏ (old: 97) lydo: Nhặt từ map at 03/11/2023 7:08 AM
+BAG:namek1705 add 114xHoa hồng xanh (old: 113) lydo: Nhặt từ map at 03/11/2023 7:08 AM
+BAG:namek1705 add 24xĐá Titan (old: 23) lydo: Nhặt từ map at 03/11/2023 7:09 AM
+BAG:namek1705 add 12xĐá Saphia (old: 11) lydo: Nhặt từ map at 03/11/2023 7:10 AM
+BAG:namek1705 add 125xHoa hồng vàng (old: 124) lydo: Nhặt từ map at 03/11/2023 7:10 AM
+BAG:namek1705 add 115xHoa hồng xanh (old: 114) lydo: Nhặt từ map at 03/11/2023 7:10 AM
+BAG:namek1705 add 126xHoa hồng vàng (old: 125) lydo: Nhặt từ map at 03/11/2023 7:10 AM
+BAG:namek1705 add 116xHoa hồng xanh (old: 115) lydo: Nhặt từ map at 03/11/2023 7:11 AM
+BAG:namek1705 add 117xHoa hồng xanh (old: 116) lydo: Nhặt từ map at 03/11/2023 7:11 AM
+BAG:namek1705 add 99xHoa hồng đỏ (old: 98) lydo: Nhặt từ map at 03/11/2023 7:12 AM
+BAG:namek1705 add 13xĐá Saphia (old: 12) lydo: Nhặt từ map at 03/11/2023 7:12 AM
+BAG:namek1705 add 118xHoa hồng xanh (old: 117) lydo: Nhặt từ map at 03/11/2023 7:12 AM
+BAG:namek1705 add 25xĐá Titan (old: 24) lydo: Nhặt từ map at 03/11/2023 7:12 AM
+BAG:namek1705 add 127xHoa hồng vàng (old: 126) lydo: Nhặt từ map at 03/11/2023 7:13 AM
+BAG:namek1705 add 100xHoa hồng đỏ (old: 99) lydo: Nhặt từ map at 03/11/2023 7:13 AM
+BAG:namek1705 add 119xHoa hồng xanh (old: 118) lydo: Nhặt từ map at 03/11/2023 7:13 AM
+BAG:namek1705 add 101xHoa hồng đỏ (old: 100) lydo: Nhặt từ map at 03/11/2023 7:13 AM
+BAG:namek1705 add 120xHoa hồng xanh (old: 119) lydo: Nhặt từ map at 03/11/2023 7:15 AM
+BAG:namek1705 add 121xHoa hồng xanh (old: 120) lydo: Nhặt từ map at 03/11/2023 7:15 AM
+BAG:namek1705 add 128xHoa hồng vàng (old: 127) lydo: Nhặt từ map at 03/11/2023 7:16 AM
+BAG:namek1705 add 6xĐá thạch anh tím (old: 5) lydo: Nhặt từ map at 03/11/2023 7:16 AM
+BAG:namek1705 add 129xHoa hồng vàng (old: 128) lydo: Nhặt từ map at 03/11/2023 7:17 AM
+BAG:namek1705 add 122xHoa hồng xanh (old: 121) lydo: Nhặt từ map at 03/11/2023 7:18 AM
+BAG:namek1705 add 7xĐá thạch anh tím (old: 6) lydo: Nhặt từ map at 03/11/2023 7:18 AM
+BAG:namek1705 add 102xHoa hồng đỏ (old: 101) lydo: Nhặt từ map at 03/11/2023 7:18 AM
+BAG:namek1705 add 123xHoa hồng xanh (old: 122) lydo: Nhặt từ map at 03/11/2023 7:19 AM
+BAG:namek1705 add 124xHoa hồng xanh (old: 123) lydo: Nhặt từ map at 03/11/2023 7:21 AM
+BAG:namek1705 add 130xHoa hồng vàng (old: 129) lydo: Nhặt từ map at 03/11/2023 7:21 AM
+BAG:namek1705 add 14xĐá Saphia (old: 13) lydo: Nhặt từ map at 03/11/2023 7:22 AM
+BAG:namek1705 add 103xHoa hồng đỏ (old: 102) lydo: Nhặt từ map at 03/11/2023 7:22 AM
+BAG:namek1705 add 131xHoa hồng vàng (old: 130) lydo: Nhặt từ map at 03/11/2023 7:22 AM
+BAG:namek1705 add 132xHoa hồng vàng (old: 131) lydo: Nhặt từ map at 03/11/2023 7:23 AM
+BAG:namek1705 add 26xĐá Titan (old: 25) lydo: Nhặt từ map at 03/11/2023 7:23 AM
+BAG:namek1705 add 104xHoa hồng đỏ (old: 103) lydo: Nhặt từ map at 03/11/2023 7:24 AM
+BAG:namek1705 add 105xHoa hồng đỏ (old: 104) lydo: Nhặt từ map at 03/11/2023 7:24 AM
+BAG:namek1705 add 27xĐá lục bảo (old: 26) lydo: Nhặt từ map at 03/11/2023 7:24 AM
+BAG:namek1705 add 15xĐá Saphia (old: 14) lydo: Nhặt từ map at 03/11/2023 7:26 AM
+BAG:namek1705 add 133xHoa hồng vàng (old: 132) lydo: Nhặt từ map at 03/11/2023 7:26 AM
+BAG:namek1705 add 134xHoa hồng vàng (old: 133) lydo: Nhặt từ map at 03/11/2023 7:28 AM
+BAG:namek1705 add 125xHoa hồng xanh (old: 124) lydo: Nhặt từ map at 03/11/2023 7:29 AM
+BAG:namek1705 add 135xHoa hồng vàng (old: 134) lydo: Nhặt từ map at 03/11/2023 7:29 AM
+BAG:namek1705 add 28xĐá lục bảo (old: 27) lydo: Nhặt từ map at 03/11/2023 7:29 AM
+BAG:namek1705 add 126xHoa hồng xanh (old: 125) lydo: Nhặt từ map at 03/11/2023 7:32 AM
+BAG:namek1705 add 127xHoa hồng xanh (old: 126) lydo: Nhặt từ map at 03/11/2023 7:33 AM
+BAG:namek1705 add 128xHoa hồng xanh (old: 127) lydo: Nhặt từ map at 03/11/2023 7:33 AM
+BAG:namek1705 add 27xĐá Titan (old: 26) lydo: Nhặt từ map at 03/11/2023 7:34 AM
+BAG:namek1705 add 106xHoa hồng đỏ (old: 105) lydo: Nhặt từ map at 03/11/2023 7:34 AM
+BAG:namek1705 add 136xHoa hồng vàng (old: 135) lydo: Nhặt từ map at 03/11/2023 7:34 AM
+BAG:namek1705 add 137xHoa hồng vàng (old: 136) lydo: Nhặt từ map at 03/11/2023 7:35 AM
+BAG:namek1705 add 138xHoa hồng vàng (old: 137) lydo: Nhặt từ map at 03/11/2023 7:35 AM
+BAG:namek1705 add 107xHoa hồng đỏ (old: 106) lydo: Nhặt từ map at 03/11/2023 7:36 AM
+BAG:namek1705 add 129xHoa hồng xanh (old: 128) lydo: Nhặt từ map at 03/11/2023 7:37 AM
+BAG:namek1705 add 16xĐá Saphia (old: 15) lydo: Nhặt từ map at 03/11/2023 7:37 AM
+BAG:namek1705 add 139xHoa hồng vàng (old: 138) lydo: Nhặt từ map at 03/11/2023 7:37 AM
+BAG:namek1705 add 140xHoa hồng vàng (old: 139) lydo: Nhặt từ map at 03/11/2023 7:38 AM
+BAG:namek1705 add 141xHoa hồng vàng (old: 140) lydo: Nhặt từ map at 03/11/2023 7:38 AM
+BAG:namek1705 add 130xHoa hồng xanh (old: 129) lydo: Nhặt từ map at 03/11/2023 7:39 AM
+BAG:namek1705 add 29xĐá lục bảo (old: 28) lydo: Nhặt từ map at 03/11/2023 7:40 AM
+BAG:namek1705 add 142xHoa hồng vàng (old: 141) lydo: Nhặt từ map at 03/11/2023 7:41 AM
+BAG:namek1705 add 108xHoa hồng đỏ (old: 107) lydo: Nhặt từ map at 03/11/2023 7:42 AM
+BAG:namek1705 add 143xHoa hồng vàng (old: 142) lydo: Nhặt từ map at 03/11/2023 7:43 AM
+BAG:namek1705 add 109xHoa hồng đỏ (old: 108) lydo: Nhặt từ map at 03/11/2023 7:44 AM
+BAG:namek1705 add 131xHoa hồng xanh (old: 130) lydo: Nhặt từ map at 03/11/2023 7:44 AM
+BAG:namek1705 add 132xHoa hồng xanh (old: 131) lydo: Nhặt từ map at 03/11/2023 7:45 AM
+BAG:namek1705 add 110xHoa hồng đỏ (old: 109) lydo: Nhặt từ map at 03/11/2023 7:45 AM
+BAG:namek1705 add 144xHoa hồng vàng (old: 143) lydo: Nhặt từ map at 03/11/2023 7:46 AM
+BAG:namek1705 add 133xHoa hồng xanh (old: 132) lydo: Nhặt từ map at 03/11/2023 7:46 AM
+BAG:namek1705 add 111xHoa hồng đỏ (old: 110) lydo: Nhặt từ map at 03/11/2023 7:46 AM
+BAG:namek1705 add 112xHoa hồng đỏ (old: 111) lydo: Nhặt từ map at 03/11/2023 7:47 AM
+BAG:namek1705 add 134xHoa hồng xanh (old: 133) lydo: Nhặt từ map at 03/11/2023 7:47 AM
+BAG:namek1705 add 145xHoa hồng vàng (old: 144) lydo: Nhặt từ map at 03/11/2023 7:48 AM
+BAG:namek1705 add 113xHoa hồng đỏ (old: 112) lydo: Nhặt từ map at 03/11/2023 7:48 AM
+BAG:namek1705 add 114xHoa hồng đỏ (old: 113) lydo: Nhặt từ map at 03/11/2023 7:49 AM
+BAG:namek1705 add 146xHoa hồng vàng (old: 145) lydo: Nhặt từ map at 03/11/2023 7:49 AM
+BAG:namek1705 add 30xĐá lục bảo (old: 29) lydo: Nhặt từ map at 03/11/2023 7:50 AM
+BAG:namek1705 add 147xHoa hồng vàng (old: 146) lydo: Nhặt từ map at 03/11/2023 7:50 AM
+BAG:namek1705 add 115xHoa hồng đỏ (old: 114) lydo: Nhặt từ map at 03/11/2023 7:50 AM
+BAG:namek1705 add 135xHoa hồng xanh (old: 134) lydo: Nhặt từ map at 03/11/2023 7:50 AM
+BAG:namek1705 add 148xHoa hồng vàng (old: 147) lydo: Nhặt từ map at 03/11/2023 7:51 AM
+BAG:namek1705 add 31xĐá lục bảo (old: 30) lydo: Nhặt từ map at 03/11/2023 7:51 AM
+BAG:namek1705 add 136xHoa hồng xanh (old: 135) lydo: Nhặt từ map at 03/11/2023 7:51 AM
+BAG:namek1705 add 137xHoa hồng xanh (old: 136) lydo: Nhặt từ map at 03/11/2023 7:52 AM
+BAG:namek1705 add 116xHoa hồng đỏ (old: 115) lydo: Nhặt từ map at 03/11/2023 7:52 AM
+BAG:namek1705 add 149xHoa hồng vàng (old: 148) lydo: Nhặt từ map at 03/11/2023 7:53 AM
+BAG:namek1705 add 138xHoa hồng xanh (old: 137) lydo: Nhặt từ map at 03/11/2023 7:53 AM
+BAG:namek1705 add 139xHoa hồng xanh (old: 138) lydo: Nhặt từ map at 03/11/2023 7:54 AM
+BAG:namek1705 add 150xHoa hồng vàng (old: 149) lydo: Nhặt từ map at 03/11/2023 7:55 AM
+BAG:namek1705 add 117xHoa hồng đỏ (old: 116) lydo: Nhặt từ map at 03/11/2023 7:55 AM
+BAG:namek1705 add 32xĐá lục bảo (old: 31) lydo: Nhặt từ map at 03/11/2023 7:55 AM
+BAG:namek1705 add 118xHoa hồng đỏ (old: 117) lydo: Nhặt từ map at 03/11/2023 7:57 AM
+BAG:namek1705 add 140xHoa hồng xanh (old: 139) lydo: Nhặt từ map at 03/11/2023 7:58 AM
+BAG:namek1705 add 119xHoa hồng đỏ (old: 118) lydo: Nhặt từ map at 03/11/2023 7:58 AM
+BAG:namek1705 add 28xĐá Titan (old: 27) lydo: Nhặt từ map at 03/11/2023 7:58 AM
+BAG:namek1705 add 141xHoa hồng xanh (old: 140) lydo: Nhặt từ map at 03/11/2023 7:58 AM
+BAG:namek1705 add 120xHoa hồng đỏ (old: 119) lydo: Nhặt từ map at 03/11/2023 7:59 AM
+BAG:namek1705 add 151xHoa hồng vàng (old: 150) lydo: Nhặt từ map at 03/11/2023 8:00 AM
+BAG:namek1705 add 152xHoa hồng vàng (old: 151) lydo: Nhặt từ map at 03/11/2023 8:01 AM
+BAG:namek1705 add 153xHoa hồng vàng (old: 152) lydo: Nhặt từ map at 03/11/2023 8:01 AM
+BAG:namek1705 add 154xHoa hồng vàng (old: 153) lydo: Nhặt từ map at 03/11/2023 8:02 AM
+BAG:namek1705 add 155xHoa hồng vàng (old: 154) lydo: Nhặt từ map at 03/11/2023 8:03 AM
+BAG:namek1705 add 121xHoa hồng đỏ (old: 120) lydo: Nhặt từ map at 03/11/2023 8:03 AM
+BAG:namek1705 add 156xHoa hồng vàng (old: 155) lydo: Nhặt từ map at 03/11/2023 8:05 AM
+BAG:namek1705 add 29xĐá Titan (old: 28) lydo: Nhặt từ map at 03/11/2023 8:06 AM
+BAG:namek1705 add 157xHoa hồng vàng (old: 156) lydo: Nhặt từ map at 03/11/2023 8:06 AM
+BAG:namek1705 add 122xHoa hồng đỏ (old: 121) lydo: Nhặt từ map at 03/11/2023 8:07 AM
+BAG:namek1705 add 123xHoa hồng đỏ (old: 122) lydo: Nhặt từ map at 03/11/2023 8:07 AM
+BAG:namek1705 add 158xHoa hồng vàng (old: 157) lydo: Nhặt từ map at 03/11/2023 8:08 AM
+BAG:namek1705 add 33xĐá lục bảo (old: 32) lydo: Nhặt từ map at 03/11/2023 8:08 AM
+BAG:namek1705 add 124xHoa hồng đỏ (old: 123) lydo: Nhặt từ map at 03/11/2023 8:11 AM
+BAG:namek1705 add 34xĐá lục bảo (old: 33) lydo: Nhặt từ map at 03/11/2023 8:11 AM
+BAG:namek1705 add 125xHoa hồng đỏ (old: 124) lydo: Nhặt từ map at 03/11/2023 8:11 AM
+BAG:namek1705 add 35xĐá lục bảo (old: 34) lydo: Nhặt từ map at 03/11/2023 8:13 AM
+BAG:namek1705 add 159xHoa hồng vàng (old: 158) lydo: Nhặt từ map at 03/11/2023 8:14 AM
+BAG:namek1705 add 160xHoa hồng vàng (old: 159) lydo: Nhặt từ map at 03/11/2023 8:14 AM
+BAG:namek1705 add 161xHoa hồng vàng (old: 160) lydo: Nhặt từ map at 03/11/2023 8:15 AM
+BAG:namek1705 add 23xĐá Ruby (old: 22) lydo: Nhặt từ map at 03/11/2023 8:16 AM
+BAG:namek1705 add 126xHoa hồng đỏ (old: 125) lydo: Nhặt từ map at 03/11/2023 8:17 AM
+BAG:namek1705 add 127xHoa hồng đỏ (old: 126) lydo: Nhặt từ map at 03/11/2023 8:17 AM
+BAG:namek1705 add 162xHoa hồng vàng (old: 161) lydo: Nhặt từ map at 03/11/2023 8:17 AM
+BAG:namek1705 add 128xHoa hồng đỏ (old: 127) lydo: Nhặt từ map at 03/11/2023 8:18 AM
+BAG:namek1705 add 30xĐá Titan (old: 29) lydo: Nhặt từ map at 03/11/2023 8:19 AM
+BAG:namek1705 add 163xHoa hồng vàng (old: 162) lydo: Nhặt từ map at 03/11/2023 8:20 AM
+BAG:namek1705 add 36xĐá lục bảo (old: 35) lydo: Nhặt từ map at 03/11/2023 8:20 AM
+BAG:namek1705 add 164xHoa hồng vàng (old: 163) lydo: Nhặt từ map at 03/11/2023 8:20 AM
+BAG:namek1705 add 129xHoa hồng đỏ (old: 128) lydo: Nhặt từ map at 03/11/2023 8:20 AM
+BAG:namek1705 add 8xĐá thạch anh tím (old: 7) lydo: Nhặt từ map at 03/11/2023 8:21 AM
+BAG:namek1705 add 130xHoa hồng đỏ (old: 129) lydo: Nhặt từ map at 03/11/2023 8:22 AM
+BAG:namek1705 add 131xHoa hồng đỏ (old: 130) lydo: Nhặt từ map at 03/11/2023 8:22 AM
+BAG:namek1705 add 132xHoa hồng đỏ (old: 131) lydo: Nhặt từ map at 03/11/2023 8:22 AM
+BAG:namek1705 add 133xHoa hồng đỏ (old: 132) lydo: Nhặt từ map at 03/11/2023 8:22 AM
+BAG:namek1705 add 165xHoa hồng vàng (old: 164) lydo: Nhặt từ map at 03/11/2023 8:23 AM
+BAG:namek1705 add 166xHoa hồng vàng (old: 165) lydo: Nhặt từ map at 03/11/2023 8:23 AM
+BAG:namek1705 add 167xHoa hồng vàng (old: 166) lydo: Nhặt từ map at 03/11/2023 8:24 AM
+BAG:namek1705 add 134xHoa hồng đỏ (old: 133) lydo: Nhặt từ map at 03/11/2023 8:25 AM
+BAG:namek1705 add 142xHoa hồng xanh (old: 141) lydo: Nhặt từ map at 03/11/2023 8:26 AM
+BAG:namek1705 add 135xHoa hồng đỏ (old: 134) lydo: Nhặt từ map at 03/11/2023 8:27 AM
+BAG:namek1705 add 136xHoa hồng đỏ (old: 135) lydo: Nhặt từ map at 03/11/2023 8:27 AM
+BAG:namek1705 add 143xHoa hồng xanh (old: 142) lydo: Nhặt từ map at 03/11/2023 8:27 AM
+BAG:namek1705 add 37xĐá lục bảo (old: 36) lydo: Nhặt từ map at 03/11/2023 8:27 AM
+BAG:namek1705 add 137xHoa hồng đỏ (old: 136) lydo: Nhặt từ map at 03/11/2023 8:28 AM
+BAG:namek1705 add 24xĐá Ruby (old: 23) lydo: Nhặt từ map at 03/11/2023 8:28 AM
+BAG:namek1705 add 144xHoa hồng xanh (old: 143) lydo: Nhặt từ map at 03/11/2023 8:29 AM
+BAG:namek1705 add 38xĐá lục bảo (old: 37) lydo: Nhặt từ map at 03/11/2023 8:29 AM
+BAG:namek1705 add 17xĐá Saphia (old: 16) lydo: Nhặt từ map at 03/11/2023 8:29 AM
+BAG:namek1705 add 145xHoa hồng xanh (old: 144) lydo: Nhặt từ map at 03/11/2023 8:29 AM
+BAG:namek1705 add 168xHoa hồng vàng (old: 167) lydo: Nhặt từ map at 03/11/2023 8:31 AM
+BAG:namek1705 add 138xHoa hồng đỏ (old: 137) lydo: Nhặt từ map at 03/11/2023 8:31 AM
+BAG:namek1705 add 146xHoa hồng xanh (old: 145) lydo: Nhặt từ map at 03/11/2023 8:31 AM
+BAG:namek1705 add 139xHoa hồng đỏ (old: 138) lydo: Nhặt từ map at 03/11/2023 8:31 AM
+BAG:namek1705 add 140xHoa hồng đỏ (old: 139) lydo: Nhặt từ map at 03/11/2023 8:32 AM
+BAG:namek1705 add 141xHoa hồng đỏ (old: 140) lydo: Nhặt từ map at 03/11/2023 8:32 AM
+BAG:namek1705 add 169xHoa hồng vàng (old: 168) lydo: Nhặt từ map at 03/11/2023 8:33 AM
+BAG:namek1705 add 170xHoa hồng vàng (old: 169) lydo: Nhặt từ map at 03/11/2023 8:33 AM
+BAG:namek1705 add 147xHoa hồng xanh (old: 146) lydo: Nhặt từ map at 03/11/2023 8:33 AM
+BAG:namek1705 add 31xĐá Titan (old: 30) lydo: Nhặt từ map at 03/11/2023 8:33 AM
+BAG:namek1705 add 18xĐá Saphia (old: 17) lydo: Nhặt từ map at 03/11/2023 8:33 AM
+BAG:namek1705 add 171xHoa hồng vàng (old: 170) lydo: Nhặt từ map at 03/11/2023 8:33 AM
+BAG:namek1705 add 172xHoa hồng vàng (old: 171) lydo: Nhặt từ map at 03/11/2023 8:34 AM
+BAG:namek1705 add 19xĐá Saphia (old: 18) lydo: Nhặt từ map at 03/11/2023 8:34 AM
+BAG:namek1705 add 142xHoa hồng đỏ (old: 141) lydo: Nhặt từ map at 03/11/2023 8:34 AM
+BAG:namek1705 add 143xHoa hồng đỏ (old: 142) lydo: Nhặt từ map at 03/11/2023 8:34 AM
+BAG:namek1705 add 25xĐá Ruby (old: 24) lydo: Nhặt từ map at 03/11/2023 8:34 AM
+BAG:namek1705 add 173xHoa hồng vàng (old: 172) lydo: Nhặt từ map at 03/11/2023 8:34 AM
+BAG:namek1705 add 148xHoa hồng xanh (old: 147) lydo: Nhặt từ map at 03/11/2023 8:34 AM
+BAG:namek1705 add 149xHoa hồng xanh (old: 148) lydo: Nhặt từ map at 03/11/2023 8:35 AM
+BAG:namek1705 add 174xHoa hồng vàng (old: 173) lydo: Nhặt từ map at 03/11/2023 8:36 AM
+BAG:namek1705 add 32xĐá Titan (old: 31) lydo: Nhặt từ map at 03/11/2023 8:37 AM
+BAG:namek1705 add 144xHoa hồng đỏ (old: 143) lydo: Nhặt từ map at 03/11/2023 8:37 AM
+BAG:namek1705 add 150xHoa hồng xanh (old: 149) lydo: Nhặt từ map at 03/11/2023 8:38 AM
+BAG:namek1705 add 151xHoa hồng xanh (old: 150) lydo: Nhặt từ map at 03/11/2023 8:38 AM
+BAG:namek1705 add 145xHoa hồng đỏ (old: 144) lydo: Nhặt từ map at 03/11/2023 8:39 AM
+BAG:namek1705 add 146xHoa hồng đỏ (old: 145) lydo: Nhặt từ map at 03/11/2023 8:40 AM
+BAG:namek1705 add 20xĐá Saphia (old: 19) lydo: Nhặt từ map at 03/11/2023 8:40 AM
+BAG:namek1705 add 152xHoa hồng xanh (old: 151) lydo: Nhặt từ map at 03/11/2023 8:40 AM
+BAG:namek1705 add 175xHoa hồng vàng (old: 174) lydo: Nhặt từ map at 03/11/2023 8:41 AM
+BAG:namek1705 add 26xĐá Ruby (old: 25) lydo: Nhặt từ map at 03/11/2023 8:41 AM
+BAG:namek1705 add 39xĐá lục bảo (old: 38) lydo: Nhặt từ map at 03/11/2023 8:41 AM
+BAG:namek1705 add 176xHoa hồng vàng (old: 175) lydo: Nhặt từ map at 03/11/2023 8:42 AM
+BAG:namek1705 add 9xĐá thạch anh tím (old: 8) lydo: Nhặt từ map at 03/11/2023 8:43 AM
+BAG:namek1705 add 177xHoa hồng vàng (old: 176) lydo: Nhặt từ map at 03/11/2023 8:43 AM
+BAG:namek1705 add 147xHoa hồng đỏ (old: 146) lydo: Nhặt từ map at 03/11/2023 8:43 AM
+BAG:namek1705 add 153xHoa hồng xanh (old: 152) lydo: Nhặt từ map at 03/11/2023 8:44 AM
+BAG:namek1705 add 178xHoa hồng vàng (old: 177) lydo: Nhặt từ map at 03/11/2023 8:44 AM
+BAG:namek1705 add 179xHoa hồng vàng (old: 178) lydo: Nhặt từ map at 03/11/2023 8:44 AM
+BAG:namek1705 add 154xHoa hồng xanh (old: 153) lydo: Nhặt từ map at 03/11/2023 8:45 AM
+BAG:namek1705 add 148xHoa hồng đỏ (old: 147) lydo: Nhặt từ map at 03/11/2023 8:45 AM
+BAG:namek1705 add 149xHoa hồng đỏ (old: 148) lydo: Nhặt từ map at 03/11/2023 8:46 AM
+BAG:namek1705 add 180xHoa hồng vàng (old: 179) lydo: Nhặt từ map at 03/11/2023 8:46 AM
+BAG:namek1705 add 21xĐá Saphia (old: 20) lydo: Nhặt từ map at 03/11/2023 8:46 AM
+BAG:namek1705 add 40xĐá lục bảo (old: 39) lydo: Nhặt từ map at 03/11/2023 8:46 AM
+BAG:namek1705 add 155xHoa hồng xanh (old: 154) lydo: Nhặt từ map at 03/11/2023 8:46 AM
+BAG:namek1705 add 181xHoa hồng vàng (old: 180) lydo: Nhặt từ map at 03/11/2023 8:48 AM
+BAG:namek1705 add 182xHoa hồng vàng (old: 181) lydo: Nhặt từ map at 03/11/2023 8:48 AM
+BAG:namek1705 add 33xĐá Titan (old: 32) lydo: Nhặt từ map at 03/11/2023 8:49 AM
+BAG:namek1705 add 156xHoa hồng xanh (old: 155) lydo: Nhặt từ map at 03/11/2023 8:49 AM
+BAG:namek1705 add 27xĐá Ruby (old: 26) lydo: Nhặt từ map at 03/11/2023 8:49 AM
+BAG:namek1705 add 157xHoa hồng xanh (old: 156) lydo: Nhặt từ map at 03/11/2023 8:49 AM
+BAG:namek1705 add 183xHoa hồng vàng (old: 182) lydo: Nhặt từ map at 03/11/2023 8:50 AM
+BAG:namek1705 add 184xHoa hồng vàng (old: 183) lydo: Nhặt từ map at 03/11/2023 8:50 AM
+BAG:namek1705 add 22xĐá Saphia (old: 21) lydo: Nhặt từ map at 03/11/2023 8:50 AM
+BAG:namek1705 add 10xĐá thạch anh tím (old: 9) lydo: Nhặt từ map at 03/11/2023 8:50 AM
+BAG:namek1705 add 150xHoa hồng đỏ (old: 149) lydo: Nhặt từ map at 03/11/2023 8:50 AM
+BAG:namek1705 add 151xHoa hồng đỏ (old: 150) lydo: Nhặt từ map at 03/11/2023 8:50 AM
+BAG:namek1705 add 158xHoa hồng xanh (old: 157) lydo: Nhặt từ map at 03/11/2023 8:51 AM
+BAG:namek1705 add 159xHoa hồng xanh (old: 158) lydo: Nhặt từ map at 03/11/2023 8:51 AM
+BAG:namek1705 add 185xHoa hồng vàng (old: 184) lydo: Nhặt từ map at 03/11/2023 8:51 AM
+BAG:namek1705 add 41xĐá lục bảo (old: 40) lydo: Nhặt từ map at 03/11/2023 8:51 AM
+BAG:namek1705 add 42xĐá lục bảo (old: 41) lydo: Nhặt từ map at 03/11/2023 8:52 AM
+BAG:namek1705 add 160xHoa hồng xanh (old: 159) lydo: Nhặt từ map at 03/11/2023 8:52 AM
+BAG:namek1705 add 152xHoa hồng đỏ (old: 151) lydo: Nhặt từ map at 03/11/2023 8:52 AM
+BAG:namek1705 add 28xĐá Ruby (old: 27) lydo: Nhặt từ map at 03/11/2023 8:52 AM
+BAG:namek1705 add 186xHoa hồng vàng (old: 185) lydo: Nhặt từ map at 03/11/2023 8:52 AM
+BAG:namek1705 add 187xHoa hồng vàng (old: 186) lydo: Nhặt từ map at 03/11/2023 8:52 AM
+BAG:namek1705 add 11xĐá thạch anh tím (old: 10) lydo: Nhặt từ map at 03/11/2023 8:53 AM
+BAG:namek1705 add 23xĐá Saphia (old: 22) lydo: Nhặt từ map at 03/11/2023 8:53 AM
+BAG:namek1705 add 188xHoa hồng vàng (old: 187) lydo: Nhặt từ map at 03/11/2023 8:53 AM
+BAG:namek1705 add 189xHoa hồng vàng (old: 188) lydo: Nhặt từ map at 03/11/2023 8:53 AM
+BAG:namek1705 add 190xHoa hồng vàng (old: 189) lydo: Nhặt từ map at 03/11/2023 8:54 AM
+BAG:namek1705 add 153xHoa hồng đỏ (old: 152) lydo: Nhặt từ map at 03/11/2023 8:54 AM
+BAG:namek1705 add 154xHoa hồng đỏ (old: 153) lydo: Nhặt từ map at 03/11/2023 8:55 AM
+BAG:namek1705 add 161xHoa hồng xanh (old: 160) lydo: Nhặt từ map at 03/11/2023 8:55 AM
+BAG:namek1705 add 162xHoa hồng xanh (old: 161) lydo: Nhặt từ map at 03/11/2023 8:55 AM
+BAG:namek1705 add 24xĐá Saphia (old: 23) lydo: Nhặt từ map at 03/11/2023 8:55 AM
+BAG:namek1705 add 191xHoa hồng vàng (old: 190) lydo: Nhặt từ map at 03/11/2023 8:55 AM
+BAG:namek1705 add 155xHoa hồng đỏ (old: 154) lydo: Nhặt từ map at 03/11/2023 8:57 AM
+BAG:namek1705 add 29xĐá Ruby (old: 28) lydo: Nhặt từ map at 03/11/2023 8:57 AM
+BAG:namek1705 add 156xHoa hồng đỏ (old: 155) lydo: Nhặt từ map at 03/11/2023 8:58 AM
+BAG:namek1705 add 25xĐá Saphia (old: 24) lydo: Nhặt từ map at 03/11/2023 8:59 AM
+BAG:namek1705 add 192xHoa hồng vàng (old: 191) lydo: Nhặt từ map at 03/11/2023 9:00 AM
+BAG:namek1705 add 193xHoa hồng vàng (old: 192) lydo: Nhặt từ map at 03/11/2023 9:00 AM
+BAG:namek1705 add 163xHoa hồng xanh (old: 162) lydo: Nhặt từ map at 03/11/2023 9:01 AM
+BAG:namek1705 add 12xĐá thạch anh tím (old: 11) lydo: Nhặt từ map at 03/11/2023 9:01 AM
+BAG:namek1705 add 164xHoa hồng xanh (old: 163) lydo: Nhặt từ map at 03/11/2023 9:02 AM
+BAG:namek1705 add 157xHoa hồng đỏ (old: 156) lydo: Nhặt từ map at 03/11/2023 9:02 AM
+BAG:namek1705 add 43xĐá lục bảo (old: 42) lydo: Nhặt từ map at 03/11/2023 9:02 AM
+BAG:namek1705 add 194xHoa hồng vàng (old: 193) lydo: Nhặt từ map at 03/11/2023 9:03 AM
+BAG:namek1705 add 165xHoa hồng xanh (old: 164) lydo: Nhặt từ map at 03/11/2023 9:04 AM
+BAG:namek1705 add 30xĐá Ruby (old: 29) lydo: Nhặt từ map at 03/11/2023 9:04 AM
+BAG:namek1705 add 44xĐá lục bảo (old: 43) lydo: Nhặt từ map at 03/11/2023 9:05 AM
+BAG:namek1705 add 195xHoa hồng vàng (old: 194) lydo: Nhặt từ map at 03/11/2023 9:06 AM
+BAG:namek1705 add 13xĐá thạch anh tím (old: 12) lydo: Nhặt từ map at 03/11/2023 9:06 AM
+BAG:namek1705 add 26xĐá Saphia (old: 25) lydo: Nhặt từ map at 03/11/2023 9:06 AM
+BAG:namek1705 add 14xĐá thạch anh tím (old: 13) lydo: Nhặt từ map at 03/11/2023 9:06 AM
+BAG:namek1705 add 158xHoa hồng đỏ (old: 157) lydo: Nhặt từ map at 03/11/2023 9:06 AM
+BAG:namek1705 add 27xĐá Saphia (old: 26) lydo: Nhặt từ map at 03/11/2023 9:07 AM
+BAG:namek1705 add 196xHoa hồng vàng (old: 195) lydo: Nhặt từ map at 03/11/2023 9:07 AM
+BAG:namek1705 add 159xHoa hồng đỏ (old: 158) lydo: Nhặt từ map at 03/11/2023 9:07 AM
+BAG:namek1705 add 166xHoa hồng xanh (old: 165) lydo: Nhặt từ map at 03/11/2023 9:08 AM
+BAG:namek1705 add 197xHoa hồng vàng (old: 196) lydo: Nhặt từ map at 03/11/2023 9:08 AM
+BAG:namek1705 add 160xHoa hồng đỏ (old: 159) lydo: Nhặt từ map at 03/11/2023 9:09 AM
+BAG:namek1705 add 161xHoa hồng đỏ (old: 160) lydo: Nhặt từ map at 03/11/2023 9:09 AM
+BAG:namek1705 add 162xHoa hồng đỏ (old: 161) lydo: Nhặt từ map at 03/11/2023 9:09 AM
+BAG:namek1705 add 198xHoa hồng vàng (old: 197) lydo: Nhặt từ map at 03/11/2023 9:09 AM
+BAG:namek1705 add 163xHoa hồng đỏ (old: 162) lydo: Nhặt từ map at 03/11/2023 9:09 AM
+BAG:namek1705 add 15xĐá thạch anh tím (old: 14) lydo: Nhặt từ map at 03/11/2023 9:10 AM
+BAG:namek1705 add 167xHoa hồng xanh (old: 166) lydo: Nhặt từ map at 03/11/2023 9:10 AM
+BAG:namek1705 add 34xĐá Titan (old: 33) lydo: Nhặt từ map at 03/11/2023 9:10 AM
+BAG:namek1705 add 45xĐá lục bảo (old: 44) lydo: Nhặt từ map at 03/11/2023 9:10 AM
+BAG:namek1705 add 168xHoa hồng xanh (old: 167) lydo: Nhặt từ map at 03/11/2023 9:10 AM
+BAG:namek1705 add 169xHoa hồng xanh (old: 168) lydo: Nhặt từ map at 03/11/2023 9:10 AM
+BAG:namek1705 add 16xĐá thạch anh tím (old: 15) lydo: Nhặt từ map at 03/11/2023 9:10 AM
+BAG:namek1705 add 164xHoa hồng đỏ (old: 163) lydo: Nhặt từ map at 03/11/2023 9:11 AM
+BAG:namek1705 add 170xHoa hồng xanh (old: 169) lydo: Nhặt từ map at 03/11/2023 9:11 AM
+BAG:namek1705 add 171xHoa hồng xanh (old: 170) lydo: Nhặt từ map at 03/11/2023 9:12 AM
+BAG:namek1705 add 165xHoa hồng đỏ (old: 164) lydo: Nhặt từ map at 03/11/2023 9:13 AM
+BAG:namek1705 add 172xHoa hồng xanh (old: 171) lydo: Nhặt từ map at 03/11/2023 9:14 AM
+BAG:namek1705 add 46xĐá lục bảo (old: 45) lydo: Nhặt từ map at 03/11/2023 9:14 AM
+BAG:namek1705 add 31xĐá Ruby (old: 30) lydo: Nhặt từ map at 03/11/2023 9:15 AM
+BAG:namek1705 add 32xĐá Ruby (old: 31) lydo: Nhặt từ map at 03/11/2023 9:16 AM
+BAG:namek1705 add 173xHoa hồng xanh (old: 172) lydo: Nhặt từ map at 03/11/2023 9:16 AM
+BAG:namek1705 add 199xHoa hồng vàng (old: 198) lydo: Nhặt từ map at 03/11/2023 9:17 AM
+BAG:namek1705 add 33xĐá Ruby (old: 32) lydo: Nhặt từ map at 03/11/2023 9:18 AM
+BAG:namek1705 add 17xĐá thạch anh tím (old: 16) lydo: Nhặt từ map at 03/11/2023 9:19 AM
+BAG:namek1705 add 174xHoa hồng xanh (old: 173) lydo: Nhặt từ map at 03/11/2023 9:20 AM
+BAG:namek1705 add 200xHoa hồng vàng (old: 199) lydo: Nhặt từ map at 03/11/2023 9:20 AM
+BAG:namek1705 add 166xHoa hồng đỏ (old: 165) lydo: Nhặt từ map at 03/11/2023 9:20 AM
+BAG:namek1705 add 167xHoa hồng đỏ (old: 166) lydo: Nhặt từ map at 03/11/2023 9:21 AM
+BAG:namek1705 add 175xHoa hồng xanh (old: 174) lydo: Nhặt từ map at 03/11/2023 9:22 AM
+BAG:namek1705 add 201xHoa hồng vàng (old: 200) lydo: Nhặt từ map at 03/11/2023 9:22 AM
+BAG:namek1705 add 28xĐá Saphia (old: 27) lydo: Nhặt từ map at 03/11/2023 9:22 AM
+BAG:namek1705 add 202xHoa hồng vàng (old: 201) lydo: Nhặt từ map at 03/11/2023 9:22 AM
+BAG:namek1705 add 35xĐá Titan (old: 34) lydo: Nhặt từ map at 03/11/2023 9:22 AM
+BAG:namek1705 add 168xHoa hồng đỏ (old: 167) lydo: Nhặt từ map at 03/11/2023 9:22 AM
+BAG:namek1705 add 169xHoa hồng đỏ (old: 168) lydo: Nhặt từ map at 03/11/2023 9:23 AM
+BAG:namek1705 add 170xHoa hồng đỏ (old: 169) lydo: Nhặt từ map at 03/11/2023 9:23 AM
+BAG:namek1705 add 171xHoa hồng đỏ (old: 170) lydo: Nhặt từ map at 03/11/2023 9:23 AM
+BAG:namek1705 add 203xHoa hồng vàng (old: 202) lydo: Nhặt từ map at 03/11/2023 9:23 AM
+BAG:namek1705 add 172xHoa hồng đỏ (old: 171) lydo: Nhặt từ map at 03/11/2023 9:24 AM
+BAG:namek1705 add 173xHoa hồng đỏ (old: 172) lydo: Nhặt từ map at 03/11/2023 9:24 AM
+BAG:namek1705 add 204xHoa hồng vàng (old: 203) lydo: Nhặt từ map at 03/11/2023 9:25 AM
+BAG:namek1705 add 205xHoa hồng vàng (old: 204) lydo: Nhặt từ map at 03/11/2023 9:26 AM
+BAG:namek1705 add 174xHoa hồng đỏ (old: 173) lydo: Nhặt từ map at 03/11/2023 9:26 AM
+BAG:namek1705 add 175xHoa hồng đỏ (old: 174) lydo: Nhặt từ map at 03/11/2023 9:27 AM
+BAG:namek1705 add 176xHoa hồng đỏ (old: 175) lydo: Nhặt từ map at 03/11/2023 9:27 AM
+BAG:namek1705 add 176xHoa hồng xanh (old: 175) lydo: Nhặt từ map at 03/11/2023 9:27 AM
+BAG:namek1705 add 177xHoa hồng xanh (old: 176) lydo: Nhặt từ map at 03/11/2023 9:27 AM
+BAG:namek1705 add 177xHoa hồng đỏ (old: 176) lydo: Nhặt từ map at 03/11/2023 9:28 AM
+BAG:namek1705 add 18xĐá thạch anh tím (old: 17) lydo: Nhặt từ map at 03/11/2023 9:29 AM
+BAG:namek1705 add 206xHoa hồng vàng (old: 205) lydo: Nhặt từ map at 03/11/2023 9:30 AM
+BAG:namek1705 add 178xHoa hồng đỏ (old: 177) lydo: Nhặt từ map at 03/11/2023 9:30 AM
+BAG:namek1705 add 207xHoa hồng vàng (old: 206) lydo: Nhặt từ map at 03/11/2023 9:30 AM
+BAG:namek1705 add 208xHoa hồng vàng (old: 207) lydo: Nhặt từ map at 03/11/2023 9:30 AM
+BAG:namek1705 add 178xHoa hồng xanh (old: 177) lydo: Nhặt từ map at 03/11/2023 9:30 AM
+BAG:namek1705 add 179xHoa hồng đỏ (old: 178) lydo: Nhặt từ map at 03/11/2023 9:30 AM
+BAG:namek1705 add 179xHoa hồng xanh (old: 178) lydo: Nhặt từ map at 03/11/2023 9:31 AM
+BAG:namek1705 add 34xĐá Ruby (old: 33) lydo: Nhặt từ map at 03/11/2023 9:31 AM
+BAG:namek1705 add 180xHoa hồng đỏ (old: 179) lydo: Nhặt từ map at 03/11/2023 9:31 AM
+BAG:namek1705 add 181xHoa hồng đỏ (old: 180) lydo: Nhặt từ map at 03/11/2023 9:31 AM
+BAG:namek1705 add 209xHoa hồng vàng (old: 208) lydo: Nhặt từ map at 03/11/2023 9:32 AM
+BAG:namek1705 add 180xHoa hồng xanh (old: 179) lydo: Nhặt từ map at 03/11/2023 9:33 AM
+BAG:namek1705 add 35xĐá Ruby (old: 34) lydo: Nhặt từ map at 03/11/2023 9:33 AM
+BAG:namek1705 add 181xHoa hồng xanh (old: 180) lydo: Nhặt từ map at 03/11/2023 9:33 AM
+BAG:namek1705 add 182xHoa hồng xanh (old: 181) lydo: Nhặt từ map at 03/11/2023 9:33 AM
+BAG:namek1705 add 210xHoa hồng vàng (old: 209) lydo: Nhặt từ map at 03/11/2023 9:33 AM
+BAG:namek1705 add 182xHoa hồng đỏ (old: 181) lydo: Nhặt từ map at 03/11/2023 9:33 AM
+BAG:namek1705 add 183xHoa hồng đỏ (old: 182) lydo: Nhặt từ map at 03/11/2023 9:33 AM
+BAG:namek1705 add 184xHoa hồng đỏ (old: 183) lydo: Nhặt từ map at 03/11/2023 9:33 AM
+BAG:namek1705 add 47xĐá lục bảo (old: 46) lydo: Nhặt từ map at 03/11/2023 9:34 AM
+BAG:namek1705 add 183xHoa hồng xanh (old: 182) lydo: Nhặt từ map at 03/11/2023 9:35 AM
+BAG:namek1705 add 185xHoa hồng đỏ (old: 184) lydo: Nhặt từ map at 03/11/2023 9:36 AM
+BAG:namek1705 add 186xHoa hồng đỏ (old: 185) lydo: Nhặt từ map at 03/11/2023 9:37 AM
+BAG:namek1705 add 211xHoa hồng vàng (old: 210) lydo: Nhặt từ map at 03/11/2023 9:38 AM
+BAG:namek1705 add 212xHoa hồng vàng (old: 211) lydo: Nhặt từ map at 03/11/2023 9:38 AM
+BAG:namek1705 add 19xĐá thạch anh tím (old: 18) lydo: Nhặt từ map at 03/11/2023 9:39 AM
+BAG:namek1705 add 48xĐá lục bảo (old: 47) lydo: Nhặt từ map at 03/11/2023 9:39 AM
+BAG:namek1705 add 184xHoa hồng xanh (old: 183) lydo: Nhặt từ map at 03/11/2023 9:39 AM
+BAG:namek1705 add 213xHoa hồng vàng (old: 212) lydo: Nhặt từ map at 03/11/2023 9:39 AM
+BAG:namek1705 add 214xHoa hồng vàng (old: 213) lydo: Nhặt từ map at 03/11/2023 9:40 AM
+BAG:namek1705 add 187xHoa hồng đỏ (old: 186) lydo: Nhặt từ map at 03/11/2023 9:41 AM
+BAG:namek1705 add 185xHoa hồng xanh (old: 184) lydo: Nhặt từ map at 03/11/2023 9:41 AM
+BAG:namek1705 add 215xHoa hồng vàng (old: 214) lydo: Nhặt từ map at 03/11/2023 9:41 AM
+BAG:namek1705 add 216xHoa hồng vàng (old: 215) lydo: Nhặt từ map at 03/11/2023 9:42 AM
+BAG:namek1705 add 217xHoa hồng vàng (old: 216) lydo: Nhặt từ map at 03/11/2023 9:42 AM
+BAG:namek1705 add 188xHoa hồng đỏ (old: 187) lydo: Nhặt từ map at 03/11/2023 9:42 AM
+BAG:namek1705 add 218xHoa hồng vàng (old: 217) lydo: Nhặt từ map at 03/11/2023 9:43 AM
+BAG:namek1705 add 219xHoa hồng vàng (old: 218) lydo: Nhặt từ map at 03/11/2023 9:43 AM
+BAG:namek1705 add 220xHoa hồng vàng (old: 219) lydo: Nhặt từ map at 03/11/2023 9:43 AM
+BAG:namek1705 add 221xHoa hồng vàng (old: 220) lydo: Nhặt từ map at 03/11/2023 9:44 AM
+BAG:namek1705 add 222xHoa hồng vàng (old: 221) lydo: Nhặt từ map at 03/11/2023 9:44 AM
+BAG:namek1705 add 223xHoa hồng vàng (old: 222) lydo: Nhặt từ map at 03/11/2023 9:45 AM
+BAG:namek1705 add 224xHoa hồng vàng (old: 223) lydo: Nhặt từ map at 03/11/2023 9:45 AM
+BAG:namek1705 add 225xHoa hồng vàng (old: 224) lydo: Nhặt từ map at 03/11/2023 9:47 AM
+BAG:namek1705 add 189xHoa hồng đỏ (old: 188) lydo: Nhặt từ map at 03/11/2023 9:47 AM
+BAG:namek1705 add 190xHoa hồng đỏ (old: 189) lydo: Nhặt từ map at 03/11/2023 9:49 AM
+BAG:namek1705 add 20xĐá thạch anh tím (old: 19) lydo: Nhặt từ map at 03/11/2023 9:51 AM
+BAG:namek1705 add 226xHoa hồng vàng (old: 225) lydo: Nhặt từ map at 03/11/2023 9:51 AM
+BAG:namek1705 add 186xHoa hồng xanh (old: 185) lydo: Nhặt từ map at 03/11/2023 9:51 AM
+BAG:namek1705 add 191xHoa hồng đỏ (old: 190) lydo: Nhặt từ map at 03/11/2023 9:51 AM
+BAG:namek1705 add 192xHoa hồng đỏ (old: 191) lydo: Nhặt từ map at 03/11/2023 9:52 AM
+BAG:namek1705 add 227xHoa hồng vàng (old: 226) lydo: Nhặt từ map at 03/11/2023 9:52 AM
+BAG:namek1705 add 187xHoa hồng xanh (old: 186) lydo: Nhặt từ map at 03/11/2023 9:52 AM
+BAG:namek1705 add 228xHoa hồng vàng (old: 227) lydo: Nhặt từ map at 03/11/2023 9:52 AM
+BAG:namek1705 add 193xHoa hồng đỏ (old: 192) lydo: Nhặt từ map at 03/11/2023 9:53 AM
+BAG:namek1705 add 194xHoa hồng đỏ (old: 193) lydo: Nhặt từ map at 03/11/2023 9:53 AM
+BAG:namek1705 add 188xHoa hồng xanh (old: 187) lydo: Nhặt từ map at 03/11/2023 9:53 AM
+BAG:namek1705 add 229xHoa hồng vàng (old: 228) lydo: Nhặt từ map at 03/11/2023 9:53 AM
+BAG:namek1705 add 230xHoa hồng vàng (old: 229) lydo: Nhặt từ map at 03/11/2023 9:53 AM
+BAG:namek1705 add 231xHoa hồng vàng (old: 230) lydo: Nhặt từ map at 03/11/2023 9:54 AM
+BAG:namek1705 add 189xHoa hồng xanh (old: 188) lydo: Nhặt từ map at 03/11/2023 9:54 AM
+BAG:namek1705 add 195xHoa hồng đỏ (old: 194) lydo: Nhặt từ map at 03/11/2023 9:54 AM
+BAG:namek1705 add 232xHoa hồng vàng (old: 231) lydo: Nhặt từ map at 03/11/2023 9:55 AM
+BAG:namek1705 add 190xHoa hồng xanh (old: 189) lydo: Nhặt từ map at 03/11/2023 9:55 AM
+BAG:namek1705 add 196xHoa hồng đỏ (old: 195) lydo: Nhặt từ map at 03/11/2023 9:56 AM
+BAG:namek1705 add 233xHoa hồng vàng (old: 232) lydo: Nhặt từ map at 03/11/2023 9:56 AM
+BAG:namek1705 add 197xHoa hồng đỏ (old: 196) lydo: Nhặt từ map at 03/11/2023 9:56 AM
+BAG:namek1705 add 49xĐá lục bảo (old: 48) lydo: Nhặt từ map at 03/11/2023 9:56 AM
+BAG:namek1705 add 191xHoa hồng xanh (old: 190) lydo: Nhặt từ map at 03/11/2023 9:57 AM
+BAG:namek1705 add 234xHoa hồng vàng (old: 233) lydo: Nhặt từ map at 03/11/2023 9:58 AM
+BAG:namek1705 add 235xHoa hồng vàng (old: 234) lydo: Nhặt từ map at 03/11/2023 9:59 AM
+BAG:namek1705 add 29xĐá Saphia (old: 28) lydo: Nhặt từ map at 03/11/2023 9:59 AM
+BAG:namek1705 add 236xHoa hồng vàng (old: 235) lydo: Nhặt từ map at 03/11/2023 9:59 AM
+BAG:namek1705 add 192xHoa hồng xanh (old: 191) lydo: Nhặt từ map at 03/11/2023 10:00 AM
+BAG:namek1705 add 237xHoa hồng vàng (old: 236) lydo: Nhặt từ map at 03/11/2023 10:00 AM
+BAG:namek1705 add 198xHoa hồng đỏ (old: 197) lydo: Nhặt từ map at 03/11/2023 10:01 AM
+BAG:namek1705 add 193xHoa hồng xanh (old: 192) lydo: Nhặt từ map at 03/11/2023 10:01 AM
+BAG:namek1705 add 238xHoa hồng vàng (old: 237) lydo: Nhặt từ map at 03/11/2023 10:01 AM
+BAG:namek1705 add 239xHoa hồng vàng (old: 238) lydo: Nhặt từ map at 03/11/2023 10:01 AM
+BAG:namek1705 add 194xHoa hồng xanh (old: 193) lydo: Nhặt từ map at 03/11/2023 10:02 AM
+BAG:namek1705 add 195xHoa hồng xanh (old: 194) lydo: Nhặt từ map at 03/11/2023 10:02 AM
+BAG:namek1705 add 196xHoa hồng xanh (old: 195) lydo: Nhặt từ map at 03/11/2023 10:02 AM
+BAG:namek1705 add 36xĐá Ruby (old: 35) lydo: Nhặt từ map at 03/11/2023 10:02 AM
+BAG:namek1705 add 197xHoa hồng xanh (old: 196) lydo: Nhặt từ map at 03/11/2023 10:02 AM
+BAG:namek1705 add 199xHoa hồng đỏ (old: 198) lydo: Nhặt từ map at 03/11/2023 10:03 AM
+BAG:namek1705 add 240xHoa hồng vàng (old: 239) lydo: Nhặt từ map at 03/11/2023 10:03 AM
+BAG:namek1705 add 241xHoa hồng vàng (old: 240) lydo: Nhặt từ map at 03/11/2023 10:03 AM
+BAG:namek1705 add 200xHoa hồng đỏ (old: 199) lydo: Nhặt từ map at 03/11/2023 10:04 AM
+BAG:namek1705 add 201xHoa hồng đỏ (old: 200) lydo: Nhặt từ map at 03/11/2023 10:04 AM
+BAG:namek1705 add 50xĐá lục bảo (old: 49) lydo: Nhặt từ map at 03/11/2023 10:04 AM
+BAG:namek1705 add 21xĐá thạch anh tím (old: 20) lydo: Nhặt từ map at 03/11/2023 10:04 AM
+BAG:namek1705 add 202xHoa hồng đỏ (old: 201) lydo: Nhặt từ map at 03/11/2023 10:04 AM
+BAG:namek1705 add 36xĐá Titan (old: 35) lydo: Nhặt từ map at 03/11/2023 10:05 AM
+BAG:namek1705 add 198xHoa hồng xanh (old: 197) lydo: Nhặt từ map at 03/11/2023 10:05 AM
+BAG:namek1705 add 242xHoa hồng vàng (old: 241) lydo: Nhặt từ map at 03/11/2023 10:05 AM
+BAG:namek1705 add 243xHoa hồng vàng (old: 242) lydo: Nhặt từ map at 03/11/2023 10:05 AM
+BAG:namek1705 add 199xHoa hồng xanh (old: 198) lydo: Nhặt từ map at 03/11/2023 10:05 AM
+BAG:namek1705 add 203xHoa hồng đỏ (old: 202) lydo: Nhặt từ map at 03/11/2023 10:05 AM
+BAG:namek1705 add 244xHoa hồng vàng (old: 243) lydo: Nhặt từ map at 03/11/2023 10:05 AM
+BAG:namek1705 add 30xĐá Saphia (old: 29) lydo: Nhặt từ map at 03/11/2023 10:06 AM
+BAG:namek1705 add 245xHoa hồng vàng (old: 244) lydo: Nhặt từ map at 03/11/2023 10:06 AM
+BAG:namek1705 add 200xHoa hồng xanh (old: 199) lydo: Nhặt từ map at 03/11/2023 10:06 AM
+BAG:namek1705 add 201xHoa hồng xanh (old: 200) lydo: Nhặt từ map at 03/11/2023 10:06 AM
+BAG:namek1705 add 246xHoa hồng vàng (old: 245) lydo: Nhặt từ map at 03/11/2023 10:07 AM
+BAG:namek1705 add 22xĐá thạch anh tím (old: 21) lydo: Nhặt từ map at 03/11/2023 10:07 AM
+BAG:namek1705 add 202xHoa hồng xanh (old: 201) lydo: Nhặt từ map at 03/11/2023 10:08 AM
+BAG:namek1705 add 51xĐá lục bảo (old: 50) lydo: Nhặt từ map at 03/11/2023 10:08 AM
+BAG:namek1705 add 247xHoa hồng vàng (old: 246) lydo: Nhặt từ map at 03/11/2023 10:09 AM
+BAG:namek1705 add 204xHoa hồng đỏ (old: 203) lydo: Nhặt từ map at 03/11/2023 10:10 AM
+BAG:namek1705 add 248xHoa hồng vàng (old: 247) lydo: Nhặt từ map at 03/11/2023 10:10 AM
+BAG:namek1705 add 205xHoa hồng đỏ (old: 204) lydo: Nhặt từ map at 03/11/2023 10:10 AM
+BAG:namek1705 add 206xHoa hồng đỏ (old: 205) lydo: Nhặt từ map at 03/11/2023 10:10 AM
+BAG:namek1705 add 249xHoa hồng vàng (old: 248) lydo: Nhặt từ map at 03/11/2023 10:11 AM
+BAG:namek1705 add 250xHoa hồng vàng (old: 249) lydo: Nhặt từ map at 03/11/2023 10:11 AM
+BAG:namek1705 add 203xHoa hồng xanh (old: 202) lydo: Nhặt từ map at 03/11/2023 10:12 AM
+BAG:namek1705 add 204xHoa hồng xanh (old: 203) lydo: Nhặt từ map at 03/11/2023 10:12 AM
+BAG:namek1705 add 207xHoa hồng đỏ (old: 206) lydo: Nhặt từ map at 03/11/2023 10:12 AM
+BAG:namek1705 add 251xHoa hồng vàng (old: 250) lydo: Nhặt từ map at 03/11/2023 10:12 AM
+BAG:namek1705 add 252xHoa hồng vàng (old: 251) lydo: Nhặt từ map at 03/11/2023 10:13 AM
+BAG:namek1705 add 253xHoa hồng vàng (old: 252) lydo: Nhặt từ map at 03/11/2023 10:14 AM
+BAG:namek1705 add 208xHoa hồng đỏ (old: 207) lydo: Nhặt từ map at 03/11/2023 10:14 AM
+BAG:namek1705 add 254xHoa hồng vàng (old: 253) lydo: Nhặt từ map at 03/11/2023 10:15 AM
+BAG:namek1705 add 209xHoa hồng đỏ (old: 208) lydo: Nhặt từ map at 03/11/2023 10:16 AM
+BAG:namek1705 add 210xHoa hồng đỏ (old: 209) lydo: Nhặt từ map at 03/11/2023 10:16 AM
+BAG:namek1705 add 205xHoa hồng xanh (old: 204) lydo: Nhặt từ map at 03/11/2023 10:16 AM
+BAG:namek1705 add 255xHoa hồng vàng (old: 254) lydo: Nhặt từ map at 03/11/2023 10:16 AM
+BAG:namek1705 add 256xHoa hồng vàng (old: 255) lydo: Nhặt từ map at 03/11/2023 10:16 AM
+BAG:namek1705 add 31xĐá Saphia (old: 30) lydo: Nhặt từ map at 03/11/2023 10:17 AM
+BAG:namek1705 add 257xHoa hồng vàng (old: 256) lydo: Nhặt từ map at 03/11/2023 10:17 AM
+BAG:namek1705 add 206xHoa hồng xanh (old: 205) lydo: Nhặt từ map at 03/11/2023 10:17 AM
+BAG:namek1705 add 37xĐá Ruby (old: 36) lydo: Nhặt từ map at 03/11/2023 10:17 AM
+BAG:namek1705 add 207xHoa hồng xanh (old: 206) lydo: Nhặt từ map at 03/11/2023 10:17 AM
+BAG:namek1705 add 208xHoa hồng xanh (old: 207) lydo: Nhặt từ map at 03/11/2023 10:18 AM
+BAG:namek1705 add 258xHoa hồng vàng (old: 257) lydo: Nhặt từ map at 03/11/2023 10:18 AM
+BAG:namek1705 add 209xHoa hồng xanh (old: 208) lydo: Nhặt từ map at 03/11/2023 10:18 AM
+BAG:namek1705 add 211xHoa hồng đỏ (old: 210) lydo: Nhặt từ map at 03/11/2023 10:18 AM
+BAG:namek1705 add 32xĐá Saphia (old: 31) lydo: Nhặt từ map at 03/11/2023 10:19 AM
+BAG:namek1705 add 259xHoa hồng vàng (old: 258) lydo: Nhặt từ map at 03/11/2023 10:19 AM
+BAG:namek1705 add 37xĐá Titan (old: 36) lydo: Nhặt từ map at 03/11/2023 10:20 AM
+BAG:namek1705 add 212xHoa hồng đỏ (old: 211) lydo: Nhặt từ map at 03/11/2023 10:20 AM
+BAG:namek1705 add 213xHoa hồng đỏ (old: 212) lydo: Nhặt từ map at 03/11/2023 10:21 AM
+BAG:namek1705 add 260xHoa hồng vàng (old: 259) lydo: Nhặt từ map at 03/11/2023 10:21 AM
+BAG:namek1705 add 214xHoa hồng đỏ (old: 213) lydo: Nhặt từ map at 03/11/2023 10:22 AM
+BAG:namek1705 add 23xĐá thạch anh tím (old: 22) lydo: Nhặt từ map at 03/11/2023 10:23 AM
+BAG:namek1705 add 261xHoa hồng vàng (old: 260) lydo: Nhặt từ map at 03/11/2023 10:23 AM
+BAG:namek1705 add 210xHoa hồng xanh (old: 209) lydo: Nhặt từ map at 03/11/2023 10:24 AM
+BAG:namek1705 add 215xHoa hồng đỏ (old: 214) lydo: Nhặt từ map at 03/11/2023 10:24 AM
+BAG:namek1705 add 24xĐá thạch anh tím (old: 23) lydo: Nhặt từ map at 03/11/2023 10:24 AM
+BAG:namek1705 add 216xHoa hồng đỏ (old: 215) lydo: Nhặt từ map at 03/11/2023 10:24 AM
+BAG:namek1705 add 262xHoa hồng vàng (old: 261) lydo: Nhặt từ map at 03/11/2023 10:25 AM
+BAG:namek1705 add 217xHoa hồng đỏ (old: 216) lydo: Nhặt từ map at 03/11/2023 10:25 AM
+BAG:namek1705 add 263xHoa hồng vàng (old: 262) lydo: Nhặt từ map at 03/11/2023 10:25 AM
+BAG:namek1705 add 38xĐá Titan (old: 37) lydo: Nhặt từ map at 03/11/2023 10:25 AM
+BAG:namek1705 add 218xHoa hồng đỏ (old: 217) lydo: Nhặt từ map at 03/11/2023 10:26 AM
+BAG:namek1705 add 211xHoa hồng xanh (old: 210) lydo: Nhặt từ map at 03/11/2023 10:26 AM
+BAG:namek1705 add 264xHoa hồng vàng (old: 263) lydo: Nhặt từ map at 03/11/2023 10:27 AM
+BAG:namek1705 add 219xHoa hồng đỏ (old: 218) lydo: Nhặt từ map at 03/11/2023 10:27 AM
+BAG:namek1705 add 220xHoa hồng đỏ (old: 219) lydo: Nhặt từ map at 03/11/2023 10:27 AM
+BAG:namek1705 add 212xHoa hồng xanh (old: 211) lydo: Nhặt từ map at 03/11/2023 10:27 AM
+BAG:namek1705 add 265xHoa hồng vàng (old: 264) lydo: Nhặt từ map at 03/11/2023 10:28 AM
+BAG:namek1705 add 266xHoa hồng vàng (old: 265) lydo: Nhặt từ map at 03/11/2023 10:28 AM
+BAG:namek1705 add 221xHoa hồng đỏ (old: 220) lydo: Nhặt từ map at 03/11/2023 10:28 AM
+BAG:namek1705 add 213xHoa hồng xanh (old: 212) lydo: Nhặt từ map at 03/11/2023 10:29 AM
+BAG:namek1705 add 267xHoa hồng vàng (old: 266) lydo: Nhặt từ map at 03/11/2023 10:29 AM
+BAG:namek1705 add 268xHoa hồng vàng (old: 267) lydo: Nhặt từ map at 03/11/2023 10:30 AM
+BAG:namek1705 add 222xHoa hồng đỏ (old: 221) lydo: Nhặt từ map at 03/11/2023 10:30 AM
+BAG:namek1705 add 223xHoa hồng đỏ (old: 222) lydo: Nhặt từ map at 03/11/2023 10:30 AM
+BAG:namek1705 add 269xHoa hồng vàng (old: 268) lydo: Nhặt từ map at 03/11/2023 10:30 AM
+BAG:namek1705 add 224xHoa hồng đỏ (old: 223) lydo: Nhặt từ map at 03/11/2023 10:31 AM
+BAG:namek1705 add 225xHoa hồng đỏ (old: 224) lydo: Nhặt từ map at 03/11/2023 10:31 AM
+BAG:namek1705 add 270xHoa hồng vàng (old: 269) lydo: Nhặt từ map at 03/11/2023 10:32 AM
+BAG:namek1705 add 214xHoa hồng xanh (old: 213) lydo: Nhặt từ map at 03/11/2023 10:32 AM
+BAG:namek1705 add 39xĐá Titan (old: 38) lydo: Nhặt từ map at 03/11/2023 10:32 AM
+BAG:namek1705 add 226xHoa hồng đỏ (old: 225) lydo: Nhặt từ map at 03/11/2023 10:33 AM
+BAG:namek1705 add 25xĐá thạch anh tím (old: 24) lydo: Nhặt từ map at 03/11/2023 10:33 AM
+BAG:namek1705 add 215xHoa hồng xanh (old: 214) lydo: Nhặt từ map at 03/11/2023 10:33 AM
+BAG:namek1705 add 216xHoa hồng xanh (old: 215) lydo: Nhặt từ map at 03/11/2023 10:34 AM
+BAG:namek1705 add 227xHoa hồng đỏ (old: 226) lydo: Nhặt từ map at 03/11/2023 10:34 AM
+BAG:namek1705 add 33xĐá Saphia (old: 32) lydo: Nhặt từ map at 03/11/2023 10:34 AM
+BAG:namek1705 add 217xHoa hồng xanh (old: 216) lydo: Nhặt từ map at 03/11/2023 10:35 AM
+BAG:namek1705 add 228xHoa hồng đỏ (old: 227) lydo: Nhặt từ map at 03/11/2023 10:35 AM
+BAG:namek1705 add 271xHoa hồng vàng (old: 270) lydo: Nhặt từ map at 03/11/2023 10:36 AM
+BAG:namek1705 add 218xHoa hồng xanh (old: 217) lydo: Nhặt từ map at 03/11/2023 10:36 AM
+BAG:namek1705 add 272xHoa hồng vàng (old: 271) lydo: Nhặt từ map at 03/11/2023 10:36 AM
+BAG:namek1705 add 273xHoa hồng vàng (old: 272) lydo: Nhặt từ map at 03/11/2023 10:36 AM
+BAG:namek1705 add 274xHoa hồng vàng (old: 273) lydo: Nhặt từ map at 03/11/2023 10:36 AM
+BAG:namek1705 add 229xHoa hồng đỏ (old: 228) lydo: Nhặt từ map at 03/11/2023 10:36 AM
+BAG:namek1705 add 275xHoa hồng vàng (old: 274) lydo: Nhặt từ map at 03/11/2023 10:37 AM
+BAG:namek1705 add 230xHoa hồng đỏ (old: 229) lydo: Nhặt từ map at 03/11/2023 10:37 AM
+BAG:namek1705 add 276xHoa hồng vàng (old: 275) lydo: Nhặt từ map at 03/11/2023 10:37 AM
+BAG:namek1705 add 219xHoa hồng xanh (old: 218) lydo: Nhặt từ map at 03/11/2023 10:37 AM
+BAG:namek1705 add 34xĐá Saphia (old: 33) lydo: Nhặt từ map at 03/11/2023 10:38 AM
+BAG:namek1705 add 277xHoa hồng vàng (old: 276) lydo: Nhặt từ map at 03/11/2023 10:38 AM
+BAG:namek1705 add 278xHoa hồng vàng (old: 277) lydo: Nhặt từ map at 03/11/2023 10:39 AM
+BAG:namek1705 add 52xĐá lục bảo (old: 51) lydo: Nhặt từ map at 03/11/2023 10:39 AM
+BAG:namek1705 add 220xHoa hồng xanh (old: 219) lydo: Nhặt từ map at 03/11/2023 10:40 AM
+BAG:namek1705 add 221xHoa hồng xanh (old: 220) lydo: Nhặt từ map at 03/11/2023 10:40 AM
+BAG:namek1705 add 53xĐá lục bảo (old: 52) lydo: Nhặt từ map at 03/11/2023 10:40 AM
+BAG:namek1705 add 222xHoa hồng xanh (old: 221) lydo: Nhặt từ map at 03/11/2023 10:40 AM
+BAG:namek1705 add 26xĐá thạch anh tím (old: 25) lydo: Nhặt từ map at 03/11/2023 10:40 AM
+BAG:namek1705 add 27xĐá thạch anh tím (old: 26) lydo: Nhặt từ map at 03/11/2023 10:41 AM
+BAG:namek1705 add 223xHoa hồng xanh (old: 222) lydo: Nhặt từ map at 03/11/2023 10:41 AM
+BAG:namek1705 add 231xHoa hồng đỏ (old: 230) lydo: Nhặt từ map at 03/11/2023 10:41 AM
+BAG:namek1705 add 232xHoa hồng đỏ (old: 231) lydo: Nhặt từ map at 03/11/2023 10:41 AM
+BAG:namek1705 add 233xHoa hồng đỏ (old: 232) lydo: Nhặt từ map at 03/11/2023 10:41 AM
+BAG:namek1705 add 54xĐá lục bảo (old: 53) lydo: Nhặt từ map at 03/11/2023 10:42 AM
+BAG:namek1705 add 279xHoa hồng vàng (old: 278) lydo: Nhặt từ map at 03/11/2023 10:42 AM
+BAG:namek1705 add 234xHoa hồng đỏ (old: 233) lydo: Nhặt từ map at 03/11/2023 10:42 AM
+BAG:namek1705 add 224xHoa hồng xanh (old: 223) lydo: Nhặt từ map at 03/11/2023 10:42 AM
+BAG:namek1705 add 280xHoa hồng vàng (old: 279) lydo: Nhặt từ map at 03/11/2023 10:43 AM
+BAG:namek1705 add 225xHoa hồng xanh (old: 224) lydo: Nhặt từ map at 03/11/2023 10:43 AM
+BAG:namek1705 add 281xHoa hồng vàng (old: 280) lydo: Nhặt từ map at 03/11/2023 10:44 AM
+BAG:namek1705 add 235xHoa hồng đỏ (old: 234) lydo: Nhặt từ map at 03/11/2023 10:44 AM
+BAG:namek1705 add 40xĐá Titan (old: 39) lydo: Nhặt từ map at 03/11/2023 10:44 AM
+BAG:namek1705 add 282xHoa hồng vàng (old: 281) lydo: Nhặt từ map at 03/11/2023 10:46 AM
+BAG:namek1705 add 283xHoa hồng vàng (old: 282) lydo: Nhặt từ map at 03/11/2023 10:46 AM
+BAG:namek1705 add 226xHoa hồng xanh (old: 225) lydo: Nhặt từ map at 03/11/2023 10:46 AM
+BAG:namek1705 add 236xHoa hồng đỏ (old: 235) lydo: Nhặt từ map at 03/11/2023 10:46 AM
+BAG:namek1705 add 227xHoa hồng xanh (old: 226) lydo: Nhặt từ map at 03/11/2023 10:46 AM
+BAG:namek1705 add 284xHoa hồng vàng (old: 283) lydo: Nhặt từ map at 03/11/2023 10:47 AM
+BAG:namek1705 add 55xĐá lục bảo (old: 54) lydo: Nhặt từ map at 03/11/2023 10:47 AM
+BAG:namek1705 add 285xHoa hồng vàng (old: 284) lydo: Nhặt từ map at 03/11/2023 10:47 AM
+BAG:namek1705 add 286xHoa hồng vàng (old: 285) lydo: Nhặt từ map at 03/11/2023 10:47 AM
+BAG:namek1705 add 228xHoa hồng xanh (old: 227) lydo: Nhặt từ map at 03/11/2023 10:47 AM
+BAG:namek1705 add 237xHoa hồng đỏ (old: 236) lydo: Nhặt từ map at 03/11/2023 10:48 AM
+BAG:namek1705 add 287xHoa hồng vàng (old: 286) lydo: Nhặt từ map at 03/11/2023 10:48 AM
+BAG:namek1705 add 288xHoa hồng vàng (old: 287) lydo: Nhặt từ map at 03/11/2023 10:48 AM
+BAG:namek1705 add 289xHoa hồng vàng (old: 288) lydo: Nhặt từ map at 03/11/2023 10:48 AM
+BAG:namek1705 add 238xHoa hồng đỏ (old: 237) lydo: Nhặt từ map at 03/11/2023 10:49 AM
+BAG:namek1705 add 28xĐá thạch anh tím (old: 27) lydo: Nhặt từ map at 03/11/2023 10:49 AM
+BAG:namek1705 add 290xHoa hồng vàng (old: 289) lydo: Nhặt từ map at 03/11/2023 10:49 AM
+BAG:namek1705 add 239xHoa hồng đỏ (old: 238) lydo: Nhặt từ map at 03/11/2023 10:49 AM
+BAG:namek1705 add 229xHoa hồng xanh (old: 228) lydo: Nhặt từ map at 03/11/2023 10:49 AM
+BAG:namek1705 add 291xHoa hồng vàng (old: 290) lydo: Nhặt từ map at 03/11/2023 10:50 AM
+BAG:namek1705 add 240xHoa hồng đỏ (old: 239) lydo: Nhặt từ map at 03/11/2023 10:50 AM
+BAG:namek1705 add 29xĐá thạch anh tím (old: 28) lydo: Nhặt từ map at 03/11/2023 10:50 AM
+BAG:namek1705 add 230xHoa hồng xanh (old: 229) lydo: Nhặt từ map at 03/11/2023 10:50 AM
+BAG:namek1705 add 292xHoa hồng vàng (old: 291) lydo: Nhặt từ map at 03/11/2023 10:51 AM
+BAG:namek1705 add 56xĐá lục bảo (old: 55) lydo: Nhặt từ map at 03/11/2023 10:51 AM
+BAG:namek1705 add 293xHoa hồng vàng (old: 292) lydo: Nhặt từ map at 03/11/2023 10:51 AM
+BAG:namek1705 add 294xHoa hồng vàng (old: 293) lydo: Nhặt từ map at 03/11/2023 10:51 AM
+BAG:namek1705 add 295xHoa hồng vàng (old: 294) lydo: Nhặt từ map at 03/11/2023 10:52 AM
+BAG:namek1705 add 35xĐá Saphia (old: 34) lydo: Nhặt từ map at 03/11/2023 10:52 AM
+BAG:namek1705 add 241xHoa hồng đỏ (old: 240) lydo: Nhặt từ map at 03/11/2023 10:52 AM
+BAG:namek1705 add 296xHoa hồng vàng (old: 295) lydo: Nhặt từ map at 03/11/2023 10:53 AM
+BAG:namek1705 add 297xHoa hồng vàng (old: 296) lydo: Nhặt từ map at 03/11/2023 10:53 AM
+BAG:namek1705 add 231xHoa hồng xanh (old: 230) lydo: Nhặt từ map at 03/11/2023 10:53 AM
+BAG:namek1705 add 38xĐá Ruby (old: 37) lydo: Nhặt từ map at 03/11/2023 10:53 AM
+BAG:namek1705 add 242xHoa hồng đỏ (old: 241) lydo: Nhặt từ map at 03/11/2023 10:53 AM
+BAG:namek1705 add 243xHoa hồng đỏ (old: 242) lydo: Nhặt từ map at 03/11/2023 10:54 AM
+BAG:namek1705 add 39xĐá Ruby (old: 38) lydo: Nhặt từ map at 03/11/2023 10:55 AM
+BAG:namek1705 add 298xHoa hồng vàng (old: 297) lydo: Nhặt từ map at 03/11/2023 10:55 AM
+BAG:namek1705 add 244xHoa hồng đỏ (old: 243) lydo: Nhặt từ map at 03/11/2023 10:56 AM
+BAG:namek1705 add 245xHoa hồng đỏ (old: 244) lydo: Nhặt từ map at 03/11/2023 10:56 AM
+BAG:namek1705 add 232xHoa hồng xanh (old: 231) lydo: Nhặt từ map at 03/11/2023 10:56 AM
+BAG:namek1705 add 299xHoa hồng vàng (old: 298) lydo: Nhặt từ map at 03/11/2023 10:56 AM
+BAG:namek1705 add 246xHoa hồng đỏ (old: 245) lydo: Nhặt từ map at 03/11/2023 10:56 AM
+BAG:namek1705 add 36xĐá Saphia (old: 35) lydo: Nhặt từ map at 03/11/2023 10:56 AM
+BAG:namek1705 add 247xHoa hồng đỏ (old: 246) lydo: Nhặt từ map at 03/11/2023 10:57 AM
+BAG:namek1705 add 41xĐá Titan (old: 40) lydo: Nhặt từ map at 03/11/2023 10:57 AM
+BAG:namek1705 add 300xHoa hồng vàng (old: 299) lydo: Nhặt từ map at 03/11/2023 10:57 AM
+BAG:namek1705 add 248xHoa hồng đỏ (old: 247) lydo: Nhặt từ map at 03/11/2023 10:57 AM
+BAG:namek1705 add 301xHoa hồng vàng (old: 300) lydo: Nhặt từ map at 03/11/2023 10:58 AM
+BAG:namek1705 add 233xHoa hồng xanh (old: 232) lydo: Nhặt từ map at 03/11/2023 10:58 AM
+BAG:namek1705 add 249xHoa hồng đỏ (old: 248) lydo: Nhặt từ map at 03/11/2023 10:59 AM
+BAG:namek1705 add 250xHoa hồng đỏ (old: 249) lydo: Nhặt từ map at 03/11/2023 10:59 AM
+BAG:namek1705 add 251xHoa hồng đỏ (old: 250) lydo: Nhặt từ map at 03/11/2023 10:59 AM
+BAG:namek1705 add 252xHoa hồng đỏ (old: 251) lydo: Nhặt từ map at 03/11/2023 11:00 AM
+BAG:namek1705 add 302xHoa hồng vàng (old: 301) lydo: Nhặt từ map at 03/11/2023 11:00 AM
+BAG:namek1705 add 253xHoa hồng đỏ (old: 252) lydo: Nhặt từ map at 03/11/2023 11:00 AM
+BAG:namek1705 add 254xHoa hồng đỏ (old: 253) lydo: Nhặt từ map at 03/11/2023 11:01 AM
+BAG:namek1705 add 303xHoa hồng vàng (old: 302) lydo: Nhặt từ map at 03/11/2023 11:01 AM
+BAG:namek1705 add 304xHoa hồng vàng (old: 303) lydo: Nhặt từ map at 03/11/2023 11:01 AM
+BAG:namek1705 add 234xHoa hồng xanh (old: 233) lydo: Nhặt từ map at 03/11/2023 11:01 AM
+BAG:namek1705 add 235xHoa hồng xanh (old: 234) lydo: Nhặt từ map at 03/11/2023 11:01 AM
+BAG:namek1705 add 305xHoa hồng vàng (old: 304) lydo: Nhặt từ map at 03/11/2023 11:02 AM
+BAG:namek1705 add 255xHoa hồng đỏ (old: 254) lydo: Nhặt từ map at 03/11/2023 11:02 AM
+BAG:namek1705 add 256xHoa hồng đỏ (old: 255) lydo: Nhặt từ map at 03/11/2023 11:02 AM
+BAG:namek1705 add 306xHoa hồng vàng (old: 305) lydo: Nhặt từ map at 03/11/2023 11:03 AM
+BAG:namek1705 add 307xHoa hồng vàng (old: 306) lydo: Nhặt từ map at 03/11/2023 11:03 AM
+BAG:namek1705 add 257xHoa hồng đỏ (old: 256) lydo: Nhặt từ map at 03/11/2023 11:03 AM
+BAG:namek1705 add 258xHoa hồng đỏ (old: 257) lydo: Nhặt từ map at 03/11/2023 11:03 AM
+BAG:namek1705 add 259xHoa hồng đỏ (old: 258) lydo: Nhặt từ map at 03/11/2023 11:03 AM
+BAG:namek1705 add 260xHoa hồng đỏ (old: 259) lydo: Nhặt từ map at 03/11/2023 11:04 AM
+BAG:namek1705 add 308xHoa hồng vàng (old: 307) lydo: Nhặt từ map at 03/11/2023 11:04 AM
+BAG:namek1705 add 309xHoa hồng vàng (old: 308) lydo: Nhặt từ map at 03/11/2023 11:04 AM
+BAG:namek1705 add 236xHoa hồng xanh (old: 235) lydo: Nhặt từ map at 03/11/2023 11:05 AM
+BAG:namek1705 add 261xHoa hồng đỏ (old: 260) lydo: Nhặt từ map at 03/11/2023 11:05 AM
+BAG:namek1705 add 310xHoa hồng vàng (old: 309) lydo: Nhặt từ map at 03/11/2023 11:05 AM
+BAG:namek1705 add 237xHoa hồng xanh (old: 236) lydo: Nhặt từ map at 03/11/2023 11:05 AM
+BAG:namek1705 add 238xHoa hồng xanh (old: 237) lydo: Nhặt từ map at 03/11/2023 11:05 AM
+BAG:namek1705 add 311xHoa hồng vàng (old: 310) lydo: Nhặt từ map at 03/11/2023 11:06 AM
+BAG:namek1705 add 312xHoa hồng vàng (old: 311) lydo: Nhặt từ map at 03/11/2023 11:06 AM
+BAG:namek1705 add 313xHoa hồng vàng (old: 312) lydo: Nhặt từ map at 03/11/2023 11:06 AM
+BAG:namek1705 add 314xHoa hồng vàng (old: 313) lydo: Nhặt từ map at 03/11/2023 11:06 AM
+BAG:namek1705 add 239xHoa hồng xanh (old: 238) lydo: Nhặt từ map at 03/11/2023 11:07 AM
+BAG:namek1705 add 240xHoa hồng xanh (old: 239) lydo: Nhặt từ map at 03/11/2023 11:07 AM
+BAG:namek1705 add 42xĐá Titan (old: 41) lydo: Nhặt từ map at 03/11/2023 11:07 AM
+BAG:namek1705 add 262xHoa hồng đỏ (old: 261) lydo: Nhặt từ map at 03/11/2023 11:07 AM
+BAG:namek1705 add 241xHoa hồng xanh (old: 240) lydo: Nhặt từ map at 03/11/2023 11:08 AM
+BAG:namek1705 add 315xHoa hồng vàng (old: 314) lydo: Nhặt từ map at 03/11/2023 11:08 AM
+BAG:namek1705 add 263xHoa hồng đỏ (old: 262) lydo: Nhặt từ map at 03/11/2023 11:09 AM
+BAG:namek1705 add 316xHoa hồng vàng (old: 315) lydo: Nhặt từ map at 03/11/2023 11:09 AM
+BAG:namek1705 add 37xĐá Saphia (old: 36) lydo: Nhặt từ map at 03/11/2023 11:09 AM
+BAG:namek1705 add 242xHoa hồng xanh (old: 241) lydo: Nhặt từ map at 03/11/2023 11:09 AM
+BAG:namek1705 add 43xĐá Titan (old: 42) lydo: Nhặt từ map at 03/11/2023 11:09 AM
+BAG:namek1705 add 317xHoa hồng vàng (old: 316) lydo: Nhặt từ map at 03/11/2023 11:10 AM
+BAG:namek1705 add 243xHoa hồng xanh (old: 242) lydo: Nhặt từ map at 03/11/2023 11:10 AM
+BAG:namek1705 add 264xHoa hồng đỏ (old: 263) lydo: Nhặt từ map at 03/11/2023 11:10 AM
+BAG:namek1705 add 318xHoa hồng vàng (old: 317) lydo: Nhặt từ map at 03/11/2023 11:11 AM
+BAG:namek1705 add 38xĐá Saphia (old: 37) lydo: Nhặt từ map at 03/11/2023 11:11 AM
+BAG:namek1705 add 319xHoa hồng vàng (old: 318) lydo: Nhặt từ map at 03/11/2023 11:11 AM
+BAG:namek1705 add 30xĐá thạch anh tím (old: 29) lydo: Nhặt từ map at 03/11/2023 11:12 AM
+BAG:namek1705 add 265xHoa hồng đỏ (old: 264) lydo: Nhặt từ map at 03/11/2023 11:12 AM
+BAG:namek1705 add 320xHoa hồng vàng (old: 319) lydo: Nhặt từ map at 03/11/2023 11:12 AM
+BAG:namek1705 add 244xHoa hồng xanh (old: 243) lydo: Nhặt từ map at 03/11/2023 11:13 AM
+BAG:namek1705 add 245xHoa hồng xanh (old: 244) lydo: Nhặt từ map at 03/11/2023 11:13 AM
+BAG:namek1705 add 321xHoa hồng vàng (old: 320) lydo: Nhặt từ map at 03/11/2023 11:13 AM
+BAG:namek1705 add 39xĐá Saphia (old: 38) lydo: Nhặt từ map at 03/11/2023 11:13 AM
+BAG:namek1705 add 266xHoa hồng đỏ (old: 265) lydo: Nhặt từ map at 03/11/2023 11:13 AM
+BAG:namek1705 add 246xHoa hồng xanh (old: 245) lydo: Nhặt từ map at 03/11/2023 11:14 AM
+BAG:namek1705 add 247xHoa hồng xanh (old: 246) lydo: Nhặt từ map at 03/11/2023 11:14 AM
+BAG:namek1705 add 248xHoa hồng xanh (old: 247) lydo: Nhặt từ map at 03/11/2023 11:14 AM
+BAG:namek1705 add 31xĐá thạch anh tím (old: 30) lydo: Nhặt từ map at 03/11/2023 11:14 AM
+BAG:namek1705 add 249xHoa hồng xanh (old: 248) lydo: Nhặt từ map at 03/11/2023 11:14 AM
+BAG:namek1705 add 267xHoa hồng đỏ (old: 266) lydo: Nhặt từ map at 03/11/2023 11:15 AM
+BAG:namek1705 add 40xĐá Ruby (old: 39) lydo: Nhặt từ map at 03/11/2023 11:15 AM
+BAG:namek1705 add 44xĐá Titan (old: 43) lydo: Nhặt từ map at 03/11/2023 11:15 AM
+BAG:namek1705 add 40xĐá Saphia (old: 39) lydo: Nhặt từ map at 03/11/2023 11:16 AM
+BAG:namek1705 add 250xHoa hồng xanh (old: 249) lydo: Nhặt từ map at 03/11/2023 11:16 AM
+BAG:namek1705 add 322xHoa hồng vàng (old: 321) lydo: Nhặt từ map at 03/11/2023 11:16 AM
+BAG:namek1705 add 323xHoa hồng vàng (old: 322) lydo: Nhặt từ map at 03/11/2023 11:17 AM
+BAG:namek1705 add 324xHoa hồng vàng (old: 323) lydo: Nhặt từ map at 03/11/2023 11:17 AM
+BAG:namek1705 add 325xHoa hồng vàng (old: 324) lydo: Nhặt từ map at 03/11/2023 11:18 AM
+BAG:namek1705 add 251xHoa hồng xanh (old: 250) lydo: Nhặt từ map at 03/11/2023 11:18 AM
+BAG:namek1705 add 268xHoa hồng đỏ (old: 267) lydo: Nhặt từ map at 03/11/2023 11:18 AM
+BAG:namek1705 add 326xHoa hồng vàng (old: 325) lydo: Nhặt từ map at 03/11/2023 11:19 AM
+BAG:namek1705 add 41xĐá Saphia (old: 40) lydo: Nhặt từ map at 03/11/2023 11:19 AM
+BAG:namek1705 add 327xHoa hồng vàng (old: 326) lydo: Nhặt từ map at 03/11/2023 11:19 AM
+BAG:namek1705 add 269xHoa hồng đỏ (old: 268) lydo: Nhặt từ map at 03/11/2023 11:20 AM
+BAG:namek1705 add 270xHoa hồng đỏ (old: 269) lydo: Nhặt từ map at 03/11/2023 11:30 AM
+BAG:namek1705 add 57xĐá lục bảo (old: 56) lydo: Nhặt từ map at 03/11/2023 11:31 AM
+BAG:namek1705 add 271xHoa hồng đỏ (old: 270) lydo: Nhặt từ map at 03/11/2023 11:31 AM
+BAG:namek1705 add 41xĐá Ruby (old: 40) lydo: Nhặt từ map at 03/11/2023 11:31 AM
+BAG:namek1705 add 58xĐá lục bảo (old: 57) lydo: Nhặt từ map at 03/11/2023 11:31 AM
+BAG:namek1705 add 272xHoa hồng đỏ (old: 271) lydo: Nhặt từ map at 03/11/2023 11:32 AM
+BAG:namek1705 add 252xHoa hồng xanh (old: 251) lydo: Nhặt từ map at 03/11/2023 11:32 AM
+BAG:namek1705 add 328xHoa hồng vàng (old: 327) lydo: Nhặt từ map at 03/11/2023 11:32 AM
+BAG:namek1705 add 329xHoa hồng vàng (old: 328) lydo: Nhặt từ map at 03/11/2023 11:32 AM
+BAG:namek1705 add 253xHoa hồng xanh (old: 252) lydo: Nhặt từ map at 03/11/2023 11:32 AM
+BAG:namek1705 add 330xHoa hồng vàng (old: 329) lydo: Nhặt từ map at 03/11/2023 11:33 AM
+BAG:namek1705 add 42xĐá Saphia (old: 41) lydo: Nhặt từ map at 03/11/2023 11:33 AM
+BAG:namek1705 add 331xHoa hồng vàng (old: 330) lydo: Nhặt từ map at 03/11/2023 11:34 AM
+BAG:namek1705 add 273xHoa hồng đỏ (old: 272) lydo: Nhặt từ map at 03/11/2023 11:34 AM
+BAG:namek1705 add 274xHoa hồng đỏ (old: 273) lydo: Nhặt từ map at 03/11/2023 11:34 AM
+BAG:namek1705 add 254xHoa hồng xanh (old: 253) lydo: Nhặt từ map at 03/11/2023 11:35 AM
+BAG:namek1705 add 42xĐá Ruby (old: 41) lydo: Nhặt từ map at 03/11/2023 11:35 AM
+BAG:namek1705 add 255xHoa hồng xanh (old: 254) lydo: Nhặt từ map at 03/11/2023 11:35 AM
+BAG:namek1705 add 43xĐá Ruby (old: 42) lydo: Nhặt từ map at 03/11/2023 11:35 AM
+BAG:namek1705 add 45xĐá Titan (old: 44) lydo: Nhặt từ map at 03/11/2023 11:35 AM
+BAG:namek1705 add 256xHoa hồng xanh (old: 255) lydo: Nhặt từ map at 03/11/2023 11:36 AM
+BAG:namek1705 add 332xHoa hồng vàng (old: 331) lydo: Nhặt từ map at 03/11/2023 11:37 AM
+BAG:namek1705 add 257xHoa hồng xanh (old: 256) lydo: Nhặt từ map at 03/11/2023 11:37 AM
+BAG:namek1705 add 275xHoa hồng đỏ (old: 274) lydo: Nhặt từ map at 03/11/2023 11:37 AM
+BAG:namek1705 add 258xHoa hồng xanh (old: 257) lydo: Nhặt từ map at 03/11/2023 11:38 AM
+BAG:namek1705 add 333xHoa hồng vàng (old: 332) lydo: Nhặt từ map at 03/11/2023 11:38 AM
+BAG:namek1705 add 334xHoa hồng vàng (old: 333) lydo: Nhặt từ map at 03/11/2023 11:38 AM
+BAG:namek1705 add 335xHoa hồng vàng (old: 334) lydo: Nhặt từ map at 03/11/2023 11:39 AM
+BAG:namek1705 add 276xHoa hồng đỏ (old: 275) lydo: Nhặt từ map at 03/11/2023 11:39 AM
+BAG:namek1705 add 277xHoa hồng đỏ (old: 276) lydo: Nhặt từ map at 03/11/2023 11:39 AM
+BAG:namek1705 add 336xHoa hồng vàng (old: 335) lydo: Nhặt từ map at 03/11/2023 11:39 AM
+BAG:namek1705 add 44xĐá Ruby (old: 43) lydo: Nhặt từ map at 03/11/2023 11:40 AM
+BAG:namek1705 add 337xHoa hồng vàng (old: 336) lydo: Nhặt từ map at 03/11/2023 11:40 AM
+BAG:namek1705 add 338xHoa hồng vàng (old: 337) lydo: Nhặt từ map at 03/11/2023 11:41 AM
+BAG:namek1705 add 339xHoa hồng vàng (old: 338) lydo: Nhặt từ map at 03/11/2023 11:41 AM
+BAG:namek1705 add 278xHoa hồng đỏ (old: 277) lydo: Nhặt từ map at 03/11/2023 11:41 AM
+BAG:namek1705 add 259xHoa hồng xanh (old: 258) lydo: Nhặt từ map at 03/11/2023 11:41 AM
+BAG:namek1705 add 260xHoa hồng xanh (old: 259) lydo: Nhặt từ map at 03/11/2023 11:42 AM
+BAG:namek1705 add 340xHoa hồng vàng (old: 339) lydo: Nhặt từ map at 03/11/2023 11:43 AM
+BAG:namek1705 add 261xHoa hồng xanh (old: 260) lydo: Nhặt từ map at 03/11/2023 11:43 AM
+BAG:namek1705 add 279xHoa hồng đỏ (old: 278) lydo: Nhặt từ map at 03/11/2023 11:44 AM
+BAG:namek1705 add 341xHoa hồng vàng (old: 340) lydo: Nhặt từ map at 03/11/2023 11:44 AM
+BAG:namek1705 add 262xHoa hồng xanh (old: 261) lydo: Nhặt từ map at 03/11/2023 11:44 AM
+BAG:namek1705 add 263xHoa hồng xanh (old: 262) lydo: Nhặt từ map at 03/11/2023 11:44 AM
+BAG:namek1705 add 280xHoa hồng đỏ (old: 279) lydo: Nhặt từ map at 03/11/2023 11:45 AM
+BAG:namek1705 add 32xĐá thạch anh tím (old: 31) lydo: Nhặt từ map at 03/11/2023 11:46 AM
+BAG:namek1705 add 281xHoa hồng đỏ (old: 280) lydo: Nhặt từ map at 03/11/2023 11:46 AM
+BAG:namek1705 add 264xHoa hồng xanh (old: 263) lydo: Nhặt từ map at 03/11/2023 11:47 AM
+BAG:namek1705 add 43xĐá Saphia (old: 42) lydo: Nhặt từ map at 03/11/2023 11:47 AM
+BAG:namek1705 add 282xHoa hồng đỏ (old: 281) lydo: Nhặt từ map at 03/11/2023 11:48 AM
+BAG:namek1705 add 283xHoa hồng đỏ (old: 282) lydo: Nhặt từ map at 03/11/2023 11:48 AM
+BAG:namek1705 add 33xĐá thạch anh tím (old: 32) lydo: Nhặt từ map at 03/11/2023 11:49 AM
+BAG:namek1705 add 342xHoa hồng vàng (old: 341) lydo: Nhặt từ map at 03/11/2023 11:49 AM
+BAG:namek1705 add 284xHoa hồng đỏ (old: 283) lydo: Nhặt từ map at 03/11/2023 11:50 AM
+BAG:namek1705 add 285xHoa hồng đỏ (old: 284) lydo: Nhặt từ map at 03/11/2023 11:50 AM
+BAG:namek1705 add 343xHoa hồng vàng (old: 342) lydo: Nhặt từ map at 03/11/2023 11:50 AM
+BAG:namek1705 add 344xHoa hồng vàng (old: 343) lydo: Nhặt từ map at 03/11/2023 11:50 AM
+BAG:namek1705 add 286xHoa hồng đỏ (old: 285) lydo: Nhặt từ map at 03/11/2023 11:51 AM
+BAG:namek1705 add 345xHoa hồng vàng (old: 344) lydo: Nhặt từ map at 03/11/2023 11:51 AM
+BAG:namek1705 add 346xHoa hồng vàng (old: 345) lydo: Nhặt từ map at 03/11/2023 11:51 AM
+BAG:namek1705 add 265xHoa hồng xanh (old: 264) lydo: Nhặt từ map at 03/11/2023 11:52 AM
+BAG:namek1705 add 46xĐá Titan (old: 45) lydo: Nhặt từ map at 03/11/2023 11:53 AM
+BAG:namek1705 add 266xHoa hồng xanh (old: 265) lydo: Nhặt từ map at 03/11/2023 11:53 AM
+BAG:namek1705 add 267xHoa hồng xanh (old: 266) lydo: Nhặt từ map at 03/11/2023 11:54 AM
+BAG:namek1705 add 287xHoa hồng đỏ (old: 286) lydo: Nhặt từ map at 03/11/2023 11:55 AM
+BAG:namek1705 add 268xHoa hồng xanh (old: 267) lydo: Nhặt từ map at 03/11/2023 11:55 AM
+BAG:namek1705 add 288xHoa hồng đỏ (old: 287) lydo: Nhặt từ map at 03/11/2023 11:55 AM
+BAG:namek1705 add 347xHoa hồng vàng (old: 346) lydo: Nhặt từ map at 03/11/2023 11:55 AM
+BAG:namek1705 add 44xĐá Saphia (old: 43) lydo: Nhặt từ map at 03/11/2023 11:56 AM
+BAG:namek1705 add 47xĐá Titan (old: 46) lydo: Nhặt từ map at 03/11/2023 11:57 AM
+BAG:namek1705 add 45xĐá Ruby (old: 44) lydo: Nhặt từ map at 03/11/2023 11:57 AM
+BAG:namek1705 add 269xHoa hồng xanh (old: 268) lydo: Nhặt từ map at 03/11/2023 11:59 AM
+BAG:namek1705 add 348xHoa hồng vàng (old: 347) lydo: Nhặt từ map at 03/11/2023 12:00 PM
+BAG:namek1705 add 349xHoa hồng vàng (old: 348) lydo: Nhặt từ map at 03/11/2023 12:00 PM
+BAG:namek1705 add 350xHoa hồng vàng (old: 349) lydo: Nhặt từ map at 03/11/2023 12:01 PM
+BAG:namek1705 add 59xĐá lục bảo (old: 58) lydo: Nhặt từ map at 03/11/2023 12:01 PM
+BAG:namek1705 add 270xHoa hồng xanh (old: 269) lydo: Nhặt từ map at 03/11/2023 12:01 PM
+BAG:namek1705 add 351xHoa hồng vàng (old: 350) lydo: Nhặt từ map at 03/11/2023 4:08 PM
+BAG:namek1705 add 1xCải Trang Thần Zeno Namec lydo: Lấy từ body đệ vào hành trang at 03/11/2023 4:08 PM
+BAG:namek1705 add 1xÁo sợi len lydo: Lấy từ body vào hành trang at 03/11/2023 4:09 PM
+BAG:namek1705 add 99xThỏi vàng lydo: Tách thỏi vàng at 03/11/2023 4:10 PM
+BAG:namek1705 add 1xGiầy sợi len lydo: Lấy từ rương qua người at 03/11/2023 4:15 PM
+BAG:namek1705 add 1xGăng sợi len lydo: Lấy từ rương qua người at 03/11/2023 4:15 PM
+BAG:namek1705 add 1xRada cấp 1 lydo: Lấy từ rương qua người at 03/11/2023 4:15 PM
+BAG:namek1705 add 1xQuần sợi len lydo: Lấy từ body vào hành trang at 03/11/2023 4:16 PM
+BAG:namek1705 add 1xGăng sợi len lydo: Lấy từ body vào hành trang at 03/11/2023 4:19 PM
+BAG:namek1705 add 1xGiầy sợi len lydo: Lấy từ body vào hành trang at 03/11/2023 4:22 PM
+BAG:namek1705 add 99xNgọc Rồng 3 sao lydo: Lấy từ rương qua người at 03/11/2023 4:24 PM
+BAG:namek1705 add 1xÁo sợi len lydo: Lấy từ body vào hành trang at 03/11/2023 4:24 PM
+BAG:namek1705 add 1xQuần sợi len lydo: Lấy từ body vào hành trang at 03/11/2023 4:25 PM

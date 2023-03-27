@@ -1,0 +1,163 @@
+BAG:boydz remove Ngọc Rồng 6 sao lydo: Cất vào rương at 03/12/2023 3:35 PM
+BAG:boydz remove 1xĐổi đệ tử lydo: Dùng đổi đệ tử at 03/12/2023 3:37 PM
+BAG:boydz remove Giầy nhựa lydo: Mặc vào người at 03/12/2023 3:37 PM
+BAG:boydz remove 1xĐổi đệ tử lydo: Dùng đổi đệ tử at 03/12/2023 3:37 PM
+BAG:boydz remove Hoa hồng xanh lydo: Tự Xóa vật phẩm at 03/12/2023 3:38 PM
+BAG:boydz remove Hoa hồng vàng lydo: Tự Xóa vật phẩm at 03/12/2023 3:38 PM
+BAG:boydz remove Hoa hồng đỏ lydo: Tự Xóa vật phẩm at 03/12/2023 3:38 PM
+BAG:boydz remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 03/12/2023 4:00 PM
+BAG:boydz remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 03/12/2023 4:00 PM
+BAG:boydz remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 03/12/2023 4:00 PM
+BAG:boydz remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 03/12/2023 4:03 PM
+BAG:boydz remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 03/12/2023 4:03 PM
+BAG:boydz remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 03/12/2023 4:05 PM
+BAG:boydz remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 03/12/2023 4:06 PM
+BAG:boydz remove 5xHoa hồng xanh lydo: Bán cho shop at 03/12/2023 4:09 PM
+BAG:boydz remove 6xHoa hồng vàng lydo: Bán cho shop at 03/12/2023 4:09 PM
+BAG:boydz remove 8xHoa hồng đỏ lydo: Bán cho shop at 03/12/2023 4:09 PM
+BAG:boydz remove 1xĐổi đệ tử lydo: Bán cho shop at 03/12/2023 4:09 PM
+BAG:boydz remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 03/12/2023 4:09 PM
+BAG:boydz remove Hoa hồng xanh lydo: Tự Xóa vật phẩm at 03/12/2023 4:10 PM
+BAG:boydz remove Đá thạch anh tím lydo: Cất vào rương at 03/12/2023 4:11 PM
+BAG:boydz remove Đá lục bảo lydo: Cất vào rương at 03/12/2023 4:11 PM
+BAG:boydz remove Đá Ruby lydo: Cất vào rương at 03/12/2023 4:11 PM
+BAG:boydz remove Đá Titan lydo: Cất vào rương at 03/12/2023 4:11 PM
+BAG:boydz remove Đá Saphia lydo: Cất vào rương at 03/12/2023 4:11 PM
+BAG:boydz remove 1xRada cấp 1 lydo: Bán cho shop at 03/12/2023 4:11 PM
+BAG:boydz remove Giầy nhựa lydo: Mặc cho đệ tử at 03/12/2023 4:12 PM
+BAG:boydz remove Rada cấp 1 lydo: Mặc cho đệ tử at 03/12/2023 4:12 PM
+BAG:boydz remove Găng vải đen lydo: Mặc cho đệ tử at 03/12/2023 4:12 PM
+BAG:boydz remove Quần vải đen lydo: Mặc cho đệ tử at 03/12/2023 4:12 PM
+BAG:boydz remove Áo vải 3 lỗ lydo: Mặc cho đệ tử at 03/12/2023 4:12 PM
+BAG:boydz remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 03/12/2023 4:31 PM
+BAG:boydz remove Hoa hồng xanh lydo: Tự Xóa vật phẩm at 03/12/2023 4:37 PM
+BAG:boydz remove Hoa hồng vàng lydo: Tự Xóa vật phẩm at 03/12/2023 4:37 PM
+BAG:boydz remove 1xNâng cấp kỹ năng 1 đệ tử lydo: Dùng sách kĩ năng đệ tử at 03/12/2023 4:39 PM
+BAG:boydz remove 1xNâng cấp kỹ năng 1 đệ tử lydo: Dùng sách kĩ năng đệ tử at 03/12/2023 4:39 PM
+BAG:boydz remove 1xNâng cấp kỹ năng 1 đệ tử lydo: Dùng sách kĩ năng đệ tử at 03/12/2023 4:40 PM
+BAG:boydz remove 50xThỏi vàng lydo: Mua đồ hủy diệt at 03/12/2023 4:41 PM
+BAG:boydz remove Nezuko lydo: Mặc cho đệ tử at 03/12/2023 4:41 PM
+BAG:boydz remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 03/12/2023 4:47 PM
+BAG:boydz remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 03/12/2023 4:47 PM
+BAG:boydz remove 1xThỏi vàng lydo: Bán cho shop at 03/12/2023 4:49 PM
+BAG:boydz remove 10xHoa hồng đỏ lydo: Bán cho shop at 03/12/2023 5:07 PM
+BAG:boydz remove 14xHoa hồng vàng lydo: Bán cho shop at 03/12/2023 5:07 PM
+BAG:boydz remove 8xHoa hồng xanh lydo: Bán cho shop at 03/12/2023 5:07 PM
+BAG:boydz remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 03/12/2023 5:14 PM
+BAG:boydz remove Đậu thần cấp 1 lydo: Tự Xóa vật phẩm at 03/12/2023 5:15 PM
+BAG:boydz remove 1xĐậu thần cấp 9 lydo: Ăn đậu at 03/12/2023 5:15 PM
+BAG:boydz remove 1xĐậu thần cấp 9 lydo: Ăn đậu at 03/12/2023 7:03 PM
+BAG:boydz remove 1xĐậu thần cấp 9 lydo: Ăn đậu at 03/12/2023 7:03 PM
+BAG:boydz remove 1xĐậu thần cấp 9 lydo: Ăn đậu at 03/12/2023 7:08 PM
+BAG:boydz remove 1xThỏi vàng lydo: Bán cho shop at 03/12/2023 7:10 PM
+BAG:boydz remove 1xThỏi vàng lydo: Bán cho shop at 03/12/2023 7:10 PM
+BAG:boydz remove 1xThỏi vàng lydo: Bán cho shop at 03/12/2023 7:10 PM
+BAG:boydz remove 6xHoa hồng đỏ lydo: Bán cho shop at 03/12/2023 7:11 PM
+BAG:boydz remove 2xHoa hồng xanh lydo: Bán cho shop at 03/12/2023 7:11 PM
+BAG:boydz remove 3xHoa hồng vàng lydo: Bán cho shop at 03/12/2023 7:11 PM
+BAG:boydz remove 50xThỏi vàng lydo: Mua đồ hủy diệt at 03/12/2023 7:11 PM
+BAG:boydz remove 1xGăng vải Kame lydo: Bán cho shop at 03/12/2023 7:12 PM
+BAG:boydz remove 1xThỏi vàng lydo: Bán cho shop at 03/12/2023 7:14 PM
+BAG:boydz remove 1xThỏi vàng lydo: Bán cho shop at 03/12/2023 7:14 PM
+BAG:boydz remove 1xThỏi vàng lydo: Bán cho shop at 03/12/2023 7:14 PM
+BAG:boydz remove 1xThỏi vàng lydo: Bán cho shop at 03/12/2023 7:15 PM
+BAG:boydz remove 1xThỏi vàng lydo: Bán cho shop at 03/12/2023 7:15 PM
+BAG:boydz remove 1xThỏi vàng lydo: Bán cho shop at 03/12/2023 7:15 PM
+BAG:boydz remove 1xThỏi vàng lydo: Bán cho shop at 03/12/2023 7:16 PM
+BAG:boydz remove 1xThỏi vàng lydo: Bán cho shop at 03/12/2023 7:16 PM
+BAG:boydz remove 1xThỏi vàng lydo: Bán cho shop at 03/12/2023 7:16 PM
+BAG:boydz remove 1xThỏi vàng lydo: Bán cho shop at 03/12/2023 7:18 PM
+BAG:boydz remove 1xThỏi vàng lydo: Bán cho shop at 03/12/2023 7:18 PM
+BAG:boydz remove 1xThỏi vàng lydo: Bán cho shop at 03/12/2023 7:18 PM
+BAG:boydz remove Đá Ruby lydo: Cất vào rương at 03/12/2023 7:19 PM
+BAG:boydz remove Đá Titan lydo: Cất vào rương at 03/12/2023 7:19 PM
+BAG:boydz remove Đá thạch anh tím lydo: Cất vào rương at 03/12/2023 7:19 PM
+BAG:boydz remove Đá lục bảo lydo: Cất vào rương at 03/12/2023 7:19 PM
+BAG:boydz remove Đá Saphia lydo: Cất vào rương at 03/12/2023 7:19 PM
+BAG:boydz remove 1xThỏi vàng lydo: Bán cho shop at 03/12/2023 7:20 PM
+BAG:boydz remove 1xThỏi vàng lydo: Bán cho shop at 03/12/2023 7:20 PM
+BAG:boydz remove 1xThỏi vàng lydo: Bán cho shop at 03/12/2023 7:21 PM
+BAG:boydz remove 1xThỏi vàng lydo: Bán cho shop at 03/12/2023 7:21 PM
+BAG:boydz remove 1xThỏi vàng lydo: Bán cho shop at 03/12/2023 7:23 PM
+BAG:boydz remove 1xThỏi vàng lydo: Bán cho shop at 03/12/2023 7:23 PM
+BAG:boydz remove 1xThỏi vàng lydo: Bán cho shop at 03/12/2023 7:24 PM
+BAG:boydz remove 1xThỏi vàng lydo: Bán cho shop at 03/12/2023 7:24 PM
+BAG:boydz remove 1xThỏi vàng lydo: Bán cho shop at 03/12/2023 7:25 PM
+BAG:boydz remove 1xThỏi vàng lydo: Bán cho shop at 03/12/2023 7:25 PM
+BAG:boydz remove 1xThỏi vàng lydo: Bán cho shop at 03/12/2023 7:27 PM
+BAG:boydz remove 1xThỏi vàng lydo: Bán cho shop at 03/12/2023 7:27 PM
+BAG:boydz remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 03/12/2023 7:28 PM
+BAG:boydz remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 03/12/2023 7:29 PM
+BAG:boydz remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 03/12/2023 7:30 PM
+BAG:boydz remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 03/12/2023 7:30 PM
+BAG:boydz remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 03/12/2023 7:31 PM
+BAG:boydz remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 03/12/2023 7:31 PM
+BAG:boydz remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 03/12/2023 7:33 PM
+BAG:boydz remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 03/12/2023 7:34 PM
+BAG:boydz remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 03/12/2023 7:34 PM
+BAG:boydz remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 03/12/2023 7:35 PM
+BAG:boydz remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 03/12/2023 7:35 PM
+BAG:boydz remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 03/12/2023 7:35 PM
+BAG:boydz remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 03/12/2023 7:36 PM
+BAG:boydz remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 03/12/2023 7:36 PM
+BAG:boydz remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 03/12/2023 7:36 PM
+BAG:boydz remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 03/12/2023 7:37 PM
+BAG:boydz remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 03/12/2023 7:37 PM
+BAG:boydz remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 03/12/2023 7:38 PM
+BAG:boydz remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 03/12/2023 7:38 PM
+BAG:boydz remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 03/12/2023 7:38 PM
+BAG:boydz remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 03/12/2023 7:39 PM
+BAG:boydz remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 03/12/2023 7:39 PM
+BAG:boydz remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 03/12/2023 7:39 PM
+BAG:boydz remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 03/12/2023 7:40 PM
+BAG:boydz remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 03/12/2023 7:40 PM
+BAG:boydz remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 03/12/2023 7:41 PM
+BAG:boydz remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 03/12/2023 7:41 PM
+BAG:boydz remove 1xĐậu thần cấp 9 lydo: Ăn đậu at 03/12/2023 7:43 PM
+BAG:boydz remove Rada cấp 1 lydo: Mặc vào người at 03/12/2023 7:45 PM
+BAG:boydz remove Giầy nhựa lydo: Mặc vào người at 03/12/2023 7:45 PM
+BAG:boydz remove Quần vải đen lydo: Mặc vào người at 03/12/2023 7:45 PM
+BAG:boydz remove Áo vải 3 lỗ lydo: Mặc vào người at 03/12/2023 7:45 PM
+BAG:boydz remove 1xĐậu thần cấp 9 lydo: Ăn đậu at 03/12/2023 7:49 PM
+BAG:boydz remove 1xCột nhà lydo: Bán cho shop at 03/12/2023 8:02 PM
+BAG:boydz remove 1xGăng thun Kame lydo: Bán cho shop at 03/12/2023 8:07 PM
+BAG:boydz remove 1xĐậu thần cấp 9 lydo: Ăn đậu at 03/12/2023 8:19 PM
+BAG:boydz remove 1xGăng võ Kame lydo: Bán cho shop at 03/12/2023 8:23 PM
+BAG:boydz remove 1xĐậu thần cấp 9 lydo: Ăn đậu at 03/12/2023 8:23 PM
+BAG:boydz remove 1xĐậu thần cấp 9 lydo: Ăn đậu at 03/12/2023 8:30 PM
+BAG:boydz remove 1xĐậu thần cấp 9 lydo: Ăn đậu at 03/12/2023 8:30 PM
+BAG:boydz remove 1xĐậu thần cấp 9 lydo: Ăn đậu at 03/12/2023 8:30 PM
+BAG:boydz remove Hoa hồng đỏ lydo: Tự Xóa vật phẩm at 03/12/2023 8:30 PM
+BAG:boydz remove Hoa hồng vàng lydo: Tự Xóa vật phẩm at 03/12/2023 8:30 PM
+BAG:boydz remove 1xĐậu thần cấp 9 lydo: Ăn đậu at 03/12/2023 8:35 PM
+BAG:boydz remove 1xĐậu thần cấp 9 lydo: Ăn đậu at 03/12/2023 8:37 PM
+BAG:boydz remove 1xĐậu thần cấp 9 lydo: Ăn đậu at 03/12/2023 8:41 PM
+BAG:boydz remove 1xĐậu thần cấp 9 lydo: Ăn đậu at 03/12/2023 8:41 PM
+BAG:boydz remove 1xĐậu thần cấp 9 lydo: Ăn đậu at 03/12/2023 8:45 PM
+BAG:boydz remove 1xĐậu thần cấp 9 lydo: Ăn đậu at 03/12/2023 8:46 PM
+BAG:boydz remove 1xĐậu thần cấp 9 lydo: Ăn đậu at 03/12/2023 8:55 PM
+BAG:boydz remove 1xĐậu thần cấp 9 lydo: Ăn đậu at 03/12/2023 9:00 PM
+BAG:boydz remove 1xĐậu thần cấp 9 lydo: Ăn đậu at 03/12/2023 9:05 PM
+BAG:boydz remove 1xĐậu thần cấp 9 lydo: Ăn đậu at 03/12/2023 9:05 PM
+BAG:boydz remove 1xGăng võ goku lydo: Bán cho shop at 03/12/2023 9:06 PM
+BAG:boydz remove 1xĐậu thần cấp 9 lydo: Ăn đậu at 03/12/2023 9:17 PM
+BAG:boydz remove 1xĐậu thần cấp 9 lydo: Ăn đậu at 03/12/2023 9:21 PM
+BAG:boydz remove 1xĐậu thần cấp 9 lydo: Ăn đậu at 03/12/2023 9:46 PM
+BAG:boydz remove 1xĐậu thần cấp 9 lydo: Ăn đậu at 03/12/2023 10:08 PM
+BAG:boydz remove 1xĐậu thần cấp 9 lydo: Ăn đậu at 03/12/2023 10:08 PM
+BAG:boydz remove 1xĐậu thần cấp 9 lydo: Ăn đậu at 03/12/2023 10:09 PM
+BAG:boydz remove 1xĐậu thần cấp 9 lydo: Ăn đậu at 03/12/2023 10:16 PM
+BAG:boydz remove 1xĐậu thần cấp 9 lydo: Ăn đậu at 03/12/2023 10:23 PM
+BAG:boydz remove 1xĐậu thần cấp 9 lydo: Ăn đậu at 03/12/2023 10:27 PM
+BAG:boydz remove 1xĐậu thần cấp 9 lydo: Ăn đậu at 03/12/2023 10:27 PM
+BAG:boydz remove 1xĐậu thần cấp 9 lydo: Ăn đậu at 03/12/2023 10:32 PM
+BAG:boydz remove 1xĐậu thần cấp 9 lydo: Ăn đậu at 03/12/2023 10:40 PM
+BAG:boydz remove 1xNâng cấp kỹ năng 2 đệ tử lydo: Dùng sách kĩ năng đệ tử at 03/12/2023 10:43 PM
+BAG:boydz remove 1xNâng cấp kỹ năng 2 đệ tử lydo: Dùng sách kĩ năng đệ tử at 03/12/2023 10:43 PM
+BAG:boydz remove 1xNâng cấp kỹ năng 2 đệ tử lydo: Dùng sách kĩ năng đệ tử at 03/12/2023 10:43 PM
+BAG:boydz remove 1xNâng cấp kỹ năng 2 đệ tử lydo: Dùng sách kĩ năng đệ tử at 03/12/2023 10:43 PM
+BAG:boydz remove 1xNâng cấp kỹ năng 2 đệ tử lydo: Dùng sách kĩ năng đệ tử at 03/12/2023 10:43 PM
+BAG:boydz remove 1xNâng cấp kỹ năng 2 đệ tử lydo: Dùng sách kĩ năng đệ tử at 03/12/2023 10:43 PM
+BAG:boydz remove 1xĐậu thần cấp 9 lydo: Ăn đậu at 03/12/2023 10:55 PM
+BAG:boydz remove Giáp tập luyện cấp 3 lydo: Mặc vào người at 03/12/2023 10:58 PM
+BAG:boydz remove 1xĐậu thần cấp 9 lydo: Ăn đậu at 03/12/2023 10:59 PM

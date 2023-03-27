@@ -1,0 +1,46 @@
+BAG:bot25 add 10xĐậu thần cấp 10 lydo: Thu hoạch đậu at 03/11/2023 5:41 AM
+BAG:bot25 add 10xĐậu thần cấp 10 (old: 8) lydo: Thu hoạch đậu at 03/11/2023 5:47 AM
+BAG:bot25 add 1xĐá lục bảo lydo: Nhặt từ map at 03/11/2023 5:48 AM
+BAG:bot25 add 1xQuần vải thô lydo: Nhặt từ map at 03/11/2023 5:50 AM
+BAG:bot25 add 1xÁo vải thô lydo: Nhặt từ map at 03/11/2023 5:52 AM
+BAG:bot25 add 1xHoa hồng xanh lydo: Nhặt từ map at 03/11/2023 5:52 AM
+BAG:bot25 add 1xSách đấm Galick lv2 lydo: Mua từ cửa hàng at 03/11/2023 5:54 AM
+BAG:bot25 add 1xSách đấm Galick lv3 lydo: Mua từ cửa hàng at 03/11/2023 5:54 AM
+BAG:bot25 add 1xSách đấm Galick lv4 lydo: Mua từ cửa hàng at 03/11/2023 5:54 AM
+BAG:bot25 add 1xSách Antomic lv1 lydo: Mua từ cửa hàng at 03/11/2023 5:54 AM
+BAG:bot25 add 1xSách Antomic lv2 lydo: Mua từ cửa hàng at 03/11/2023 5:54 AM
+BAG:bot25 add 1xSách Antomic lv3 lydo: Mua từ cửa hàng at 03/11/2023 5:54 AM
+BAG:bot25 add 1xSách Antomic lv4 lydo: Mua từ cửa hàng at 03/11/2023 5:54 AM
+BAG:bot25 add 1xTái tạo năng lượng lv1 lydo: Mua từ cửa hàng at 03/11/2023 5:54 AM
+BAG:bot25 add 1xTái tạo năng lượng lv2 lydo: Mua từ cửa hàng at 03/11/2023 5:54 AM
+BAG:bot25 add 1xTái tạo năng lượng lv3 lydo: Mua từ cửa hàng at 03/11/2023 5:54 AM
+BAG:bot25 add 1xTái tạo năng lượng lv4 lydo: Mua từ cửa hàng at 03/11/2023 5:54 AM
+BAG:bot25 add 1xTái tạo năng lượng lv5 lydo: Mua từ cửa hàng at 03/11/2023 5:54 AM
+BAG:bot25 add 1xTái tạo năng lượng lv6 lydo: Mua từ cửa hàng at 03/11/2023 5:55 AM
+BAG:bot25 add 1xTái tạo năng lượng lv7 lydo: Mua từ cửa hàng at 03/11/2023 5:55 AM
+BAG:bot25 add 1xVán bay VIP lydo: Mua từ cửa hàng at 03/11/2023 5:55 AM
+BAG:bot25 add 1xHoa hồng vàng lydo: Nhặt từ map at 03/11/2023 5:56 AM
+BAG:bot25 add 1xHoa hồng đỏ lydo: Nhặt từ map at 03/11/2023 5:57 AM
+BAG:bot25 add 2xHoa hồng xanh (old: 1) lydo: Nhặt từ map at 03/11/2023 5:57 AM
+BAG:bot25 add 2xHoa hồng đỏ (old: 1) lydo: Nhặt từ map at 03/11/2023 5:58 AM
+BAG:bot25 add 1xGiầy vải thô lydo: Nhặt từ map at 03/11/2023 5:58 AM
+BAG:bot25 add 1xGăng vải thô lydo: Nhặt từ map at 03/11/2023 5:58 AM
+BAG:bot25 add 1xĐá Saphia lydo: Nhặt từ map at 03/11/2023 5:59 AM
+BAG:bot25 add 3xHoa hồng xanh (old: 2) lydo: Nhặt từ map at 03/11/2023 5:59 AM
+BAG:bot25 add 2xHoa hồng vàng (old: 1) lydo: Nhặt từ map at 03/11/2023 6:00 AM
+BAG:bot25 add 2xĐá lục bảo (old: 1) lydo: Nhặt từ map at 03/11/2023 6:00 AM
+BAG:bot25 add 1xĐá thạch anh tím lydo: Nhặt từ map at 03/11/2023 6:00 AM
+BAG:bot25 add 1xQuần vải thô lydo: Nhặt từ map at 03/11/2023 6:01 AM
+BAG:bot25 add 4xHoa hồng xanh (old: 3) lydo: Nhặt từ map at 03/11/2023 6:01 AM
+BAG:bot25 add 1xQuần vải thô lydo: Nhặt từ map at 03/11/2023 6:01 AM
+BAG:bot25 add 1xÁo vải thô lydo: Lấy từ body vào hành trang at 03/11/2023 6:02 AM
+BAG:bot25 add 2xĐá thạch anh tím (old: 1) lydo: Nhặt từ map at 03/11/2023 6:02 AM
+BAG:bot25 add 1xViên Capsule đặc biệt lydo: Mua từ cửa hàng at 03/11/2023 6:03 AM
+BAG:bot25 add 30xĐậu thần cấp 9 lydo: Mua từ cửa hàng at 03/11/2023 6:03 AM
+BAG:bot25 add 60xĐậu thần cấp 9 (old: 30) lydo: Mua từ cửa hàng at 03/11/2023 6:03 AM
+BAG:bot25 add 1xĐá Ruby lydo: Nhặt từ map at 03/11/2023 6:04 AM
+BAG:bot25 add 3xHoa hồng vàng (old: 2) lydo: Nhặt từ map at 03/11/2023 6:05 AM
+BAG:bot25 add 3xĐá lục bảo (old: 2) lydo: Nhặt từ map at 03/11/2023 6:06 AM
+BAG:bot25 add 1xCải trang Chill cấp 2 lydo: Mua từ cửa hàng at 03/11/2023 6:08 AM
+BAG:bot25 add 4xĐá lục bảo (old: 3) lydo: Nhặt từ map at 03/11/2023 6:11 AM
+BAG:bot25 add 3xHoa hồng đỏ (old: 2) lydo: Nhặt từ map at 03/11/2023 6:11 AM

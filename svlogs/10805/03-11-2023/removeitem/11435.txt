@@ -1,0 +1,365 @@
+BAG:nhinconcac remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 03/11/2023 9:52 AM
+BAG:nhinconcac remove Giầy nhựa lydo: Tự Xóa vật phẩm at 03/11/2023 9:53 AM
+BAG:nhinconcac remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 03/11/2023 9:54 AM
+BAG:nhinconcac remove 1xMảnh Khủng long lydo: Dùng thẻ sưu tầm at 03/11/2023 9:55 AM
+BAG:nhinconcac remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 03/11/2023 10:00 AM
+BAG:nhinconcac remove Rada cấp 1 lydo: Tự Xóa vật phẩm at 03/11/2023 10:00 AM
+BAG:nhinconcac remove Rada cấp 1 lydo: Tự Xóa vật phẩm at 03/11/2023 10:00 AM
+BAG:nhinconcac remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 03/11/2023 10:01 AM
+BAG:nhinconcac remove Áo vải 3 lỗ lydo: Tự Xóa vật phẩm at 03/11/2023 10:01 AM
+BAG:nhinconcac remove Giầy nhựa lydo: Mặc vào người at 03/11/2023 10:03 AM
+BAG:nhinconcac remove Giầy nhựa lydo: Tự Xóa vật phẩm at 03/11/2023 10:03 AM
+BAG:nhinconcac remove Áo vải 3 lỗ lydo: Tự Xóa vật phẩm at 03/11/2023 10:03 AM
+BAG:nhinconcac remove Áo vải 3 lỗ lydo: Tự Xóa vật phẩm at 03/11/2023 10:03 AM
+BAG:nhinconcac remove Giầy nhựa lydo: Tự Xóa vật phẩm at 03/11/2023 10:03 AM
+BAG:nhinconcac remove Găng vải đen lydo: Tự Xóa vật phẩm at 03/11/2023 10:03 AM
+BAG:nhinconcac remove Áo vải 3 lỗ lydo: Tự Xóa vật phẩm at 03/11/2023 10:03 AM
+BAG:nhinconcac remove Giầy nhựa lydo: Tự Xóa vật phẩm at 03/11/2023 10:04 AM
+BAG:nhinconcac remove Rada cấp 1 lydo: Tự Xóa vật phẩm at 03/11/2023 10:04 AM
+BAG:nhinconcac remove Găng vải đen lydo: Tự Xóa vật phẩm at 03/11/2023 10:04 AM
+BAG:nhinconcac remove Rada cấp 1 lydo: Tự Xóa vật phẩm at 03/11/2023 10:04 AM
+BAG:nhinconcac remove Áo vải 3 lỗ lydo: Tự Xóa vật phẩm at 03/11/2023 10:04 AM
+BAG:nhinconcac remove Áo vải 3 lỗ lydo: Tự Xóa vật phẩm at 03/11/2023 10:05 AM
+BAG:nhinconcac remove Găng vải đen lydo: Tự Xóa vật phẩm at 03/11/2023 10:05 AM
+BAG:nhinconcac remove Áo vải 3 lỗ lydo: Tự Xóa vật phẩm at 03/11/2023 10:06 AM
+BAG:nhinconcac remove Găng vải đen lydo: Tự Xóa vật phẩm at 03/11/2023 10:06 AM
+BAG:nhinconcac remove Áo vải 3 lỗ lydo: Tự Xóa vật phẩm at 03/11/2023 10:06 AM
+BAG:nhinconcac remove Rada cấp 1 lydo: Tự Xóa vật phẩm at 03/11/2023 10:06 AM
+BAG:nhinconcac remove Quần vải đen lydo: Tự Xóa vật phẩm at 03/11/2023 10:06 AM
+BAG:nhinconcac remove Rada cấp 1 lydo: Tự Xóa vật phẩm at 03/11/2023 10:06 AM
+BAG:nhinconcac remove Găng vải đen lydo: Tự Xóa vật phẩm at 03/11/2023 10:07 AM
+BAG:nhinconcac remove Giầy nhựa lydo: Tự Xóa vật phẩm at 03/11/2023 10:07 AM
+BAG:nhinconcac remove Găng vải đen lydo: Tự Xóa vật phẩm at 03/11/2023 10:07 AM
+BAG:nhinconcac remove Áo vải 3 lỗ lydo: Tự Xóa vật phẩm at 03/11/2023 10:07 AM
+BAG:nhinconcac remove Giầy nhựa lydo: Tự Xóa vật phẩm at 03/11/2023 10:07 AM
+BAG:nhinconcac remove Áo vải 3 lỗ lydo: Tự Xóa vật phẩm at 03/11/2023 10:07 AM
+BAG:nhinconcac remove Áo vải 3 lỗ lydo: Tự Xóa vật phẩm at 03/11/2023 10:07 AM
+BAG:nhinconcac remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 03/11/2023 10:08 AM
+BAG:nhinconcac remove Quần vải đen lydo: Tự Xóa vật phẩm at 03/11/2023 10:08 AM
+BAG:nhinconcac remove Áo vải 3 lỗ lydo: Tự Xóa vật phẩm at 03/11/2023 10:08 AM
+BAG:nhinconcac remove Rada cấp 1 lydo: Tự Xóa vật phẩm at 03/11/2023 10:08 AM
+BAG:nhinconcac remove Găng vải đen lydo: Tự Xóa vật phẩm at 03/11/2023 10:08 AM
+BAG:nhinconcac remove Quần vải đen lydo: Tự Xóa vật phẩm at 03/11/2023 10:09 AM
+BAG:nhinconcac remove Áo vải 3 lỗ lydo: Tự Xóa vật phẩm at 03/11/2023 10:09 AM
+BAG:nhinconcac remove Rada cấp 1 lydo: Tự Xóa vật phẩm at 03/11/2023 10:09 AM
+BAG:nhinconcac remove Quần vải đen lydo: Tự Xóa vật phẩm at 03/11/2023 10:09 AM
+BAG:nhinconcac remove Áo vải 3 lỗ lydo: Tự Xóa vật phẩm at 03/11/2023 10:09 AM
+BAG:nhinconcac remove Găng vải đen lydo: Tự Xóa vật phẩm at 03/11/2023 10:09 AM
+BAG:nhinconcac remove Rada cấp 1 lydo: Tự Xóa vật phẩm at 03/11/2023 10:09 AM
+BAG:nhinconcac remove Áo vải 3 lỗ lydo: Tự Xóa vật phẩm at 03/11/2023 10:10 AM
+BAG:nhinconcac remove Rada cấp 1 lydo: Tự Xóa vật phẩm at 03/11/2023 10:10 AM
+BAG:nhinconcac remove Quần vải đen lydo: Tự Xóa vật phẩm at 03/11/2023 10:10 AM
+BAG:nhinconcac remove Rada cấp 1 lydo: Tự Xóa vật phẩm at 03/11/2023 10:10 AM
+BAG:nhinconcac remove 1xMảnh Khủng long lydo: Dùng thẻ sưu tầm at 03/11/2023 10:10 AM
+BAG:nhinconcac remove 1xMảnh Khủng long lydo: Dùng thẻ sưu tầm at 03/11/2023 10:10 AM
+BAG:nhinconcac remove Quần vải đen lydo: Tự Xóa vật phẩm at 03/11/2023 10:10 AM
+BAG:nhinconcac remove Rada cấp 1 lydo: Tự Xóa vật phẩm at 03/11/2023 10:11 AM
+BAG:nhinconcac remove Quần vải đen lydo: Tự Xóa vật phẩm at 03/11/2023 10:11 AM
+BAG:nhinconcac remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 03/11/2023 10:11 AM
+BAG:nhinconcac remove Áo vải 3 lỗ lydo: Tự Xóa vật phẩm at 03/11/2023 10:11 AM
+BAG:nhinconcac remove Áo vải 3 lỗ lydo: Tự Xóa vật phẩm at 03/11/2023 10:11 AM
+BAG:nhinconcac remove Quần vải đen lydo: Tự Xóa vật phẩm at 03/11/2023 10:11 AM
+BAG:nhinconcac remove Áo vải 3 lỗ lydo: Tự Xóa vật phẩm at 03/11/2023 10:11 AM
+BAG:nhinconcac remove Áo vải 3 lỗ lydo: Tự Xóa vật phẩm at 03/11/2023 10:12 AM
+BAG:nhinconcac remove Quần vải đen lydo: Tự Xóa vật phẩm at 03/11/2023 10:12 AM
+BAG:nhinconcac remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 03/11/2023 10:13 AM
+BAG:nhinconcac remove Quần vải đen lydo: Tự Xóa vật phẩm at 03/11/2023 10:13 AM
+BAG:nhinconcac remove Giầy nhựa lydo: Tự Xóa vật phẩm at 03/11/2023 10:13 AM
+BAG:nhinconcac remove Găng vải đen lydo: Tự Xóa vật phẩm at 03/11/2023 10:13 AM
+BAG:nhinconcac remove Áo vải 3 lỗ lydo: Tự Xóa vật phẩm at 03/11/2023 10:14 AM
+BAG:nhinconcac remove Găng vải đen lydo: Tự Xóa vật phẩm at 03/11/2023 10:14 AM
+BAG:nhinconcac remove Rada cấp 1 lydo: Tự Xóa vật phẩm at 03/11/2023 10:14 AM
+BAG:nhinconcac remove Áo vải 3 lỗ lydo: Tự Xóa vật phẩm at 03/11/2023 10:14 AM
+BAG:nhinconcac remove Áo vải 3 lỗ lydo: Tự Xóa vật phẩm at 03/11/2023 10:14 AM
+BAG:nhinconcac remove Găng vải đen lydo: Tự Xóa vật phẩm at 03/11/2023 10:16 AM
+BAG:nhinconcac remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 03/11/2023 10:17 AM
+BAG:nhinconcac remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 03/11/2023 10:18 AM
+BAG:nhinconcac remove Giầy nhựa lydo: Tự Xóa vật phẩm at 03/11/2023 10:18 AM
+BAG:nhinconcac remove Quần vải đen lydo: Tự Xóa vật phẩm at 03/11/2023 10:18 AM
+BAG:nhinconcac remove Áo vải 3 lỗ lydo: Tự Xóa vật phẩm at 03/11/2023 10:18 AM
+BAG:nhinconcac remove Giầy nhựa lydo: Tự Xóa vật phẩm at 03/11/2023 10:19 AM
+BAG:nhinconcac remove Áo vải 3 lỗ lydo: Tự Xóa vật phẩm at 03/11/2023 10:19 AM
+BAG:nhinconcac remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 03/11/2023 10:19 AM
+BAG:nhinconcac remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 03/11/2023 10:19 AM
+BAG:nhinconcac remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 03/11/2023 10:19 AM
+BAG:nhinconcac remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 03/11/2023 10:20 AM
+BAG:nhinconcac remove Găng vải đen lydo: Tự Xóa vật phẩm at 03/11/2023 10:20 AM
+BAG:nhinconcac remove Găng vải đen lydo: Tự Xóa vật phẩm at 03/11/2023 10:20 AM
+BAG:nhinconcac remove Găng vải đen lydo: Tự Xóa vật phẩm at 03/11/2023 10:20 AM
+BAG:nhinconcac remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 03/11/2023 10:20 AM
+BAG:nhinconcac remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 03/11/2023 10:21 AM
+BAG:nhinconcac remove 1xĐậu thần cấp 5 lydo: Ăn đậu at 03/11/2023 10:21 AM
+BAG:nhinconcac remove Găng vải đen lydo: Tự Xóa vật phẩm at 03/11/2023 10:21 AM
+BAG:nhinconcac remove Giầy nhựa lydo: Tự Xóa vật phẩm at 03/11/2023 10:21 AM
+BAG:nhinconcac remove Áo vải 3 lỗ lydo: Tự Xóa vật phẩm at 03/11/2023 10:22 AM
+BAG:nhinconcac remove Găng vải đen lydo: Tự Xóa vật phẩm at 03/11/2023 10:22 AM
+BAG:nhinconcac remove Găng vải đen lydo: Tự Xóa vật phẩm at 03/11/2023 10:22 AM
+BAG:nhinconcac remove Quần vải đen lydo: Tự Xóa vật phẩm at 03/11/2023 10:22 AM
+BAG:nhinconcac remove Quần vải đen lydo: Tự Xóa vật phẩm at 03/11/2023 10:22 AM
+BAG:nhinconcac remove Áo vải 3 lỗ lydo: Tự Xóa vật phẩm at 03/11/2023 10:22 AM
+BAG:nhinconcac remove Áo vải 3 lỗ lydo: Tự Xóa vật phẩm at 03/11/2023 10:22 AM
+BAG:nhinconcac remove 1xĐậu thần cấp 5 lydo: Ăn đậu at 03/11/2023 10:23 AM
+BAG:nhinconcac remove 1xĐậu thần cấp 5 lydo: Ăn đậu at 03/11/2023 10:24 AM
+BAG:nhinconcac remove 1xĐậu thần cấp 5 lydo: Ăn đậu at 03/11/2023 10:24 AM
+BAG:nhinconcac remove 1xĐậu thần cấp 5 lydo: Ăn đậu at 03/11/2023 10:24 AM
+BAG:nhinconcac remove 1xĐậu thần cấp 5 lydo: Ăn đậu at 03/11/2023 10:25 AM
+BAG:nhinconcac remove 1xĐậu thần cấp 5 lydo: Ăn đậu at 03/11/2023 10:26 AM
+BAG:nhinconcac remove 1xMảnh Khủng long lydo: Dùng thẻ sưu tầm at 03/11/2023 10:31 AM
+BAG:nhinconcac remove 1xMảnh Khủng long lydo: Dùng thẻ sưu tầm at 03/11/2023 10:31 AM
+BAG:nhinconcac remove 1xMảnh Khủng long lydo: Dùng thẻ sưu tầm at 03/11/2023 10:31 AM
+BAG:nhinconcac remove 1xĐậu thần cấp 5 lydo: Ăn đậu at 03/11/2023 10:32 AM
+BAG:nhinconcac remove 1xThỏi vàng lydo: Bán cho shop at 03/11/2023 10:34 AM
+BAG:nhinconcac remove 1xThỏi vàng lydo: Bán cho shop at 03/11/2023 10:34 AM
+BAG:nhinconcac remove 1xThỏi vàng lydo: Bán cho shop at 03/11/2023 10:34 AM
+BAG:nhinconcac remove 1xThỏi vàng lydo: Bán cho shop at 03/11/2023 10:34 AM
+BAG:nhinconcac remove 1xThỏi vàng lydo: Bán cho shop at 03/11/2023 10:34 AM
+BAG:nhinconcac remove 1xThỏi vàng lydo: Bán cho shop at 03/11/2023 10:34 AM
+BAG:nhinconcac remove 1xThỏi vàng lydo: Bán cho shop at 03/11/2023 10:34 AM
+BAG:nhinconcac remove 1xThỏi vàng lydo: Bán cho shop at 03/11/2023 10:34 AM
+BAG:nhinconcac remove 1xThỏi vàng lydo: Bán cho shop at 03/11/2023 10:34 AM
+BAG:nhinconcac remove 1xThỏi vàng lydo: Bán cho shop at 03/11/2023 10:35 AM
+BAG:nhinconcac remove 1xThỏi vàng lydo: Bán cho shop at 03/11/2023 10:35 AM
+BAG:nhinconcac remove 1xThỏi vàng lydo: Bán cho shop at 03/11/2023 10:35 AM
+BAG:nhinconcac remove 1xThỏi vàng lydo: Bán cho shop at 03/11/2023 10:36 AM
+BAG:nhinconcac remove 1xThỏi vàng lydo: Bán cho shop at 03/11/2023 10:36 AM
+BAG:nhinconcac remove 1xThỏi vàng lydo: Bán cho shop at 03/11/2023 10:36 AM
+BAG:nhinconcac remove 1xThỏi vàng lydo: Bán cho shop at 03/11/2023 10:36 AM
+BAG:nhinconcac remove 1xThỏi vàng lydo: Bán cho shop at 03/11/2023 10:37 AM
+BAG:nhinconcac remove 1xThỏi vàng lydo: Bán cho shop at 03/11/2023 10:37 AM
+BAG:nhinconcac remove 1xThỏi vàng lydo: Bán cho shop at 03/11/2023 10:37 AM
+BAG:nhinconcac remove 1xThỏi vàng lydo: Bán cho shop at 03/11/2023 10:37 AM
+BAG:nhinconcac remove 1xThỏi vàng lydo: Bán cho shop at 03/11/2023 10:37 AM
+BAG:nhinconcac remove 1xThỏi vàng lydo: Bán cho shop at 03/11/2023 10:38 AM
+BAG:nhinconcac remove 1xThỏi vàng lydo: Bán cho shop at 03/11/2023 10:38 AM
+BAG:nhinconcac remove 1xThỏi vàng lydo: Bán cho shop at 03/11/2023 10:38 AM
+BAG:nhinconcac remove 1xThỏi vàng lydo: Bán cho shop at 03/11/2023 10:38 AM
+BAG:nhinconcac remove 1xThỏi vàng lydo: Bán cho shop at 03/11/2023 10:38 AM
+BAG:nhinconcac remove 1xThỏi vàng lydo: Bán cho shop at 03/11/2023 10:38 AM
+BAG:nhinconcac remove 1xThỏi vàng lydo: Bán cho shop at 03/11/2023 10:39 AM
+BAG:nhinconcac remove 1xThỏi vàng lydo: Bán cho shop at 03/11/2023 10:39 AM
+BAG:nhinconcac remove 1xThỏi vàng lydo: Bán cho shop at 03/11/2023 10:39 AM
+BAG:nhinconcac remove 1xThỏi vàng lydo: Bán cho shop at 03/11/2023 10:40 AM
+BAG:nhinconcac remove 1xThỏi vàng lydo: Bán cho shop at 03/11/2023 10:40 AM
+BAG:nhinconcac remove 1xThỏi vàng lydo: Bán cho shop at 03/11/2023 10:40 AM
+BAG:nhinconcac remove 1xThỏi vàng lydo: Bán cho shop at 03/11/2023 10:40 AM
+BAG:nhinconcac remove 1xThỏi vàng lydo: Bán cho shop at 03/11/2023 10:40 AM
+BAG:nhinconcac remove 1xThỏi vàng lydo: Bán cho shop at 03/11/2023 10:40 AM
+BAG:nhinconcac remove 1xThỏi vàng lydo: Bán cho shop at 03/11/2023 10:41 AM
+BAG:nhinconcac remove 1xThỏi vàng lydo: Bán cho shop at 03/11/2023 10:41 AM
+BAG:nhinconcac remove 1xThỏi vàng lydo: Bán cho shop at 03/11/2023 10:41 AM
+BAG:nhinconcac remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 03/11/2023 10:42 AM
+BAG:nhinconcac remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 03/11/2023 10:43 AM
+BAG:nhinconcac remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 03/11/2023 10:43 AM
+BAG:nhinconcac remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 03/11/2023 10:43 AM
+BAG:nhinconcac remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 03/11/2023 10:44 AM
+BAG:nhinconcac remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 03/11/2023 10:44 AM
+BAG:nhinconcac remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 03/11/2023 10:44 AM
+BAG:nhinconcac remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 03/11/2023 10:44 AM
+BAG:nhinconcac remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 03/11/2023 10:44 AM
+BAG:nhinconcac remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 03/11/2023 10:44 AM
+BAG:nhinconcac remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 03/11/2023 10:45 AM
+BAG:nhinconcac remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 03/11/2023 10:45 AM
+BAG:nhinconcac remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 03/11/2023 10:45 AM
+BAG:nhinconcac remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 03/11/2023 10:45 AM
+BAG:nhinconcac remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 03/11/2023 10:45 AM
+BAG:nhinconcac remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 03/11/2023 10:45 AM
+BAG:nhinconcac remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 03/11/2023 10:46 AM
+BAG:nhinconcac remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 03/11/2023 10:46 AM
+BAG:nhinconcac remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 03/11/2023 10:46 AM
+BAG:nhinconcac remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 03/11/2023 10:46 AM
+BAG:nhinconcac remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 03/11/2023 10:46 AM
+BAG:nhinconcac remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 03/11/2023 10:47 AM
+BAG:nhinconcac remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 03/11/2023 10:47 AM
+BAG:nhinconcac remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 03/11/2023 10:47 AM
+BAG:nhinconcac remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 03/11/2023 10:47 AM
+BAG:nhinconcac remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 03/11/2023 10:47 AM
+BAG:nhinconcac remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 03/11/2023 10:48 AM
+BAG:nhinconcac remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 03/11/2023 10:48 AM
+BAG:nhinconcac remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 03/11/2023 10:48 AM
+BAG:nhinconcac remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 03/11/2023 10:48 AM
+BAG:nhinconcac remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 03/11/2023 10:48 AM
+BAG:nhinconcac remove 1xMảnh Khủng long lydo: Dùng thẻ sưu tầm at 03/11/2023 10:49 AM
+BAG:nhinconcac remove Mảnh Lợn lòi mẹ lydo: Tự Xóa vật phẩm at 03/11/2023 10:49 AM
+BAG:nhinconcac remove 1xThỏi vàng lydo: Bán cho shop at 03/11/2023 10:50 AM
+BAG:nhinconcac remove CT Genma 01 lydo: Mặc cho đệ tử at 03/11/2023 10:51 AM
+BAG:nhinconcac remove 1xVệ tinh trí tuệ lydo: Bán cho shop at 03/11/2023 10:53 AM
+BAG:nhinconcac remove 1xNgọc Rồng 5 sao lydo: Bán cho shop at 03/11/2023 10:53 AM
+BAG:nhinconcac remove 1xGăng vải Kame lydo: Bán cho shop at 03/11/2023 10:53 AM
+BAG:nhinconcac remove 1xGăng vải Kame lydo: Bán cho shop at 03/11/2023 10:53 AM
+BAG:nhinconcac remove 1xÁo võ Kame lydo: Bán cho shop at 03/11/2023 10:54 AM
+BAG:nhinconcac remove 1xÁo võ Kame lydo: Bán cho shop at 03/11/2023 10:54 AM
+BAG:nhinconcac remove 1xĐậu thần cấp 5 lydo: Ăn đậu at 03/11/2023 10:54 AM
+BAG:nhinconcac remove 1xThỏi vàng lydo: Bán cho shop at 03/11/2023 10:54 AM
+BAG:nhinconcac remove 1xThỏi vàng lydo: Bán cho shop at 03/11/2023 10:54 AM
+BAG:nhinconcac remove Găng vải Kame lydo: Tự Xóa vật phẩm at 03/11/2023 10:56 AM
+BAG:nhinconcac remove 1xĐậu thần cấp 5 lydo: Ăn đậu at 03/11/2023 10:57 AM
+BAG:nhinconcac remove CT Genma 01 lydo: Mặc vào người at 03/11/2023 10:57 AM
+BAG:nhinconcac remove 1xThỏi vàng lydo: Bán cho shop at 03/11/2023 10:58 AM
+BAG:nhinconcac remove 1xThỏi vàng lydo: Bán cho shop at 03/11/2023 10:58 AM
+BAG:nhinconcac remove 1xThỏi vàng lydo: Bán cho shop at 03/11/2023 10:58 AM
+BAG:nhinconcac remove 1xĐổi đệ tử lydo: Dùng đổi đệ tử at 03/11/2023 10:59 AM
+BAG:nhinconcac remove Áo vải 3 lỗ lydo: Mặc cho đệ tử at 03/11/2023 10:59 AM
+BAG:nhinconcac remove Đổi đệ tử lydo: Tự Xóa vật phẩm at 03/11/2023 11:01 AM
+BAG:nhinconcac remove CT Genma 01 lydo: Mặc cho đệ tử at 03/11/2023 11:05 AM
+BAG:nhinconcac remove Mèo mun lydo: Tự Xóa vật phẩm at 03/11/2023 11:05 AM
+BAG:nhinconcac remove 1xGăng vải đen lydo: Bán cho shop at 03/11/2023 11:18 AM
+BAG:nhinconcac remove 3xĐá thạch anh tím lydo: Bán cho shop at 03/11/2023 11:18 AM
+BAG:nhinconcac remove 5xĐá Saphia lydo: Bán cho shop at 03/11/2023 11:18 AM
+BAG:nhinconcac remove 11xĐá Titan lydo: Bán cho shop at 03/11/2023 11:18 AM
+BAG:nhinconcac remove Găng thun Kame lydo: Tự Xóa vật phẩm at 03/11/2023 11:19 AM
+BAG:nhinconcac remove 1xThỏi vàng lydo: Bán cho shop at 03/11/2023 11:19 AM
+BAG:nhinconcac remove 1xThỏi vàng lydo: Bán cho shop at 03/11/2023 11:20 AM
+BAG:nhinconcac remove 1xThỏi vàng lydo: Bán cho shop at 03/11/2023 11:20 AM
+BAG:nhinconcac remove Quần vải đen lydo: Mặc cho đệ tử at 03/11/2023 11:22 AM
+BAG:nhinconcac remove Giầy nhựa lydo: Mặc cho đệ tử at 03/11/2023 11:22 AM
+BAG:nhinconcac remove Rada cấp 1 lydo: Mặc cho đệ tử at 03/11/2023 11:22 AM
+BAG:nhinconcac remove Găng vải đen lydo: Mặc cho đệ tử at 03/11/2023 11:22 AM
+BAG:nhinconcac remove Áo vải 3 lỗ lydo: Mặc cho đệ tử at 03/11/2023 11:22 AM
+BAG:nhinconcac remove 1xĐậu thần cấp 5 lydo: Ăn đậu at 03/11/2023 11:25 AM
+BAG:nhinconcac remove Giáp tập luyện cấp 3 lydo: Mặc vào người at 03/11/2023 11:29 AM
+BAG:nhinconcac remove Áo vải 3 lỗ lydo: Mặc vào người at 03/11/2023 11:34 AM
+BAG:nhinconcac remove 1xÁo võ Goku lydo: Bán cho shop at 03/11/2023 11:38 AM
+BAG:nhinconcac remove 1xÁo bạc Goku lydo: Bán cho shop at 03/11/2023 11:38 AM
+BAG:nhinconcac remove 1xÁo võ Kame lydo: Bán cho shop at 03/11/2023 11:38 AM
+BAG:nhinconcac remove 1xÁo thun Kame lydo: Bán cho shop at 03/11/2023 11:38 AM
+BAG:nhinconcac remove 1xÁo thun 3 lỗ lydo: Bán cho shop at 03/11/2023 11:39 AM
+BAG:nhinconcac remove 1xÁo vải dày lydo: Bán cho shop at 03/11/2023 11:39 AM
+BAG:nhinconcac remove 1xÁo thun dày lydo: Bán cho shop at 03/11/2023 11:39 AM
+BAG:nhinconcac remove 1xÁo võ Kame lydo: Bán cho shop at 03/11/2023 11:39 AM
+BAG:nhinconcac remove 1xÁo võ Goku lydo: Bán cho shop at 03/11/2023 11:39 AM
+BAG:nhinconcac remove 1xĐậu thần cấp 5 lydo: Ăn đậu at 03/11/2023 11:40 AM
+BAG:nhinconcac remove 1xÁo võ Kame lydo: Bán cho shop at 03/11/2023 11:41 AM
+BAG:nhinconcac remove 1xGăng vải dày lydo: Bán cho shop at 03/11/2023 11:41 AM
+BAG:nhinconcac remove 1xGăng thun đen lydo: Bán cho shop at 03/11/2023 11:41 AM
+BAG:nhinconcac remove 1xGăng thun đen lydo: Bán cho shop at 03/11/2023 11:41 AM
+BAG:nhinconcac remove Áo thun Kame lydo: Cất vào rương at 03/11/2023 11:42 AM
+BAG:nhinconcac remove Áo vải Kame lydo: Cất vào rương at 03/11/2023 11:42 AM
+BAG:nhinconcac remove Áo thun dày lydo: Cất vào rương at 03/11/2023 11:42 AM
+BAG:nhinconcac remove Áo vải dày lydo: Cất vào rương at 03/11/2023 11:42 AM
+BAG:nhinconcac remove Găng vải đen lydo: Cất vào rương at 03/11/2023 11:42 AM
+BAG:nhinconcac remove Quần vải đen lydo: Cất vào rương at 03/11/2023 11:42 AM
+BAG:nhinconcac remove 1xThỏi vàng lydo: Bán cho shop at 03/11/2023 11:43 AM
+BAG:nhinconcac remove 1xThỏi vàng lydo: Bán cho shop at 03/11/2023 11:43 AM
+BAG:nhinconcac remove 1xThỏi vàng lydo: Bán cho shop at 03/11/2023 11:43 AM
+BAG:nhinconcac remove 1xThỏi vàng lydo: Bán cho shop at 03/11/2023 11:43 AM
+BAG:nhinconcac remove 1xBông tai Porata lydo: Bán cho shop at 03/11/2023 11:43 AM
+BAG:nhinconcac remove Bông tai Porata lydo: Tự Xóa vật phẩm at 03/11/2023 11:44 AM
+BAG:nhinconcac remove Quần vải dày lydo: Tự Xóa vật phẩm at 03/11/2023 11:44 AM
+BAG:nhinconcac remove Quần vải dày lydo: Tự Xóa vật phẩm at 03/11/2023 11:44 AM
+BAG:nhinconcac remove Quần vải dày lydo: Tự Xóa vật phẩm at 03/11/2023 11:44 AM
+BAG:nhinconcac remove Quần vải dày lydo: Tự Xóa vật phẩm at 03/11/2023 11:44 AM
+BAG:nhinconcac remove 1xThỏi vàng lydo: Bán cho shop at 03/11/2023 12:05 PM
+BAG:nhinconcac remove 1xThỏi vàng lydo: Bán cho shop at 03/11/2023 12:05 PM
+BAG:nhinconcac remove 1xThỏi vàng lydo: Bán cho shop at 03/11/2023 12:05 PM
+BAG:nhinconcac remove 1xThỏi vàng lydo: Bán cho shop at 03/11/2023 12:10 PM
+BAG:nhinconcac remove 1xThỏi vàng lydo: Bán cho shop at 03/11/2023 12:10 PM
+BAG:nhinconcac remove 1xThỏi vàng lydo: Bán cho shop at 03/11/2023 12:19 PM
+BAG:nhinconcac remove 1xThỏi vàng lydo: Bán cho shop at 03/11/2023 12:19 PM
+BAG:nhinconcac remove 1xThỏi vàng lydo: Bán cho shop at 03/11/2023 12:19 PM
+BAG:nhinconcac remove Giáp tập luyện cấp 3 lydo: Mặc vào người at 03/11/2023 12:58 PM
+BAG:nhinconcac remove Cột nhà lydo: Tự Xóa vật phẩm at 03/11/2023 1:08 PM
+BAG:nhinconcac remove Đá Ruby lydo: Tự Xóa vật phẩm at 03/11/2023 1:08 PM
+BAG:nhinconcac remove Đá lục bảo lydo: Tự Xóa vật phẩm at 03/11/2023 1:08 PM
+BAG:nhinconcac remove Sách đấm Dragon lv2 lydo: Sách kĩ năng at 03/11/2023 1:09 PM
+BAG:nhinconcac remove Sách đấm Dragon lv3 lydo: Sách kĩ năng at 03/11/2023 1:09 PM
+BAG:nhinconcac remove Sách đấm Dragon lv4 lydo: Sách kĩ năng at 03/11/2023 1:09 PM
+BAG:nhinconcac remove Sách đấm Dragon lv5 lydo: Sách kĩ năng at 03/11/2023 1:09 PM
+BAG:nhinconcac remove Sách đấm Dragon lv6 lydo: Sách kĩ năng at 03/11/2023 1:09 PM
+BAG:nhinconcac remove Sách đấm Dragon lv7 lydo: Sách kĩ năng at 03/11/2023 1:09 PM
+BAG:nhinconcac remove Kaioken lv1 lydo: Sách kĩ năng at 03/11/2023 1:09 PM
+BAG:nhinconcac remove Kaioken lv2 lydo: Sách kĩ năng at 03/11/2023 1:09 PM
+BAG:nhinconcac remove Kaioken lv3 lydo: Sách kĩ năng at 03/11/2023 1:09 PM
+BAG:nhinconcac remove Kaioken lv4 lydo: Sách kĩ năng at 03/11/2023 1:09 PM
+BAG:nhinconcac remove Kaioken lv5 lydo: Sách kĩ năng at 03/11/2023 1:09 PM
+BAG:nhinconcac remove Kaioken lv6 lydo: Sách kĩ năng at 03/11/2023 1:09 PM
+BAG:nhinconcac remove Kaioken lv7 lydo: Sách kĩ năng at 03/11/2023 1:09 PM
+BAG:nhinconcac remove Sách Kamejoko lv1 lydo: Sách kĩ năng at 03/11/2023 1:09 PM
+BAG:nhinconcac remove Sách Kamejoko lv2 lydo: Sách kĩ năng at 03/11/2023 1:09 PM
+BAG:nhinconcac remove Sách Kamejoko lv3 lydo: Sách kĩ năng at 03/11/2023 1:09 PM
+BAG:nhinconcac remove Sách Kamejoko lv4 lydo: Sách kĩ năng at 03/11/2023 1:09 PM
+BAG:nhinconcac remove Sách Kamejoko lv5 lydo: Sách kĩ năng at 03/11/2023 1:09 PM
+BAG:nhinconcac remove Sách Kamejoko lv6 lydo: Sách kĩ năng at 03/11/2023 1:09 PM
+BAG:nhinconcac remove Sách Kamejoko lv7 lydo: Sách kĩ năng at 03/11/2023 1:10 PM
+BAG:nhinconcac remove Thái Dương Hạ San lv1 lydo: Sách kĩ năng at 03/11/2023 1:10 PM
+BAG:nhinconcac remove Thái Dương Hạ San lv2 lydo: Sách kĩ năng at 03/11/2023 1:10 PM
+BAG:nhinconcac remove Thái Dương Hạ San lv3 lydo: Sách kĩ năng at 03/11/2023 1:10 PM
+BAG:nhinconcac remove Thái Dương Hạ San lv4 lydo: Sách kĩ năng at 03/11/2023 1:10 PM
+BAG:nhinconcac remove Thái Dương Hạ San lv5 lydo: Sách kĩ năng at 03/11/2023 1:10 PM
+BAG:nhinconcac remove Thái Dương Hạ San lv6 lydo: Sách kĩ năng at 03/11/2023 1:10 PM
+BAG:nhinconcac remove Thái Dương Hạ San lv7 lydo: Sách kĩ năng at 03/11/2023 1:10 PM
+BAG:nhinconcac remove Quả cầu Kênh Khi lv1 lydo: Sách kĩ năng at 03/11/2023 1:10 PM
+BAG:nhinconcac remove Quả cầu Kênh Khi lv2 lydo: Sách kĩ năng at 03/11/2023 1:10 PM
+BAG:nhinconcac remove Quả cầu Kênh Khi lv3 lydo: Sách kĩ năng at 03/11/2023 1:10 PM
+BAG:nhinconcac remove Quả cầu Kênh Khi lv4 lydo: Sách kĩ năng at 03/11/2023 1:10 PM
+BAG:nhinconcac remove Quả cầu Kênh Khi lv5 lydo: Sách kĩ năng at 03/11/2023 1:10 PM
+BAG:nhinconcac remove Quả cầu Kênh Khi lv6 lydo: Sách kĩ năng at 03/11/2023 1:10 PM
+BAG:nhinconcac remove Quả cầu Kênh Khi lv7 lydo: Sách kĩ năng at 03/11/2023 1:10 PM
+BAG:nhinconcac remove 1xĐậu thần cấp 5 lydo: Ăn đậu at 03/11/2023 1:11 PM
+BAG:nhinconcac remove 1xĐậu thần cấp 5 lydo: Ăn đậu at 03/11/2023 1:11 PM
+BAG:nhinconcac remove 1xĐậu thần cấp 5 lydo: Ăn đậu at 03/11/2023 1:13 PM
+BAG:nhinconcac remove 1xĐậu thần cấp 5 lydo: Ăn đậu at 03/11/2023 1:13 PM
+BAG:nhinconcac remove Áo vải 3 lỗ lydo: Mặc vào người at 03/11/2023 1:14 PM
+BAG:nhinconcac remove Quần vải đen lydo: Mặc vào người at 03/11/2023 1:14 PM
+BAG:nhinconcac remove Giầy nhựa lydo: Mặc vào người at 03/11/2023 1:14 PM
+BAG:nhinconcac remove Găng vải đen lydo: Mặc vào người at 03/11/2023 1:14 PM
+BAG:nhinconcac remove Rada cấp 1 lydo: Mặc vào người at 03/11/2023 1:14 PM
+BAG:nhinconcac remove CT Genma 01 lydo: Mặc vào người at 03/11/2023 1:14 PM
+BAG:nhinconcac remove 1xĐậu thần cấp 5 lydo: Ăn đậu at 03/11/2023 1:15 PM
+BAG:nhinconcac remove 1xĐậu thần cấp 5 lydo: Ăn đậu at 03/11/2023 1:16 PM
+BAG:nhinconcac remove Giáp tập luyện cấp 3 lydo: Mặc vào người at 03/11/2023 1:18 PM
+BAG:nhinconcac remove 1xĐậu thần cấp 5 lydo: Ăn đậu at 03/11/2023 1:18 PM
+BAG:nhinconcac remove 1xĐậu thần cấp 5 lydo: Ăn đậu at 03/11/2023 1:19 PM
+BAG:nhinconcac remove 50xThỏi vàng lydo: Mua đồ hủy diệt at 03/11/2023 1:21 PM
+BAG:nhinconcac remove Inosuke Hashibira lydo: Mặc cho đệ tử at 03/11/2023 1:22 PM
+BAG:nhinconcac remove Giáp tập luyện cấp 3 lydo: Mặc vào người at 03/11/2023 1:24 PM
+BAG:nhinconcac remove Sách Dịch Chuyển lv1 lydo: Sách kĩ năng at 03/11/2023 1:24 PM
+BAG:nhinconcac remove Sách Dịch Chuyển lv2 lydo: Sách kĩ năng at 03/11/2023 1:24 PM
+BAG:nhinconcac remove Sách Dịch Chuyển lv3 lydo: Sách kĩ năng at 03/11/2023 1:24 PM
+BAG:nhinconcac remove Sách Dịch Chuyển lv4 lydo: Sách kĩ năng at 03/11/2023 1:24 PM
+BAG:nhinconcac remove Sách Dịch Chuyển lv5 lydo: Sách kĩ năng at 03/11/2023 1:24 PM
+BAG:nhinconcac remove Sách Dịch Chuyển lv6 lydo: Sách kĩ năng at 03/11/2023 1:24 PM
+BAG:nhinconcac remove Sách Dịch Chuyển lv7 lydo: Sách kĩ năng at 03/11/2023 1:24 PM
+BAG:nhinconcac remove Sách Thôi Miên lv1 lydo: Sách kĩ năng at 03/11/2023 1:24 PM
+BAG:nhinconcac remove Sách Thôi Miên lv2 lydo: Sách kĩ năng at 03/11/2023 1:24 PM
+BAG:nhinconcac remove Sách Thôi Miên lv3 lydo: Sách kĩ năng at 03/11/2023 1:24 PM
+BAG:nhinconcac remove Sách Thôi Miên lv4 lydo: Sách kĩ năng at 03/11/2023 1:25 PM
+BAG:nhinconcac remove Sách Thôi Miên lv5 lydo: Sách kĩ năng at 03/11/2023 1:25 PM
+BAG:nhinconcac remove Sách Thôi Miên lv6 lydo: Sách kĩ năng at 03/11/2023 1:25 PM
+BAG:nhinconcac remove Sách Thôi Miên lv7 lydo: Sách kĩ năng at 03/11/2023 1:25 PM
+BAG:nhinconcac remove Khiên năng lượng lv1 lydo: Sách kĩ năng at 03/11/2023 1:25 PM
+BAG:nhinconcac remove Khiên năng lượng lv2 lydo: Sách kĩ năng at 03/11/2023 1:25 PM
+BAG:nhinconcac remove Khiên năng lượng lv3 lydo: Sách kĩ năng at 03/11/2023 1:25 PM
+BAG:nhinconcac remove Khiên năng lượng lv4 lydo: Sách kĩ năng at 03/11/2023 1:25 PM
+BAG:nhinconcac remove Khiên năng lượng lv5 lydo: Sách kĩ năng at 03/11/2023 1:25 PM
+BAG:nhinconcac remove Khiên năng lượng lv6 lydo: Sách kĩ năng at 03/11/2023 1:25 PM
+BAG:nhinconcac remove Khiên năng lượng lv7 lydo: Sách kĩ năng at 03/11/2023 1:25 PM
+BAG:nhinconcac remove Giáp tập luyện cấp 3 lydo: Mặc vào người at 03/11/2023 1:26 PM
+BAG:nhinconcac remove Giáp tập luyện cấp 3 lydo: Mặc vào người at 03/11/2023 1:27 PM
+BAG:nhinconcac remove 1xĐậu thần cấp 5 lydo: Ăn đậu at 03/11/2023 1:28 PM
+BAG:nhinconcac remove Giáp tập luyện cấp 3 lydo: Mặc vào người at 03/11/2023 1:29 PM
+BAG:nhinconcac remove Inosuke Hashibira lydo: Mặc vào người at 03/11/2023 1:34 PM
+BAG:nhinconcac remove Giáp tập luyện cấp 3 lydo: Mặc vào người at 03/11/2023 1:34 PM
+BAG:nhinconcac remove Inosuke Hashibira lydo: Mặc vào người at 03/11/2023 1:35 PM
+BAG:nhinconcac remove CT Genma 01 lydo: Mặc vào người at 03/11/2023 1:35 PM
+BAG:nhinconcac remove Giáp tập luyện cấp 3 lydo: Mặc vào người at 03/11/2023 1:35 PM
+BAG:nhinconcac remove Inosuke Hashibira lydo: Mặc vào người at 03/11/2023 1:39 PM
+BAG:nhinconcac remove Giáp tập luyện cấp 3 lydo: Mặc vào người at 03/11/2023 4:04 PM
+BAG:nhinconcac remove CT Genma 01 lydo: Mặc vào người at 03/11/2023 4:05 PM
+BAG:nhinconcac remove Giáp tập luyện cấp 3 lydo: Mặc vào người at 03/11/2023 5:00 PM
+BAG:nhinconcac remove 1xĐậu thần cấp 5 lydo: Ăn đậu at 03/11/2023 5:04 PM
+BAG:nhinconcac remove 1xĐậu thần cấp 5 lydo: Ăn đậu at 03/11/2023 5:42 PM
+BAG:nhinconcac remove Giáp tập luyện cấp 3 lydo: Mặc vào người at 03/11/2023 5:53 PM
+BAG:nhinconcac remove Giáp tập luyện cấp 3 lydo: Mặc vào người at 03/11/2023 5:53 PM
+BAG:nhinconcac remove Giáp tập luyện cấp 3 lydo: Mặc vào người at 03/11/2023 6:11 PM
+BAG:nhinconcac remove 1xĐậu thần cấp 5 lydo: Ăn đậu at 03/11/2023 6:15 PM
+BAG:nhinconcac remove 1xĐậu thần cấp 5 lydo: Ăn đậu at 03/11/2023 6:16 PM
+BAG:nhinconcac remove Inosuke Hashibira lydo: Mặc vào người at 03/11/2023 6:17 PM
+BAG:nhinconcac remove CT Genma 01 lydo: Mặc vào người at 03/11/2023 6:41 PM
+BAG:nhinconcac remove 1xĐậu thần cấp 5 lydo: Ăn đậu at 03/11/2023 7:03 PM
+BAG:nhinconcac remove Giáp tập luyện cấp 3 lydo: Mặc vào người at 03/11/2023 7:12 PM
+BAG:nhinconcac remove Giáp tập luyện cấp 3 lydo: Mặc vào người at 03/11/2023 7:19 PM
+BAG:nhinconcac remove Inosuke Hashibira lydo: Mặc vào người at 03/11/2023 8:05 PM
+BAG:nhinconcac remove 1xĐậu thần cấp 5 lydo: Ăn đậu at 03/11/2023 8:06 PM
+BAG:nhinconcac remove CT Genma 01 lydo: Mặc vào người at 03/11/2023 8:57 PM
+BAG:nhinconcac remove 1xĐậu thần cấp 5 lydo: Ăn đậu at 03/11/2023 8:59 PM
+BAG:nhinconcac remove 1xĐậu thần cấp 5 lydo: Ăn đậu at 03/11/2023 9:23 PM

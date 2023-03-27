@@ -1,0 +1,59 @@
+BAG:tblue20 add 150xThỏi vàng lydo: Giftcode at 03/12/2023 7:46 PM
+BAG:tblue20 add 99xNgọc Rồng 3 sao lydo: Giftcode at 03/12/2023 7:46 PM
+BAG:tblue20 add 1xRada cấp 1 lydo: Lấy từ rương qua người at 03/12/2023 7:47 PM
+BAG:tblue20 add 10xĐậu thần cấp 5 lydo: Thu hoạch đậu at 03/12/2023 7:48 PM
+BAG:tblue20 add 1xCải Trang Thần Zeno Trái Đất lydo: Mua từ bill at 03/12/2023 7:50 PM
+BAG:tblue20 add 1xNezuko lydo: Mua từ bill at 03/12/2023 7:50 PM
+BAG:tblue20 add 1xHoa hồng vàng lydo: Nhặt từ map at 03/12/2023 7:52 PM
+BAG:tblue20 add 1xHoa hồng xanh lydo: Nhặt từ map at 03/12/2023 7:53 PM
+BAG:tblue20 add 2xHoa hồng vàng (old: 1) lydo: Nhặt từ map at 03/12/2023 7:53 PM
+BAG:tblue20 add 3xHoa hồng vàng (old: 2) lydo: Nhặt từ map at 03/12/2023 7:53 PM
+BAG:tblue20 add 1xMảnh Khủng long lydo: Nhặt từ map at 03/12/2023 7:53 PM
+BAG:tblue20 add 4xHoa hồng vàng (old: 3) lydo: Nhặt từ map at 03/12/2023 7:53 PM
+BAG:tblue20 add 1xHoa hồng đỏ lydo: Nhặt từ map at 03/12/2023 7:53 PM
+BAG:tblue20 add 1xNgọc Rồng 2 sao lydo: Nhập ngọc at 03/12/2023 7:56 PM
+BAG:tblue20 add 2xNgọc Rồng 2 sao (old: 1) lydo: Nhập ngọc at 03/12/2023 7:56 PM
+BAG:tblue20 add 3xNgọc Rồng 2 sao (old: 2) lydo: Nhập ngọc at 03/12/2023 7:56 PM
+BAG:tblue20 add 4xNgọc Rồng 2 sao (old: 3) lydo: Nhập ngọc at 03/12/2023 7:56 PM
+BAG:tblue20 add 5xNgọc Rồng 2 sao (old: 4) lydo: Nhập ngọc at 03/12/2023 7:56 PM
+BAG:tblue20 add 6xNgọc Rồng 2 sao (old: 5) lydo: Nhập ngọc at 03/12/2023 7:57 PM
+BAG:tblue20 add 7xNgọc Rồng 2 sao (old: 6) lydo: Nhập ngọc at 03/12/2023 7:57 PM
+BAG:tblue20 add 8xNgọc Rồng 2 sao (old: 7) lydo: Nhập ngọc at 03/12/2023 7:57 PM
+BAG:tblue20 add 9xNgọc Rồng 2 sao (old: 8) lydo: Nhập ngọc at 03/12/2023 7:57 PM
+BAG:tblue20 add 10xNgọc Rồng 2 sao (old: 9) lydo: Nhập ngọc at 03/12/2023 7:57 PM
+BAG:tblue20 add 11xNgọc Rồng 2 sao (old: 10) lydo: Nhập ngọc at 03/12/2023 7:57 PM
+BAG:tblue20 add 12xNgọc Rồng 2 sao (old: 11) lydo: Nhập ngọc at 03/12/2023 7:57 PM
+BAG:tblue20 add 13xNgọc Rồng 2 sao (old: 12) lydo: Nhập ngọc at 03/12/2023 7:57 PM
+BAG:tblue20 add 14xNgọc Rồng 2 sao (old: 13) lydo: Nhập ngọc at 03/12/2023 7:57 PM
+BAG:tblue20 add 1xNgọc Rồng 1 sao lydo: Nhập ngọc at 03/12/2023 7:57 PM
+BAG:tblue20 add 1xSao pha lê lydo: Lấy từ lucky box at 03/12/2023 8:00 PM
+BAG:tblue20 add 1xSao pha lê lydo: Lấy từ lucky box at 03/12/2023 8:00 PM
+BAG:tblue20 add 1xNgọc Rồng 7 sao lydo: Lấy từ lucky box at 03/12/2023 8:00 PM
+BAG:tblue20 add 1xNgọc Rồng 4 sao lydo: Lấy từ lucky box at 03/12/2023 8:00 PM
+BAG:tblue20 add 2xSao pha lê (old: 1) lydo: Lấy từ lucky box at 03/12/2023 8:00 PM
+BAG:tblue20 add 2xNgọc Rồng 7 sao (old: 1) lydo: Lấy từ lucky box at 03/12/2023 8:00 PM
+BAG:tblue20 add 2xSao pha lê (old: 1) lydo: Lấy từ lucky box at 03/12/2023 8:00 PM
+BAG:tblue20 add 1xSao pha lê lydo: Lấy từ lucky box at 03/12/2023 8:00 PM
+BAG:tblue20 add 1xSao pha lê lydo: Lấy từ lucky box at 03/12/2023 8:00 PM
+BAG:tblue20 add 3xNgọc Rồng 7 sao (old: 2) lydo: Lấy từ lucky box at 03/12/2023 8:00 PM
+BAG:tblue20 add 2xSao pha lê (old: 1) lydo: Lấy từ lucky box at 03/12/2023 8:00 PM
+BAG:tblue20 add 2xNgọc Rồng 4 sao (old: 1) lydo: Lấy từ lucky box at 03/12/2023 8:00 PM
+BAG:tblue20 add 1xVệ tinh trí tuệ lydo: Lấy từ lucky box at 03/12/2023 8:00 PM
+BAG:tblue20 add 2xSao pha lê (old: 1) lydo: Lấy từ lucky box at 03/12/2023 8:00 PM
+BAG:tblue20 add 1xNgọc Rồng 6 sao lydo: Lấy từ lucky box at 03/12/2023 8:00 PM
+BAG:tblue20 add 3xSao pha lê (old: 2) lydo: Lấy từ lucky box at 03/12/2023 8:00 PM
+BAG:tblue20 add 4xSao pha lê (old: 3) lydo: Lấy từ lucky box at 03/12/2023 8:00 PM
+BAG:tblue20 add 5xSao pha lê (old: 4) lydo: Lấy từ lucky box at 03/12/2023 8:00 PM
+BAG:tblue20 add 1xVệ tinh sinh lực lydo: Lấy từ lucky box at 03/12/2023 8:00 PM
+BAG:tblue20 add 2xVệ tinh sinh lực (old: 1) lydo: Lấy từ lucky box at 03/12/2023 8:00 PM
+BAG:tblue20 add 3xSao pha lê (old: 2) lydo: Lấy từ lucky box at 03/12/2023 8:01 PM
+BAG:tblue20 add 2xNgọc Rồng 6 sao (old: 1) lydo: Lấy từ lucky box at 03/12/2023 8:01 PM
+BAG:tblue20 add 3xNgọc Rồng 6 sao (old: 2) lydo: Lấy từ lucky box at 03/12/2023 8:02 PM
+BAG:tblue20 add 4xNgọc Rồng 6 sao (old: 3) lydo: Lấy từ lucky box at 03/12/2023 8:02 PM
+BAG:tblue20 add 2xHoa hồng xanh (old: 1) lydo: Nhặt từ map at 03/12/2023 8:02 PM
+BAG:tblue20 add 1xQuần vải đen lydo: Nhặt từ map at 03/12/2023 8:03 PM
+BAG:tblue20 add 2xHoa hồng đỏ (old: 1) lydo: Nhặt từ map at 03/12/2023 8:05 PM
+BAG:tblue20 add 3xHoa hồng đỏ (old: 2) lydo: Nhặt từ map at 03/12/2023 8:05 PM
+BAG:tblue20 add 1xĐá Ruby lydo: Nhặt từ map at 03/12/2023 8:06 PM
+BAG:tblue20 add 3xHoa hồng xanh (old: 2) lydo: Nhặt từ map at 03/12/2023 8:07 PM
+BAG:tblue20 add 20xĐậu thần cấp 5 lydo: Lấy từ rương qua người at 03/12/2023 8:08 PM

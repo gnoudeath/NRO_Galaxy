@@ -1,0 +1,58 @@
+BAG:berus add 12xHoa hồng đỏ (old: 11) lydo: Nhặt từ map at 03/11/2023 6:05 AM
+BAG:berus add 13xHoa hồng đỏ (old: 12) lydo: Nhặt từ map at 03/11/2023 6:08 AM
+BAG:berus add 14xHoa hồng đỏ (old: 13) lydo: Nhặt từ map at 03/11/2023 6:09 AM
+BAG:berus add 15xHoa hồng đỏ (old: 14) lydo: Nhặt từ map at 03/11/2023 6:10 AM
+BAG:berus add 18xHoa hồng vàng (old: 17) lydo: Nhặt từ map at 03/11/2023 6:13 AM
+BAG:berus add 20xNgọc Rồng 5 sao (old: 19) lydo: Nhặt từ map at 03/11/2023 6:14 AM
+BAG:berus add 13xHoa hồng xanh (old: 12) lydo: Nhặt từ map at 03/11/2023 6:22 AM
+BAG:berus add 16xHoa hồng đỏ (old: 15) lydo: Nhặt từ map at 03/11/2023 6:25 AM
+BAG:berus add 17xHoa hồng đỏ (old: 16) lydo: Nhặt từ map at 03/11/2023 6:25 AM
+BAG:berus add 46xNgọc Rồng 4 sao (old: 45) lydo: Nhặt từ map at 03/11/2023 6:27 AM
+BAG:berus add 19xHoa hồng vàng (old: 18) lydo: Nhặt từ map at 03/11/2023 6:31 AM
+BAG:berus add 14xHoa hồng xanh (old: 13) lydo: Nhặt từ map at 03/11/2023 6:33 AM
+BAG:berus add 20xHoa hồng vàng (old: 19) lydo: Nhặt từ map at 03/11/2023 6:34 AM
+BAG:berus add 21xHoa hồng vàng (old: 20) lydo: Nhặt từ map at 03/11/2023 6:35 AM
+BAG:berus add 15xHoa hồng xanh (old: 14) lydo: Nhặt từ map at 03/11/2023 6:35 AM
+BAG:berus add 18xHoa hồng đỏ (old: 17) lydo: Nhặt từ map at 03/11/2023 6:37 AM
+BAG:berus add 22xHoa hồng vàng (old: 21) lydo: Nhặt từ map at 03/11/2023 6:37 AM
+BAG:berus add 16xHoa hồng xanh (old: 15) lydo: Nhặt từ map at 03/11/2023 6:38 AM
+BAG:berus add 17xHoa hồng xanh (old: 16) lydo: Nhặt từ map at 03/11/2023 6:47 AM
+BAG:berus add 19xHoa hồng đỏ (old: 18) lydo: Nhặt từ map at 03/11/2023 6:47 AM
+BAG:berus add 23xHoa hồng vàng (old: 22) lydo: Nhặt từ map at 03/11/2023 6:53 AM
+BAG:berus add 20xHoa hồng đỏ (old: 19) lydo: Nhặt từ map at 03/11/2023 6:57 AM
+BAG:berus add 18xHoa hồng xanh (old: 17) lydo: Nhặt từ map at 03/11/2023 8:20 PM
+BAG:berus add 19xHoa hồng xanh (old: 18) lydo: Nhặt từ map at 03/11/2023 8:21 PM
+BAG:berus add 24xHoa hồng vàng (old: 23) lydo: Nhặt từ map at 03/11/2023 8:23 PM
+BAG:berus add 25xHoa hồng vàng (old: 24) lydo: Nhặt từ map at 03/11/2023 8:24 PM
+BAG:berus add 21xHoa hồng đỏ (old: 20) lydo: Nhặt từ map at 03/11/2023 8:25 PM
+BAG:berus add 26xHoa hồng vàng (old: 25) lydo: Nhặt từ map at 03/11/2023 8:26 PM
+BAG:berus add 68xĐá thạch anh tím (old: 67) lydo: Nhặt từ map at 03/11/2023 8:31 PM
+BAG:berus add 20xHoa hồng xanh (old: 19) lydo: Nhặt từ map at 03/11/2023 8:33 PM
+BAG:berus add 2xĐá Ruby (old: 1) lydo: Nhặt từ map at 03/11/2023 8:37 PM
+BAG:berus add 21xHoa hồng xanh (old: 20) lydo: Nhặt từ map at 03/11/2023 8:38 PM
+BAG:berus add 27xHoa hồng vàng (old: 26) lydo: Nhặt từ map at 03/11/2023 8:41 PM
+BAG:berus add 22xHoa hồng đỏ (old: 21) lydo: Nhặt từ map at 03/11/2023 8:43 PM
+BAG:berus add 47xNgọc Rồng 4 sao (old: 46) lydo: Nhặt từ map at 03/11/2023 8:50 PM
+BAG:berus add 3xĐá Ruby (old: 2) lydo: Nhặt từ map at 03/11/2023 8:51 PM
+BAG:berus add 28xHoa hồng vàng (old: 27) lydo: Nhặt từ map at 03/11/2023 8:53 PM
+BAG:berus add 4xĐá Saphia (old: 3) lydo: Nhặt từ map at 03/11/2023 8:54 PM
+BAG:berus add 3xĐá lục bảo (old: 2) lydo: Nhặt từ map at 03/11/2023 8:55 PM
+BAG:berus add 22xHoa hồng xanh (old: 21) lydo: Nhặt từ map at 03/11/2023 8:56 PM
+BAG:berus add 4xĐá Titan (old: 3) lydo: Nhặt từ map at 03/11/2023 8:57 PM
+BAG:berus add 5xĐá Saphia (old: 4) lydo: Nhặt từ map at 03/11/2023 8:58 PM
+BAG:berus add 4xĐá Ruby (old: 3) lydo: Nhặt từ map at 03/11/2023 8:59 PM
+BAG:berus add 23xHoa hồng đỏ (old: 22) lydo: Nhặt từ map at 03/11/2023 9:01 PM
+BAG:berus add 6xĐá Saphia (old: 5) lydo: Nhặt từ map at 03/11/2023 9:01 PM
+BAG:berus add 29xHoa hồng vàng (old: 28) lydo: Nhặt từ map at 03/11/2023 9:05 PM
+BAG:berus add 23xHoa hồng xanh (old: 22) lydo: Nhặt từ map at 03/11/2023 9:06 PM
+BAG:berus add 24xHoa hồng đỏ (old: 23) lydo: Nhặt từ map at 03/11/2023 9:07 PM
+BAG:berus add 24xHoa hồng xanh (old: 23) lydo: Nhặt từ map at 03/11/2023 9:11 PM
+BAG:berus add 69xĐá thạch anh tím (old: 68) lydo: Nhặt từ map at 03/11/2023 9:12 PM
+BAG:berus add 30xHoa hồng vàng (old: 29) lydo: Nhặt từ map at 03/11/2023 9:14 PM
+BAG:berus add 25xHoa hồng đỏ (old: 24) lydo: Nhặt từ map at 03/11/2023 9:15 PM
+BAG:berus add 25xHoa hồng xanh (old: 24) lydo: Nhặt từ map at 03/11/2023 9:16 PM
+BAG:berus add 7xĐá Saphia (old: 6) lydo: Nhặt từ map at 03/11/2023 9:16 PM
+BAG:berus add 31xHoa hồng vàng (old: 30) lydo: Nhặt từ map at 03/11/2023 9:17 PM
+BAG:berus add 4xĐá lục bảo (old: 3) lydo: Nhặt từ map at 03/11/2023 9:18 PM
+BAG:berus add 26xHoa hồng đỏ (old: 25) lydo: Nhặt từ map at 03/11/2023 9:19 PM
+BAG:berus add 32xHoa hồng vàng (old: 31) lydo: Nhặt từ map at 03/11/2023 9:19 PM

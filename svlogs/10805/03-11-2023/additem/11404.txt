@@ -1,0 +1,14 @@
+BAG:vlzphen add 5xĐậu thần cấp 1 lydo: Thu hoạch đậu at 03/11/2023 7:33 AM
+BAG:vlzphen add 1xHoa hồng xanh lydo: Nhặt từ map at 03/11/2023 7:38 AM
+BAG:vlzphen add 1xHoa hồng vàng lydo: Nhặt từ map at 03/11/2023 7:38 AM
+BAG:vlzphen add 1xHoa hồng đỏ lydo: Nhặt từ map at 03/11/2023 7:38 AM
+BAG:vlzphen add 1xGiầy vải thô lydo: Nhặt từ map at 03/11/2023 7:40 AM
+BAG:vlzphen add 2xHoa hồng vàng (old: 1) lydo: Nhặt từ map at 03/11/2023 7:40 AM
+BAG:vlzphen add 2xHoa hồng đỏ (old: 1) lydo: Nhặt từ map at 03/11/2023 7:41 AM
+BAG:vlzphen add 1xÁo vải thô lydo: Nhặt từ map at 03/11/2023 7:42 AM
+BAG:vlzphen add 1xÁo vải thô lydo: Nhặt từ map at 03/11/2023 7:42 AM
+BAG:vlzphen add 1xViên Capsule đặc biệt lydo: Mua từ cửa hàng at 03/11/2023 7:43 AM
+BAG:vlzphen add 1xGăng vải thô lydo: Nhặt từ map at 03/11/2023 7:44 AM
+BAG:vlzphen add 150xThỏi vàng lydo: Giftcode at 03/11/2023 8:56 AM
+BAG:vlzphen add 99xNgọc Rồng 3 sao lydo: Giftcode at 03/11/2023 8:56 AM
+BAG:vlzphen add 5xĐậu thần cấp 10 lydo: Thu hoạch đậu at 03/11/2023 8:57 AM

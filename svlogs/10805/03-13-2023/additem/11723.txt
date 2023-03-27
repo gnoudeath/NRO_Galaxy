@@ -1,0 +1,146 @@
+BAG:cocailoz add 150xThỏi vàng lydo: Giftcode at 03/13/2023 12:59 AM
+BAG:cocailoz add 99xNgọc Rồng 3 sao lydo: Giftcode at 03/13/2023 12:59 AM
+BAG:cocailoz add 10xĐậu thần cấp 10 lydo: Thu hoạch đậu at 03/13/2023 1:00 AM
+BAG:cocailoz add 1xHoa hồng vàng lydo: Nhặt từ map at 03/13/2023 1:03 AM
+BAG:cocailoz add 1xĐá Ruby lydo: Nhặt từ map at 03/13/2023 1:03 AM
+BAG:cocailoz add 1xHoa hồng xanh lydo: Nhặt từ map at 03/13/2023 1:03 AM
+BAG:cocailoz add 27xĐậu thần cấp 10 (old: 7) lydo: Lấy từ rương qua người at 03/13/2023 1:05 AM
+BAG:cocailoz add 2xĐá Ruby (old: 1) lydo: Nhặt từ map at 03/13/2023 1:06 AM
+BAG:cocailoz add 1xĐá thạch anh tím lydo: Nhặt từ map at 03/13/2023 1:06 AM
+BAG:cocailoz add 1xHoa hồng đỏ lydo: Nhặt từ map at 03/13/2023 1:07 AM
+BAG:cocailoz add 1xMảnh Quỷ đất mẹ lydo: Nhặt từ map at 03/13/2023 1:08 AM
+BAG:cocailoz add 2xHoa hồng xanh (old: 1) lydo: Nhặt từ map at 03/13/2023 1:09 AM
+BAG:cocailoz add 1xTanjiro lydo: Mua từ bill at 03/13/2023 1:10 AM
+BAG:cocailoz add 2xHoa hồng vàng (old: 1) lydo: Nhặt từ map at 03/13/2023 1:12 AM
+BAG:cocailoz add 3xHoa hồng vàng (old: 2) lydo: Nhặt từ map at 03/13/2023 1:14 AM
+BAG:cocailoz add 4xHoa hồng vàng (old: 3) lydo: Nhặt từ map at 03/13/2023 1:14 AM
+BAG:cocailoz add 2xHoa hồng đỏ (old: 1) lydo: Nhặt từ map at 03/13/2023 1:14 AM
+BAG:cocailoz add 3xHoa hồng xanh (old: 2) lydo: Nhặt từ map at 03/13/2023 1:15 AM
+BAG:cocailoz add 4xHoa hồng xanh (old: 3) lydo: Nhặt từ map at 03/13/2023 1:15 AM
+BAG:cocailoz add 5xHoa hồng xanh (old: 4) lydo: Nhặt từ map at 03/13/2023 1:15 AM
+BAG:cocailoz add 1xViên Capsule đặc biệt lydo: Mua từ cửa hàng at 03/13/2023 1:17 AM
+BAG:cocailoz add 30xĐậu thần cấp 10 (old: 10) lydo: Lấy từ rương qua người at 03/13/2023 1:17 AM
+BAG:cocailoz add 50xĐậu thần cấp 10 (old: 30) lydo: Lấy từ rương qua người at 03/13/2023 1:17 AM
+BAG:cocailoz add 5xHoa hồng vàng (old: 4) lydo: Nhặt từ map at 03/13/2023 1:18 AM
+BAG:cocailoz add 6xHoa hồng xanh (old: 5) lydo: Nhặt từ map at 03/13/2023 1:18 AM
+BAG:cocailoz add 7xHoa hồng xanh (old: 6) lydo: Nhặt từ map at 03/13/2023 1:19 AM
+BAG:cocailoz add 1xQuần vải đen lydo: Nhặt từ map at 03/13/2023 1:19 AM
+BAG:cocailoz add 8xHoa hồng xanh (old: 7) lydo: Nhặt từ map at 03/13/2023 1:19 AM
+BAG:cocailoz add 1xÁo vải 3 lỗ lydo: Nhặt từ map at 03/13/2023 1:19 AM
+BAG:cocailoz add 1xĐá Titan lydo: Nhặt từ map at 03/13/2023 1:20 AM
+BAG:cocailoz add 6xHoa hồng vàng (old: 5) lydo: Nhặt từ map at 03/13/2023 1:20 AM
+BAG:cocailoz add 1xRada cấp 1 lydo: Nhặt từ map at 03/13/2023 1:20 AM
+BAG:cocailoz add 1xRada cấp 1 lydo: Nhặt từ map at 03/13/2023 1:20 AM
+BAG:cocailoz add 1xQuần vải đen lydo: Lấy từ body vào hành trang at 03/13/2023 1:25 AM
+BAG:cocailoz add 1xRada cấp 1 lydo: Lấy từ body vào hành trang at 03/13/2023 1:28 AM
+BAG:cocailoz add 1xViên Capsule đặc biệt lydo: Mua từ cửa hàng at 03/13/2023 1:29 AM
+BAG:cocailoz add 3xĐá Ruby (old: 2) lydo: Nhặt từ map at 03/13/2023 1:31 AM
+BAG:cocailoz add 4xĐá Ruby (old: 3) lydo: Nhặt từ map at 03/13/2023 1:31 AM
+BAG:cocailoz add 1xRada cấp 1 lydo: Nhặt từ map at 03/13/2023 1:31 AM
+BAG:cocailoz add 1xĐá lục bảo lydo: Nhặt từ map at 03/13/2023 1:31 AM
+BAG:cocailoz add 1xTự động luyện tập lydo: Mua TDTL từ cửa hàng at 03/13/2023 1:32 AM
+BAG:cocailoz add 1xSách đấm Dragon lv2 lydo: Mua từ cửa hàng at 03/13/2023 1:32 AM
+BAG:cocailoz add 1xSách đấm Dragon lv3 lydo: Mua từ cửa hàng at 03/13/2023 1:33 AM
+BAG:cocailoz add 1xSách đấm Dragon lv4 lydo: Mua từ cửa hàng at 03/13/2023 1:33 AM
+BAG:cocailoz add 3xHoa hồng đỏ (old: 2) lydo: Nhặt từ map at 03/13/2023 1:33 AM
+BAG:cocailoz add 1xGăng vải đen lydo: Nhặt từ map at 03/13/2023 1:33 AM
+BAG:cocailoz add 7xHoa hồng vàng (old: 6) lydo: Nhặt từ map at 03/13/2023 1:33 AM
+BAG:cocailoz add 9xHoa hồng xanh (old: 8) lydo: Nhặt từ map at 03/13/2023 1:33 AM
+BAG:cocailoz add 1xRada cấp 1 lydo: Nhặt từ map at 03/13/2023 1:33 AM
+BAG:cocailoz add 8xHoa hồng vàng (old: 7) lydo: Nhặt từ map at 03/13/2023 1:34 AM
+BAG:cocailoz add 1xGiầy nhựa lydo: Nhặt từ map at 03/13/2023 1:34 AM
+BAG:cocailoz add 4xHoa hồng đỏ (old: 3) lydo: Nhặt từ map at 03/13/2023 1:34 AM
+BAG:cocailoz add 1xÁo vải 3 lỗ lydo: Nhặt từ map at 03/13/2023 1:34 AM
+BAG:cocailoz add 1xQuần vải đen lydo: Nhặt từ map at 03/13/2023 1:34 AM
+BAG:cocailoz add 5xĐá Ruby (old: 4) lydo: Nhặt từ map at 03/13/2023 1:34 AM
+BAG:cocailoz add 10xHoa hồng xanh (old: 9) lydo: Nhặt từ map at 03/13/2023 1:34 AM
+BAG:cocailoz add 5xHoa hồng đỏ (old: 4) lydo: Nhặt từ map at 03/13/2023 1:34 AM
+BAG:cocailoz add 9xHoa hồng vàng (old: 8) lydo: Nhặt từ map at 03/13/2023 1:35 AM
+BAG:cocailoz add 1xGăng vải đen lydo: Nhặt từ map at 03/13/2023 1:35 AM
+BAG:cocailoz add 10xHoa hồng vàng (old: 9) lydo: Nhặt từ map at 03/13/2023 1:35 AM
+BAG:cocailoz add 1xÁo vải 3 lỗ lydo: Nhặt từ map at 03/13/2023 1:35 AM
+BAG:cocailoz add 6xHoa hồng đỏ (old: 5) lydo: Nhặt từ map at 03/13/2023 1:35 AM
+BAG:cocailoz add 1xQuần vải đen lydo: Nhặt từ map at 03/13/2023 1:36 AM
+BAG:cocailoz add 1xÁo vải 3 lỗ lydo: Nhặt từ map at 03/13/2023 1:36 AM
+BAG:cocailoz add 1xMảnh Khủng long lydo: Nhặt từ map at 03/13/2023 1:37 AM
+BAG:cocailoz add 1xRada cấp 1 lydo: Nhặt từ map at 03/13/2023 1:37 AM
+BAG:cocailoz add 11xHoa hồng vàng (old: 10) lydo: Nhặt từ map at 03/13/2023 1:37 AM
+BAG:cocailoz add 1xÁo vải 3 lỗ lydo: Nhặt từ map at 03/13/2023 1:37 AM
+BAG:cocailoz add 1xGiầy nhựa lydo: Nhặt từ map at 03/13/2023 1:37 AM
+BAG:cocailoz add 1xQuần vải đen lydo: Nhặt từ map at 03/13/2023 1:37 AM
+BAG:cocailoz add 11xHoa hồng xanh (old: 10) lydo: Nhặt từ map at 03/13/2023 1:37 AM
+BAG:cocailoz add 7xHoa hồng đỏ (old: 6) lydo: Nhặt từ map at 03/13/2023 1:37 AM
+BAG:cocailoz add 12xHoa hồng vàng (old: 11) lydo: Nhặt từ map at 03/13/2023 1:37 AM
+BAG:cocailoz add 12xHoa hồng xanh (old: 11) lydo: Nhặt từ map at 03/13/2023 1:37 AM
+BAG:cocailoz add 8xHoa hồng đỏ (old: 7) lydo: Nhặt từ map at 03/13/2023 1:37 AM
+BAG:cocailoz add 13xHoa hồng vàng (old: 12) lydo: Nhặt từ map at 03/13/2023 1:37 AM
+BAG:cocailoz add 1xĐá Ruby lydo: Nhặt từ map at 03/13/2023 1:37 AM
+BAG:cocailoz add 1xGiầy nhựa lydo: Nhặt từ map at 03/13/2023 1:38 AM
+BAG:cocailoz add 2xĐá thạch anh tím (old: 1) lydo: Nhặt từ map at 03/13/2023 1:38 AM
+BAG:cocailoz add 1xRada cấp 1 lydo: Nhặt từ map at 03/13/2023 1:38 AM
+BAG:cocailoz add 13xHoa hồng xanh (old: 12) lydo: Nhặt từ map at 03/13/2023 1:39 AM
+BAG:cocailoz add 3xĐá thạch anh tím (old: 2) lydo: Nhặt từ map at 03/13/2023 1:39 AM
+BAG:cocailoz add 1xGiầy nhựa lydo: Nhặt từ map at 03/13/2023 1:39 AM
+BAG:cocailoz add 1xĐá Saphia lydo: Nhặt từ map at 03/13/2023 1:39 AM
+BAG:cocailoz add 14xHoa hồng xanh (old: 13) lydo: Nhặt từ map at 03/13/2023 1:39 AM
+BAG:cocailoz add 9xHoa hồng đỏ (old: 8) lydo: Nhặt từ map at 03/13/2023 1:39 AM
+BAG:cocailoz add 1xGiầy nhựa lydo: Nhặt từ map at 03/13/2023 1:39 AM
+BAG:cocailoz add 15xHoa hồng xanh (old: 14) lydo: Nhặt từ map at 03/13/2023 1:39 AM
+BAG:cocailoz add 1xGăng vải đen lydo: Nhặt từ map at 03/13/2023 1:39 AM
+BAG:cocailoz add 2xĐá Saphia (old: 1) lydo: Nhặt từ map at 03/13/2023 1:39 AM
+BAG:cocailoz add 1xGiầy nhựa lydo: Nhặt từ map at 03/13/2023 1:40 AM
+BAG:cocailoz add 16xHoa hồng xanh (old: 15) lydo: Nhặt từ map at 03/13/2023 1:40 AM
+BAG:cocailoz add 14xHoa hồng vàng (old: 13) lydo: Nhặt từ map at 03/13/2023 1:40 AM
+BAG:cocailoz add 3xĐá Saphia (old: 2) lydo: Nhặt từ map at 03/13/2023 1:40 AM
+BAG:cocailoz add 1xGăng vải đen lydo: Nhặt từ map at 03/13/2023 1:40 AM
+BAG:cocailoz add 1xGăng vải đen lydo: Nhặt từ map at 03/13/2023 1:40 AM
+BAG:cocailoz add 15xHoa hồng vàng (old: 14) lydo: Nhặt từ map at 03/13/2023 1:40 AM
+BAG:cocailoz add 1xRada cấp 1 lydo: Nhặt từ map at 03/13/2023 1:40 AM
+BAG:cocailoz add 10xHoa hồng đỏ (old: 9) lydo: Nhặt từ map at 03/13/2023 1:40 AM
+BAG:cocailoz add 1xGiầy nhựa lydo: Nhặt từ map at 03/13/2023 1:40 AM
+BAG:cocailoz add 11xHoa hồng đỏ (old: 10) lydo: Nhặt từ map at 03/13/2023 1:40 AM
+BAG:cocailoz add 17xHoa hồng xanh (old: 16) lydo: Nhặt từ map at 03/13/2023 1:40 AM
+BAG:cocailoz add 1xGăng vải đen lydo: Nhặt từ map at 03/13/2023 1:41 AM
+BAG:cocailoz add 16xHoa hồng vàng (old: 15) lydo: Nhặt từ map at 03/13/2023 1:41 AM
+BAG:cocailoz add 1xTanjiro lydo: Lấy từ body vào hành trang at 03/13/2023 1:42 AM
+BAG:cocailoz add 1xTanjiro lydo: Lấy từ body đệ vào hành trang at 03/13/2023 1:43 AM
+BAG:cocailoz add 1xCải trang mồn lèo lydo: Lấy từ lucky box at 03/13/2023 1:44 AM
+BAG:cocailoz add 1xNgọc Rồng 4 sao lydo: Lấy từ lucky box at 03/13/2023 1:45 AM
+BAG:cocailoz add 1xNgọc Rồng 5 sao lydo: Lấy từ lucky box at 03/13/2023 1:45 AM
+BAG:cocailoz add 1xVệ tinh trí tuệ lydo: Lấy từ lucky box at 03/13/2023 1:47 AM
+BAG:cocailoz add 1xSao pha lê lydo: Lấy từ lucky box at 03/13/2023 1:47 AM
+BAG:cocailoz add 1xSao pha lê lydo: Lấy từ lucky box at 03/13/2023 1:48 AM
+BAG:cocailoz add 2xSao pha lê (old: 1) lydo: Lấy từ lucky box at 03/13/2023 1:48 AM
+BAG:cocailoz add 1xSao pha lê lydo: Lấy từ lucky box at 03/13/2023 1:48 AM
+BAG:cocailoz add 1xSao pha lê lydo: Lấy từ lucky box at 03/13/2023 1:48 AM
+BAG:cocailoz add 1xNgọc Rồng 5 sao lydo: Lấy từ lucky box at 03/13/2023 1:48 AM
+BAG:cocailoz add 1xNgọc Rồng 6 sao lydo: Lấy từ lucky box at 03/13/2023 1:49 AM
+BAG:cocailoz add 1xSao pha lê lydo: Lấy từ lucky box at 03/13/2023 1:49 AM
+BAG:cocailoz add 1xVệ tinh sinh lực lydo: Lấy từ lucky box at 03/13/2023 1:49 AM
+BAG:cocailoz add 1xSao pha lê lydo: Lấy từ lucky box at 03/13/2023 1:49 AM
+BAG:cocailoz add 2xSao pha lê (old: 1) lydo: Lấy từ lucky box at 03/13/2023 1:50 AM
+BAG:cocailoz add 2xVệ tinh trí tuệ (old: 1) lydo: Lấy từ lucky box at 03/13/2023 1:50 AM
+BAG:cocailoz add 3xSao pha lê (old: 2) lydo: Lấy từ lucky box at 03/13/2023 1:50 AM
+BAG:cocailoz add 3xSao pha lê (old: 2) lydo: Lấy từ lucky box at 03/13/2023 1:52 AM
+BAG:cocailoz add 3xVệ tinh trí tuệ (old: 2) lydo: Lấy từ lucky box at 03/13/2023 1:52 AM
+BAG:cocailoz add 4xVệ tinh trí tuệ (old: 3) lydo: Lấy từ lucky box at 03/13/2023 1:52 AM
+BAG:cocailoz add 5xVệ tinh trí tuệ (old: 4) lydo: Lấy từ lucky box at 03/13/2023 1:52 AM
+BAG:cocailoz add 6xVệ tinh trí tuệ (old: 5) lydo: Lấy từ lucky box at 03/13/2023 1:53 AM
+BAG:cocailoz add 1xSao pha lê lydo: Lấy từ lucky box at 03/13/2023 1:53 AM
+BAG:cocailoz add 2xSao pha lê (old: 1) lydo: Lấy từ lucky box at 03/13/2023 1:53 AM
+BAG:cocailoz add 1xCT Genma 01 lydo: Lấy từ lucky box at 03/13/2023 1:53 AM
+BAG:cocailoz add 12xHoa hồng đỏ (old: 11) lydo: Nhặt từ map at 03/13/2023 1:56 AM
+BAG:cocailoz add 17xHoa hồng vàng (old: 16) lydo: Nhặt từ map at 03/13/2023 1:58 AM
+BAG:cocailoz add 1xTanjiro lydo: Lấy từ body vào hành trang at 03/13/2023 1:59 AM
+BAG:cocailoz add 18xHoa hồng vàng (old: 17) lydo: Nhặt từ map at 03/13/2023 2:01 AM
+BAG:cocailoz add 13xHoa hồng đỏ (old: 12) lydo: Nhặt từ map at 03/13/2023 2:01 AM
+BAG:cocailoz add 19xHoa hồng vàng (old: 18) lydo: Nhặt từ map at 03/13/2023 2:02 AM
+BAG:cocailoz add 14xHoa hồng đỏ (old: 13) lydo: Nhặt từ map at 03/13/2023 2:02 AM
+BAG:cocailoz add 18xHoa hồng xanh (old: 17) lydo: Nhặt từ map at 03/13/2023 2:02 AM
+BAG:cocailoz add 19xHoa hồng xanh (old: 18) lydo: Nhặt từ map at 03/13/2023 2:02 AM
+BAG:cocailoz add 2xĐá Ruby (old: 1) lydo: Nhặt từ map at 03/13/2023 2:02 AM
+BAG:cocailoz add 20xHoa hồng vàng (old: 19) lydo: Nhặt từ map at 03/13/2023 2:02 AM
+BAG:cocailoz add 21xHoa hồng vàng (old: 20) lydo: Nhặt từ map at 03/13/2023 2:03 AM
+BAG:cocailoz add 20xHoa hồng xanh (old: 19) lydo: Nhặt từ map at 03/13/2023 2:03 AM
+BAG:cocailoz add 1xNgọc Rồng 6 sao lydo: Nhặt từ map at 03/13/2023 2:03 AM
+BAG:cocailoz add 22xHoa hồng vàng (old: 21) lydo: Nhặt từ map at 03/13/2023 2:03 AM

@@ -1,0 +1,287 @@
+BAG:kientu remove 1xBổ huyết lydo: Dùng buff at 03/12/2023 9:34 AM
+BAG:kientu remove Đá Ruby lydo: Tự Xóa vật phẩm at 03/12/2023 10:10 AM
+BAG:kientu remove Đá Titan lydo: Tự Xóa vật phẩm at 03/12/2023 10:10 AM
+BAG:kientu remove 1xCuồng nộ lydo: Dùng buff at 03/12/2023 10:10 AM
+BAG:kientu remove Giáp tập luyện cấp 3 lydo: Mặc vào người at 03/12/2023 10:11 AM
+BAG:kientu remove Giáp tập luyện cấp 3 lydo: Mặc vào người at 03/12/2023 10:44 AM
+BAG:kientu remove 1xCuồng nộ lydo: Dùng buff at 03/12/2023 10:53 AM
+BAG:kientu remove 1xHộp bánh Trung Thu lydo: Ăn bánh tt buff at 03/12/2023 10:54 AM
+BAG:kientu remove Giáp tập luyện cấp 3 lydo: Mặc vào người at 03/12/2023 10:54 AM
+BAG:kientu remove 1xCuồng nộ lydo: Dùng buff at 03/12/2023 11:07 AM
+BAG:kientu remove Giáp tập luyện cấp 3 lydo: Mặc vào người at 03/12/2023 11:15 AM
+BAG:kientu remove Đá Titan lydo: Tự Xóa vật phẩm at 03/12/2023 11:15 AM
+BAG:kientu remove Đá Titan lydo: Tự Xóa vật phẩm at 03/12/2023 11:16 AM
+BAG:kientu remove Đá Saphia lydo: Tự Xóa vật phẩm at 03/12/2023 11:29 AM
+BAG:kientu remove Giáp tập luyện cấp 3 lydo: Mặc vào người at 03/12/2023 11:30 AM
+BAG:kientu remove 1xCuồng nộ lydo: Dùng buff at 03/12/2023 11:34 AM
+BAG:kientu remove Giáp tập luyện cấp 3 lydo: Mặc vào người at 03/12/2023 11:35 AM
+BAG:kientu remove Đá Ruby lydo: Tự Xóa vật phẩm at 03/12/2023 12:02 PM
+BAG:kientu remove Đá thạch anh tím lydo: Tự Xóa vật phẩm at 03/12/2023 12:02 PM
+BAG:kientu remove 1xBổ huyết lydo: Dùng buff at 03/12/2023 12:02 PM
+BAG:kientu remove 1xCuồng nộ lydo: Dùng buff at 03/12/2023 12:02 PM
+BAG:kientu remove Giáp tập luyện cấp 3 lydo: Mặc vào người at 03/12/2023 12:03 PM
+BAG:kientu remove Giáp tập luyện cấp 3 lydo: Mặc vào người at 03/12/2023 3:02 PM
+BAG:kientu remove 1xCuồng nộ lydo: Dùng buff at 03/12/2023 6:39 PM
+BAG:kientu remove 1xBổ huyết lydo: Dùng buff at 03/12/2023 6:39 PM
+BAG:kientu remove Giáp tập luyện cấp 3 lydo: Mặc vào người at 03/12/2023 6:39 PM
+BAG:kientu remove Giáp tập luyện cấp 3 lydo: Mặc vào người at 03/12/2023 6:42 PM
+BAG:kientu remove 1xNgọc Rồng 3 sao lydo: Ép ngọc rồng at 03/12/2023 6:43 PM
+BAG:kientu remove Giáp tập luyện cấp 1 lydo: Mặc cho đệ tử at 03/12/2023 6:43 PM
+BAG:kientu remove Giáp tập luyện cấp 3 lydo: Mặc vào người at 03/12/2023 6:47 PM
+BAG:kientu remove 1xBổ huyết lydo: Dùng buff at 03/12/2023 6:48 PM
+BAG:kientu remove 1xCuồng nộ lydo: Dùng buff at 03/12/2023 6:53 PM
+BAG:kientu remove 1xMáy dò Capsule kì bí lydo: Dùng máy dò at 03/12/2023 6:54 PM
+BAG:kientu remove Hoa hồng vàng lydo: Cất vào rương at 03/12/2023 6:55 PM
+BAG:kientu remove Giáp tập luyện cấp 3 lydo: Mặc vào người at 03/12/2023 6:55 PM
+BAG:kientu remove Đá ngũ sắc lydo: Cất vào rương at 03/12/2023 6:55 PM
+BAG:kientu remove Ngọc Rồng 5 sao lydo: Cất vào rương at 03/12/2023 6:56 PM
+BAG:kientu remove Ngọc Rồng 6 sao lydo: Cất vào rương at 03/12/2023 6:56 PM
+BAG:kientu remove Ngọc Rồng 3 sao lydo: Cất vào rương at 03/12/2023 6:56 PM
+BAG:kientu remove Hoa hồng vàng lydo: Cất vào rương at 03/12/2023 6:56 PM
+BAG:kientu remove Hoa hồng xanh lydo: Cất vào rương at 03/12/2023 6:56 PM
+BAG:kientu remove Hoa hồng đỏ lydo: Cất vào rương at 03/12/2023 6:56 PM
+BAG:kientu remove 1xGiày Thần Linh lydo: Bán cho shop at 03/12/2023 6:56 PM
+BAG:kientu remove 1xGiầy Thần Namếc lydo: Bán cho shop at 03/12/2023 6:56 PM
+BAG:kientu remove Ngọc Rồng 4 sao lydo: Cất vào rương at 03/12/2023 6:57 PM
+BAG:kientu remove 1xVệ tinh trí tuệ lydo: Dùng vệ tinh at 03/12/2023 6:58 PM
+BAG:kientu remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 7:23 PM
+BAG:kientu remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 7:23 PM
+BAG:kientu remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 7:23 PM
+BAG:kientu remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 7:23 PM
+BAG:kientu remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 7:23 PM
+BAG:kientu remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 7:23 PM
+BAG:kientu remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 7:23 PM
+BAG:kientu remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 7:23 PM
+BAG:kientu remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 7:23 PM
+BAG:kientu remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 7:23 PM
+BAG:kientu remove Đá Titan lydo: Tự Xóa vật phẩm at 03/12/2023 7:23 PM
+BAG:kientu remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 7:23 PM
+BAG:kientu remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 7:23 PM
+BAG:kientu remove Đá Saphia lydo: Tự Xóa vật phẩm at 03/12/2023 7:23 PM
+BAG:kientu remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 7:23 PM
+BAG:kientu remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 7:23 PM
+BAG:kientu remove Đá Ruby lydo: Tự Xóa vật phẩm at 03/12/2023 7:23 PM
+BAG:kientu remove Đá lục bảo lydo: Tự Xóa vật phẩm at 03/12/2023 7:23 PM
+BAG:kientu remove Ẩn danh lydo: Tự Xóa vật phẩm at 03/12/2023 7:23 PM
+BAG:kientu remove Đá Ruby lydo: Tự Xóa vật phẩm at 03/12/2023 7:23 PM
+BAG:kientu remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 7:23 PM
+BAG:kientu remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 7:23 PM
+BAG:kientu remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 7:23 PM
+BAG:kientu remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 7:23 PM
+BAG:kientu remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 7:23 PM
+BAG:kientu remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 7:23 PM
+BAG:kientu remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 7:24 PM
+BAG:kientu remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 7:24 PM
+BAG:kientu remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 7:24 PM
+BAG:kientu remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 7:24 PM
+BAG:kientu remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 7:24 PM
+BAG:kientu remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 7:24 PM
+BAG:kientu remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 7:24 PM
+BAG:kientu remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 7:24 PM
+BAG:kientu remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 7:24 PM
+BAG:kientu remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 7:24 PM
+BAG:kientu remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 7:24 PM
+BAG:kientu remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 7:24 PM
+BAG:kientu remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 7:24 PM
+BAG:kientu remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 7:24 PM
+BAG:kientu remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 7:24 PM
+BAG:kientu remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 7:24 PM
+BAG:kientu remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 7:24 PM
+BAG:kientu remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 7:24 PM
+BAG:kientu remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 7:24 PM
+BAG:kientu remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 7:24 PM
+BAG:kientu remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 7:24 PM
+BAG:kientu remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 7:24 PM
+BAG:kientu remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 7:24 PM
+BAG:kientu remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 7:24 PM
+BAG:kientu remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 7:24 PM
+BAG:kientu remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 7:24 PM
+BAG:kientu remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 7:24 PM
+BAG:kientu remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 7:24 PM
+BAG:kientu remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 7:24 PM
+BAG:kientu remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 7:24 PM
+BAG:kientu remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 7:24 PM
+BAG:kientu remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 7:24 PM
+BAG:kientu remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 7:24 PM
+BAG:kientu remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 7:24 PM
+BAG:kientu remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 7:24 PM
+BAG:kientu remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 7:24 PM
+BAG:kientu remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 7:24 PM
+BAG:kientu remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 7:24 PM
+BAG:kientu remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 7:25 PM
+BAG:kientu remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 7:25 PM
+BAG:kientu remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 7:25 PM
+BAG:kientu remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 7:25 PM
+BAG:kientu remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 7:25 PM
+BAG:kientu remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 7:25 PM
+BAG:kientu remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 7:25 PM
+BAG:kientu remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 7:25 PM
+BAG:kientu remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 7:25 PM
+BAG:kientu remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 7:25 PM
+BAG:kientu remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 7:25 PM
+BAG:kientu remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 7:25 PM
+BAG:kientu remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 7:25 PM
+BAG:kientu remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 7:25 PM
+BAG:kientu remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 7:25 PM
+BAG:kientu remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 7:25 PM
+BAG:kientu remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 7:25 PM
+BAG:kientu remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 7:25 PM
+BAG:kientu remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 7:25 PM
+BAG:kientu remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 7:25 PM
+BAG:kientu remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 7:25 PM
+BAG:kientu remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 7:25 PM
+BAG:kientu remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 7:25 PM
+BAG:kientu remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 7:25 PM
+BAG:kientu remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 7:25 PM
+BAG:kientu remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 7:25 PM
+BAG:kientu remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 7:25 PM
+BAG:kientu remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 7:25 PM
+BAG:kientu remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 7:25 PM
+BAG:kientu remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 7:25 PM
+BAG:kientu remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 7:25 PM
+BAG:kientu remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 7:25 PM
+BAG:kientu remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 7:25 PM
+BAG:kientu remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 7:25 PM
+BAG:kientu remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 7:25 PM
+BAG:kientu remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 7:25 PM
+BAG:kientu remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 7:25 PM
+BAG:kientu remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 7:25 PM
+BAG:kientu remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 7:25 PM
+BAG:kientu remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 7:26 PM
+BAG:kientu remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 7:26 PM
+BAG:kientu remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 7:26 PM
+BAG:kientu remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 7:26 PM
+BAG:kientu remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 7:26 PM
+BAG:kientu remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 7:26 PM
+BAG:kientu remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 7:26 PM
+BAG:kientu remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 7:26 PM
+BAG:kientu remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 7:26 PM
+BAG:kientu remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 7:26 PM
+BAG:kientu remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 7:26 PM
+BAG:kientu remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 7:26 PM
+BAG:kientu remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 7:26 PM
+BAG:kientu remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 7:26 PM
+BAG:kientu remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 7:26 PM
+BAG:kientu remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 7:26 PM
+BAG:kientu remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 7:26 PM
+BAG:kientu remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 7:26 PM
+BAG:kientu remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 7:26 PM
+BAG:kientu remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 7:26 PM
+BAG:kientu remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 7:26 PM
+BAG:kientu remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 7:26 PM
+BAG:kientu remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 7:26 PM
+BAG:kientu remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 7:26 PM
+BAG:kientu remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 7:26 PM
+BAG:kientu remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 7:26 PM
+BAG:kientu remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 7:26 PM
+BAG:kientu remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 7:26 PM
+BAG:kientu remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 7:26 PM
+BAG:kientu remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 7:26 PM
+BAG:kientu remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 7:27 PM
+BAG:kientu remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 7:27 PM
+BAG:kientu remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 7:27 PM
+BAG:kientu remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 7:27 PM
+BAG:kientu remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 7:27 PM
+BAG:kientu remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 7:27 PM
+BAG:kientu remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 7:27 PM
+BAG:kientu remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 7:27 PM
+BAG:kientu remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 7:27 PM
+BAG:kientu remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 7:27 PM
+BAG:kientu remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 7:27 PM
+BAG:kientu remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 7:27 PM
+BAG:kientu remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 7:27 PM
+BAG:kientu remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 7:27 PM
+BAG:kientu remove Ẩn danh lydo: Tự Xóa vật phẩm at 03/12/2023 7:27 PM
+BAG:kientu remove Đá Saphia lydo: Tự Xóa vật phẩm at 03/12/2023 7:27 PM
+BAG:kientu remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 7:27 PM
+BAG:kientu remove Đá lục bảo lydo: Tự Xóa vật phẩm at 03/12/2023 7:27 PM
+BAG:kientu remove Đá Ruby lydo: Tự Xóa vật phẩm at 03/12/2023 7:27 PM
+BAG:kientu remove Đá Titan lydo: Tự Xóa vật phẩm at 03/12/2023 7:27 PM
+BAG:kientu remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 7:27 PM
+BAG:kientu remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 7:27 PM
+BAG:kientu remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 7:27 PM
+BAG:kientu remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 7:28 PM
+BAG:kientu remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 7:28 PM
+BAG:kientu remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 7:28 PM
+BAG:kientu remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 7:28 PM
+BAG:kientu remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 7:28 PM
+BAG:kientu remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 7:28 PM
+BAG:kientu remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 7:28 PM
+BAG:kientu remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 7:28 PM
+BAG:kientu remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 7:28 PM
+BAG:kientu remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 7:28 PM
+BAG:kientu remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 7:28 PM
+BAG:kientu remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 7:28 PM
+BAG:kientu remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 7:28 PM
+BAG:kientu remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 7:28 PM
+BAG:kientu remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 7:28 PM
+BAG:kientu remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 7:28 PM
+BAG:kientu remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 7:28 PM
+BAG:kientu remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 7:28 PM
+BAG:kientu remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 7:28 PM
+BAG:kientu remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 7:28 PM
+BAG:kientu remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 7:29 PM
+BAG:kientu remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 7:29 PM
+BAG:kientu remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 7:29 PM
+BAG:kientu remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 7:29 PM
+BAG:kientu remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 7:29 PM
+BAG:kientu remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 7:29 PM
+BAG:kientu remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 7:29 PM
+BAG:kientu remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 7:29 PM
+BAG:kientu remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 7:29 PM
+BAG:kientu remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 7:29 PM
+BAG:kientu remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 7:29 PM
+BAG:kientu remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 7:29 PM
+BAG:kientu remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 7:29 PM
+BAG:kientu remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 7:29 PM
+BAG:kientu remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 7:29 PM
+BAG:kientu remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 7:29 PM
+BAG:kientu remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 7:29 PM
+BAG:kientu remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 7:29 PM
+BAG:kientu remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 7:29 PM
+BAG:kientu remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 7:30 PM
+BAG:kientu remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 7:30 PM
+BAG:kientu remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 7:30 PM
+BAG:kientu remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 7:30 PM
+BAG:kientu remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 7:37 PM
+BAG:kientu remove Giáp tập luyện cấp 3 lydo: Mặc vào người at 03/12/2023 7:39 PM
+BAG:kientu remove 1xCuồng nộ lydo: Dùng buff at 03/12/2023 7:39 PM
+BAG:kientu remove 1xBổ huyết lydo: Dùng buff at 03/12/2023 7:39 PM
+BAG:kientu remove Giáp tập luyện cấp 3 lydo: Mặc vào người at 03/12/2023 7:41 PM
+BAG:kientu remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 7:44 PM
+BAG:kientu remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 7:44 PM
+BAG:kientu remove Ẩn danh lydo: Tự Xóa vật phẩm at 03/12/2023 7:44 PM
+BAG:kientu remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 7:44 PM
+BAG:kientu remove Đá lục bảo lydo: Tự Xóa vật phẩm at 03/12/2023 7:44 PM
+BAG:kientu remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 7:44 PM
+BAG:kientu remove Đá Ruby lydo: Tự Xóa vật phẩm at 03/12/2023 7:44 PM
+BAG:kientu remove Đá Titan lydo: Tự Xóa vật phẩm at 03/12/2023 7:44 PM
+BAG:kientu remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 7:44 PM
+BAG:kientu remove Sao pha lê lydo: Tự Xóa vật phẩm at 03/12/2023 7:44 PM
+BAG:kientu remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 7:44 PM
+BAG:kientu remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 7:44 PM
+BAG:kientu remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 7:44 PM
+BAG:kientu remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 7:44 PM
+BAG:kientu remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 7:45 PM
+BAG:kientu remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 7:45 PM
+BAG:kientu remove Ẩn danh lydo: Tự Xóa vật phẩm at 03/12/2023 7:45 PM
+BAG:kientu remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 7:45 PM
+BAG:kientu remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 7:45 PM
+BAG:kientu remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 7:45 PM
+BAG:kientu remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 7:45 PM
+BAG:kientu remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 7:45 PM
+BAG:kientu remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 7:45 PM
+BAG:kientu remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 7:45 PM
+BAG:kientu remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 7:45 PM
+BAG:kientu remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 7:45 PM
+BAG:kientu remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 7:45 PM
+BAG:kientu remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 7:45 PM
+BAG:kientu remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 7:45 PM
+BAG:kientu remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 7:45 PM
+BAG:kientu remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 7:45 PM
+BAG:kientu remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 7:45 PM
+BAG:kientu remove 1xViên Capsule kì bí lydo: CSKB at 03/12/2023 7:45 PM
+BAG:kientu remove Giáp tập luyện cấp 3 lydo: Mặc vào người at 03/12/2023 7:48 PM
+BAG:kientu remove 1xBổ huyết lydo: Dùng buff at 03/12/2023 7:51 PM
+BAG:kientu remove 1xCuồng nộ lydo: Dùng buff at 03/12/2023 7:51 PM
+BAG:kientu remove Giáp tập luyện cấp 3 lydo: Mặc vào người at 03/12/2023 7:52 PM

@@ -1,0 +1,74 @@
+BAG:taonehehe312 add 1xRada cấp 1 lydo: Lấy từ rương qua người at 03/11/2023 1:47 PM
+BAG:taonehehe312 add 10xĐậu thần cấp 10 lydo: Thu hoạch đậu at 03/11/2023 1:50 PM
+BAG:taonehehe312 add 23xĐậu thần cấp 10 (old: 10) lydo: Lấy từ rương qua người at 03/11/2023 1:50 PM
+BAG:taonehehe312 add 1xRada cấp 1 lydo: Nhặt từ map at 03/11/2023 1:56 PM
+BAG:taonehehe312 add 1xHoa hồng xanh lydo: Nhặt từ map at 03/11/2023 1:56 PM
+BAG:taonehehe312 add 2xHoa hồng xanh (old: 1) lydo: Nhặt từ map at 03/11/2023 1:57 PM
+BAG:taonehehe312 add 1xĐá Titan lydo: Nhặt từ map at 03/11/2023 1:58 PM
+BAG:taonehehe312 add 1xHoa hồng vàng lydo: Nhặt từ map at 03/11/2023 1:58 PM
+BAG:taonehehe312 add 1xHoa hồng đỏ lydo: Nhặt từ map at 03/11/2023 1:58 PM
+BAG:taonehehe312 add 2xHoa hồng vàng (old: 1) lydo: Nhặt từ map at 03/11/2023 1:58 PM
+BAG:taonehehe312 add 1xRada cấp 1 lydo: Nhặt từ map at 03/11/2023 1:59 PM
+BAG:taonehehe312 add 1xRada cấp 1 lydo: Nhặt từ map at 03/11/2023 2:00 PM
+BAG:taonehehe312 add 1xÁo vải thô lydo: Nhặt từ map at 03/11/2023 2:00 PM
+BAG:taonehehe312 add 1xĐá Saphia lydo: Nhặt từ map at 03/11/2023 2:01 PM
+BAG:taonehehe312 add 6xĐậu thần cấp 10 (old: 2) lydo: Thu hoạch đậu at 03/11/2023 2:12 PM
+BAG:taonehehe312 add 10xĐậu thần cấp 10 (old: 5) lydo: Thu hoạch đậu at 03/11/2023 2:16 PM
+BAG:taonehehe312 add 150xThỏi vàng lydo: Giftcode at 03/11/2023 2:16 PM
+BAG:taonehehe312 add 99xNgọc Rồng 3 sao lydo: Giftcode at 03/11/2023 2:16 PM
+BAG:taonehehe312 add 30xĐậu thần cấp 10 (old: 10) lydo: Lấy từ rương qua người at 03/11/2023 2:17 PM
+BAG:taonehehe312 add 48xĐậu thần cấp 10 (old: 30) lydo: Lấy từ rương qua người at 03/11/2023 2:17 PM
+BAG:taonehehe312 add 3xHoa hồng xanh (old: 2) lydo: Nhặt từ map at 03/11/2023 2:19 PM
+BAG:taonehehe312 add 1xMảnh Quỷ đất lydo: Nhặt từ map at 03/11/2023 2:19 PM
+BAG:taonehehe312 add 2xHoa hồng đỏ (old: 1) lydo: Nhặt từ map at 03/11/2023 2:19 PM
+BAG:taonehehe312 add 3xHoa hồng vàng (old: 2) lydo: Nhặt từ map at 03/11/2023 2:19 PM
+BAG:taonehehe312 add 1xMảnh Quỷ đất mẹ lydo: Nhặt từ map at 03/11/2023 2:19 PM
+BAG:taonehehe312 add 2xMảnh Quỷ đất (old: 1) lydo: Nhặt từ map at 03/11/2023 2:19 PM
+BAG:taonehehe312 add 1xQuần vải thô lydo: Nhặt từ map at 03/11/2023 2:20 PM
+BAG:taonehehe312 add 3xHoa hồng đỏ (old: 2) lydo: Nhặt từ map at 03/11/2023 2:20 PM
+BAG:taonehehe312 add 1xÁo vải thô lydo: Nhặt từ map at 03/11/2023 2:20 PM
+BAG:taonehehe312 add 1xĐá lục bảo lydo: Nhặt từ map at 03/11/2023 2:20 PM
+BAG:taonehehe312 add 4xHoa hồng đỏ (old: 3) lydo: Nhặt từ map at 03/11/2023 2:20 PM
+BAG:taonehehe312 add 5xHoa hồng đỏ (old: 4) lydo: Nhặt từ map at 03/11/2023 2:20 PM
+BAG:taonehehe312 add 1xÁo vải thô lydo: Nhặt từ map at 03/11/2023 2:20 PM
+BAG:taonehehe312 add 1xNgọc Rồng 5 sao lydo: Nhặt từ map at 03/11/2023 2:20 PM
+BAG:taonehehe312 add 4xHoa hồng xanh (old: 3) lydo: Nhặt từ map at 03/11/2023 2:20 PM
+BAG:taonehehe312 add 4xHoa hồng vàng (old: 3) lydo: Nhặt từ map at 03/11/2023 2:20 PM
+BAG:taonehehe312 add 1xÁo vải thô lydo: Nhặt từ map at 03/11/2023 2:20 PM
+BAG:taonehehe312 add 1xHoa hồng đỏ lydo: Nhặt từ map at 03/11/2023 2:20 PM
+BAG:taonehehe312 add 2xĐá lục bảo (old: 1) lydo: Nhặt từ map at 03/11/2023 2:20 PM
+BAG:taonehehe312 add 1xQuần vải thô lydo: Nhặt từ map at 03/11/2023 2:20 PM
+BAG:taonehehe312 add 1xHoa hồng vàng lydo: Nhặt từ map at 03/11/2023 2:20 PM
+BAG:taonehehe312 add 2xHoa hồng vàng (old: 1) lydo: Nhặt từ map at 03/11/2023 2:21 PM
+BAG:taonehehe312 add 3xHoa hồng vàng (old: 2) lydo: Nhặt từ map at 03/11/2023 2:21 PM
+BAG:taonehehe312 add 1xQuần vải thô lydo: Nhặt từ map at 03/11/2023 2:21 PM
+BAG:taonehehe312 add 4xHoa hồng vàng (old: 3) lydo: Nhặt từ map at 03/11/2023 2:21 PM
+BAG:taonehehe312 add 5xHoa hồng vàng (old: 4) lydo: Nhặt từ map at 03/11/2023 2:21 PM
+BAG:taonehehe312 add 1xRada cấp 1 lydo: Nhặt từ map at 03/11/2023 2:21 PM
+BAG:taonehehe312 add 1xGiầy vải thô lydo: Nhặt từ map at 03/11/2023 2:21 PM
+BAG:taonehehe312 add 1xHoa hồng xanh lydo: Nhặt từ map at 03/11/2023 2:21 PM
+BAG:taonehehe312 add 1xGăng vải thô lydo: Nhặt từ map at 03/11/2023 2:21 PM
+BAG:taonehehe312 add 1xĐá lục bảo lydo: Nhặt từ map at 03/11/2023 2:21 PM
+BAG:taonehehe312 add 1xViên Capsule đặc biệt lydo: Mua từ cửa hàng at 03/11/2023 2:22 PM
+BAG:taonehehe312 add 1xGăng bạc lydo: Mua từ cửa hàng at 03/11/2023 2:23 PM
+BAG:taonehehe312 add 1xGăng bạc lydo: Mua từ cửa hàng at 03/11/2023 2:23 PM
+BAG:taonehehe312 add 1xMảnh Khủng long mẹ lydo: Nhặt từ map at 03/11/2023 2:24 PM
+BAG:taonehehe312 add 1xHoa hồng xanh lydo: Nhặt từ map at 03/11/2023 2:24 PM
+BAG:taonehehe312 add 1xSách Antomic lv1 lydo: Mua từ cửa hàng at 03/11/2023 2:25 PM
+BAG:taonehehe312 add 1xSách Antomic lv2 lydo: Mua từ cửa hàng at 03/11/2023 2:25 PM
+BAG:taonehehe312 add 1xSách Antomic lv3 lydo: Mua từ cửa hàng at 03/11/2023 2:25 PM
+BAG:taonehehe312 add 1xSách Antomic lv4 lydo: Mua từ cửa hàng at 03/11/2023 2:26 PM
+BAG:taonehehe312 add 1xSách Antomic lv5 lydo: Mua từ cửa hàng at 03/11/2023 2:26 PM
+BAG:taonehehe312 add 1xSách Antomic lv6 lydo: Mua từ cửa hàng at 03/11/2023 2:26 PM
+BAG:taonehehe312 add 1xSách Antomic lv7 lydo: Mua từ cửa hàng at 03/11/2023 2:26 PM
+BAG:taonehehe312 add 1xSách đấm Galick lv2 lydo: Mua từ cửa hàng at 03/11/2023 2:26 PM
+BAG:taonehehe312 add 1xSách đấm Galick lv3 lydo: Mua từ cửa hàng at 03/11/2023 2:26 PM
+BAG:taonehehe312 add 1xSách đấm Galick lv4 lydo: Mua từ cửa hàng at 03/11/2023 2:26 PM
+BAG:taonehehe312 add 1xSách đấm Galick lv5 lydo: Mua từ cửa hàng at 03/11/2023 2:26 PM
+BAG:taonehehe312 add 1xSách đấm Galick lv6 lydo: Mua từ cửa hàng at 03/11/2023 2:26 PM
+BAG:taonehehe312 add 1xSách đấm Galick lv7 lydo: Mua từ cửa hàng at 03/11/2023 2:26 PM
+BAG:taonehehe312 add 1xPháo Thăng Thiên lydo: Mua từ cửa hàng at 03/11/2023 2:26 PM
+BAG:taonehehe312 add 1xĐổi đệ tử lydo: Mua từ cửa hàng at 03/11/2023 2:29 PM
+BAG:taonehehe312 add 1xRada cấp 1 lydo: Lấy từ body đệ vào hành trang at 03/11/2023 2:29 PM
+BAG:taonehehe312 add 1xCải trang lydo: Mua từ cửa hàng at 03/11/2023 2:30 PM
+BAG:taonehehe312 add 1xĐổi đệ tử lydo: Mua từ cửa hàng at 03/11/2023 2:36 PM

@@ -1,0 +1,385 @@
+BAG:tenko1 remove Hoa hồng xanh lydo: Cất vào rương at 03/11/2023 10:03 AM
+BAG:tenko1 remove Hoa hồng vàng lydo: Cất vào rương at 03/11/2023 10:03 AM
+BAG:tenko1 remove Hoa hồng đỏ lydo: Cất vào rương at 03/11/2023 10:03 AM
+BAG:tenko1 remove 1xĐậu thần cấp 8 lydo: Ăn đậu at 03/11/2023 10:03 AM
+BAG:tenko1 remove 10xHoa hồng đỏ lydo: Đổi hoa at 03/11/2023 10:05 AM
+BAG:tenko1 remove 10xHoa hồng xanh lydo: Đổi hoa at 03/11/2023 10:05 AM
+BAG:tenko1 remove Đá lục bảo lydo: Cất vào rương at 03/11/2023 10:05 AM
+BAG:tenko1 remove Đá Ruby lydo: Cất vào rương at 03/11/2023 10:05 AM
+BAG:tenko1 remove Bó hoa hồng xanh lydo: Cất vào rương at 03/11/2023 10:05 AM
+BAG:tenko1 remove Bó hoa hồng đỏ lydo: Cất vào rương at 03/11/2023 10:05 AM
+BAG:tenko1 remove Hoa hồng xanh lydo: Cất vào rương at 03/11/2023 10:05 AM
+BAG:tenko1 remove Hoa hồng vàng lydo: Cất vào rương at 03/11/2023 10:05 AM
+BAG:tenko1 remove Hoa hồng đỏ lydo: Cất vào rương at 03/11/2023 10:05 AM
+BAG:tenko1 remove Ngọc Rồng 5 sao lydo: Cất vào rương at 03/11/2023 10:06 AM
+BAG:tenko1 remove 1xĐậu thần cấp 8 lydo: Ăn đậu at 03/11/2023 10:07 AM
+BAG:tenko1 remove 1xĐậu thần cấp 8 lydo: Ăn đậu at 03/11/2023 10:10 AM
+BAG:tenko1 remove Giầy vải thô lydo: Tự Xóa vật phẩm at 03/11/2023 10:13 AM
+BAG:tenko1 remove 1xĐậu thần cấp 8 lydo: Ăn đậu at 03/11/2023 10:17 AM
+BAG:tenko1 remove 1xĐậu thần cấp 7 lydo: Ăn đậu at 03/11/2023 10:20 AM
+BAG:tenko1 remove 1xĐậu thần cấp 8 lydo: Ăn đậu at 03/11/2023 10:23 AM
+BAG:tenko1 remove 1xĐậu thần cấp 7 lydo: Ăn đậu at 03/11/2023 10:39 AM
+BAG:tenko1 remove 1xĐậu thần cấp 8 lydo: Ăn đậu at 03/11/2023 10:42 AM
+BAG:tenko1 remove Rada cấp 7 lydo: Tự Xóa vật phẩm at 03/11/2023 10:44 AM
+BAG:tenko1 remove Giày lông Xayda lydo: Tự Xóa vật phẩm at 03/11/2023 10:44 AM
+BAG:tenko1 remove Găng bạc lydo: Tự Xóa vật phẩm at 03/11/2023 10:44 AM
+BAG:tenko1 remove Quần lông Xayda lydo: Tự Xóa vật phẩm at 03/11/2023 10:44 AM
+BAG:tenko1 remove Áo lông Xayda lydo: Tự Xóa vật phẩm at 03/11/2023 10:44 AM
+BAG:tenko1 remove 1xĐậu thần cấp 7 lydo: Ăn đậu at 03/11/2023 10:45 AM
+BAG:tenko1 remove 1xĐậu thần cấp 8 lydo: Ăn đậu at 03/11/2023 11:33 AM
+BAG:tenko1 remove 1xĐậu thần cấp 7 lydo: Ăn đậu at 03/11/2023 11:34 AM
+BAG:tenko1 remove 1xĐậu thần cấp 8 lydo: Ăn đậu at 03/11/2023 11:40 AM
+BAG:tenko1 remove 1xĐậu thần cấp 7 lydo: Ăn đậu at 03/11/2023 11:41 AM
+BAG:tenko1 remove 1xĐậu thần cấp 8 lydo: Ăn đậu at 03/11/2023 11:52 AM
+BAG:tenko1 remove 1xĐậu thần cấp 7 lydo: Ăn đậu at 03/11/2023 12:37 PM
+BAG:tenko1 remove 1xĐậu thần cấp 8 lydo: Ăn đậu at 03/11/2023 12:38 PM
+BAG:tenko1 remove 1xĐậu thần cấp 7 lydo: Ăn đậu at 03/11/2023 12:38 PM
+BAG:tenko1 remove Giáp tập luyện cấp 3 lydo: Mặc vào người at 03/11/2023 12:43 PM
+BAG:tenko1 remove 1xĐậu thần cấp 8 lydo: Ăn đậu at 03/11/2023 12:44 PM
+BAG:tenko1 remove 1xĐậu thần cấp 7 lydo: Ăn đậu at 03/11/2023 12:47 PM
+BAG:tenko1 remove Giáp tập luyện cấp 3 lydo: Mặc vào người at 03/11/2023 12:48 PM
+BAG:tenko1 remove 1xĐậu thần cấp 8 lydo: Ăn đậu at 03/11/2023 12:52 PM
+BAG:tenko1 remove 1xĐậu thần cấp 7 lydo: Ăn đậu at 03/11/2023 12:53 PM
+BAG:tenko1 remove 1xĐậu thần cấp 8 lydo: Ăn đậu at 03/11/2023 12:53 PM
+BAG:tenko1 remove 1xĐậu thần cấp 7 lydo: Ăn đậu at 03/11/2023 12:54 PM
+BAG:tenko1 remove 1xĐậu thần cấp 8 lydo: Ăn đậu at 03/11/2023 12:54 PM
+BAG:tenko1 remove 1xĐậu thần cấp 7 lydo: Ăn đậu at 03/11/2023 12:58 PM
+BAG:tenko1 remove 1xĐậu thần cấp 8 lydo: Ăn đậu at 03/11/2023 1:04 PM
+BAG:tenko1 remove Đá Titan lydo: Cất vào rương at 03/11/2023 1:11 PM
+BAG:tenko1 remove Đá lục bảo lydo: Cất vào rương at 03/11/2023 1:11 PM
+BAG:tenko1 remove Đá Saphia lydo: Cất vào rương at 03/11/2023 1:11 PM
+BAG:tenko1 remove Đá Ruby lydo: Cất vào rương at 03/11/2023 1:11 PM
+BAG:tenko1 remove Đá thạch anh tím lydo: Cất vào rương at 03/11/2023 1:11 PM
+BAG:tenko1 remove Ngọc Rồng 5 sao lydo: Cất vào rương at 03/11/2023 1:11 PM
+BAG:tenko1 remove Ngọc Rồng 6 sao lydo: Cất vào rương at 03/11/2023 1:11 PM
+BAG:tenko1 remove Hoa hồng đỏ lydo: Cất vào rương at 03/11/2023 1:11 PM
+BAG:tenko1 remove Hoa hồng vàng lydo: Cất vào rương at 03/11/2023 1:12 PM
+BAG:tenko1 remove Hoa hồng xanh lydo: Cất vào rương at 03/11/2023 1:12 PM
+BAG:tenko1 remove Rada cấp 1 lydo: Tự Xóa vật phẩm at 03/11/2023 1:12 PM
+BAG:tenko1 remove Khiên năng lượng lv1 lydo: Sách kĩ năng at 03/11/2023 1:13 PM
+BAG:tenko1 remove Khiên năng lượng lv2 lydo: Sách kĩ năng at 03/11/2023 1:13 PM
+BAG:tenko1 remove Khiên năng lượng lv3 lydo: Sách kĩ năng at 03/11/2023 1:13 PM
+BAG:tenko1 remove Khiên năng lượng lv4 lydo: Sách kĩ năng at 03/11/2023 1:13 PM
+BAG:tenko1 remove Khiên năng lượng lv5 lydo: Sách kĩ năng at 03/11/2023 1:13 PM
+BAG:tenko1 remove Khiên năng lượng lv6 lydo: Sách kĩ năng at 03/11/2023 1:13 PM
+BAG:tenko1 remove Khiên năng lượng lv7 lydo: Sách kĩ năng at 03/11/2023 1:13 PM
+BAG:tenko1 remove 1xThỏi vàng lydo: Bán cho shop at 03/11/2023 1:15 PM
+BAG:tenko1 remove 1xGiáp tập luyện cấp 1 lydo: Bán cho shop at 03/11/2023 1:15 PM
+BAG:tenko1 remove 1xGiáp tập luyện cấp 1 lydo: Bán cho shop at 03/11/2023 1:15 PM
+BAG:tenko1 remove Giáp tập luyện cấp 1 lydo: Tự Xóa vật phẩm at 03/11/2023 1:15 PM
+BAG:tenko1 remove Giáp tập luyện cấp 1 lydo: Tự Xóa vật phẩm at 03/11/2023 1:15 PM
+BAG:tenko1 remove 1xĐậu thần cấp 7 lydo: Ăn đậu at 03/11/2023 1:17 PM
+BAG:tenko1 remove 1xĐậu thần cấp 8 lydo: Ăn đậu at 03/11/2023 1:19 PM
+BAG:tenko1 remove 1xĐậu thần cấp 7 lydo: Ăn đậu at 03/11/2023 1:39 PM
+BAG:tenko1 remove 1xĐậu thần cấp 8 lydo: Ăn đậu at 03/11/2023 1:40 PM
+BAG:tenko1 remove 1xĐậu thần cấp 7 lydo: Ăn đậu at 03/11/2023 1:48 PM
+BAG:tenko1 remove 1xĐậu thần cấp 8 lydo: Ăn đậu at 03/11/2023 1:51 PM
+BAG:tenko1 remove 1xĐậu thần cấp 7 lydo: Ăn đậu at 03/11/2023 1:53 PM
+BAG:tenko1 remove 1xĐậu thần cấp 8 lydo: Ăn đậu at 03/11/2023 1:55 PM
+BAG:tenko1 remove 1xĐậu thần cấp 7 lydo: Ăn đậu at 03/11/2023 1:58 PM
+BAG:tenko1 remove 1xĐậu thần cấp 8 lydo: Ăn đậu at 03/11/2023 1:58 PM
+BAG:tenko1 remove Hoa hồng xanh lydo: Tự Xóa vật phẩm at 03/11/2023 1:59 PM
+BAG:tenko1 remove Hoa hồng đỏ lydo: Tự Xóa vật phẩm at 03/11/2023 1:59 PM
+BAG:tenko1 remove Hoa hồng vàng lydo: Tự Xóa vật phẩm at 03/11/2023 1:59 PM
+BAG:tenko1 remove Đá Titan lydo: Cất vào rương at 03/11/2023 2:00 PM
+BAG:tenko1 remove Đá Ruby lydo: Cất vào rương at 03/11/2023 2:00 PM
+BAG:tenko1 remove Đá Saphia lydo: Cất vào rương at 03/11/2023 2:00 PM
+BAG:tenko1 remove Đá lục bảo lydo: Cất vào rương at 03/11/2023 2:00 PM
+BAG:tenko1 remove Đá thạch anh tím lydo: Cất vào rương at 03/11/2023 2:00 PM
+BAG:tenko1 remove Ngọc Rồng 6 sao lydo: Cất vào rương at 03/11/2023 2:00 PM
+BAG:tenko1 remove 1xĐậu thần cấp 7 lydo: Ăn đậu at 03/11/2023 2:01 PM
+BAG:tenko1 remove 1xĐậu thần cấp 8 lydo: Ăn đậu at 03/11/2023 2:01 PM
+BAG:tenko1 remove 1xĐậu thần cấp 7 lydo: Ăn đậu at 03/11/2023 2:01 PM
+BAG:tenko1 remove 1xĐậu thần cấp 8 lydo: Ăn đậu at 03/11/2023 2:05 PM
+BAG:tenko1 remove 1xĐậu thần cấp 7 lydo: Ăn đậu at 03/11/2023 2:05 PM
+BAG:tenko1 remove 1xĐậu thần cấp 8 lydo: Ăn đậu at 03/11/2023 2:07 PM
+BAG:tenko1 remove Hoa hồng đỏ lydo: Tự Xóa vật phẩm at 03/11/2023 2:07 PM
+BAG:tenko1 remove Hoa hồng vàng lydo: Tự Xóa vật phẩm at 03/11/2023 2:07 PM
+BAG:tenko1 remove Hoa hồng xanh lydo: Tự Xóa vật phẩm at 03/11/2023 2:07 PM
+BAG:tenko1 remove Giáp tập luyện cấp 3 lydo: Mặc vào người at 03/11/2023 2:07 PM
+BAG:tenko1 remove 1xĐậu thần cấp 7 lydo: Ăn đậu at 03/11/2023 2:08 PM
+BAG:tenko1 remove 1xĐậu thần cấp 8 lydo: Ăn đậu at 03/11/2023 2:09 PM
+BAG:tenko1 remove 1xĐậu thần cấp 7 lydo: Ăn đậu at 03/11/2023 2:09 PM
+BAG:tenko1 remove 1xĐậu thần cấp 8 lydo: Ăn đậu at 03/11/2023 2:09 PM
+BAG:tenko1 remove 1xĐậu thần cấp 7 lydo: Ăn đậu at 03/11/2023 2:11 PM
+BAG:tenko1 remove 1xĐậu thần cấp 8 lydo: Ăn đậu at 03/11/2023 2:12 PM
+BAG:tenko1 remove 1xĐậu thần cấp 7 lydo: Ăn đậu at 03/11/2023 2:12 PM
+BAG:tenko1 remove 1xĐậu thần cấp 8 lydo: Ăn đậu at 03/11/2023 2:13 PM
+BAG:tenko1 remove 1xĐậu thần cấp 7 lydo: Ăn đậu at 03/11/2023 2:14 PM
+BAG:tenko1 remove 1xĐậu thần cấp 8 lydo: Ăn đậu at 03/11/2023 2:14 PM
+BAG:tenko1 remove 1xĐậu thần cấp 7 lydo: Ăn đậu at 03/11/2023 2:15 PM
+BAG:tenko1 remove 1xĐậu thần cấp 8 lydo: Ăn đậu at 03/11/2023 2:16 PM
+BAG:tenko1 remove 1xĐậu thần cấp 7 lydo: Ăn đậu at 03/11/2023 2:16 PM
+BAG:tenko1 remove 1xĐậu thần cấp 8 lydo: Ăn đậu at 03/11/2023 2:18 PM
+BAG:tenko1 remove 1xĐậu thần cấp 7 lydo: Ăn đậu at 03/11/2023 2:19 PM
+BAG:tenko1 remove 1xĐậu thần cấp 8 lydo: Ăn đậu at 03/11/2023 2:19 PM
+BAG:tenko1 remove 1xĐậu thần cấp 7 lydo: Ăn đậu at 03/11/2023 2:20 PM
+BAG:tenko1 remove 1xĐậu thần cấp 8 lydo: Ăn đậu at 03/11/2023 2:21 PM
+BAG:tenko1 remove 1xĐậu thần cấp 7 lydo: Ăn đậu at 03/11/2023 2:21 PM
+BAG:tenko1 remove 1xĐậu thần cấp 8 lydo: Ăn đậu at 03/11/2023 2:22 PM
+BAG:tenko1 remove 1xĐậu thần cấp 7 lydo: Ăn đậu at 03/11/2023 2:42 PM
+BAG:tenko1 remove 1xĐậu thần cấp 8 lydo: Ăn đậu at 03/11/2023 2:48 PM
+BAG:tenko1 remove 1xĐậu thần cấp 7 lydo: Ăn đậu at 03/11/2023 2:51 PM
+BAG:tenko1 remove 1xĐậu thần cấp 8 lydo: Ăn đậu at 03/11/2023 2:51 PM
+BAG:tenko1 remove 1xĐậu thần cấp 7 lydo: Ăn đậu at 03/11/2023 2:53 PM
+BAG:tenko1 remove 1xĐậu thần cấp 8 lydo: Ăn đậu at 03/11/2023 2:53 PM
+BAG:tenko1 remove 1xĐậu thần cấp 7 lydo: Ăn đậu at 03/11/2023 2:53 PM
+BAG:tenko1 remove 1xĐậu thần cấp 8 lydo: Ăn đậu at 03/11/2023 2:54 PM
+BAG:tenko1 remove 1xĐậu thần cấp 7 lydo: Ăn đậu at 03/11/2023 2:54 PM
+BAG:tenko1 remove 1xĐậu thần cấp 8 lydo: Ăn đậu at 03/11/2023 2:56 PM
+BAG:tenko1 remove 1xĐậu thần cấp 7 lydo: Ăn đậu at 03/11/2023 2:56 PM
+BAG:tenko1 remove 1xĐậu thần cấp 8 lydo: Ăn đậu at 03/11/2023 2:59 PM
+BAG:tenko1 remove 1xĐậu thần cấp 7 lydo: Ăn đậu at 03/11/2023 3:03 PM
+BAG:tenko1 remove 1xĐậu thần cấp 8 lydo: Ăn đậu at 03/11/2023 3:08 PM
+BAG:tenko1 remove 1xĐậu thần cấp 7 lydo: Ăn đậu at 03/11/2023 3:13 PM
+BAG:tenko1 remove 1xĐậu thần cấp 8 lydo: Ăn đậu at 03/11/2023 3:18 PM
+BAG:tenko1 remove 1xĐậu thần cấp 7 lydo: Ăn đậu at 03/11/2023 3:19 PM
+BAG:tenko1 remove 1xĐậu thần cấp 8 lydo: Ăn đậu at 03/11/2023 3:22 PM
+BAG:tenko1 remove 1xĐậu thần cấp 7 lydo: Ăn đậu at 03/11/2023 3:24 PM
+BAG:tenko1 remove 1xĐậu thần cấp 8 lydo: Ăn đậu at 03/11/2023 3:25 PM
+BAG:tenko1 remove 1xĐậu thần cấp 7 lydo: Ăn đậu at 03/11/2023 3:25 PM
+BAG:tenko1 remove 1xĐậu thần cấp 8 lydo: Ăn đậu at 03/11/2023 3:26 PM
+BAG:tenko1 remove 1xĐậu thần cấp 7 lydo: Ăn đậu at 03/11/2023 3:26 PM
+BAG:tenko1 remove 1xĐậu thần cấp 8 lydo: Ăn đậu at 03/11/2023 3:28 PM
+BAG:tenko1 remove 40xHoa hồng đỏ lydo: Bán cho shop at 03/11/2023 3:28 PM
+BAG:tenko1 remove 30xHoa hồng xanh lydo: Bán cho shop at 03/11/2023 3:28 PM
+BAG:tenko1 remove 51xHoa hồng vàng lydo: Bán cho shop at 03/11/2023 3:28 PM
+BAG:tenko1 remove 1xÁo lông đỏ lydo: Bán cho shop at 03/11/2023 3:30 PM
+BAG:tenko1 remove 1xQuần lông đỏ lydo: Bán cho shop at 03/11/2023 3:30 PM
+BAG:tenko1 remove 1xGiày lông đỏ lydo: Bán cho shop at 03/11/2023 3:31 PM
+BAG:tenko1 remove 1xGăng da Xayda lydo: Bán cho shop at 03/11/2023 3:31 PM
+BAG:tenko1 remove 1xRada cấp 8 lydo: Bán cho shop at 03/11/2023 3:32 PM
+BAG:tenko1 remove 1xĐậu thần cấp 7 lydo: Ăn đậu at 03/11/2023 3:32 PM
+BAG:tenko1 remove 1xĐậu thần cấp 8 lydo: Ăn đậu at 03/11/2023 3:35 PM
+BAG:tenko1 remove 1xĐậu thần cấp 7 lydo: Ăn đậu at 03/11/2023 3:36 PM
+BAG:tenko1 remove 1xĐậu thần cấp 8 lydo: Ăn đậu at 03/11/2023 3:38 PM
+BAG:tenko1 remove 1xĐậu thần cấp 7 lydo: Ăn đậu at 03/11/2023 3:41 PM
+BAG:tenko1 remove 1xĐậu thần cấp 8 lydo: Ăn đậu at 03/11/2023 3:47 PM
+BAG:tenko1 remove Hoa hồng xanh lydo: Tự Xóa vật phẩm at 03/11/2023 3:49 PM
+BAG:tenko1 remove Hoa hồng đỏ lydo: Tự Xóa vật phẩm at 03/11/2023 3:49 PM
+BAG:tenko1 remove 1xĐậu thần cấp 7 lydo: Ăn đậu at 03/11/2023 3:49 PM
+BAG:tenko1 remove 1xĐậu thần cấp 8 lydo: Ăn đậu at 03/11/2023 3:51 PM
+BAG:tenko1 remove 1xĐậu thần cấp 7 lydo: Ăn đậu at 03/11/2023 3:51 PM
+BAG:tenko1 remove 1xĐậu thần cấp 8 lydo: Ăn đậu at 03/11/2023 3:52 PM
+BAG:tenko1 remove 1xĐậu thần cấp 7 lydo: Ăn đậu at 03/11/2023 3:52 PM
+BAG:tenko1 remove 1xĐậu thần cấp 8 lydo: Ăn đậu at 03/11/2023 3:52 PM
+BAG:tenko1 remove Hoa hồng đỏ lydo: Tự Xóa vật phẩm at 03/11/2023 3:53 PM
+BAG:tenko1 remove Hoa hồng vàng lydo: Tự Xóa vật phẩm at 03/11/2023 3:53 PM
+BAG:tenko1 remove 1xĐậu thần cấp 7 lydo: Ăn đậu at 03/11/2023 3:53 PM
+BAG:tenko1 remove 1xĐậu thần cấp 8 lydo: Ăn đậu at 03/11/2023 3:53 PM
+BAG:tenko1 remove Hoa hồng vàng lydo: Tự Xóa vật phẩm at 03/11/2023 3:53 PM
+BAG:tenko1 remove 1xĐậu thần cấp 7 lydo: Ăn đậu at 03/11/2023 3:54 PM
+BAG:tenko1 remove Hoa hồng xanh lydo: Tự Xóa vật phẩm at 03/11/2023 3:54 PM
+BAG:tenko1 remove 1xĐậu thần cấp 8 lydo: Ăn đậu at 03/11/2023 3:54 PM
+BAG:tenko1 remove 1xĐậu thần cấp 7 lydo: Ăn đậu at 03/11/2023 3:54 PM
+BAG:tenko1 remove 1xĐậu thần cấp 8 lydo: Ăn đậu at 03/11/2023 3:55 PM
+BAG:tenko1 remove 1xĐậu thần cấp 7 lydo: Ăn đậu at 03/11/2023 3:55 PM
+BAG:tenko1 remove 1xĐậu thần cấp 8 lydo: Ăn đậu at 03/11/2023 3:56 PM
+BAG:tenko1 remove Hoa hồng vàng lydo: Tự Xóa vật phẩm at 03/11/2023 3:56 PM
+BAG:tenko1 remove 1xĐậu thần cấp 7 lydo: Ăn đậu at 03/11/2023 3:56 PM
+BAG:tenko1 remove Hoa hồng đỏ lydo: Tự Xóa vật phẩm at 03/11/2023 3:56 PM
+BAG:tenko1 remove 1xĐậu thần cấp 8 lydo: Ăn đậu at 03/11/2023 3:57 PM
+BAG:tenko1 remove 1xĐậu thần cấp 8 lydo: Ăn đậu at 03/11/2023 3:57 PM
+BAG:tenko1 remove Hoa hồng xanh lydo: Tự Xóa vật phẩm at 03/11/2023 3:57 PM
+BAG:tenko1 remove 1xĐậu thần cấp 8 lydo: Ăn đậu at 03/11/2023 3:57 PM
+BAG:tenko1 remove 1xĐậu thần cấp 8 lydo: Ăn đậu at 03/11/2023 3:58 PM
+BAG:tenko1 remove 1xĐậu thần cấp 8 lydo: Ăn đậu at 03/11/2023 3:58 PM
+BAG:tenko1 remove 1xĐậu thần cấp 8 lydo: Ăn đậu at 03/11/2023 3:59 PM
+BAG:tenko1 remove 1xĐậu thần cấp 8 lydo: Ăn đậu at 03/11/2023 3:59 PM
+BAG:tenko1 remove 1xĐậu thần cấp 8 lydo: Ăn đậu at 03/11/2023 3:59 PM
+BAG:tenko1 remove Hoa hồng đỏ lydo: Tự Xóa vật phẩm at 03/11/2023 4:00 PM
+BAG:tenko1 remove Hoa hồng vàng lydo: Tự Xóa vật phẩm at 03/11/2023 4:00 PM
+BAG:tenko1 remove 1xĐậu thần cấp 8 lydo: Ăn đậu at 03/11/2023 4:00 PM
+BAG:tenko1 remove 1xĐậu thần cấp 8 lydo: Ăn đậu at 03/11/2023 4:00 PM
+BAG:tenko1 remove 1xĐậu thần cấp 8 lydo: Ăn đậu at 03/11/2023 4:01 PM
+BAG:tenko1 remove 1xĐậu thần cấp 8 lydo: Ăn đậu at 03/11/2023 4:01 PM
+BAG:tenko1 remove 1xĐậu thần cấp 8 lydo: Ăn đậu at 03/11/2023 4:02 PM
+BAG:tenko1 remove 1xĐậu thần cấp 8 lydo: Ăn đậu at 03/11/2023 4:02 PM
+BAG:tenko1 remove 1xĐậu thần cấp 8 lydo: Ăn đậu at 03/11/2023 4:02 PM
+BAG:tenko1 remove 1xĐậu thần cấp 8 lydo: Ăn đậu at 03/11/2023 4:03 PM
+BAG:tenko1 remove 1xĐậu thần cấp 8 lydo: Ăn đậu at 03/11/2023 4:03 PM
+BAG:tenko1 remove 1xĐậu thần cấp 8 lydo: Ăn đậu at 03/11/2023 4:04 PM
+BAG:tenko1 remove 1xĐậu thần cấp 8 lydo: Ăn đậu at 03/11/2023 4:04 PM
+BAG:tenko1 remove 1xĐậu thần cấp 8 lydo: Ăn đậu at 03/11/2023 4:05 PM
+BAG:tenko1 remove 1xĐậu thần cấp 8 lydo: Ăn đậu at 03/11/2023 4:05 PM
+BAG:tenko1 remove 1xĐậu thần cấp 8 lydo: Ăn đậu at 03/11/2023 4:05 PM
+BAG:tenko1 remove 1xĐậu thần cấp 8 lydo: Ăn đậu at 03/11/2023 4:06 PM
+BAG:tenko1 remove 1xĐậu thần cấp 8 lydo: Ăn đậu at 03/11/2023 4:06 PM
+BAG:tenko1 remove 1xĐậu thần cấp 8 lydo: Ăn đậu at 03/11/2023 4:07 PM
+BAG:tenko1 remove 1xĐậu thần cấp 8 lydo: Ăn đậu at 03/11/2023 4:07 PM
+BAG:tenko1 remove 1xĐậu thần cấp 8 lydo: Ăn đậu at 03/11/2023 4:08 PM
+BAG:tenko1 remove 1xĐậu thần cấp 8 lydo: Ăn đậu at 03/11/2023 4:08 PM
+BAG:tenko1 remove 1xĐậu thần cấp 8 lydo: Ăn đậu at 03/11/2023 4:08 PM
+BAG:tenko1 remove 1xĐậu thần cấp 8 lydo: Ăn đậu at 03/11/2023 4:09 PM
+BAG:tenko1 remove 1xĐậu thần cấp 8 lydo: Ăn đậu at 03/11/2023 4:09 PM
+BAG:tenko1 remove 1xĐậu thần cấp 8 lydo: Ăn đậu at 03/11/2023 4:10 PM
+BAG:tenko1 remove 1xĐậu thần cấp 8 lydo: Ăn đậu at 03/11/2023 4:10 PM
+BAG:tenko1 remove 1xĐậu thần cấp 8 lydo: Ăn đậu at 03/11/2023 4:11 PM
+BAG:tenko1 remove 1xĐậu thần cấp 8 lydo: Ăn đậu at 03/11/2023 4:11 PM
+BAG:tenko1 remove 1xĐậu thần cấp 8 lydo: Ăn đậu at 03/11/2023 4:12 PM
+BAG:tenko1 remove 1xĐậu thần cấp 8 lydo: Ăn đậu at 03/11/2023 4:12 PM
+BAG:tenko1 remove 1xĐậu thần cấp 8 lydo: Ăn đậu at 03/11/2023 4:12 PM
+BAG:tenko1 remove 1xĐậu thần cấp 8 lydo: Ăn đậu at 03/11/2023 4:13 PM
+BAG:tenko1 remove 1xĐậu thần cấp 8 lydo: Ăn đậu at 03/11/2023 4:13 PM
+BAG:tenko1 remove 1xĐậu thần cấp 8 lydo: Ăn đậu at 03/11/2023 4:14 PM
+BAG:tenko1 remove 1xĐậu thần cấp 8 lydo: Ăn đậu at 03/11/2023 4:14 PM
+BAG:tenko1 remove 1xĐậu thần cấp 8 lydo: Ăn đậu at 03/11/2023 4:15 PM
+BAG:tenko1 remove 1xĐậu thần cấp 8 lydo: Ăn đậu at 03/11/2023 4:15 PM
+BAG:tenko1 remove 1xĐậu thần cấp 8 lydo: Ăn đậu at 03/11/2023 4:16 PM
+BAG:tenko1 remove 1xĐậu thần cấp 8 lydo: Ăn đậu at 03/11/2023 4:16 PM
+BAG:tenko1 remove 1xĐậu thần cấp 8 lydo: Ăn đậu at 03/11/2023 4:17 PM
+BAG:tenko1 remove 1xĐậu thần cấp 8 lydo: Ăn đậu at 03/11/2023 4:17 PM
+BAG:tenko1 remove 1xĐậu thần cấp 8 lydo: Ăn đậu at 03/11/2023 4:17 PM
+BAG:tenko1 remove 1xĐậu thần cấp 8 lydo: Ăn đậu at 03/11/2023 4:18 PM
+BAG:tenko1 remove 1xĐậu thần cấp 8 lydo: Ăn đậu at 03/11/2023 4:18 PM
+BAG:tenko1 remove 1xĐậu thần cấp 8 lydo: Ăn đậu at 03/11/2023 4:19 PM
+BAG:tenko1 remove 1xĐậu thần cấp 8 lydo: Ăn đậu at 03/11/2023 4:19 PM
+BAG:tenko1 remove 1xĐậu thần cấp 8 lydo: Ăn đậu at 03/11/2023 4:20 PM
+BAG:tenko1 remove 1xĐậu thần cấp 8 lydo: Ăn đậu at 03/11/2023 4:20 PM
+BAG:tenko1 remove 1xĐậu thần cấp 8 lydo: Ăn đậu at 03/11/2023 4:21 PM
+BAG:tenko1 remove 1xĐậu thần cấp 8 lydo: Ăn đậu at 03/11/2023 4:21 PM
+BAG:tenko1 remove 1xĐậu thần cấp 8 lydo: Ăn đậu at 03/11/2023 4:22 PM
+BAG:tenko1 remove 1xĐậu thần cấp 8 lydo: Ăn đậu at 03/11/2023 4:22 PM
+BAG:tenko1 remove 1xĐậu thần cấp 8 lydo: Ăn đậu at 03/11/2023 4:22 PM
+BAG:tenko1 remove 1xĐậu thần cấp 8 lydo: Ăn đậu at 03/11/2023 4:23 PM
+BAG:tenko1 remove 1xĐậu thần cấp 8 lydo: Ăn đậu at 03/11/2023 4:23 PM
+BAG:tenko1 remove 1xĐậu thần cấp 8 lydo: Ăn đậu at 03/11/2023 4:24 PM
+BAG:tenko1 remove 1xĐậu thần cấp 8 lydo: Ăn đậu at 03/11/2023 4:24 PM
+BAG:tenko1 remove 1xĐậu thần cấp 8 lydo: Ăn đậu at 03/11/2023 4:25 PM
+BAG:tenko1 remove 1xĐậu thần cấp 8 lydo: Ăn đậu at 03/11/2023 4:25 PM
+BAG:tenko1 remove 1xĐậu thần cấp 8 lydo: Ăn đậu at 03/11/2023 4:26 PM
+BAG:tenko1 remove 1xĐậu thần cấp 8 lydo: Ăn đậu at 03/11/2023 4:26 PM
+BAG:tenko1 remove 1xĐậu thần cấp 8 lydo: Ăn đậu at 03/11/2023 4:27 PM
+BAG:tenko1 remove 1xĐậu thần cấp 8 lydo: Ăn đậu at 03/11/2023 4:27 PM
+BAG:tenko1 remove 1xĐậu thần cấp 8 lydo: Ăn đậu at 03/11/2023 4:27 PM
+BAG:tenko1 remove 1xĐậu thần cấp 8 lydo: Ăn đậu at 03/11/2023 4:28 PM
+BAG:tenko1 remove 1xĐậu thần cấp 8 lydo: Ăn đậu at 03/11/2023 4:28 PM
+BAG:tenko1 remove 1xĐậu thần cấp 8 lydo: Ăn đậu at 03/11/2023 4:29 PM
+BAG:tenko1 remove 7xHoa hồng xanh lydo: Bán cho shop at 03/11/2023 4:29 PM
+BAG:tenko1 remove 5xHoa hồng vàng lydo: Bán cho shop at 03/11/2023 4:29 PM
+BAG:tenko1 remove 1xĐậu thần cấp 8 lydo: Ăn đậu at 03/11/2023 4:29 PM
+BAG:tenko1 remove 1xĐậu thần cấp 8 lydo: Ăn đậu at 03/11/2023 4:30 PM
+BAG:tenko1 remove Găng lông đỏ lydo: Mặc cho đệ tử at 03/11/2023 4:30 PM
+BAG:tenko1 remove Rada cấp 9 lydo: Mặc cho đệ tử at 03/11/2023 4:30 PM
+BAG:tenko1 remove 1xĐậu thần cấp 8 lydo: Ăn đậu at 03/11/2023 4:30 PM
+BAG:tenko1 remove Hoa hồng đỏ lydo: Tự Xóa vật phẩm at 03/11/2023 4:31 PM
+BAG:tenko1 remove Hoa hồng vàng lydo: Tự Xóa vật phẩm at 03/11/2023 4:31 PM
+BAG:tenko1 remove 2xHoa hồng vàng lydo: Bán cho shop at 03/11/2023 4:32 PM
+BAG:tenko1 remove 1xNâng cấp kỹ năng 2 đệ tử lydo: Dùng sách kĩ năng đệ tử at 03/11/2023 4:32 PM
+BAG:tenko1 remove Hoa hồng vàng lydo: Tự Xóa vật phẩm at 03/11/2023 4:33 PM
+BAG:tenko1 remove 1xHoa hồng xanh lydo: Bán cho shop at 03/11/2023 4:33 PM
+BAG:tenko1 remove 1xNâng cấp kỹ năng 2 đệ tử lydo: Dùng sách kĩ năng đệ tử at 03/11/2023 4:33 PM
+BAG:tenko1 remove 1xNâng cấp kỹ năng 2 đệ tử lydo: Dùng sách kĩ năng đệ tử at 03/11/2023 4:33 PM
+BAG:tenko1 remove 1xNâng cấp kỹ năng 2 đệ tử lydo: Dùng sách kĩ năng đệ tử at 03/11/2023 4:33 PM
+BAG:tenko1 remove 1xNâng cấp kỹ năng 2 đệ tử lydo: Dùng sách kĩ năng đệ tử at 03/11/2023 4:33 PM
+BAG:tenko1 remove 1xNâng cấp kỹ năng 2 đệ tử lydo: Dùng sách kĩ năng đệ tử at 03/11/2023 4:33 PM
+BAG:tenko1 remove 1xĐậu thần cấp 8 lydo: Ăn đậu at 03/11/2023 4:34 PM
+BAG:tenko1 remove 1xĐậu thần cấp 8 lydo: Ăn đậu at 03/11/2023 4:34 PM
+BAG:tenko1 remove Đá thạch anh tím lydo: Cất vào rương at 03/11/2023 4:35 PM
+BAG:tenko1 remove Đá lục bảo lydo: Cất vào rương at 03/11/2023 4:35 PM
+BAG:tenko1 remove Đá Titan lydo: Cất vào rương at 03/11/2023 4:35 PM
+BAG:tenko1 remove Đá Saphia lydo: Cất vào rương at 03/11/2023 4:35 PM
+BAG:tenko1 remove Đá Ruby lydo: Cất vào rương at 03/11/2023 4:35 PM
+BAG:tenko1 remove Ngọc Rồng 4 sao lydo: Cất vào rương at 03/11/2023 4:35 PM
+BAG:tenko1 remove 1xÁo siêu xayda lydo: Bán cho shop at 03/11/2023 4:36 PM
+BAG:tenko1 remove 1xĐậu thần cấp 8 lydo: Ăn đậu at 03/11/2023 4:39 PM
+BAG:tenko1 remove 1xĐậu thần cấp 8 lydo: Ăn đậu at 03/11/2023 4:40 PM
+BAG:tenko1 remove 1xĐậu thần cấp 8 lydo: Ăn đậu at 03/11/2023 4:42 PM
+BAG:tenko1 remove 1xĐậu thần cấp 8 lydo: Ăn đậu at 03/11/2023 4:43 PM
+BAG:tenko1 remove 1xĐậu thần cấp 8 lydo: Ăn đậu at 03/11/2023 4:45 PM
+BAG:tenko1 remove Hoa hồng đỏ lydo: Tự Xóa vật phẩm at 03/11/2023 4:46 PM
+BAG:tenko1 remove Hoa hồng xanh lydo: Tự Xóa vật phẩm at 03/11/2023 4:46 PM
+BAG:tenko1 remove Cải Trang Thần Zeno Namec lydo: Mặc cho đệ tử at 03/11/2023 4:47 PM
+BAG:tenko1 remove 1xĐậu thần cấp 8 lydo: Ăn đậu at 03/11/2023 4:48 PM
+BAG:tenko1 remove 1xĐậu thần cấp 8 lydo: Ăn đậu at 03/11/2023 4:49 PM
+BAG:tenko1 remove 1xĐậu thần cấp 8 lydo: Ăn đậu at 03/11/2023 4:49 PM
+BAG:tenko1 remove 1xĐậu thần cấp 8 lydo: Ăn đậu at 03/11/2023 4:52 PM
+BAG:tenko1 remove 1xĐậu thần cấp 8 lydo: Ăn đậu at 03/11/2023 5:02 PM
+BAG:tenko1 remove 1xĐậu thần cấp 8 lydo: Ăn đậu at 03/11/2023 5:03 PM
+BAG:tenko1 remove 1xGiáp tập luyện cấp 1 lydo: Bán cho shop at 03/11/2023 5:05 PM
+BAG:tenko1 remove Giáp tập luyện cấp 1 lydo: Tự Xóa vật phẩm at 03/11/2023 5:07 PM
+BAG:tenko1 remove Giáp tập luyện cấp 1 lydo: Tự Xóa vật phẩm at 03/11/2023 5:07 PM
+BAG:tenko1 remove Giáp tập luyện cấp 1 lydo: Tự Xóa vật phẩm at 03/11/2023 5:07 PM
+BAG:tenko1 remove Giáp tập luyện cấp 1 lydo: Tự Xóa vật phẩm at 03/11/2023 5:08 PM
+BAG:tenko1 remove Giáp tập luyện cấp 1 lydo: Tự Xóa vật phẩm at 03/11/2023 5:08 PM
+BAG:tenko1 remove Giáp tập luyện cấp 1 lydo: Tự Xóa vật phẩm at 03/11/2023 5:08 PM
+BAG:tenko1 remove Giáp tập luyện cấp 1 lydo: Tự Xóa vật phẩm at 03/11/2023 5:08 PM
+BAG:tenko1 remove 1xThỏi vàng lydo: Bán cho shop at 03/11/2023 5:08 PM
+BAG:tenko1 remove 1xThỏi vàng lydo: Bán cho shop at 03/11/2023 5:08 PM
+BAG:tenko1 remove 1xĐậu thần cấp 8 lydo: Ăn đậu at 03/11/2023 5:11 PM
+BAG:tenko1 remove 1xĐậu thần cấp 8 lydo: Ăn đậu at 03/11/2023 5:24 PM
+BAG:tenko1 remove 1xĐậu thần cấp 8 lydo: Ăn đậu at 03/11/2023 5:37 PM
+BAG:tenko1 remove Cải Trang Thần Zeno Namec lydo: Mặc cho đệ tử at 03/11/2023 5:40 PM
+BAG:tenko1 remove 1xGiày siêu Xayda lydo: Bán cho shop at 03/11/2023 5:41 PM
+BAG:tenko1 remove 1xRada cấp 9 lydo: Bán cho shop at 03/11/2023 5:41 PM
+BAG:tenko1 remove 1xGăng lông đỏ lydo: Bán cho shop at 03/11/2023 5:41 PM
+BAG:tenko1 remove 1xQuần siêu Xayda lydo: Bán cho shop at 03/11/2023 5:41 PM
+BAG:tenko1 remove 1xÁo siêu xayda lydo: Bán cho shop at 03/11/2023 5:41 PM
+BAG:tenko1 remove 2xHoa hồng vàng lydo: Bán cho shop at 03/11/2023 5:41 PM
+BAG:tenko1 remove Giày lông Xayda lydo: Mặc cho đệ tử at 03/11/2023 5:42 PM
+BAG:tenko1 remove Rada cấp 6 lydo: Mặc cho đệ tử at 03/11/2023 5:43 PM
+BAG:tenko1 remove Găng bạc lydo: Mặc cho đệ tử at 03/11/2023 5:43 PM
+BAG:tenko1 remove Áo giáp vàng lydo: Mặc cho đệ tử at 03/11/2023 5:43 PM
+BAG:tenko1 remove Quần lông Xayda lydo: Tự Xóa vật phẩm at 03/11/2023 5:43 PM
+BAG:tenko1 remove Quần giáp vàng lydo: Mặc cho đệ tử at 03/11/2023 5:43 PM
+BAG:tenko1 remove 1xĐậu thần cấp 8 lydo: Ăn đậu at 03/11/2023 5:45 PM
+BAG:tenko1 remove 1xĐậu thần cấp 8 lydo: Ăn đậu at 03/11/2023 5:45 PM
+BAG:tenko1 remove 1xĐậu thần cấp 8 lydo: Ăn đậu at 03/11/2023 5:45 PM
+BAG:tenko1 remove 1xĐậu thần cấp 8 lydo: Ăn đậu at 03/11/2023 5:46 PM
+BAG:tenko1 remove 1xĐậu thần cấp 8 lydo: Ăn đậu at 03/11/2023 5:46 PM
+BAG:tenko1 remove 1xĐậu thần cấp 8 lydo: Ăn đậu at 03/11/2023 5:46 PM
+BAG:tenko1 remove 1xĐậu thần cấp 8 lydo: Ăn đậu at 03/11/2023 5:48 PM
+BAG:tenko1 remove 1xĐậu thần cấp 8 lydo: Ăn đậu at 03/11/2023 5:48 PM
+BAG:tenko1 remove 1xĐậu thần cấp 8 lydo: Ăn đậu at 03/11/2023 5:48 PM
+BAG:tenko1 remove 1xĐậu thần cấp 8 lydo: Ăn đậu at 03/11/2023 5:49 PM
+BAG:tenko1 remove 1xĐậu thần cấp 8 lydo: Ăn đậu at 03/11/2023 5:49 PM
+BAG:tenko1 remove 1xĐậu thần cấp 8 lydo: Ăn đậu at 03/11/2023 5:49 PM
+BAG:tenko1 remove 1xĐậu thần cấp 7 lydo: Ăn đậu at 03/11/2023 5:51 PM
+BAG:tenko1 remove 1xĐậu thần cấp 7 lydo: Ăn đậu at 03/11/2023 5:51 PM
+BAG:tenko1 remove 1xĐậu thần cấp 7 lydo: Ăn đậu at 03/11/2023 5:51 PM
+BAG:tenko1 remove 1xĐậu thần cấp 7 lydo: Ăn đậu at 03/11/2023 5:52 PM
+BAG:tenko1 remove 1xĐậu thần cấp 7 lydo: Ăn đậu at 03/11/2023 5:52 PM
+BAG:tenko1 remove 1xĐậu thần cấp 7 lydo: Ăn đậu at 03/11/2023 5:52 PM
+BAG:tenko1 remove 1xĐậu thần cấp 7 lydo: Ăn đậu at 03/11/2023 5:53 PM
+BAG:tenko1 remove 1xĐậu thần cấp 7 lydo: Ăn đậu at 03/11/2023 5:53 PM
+BAG:tenko1 remove 1xĐậu thần cấp 7 lydo: Ăn đậu at 03/11/2023 5:53 PM
+BAG:tenko1 remove 1xĐậu thần cấp 7 lydo: Ăn đậu at 03/11/2023 5:54 PM
+BAG:tenko1 remove 1xĐậu thần cấp 7 lydo: Ăn đậu at 03/11/2023 5:54 PM
+BAG:tenko1 remove 1xĐậu thần cấp 7 lydo: Ăn đậu at 03/11/2023 6:15 PM
+BAG:tenko1 remove 1xĐậu thần cấp 7 lydo: Ăn đậu at 03/11/2023 6:27 PM
+BAG:tenko1 remove 1xĐậu thần cấp 7 lydo: Ăn đậu at 03/11/2023 6:39 PM
+BAG:tenko1 remove 1xĐậu thần cấp 7 lydo: Ăn đậu at 03/11/2023 6:50 PM
+BAG:tenko1 remove 1xĐậu thần cấp 7 lydo: Ăn đậu at 03/11/2023 7:02 PM
+BAG:tenko1 remove 1xĐậu thần cấp 7 lydo: Ăn đậu at 03/11/2023 7:04 PM
+BAG:tenko1 remove 1xNâng cấp kỹ năng 1 đệ tử lydo: Dùng sách kĩ năng đệ tử at 03/11/2023 7:08 PM
+BAG:tenko1 remove 1xNâng cấp kỹ năng 1 đệ tử lydo: Dùng sách kĩ năng đệ tử at 03/11/2023 7:08 PM
+BAG:tenko1 remove 1xNâng cấp kỹ năng 1 đệ tử lydo: Dùng sách kĩ năng đệ tử at 03/11/2023 7:08 PM
+BAG:tenko1 remove 1xNâng cấp kỹ năng 1 đệ tử lydo: Dùng sách kĩ năng đệ tử at 03/11/2023 7:08 PM
+BAG:tenko1 remove 1xNâng cấp kỹ năng 1 đệ tử lydo: Dùng sách kĩ năng đệ tử at 03/11/2023 7:08 PM
+BAG:tenko1 remove 1xNâng cấp kỹ năng 1 đệ tử lydo: Dùng sách kĩ năng đệ tử at 03/11/2023 7:08 PM
+BAG:tenko1 remove 1xĐậu thần cấp 7 lydo: Ăn đậu at 03/11/2023 7:25 PM
+BAG:tenko1 remove 1xĐậu thần cấp 7 lydo: Ăn đậu at 03/11/2023 7:26 PM
+BAG:tenko1 remove 1xĐậu thần cấp 7 lydo: Ăn đậu at 03/11/2023 7:31 PM
+BAG:tenko1 remove 1xĐậu thần cấp 7 lydo: Ăn đậu at 03/11/2023 8:03 PM
+BAG:tenko1 remove 1xĐậu thần cấp 7 lydo: Ăn đậu at 03/11/2023 8:03 PM
+BAG:tenko1 remove 1xĐậu thần cấp 7 lydo: Ăn đậu at 03/11/2023 8:03 PM
+BAG:tenko1 remove 1xĐậu thần cấp 7 lydo: Ăn đậu at 03/11/2023 8:04 PM
+BAG:tenko1 remove 1xĐậu thần cấp 7 lydo: Ăn đậu at 03/11/2023 8:04 PM
+BAG:tenko1 remove Đá thạch anh tím lydo: Cất vào rương at 03/11/2023 8:12 PM
+BAG:tenko1 remove Đá Titan lydo: Cất vào rương at 03/11/2023 8:12 PM
+BAG:tenko1 remove Đá lục bảo lydo: Cất vào rương at 03/11/2023 8:12 PM
+BAG:tenko1 remove Hoa hồng xanh lydo: Cất vào rương at 03/11/2023 8:12 PM
+BAG:tenko1 remove Hoa hồng vàng lydo: Cất vào rương at 03/11/2023 8:12 PM
+BAG:tenko1 remove Hoa hồng đỏ lydo: Cất vào rương at 03/11/2023 8:12 PM
+BAG:tenko1 remove Ngọc Rồng 6 sao lydo: Cất vào rương at 03/11/2023 8:12 PM
+BAG:tenko1 remove Ngọc Rồng 5 sao lydo: Cất vào rương at 03/11/2023 8:12 PM
+BAG:tenko1 remove Hoa hồng vàng lydo: Cất vào rương at 03/11/2023 8:12 PM
+BAG:tenko1 remove 1xĐậu thần cấp 7 lydo: Ăn đậu at 03/11/2023 8:14 PM
+BAG:tenko1 remove 1xĐậu thần cấp 7 lydo: Ăn đậu at 03/11/2023 8:17 PM
+BAG:tenko1 remove 1xĐậu thần cấp 7 lydo: Ăn đậu at 03/11/2023 8:18 PM
+BAG:tenko1 remove 1xĐậu thần cấp 7 lydo: Ăn đậu at 03/11/2023 8:19 PM
+BAG:tenko1 remove 1xĐậu thần cấp 7 lydo: Ăn đậu at 03/11/2023 8:20 PM
+BAG:tenko1 remove 1xĐậu thần cấp 7 lydo: Ăn đậu at 03/11/2023 8:21 PM
+BAG:tenko1 remove Hoa hồng đỏ lydo: Tự Xóa vật phẩm at 03/11/2023 8:22 PM
+BAG:tenko1 remove 1xĐậu thần cấp 7 lydo: Ăn đậu at 03/11/2023 8:26 PM
+BAG:tenko1 remove 1xĐậu thần cấp 7 lydo: Ăn đậu at 03/11/2023 8:28 PM

@@ -1,0 +1,12 @@
+BAG:denis add 1xNâng cấp kỹ năng 1 đệ tử lydo: Mua từ cửa hàng at 03/12/2023 10:07 AM
+BAG:denis add 10xĐậu thần cấp 5 lydo: Thu hoạch đậu at 03/12/2023 10:08 AM
+BAG:denis add 1xBó hoa hồng đỏ lydo: Đổi bó hoa hồng đỏ at 03/12/2023 10:08 AM
+BAG:denis add 1xGăng võ Kame lydo: Mua từ cửa hàng at 03/12/2023 10:08 AM
+BAG:denis add 1xCT Genma 02 lydo: Lấy từ body đệ vào hành trang at 03/12/2023 10:09 AM
+BAG:denis add 1xCT Genma 02 lydo: Lấy từ body đệ vào hành trang at 03/12/2023 1:57 PM
+BAG:denis add 86xHoa hồng xanh (old: 85) lydo: Nhặt từ map at 03/12/2023 1:58 PM
+BAG:denis add 87xHoa hồng xanh (old: 86) lydo: Nhặt từ map at 03/12/2023 1:58 PM
+BAG:denis add 1xĐổi đệ tử lydo: Mua từ cửa hàng at 03/12/2023 1:58 PM
+BAG:denis add 1xĐổi đệ tử lydo: Mua từ cửa hàng at 03/12/2023 1:58 PM
+BAG:denis add 2xĐổi đệ tử (old: 1) lydo: Mua từ cửa hàng at 03/12/2023 1:58 PM
+BAG:denis add 3xĐổi đệ tử (old: 2) lydo: Mua từ cửa hàng at 03/12/2023 1:58 PM

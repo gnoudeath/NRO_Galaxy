@@ -1,0 +1,40 @@
+BAG:galaxytest add 1xRada cấp 1 lydo: Lấy từ rương qua người at 03/11/2023 9:03 AM
+BAG:galaxytest add 150xThỏi vàng lydo: Giftcode at 03/11/2023 9:03 AM
+BAG:galaxytest add 99xNgọc Rồng 3 sao lydo: Giftcode at 03/11/2023 9:03 AM
+BAG:galaxytest add 10xĐậu thần cấp 5 lydo: Thu hoạch đậu at 03/11/2023 9:08 AM
+BAG:galaxytest add 26xĐậu thần cấp 5 (old: 10) lydo: Lấy từ rương qua người at 03/11/2023 9:08 AM
+BAG:galaxytest add 1xHoa hồng vàng lydo: Nhặt từ map at 03/11/2023 9:09 AM
+BAG:galaxytest add 1xQuần vải đen lydo: Nhặt từ map at 03/11/2023 9:09 AM
+BAG:galaxytest add 1xĐá lục bảo lydo: Nhặt từ map at 03/11/2023 9:09 AM
+BAG:galaxytest add 1xQuần vải đen lydo: Nhặt từ map at 03/11/2023 9:10 AM
+BAG:galaxytest add 2xHoa hồng vàng (old: 1) lydo: Nhặt từ map at 03/11/2023 9:11 AM
+BAG:galaxytest add 1xĐá Titan lydo: Nhặt từ map at 03/11/2023 9:11 AM
+BAG:galaxytest add 1xHoa hồng đỏ lydo: Nhặt từ map at 03/11/2023 9:11 AM
+BAG:galaxytest add 3xHoa hồng vàng (old: 2) lydo: Nhặt từ map at 03/11/2023 9:12 AM
+BAG:galaxytest add 2xHoa hồng đỏ (old: 1) lydo: Nhặt từ map at 03/11/2023 9:13 AM
+BAG:galaxytest add 1xĐá Saphia lydo: Nhặt từ map at 03/11/2023 9:13 AM
+BAG:galaxytest add 1xRada cấp 1 lydo: Nhặt từ map at 03/11/2023 9:13 AM
+BAG:galaxytest add 1xGăng vải đen lydo: Nhặt từ map at 03/11/2023 9:14 AM
+BAG:galaxytest add 1xHoa hồng xanh lydo: Nhặt từ map at 03/11/2023 9:14 AM
+BAG:galaxytest add 3xHoa hồng đỏ (old: 2) lydo: Nhặt từ map at 03/11/2023 9:14 AM
+BAG:galaxytest add 1xRada cấp 1 lydo: Nhặt từ map at 03/11/2023 9:14 AM
+BAG:galaxytest add 2xHoa hồng xanh (old: 1) lydo: Nhặt từ map at 03/11/2023 9:15 AM
+BAG:galaxytest add 4xHoa hồng đỏ (old: 3) lydo: Nhặt từ map at 03/11/2023 9:15 AM
+BAG:galaxytest add 1xMảnh Khủng long lydo: Nhặt từ map at 03/11/2023 9:15 AM
+BAG:galaxytest add 5xHoa hồng đỏ (old: 4) lydo: Nhặt từ map at 03/11/2023 9:15 AM
+BAG:galaxytest add 4xHoa hồng vàng (old: 3) lydo: Nhặt từ map at 03/11/2023 9:15 AM
+BAG:galaxytest add 1xViên Capsule đặc biệt lydo: Mua từ cửa hàng at 03/11/2023 9:15 AM
+BAG:galaxytest add 1xSách đấm Dragon lv2 lydo: Mua từ cửa hàng at 03/11/2023 9:16 AM
+BAG:galaxytest add 1xSách đấm Dragon lv3 lydo: Mua từ cửa hàng at 03/11/2023 9:16 AM
+BAG:galaxytest add 6xHoa hồng đỏ (old: 5) lydo: Nhặt từ map at 03/11/2023 9:17 AM
+BAG:galaxytest add 3xHoa hồng xanh (old: 2) lydo: Nhặt từ map at 03/11/2023 9:17 AM
+BAG:galaxytest add 4xHoa hồng xanh (old: 3) lydo: Nhặt từ map at 03/11/2023 9:18 AM
+BAG:galaxytest add 1xCải trang Chill cấp 2 lydo: Mua từ cửa hàng at 03/11/2023 9:18 AM
+BAG:galaxytest add 1xCải trang Chill cấp 2 lydo: Mua từ cửa hàng at 03/11/2023 9:18 AM
+BAG:galaxytest add 5xHoa hồng vàng (old: 4) lydo: Nhặt từ map at 03/11/2023 9:18 AM
+BAG:galaxytest add 1xTự động luyện tập lydo: Mua TDTL từ cửa hàng at 03/11/2023 9:18 AM
+BAG:galaxytest add 1xGăng vải đen lydo: Nhặt từ map at 03/11/2023 9:20 AM
+BAG:galaxytest add 7xHoa hồng đỏ (old: 6) lydo: Nhặt từ map at 03/11/2023 9:20 AM
+BAG:galaxytest add 2xĐá Saphia (old: 1) lydo: Nhặt từ map at 03/11/2023 9:20 AM
+BAG:galaxytest add 6xHoa hồng vàng (old: 5) lydo: Nhặt từ map at 03/11/2023 9:20 AM
+BAG:galaxytest add 1xRada cấp 1 lydo: Nhặt từ map at 03/11/2023 9:20 AM

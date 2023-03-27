@@ -1,0 +1,123 @@
+BAG:huyha3052 add 1xTự động luyện tập lydo: Mua TDTL từ cửa hàng at 03/11/2023 12:08 PM
+BAG:huyha3052 add 9xĐậu thần cấp 3 lydo: Thu hoạch đậu at 03/11/2023 12:16 PM
+BAG:huyha3052 add 1xĐậu thần cấp 10 lydo: Thu hoạch đậu at 03/11/2023 12:17 PM
+BAG:huyha3052 add 21xĐậu thần cấp 10 lydo: Lấy từ rương qua người at 03/11/2023 12:17 PM
+BAG:huyha3052 add 9xĐậu thần cấp 3 lydo: Lấy từ rương qua người at 03/11/2023 12:17 PM
+BAG:huyha3052 add 40xĐậu thần cấp 10 (old: 20) lydo: Lấy từ rương qua người at 03/11/2023 12:17 PM
+BAG:huyha3052 add 2xHoa hồng xanh (old: 1) lydo: Nhặt từ map at 03/11/2023 12:17 PM
+BAG:huyha3052 add 3xHoa hồng xanh (old: 2) lydo: Nhặt từ map at 03/11/2023 12:18 PM
+BAG:huyha3052 add 1xHoa hồng vàng lydo: Nhặt từ map at 03/11/2023 12:18 PM
+BAG:huyha3052 add 1xGăng vải thô lydo: Nhặt từ map at 03/11/2023 12:18 PM
+BAG:huyha3052 add 2xHoa hồng vàng (old: 1) lydo: Nhặt từ map at 03/11/2023 12:18 PM
+BAG:huyha3052 add 3xHoa hồng vàng (old: 2) lydo: Nhặt từ map at 03/11/2023 12:18 PM
+BAG:huyha3052 add 4xHoa hồng vàng (old: 3) lydo: Nhặt từ map at 03/11/2023 12:18 PM
+BAG:huyha3052 add 5xHoa hồng vàng (old: 4) lydo: Nhặt từ map at 03/11/2023 12:18 PM
+BAG:huyha3052 add 6xHoa hồng vàng (old: 5) lydo: Nhặt từ map at 03/11/2023 12:19 PM
+BAG:huyha3052 add 7xHoa hồng vàng (old: 6) lydo: Nhặt từ map at 03/11/2023 12:19 PM
+BAG:huyha3052 add 1xHoa hồng đỏ lydo: Nhặt từ map at 03/11/2023 12:19 PM
+BAG:huyha3052 add 1xQuần vải thô lydo: Nhặt từ map at 03/11/2023 12:19 PM
+BAG:huyha3052 add 4xHoa hồng xanh (old: 3) lydo: Nhặt từ map at 03/11/2023 12:19 PM
+BAG:huyha3052 add 1xGiầy vải thô lydo: Nhặt từ map at 03/11/2023 12:19 PM
+BAG:huyha3052 add 1xĐá thạch anh tím lydo: Nhặt từ map at 03/11/2023 12:19 PM
+BAG:huyha3052 add 8xHoa hồng vàng (old: 7) lydo: Nhặt từ map at 03/11/2023 12:19 PM
+BAG:huyha3052 add 2xHoa hồng đỏ (old: 1) lydo: Nhặt từ map at 03/11/2023 12:19 PM
+BAG:huyha3052 add 3xHoa hồng đỏ (old: 2) lydo: Nhặt từ map at 03/11/2023 12:19 PM
+BAG:huyha3052 add 9xHoa hồng vàng (old: 8) lydo: Nhặt từ map at 03/11/2023 12:19 PM
+BAG:huyha3052 add 10xHoa hồng vàng (old: 9) lydo: Nhặt từ map at 03/11/2023 12:19 PM
+BAG:huyha3052 add 4xHoa hồng đỏ (old: 3) lydo: Nhặt từ map at 03/11/2023 12:19 PM
+BAG:huyha3052 add 11xHoa hồng vàng (old: 10) lydo: Nhặt từ map at 03/11/2023 12:19 PM
+BAG:huyha3052 add 12xHoa hồng vàng (old: 11) lydo: Nhặt từ map at 03/11/2023 12:19 PM
+BAG:huyha3052 add 13xHoa hồng vàng (old: 12) lydo: Nhặt từ map at 03/11/2023 12:19 PM
+BAG:huyha3052 add 14xHoa hồng vàng (old: 13) lydo: Nhặt từ map at 03/11/2023 12:19 PM
+BAG:huyha3052 add 5xHoa hồng đỏ (old: 4) lydo: Nhặt từ map at 03/11/2023 12:20 PM
+BAG:huyha3052 add 6xHoa hồng đỏ (old: 5) lydo: Nhặt từ map at 03/11/2023 12:21 PM
+BAG:huyha3052 add 5xHoa hồng xanh (old: 4) lydo: Nhặt từ map at 03/11/2023 12:21 PM
+BAG:huyha3052 add 6xHoa hồng xanh (old: 5) lydo: Nhặt từ map at 03/11/2023 12:21 PM
+BAG:huyha3052 add 7xHoa hồng đỏ (old: 6) lydo: Nhặt từ map at 03/11/2023 12:23 PM
+BAG:huyha3052 add 15xHoa hồng vàng (old: 14) lydo: Nhặt từ map at 03/11/2023 12:23 PM
+BAG:huyha3052 add 2xĐá thạch anh tím (old: 1) lydo: Nhặt từ map at 03/11/2023 12:23 PM
+BAG:huyha3052 add 16xHoa hồng vàng (old: 15) lydo: Nhặt từ map at 03/11/2023 12:24 PM
+BAG:huyha3052 add 1xGiáp tập luyện cấp 1 lydo: Mua từ cửa hàng at 03/11/2023 12:27 PM
+BAG:huyha3052 add 8xHoa hồng đỏ (old: 7) lydo: Nhặt từ map at 03/11/2023 12:27 PM
+BAG:huyha3052 add 1xGiáp tập luyện cấp 1 lydo: Mua từ cửa hàng at 03/11/2023 12:27 PM
+BAG:huyha3052 add 1xQuần vải thô lydo: Lấy từ body vào hành trang at 03/11/2023 12:27 PM
+BAG:huyha3052 add 17xHoa hồng vàng (old: 16) lydo: Nhặt từ map at 03/11/2023 12:27 PM
+BAG:huyha3052 add 1xÁo vải thô lydo: Lấy từ body vào hành trang at 03/11/2023 12:27 PM
+BAG:huyha3052 add 1xCải Trang Thần Zeno Xayda lydo: Lấy từ body vào hành trang at 03/11/2023 12:28 PM
+BAG:huyha3052 add 1xNezuko lydo: Mua từ bill at 03/11/2023 12:29 PM
+BAG:huyha3052 add 91xViên Capsule kì bí lydo: Lấy từ rương qua người at 03/11/2023 12:29 PM
+BAG:huyha3052 add 1xNâng cấp kỹ năng 1 đệ tử lydo: Mua từ cửa hàng at 03/11/2023 12:32 PM
+BAG:huyha3052 add 2xNâng cấp kỹ năng 1 đệ tử (old: 1) lydo: Mua từ cửa hàng at 03/11/2023 12:32 PM
+BAG:huyha3052 add 3xNâng cấp kỹ năng 1 đệ tử (old: 2) lydo: Mua từ cửa hàng at 03/11/2023 12:32 PM
+BAG:huyha3052 add 4xNâng cấp kỹ năng 1 đệ tử (old: 3) lydo: Mua từ cửa hàng at 03/11/2023 12:32 PM
+BAG:huyha3052 add 1xĐá lục bảo lydo: Nhặt từ map at 03/11/2023 12:32 PM
+BAG:huyha3052 add 5xNâng cấp kỹ năng 1 đệ tử (old: 4) lydo: Mua từ cửa hàng at 03/11/2023 12:32 PM
+BAG:huyha3052 add 6xNâng cấp kỹ năng 1 đệ tử (old: 5) lydo: Mua từ cửa hàng at 03/11/2023 12:32 PM
+BAG:huyha3052 add 1xNezuko lydo: Lấy từ body vào hành trang at 03/11/2023 12:33 PM
+BAG:huyha3052 add 18xHoa hồng vàng (old: 17) lydo: Nhặt từ map at 03/11/2023 12:34 PM
+BAG:huyha3052 add 7xHoa hồng xanh (old: 6) lydo: Nhặt từ map at 03/11/2023 12:35 PM
+BAG:huyha3052 add 1xCải trang Mabư Noel lydo: Mua từ cửa hàng at 03/11/2023 12:35 PM
+BAG:huyha3052 add 1xMảnh Quỷ đất mẹ lydo: Nhặt từ map at 03/11/2023 12:36 PM
+BAG:huyha3052 add 9xHoa hồng đỏ (old: 8) lydo: Nhặt từ map at 03/11/2023 12:37 PM
+BAG:huyha3052 add 8xHoa hồng xanh (old: 7) lydo: Nhặt từ map at 03/11/2023 12:37 PM
+BAG:huyha3052 add 1xCải trang mồn lèo lydo: Lấy từ lucky box at 03/11/2023 12:39 PM
+BAG:huyha3052 add 1xCT Genma 02 lydo: Lấy từ lucky box at 03/11/2023 12:40 PM
+BAG:huyha3052 add 19xHoa hồng vàng (old: 18) lydo: Nhặt từ map at 03/11/2023 12:40 PM
+BAG:huyha3052 add 2xĐá lục bảo (old: 1) lydo: Nhặt từ map at 03/11/2023 12:41 PM
+BAG:huyha3052 add 10xHoa hồng đỏ (old: 9) lydo: Nhặt từ map at 03/11/2023 12:41 PM
+BAG:huyha3052 add 9xHoa hồng xanh (old: 8) lydo: Nhặt từ map at 03/11/2023 12:41 PM
+BAG:huyha3052 add 1xĐá Saphia lydo: Nhặt từ map at 03/11/2023 12:42 PM
+BAG:huyha3052 add 1xCuồng nộ lydo: CSKB at 03/11/2023 12:42 PM
+BAG:huyha3052 add 1xBổ huyết lydo: CSKB at 03/11/2023 12:42 PM
+BAG:huyha3052 add 1xNgọc Rồng 6 sao lydo: Nhặt từ map at 03/11/2023 12:42 PM
+BAG:huyha3052 add 2xCuồng nộ (old: 1) lydo: CSKB at 03/11/2023 12:42 PM
+BAG:huyha3052 add 1xẨn danh lydo: CSKB at 03/11/2023 12:42 PM
+BAG:huyha3052 add 2xBổ huyết (old: 1) lydo: CSKB at 03/11/2023 12:42 PM
+BAG:huyha3052 add 2xẨn danh (old: 1) lydo: CSKB at 03/11/2023 12:42 PM
+BAG:huyha3052 add 3xẨn danh (old: 2) lydo: CSKB at 03/11/2023 12:42 PM
+BAG:huyha3052 add 3xCuồng nộ (old: 2) lydo: CSKB at 03/11/2023 12:42 PM
+BAG:huyha3052 add 4xCuồng nộ (old: 3) lydo: CSKB at 03/11/2023 12:42 PM
+BAG:huyha3052 add 1xBổ khí lydo: CSKB at 03/11/2023 12:42 PM
+BAG:huyha3052 add 4xẨn danh (old: 3) lydo: CSKB at 03/11/2023 12:42 PM
+BAG:huyha3052 add 5xCuồng nộ (old: 4) lydo: CSKB at 03/11/2023 12:42 PM
+BAG:huyha3052 add 10xHoa hồng xanh (old: 9) lydo: Nhặt từ map at 03/11/2023 12:42 PM
+BAG:huyha3052 add 6xCuồng nộ (old: 5) lydo: CSKB at 03/11/2023 12:42 PM
+BAG:huyha3052 add 5xẨn danh (old: 4) lydo: CSKB at 03/11/2023 12:42 PM
+BAG:huyha3052 add 6xẨn danh (old: 5) lydo: CSKB at 03/11/2023 12:43 PM
+BAG:huyha3052 add 7xẨn danh (old: 6) lydo: CSKB at 03/11/2023 12:43 PM
+BAG:huyha3052 add 11xHoa hồng đỏ (old: 10) lydo: Nhặt từ map at 03/11/2023 12:43 PM
+BAG:huyha3052 add 1xCT Genma 02 lydo: Lấy từ body đệ vào hành trang at 03/11/2023 12:43 PM
+BAG:huyha3052 add 12xHoa hồng đỏ (old: 11) lydo: Nhặt từ map at 03/11/2023 12:43 PM
+BAG:huyha3052 add 11xHoa hồng xanh (old: 10) lydo: Nhặt từ map at 03/11/2023 12:46 PM
+BAG:huyha3052 add 1xĐá Ruby lydo: Nhặt từ map at 03/11/2023 12:46 PM
+BAG:huyha3052 add 2xĐá Saphia (old: 1) lydo: Nhặt từ map at 03/11/2023 12:46 PM
+BAG:huyha3052 add 12xHoa hồng xanh (old: 11) lydo: Nhặt từ map at 03/11/2023 12:47 PM
+BAG:huyha3052 add 1xĐá Titan lydo: Nhặt từ map at 03/11/2023 12:47 PM
+BAG:huyha3052 add 20xHoa hồng vàng (old: 19) lydo: Nhặt từ map at 03/11/2023 12:47 PM
+BAG:huyha3052 add 13xHoa hồng xanh (old: 12) lydo: Nhặt từ map at 03/11/2023 12:49 PM
+BAG:huyha3052 add 14xHoa hồng xanh (old: 13) lydo: Nhặt từ map at 03/11/2023 12:49 PM
+BAG:huyha3052 add 13xHoa hồng đỏ (old: 12) lydo: Nhặt từ map at 03/11/2023 12:49 PM
+BAG:huyha3052 add 21xHoa hồng vàng (old: 20) lydo: Nhặt từ map at 03/11/2023 12:49 PM
+BAG:huyha3052 add 15xHoa hồng xanh (old: 14) lydo: Nhặt từ map at 03/11/2023 12:50 PM
+BAG:huyha3052 add 1xĐá thạch anh tím lydo: Nhặt từ map at 03/11/2023 12:50 PM
+BAG:huyha3052 add 16xHoa hồng xanh (old: 15) lydo: Nhặt từ map at 03/11/2023 12:50 PM
+BAG:huyha3052 add 22xHoa hồng vàng (old: 21) lydo: Nhặt từ map at 03/11/2023 12:50 PM
+BAG:huyha3052 add 2xĐá Titan (old: 1) lydo: Nhặt từ map at 03/11/2023 12:50 PM
+BAG:huyha3052 add 14xHoa hồng đỏ (old: 13) lydo: Nhặt từ map at 03/11/2023 12:51 PM
+BAG:huyha3052 add 15xHoa hồng đỏ (old: 14) lydo: Nhặt từ map at 03/11/2023 12:51 PM
+BAG:huyha3052 add 23xHoa hồng vàng (old: 22) lydo: Nhặt từ map at 03/11/2023 12:51 PM
+BAG:huyha3052 add 16xHoa hồng đỏ (old: 15) lydo: Nhặt từ map at 03/11/2023 12:51 PM
+BAG:huyha3052 add 24xHoa hồng vàng (old: 23) lydo: Nhặt từ map at 03/11/2023 12:52 PM
+BAG:huyha3052 add 17xHoa hồng đỏ (old: 16) lydo: Nhặt từ map at 03/11/2023 12:52 PM
+BAG:huyha3052 add 17xHoa hồng xanh (old: 16) lydo: Nhặt từ map at 03/11/2023 12:53 PM
+BAG:huyha3052 add 18xHoa hồng đỏ (old: 17) lydo: Nhặt từ map at 03/11/2023 12:53 PM
+BAG:huyha3052 add 99xViên Capsule kì bí lydo: Mua từ bill at 03/11/2023 12:55 PM
+BAG:huyha3052 add 1xBông tai Porata lydo: Mua từ cửa hàng at 03/11/2023 12:56 PM
+BAG:huyha3052 add 18xHoa hồng xanh (old: 17) lydo: Nhặt từ map at 03/11/2023 12:58 PM
+BAG:huyha3052 add 25xHoa hồng vàng (old: 24) lydo: Nhặt từ map at 03/11/2023 12:58 PM
+BAG:huyha3052 add 1xViên Capsule đặc biệt lydo: Mua từ cửa hàng at 03/11/2023 1:01 PM
+BAG:huyha3052 add 30xĐậu thần cấp 9 lydo: Mua từ cửa hàng at 03/11/2023 1:01 PM
+BAG:huyha3052 add 60xĐậu thần cấp 9 (old: 30) lydo: Mua từ cửa hàng at 03/11/2023 1:01 PM
+BAG:huyha3052 add 90xĐậu thần cấp 9 (old: 60) lydo: Mua từ cửa hàng at 03/11/2023 1:01 PM
+BAG:huyha3052 add 21xĐậu thần cấp 9 lydo: Mua từ cửa hàng at 03/11/2023 1:01 PM
+BAG:huyha3052 add 99xĐậu thần cấp 9 (old: 90) lydo: Mua từ cửa hàng at 03/11/2023 1:01 PM

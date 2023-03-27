@@ -1,0 +1,58 @@
+BAG:hahaakkka remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 03/12/2023 11:00 PM
+BAG:hahaakkka remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 03/12/2023 11:01 PM
+BAG:hahaakkka remove Rada cấp 1 lydo: Mặc vào người at 03/12/2023 11:03 PM
+BAG:hahaakkka remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 03/12/2023 11:03 PM
+BAG:hahaakkka remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 03/12/2023 11:07 PM
+BAG:hahaakkka remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 03/12/2023 11:07 PM
+BAG:hahaakkka remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 03/12/2023 11:10 PM
+BAG:hahaakkka remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 03/12/2023 11:10 PM
+BAG:hahaakkka remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 03/12/2023 11:11 PM
+BAG:hahaakkka remove 1xĐậu thần cấp 1 lydo: Ăn đậu at 03/12/2023 11:11 PM
+BAG:hahaakkka remove 1xĐậu thần cấp 2 lydo: Ăn đậu at 03/12/2023 11:12 PM
+BAG:hahaakkka remove 1xĐậu thần cấp 2 lydo: Ăn đậu at 03/12/2023 11:12 PM
+BAG:hahaakkka remove 1xĐậu thần cấp 2 lydo: Ăn đậu at 03/12/2023 11:12 PM
+BAG:hahaakkka remove 1xĐậu thần cấp 2 lydo: Ăn đậu at 03/12/2023 11:14 PM
+BAG:hahaakkka remove 1xĐậu thần cấp 2 lydo: Ăn đậu at 03/12/2023 11:15 PM
+BAG:hahaakkka remove 1xĐậu thần cấp 2 lydo: Ăn đậu at 03/12/2023 11:15 PM
+BAG:hahaakkka remove 1xĐậu thần cấp 2 lydo: Ăn đậu at 03/12/2023 11:15 PM
+BAG:hahaakkka remove 1xĐậu thần cấp 2 lydo: Ăn đậu at 03/12/2023 11:16 PM
+BAG:hahaakkka remove 1xĐậu thần cấp 2 lydo: Ăn đậu at 03/12/2023 11:17 PM
+BAG:hahaakkka remove Cải trang Mabư Noel lydo: Mặc vào người at 03/12/2023 11:22 PM
+BAG:hahaakkka remove Cải trang Gohan Bư lydo: Tự Xóa vật phẩm at 03/12/2023 11:22 PM
+BAG:hahaakkka remove Cải trang Nobita lydo: Mặc cho đệ tử at 03/12/2023 11:23 PM
+BAG:hahaakkka remove Cải trang Nobita lydo: Tự Xóa vật phẩm at 03/12/2023 11:23 PM
+BAG:hahaakkka remove 1xĐậu thần cấp 2 lydo: Ăn đậu at 03/12/2023 11:24 PM
+BAG:hahaakkka remove 1xĐậu thần cấp 2 lydo: Ăn đậu at 03/12/2023 11:25 PM
+BAG:hahaakkka remove 1xĐậu thần cấp 2 lydo: Ăn đậu at 03/12/2023 11:25 PM
+BAG:hahaakkka remove 1xĐậu thần cấp 2 lydo: Ăn đậu at 03/12/2023 11:25 PM
+BAG:hahaakkka remove 1xĐậu thần cấp 3 lydo: Ăn đậu at 03/12/2023 11:25 PM
+BAG:hahaakkka remove 1xĐậu thần cấp 3 lydo: Ăn đậu at 03/12/2023 11:26 PM
+BAG:hahaakkka remove 1xĐậu thần cấp 3 lydo: Ăn đậu at 03/12/2023 11:26 PM
+BAG:hahaakkka remove 1xĐậu thần cấp 3 lydo: Ăn đậu at 03/12/2023 11:27 PM
+BAG:hahaakkka remove 1xĐậu thần cấp 3 lydo: Ăn đậu at 03/12/2023 11:29 PM
+BAG:hahaakkka remove Sách đấm Galick lv2 lydo: Sách kĩ năng at 03/12/2023 11:29 PM
+BAG:hahaakkka remove Sách đấm Galick lv3 lydo: Sách kĩ năng at 03/12/2023 11:29 PM
+BAG:hahaakkka remove Sách đấm Galick lv4 lydo: Sách kĩ năng at 03/12/2023 11:29 PM
+BAG:hahaakkka remove Sách đấm Galick lv5 lydo: Sách kĩ năng at 03/12/2023 11:29 PM
+BAG:hahaakkka remove Sách đấm Galick lv6 lydo: Sách kĩ năng at 03/12/2023 11:29 PM
+BAG:hahaakkka remove Sách đấm Galick lv7 lydo: Sách kĩ năng at 03/12/2023 11:30 PM
+BAG:hahaakkka remove Sách Antomic lv1 lydo: Sách kĩ năng at 03/12/2023 11:30 PM
+BAG:hahaakkka remove Sách Antomic lv2 lydo: Sách kĩ năng at 03/12/2023 11:30 PM
+BAG:hahaakkka remove Sách Antomic lv3 lydo: Sách kĩ năng at 03/12/2023 11:30 PM
+BAG:hahaakkka remove Sách đấm Galick lv4 lydo: Tự Xóa vật phẩm at 03/12/2023 11:30 PM
+BAG:hahaakkka remove Sách đấm Galick lv5 lydo: Tự Xóa vật phẩm at 03/12/2023 11:30 PM
+BAG:hahaakkka remove Sách đấm Galick lv6 lydo: Tự Xóa vật phẩm at 03/12/2023 11:30 PM
+BAG:hahaakkka remove Sách Antomic lv4 lydo: Sách kĩ năng at 03/12/2023 11:32 PM
+BAG:hahaakkka remove Sách Antomic lv5 lydo: Sách kĩ năng at 03/12/2023 11:32 PM
+BAG:hahaakkka remove Sách Antomic lv6 lydo: Sách kĩ năng at 03/12/2023 11:32 PM
+BAG:hahaakkka remove Sách Antomic lv7 lydo: Sách kĩ năng at 03/12/2023 11:32 PM
+BAG:hahaakkka remove Tái tạo năng lượng lv1 lydo: Sách kĩ năng at 03/12/2023 11:33 PM
+BAG:hahaakkka remove Tái tạo năng lượng lv2 lydo: Sách kĩ năng at 03/12/2023 11:33 PM
+BAG:hahaakkka remove Tái tạo năng lượng lv3 lydo: Sách kĩ năng at 03/12/2023 11:33 PM
+BAG:hahaakkka remove Tái tạo năng lượng lv4 lydo: Sách kĩ năng at 03/12/2023 11:33 PM
+BAG:hahaakkka remove Tái tạo năng lượng lv5 lydo: Sách kĩ năng at 03/12/2023 11:33 PM
+BAG:hahaakkka remove Tái tạo năng lượng lv6 lydo: Sách kĩ năng at 03/12/2023 11:33 PM
+BAG:hahaakkka remove Tái tạo năng lượng lv7 lydo: Sách kĩ năng at 03/12/2023 11:33 PM
+BAG:hahaakkka remove Ván bay VIP lydo: Tự Xóa vật phẩm at 03/12/2023 11:34 PM
+BAG:hahaakkka remove Ghế bay lydo: Tự Xóa vật phẩm at 03/12/2023 11:35 PM
+BAG:hahaakkka remove 1xĐậu thần cấp 3 lydo: Ăn đậu at 03/12/2023 11:38 PM

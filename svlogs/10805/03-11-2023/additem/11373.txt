@@ -1,0 +1,81 @@
+BAG:angel add 1xQuần vải thô lydo: Lấy từ rương qua người at 03/11/2023 4:08 PM
+BAG:angel add 1xÁo vải thô lydo: Lấy từ rương qua người at 03/11/2023 4:09 PM
+BAG:angel add 1xGăng vải thô lydo: Lấy từ rương qua người at 03/11/2023 4:09 PM
+BAG:angel add 1xGiầy vải thô lydo: Lấy từ rương qua người at 03/11/2023 4:09 PM
+BAG:angel add 1xTự động luyện tập lydo: Mua TDTL từ cửa hàng at 03/11/2023 4:11 PM
+BAG:angel add 29xHoa hồng xanh (old: 28) lydo: Nhặt từ map at 03/11/2023 4:12 PM
+BAG:angel add 1xGăng vải thô lydo: Lấy từ body vào hành trang at 03/11/2023 4:13 PM
+BAG:angel add 1xGăng vải thô lydo: Lấy từ body vào hành trang at 03/11/2023 4:15 PM
+BAG:angel add 1xRada cấp 1 lydo: Lấy từ body vào hành trang at 03/11/2023 4:17 PM
+BAG:angel add 1xQuần vải thô lydo: Lấy từ body vào hành trang at 03/11/2023 4:17 PM
+BAG:angel add 1xGiầy vải thô lydo: Lấy từ body vào hành trang at 03/11/2023 4:22 PM
+BAG:angel add 1xÁo vải thô lydo: Lấy từ body vào hành trang at 03/11/2023 4:22 PM
+BAG:angel add 39xHoa hồng vàng (old: 38) lydo: Nhặt từ map at 03/11/2023 4:33 PM
+BAG:angel add 1xRada cấp 1 lydo: Lấy từ body vào hành trang at 03/11/2023 4:34 PM
+BAG:angel add 30xHoa hồng xanh (old: 29) lydo: Nhặt từ map at 03/11/2023 4:34 PM
+BAG:angel add 1xGiầy vải thô lydo: Lấy từ body vào hành trang at 03/11/2023 4:34 PM
+BAG:angel add 1xQuần vải thô lydo: Lấy từ body vào hành trang at 03/11/2023 4:34 PM
+BAG:angel add 1xGăng vải thô lydo: Lấy từ body vào hành trang at 03/11/2023 4:34 PM
+BAG:angel add 1xÁo vải thô lydo: Lấy từ body vào hành trang at 03/11/2023 4:34 PM
+BAG:angel add 1xRada cấp 1 lydo: Lấy từ body đệ vào hành trang at 03/11/2023 4:34 PM
+BAG:angel add 40xHoa hồng vàng (old: 39) lydo: Nhặt từ map at 03/11/2023 4:35 PM
+BAG:angel add 33xHoa hồng đỏ (old: 32) lydo: Nhặt từ map at 03/11/2023 4:35 PM
+BAG:angel add 1xĐá lục bảo lydo: Nhặt từ map at 03/11/2023 4:35 PM
+BAG:angel add 31xHoa hồng xanh (old: 30) lydo: Nhặt từ map at 03/11/2023 4:35 PM
+BAG:angel add 41xHoa hồng vàng (old: 40) lydo: Nhặt từ map at 03/11/2023 4:35 PM
+BAG:angel add 32xHoa hồng xanh (old: 31) lydo: Nhặt từ map at 03/11/2023 4:36 PM
+BAG:angel add 42xHoa hồng vàng (old: 41) lydo: Nhặt từ map at 03/11/2023 4:36 PM
+BAG:angel add 33xHoa hồng xanh (old: 32) lydo: Nhặt từ map at 03/11/2023 4:36 PM
+BAG:angel add 1xĐá Titan lydo: Nhặt từ map at 03/11/2023 4:36 PM
+BAG:angel add 43xHoa hồng vàng (old: 42) lydo: Nhặt từ map at 03/11/2023 4:36 PM
+BAG:angel add 34xHoa hồng xanh (old: 33) lydo: Nhặt từ map at 03/11/2023 4:36 PM
+BAG:angel add 44xHoa hồng vàng (old: 43) lydo: Nhặt từ map at 03/11/2023 4:36 PM
+BAG:angel add 35xHoa hồng xanh (old: 34) lydo: Nhặt từ map at 03/11/2023 4:36 PM
+BAG:angel add 45xHoa hồng vàng (old: 44) lydo: Nhặt từ map at 03/11/2023 4:36 PM
+BAG:angel add 1xĐổi đệ tử lydo: Mua từ cửa hàng at 03/11/2023 4:39 PM
+BAG:angel add 2xĐổi đệ tử (old: 1) lydo: Mua từ cửa hàng at 03/11/2023 4:39 PM
+BAG:angel add 3xĐổi đệ tử (old: 2) lydo: Mua từ cửa hàng at 03/11/2023 4:39 PM
+BAG:angel add 4xĐổi đệ tử (old: 3) lydo: Mua từ cửa hàng at 03/11/2023 4:39 PM
+BAG:angel add 5xĐổi đệ tử (old: 4) lydo: Mua từ cửa hàng at 03/11/2023 4:39 PM
+BAG:angel add 1xNâng cấp kỹ năng 1 đệ tử lydo: Mua từ cửa hàng at 03/11/2023 4:39 PM
+BAG:angel add 2xNâng cấp kỹ năng 1 đệ tử (old: 1) lydo: Mua từ cửa hàng at 03/11/2023 4:39 PM
+BAG:angel add 3xNâng cấp kỹ năng 1 đệ tử (old: 2) lydo: Mua từ cửa hàng at 03/11/2023 4:39 PM
+BAG:angel add 4xNâng cấp kỹ năng 1 đệ tử (old: 3) lydo: Mua từ cửa hàng at 03/11/2023 4:39 PM
+BAG:angel add 5xNâng cấp kỹ năng 1 đệ tử (old: 4) lydo: Mua từ cửa hàng at 03/11/2023 4:39 PM
+BAG:angel add 6xNâng cấp kỹ năng 1 đệ tử (old: 5) lydo: Mua từ cửa hàng at 03/11/2023 4:39 PM
+BAG:angel add 1xRada cấp 1 lydo: Lấy từ body đệ vào hành trang at 03/11/2023 4:39 PM
+BAG:angel add 1xÁo vải thô lydo: Lấy từ body vào hành trang at 03/11/2023 4:41 PM
+BAG:angel add 1xRada cấp 1 lydo: Lấy từ body đệ vào hành trang at 03/11/2023 4:41 PM
+BAG:angel add 1xĐổi đệ tử lydo: Mua từ cửa hàng at 03/11/2023 4:41 PM
+BAG:angel add 2xĐổi đệ tử (old: 1) lydo: Mua từ cửa hàng at 03/11/2023 4:41 PM
+BAG:angel add 3xĐổi đệ tử (old: 2) lydo: Mua từ cửa hàng at 03/11/2023 4:41 PM
+BAG:angel add 4xĐổi đệ tử (old: 3) lydo: Mua từ cửa hàng at 03/11/2023 4:41 PM
+BAG:angel add 5xĐổi đệ tử (old: 4) lydo: Mua từ cửa hàng at 03/11/2023 4:41 PM
+BAG:angel add 1xĐổi đệ tử lydo: Mua từ cửa hàng at 03/11/2023 4:42 PM
+BAG:angel add 2xĐổi đệ tử (old: 1) lydo: Mua từ cửa hàng at 03/11/2023 4:43 PM
+BAG:angel add 3xĐổi đệ tử (old: 2) lydo: Mua từ cửa hàng at 03/11/2023 4:43 PM
+BAG:angel add 4xĐổi đệ tử (old: 3) lydo: Mua từ cửa hàng at 03/11/2023 4:43 PM
+BAG:angel add 5xĐổi đệ tử (old: 4) lydo: Mua từ cửa hàng at 03/11/2023 4:43 PM
+BAG:angel add 6xĐổi đệ tử (old: 5) lydo: Mua từ cửa hàng at 03/11/2023 4:43 PM
+BAG:angel add 1xĐổi đệ tử lydo: Mua từ cửa hàng at 03/11/2023 4:43 PM
+BAG:angel add 2xĐổi đệ tử (old: 1) lydo: Mua từ cửa hàng at 03/11/2023 4:43 PM
+BAG:angel add 3xĐổi đệ tử (old: 2) lydo: Mua từ cửa hàng at 03/11/2023 4:43 PM
+BAG:angel add 4xĐổi đệ tử (old: 3) lydo: Mua từ cửa hàng at 03/11/2023 4:43 PM
+BAG:angel add 5xĐổi đệ tử (old: 4) lydo: Mua từ cửa hàng at 03/11/2023 4:43 PM
+BAG:angel add 6xĐổi đệ tử (old: 5) lydo: Mua từ cửa hàng at 03/11/2023 4:43 PM
+BAG:angel add 7xĐổi đệ tử (old: 6) lydo: Mua từ cửa hàng at 03/11/2023 4:43 PM
+BAG:angel add 1xCải trang Chill cấp 2 lydo: Mua từ cửa hàng at 03/11/2023 4:43 PM
+BAG:angel add 1xCải trang Mabư Noel lydo: Mua từ cửa hàng at 03/11/2023 4:44 PM
+BAG:angel add 1xĐổi đệ tử lydo: Mua từ cửa hàng at 03/11/2023 4:46 PM
+BAG:angel add 2xĐổi đệ tử (old: 1) lydo: Mua từ cửa hàng at 03/11/2023 4:46 PM
+BAG:angel add 3xĐổi đệ tử (old: 2) lydo: Mua từ cửa hàng at 03/11/2023 4:46 PM
+BAG:angel add 4xĐổi đệ tử (old: 3) lydo: Mua từ cửa hàng at 03/11/2023 4:46 PM
+BAG:angel add 5xĐổi đệ tử (old: 4) lydo: Mua từ cửa hàng at 03/11/2023 4:46 PM
+BAG:angel add 6xĐổi đệ tử (old: 5) lydo: Mua từ cửa hàng at 03/11/2023 4:46 PM
+BAG:angel add 1xĐổi đệ tử lydo: Mua từ cửa hàng at 03/11/2023 4:47 PM
+BAG:angel add 2xĐổi đệ tử (old: 1) lydo: Mua từ cửa hàng at 03/11/2023 4:47 PM
+BAG:angel add 3xĐổi đệ tử (old: 2) lydo: Mua từ cửa hàng at 03/11/2023 4:47 PM
+BAG:angel add 4xĐổi đệ tử (old: 3) lydo: Mua từ cửa hàng at 03/11/2023 4:47 PM
+BAG:angel add 5xĐổi đệ tử (old: 4) lydo: Mua từ cửa hàng at 03/11/2023 4:47 PM
+BAG:angel add 6xĐổi đệ tử (old: 5) lydo: Mua từ cửa hàng at 03/11/2023 4:47 PM
+BAG:angel add 7xĐổi đệ tử (old: 6) lydo: Mua từ cửa hàng at 03/11/2023 4:47 PM

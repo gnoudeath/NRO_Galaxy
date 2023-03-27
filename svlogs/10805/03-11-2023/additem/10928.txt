@@ -1,0 +1,11 @@
+BAG:tuoiloz add 1xQuần sợi len lydo: Nhặt từ map at 03/11/2023 9:06 PM
+BAG:tuoiloz add 1xCải trang Hit lydo: Mua từ cửa hàng at 03/11/2023 9:07 PM
+BAG:tuoiloz add 15xHoa hồng đỏ (old: 14) lydo: Nhặt từ map at 03/11/2023 9:24 PM
+BAG:tuoiloz add 16xHoa hồng vàng (old: 15) lydo: Nhặt từ map at 03/11/2023 9:24 PM
+BAG:tuoiloz add 1xQuần sợi len lydo: Nhặt từ map at 03/11/2023 9:24 PM
+BAG:tuoiloz add 17xHoa hồng vàng (old: 16) lydo: Nhặt từ map at 03/11/2023 9:24 PM
+BAG:tuoiloz add 16xHoa hồng đỏ (old: 15) lydo: Nhặt từ map at 03/11/2023 9:25 PM
+BAG:tuoiloz add 18xHoa hồng vàng (old: 17) lydo: Nhặt từ map at 03/11/2023 9:25 PM
+BAG:tuoiloz add 1xĐổi đệ tử lydo: Mua từ cửa hàng at 03/11/2023 9:26 PM
+BAG:tuoiloz add 2xĐổi đệ tử (old: 1) lydo: Mua từ cửa hàng at 03/11/2023 9:26 PM
+BAG:tuoiloz add 3xĐổi đệ tử (old: 2) lydo: Mua từ cửa hàng at 03/11/2023 9:26 PM
